@@ -1,0 +1,1 @@
+<span class="{% if include.val>=0.9 %}valid{% else %}{% if include.val>=0.5 %}warning{% else %}invalid{% endif %}{% endif %}">{{ include.val | times:100 | round }} &percnt;</span>

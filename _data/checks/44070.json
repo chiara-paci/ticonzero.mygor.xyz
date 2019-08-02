@@ -1,0 +1,71 @@
+{
+    "author": {
+        "author_id": 33115,
+        "name": "andrea werner mondazzi",
+        "url": "https://www.writersdream.org/forum/profile/33115-andrea-werner-mondazzi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8922222222222222,
+        "weight": true
+    },
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8922222222222222
+            },
+            "text": [
+                [
+                    "Molto gradevole lo stile che, a mio giudizio, riesce ad apparire come uno stream of consciousness molto efficace, ancorch\u00e9 (o forse \"poich\u00e9\") snello.",
+                    "Sul contenuto, ammetto che la scorrevolezza con cui il racconto riesce ad impilare i mattoncini che alla fine disegnano la personalit\u00e0 della voce narrante alimenta l'aspettativa per un finale pi\u00f9 incisivo. In effetti, in conclusione ho sentito un po' la bocca asciutta, la mancanza di un colpo finale che rendesse il contrasto (anche timoroso, potenzialmente) tra l'epifania (nella sua voce avverto l'altra persona, \"desiderata\" o \"desiderabile\" aggiungerei) e la ritrosia a costruire rapporti personali (infatti la scelta di pagare con bonifico, asettica, configura una fuga da un rapporto di cui, magari inconsciamente, si avverte la paura).",
+                    "Grazie per averci proposto questo bel racconto, comunque. Spero le mie valutazioni ti forniscano stimoli utili."
+                ]
+            ],
+            "timestamp": "2019-07-31T11:22:46Z",
+            "title": "L'altra persona",
+            "url": "https://www.writersdream.org/forum/forums/topic/44026-laltra-persona//?do=findComment&comment=781181",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7994,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "text": [
+        "Lieta no, ma serena s\u00ec, serena riconosceva di sentirsi Marta, quel mattino in cui l'assenza di una famiglia propria, di figli, di amicizie vere o interessi diversi dal lavoro, agli occhi dei suoi gi\u00e0 oltrepassati quarantasette anni smisero di vestire i panni di un treno ormai perduto.",
+        "Sereno era quel mattino in cui, d'un tratto, essere incapace di concedere la bench\u00e9 minima misura alla propria dedizione per la professione infermieristica aveva smesso di pesare come una condanna comminata a lei che, beffardamente, s'era sempre ritrovata spoglia dell'apparente distacco emotivo, garanzia d'energia e resilienza, come le sembrava, per ognuno dei suoi colleghi di reparto.",
+        "S\u00ec, perch\u00e8 soltanto non aver qualcuno a casa ad aspettarti e chiedere di te, soltanto non aver motivo alcuno per non accettare sistematicamente straordinari e doppi turni, soltanto non essere minimamente capace di separare gli umori propri da quelli dei pazienti e solo non riconoscere una mansione nell'essere infermiere, ma una missione sacrificale, soltanto questo avrebbe consentito a qualcuno d'osservare Benedetta e Matilde, scorgendovi pezzi di carne trasfigurata in propria carne.",
+        "E soltanto cos\u00ec, infatti, aveva potuto Marta immergersi del tutto nel battesimale bagno di sofferenza cui la disgrazia aveva condannato le due bambine, permettendole ci\u00f2 di intuire finalmente il significato completo, sferico e sublime della propria esistenza.",
+        "Un significato giusto e serenamente desiderabile.",
+        "\"Perch\u00e9 non siamo morte anche noi due!\", lacrimosa aveva gridato, stridula, liquida e disperata, la voce di Benedetta, in ospedale, al risveglio in quel luttuoso nuovo universo, formatosi nel big bang di un incidente d'auto e inflazionatosi nel frangente quantisticamente inelaborabile dalla mente di un adulto, figurarsi da quella d'una seienne. \"Che ci stiamo ancora a fare qua noi due, senza mamma e pap\u00e0, e pure senza nonni!\", era stato il secondo acuminato stiletto conficcato nel cuore dell'empaticamente imbelle Marta, testimone del grido di dolore lanciato da quell'animuccia candida, indifesa e gi\u00e0 deflorata dall'indifferenza lacerante dell'increato.",
+        "E poi le sclerotiche di Matilde che, per il ribaltamento degli occhi dentro l'orbite, da settimane s'ostinavano a rifiutare anche il pi\u00f9 timido capolino a iridi e pupille, standosene belle esposte ad esaurire ogni spazio tra una e l'altra palpebra, tinte tutte di atro rosso, non interrompendo per un momento l'evocazione di chiss\u00e0 che severe conseguenze sarebbero discese dal trauma cranico in cui la quattrenne era incorsa. Come se il maciullamento di gambe e bacino alla piccola non fossero bastati.",
+        "Il cuore proprio, Marta comprendeva, aveva pompata vita da quasi dieci lustri solo per condurla a quell'incontro.",
+        "Il primo barlume d'intuizione era comparso il giorno in cui Benedetta aveva tentato con un cuscino di soffocare la sorellina. \"\u00c8 l'unica che mi rimane, devo fare qualcosa per lei\", aveva spiegato la bambina alla psicologa il giorno successivo, convincendo i medici fosse bene tenerle separate. \"A Matilde resto solo io, deve venire da mamma e pap\u00e0 con me!\", aveva protestato Benedetta poi, inducendo i medici a leggere, in quel suo comportamento, una compromessa regolazione emozionale, compatibile con diagnosi di disturbo post traumatico da stress.",
+        "Aveva consolidato la convinzione di riconoscervi il proprio destino in quell'incontro, l'infermiera Marta, quando al fatto che l'illesa Benedetta, orfana di tutto, propri sei anni compresi, fosse divenuta paziente psichiatrica, si era aggiunta la circostanza per cui, a un mese dal risveglio, Matilde permanesse in stato di marcato sarrimento e mai avesse chiesto della sorella, dei genitori, dei nonni, delle maestre o dei suoi amichetti alla scuola dell'infanzia. Il che lasciava indovinare, d'altronde, che il proprio stesso nome la piccola l'avesse dedotto, sentendosi cos\u00ec chiamata, e non ricordato.",
+        "Sole. Rimaste completamente sole al mondo erano Benedetta e Matilde, con spalle troppo giovani per sopportare l'improvvisa sottrazione dei genitori, per puro e violento caso avvenuta, come era emerso, dopo sole poche settimane da che gi\u00e0 i nonni, in circostanze simili, gli erano stati anzitempo strappati. Deprivate della famiglia tutta rimanevano, per bambini di tale et\u00e0 equivalendo ci\u00f2 a deprivazione d'ogni cosa, financo della sicurezza ferma che il suolo concede ai gravi. Squilibrio dell'una, amnesia e menomazione dell'altra, per di pi\u00f9, le condannavano a reciproco allontanamento, una affidata all'abbraccio di demoni che gli psichiatri avrebbero dovuto inventare come esorcizzare, l'altra a dolorosi anni di chirurgia e ad una seconda famiglia, adottiva, che avrebbe dovuto tentare di riempire i vuoti abissali lasciati dalla prima.",
+        "Chiaramente non per caso l'esistenza di Marta aveva avanzato, quindi, verso quel tragico proscenio, ma per naturale infatuazione tra destini complementari: quello delle sorelline, il cui niente ch'era rimasto 'si presto di ritrovarsi a stringere poteva altrimenti solamente chiamarsi inferno, e quello suo, sfiorita ormai e sola, a dividersi tra il diurno onnipressante presente e notturne interminabili purgatoriali riflessioni circa il significato della solitudine d'una cinquantenne.",
+        "A lei che, pur sacrificandosi del tutto, al bene d'altri non avrebbe sottratta s\u00e9 stessa, spettava farsi collante che ricomponesse i frantumi il fato aveva voluto di quelle vite. \"A chi, se non a me?\".",
+        "A Benedetta si era sforzata di restituire la fiducia che i cauti psicologi non potevano accordare, la tenerezza che gli altri oberati infermieri non potevano elargire, la prossimit\u00e0 che gli incamiciati medici non sapevano garantire. Non quale bambina dalla psiche compromessa, ma quale bambina dall'animo forte non aveva mai omesso di trattarla. Riportava lei della sorellina e del suo percorso, giudicando come di certo avrebbe fatto bene a Matilde ritrovare sua sorella maggiore, sostenendo come sarebbe stato necessario che insieme le sorelle avessero avuto ancora modo di ricordare la mamma ed il pap\u00e0.",
+        "A Matilde si era prodigata di restituire la sensazione inconscia di non essere pi\u00f9 sola al mondo, portandole un peluches, un cuscino o una maglietta che avesse abbastanza a lungo assorbito l'odore di sua sorella. Allora, le concedeva di sentirsi di nuovo coccolata da affetti famigliari, inducendo ci\u00f2 con carezze sul viso, mentre la piccolina era da quei sentori spinta dentro sogni di volti cari, ancorch\u00e9 certo senza nome, e sulla sua bocca si disegnavano teneri sorrisi.",
+        "E quel mattino finalmente giunse. Sviluppato compiutamente l'attaccamento delle sorelle verso di lei, era ora di ricomporre l'infranto e fare opera perfetta della propria vita. Non con lietezza, ma con grande serenit\u00e0, Marta sleg\u00f2 il laccio, intreccio d'inconcludenza e d'infruttuosit\u00e0, che tanto a lungo aveva tarpato le proprie ali, che dispieg\u00f2.",
+        "\"Ti porto io da mamma e pap\u00e0, dai nonni, abbi fiducia in me, io ti accompagner\u00f2.\".",
+        "\"E Matilde?\".",
+        "\"Desidera venire con noi, io lo so. Non immagini quanto abbia bisogno di te, ora\".",
+        "Preparate le siringhe, attese iniziasse il turno che portava all'alba. Quando Matilde fu addormentata e sorridente, le tolse ogni dolenzia con la prima somministrazione di sedativo e la prese fra le braccia. Benedetta le accolse commovendosi nella propria stanza.",
+        "Mentre tutte e tre, strette nello stesso letto, s'incamminavano per il pi\u00f9 profondo dei sonni, Marta si concesse di contemplare, con l'occhio della mente, l'immagine della s\u00e9 stessa alata, giudicandola molto appropriata.",
+        "In realt\u00e0, ben pi\u00f9 precisamente, avrebbe potuto riconoscersi in una singolarit\u00e0 gravito-quantica. Quella che aveva aperto un passaggio tra due degli infiniti possibili universi: uno freddo e cinico, indifferente alla contemplazione di due innocenti turturate, ed uno minuto ed infinitesimo, lungo la durata dell'istante in cui ci si addormenta, in cui mamma e pap\u00e0 stendono le braccia verso Benedetta e Matilde.",
+        "Accompagnate da Marta, le sorelline transitarono per quel passaggio."
+    ],
+    "timestamp": "2019-07-31T11:39:03Z",
+    "title": "L'infermiera Marta",
+    "topic_id": 44070,
+    "url": "https://www.writersdream.org/forum/forums/topic/44070-linfermiera-marta/"
+}

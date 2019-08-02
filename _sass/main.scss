@@ -1,0 +1,62 @@
+.current {
+  color: green;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
+
+.warning {
+    color: orange;
+}
+
+body {
+    font-family: 'Raleway', serif;
+    font-size: 10pt;
+}
+
+table {
+    td, th {
+	border-bottom: 1px solid black;
+    }
+
+    thead {
+	background-color: #808080;
+	color: white;
+    }
+
+    tbody {
+	th {
+	    text-align: right;
+	}
+    }
+
+    tbody:nth-child(odd) {
+	background-color: #f8f8f8;
+    }
+    
+    tbody:nth-child(even) {
+	background-color: #f0f0f0;
+    }
+
+    a {
+	color: black;
+    }
+
+}

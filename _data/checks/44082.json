@@ -1,0 +1,42 @@
+{
+    "author": {
+        "author_id": 33234,
+        "name": "Luisa Molinari",
+        "url": "https://www.writersdream.org/forum/profile/33234-luisa-molinari/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0,
+        "weight": false
+    },
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 434,
+    "num_commenti": 0,
+    "num_posts": 4,
+    "text": [
+        "Di sua madre aveva preso il nome,",
+        "una delle poche cose che di lei",
+        "le piacevano, e l\u2019amore per le piante.",
+        "Era solita parlare con loro quando sentiva",
+        "la tristezza pioverle addosso.",
+        "Spolverava le foglie come se volesse",
+        "togliersi di dosso quel peso che le impediva",
+        "di avere respiri lunghi.",
+        "C\u2019era stato un periodo in cui, passando",
+        "davanti ad una serra, non aveva pi\u00f9 sentito",
+        "l\u2019impulso di entrare e quello era stato il momento pi\u00f9",
+        "buio della sua vita."
+    ],
+    "timestamp": "2019-08-01T12:35:40Z",
+    "title": "Lara e le piante",
+    "topic_id": 44082,
+    "url": "https://www.writersdream.org/forum/forums/topic/44082-lara-e-le-piante/"
+}

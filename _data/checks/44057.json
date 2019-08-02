@@ -1,0 +1,52 @@
+{
+    "author": {
+        "author_id": 16679,
+        "name": "ohohboh",
+        "url": "https://www.writersdream.org/forum/profile/16679-ohohboh/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6133333333333333,
+        "weight": true
+    },
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6133333333333333
+            },
+            "text": [
+                [
+                    "Ciao , ho letto il tuo frammento con vivo interesse. Trovo che sia veramente troppo breve per dargli un significato, ma questo forse \u00e8 un punto a favore, perch\u00e9 permette ad ognuno di dare una propria chiave, ed \u00e8 una cosa che personalmente apprezzo tanto. Lo stile \u00e8 particolare, a tratti cupo, e risulta non perfettamente fluido, ho dovuto pi\u00f9 volte rileggere alcuni passaggi con attenzione, ma comunque ben scritto e senza refusi. Il contesto mi \u00e8 parso onirico, ed ho interpretato il caos narrativo proprio come un susseguirsi di immagini che il nostro cervello elabora durante il sogno.",
+                    "In definitiva, un esperimento molto interessante!",
+                    "A rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-07-30T10:53:25Z",
+            "title": "Riflesso",
+            "url": "https://www.writersdream.org/forum/forums/topic/43591-riflesso//?do=findComment&comment=781016",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 788,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "text": [
+        "Alice si diresse a passo lento verso l\u2019uscita del binario. Il ritorno in citt\u00e0 per le vacanze si rivelava sempre turbinio di emozioni contrastanti.",
+        "L\u2019angoscia per un anno appena terminato, l\u2019allontanamento dal posto che sentiva ormai casa sua e il profumo dell\u2019estate, che odorava di nuovo, d\u2019amore e vita.",
+        "Pens\u00f2 ai vecchi amici che di l\u00ec a poco avrebbe incontrato. Sapeva bene che rivedersi era, ogni volta, vano tentativo di ricostruire il passato. Quelli che un tempo erano compagni di avventure, erano ormai compagni di nostalgia, pezzi traslati nel presente di ci\u00f2 che era stato, e si finiva sempre a parlare di cose banali, mentre la reciproca noia faceva da sfondo.",
+        "Il flusso di pensieri si interruppe all\u2019improvviso, cos\u00ec Alice prese a trascinare la piccola valigia rossa verso casa."
+    ],
+    "timestamp": "2019-07-30T11:02:30Z",
+    "title": "Pensieri",
+    "topic_id": 44057,
+    "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri/"
+}
