@@ -40,6 +40,7 @@
     "num_chars": 9162,
     "num_commenti": 1,
     "num_posts": 3,
+    "post_after": [],
     "post_staff": [
         {
             "author": {
@@ -47,8 +48,12 @@
                 "name": "Anglares",
                 "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
             },
-            "html": "<blockquote class='ipsQuote' data-ipsquote-username='Kikki' data-ipsquote-contentclass='forums_Topic' data-ipsquote-timestamp='1564478483' data-ipsquote-contentapp='forums' data-ipsquote='' data-ipsquote-userid='24806' data-ipsquote-contenttype='forums' data-ipsquote-contentcommentid='781003' data-ipsquote-contentid='44036'><div class='ipsQuote_citation'>4 minuti fa, Kikki ha scritto:</div>\n\n\t<div class='ipsQuote_contents ipsClearfix'><p>Lo farò presente allo staff e loro provvederanno a chiudere questo topic e a darti istruzioni a riguardo. Scusa per l'interruzione, avrei dovuto controllare subito.</p></div></blockquote>\n\n<p><a rel='' data-ipshover-target='https://www.writersdream.org/forum/profile/24806-kikki/?do=hovercard' id='ips_uid_6076_10' data-mentionid='24806' contenteditable='false' data-ipshover='' href='https://www.writersdream.org/forum/profile/24806-kikki/'>@Kikki</a> grazie per la collaborazione.</p>\n\n<p></p>\n\n<p><a rel='' data-ipshover-target='https://www.writersdream.org/forum/profile/33047-stefano-verrengia/?do=hovercard' data-mentionid='33047' contenteditable='false' data-ipshover='' href='https://www.writersdream.org/forum/profile/33047-stefano-verrengia/'>@Stefano Verrengia</a> ho verificato e il tuo racconto supera i 9000 caratteri. Puoi riproporlo nella sezione racconti lunghi (dove il limite è di 16000 caratteri). Per postare in quella sezione devi fare un commento approfondito a un altro racconto lungo o a due testi di un'altra sezione dell'officina.</p>\n\n<p>Qui devo chiudere.</p>",
             "post_id": 781005,
+            "text": [
+                "grazie per la collaborazione.",
+                "ho verificato e il tuo racconto supera i 9000 caratteri. Puoi riproporlo nella sezione racconti lunghi (dove il limite è di 16000 caratteri). Per postare in quella sezione devi fare un commento approfondito a un altro racconto lungo o a due testi di un'altra sezione dell'officina.",
+                "Qui devo chiudere."
+            ],
             "timestamp": "2019-07-30T09:33:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44036-lurna-funeraria-parte-1//?do=findComment&comment=781005"
         }

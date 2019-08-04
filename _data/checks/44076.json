@@ -40,7 +40,26 @@
     },
     "num_chars": 4611,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 781634,
+            "text": [
+                "Ciao , , , , grazie per aver letto e commentato! Il racconto è stato scritto un po' in fretta per mancanza di tempo e sicuramente poteva essere ampliato, cosa che magari farò. Mi piace mettere a confronto anche le diverse reazioni che avete scritto a proposito della mamma centenaria. Non sempre riusciamo a conoscere la verità sulle persone che abbiamo vicino, specialmente se sono di vecchie generazioni, perché sono abituate a mantenere il ruolo sociale e familiare che le hanno assegnato. Naturalmente ci sono le dovute eccezioni. Quando raggiungono la \"veneranda età\" cominciano a essere più sbracate e magari rivelare."
+            ],
+            "timestamp": "2019-08-02T17:01:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=781634"
+        },
+        {
+            "post_id": 781821,
+            "text": [
+                "Ciao grazie del passaggio e del gradimento!",
+                "Ciao grazie della lettura e dei consigli. Purtroppo sono stato frettoloso per mancanza di tempo, inoltre sono lento nel rivedere e cambiare ciò che ho scritto. È andata cosi."
+            ],
+            "timestamp": "2019-08-04T06:33:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=781821"
+        }
+    ],
     "post_staff": [],
     "text": [
         "È arrivata a centotre: tre anni in più di quell’antipatica della sorella, che era stata sempre considerata la migliore, la più brava, la più bella, ma lei, la più vecchia, aveva vinto.",

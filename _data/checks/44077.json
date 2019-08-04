@@ -7,7 +7,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 1.0,
+        "valid": 0.5,
         "weight": true
     },
     "closed": false,
@@ -38,6 +38,7 @@
     "num_chars": 14176,
     "num_commenti": 1,
     "num_posts": 2,
+    "post_after": [],
     "post_staff": [],
     "text": [
         "Un uomo con un coltello in tasca si avvia verso il Porto 24, in cerca di qualche traccia di lacrima lasciata sul selciato. Si muove con passo da tempesta, la testa chiusa nei suoi propositi di vendetta. Il quartiere dove cammina non è ricco, ma ben tenuto. E’ una bella sera d’estate, la luce del cielo ancora accesa con una leggera brezza inganna le menti. Le finestre aperte sembrano bocche che ridono, qualcuno canta al ritmo di una chitarra, l’uomo curvo su se stesso non sente che la voce del suo dolore che lo distrugge. Senza esitare entra dentro quello che chiamano Porto 24.",

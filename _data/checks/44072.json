@@ -7,12 +7,31 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0,
-        "weight": false
+        "valid": 0.7623076923076924,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7623076923076924
+            },
+            "text": [
+                [
+                    "Buon pomeriggio Andrea. Leggendo il tuo scritto sono rimasto un po' perplesso. La storia in sé è anche interessante, come i sentimenti che traspaiono dai personaggi. Però, come hanno sottolineato altri, la scelta stilistica la trovo poco riuscita. Mi sembra che a prevalere sia appunto la forma che in effetti prende il sopravvento. Alcuni punti sono un po' farraginosi. La tua intenzione e di rifarti allo stile favolistico di Esopo ma sinceramente, scavando nella mia memoria, non ricordo uno stile così aulico o tortuoso come il tuo. Permettimi un consiglio. Si vede, o meglio si legge, che hai indubbie capacità ma non perderti in una vacua ricercatezza di stile. Dovresti trovare un migliore equilibrio tra stile e contenuto."
+                ],
+                [
+                    "Non ho scritto che la ricercatezza di stile sia necessariamente vacua, ho solo fatto presente che in questo specifico caso non era adatta. Tu sottolinei che ciò che hai scritto ricalca il modello favolistico e per mia, probabile, ignoranza non ho mai letto una favola scritta così e faccio fatica a valutare la tua come tale.Eppure le favole che ho letto, in generale, che siano russe, giapponesi o arabe, sono di facile lettura e scritte perché siano, in parte, apprese anche dai bambini. Premetto che se non avessi letto la tua risposta a sarei stato meno critico, sottolineando semplicemente il fatto che lo scritto e poco scorrevole."
+                ]
+            ],
+            "timestamp": "2019-07-31T12:54:22Z",
+            "title": "La colpevolezza mondatrice",
+            "url": "https://www.writersdream.org/forum/forums/topic/44038-la-colpevolezza-mondatrice//?do=findComment&comment=781209",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 44,
@@ -20,8 +39,18 @@
         "url": "https://www.writersdream.org/forum/forums/forum/44-narrativa-over-18/"
     },
     "num_chars": 5296,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 781211,
+            "text": [
+                "Chiedo venia. Ho provveduto a fare presentazione e commento."
+            ],
+            "timestamp": "2019-07-31T12:59:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44072-leden-et-apr%C3%A8s//?do=findComment&comment=781211"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -29,8 +58,10 @@
                 "name": "swetty",
                 "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
             },
-            "html": "<p><a rel='' data-ipshover-target='https://www.writersdream.org/forum/profile/31121-niknik/?do=hovercard' data-ipshover='' href='https://www.writersdream.org/forum/profile/31121-niknik/' data-mentionid='31121' contenteditable='false'>@Niknik</a>, chiudo per assenza di commento. Mandami un MP col commento che hai fatto e lo riapro. <span><img data-emoticon='true' srcset='https://www.writersdream.org/forum/uploads/emoticons/smile@2x.png 2x' width='20' title=':)' height='20' alt=':)' src='https://www.writersdream.org/forum/uploads/emoticons/default_smile.png'/></span></p>\n\n<p></p>",
             "post_id": 781238,
+            "text": [
+                ", chiudo per assenza di commento. Mandami un MP col commento che hai fatto e lo riapro."
+            ],
             "timestamp": "2019-07-31T14:30:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44072-leden-et-apr%C3%A8s//?do=findComment&comment=781238"
         },
@@ -40,8 +71,10 @@
                 "name": "swetty",
                 "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
             },
-            "html": "<p>Regolarizzato:</p>\n<iframe data-controller='core.front.core.autosizeiframe' data-embedid='embed1539979710' data-embedcontent='' style='overflow: hidden; height: 222px; max-width: 502px;' class='ipsEmbed_finishedLoading' scrolling='no' src='https://www.writersdream.org/forum/forums/topic/44038-la-colpevolezza-mondatrice/?do=embed' allowfullscreen=''></iframe>\n\n<p></p>",
             "post_id": 781241,
+            "text": [
+                "Regolarizzato:"
+            ],
             "timestamp": "2019-07-31T14:41:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44072-leden-et-apr%C3%A8s//?do=findComment&comment=781241"
         },
@@ -51,8 +84,10 @@
                 "name": "Niko",
                 "url": "https://www.writersdream.org/forum/profile/9751-niko/"
             },
-            "html": "<p>Spostato in over 18.</p>",
             "post_id": 781391,
+            "text": [
+                "Spostato in over 18."
+            ],
             "timestamp": "2019-08-01T12:08:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44072-leden-et-apr%C3%A8s//?do=findComment&comment=781391"
         }

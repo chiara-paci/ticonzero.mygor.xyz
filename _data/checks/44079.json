@@ -7,8 +7,8 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.9888888888888889,
-        "weight": false
+        "valid": 0.9944444444444445,
+        "weight": true
     },
     "closed": false,
     "commenti": [
@@ -28,9 +28,26 @@
             "title": "Il giorno in cui scordai il telo da spiaggia",
             "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia//?do=findComment&comment=781369",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Un buon racconto, si presenta con questa frase:",
+                    "E come il protagonista, riesci a far immergere il lettore nel racconto, fargli sentire le sensazioni che prova quel personaggio così realistico da poter tranquillamente essere un alter ego dell'autore, ma allo stesso tempo del lettore. Lo stile è scorrevole, il lessico ottimo e le descrizioni impeccabili. I pensieri interminabili del protagonista riescono a catturarti distogliendo la tua attenzione dalla monotona e ordinaria realtà. Il racconto è chiaramente uno sfogo, perciò non ci aspetta più azione o drammaticità, colpi di scena da giallo poliziesco o improbabili e stravaganti tresche amorose. È come dire a una storia romantica che è troppo mielosa, o ad una storia umoristica che è troppo banale. Il racconto è interessante e coinvolgente, approfonda in maniera soddisfacente i pensieri e i ragionamenti del protagonista e finisce con un finale appropriato. Infatti invece di dilungarsi troppo ed ignorare totalmente il motivo per cui stava cercando di fuggire dalla realtà, ci assicura che è preparato e deciso ad ottenere un ottimo voto.",
+                    "Buona scrittura dal conquistatore di biblioteche."
+                ]
+            ],
+            "timestamp": "2019-08-01T16:48:08Z",
+            "title": "Un momento di armonia",
+            "url": "https://www.writersdream.org/forum/forums/topic/43349-un-momento-di-armonia//?do=findComment&comment=781469",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -38,8 +55,18 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 14351,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 781787,
+            "text": [
+                "Grazie mille ! Mi sarà utilissimo. Sono ancora un ragazzino principiante, però punto a migliorarmi, perciò apprezzo con tutto il cuore le tue critiche. Comunque l'assenza di imprevisti era voluta, dato che ne avevo bisogno di una storia simile. Un motivo egoistico, ma la scrittura è proprio questo. Tornerò con altre mie storie e stanne certa che sarà migliore!!!"
+            ],
+            "timestamp": "2019-08-03T18:42:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44079-la-promessa-di-un-sorriso//?do=findComment&comment=781787"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -47,8 +74,11 @@
                 "name": "Kuno",
                 "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
             },
-            "html": "<p><a data-mentionid='33235' rel='' data-ipshover='' href='https://www.writersdream.org/forum/profile/33235-rivalry2701/' data-ipshover-target='https://www.writersdream.org/forum/profile/33235-rivalry2701/?do=hovercard' contenteditable='false'>@Rivalry2701</a> mi spiace, ma devo chiudere. Il testo supera abbondantemente il limite di 8000 caratteri. Ti consiglio di leggere attentamente i regolamenti specifici che trovi in cima a ogni sottosezione dell’Officina (Frammenti, Racconti, Racconti lunghi, Racconti a capitoli...).</p>\n\n<p></p>\n\n<p>Sposterò la discussione in “Racconti lunghi” se farai un altro commento entro la mezzanotte, come richiesto dal regolamento della sezione. Mandami pure un messaggio privato quando lo avrai fatto o per ulteriori spiegazioni.</p>",
             "post_id": 781457,
+            "text": [
+                "mi spiace, ma devo chiudere. Il testo supera abbondantemente il limite di 8000 caratteri. Ti consiglio di leggere attentamente i regolamenti specifici che trovi in cima a ogni sottosezione dell’Officina (Frammenti, Racconti, Racconti lunghi, Racconti a capitoli...).",
+                "Sposterò la discussione in “Racconti lunghi” se farai un altro commento entro la mezzanotte, come richiesto dal regolamento della sezione. Mandami pure un messaggio privato quando lo avrai fatto o per ulteriori spiegazioni."
+            ],
             "timestamp": "2019-08-01T15:46:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44079-la-promessa-di-un-sorriso//?do=findComment&comment=781457"
         },
@@ -58,8 +88,11 @@
                 "name": "Kuno",
                 "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
             },
-            "html": "<p>Apro e sposto in Racconti lunghi.</p>\n\n<p><a data-mentionid='33235' rel='' data-ipshover='' href='https://www.writersdream.org/forum/profile/33235-rivalry2701/' data-ipshover-target='https://www.writersdream.org/forum/profile/33235-rivalry2701/?do=hovercard' contenteditable='false'>@Rivalry2701</a> ha scritto in tempo un secondo commento valido, <a href='https://www.writersdream.org/forum/forums/topic/43349-un-momento-di-armonia/?tab=comments#comment-781469' rel=''>qui</a>.</p>",
             "post_id": 781557,
+            "text": [
+                "Apro e sposto in Racconti lunghi.",
+                "ha scritto in tempo un secondo commento valido, ."
+            ],
             "timestamp": "2019-08-02T09:25:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44079-la-promessa-di-un-sorriso//?do=findComment&comment=781557"
         }

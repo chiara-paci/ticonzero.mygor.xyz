@@ -7,7 +7,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0,
+        "valid": 0.0,
         "weight": false
     },
     "closed": true,
@@ -22,6 +22,16 @@
     "num_chars": 434,
     "num_commenti": 0,
     "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 781420,
+            "text": [
+                "Chiedo scusa, grazie"
+            ],
+            "timestamp": "2019-08-01T13:09:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44082-lara-e-le-piante//?do=findComment&comment=781420"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -29,8 +39,11 @@
                 "name": "Marcello",
                 "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
             },
-            "html": "<p>Oltre a essere postato nella sezione sbagliata, il brano è privo di linka un commento.</p>\n\n<p>Chiudo.</p>",
             "post_id": 781432,
+            "text": [
+                "Oltre a essere postato nella sezione sbagliata, il brano è privo di linka un commento.",
+                "Chiudo."
+            ],
             "timestamp": "2019-08-01T13:59:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44082-lara-e-le-piante//?do=findComment&comment=781432"
         }
