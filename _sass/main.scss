@@ -32,6 +32,10 @@ body {
 }
 
 table {
+    tbody.disabled {
+	color: #909090;
+    }
+
     td, th {
 	border-bottom: 1px solid black;
     }

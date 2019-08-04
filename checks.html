@@ -9,7 +9,7 @@ title: Controlli
 
     <thead>
       <tr>
-	<th colspan="2" rowspan="2">&nbsp;</th>
+	<th colspan="3" rowspan="2">&nbsp;</th>
 	<th rowspan="2" colspan="3">ora</th>
 	<th rowspan="2">risposte</th>
 	<th rowspan="2">caratteri</th>
@@ -34,11 +34,12 @@ title: Controlli
     {% assign sorted = site.data.checks | sort:timestamp %}
     {% for c_hash in sorted %}
     {% assign check = c_hash[1]  %}
-    <tbody>
+    <tbody{% if check.closed %} class="disabled"{% endif %}>
 
     {% if check.num_commenti == 0 %}
     <tr>
       <th><a href="{{ check.url }}">{{ check.topic_id }}</a></th>
+      <td>{% if check.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
       <td><a href="{{ check.url }}"><b>{{ check.title }}</b></a><br/>
 	di <a href="{{ check.author.url }}">{{ check.author.name }}</a>
 	in <a href="{{ check.forum.url }}">{{ check.forum.title }}</a></td>
@@ -64,6 +65,7 @@ title: Controlli
     <tr>
       {% if forloop.first == true %}
       <th rowspan="{{ check.num_commenti }}"><a href="{{ check.url }}">{{ check.topic_id }}</a></th>
+      <td rowspan="{{ check.num_commenti }}">{% if check.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
       <td rowspan="{{ check.num_commenti }}"><a href="{{ check.url }}"><b>{{ check.title }}</b></a><br/>
       di <a href="{{ check.author.url }}">{{ check.author.name }}</a>
       in <a href="{{ check.forum.url }}">{{ check.forum.title }}</a></td>

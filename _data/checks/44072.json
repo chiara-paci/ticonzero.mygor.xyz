@@ -10,6 +10,7 @@
         "valid": 0,
         "weight": false
     },
+    "closed": false,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,

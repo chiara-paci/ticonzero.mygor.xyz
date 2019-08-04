@@ -10,6 +10,7 @@
         "valid": 0.78,
         "weight": true
     },
+    "closed": false,
     "commenti": [
         {
             "checks": {
