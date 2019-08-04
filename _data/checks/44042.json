@@ -55,7 +55,7 @@
     },
     "num_chars": 1850,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 781055,
@@ -88,6 +88,14 @@
             ],
             "timestamp": "2019-08-04T08:22:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781831"
+        },
+        {
+            "post_id": 781834,
+            "text": [
+                "Certamente!"
+            ],
+            "timestamp": "2019-08-04T08:44:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781834"
         }
     ],
     "post_staff": [
