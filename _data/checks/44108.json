@@ -1,0 +1,109 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "in quel momento (meglio di \"allora\")",
+                    "non si sarebbe detto. Oltre ad essere inzuppato dalla testa ai piedi",
+                    "virgola",
+                    "era pallido, e gli occhi affossati nell’ombra di occhiaie violacee tradivano una sorta di inquietudine insolita.",
+                    "occhi... occhiaie... no",
+                    "suggerisco:",
+                    "era pallido, e le occhiaie violacee tradivano una sorta di inquietudine insolita.",
+                    "I capelli bagnati davano l’impressione di serpenti scuri spiaccicati sulla testa",
+                    "virgola",
+                    "e i vestiti zuppi, nell’aderirgli al corpo troppo ossuto, gli donavano un aspetto terribile.",
+                    "Ma una madre normale, non una in questo stato – pensò Marco, che sapeva. No, non erano i sei anni dalla fine della scuola, il problema, ma i diciotto giorni.",
+                    "meglio i due punti qui",
+                    "Quelli dall’incidente in cui Alessandro era morto.",
+                    "Marco non lo temeva, e anzi gli dedicò un cenno di sorriso. Era allora… imbarazzo? No, c'era dell’altro. Era il peso di quell’immagine di madre straziata, del suo sguardo che",
+                    "virgola",
+                    "seppur fisso su di lui",
+                    "virgola",
+                    "pareva affacciarsi su un baratro a tenerlo inchiodato sull'uscio.",
+                    "La donna provò una stretta al cuore. Gli occhi le si riempirono di sale.",
+                    "Bella similitudine per l'amarezza struggente di quelle lacrime, che le assediano il cuore. Bravo!",
+                    "Li alzò dalla pagina che il ragazzo non c'era più,",
+                    "forse meglio: accorgendosi che il ragazzo non c'era più,",
+                    "o forse non c'era mai stato? – si chiese – e quando",
+                    "virgola",
+                    "con il libro inzuppato tra le mani",
+                    "virgola",
+                    "s'accostò alla finestra per affacciarsi e cercarlo fuori",
+                    "virgola",
+                    "vide soltanto il sole del pomeriggio che splendeva in un cielo terso e azzurro. Poi qualcos'altro attirò la sua attenzione...",
+                    "meglio forse \"attirò la sua memoria\" oppure \"attirò il suo ricordo\" (l'attenzione viene catturata da qualcosa che si ha sotto gli occhi)",
+                    "Ricordò finalmente di quel nome e cognome. Marco Falsetti. Che adesso le era chiaro non fosse bagnato di pioggia ma d'acqua di fiume,",
+                    "e che quella notte stava guidando la maledetta auto in cui Alessandro sedeva dopo essere stato in libreria la stava guidando .",
+                    "ti suggerirei così.",
+                    "Poi si era fatta ora di tornare a casa, ma allora si era distratto solo un attimo, tanto era bastato per far sì che le ruote slittassero e l'automobile finisse fuori strada e rompesse il guardrail e volasse giù, proprio nel fiume di sotto, e ne fosse inghiottita per sempre insieme ai due passeggeri.",
+                    "Questo ricordò, la donna, mentre teneva una mano poggiata sul vetro e gli occhi fissi sul quel qualcosa nel giardino.",
+                    "Non c'era, la madre. Può solo supporre. Come fa a saperlo se Marco è morto in quell'incidente? Potrebbe immaginare, ma non \"ricordare\", non credi?",
+                    "Su un ramo era poggiata una rondine. Sembrò come se la guardasse. Poi spiccò il volo e scomparve contro la luce abbagliante del sole.",
+                    "Bel finale,",
+                    "La tua poesia è toccante e perfettamente in sintonia con l'evento narrato.",
+                    "L'amico, causa dell'incidente al figlio e morto con lui, è il \"corvo\" della poesia, che riscatta la propria colpa con la consegna degli ultimi pensieri del figlio per la madre. E queste parole hanno l'effetto di una nuova primavera per la madre dolente."
+                ],
+                [
+                    "Mi correggo, scusa .",
+                    "La madre è ora in grado di \"vedere\" quello che è successo (solo il verbo \"ricordare\" lo confermo improprio."
+                ]
+            ],
+            "timestamp": "2019-08-04T13:33:06Z",
+            "title": "[FdI 2019-2] La rondine",
+            "url": "https://www.writersdream.org/forum/forums/topic/44107-fdi-2019-2-la-rondine//?do=findComment&comment=781877",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 165,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Dammi i colori",
+        "Toglimi",
+        "la forma delle nuvole",
+        "- incostante -",
+        "Dammi i colori",
+        "dell'istante dell'alba",
+        "d’ogni giorno",
+        "e il sottofondo del mare",
+        "quando smorza",
+        "la sua forza",
+        "sulla rena."
+    ],
+    "timestamp": "2019-08-04T14:02:05Z",
+    "title": "Dammi i colori",
+    "topic_id": 44108,
+    "url": "https://www.writersdream.org/forum/forums/topic/44108-dammi-i-colori/"
+}
