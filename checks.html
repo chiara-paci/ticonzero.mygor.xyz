@@ -33,7 +33,8 @@ title: Controlli
     </thead>
 
     {% assign sorted = site.data.checks | sort:timestamp %}
-    {% for c_hash in sorted %}
+
+    {% for c_hash in sorted reversed %}
     {% assign check = c_hash[1]  %}
     <tbody{% if check.closed %} class="disabled"{% endif %}>
 
