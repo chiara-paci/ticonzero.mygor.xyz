@@ -6,12 +6,67 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno",
+                    "sono andata a recuperare la tua storia perch\u00e9 ho visto che era rimasta senza commenti. Spero che non ti dispiaccia.",
+                    "Allora, parto dal titolo, non ho ancora letto neanche una riga della tua storia, ma mi fa pensare a un horror o comunque un giallo. Tu non hai dato indicazioni di genere e cos\u00ec io mi lascio influenzare dalla mia storia.",
+                    "Ho letto il primo capitolo prima di cominciare questo e mi hai incuriosito. Non succede niente, ma lasci presagire tante cose. Bella l'ambientazione e anche i personaggi e bella la tua scrittura. Ho notato solo qualche insicurezza con i dialoghi, con la punteggiatura intendo.",
+                    "Vado a leggere il secondo capitolo",
+                    "metterei il soggetto, non solo qui perch\u00e9 cominci una parte nuova, ma anche nella storia tutta unita perch\u00e9 questa parte comincia fisicamente staccata almeno di un rigo dalla parte precedente. Comincia un nuovo discorso devi dirci con chi stiamo camminando, a parte che non sia un mistero funzionale alla storia, ma non credo, immagino si tratti di Vera, giusto?",
+                    "preferirei lungo al posto di per",
+                    "perch\u00e9 intanto? Puoi eliminarlo, qui non serve",
+                    "C'\u00e8 un cambiamento di tempo verbale qui: addentrava-fecero. Questa differenza presuppone due tempi diversi nelle azioni, ma questa \u00e8 una descrizione statica, guardiamo il paesaggio mentre Vera cammina. Sostituirei fecero con facevano. Aggiungerei una virgola dopo altopiano, dopo volta e anche dopo incombenti.",
+                    "ti faccio una proposta per rendere questa frase pi\u00f9 semplice: Nel silenzio della galleria risuonava l'eco delle acque. Eco di solito \u00e8 femminile.",
+                    "un'immagine molto bella che vedo sfumata di verde",
+                    "lungo al posto di per",
+                    "sarebbe meglio spostare crepitando vicino a fiume perch\u00e9 nella posizione in cui \u00e8 ora confonde",
+                    "toglierei fragile che non serve. In fondo, una capanna di paglia, quando robusta pu\u00f2 essere?",
+                    "vale lo stesso discorso di sopra",
+                    "Toglierei E da inizio frase e anche diametralmente che appesantisce la frase inutilmente dal momento che c'\u00e8 gi\u00e0 opposta",
+                    "sostituirei separata con intoccata o inviolata che toglierei dalla descrizione della porta",
+                    "aggiungerei incise dopo telluriche, o qualcosa di simile",
+                    "sostituirei E come con appena",
+                    "toglierei tutto a parte: una porta. Toglierei tutto perch\u00e9 stai anticipando al lettore che questa porta ha un'importanza particolare per Vera e per la storia, ci dici anche che nessuno l'ha mai oltrepassata usando inviolata. Ma per noi, che camminiamo con Vera e vediamo la porta per la prima volta, quella \u00e8 solo una porta; in una posizione particolare, questo \u00e8 sicuro, ma comunque solo una porta. Non darci troppe anticipazioni, lasciacelo scoprire insieme a Vera cosa significa questa porta.",
+                    "credo che qui tu abbia dimenticato di scrivere ogni. Toglierei la d eufonica, meglio se usata di fronte a parole che iniziano con e-",
+                    "Manca il soggetto",
+                    "qui invece toglierei Vera",
+                    "eliminerei, anche questa frase \u00e8 un'anticipazione a quello che viene dopo, non avere fretta",
+                    "se usi i trattini, non serve chiudere il dialogo se dopo non c'\u00e8 niente, basta il punto",
+                    "che al posto di ed",
+                    "toglierei segreta che non trovo utile alla descrizione",
+                    "toglierei sua che non serve e appesantisce",
+                    "toglierei suo e scriverei qualcosa tipo: che stringeva tra le mani",
+                    "via la virgola prima di e",
+                    "toglierei suo che non serve",
+                    "qui c'\u00e8 un po' di confusione. Tu sei Vera e noi con te. Metterei: Il suo sguardo incroci\u00f2 gli occhi grinzosi del vecchio... o qualcosa di simile",
+                    "qui il trattino serve perch\u00e9 aggiungi disse severo. Ma togli il punto e, quando lo metti, usa la maiuscola",
+                    "preferirei: nessuno pu\u00f2 avvicinarsi alla porta",
+                    "metterei una virgola dopo silenzio",
+                    "questa frase \u00e8 completamente diversa da tutto il resto, dal registro che hai usato fino qui. Faccio una prova: Solo con un bastone, quell'uomo aveva bloccato del tutto la sua avanzata.",
+                    "perch\u00e9 a nulla? A nessuno",
+                    "riformulerei: Aveva lasciato cadere tutta la sua determinazione pochi metri prima...",
+                    "Mi piace molto come scrivi, le tue descrizioni sono suggestive. Ho visto che questa storia \u00e8 composta di nove parti, mentre trovo che le descrizioni suggeriscano una storia ben pi\u00f9 lunga. L'unico appunto che ti faccio \u00e8 sul finale di questo pezzo e sull'incontro in s\u00e9 con questo vecchio che secondo me si svolge troppo in fretta. Vera ha camminato come in sogno fino ad arrivare alla porta, talmente presa dal suo percorso che non si \u00e8 nemmeno accorta di una presenza umana che ci presenti esile, ma ugualmente insuperabile. Non mi \u00e8 chiaro perch\u00e9 lei lasci perdere tanto in fretta e se ne vada. Non la trovo sorpresa davanti alla presenza del vecchio, sapeva che poteva esserci una guardiano? Svilupperei meglio il momento dell'incontro tra i due. Poi, quando Vera parla per la prima volta e si rivolge a suo padre, ho creduto che lo spirito di lui o lui stesso, fosse contenuto nel disco che lei stringe in mano, questo solo perch\u00e9 le due frasi sono una dopo l'altra e suo padre non era mai comparso prima. Insomma, ci sono alcune piccole incongruenze che secondo me vale la pena di mettere a posto.",
+                    "Alla prossima grazie della lettura!"
+                ]
+            ],
+            "timestamp": "2019-08-02T06:31:27Z",
+            "title": "Dietro la Porta (parte 2)",
+            "url": "https://www.writersdream.org/forum/forums/topic/41845-dietro-la-porta-parte-2//?do=findComment&comment=781526",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -19,8 +74,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 5228,
-    "num_commenti": 0,
-    "num_posts": 1,
+    "num_commenti": 1,
+    "num_posts": 3,
     "text": [
         "Io non ho gli strumenti per rispondere nella maniera giusta a questa bambina. Mi pizzicano gli occhi e vorrei abbracciarla, ma lei \u00e8 cos\u00ec immobile e seria che ho paura di ferirla, o di rovinare quella parvenza di equilibrio che sfoggia con tanta dignit\u00e0.",
         "\u00abMia zia, la sorella della mia mamma. \u00c8 stata lei a mandarmi qui. Mi ha venduta a Joy\u00bb, continua Jessy alzando gli occhi su di me. \u00abChiss\u00e0 quanto valgo\u00bb.",
