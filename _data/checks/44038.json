@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 33115,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "andrea werner mondazzi",
         "url": "https://www.writersdream.org/forum/profile/33115-andrea-werner-mondazzi/"
     },

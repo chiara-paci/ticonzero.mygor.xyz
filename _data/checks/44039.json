@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 9678,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
         "name": "M.T.",
         "url": "https://www.writersdream.org/forum/profile/9678-mt/"
     },

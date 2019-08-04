@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 33079,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "lucanie",
         "url": "https://www.writersdream.org/forum/profile/33079-lucanie/"
     },
@@ -49,7 +55,7 @@
     },
     "num_chars": 1850,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 781055,
@@ -73,6 +79,15 @@
             ],
             "timestamp": "2019-07-30T14:56:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781055"
+        },
+        {
+            "post_id": 781831,
+            "text": [
+                "Sto lavorando all'incipit per renderlo più diretto e invogliante.",
+                "Il protagonista è l'unico in grado di ragionare. La narrazione è in prima persona. Ci pensa in quel momento perché avendo vissuto il passato, ne ha visto anche il cambiamento. E stimolato nel vedere lo schermo acceso, riflette sulle sue origini."
+            ],
+            "timestamp": "2019-08-04T08:22:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781831"
         }
     ],
     "post_staff": [

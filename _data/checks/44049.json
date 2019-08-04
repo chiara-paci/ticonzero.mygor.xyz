@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 13815,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
         "name": "Macleo",
         "url": "https://www.writersdream.org/forum/profile/13815-macleo/"
     },

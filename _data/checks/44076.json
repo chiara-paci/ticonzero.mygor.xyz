@@ -1,13 +1,19 @@
 {
     "author": {
         "author_id": 27568,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
         "name": "Ernest",
         "url": "https://www.writersdream.org/forum/profile/27568-ernest/"
     },
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.7144444444444444,
+        "valid": 0.8664835164835165,
         "weight": true
     },
     "closed": false,
@@ -15,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.7144444444444444
+                "valid": 0.8664835164835165
             },
             "text": [
                 [
@@ -23,6 +29,16 @@
                     "Forse meno pesante se lasci solo speravo",
                     "Secondo me suona male, meglio arrivati davanti casa, scese.",
                     "Ciao il racconto nella sua pesantezza ha un ottimo mordente, però mi pare che è troppo carico di situazioni negative: brutto lui e brutta lei, tutto squallido, la stanza una fogna. Anche il rapporto sessuale tra i due. Capisco che è lo sguardo del protagonista che è quasi al taglio della vena, però un qualcosa di positivo ogni tanto forse renderebbe il racconto più credibile. In fondo se è riuscito a decidere di uscire da solo, prendere la macchina e andare in un locale per conoscere, proprio al taglio della vena non sarà. Comunque alla fine si empatizza con questo sfigato. A rileggerti!"
+                ],
+                [
+                    "Ciao il racconto nella sua pesantezza ha un ottimo mordente, l'idea del nerd forse anche depresso non è male, però mi pare troppo carico di situazioni negative: brutto lui e brutta lei, tutto squallido, la stanza una fogna. Anche il rapporto sessuale tra i due. Capisco che è lo sguardo del protagonista che è quasi al taglio della vena, però un qualcosa di positivo ogni tanto forse renderebbe il racconto più credibile. In fondo se è riuscito a decidere di uscire da solo, prendere la macchina e andare in un locale per conoscere, proprio al taglio della vena non sarà. Ti consiglio di leggere il racconto Lo sceneggiatore di Charles D'ambrosio (anche qui storia di due disperati) o il romanzo Dalle rovine di Luciano Funetta",
+                    "Secondo me questa frase gira male e alla fine diventa poco efficace. Scegli o Gli amici non esistevano oppure Mi convincevo che non avevo bisogno di amici. Ai miei ripetevo che stavo bene così.",
+                    "In realtà ero solo lo puoi togliere, il concetto lo avevi già espresso prima. Nessuno mi cercava e mi avrebbe cercato: troppo pesante, meglio nessuno mi avrebbe cercato.",
+                    "Forse meno pesante se lasci solo speravo",
+                    "Forse puoi spostare Stavo per abbandonare il tutto e inserirlo a posto di stavo per uscire altrimenti dici la stessa cosa due volte.",
+                    "Secondo me suona male, meglio arrivati davanti casa, scese.",
+                    "Comunque alla fine si empatizza con questo sfigato. ﻿A rileggerti!",
+                    "N.B.: ho ampliato la risposta per non essere penalizzato nel contest."
                 ]
             ],
             "timestamp": "2019-07-31T17:08:55Z",

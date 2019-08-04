@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 31121,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "Niknik",
         "url": "https://www.writersdream.org/forum/profile/31121-niknik/"
     },
@@ -40,7 +46,7 @@
     },
     "num_chars": 5296,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 781211,

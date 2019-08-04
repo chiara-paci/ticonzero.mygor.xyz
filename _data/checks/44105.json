@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 28093,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "Edu",
         "url": "https://www.writersdream.org/forum/profile/28093-edu/"
     },

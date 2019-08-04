@@ -35,34 +35,37 @@ title: Controlli
     {% assign sorted = site.data.checks | sort:timestamp %}
 
     {% for c_hash in sorted reversed %}
-    {% assign check = c_hash[1]  %}
-    <tbody{% if check.closed %} class="disabled"{% endif %}>
+    {% assign topic = c_hash[1]  %}
+    <tbody{% if topic.closed %} class="disabled"{% endif %}>
 
-    {% if check.num_commenti == 0 %}
+    {% if topic.num_commenti == 0 %}
     <tr>
-      <th><a href="{{ check.url }}">{{ check.topic_id }}</a></th>
-      <td>{% if check.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
-      <td><a href="{{ check.url }}"><b>{{ check.title }}</b></a><br/>
-	di <a href="{{ check.author.url }}">{{ check.author.name }}</a>
-	in <a href="{{ check.forum.url }}">{{ check.forum.title }}</a></td>
+      <th><a href="{{ topic.url }}">{{ topic.topic_id }}</a></th>
+      <td>{% if topic.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
+      <td><a href="{{ topic.url }}"><b>{{ topic.title }}</b></a><br/>
+	in <a href="{{ topic.forum.url }}">{{ topic.forum.title }}</a>
+	di <a href="{{ topic.author.url }}">
+	  {% include booltoclass.html check=topic.author.checks.flag val=topic.author.name %}</a>
+	{% if topic.author.checks.flag %}{% else %}p={{ topic.author.checks.poesia }}, r={{ topic.author.checks.narrativa }}, c={{ topic.author.checks.contest }}{% endif %}
+      </td>
 
-      <td>{{ check.timestamp | date:"%a" }}</td>
-      <td>{{ check.timestamp | date:"%d %b" }}</td>
-      <td class="right">{{ check.timestamp | date:"%H:%M" }}</td>
+      <td>{{ topic.timestamp | date:"%a" }}</td>
+      <td>{{ topic.timestamp | date:"%d %b" }}</td>
+      <td class="right">{{ topic.timestamp | date:"%H:%M" }}</td>
 
       <td>
-	{% for p in check.post_staff %}
+	{% for p in topic.post_staff %}
 	{% if forloop.first %}{% else %}<br/>{% endif %}
 	<a href="{{ p.url }}">{{ p.author.name }}</a>
 	{% endfor %}
       </td>
 
-      <td class="right">{{ check.num_posts | minus:1 }}</td>
-      <td class="right">{% include booltoclass.html check=check.checks.num_chars val=check.num_chars %}</td>
-      <td class="center">{{ check.expected_weight }}</td>
-      <td class="center">{% include booltoclass.html check=check.checks.weight val=check.commenti_weight %}</td>
-      <td class="center">{% include booltocheck.html val=check.checks.timestamp %}</td>
-      <td class="right">{% include validtospan.html val=check.checks.valid %}</td>
+      <td class="right">{{ topic.num_posts | minus:1 }}</td>
+      <td class="right">{% include booltoclass.html check=topic.checks.num_chars val=topic.num_chars %}</td>
+      <td class="center">{{ topic.expected_weight }}</td>
+      <td class="center">{% include booltoclass.html check=topic.checks.weight val=topic.commenti_weight %}</td>
+      <td class="center">{% include booltocheck.html val=topic.checks.timestamp %}</td>
+      <td class="right">{% include validtospan.html val=topic.checks.valid %}</td>
 
       <td colspan="6"><span class="invalid"><i>nessun commento</i></span></td>
 
@@ -70,32 +73,35 @@ title: Controlli
 
     {% else %}
 
-    {% for comm in check.commenti %}
+    {% for comm in topic.commenti %}
     <tr>
       {% if forloop.first == true %}
-      <th rowspan="{{ check.num_commenti }}"><a href="{{ check.url }}">{{ check.topic_id }}</a></th>
-      <td rowspan="{{ check.num_commenti }}">{% if check.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
-      <td rowspan="{{ check.num_commenti }}"><a href="{{ check.url }}"><b>{{ check.title }}</b></a><br/>
-      di <a href="{{ check.author.url }}">{{ check.author.name }}</a>
-      in <a href="{{ check.forum.url }}">{{ check.forum.title }}</a></td>
-      <td rowspan="{{ check.num_commenti }}">{{ check.timestamp | date:"%a" }}</td>
-      <td rowspan="{{ check.num_commenti }}">{{ check.timestamp | date:"%d %b" }}</td>
-      <td rowspan="{{ check.num_commenti }}" class="right">{{ check.timestamp | date:"%H:%M" }}</td>
-      <td rowspan="{{ check.num_commenti }}">
-	{% for p in check.post_staff %}
+      <th rowspan="{{ topic.num_commenti }}"><a href="{{ topic.url }}">{{ topic.topic_id }}</a></th>
+      <td rowspan="{{ topic.num_commenti }}">{% if topic.closed %}<i class="fa fa-lock"></i>{% else %}&nbsp;{% endif %}</th>
+      <td rowspan="{{ topic.num_commenti }}"><a href="{{ topic.url }}"><b>{{ topic.title }}</b></a><br/>
+	in <a href="{{ topic.forum.url }}">{{ topic.forum.title }}</a>
+	di <a href="{{ topic.author.url }}">
+	  {% include booltoclass.html check=topic.author.checks.flag val=topic.author.name %}</a>
+	{% if topic.author.checks.flag %}{% else %}p={{ topic.author.checks.poesia }}, r={{ topic.author.checks.narrativa }}, c={{ topic.author.checks.contest }}{% endif %}
+      </td>
+      <td rowspan="{{ topic.num_commenti }}">{{ topic.timestamp | date:"%a" }}</td>
+      <td rowspan="{{ topic.num_commenti }}">{{ topic.timestamp | date:"%d %b" }}</td>
+      <td rowspan="{{ topic.num_commenti }}" class="right">{{ topic.timestamp | date:"%H:%M" }}</td>
+      <td rowspan="{{ topic.num_commenti }}">
+	{% for p in topic.post_staff %}
 	{% if forloop.first %}{% else %}<br/>{% endif %}
 	<a href="{{ p.url }}">{{ p.author.name }}</a>
 	{% endfor %}
       </td>
-      <td rowspan="{{ check.num_commenti }}" class="right" >{{ check.num_posts | minus:1 }}</td>
+      <td rowspan="{{ topic.num_commenti }}" class="right" >{{ topic.num_posts | minus:1 }}</td>
 
-      <td rowspan="{{ check.num_commenti }}" class="right" >{% include booltoclass.html check=check.checks.num_chars val=check.num_chars %}</td>
+      <td rowspan="{{ topic.num_commenti }}" class="right" >{% include booltoclass.html check=topic.checks.num_chars val=topic.num_chars %}</td>
 
-      <td rowspan="{{ check.num_commenti }}" class="center">{{ check.expected_weight }}</td>
-      <td rowspan="{{ check.num_commenti }}" class="center">{% include booltoclass.html check=check.checks.weight val=check.commenti_weight %}</td>
+      <td rowspan="{{ topic.num_commenti }}" class="center">{{ topic.expected_weight }}</td>
+      <td rowspan="{{ topic.num_commenti }}" class="center">{% include booltoclass.html check=topic.checks.weight val=topic.commenti_weight %}</td>
 
-      <td rowspan="{{ check.num_commenti }}"  class="center">{% include booltocheck.html val=check.checks.timestamp %}</td> 
-      <td rowspan="{{ check.num_commenti }}" class="right" >{% include validtospan.html val=check.checks.valid %}</td>
+      <td rowspan="{{ topic.num_commenti }}"  class="center">{% include booltocheck.html val=topic.checks.timestamp %}</td> 
+      <td rowspan="{{ topic.num_commenti }}" class="right" >{% include validtospan.html val=topic.checks.valid %}</td>
       {% endif %}
 
       <td><a href="{{ comm.url }}">{{ comm.title }}</a></td>

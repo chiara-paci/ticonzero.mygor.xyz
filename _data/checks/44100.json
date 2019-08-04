@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 16173,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "Domenico Santoro",
         "url": "https://www.writersdream.org/forum/profile/16173-domenico-santoro/"
     },

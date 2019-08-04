@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 7603,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
         "name": "appassionato",
         "url": "https://www.writersdream.org/forum/profile/7603-appassionato/"
     },

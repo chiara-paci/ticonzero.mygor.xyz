@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 33259,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
         "name": "Francesco Iracà",
         "url": "https://www.writersdream.org/forum/profile/33259-francesco-irac%C3%A0/"
     },

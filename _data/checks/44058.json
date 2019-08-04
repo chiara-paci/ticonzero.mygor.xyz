@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 27585,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "mercy",
         "url": "https://www.writersdream.org/forum/profile/27585-mercy/"
     },
@@ -12,6 +18,31 @@
     },
     "closed": false,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "commentare dopo un passaggio di mi mette un po' di soggezione, ma la distopia è uno dei miei generi preferiti: il tuo incipit mi attira come fanno le piscine con i bambini, quindi mi ci butto con tutte le scarpe.",
+                    "Toglierei \"come\"",
+                    "Qui qualcosa non mi torna. Il corpo steso è quello della voce narrante o è quello di qualcun altro? Nel primo caso, gli occhi non sarebbero \"socchiusi su di un corpo steso\", dato che sono socchiusi di fronte allo schermo. Nel secondo caso, come fanno gli occhi di qualcuno a tenere il corpo di qualcun'altro \"parzialmente\" collegato alla realtà\"?",
+                    "Se è un anno importante nella cronologia della tua storia direi \"Anno del Cambiamento\", nome proprio di un evento storico.",
+                    "Cose molto interessanti:",
+                    "L'idea del passato che può essere manipolato, confuso e poi distrutto dall'informazione. Un problema di cui siamo coscienti fin da quando esiste la storiografia e che non abbiamo ancora risolto, anche se ci vantiamo di essere \"oggettivi\". Ci sono precedenti famosi che trattano questo tema: Orwell, Dick, Bradbury i primi che mi vengono in mente. Un tema non originale, quindi, ma per me sempre importante. Leggerei volentieri il seguito.",
+                    "Il fatto che parli di televisione, radio e schermi e non di tecnologie futuristiche mi lascia immaginare che la tua ambientazione sia retro-fantascientifica. Io adoro questo genere di ambientazioni, in cui futuro e passato si mescolano in un tempo parallelo.",
+                    "Altre cose:",
+                    "l'incipit è in effetti un po' troppo denso di spiegazioni. butta lì descrizioni e pensieri senza stare troppo a giustificarli, così stimolerai la curiosità del lettore: descrivi di più e commenta di meno, aggiungi dettagli sensoriali, magari (anziché spiegare come funziona l'informazione nella tua ambientazione) mostra uno spezzone delle trasmissioni dell'A.R.s.A. Chiarirai in seguito di cosa si tratta.",
+                    "In generale, nulla che non si possa risolvere. Gli incipit sono una faccenda rischiosa, molto difficili da calibrare, perché valgono da biglietto da visita di una storia: come la scelta degli abiti a un colloquio di lavoro. Non mollare, riscrivi qualcosa, lima qualcos'altro e affidati ai commenti che ti sembrano utili: qui ne troverai molti."
+                ]
+            ],
+            "timestamp": "2019-07-30T11:03:59Z",
+            "title": "\"Un incipit\" per il mio distopico",
+            "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781018",
+            "weight": 1
+        },
         {
             "checks": {
                 "timestamp": true,
@@ -37,31 +68,6 @@
             "timestamp": "2019-07-30T10:25:12Z",
             "title": "Ombelicale - Parte 2 di 6",
             "url": "https://www.writersdream.org/forum/forums/topic/43682-ombelicale-parte-2-di-6//?do=findComment&comment=781013",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao ,",
-                    "commentare dopo un passaggio di mi mette un po' di soggezione, ma la distopia è uno dei miei generi preferiti: il tuo incipit mi attira come fanno le piscine con i bambini, quindi mi ci butto con tutte le scarpe.",
-                    "Toglierei \"come\"",
-                    "Qui qualcosa non mi torna. Il corpo steso è quello della voce narrante o è quello di qualcun altro? Nel primo caso, gli occhi non sarebbero \"socchiusi su di un corpo steso\", dato che sono socchiusi di fronte allo schermo. Nel secondo caso, come fanno gli occhi di qualcuno a tenere il corpo di qualcun'altro \"parzialmente\" collegato alla realtà\"?",
-                    "Se è un anno importante nella cronologia della tua storia direi \"Anno del Cambiamento\", nome proprio di un evento storico.",
-                    "Cose molto interessanti:",
-                    "L'idea del passato che può essere manipolato, confuso e poi distrutto dall'informazione. Un problema di cui siamo coscienti fin da quando esiste la storiografia e che non abbiamo ancora risolto, anche se ci vantiamo di essere \"oggettivi\". Ci sono precedenti famosi che trattano questo tema: Orwell, Dick, Bradbury i primi che mi vengono in mente. Un tema non originale, quindi, ma per me sempre importante. Leggerei volentieri il seguito.",
-                    "Il fatto che parli di televisione, radio e schermi e non di tecnologie futuristiche mi lascia immaginare che la tua ambientazione sia retro-fantascientifica. Io adoro questo genere di ambientazioni, in cui futuro e passato si mescolano in un tempo parallelo.",
-                    "Altre cose:",
-                    "l'incipit è in effetti un po' troppo denso di spiegazioni. butta lì descrizioni e pensieri senza stare troppo a giustificarli, così stimolerai la curiosità del lettore: descrivi di più e commenta di meno, aggiungi dettagli sensoriali, magari (anziché spiegare come funziona l'informazione nella tua ambientazione) mostra uno spezzone delle trasmissioni dell'A.R.s.A. Chiarirai in seguito di cosa si tratta.",
-                    "In generale, nulla che non si possa risolvere. Gli incipit sono una faccenda rischiosa, molto difficili da calibrare, perché valgono da biglietto da visita di una storia: come la scelta degli abiti a un colloquio di lavoro. Non mollare, riscrivi qualcosa, lima qualcos'altro e affidati ai commenti che ti sembrano utili: qui ne troverai molti."
-                ]
-            ],
-            "timestamp": "2019-07-30T11:03:59Z",
-            "title": "\"Un incipit\" per il mio distopico",
-            "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781018",
             "weight": 1
         }
     ],

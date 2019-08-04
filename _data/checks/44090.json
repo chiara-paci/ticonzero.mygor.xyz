@@ -1,6 +1,12 @@
 {
     "author": {
         "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
         "name": "Poeta Zaza",
         "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
     },
