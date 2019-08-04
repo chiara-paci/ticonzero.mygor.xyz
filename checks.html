@@ -3,7 +3,7 @@ layout: default
 title: Controlli
 ---
 
-<article>
+<main>
 
   <table>
 
@@ -11,6 +11,7 @@ title: Controlli
       <tr>
 	<th colspan="3" rowspan="2">&nbsp;</th>
 	<th rowspan="2" colspan="3">ora</th>
+	<th rowspan="2">staff</th>
 	<th rowspan="2">risposte</th>
 	<th rowspan="2">caratteri</th>
 	<th colspan="2">peso</th>
@@ -48,6 +49,13 @@ title: Controlli
       <td>{{ check.timestamp | date:"%d %b" }}</td>
       <td class="right">{{ check.timestamp | date:"%H:%M" }}</td>
 
+      <td>
+	{% for p in check.post_staff %}
+	{% if forloop.first %}{% else %}<br/>{% endif %}
+	<a href="{{ p.url }}">{{ p.author.name }}</a>
+	{% endfor %}
+      </td>
+
       <td class="right">{{ check.num_posts | minus:1 }}</td>
       <td class="right">{% include booltoclass.html check=check.checks.num_chars val=check.num_chars %}</td>
       <td class="center">{{ check.expected_weight }}</td>
@@ -72,6 +80,12 @@ title: Controlli
       <td rowspan="{{ check.num_commenti }}">{{ check.timestamp | date:"%a" }}</td>
       <td rowspan="{{ check.num_commenti }}">{{ check.timestamp | date:"%d %b" }}</td>
       <td rowspan="{{ check.num_commenti }}" class="right">{{ check.timestamp | date:"%H:%M" }}</td>
+      <td rowspan="{{ check.num_commenti }}">
+	{% for p in check.post_staff %}
+	{% if forloop.first %}{% else %}<br/>{% endif %}
+	<a href="{{ p.url }}">{{ p.author.name }}</a>
+	{% endfor %}
+      </td>
       <td rowspan="{{ check.num_commenti }}" class="right" >{{ check.num_posts | minus:1 }}</td>
 
       <td rowspan="{{ check.num_commenti }}" class="right" >{% include booltoclass.html check=check.checks.num_chars val=check.num_chars %}</td>
@@ -99,4 +113,8 @@ title: Controlli
     {% endfor %}
   </table>
 
-</article>
+</main>
+
+<footer>
+  Last update: {{ site.time }}
+</footer>

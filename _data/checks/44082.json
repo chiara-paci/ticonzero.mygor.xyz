@@ -22,18 +22,31 @@
     "num_chars": 434,
     "num_commenti": 0,
     "num_posts": 4,
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "html": "<p>Oltre a essere postato nella sezione sbagliata, il brano è privo di linka un commento.</p>\n\n<p>Chiudo.</p>",
+            "post_id": 781432,
+            "timestamp": "2019-08-01T13:59:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44082-lara-e-le-piante//?do=findComment&comment=781432"
+        }
+    ],
     "text": [
         "Di sua madre aveva preso il nome,",
         "una delle poche cose che di lei",
-        "le piacevano, e l\u2019amore per le piante.",
+        "le piacevano, e l’amore per le piante.",
         "Era solita parlare con loro quando sentiva",
         "la tristezza pioverle addosso.",
         "Spolverava le foglie come se volesse",
         "togliersi di dosso quel peso che le impediva",
         "di avere respiri lunghi.",
-        "C\u2019era stato un periodo in cui, passando",
-        "davanti ad una serra, non aveva pi\u00f9 sentito",
-        "l\u2019impulso di entrare e quello era stato il momento pi\u00f9",
+        "C’era stato un periodo in cui, passando",
+        "davanti ad una serra, non aveva più sentito",
+        "l’impulso di entrare e quello era stato il momento più",
         "buio della sua vita."
     ],
     "timestamp": "2019-08-01T12:35:40Z",

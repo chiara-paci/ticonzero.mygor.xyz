@@ -23,7 +23,7 @@
 }
 
 .warning {
-    color: orange;
+    color: #ffa000;
 }
 
 body {
@@ -31,9 +31,40 @@ body {
     font-size: 10pt;
 }
 
+footer {
+    min-height: 3em;
+    margin-top: 3em;
+    color: #909090;
+    border-top: 1px solid #909090;
+}
+
+main {
+    width: 100%;
+}
+
 table {
+    width: 100%;
+
     tbody.disabled {
 	color: #909090;
+	a {
+	    color: #909090;
+	}
+	.valid {
+	    color: #90e090;
+	}
+	
+	.invalid {
+	    color: #ffa0a0;
+	}
+	
+	.warning {
+	    color: #ffd0a0;
+	}
+    }
+
+    a {
+	color: black;
     }
 
     td, th {
@@ -59,8 +90,5 @@ table {
 	background-color: #f0f0f0;
     }
 
-    a {
-	color: black;
-    }
 
 }
