@@ -6,7 +6,7 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
+        "timestamp": true,
         "valid": 0.7623076923076924,
         "weight": true
     },
