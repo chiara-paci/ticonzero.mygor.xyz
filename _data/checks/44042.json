@@ -55,7 +55,7 @@
     },
     "num_chars": 1850,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 781055,
@@ -107,6 +107,14 @@
             ],
             "timestamp": "2019-08-04T09:42:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781847"
+        },
+        {
+            "post_id": 781855,
+            "text": [
+                "Okay. Non sapevo, o avevo capito male."
+            ],
+            "timestamp": "2019-08-04T10:41:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44042-un-incipit-per-il-mio-distopico//?do=findComment&comment=781855"
         }
     ],
     "post_staff": [
