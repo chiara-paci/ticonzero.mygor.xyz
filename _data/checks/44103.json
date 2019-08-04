@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 33259,
+        "name": "Francesco Iracà",
+        "url": "https://www.writersdream.org/forum/profile/33259-francesco-irac%C3%A0/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 587,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "html": "<p><a contenteditable='false' href='https://www.writersdream.org/forum/profile/33259-francesco-irac%C3%A0/' data-ipshover='' data-mentionid='33259' rel='' data-ipshover-target='https://www.writersdream.org/forum/profile/33259-francesco-irac%C3%A0/?do=hovercard'>@Francesco Iracà</a> benvenuto nel WD.</p>\n\n<p>Invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso. Inoltre per postare un proprio testo in Officina occorre prima commentarne un altro in modo approfondito. Ti invito a leggere attentamente il regolamento.</p>\n\n<p>Devo chiudere questa discussione. Per riaprirla dovrai fare un commento secondo il regolamento e inviarne il link a uno staffer tramite messaggio privato.</p>",
+            "post_id": 781689,
+            "timestamp": "2019-08-03T08:32:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44103-nei-tuoi-occhi//?do=findComment&comment=781689"
+        }
+    ],
+    "text": [
+        "Nei tuoi occhi",
+        "ho visto il mio riflesso specchiarsi,",
+        "sorridere ed",
+        "amarsi;",
+        "ho visto la luce del tuo spirito",
+        "brillare,",
+        "sottovoce bisbigliare,",
+        "come l’unica stella in un cielo",
+        "di silenzi.",
+        "Nei tuoi occhi",
+        "ho visto la calma di chi sa cosa dire",
+        "e la tempesta",
+        "di chi non sa come agire;",
+        "ho visto la tua purezza",
+        "nascondersi,",
+        "in bella vista,",
+        "in una corazza di vetro",
+        "dallo sguardo pessimista",
+        "ma poi,",
+        "d’improvviso",
+        "mi hai guardato negli occhi",
+        "come fossero i tuoi",
+        "e ti ho visto scappare,",
+        "per poi ritornare",
+        "come una foglia indecisa portata",
+        "dal vento.",
+        "Ed è così che ti voglio ricordare:",
+        "come un bagliore di luce",
+        "fra le onde del mare."
+    ],
+    "timestamp": "2019-08-03T08:25:29Z",
+    "title": "Nei tuoi occhi",
+    "topic_id": 44103,
+    "url": "https://www.writersdream.org/forum/forums/topic/44103-nei-tuoi-occhi/"
+}
