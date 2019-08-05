@@ -62,7 +62,7 @@
     },
     "num_chars": 14351,
     "num_commenti": 2,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 781787,
@@ -71,6 +71,14 @@
             ],
             "timestamp": "2019-08-03T18:42:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44079-la-promessa-di-un-sorriso//?do=findComment&comment=781787"
+        },
+        {
+            "post_id": 781961,
+            "text": [
+                "Grazie mille per le critiche. Mi sono state utilissime, come crescita stilistica e come miglioramento di quello che reputo attualmente il racconto migliore che abbia mai scritto (Nonostante ne abbia scritti solo 5)."
+            ],
+            "timestamp": "2019-08-05T10:40:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44079-la-promessa-di-un-sorriso//?do=findComment&comment=781961"
         }
     ],
     "post_staff": [
