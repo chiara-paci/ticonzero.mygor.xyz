@@ -51,7 +51,7 @@
     },
     "num_chars": 6561,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 781755,
@@ -102,6 +102,14 @@
             ],
             "timestamp": "2019-08-05T15:38:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=782005"
+        },
+        {
+            "post_id": 782009,
+            "text": [
+                "Grazie , tu hai invece una prosa molto ricca e fantasiosa...non ho ancora avuto modo di commentarli, ma i tuoi racconti sono molto coinvolgenti."
+            ],
+            "timestamp": "2019-08-05T15:47:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=782009"
         }
     ],
     "post_staff": [],
