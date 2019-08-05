@@ -51,7 +51,7 @@
     },
     "num_chars": 6561,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 781755,
@@ -60,6 +60,39 @@
             ],
             "timestamp": "2019-08-03T14:37:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781755"
+        },
+        {
+            "post_id": 781979,
+            "text": [
+                ", , grazie per il passaggio, sono pesante a volte lo so...più snello, forza, ce la posso fare!"
+            ],
+            "timestamp": "2019-08-05T14:07:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781979"
+        },
+        {
+            "post_id": 781980,
+            "text": [
+                "grazie; hai ragione, mi sono forse un poco perso."
+            ],
+            "timestamp": "2019-08-05T14:10:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781980"
+        },
+        {
+            "post_id": 781981,
+            "text": [
+                ", @marf, @Andc, @sira grazie per i suggerimenti. @ivalibri, sì, mi rigirava in testa la canzone descrivendo la protagonista, così dall'iniziale Samy sono passato a Sally."
+            ],
+            "timestamp": "2019-08-05T14:14:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781981"
+        },
+        {
+            "post_id": 781988,
+            "text": [
+                "Grazie , sono contento tu abbia letto con piacere; hai ragione, nella poesia c'è una prima molla di reazione, la follia, che fortunatamente scemerà.",
+                "A risentirci presto."
+            ],
+            "timestamp": "2019-08-05T14:32:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781988"
         }
     ],
     "post_staff": [],
