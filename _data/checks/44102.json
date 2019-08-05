@@ -51,7 +51,7 @@
     },
     "num_chars": 6561,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 781755,
@@ -93,6 +93,15 @@
             ],
             "timestamp": "2019-08-05T14:32:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=781988"
+        },
+        {
+            "post_id": 782005,
+            "text": [
+                ", grazie!",
+                "@ernest inizialmente si doveva chiamare Samy poi, mentre scrivevo mi tornava in mente il testo e la tristezza di fondo mista a speranza di Vasco e da lì...il problema è la Mannoia all'orecchio sinistro"
+            ],
+            "timestamp": "2019-08-05T15:38:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=782005"
         }
     ],
     "post_staff": [],
