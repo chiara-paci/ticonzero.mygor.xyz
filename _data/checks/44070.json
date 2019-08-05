@@ -45,8 +45,17 @@
     },
     "num_chars": 7994,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 781936,
+            "text": [
+                "Grazie per i tuoi suggerimenti. Cercherò di tenerli presenti. Spero il racconto ti sia piaciuto."
+            ],
+            "timestamp": "2019-08-04T23:04:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44070-linfermiera-marta//?do=findComment&comment=781936"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Lieta no, ma serena sì, serena riconosceva di sentirsi Marta, quel mattino in cui l'assenza di una famiglia propria, di figli, di amicizie vere o interessi diversi dal lavoro, agli occhi dei suoi già oltrepassati quarantasette anni smisero di vestire i panni di un treno ormai perduto.",
