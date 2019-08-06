@@ -59,7 +59,7 @@
     },
     "num_chars": 6862,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 781904,
@@ -78,6 +78,15 @@
             ],
             "timestamp": "2019-08-05T19:31:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44105-una-morte-da-incubo//?do=findComment&comment=782056"
+        },
+        {
+            "post_id": 782083,
+            "text": [
+                ", sì, Marzia è la stessa di Vocazione. Che poi è la stessa di Sintetici a 60°, .",
+                "Quasi quasi faccio una serie"
+            ],
+            "timestamp": "2019-08-05T21:15:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44105-una-morte-da-incubo//?do=findComment&comment=782083"
         }
     ],
     "post_staff": [],
