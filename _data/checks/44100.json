@@ -70,7 +70,7 @@
     },
     "num_chars": 3637,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 781777,
@@ -84,6 +84,14 @@
             ],
             "timestamp": "2019-08-03T16:59:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=781777"
+        },
+        {
+            "post_id": 782178,
+            "text": [
+                "Ciao , sono contento che, nel complesso, tu abbia apprezzato il racconto. Ammetto che non una grande trama: si tratta più di uno scorcio, un semplice passaggio. Non avevo pensato però potesse essere parte di un romanzo. Semplicemente, avevo voglia di scrivere qualcosa di molto semplice, senza pretese. Grazie per l'attenzione, Domenico"
+            ],
+            "timestamp": "2019-08-06T16:42:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782178"
         }
     ],
     "post_staff": [],
