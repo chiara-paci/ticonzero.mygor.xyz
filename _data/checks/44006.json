@@ -51,7 +51,7 @@
     },
     "num_chars": 6801,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 36,
     "post_after": [
         {
             "post_id": 780215,
@@ -196,6 +196,17 @@
             ],
             "timestamp": "2019-08-06T00:03:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44006-fdi-2019-2-la-finestra//?do=findComment&comment=782098"
+        },
+        {
+            "post_id": 782394,
+            "text": [
+                "Sono contenta che ti sia piaciuto e mi ha fatto particolarmente piacere che tu abbia usato il termine “mostrato”",
+                "lo show don’t tell per me è un incubo",
+                "tesoro... ti ringrazio, sono felice che tu abbia gradito. Davvero.",
+                "Un abbraccio"
+            ],
+            "timestamp": "2019-08-07T22:48:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44006-fdi-2019-2-la-finestra//?do=findComment&comment=782394"
         }
     ],
     "post_staff": [],
