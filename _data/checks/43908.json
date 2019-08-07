@@ -1,0 +1,105 @@
+{
+    "author": {
+        "author_id": 30219,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ali_spiegate",
+        "url": "https://www.writersdream.org/forum/profile/30219-ali_spiegate/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , spero di poter dare anche io un contributo alla tua particolare poesia.",
+                    "Mi piace molto, e lo utilizzo spesso, il titolo che sia parte integrante della poesia come ne svelasse la soluzione che non è espressamente manifesta nel testo; per questo consiglio sempre di non utilizzare mai le parole inserite nel titolo nel resto del componimento, il tuo è un caso diverso: è come non l'utilizzassi, perché la indichi solo nell'ultimo verso, distaccato tra due diversi punti, credo funzioni, rende il messaggio circolare e infinito facendo concludere il pensiero laddove si era avviato, dal titolo per l'appunto. Procedendo sui versi e sui parallelismi che posso fare rispetto la mia personale esperienza, sono anche io spesso vittima della tentazione di utilizzare la congiunzione ad inizio verso, soprattutto nel primo, per contestualizzare il discorso in un che di già avviato, dargli un'enfasi differente, un'introduzione meno scolastica. In alcuni casi funziona, o perlomeno a me suona, in altri rischia di essere un paradosso di sé stesso e si rende ancora più lezioso del se non l'avessi inserito, nel tuo caso temo siamo in questa seconda ipotesi e ti invito a riflettere di levare la \"E\".",
+                    "\"Acqua che lava la sete\" è un'espressione bellissima, in assoluto l'apice del componimento che lascia una giusta carica energetica fino alla fine. E' una bella metafora, c'è la continuità dell'acqua come pioggia ma come veicolo per togliere la sete e ancora come mezzo per lavare, tre ruoli che l'acqua interpreta che non sono naturalmente legati tra loro, mi piace. Trovo che questo verso dica già tutto, il resto lo semplificherei per evitare di perdere la sensazione che questo ha attivato, in questo senso suggerirei di introdurre il passaggio alla goccia ma di eliminare la specifica alla pioggia, elidendo anche la congiunzione successiva, qui ti riporto ciò che ho in mente:",
+                    "Viene dal cielo",
+                    "acqua che lava sete.",
+                    "Goccia che benedice",
+                    "svela il mendace.",
+                    "Diluvio.",
+                    "Spero di esserti stato utile, a presto!"
+                ]
+            ],
+            "timestamp": "2019-07-16T15:31:09Z",
+            "title": "Diluvio",
+            "url": "https://www.writersdream.org/forum/forums/topic/43734-diluvio//?do=findComment&comment=778721",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 543,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 779600,
+            "text": [
+                "Caro , quando leggo la notifica con il tuo nome tremo sempre un po'... scherzo naturalmente.",
+                "Ti ringrazio per aver commentato questa poesia, anche questa, come la scorsa (l'impiccato inverso) e realisticamente come la prossima, è figlia di una ricerca sui tarocchi e i loro significati. Rispetto alla forma o forse meglio al tenore, sono d'accordo con le tue perplessità che però giustifico pensando che questo sia un monologo del personaggio, un flusso di coscienza detto a mezza voce, pensieri che lo ritrovano così autoritario anche nell'intimo del suo sé. Non so se sia realmente un fatto positivo o meno ma il senso di sospensione che provi mi lascia inorgoglito intravedendo riuscito l'intento di rendere un'aura di inarrivabilità.",
+                "a presto!"
+            ],
+            "timestamp": "2019-07-22T11:18:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43908-papa//?do=findComment&comment=779600"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 779230,
+            "text": [
+                "ciao,",
+                "Il messaggio di fondo è interessante, al netto della riflessione religiosa su cui non entro e che lascio al sentire personale di ognuno. Mi affascina questo rapporto tra l'io e l'alterità, che poi è un io e voi, sul cui asse si delinea una ricerca di autenticità. Lo schema caldo-freddo come metafora di un codice morale, preceduto da quello credere-scommettere-vincere che qui descrive la parabola del concetto di fede.",
+                "Queste simbologie si legano nella produzione di immagini con una geometria efficace. Ovvero lo schema di valore che esprime quantitativamente il più è bilanciato da quello qualitativamente maggiore, l'io . Da questa dualità consegue quella tra credenza e autenticità .",
+                "La parte che invece mi convince di meno è la struttura dei versi. La presenza al loro interno di frasi articolate, a volte legate tra loro da congiunzioni, sposta il registro su un piano più razionale. Questo accentua il carattere argomentativo della parola e sfuma l'evocatività delle immagini. Per \"stare nel testo\" il lettore deve richiamare una maggiore componente razionale e riflettere su dei costrutti logici molto più articolati. Quindi più razionalità e meno intuizione. Non è un errore in assoluto, ma occorre esserne consapevoli, perché l'aspetto concettuale rischia di avere più peso delle intenzioni iniziali. Forse questo è l'aspetto che lascia il componimento in una sorta di sospensione.",
+                "Spero di averti dato qualche spunto utile.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-07-19T16:47:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43908-papa//?do=findComment&comment=779230"
+        }
+    ],
+    "text": [
+        "Ho conquistato un mondo che non era mio,",
+        "era di tutti quelli credevano fosse dell’altro che io non sono mai.",
+        "Predico la fede perché senza non avrei che dire.",
+        "Ci hanno scommesso prima di me",
+        "su se esiste un Dio e su tutti i suoi se,",
+        "hanno vinto o hanno perso, non importa.",
+        "Gli uomini bramano solo ciò che non possono avere,",
+        "sono diventato chi non sarebbero stati mai.",
+        "Ma fa freddo quando si è soli,",
+        "quando non si può sapere se davvero l’amore basta a scaldare.",
+        "Mi copro d’oro per ritrovare il calore che non trovo in Dio,",
+        "Sono un uomo di valore adesso, io."
+    ],
+    "timestamp": "2019-07-16T15:32:45Z",
+    "title": "Papa",
+    "topic_id": 43908,
+    "url": "https://www.writersdream.org/forum/forums/topic/43908-papa/"
+}

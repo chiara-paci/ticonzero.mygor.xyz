@@ -1,0 +1,120 @@
+{
+    "author": {
+        "author_id": 27743,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "flambar",
+        "url": "https://www.writersdream.org/forum/profile/27743-flambar/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6022222222222222,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6022222222222222
+            },
+            "text": [
+                [
+                    "caro dal titolo \"La ciotola\"ha tutta l'aria che si sta raccontando o di un cane o specificamente di una cagna, e in questo non c'è da meravigliarsi se qualche uomo tratti la propria donna da cane, ho l'impressione che il racconto proprio intende evidenziare. Difatti non parla mai di cane o di cagne ma terra terra questo è il nocciolo del contenuto. Con molte probabilità lo fai per rispetto nei confronti a chi ti rivolgi e questa tua delicatezza l'ho sempre avvertita da quando ti conosco in WD. Bel racconto fluido, coinvolgente, interessante il tutto in poche righe. Grazie della lettura, ti auguro un buon fine settimana e tanta fortuna"
+                ]
+            ],
+            "timestamp": "2019-07-27T10:17:06Z",
+            "title": "[MI 126]  La ciotola",
+            "url": "https://www.writersdream.org/forum/forums/topic/43148-mi-126-la-ciotola//?do=findComment&comment=780439",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5405,
+    "num_commenti": 1,
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 780478,
+            "text": [
+                "Altroche! se non mi sei stato d'aiuto ti ringrazio delle tue precisazioni le terrò presenti. A rileggerci"
+            ],
+            "timestamp": "2019-07-27T14:24:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44027-porto-di-mazatlan-messico-r//?do=findComment&comment=780478"
+        },
+        {
+            "post_id": 780912,
+            "text": [
+                "buon inizio di settimana carissimo @Macleo come non darti ragione, sto mettendocela tutta ma ogni uno di noi ha i suoi limiti poi il tempo è inesorabile. Ti auguro tanta fortuna"
+            ],
+            "timestamp": "2019-07-29T18:33:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44027-porto-di-mazatlan-messico-r//?do=findComment&comment=780912"
+        },
+        {
+            "post_id": 782281,
+            "text": [
+                "lo so devo migliorarmi, mi sono iscritto a WD proprio per questo, tu magari mi dirai, iscriviti ad un corso letterario o qualcosa del genere, oppure pagare un professionista che mi aiuti. Mi sono iscritto ad un corso ma mi sono sentito come un pasce fuori d'acqua, erano tutti laureati e ho appena la licenza elementare, se vedi qualcosa di buono l'ho imparato dagli amici del WD che ringrazierò sempre. Ma c'è un punto che tu forse non sei al corrente. Ho tanto da raccontare da far paura anche ai grandi della letteratura. Adesso ho settantadueanni di età, nella mia vita non ho mai avuto un desiderio. (eccetto qualche donna)Unico mio desiderio e di scrivere un libro dei ricordi di navigante per distribuirlo ai miei nipoti che grazie a Dio sono tanti, ma questo libro deve essere scritto bene e di mio pugno, che poi vinco il premio Oscar questa è un'altra cosa che non può essere attribuita a me. Ti ringrazio del tuo prezioso commento, augurandoti tanta fortuna."
+            ],
+            "timestamp": "2019-08-07T09:02:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44027-porto-di-mazatlan-messico-r//?do=findComment&comment=782281"
+        },
+        {
+            "post_id": 782300,
+            "text": [
+                "stai certo che ci andrò, come già sono andato mi pare che si chiami\"Terra bruciata\" dove un quasi analfabeta ha vinto un premio nobel in letteratura, non mi dire Jack London, e tutti gli altri grandi della narrativa erano professori in letteratura o laureati? Devo confessarti una cosa caro amico, un ho mai letto ne scritto niente neanche delle cartoline di auguri, forse da ragazzo ho letto qualche giornalino di capitan Miky sono stati gli utenti di WD a farmi scoprire questa nuova passione. A rileggerci"
+            ],
+            "timestamp": "2019-08-07T12:31:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44027-porto-di-mazatlan-messico-r//?do=findComment&comment=782300"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "“ PORTO DI MAZATLAN “",
+        "(MESSICO)",
+        "Da recente promosso 2° ufficiale di coperta. Salpammo a notte tarda dal porto di Marsiglia (Francia) rotta il canale di Panama",
+        "per poi raggiungere la città di Los Angeles (USA).",
+        "In navigazione nell'oceano Pacifico, a causa dello sciopero dei lavoratori portuali statunitensi fummo dirottati per Mazatlan, splendida città turistica. Finita la manovra di ormeggio, uscii in franchigia.",
+        "Mentre passeggiavo, una grande insegna luminosa attirò la mia attenzione, c'era scritto”Taza de leche” (Coppa di latte) Incuriosito entrai, si trattava di un locale enorme fornito di ogni di genere di divertimenti. Non mi è stato difficile intuire che era anche una lussuosa casa del piacere.",
+        "Nell'istante che ordinai un drink, si avvicinò una pomposa creola messicana. Approcciammo subito, bevemmo danzammo e tutto il resto... Nel pomeriggio dell'indomani ritornai a bordo.",
+        "Una mattina visto che il “taza de le”che era aperto entrai tanto per curiosità e con mia grande sorpresa notai che l'ambiente che c'era la sera prima non c'era più. Il locale era frequentato da studenti. Domandai ad un cameriere spiegazioni, disse; che il locale dopo un certo orario ridiventava un bordello.",
+        "Ancora incredulo, notai una bellissima mora seduta ad un tavolino",
+        "visto che era sola, mi sedetti accanto a lei.",
+        "La signora parlava in castigliano, da parte mia cercai di fargli capire a gesti che il castigliano non lo sapevo neanche fischiare, però lei mi sorrideva e a ricordo di come erano andate le cose la sera prima, ho pensato con questa sarà la fine del mondo. Incominciai a navigare con la fantasia. La signora mi sorrideva si, ma parlava in un modo allarmato, io continuavo a non capire.",
+        "Ad un certo punto, si presenta tra di noi un tipo alto e smilzo e incomincia a litigare con la signora, non capivo quel che si dicevano, ma la strattonava con forza e in malo modo facendogli anche male, mi alzai per difenderla, ricevetti dallo smilzo un schiaffone in piena faccia nel col tempo tirò fuori da una fondina ascellare una grossa pistola a tamburo, ma fui più rapido di lui e lesto gli tolsi la pistola smontandogliela in un batterd'occhio( esercizio imparato durante il servizio militare)",
+        "Fatto questo gli sferrai un tremendo gancio tra testa e collo riducendolo come un cencio.",
+        "La signora mi implorava di andare via subito, perchè come si riprendeva sicuramente mi avrebbe ammazzato.",
+        "Per evitare rogne ubbidì tornandomene a bordo.",
+        "Al mattino, sottobordo numerose camionette della polizia e motovedette circondarono la nave. Avevamo l'ordine di scendere tutti in banchina, dal nulla mi apparve dinnanzi lo smilzo che avevo tirato il pugno. Adirato come una bestia disse:«Este ombre.» (quest'uomo)",
+        "Non mi poteva capitare di peggio, avevo picchiato il capo della polizia messicana.",
+        "Mi arrestarono di conseguenza persi anche l'imbarco, fui portato davanti ad un magistrato che mi domandò se sapevo parlare lo spagnolo. Ovviamente risposi di no, con un sorrisetto ironico mi condannò a sei mesi di lavori forzati e un corso di lingua spagnola.",
+        "Consegnandomi alle guardie carcerarie delle prigioni municipali di Mazatlan.",
+        "Durante il tragitto, il cellulare delle guardie si fermò in un piazzale antistante un Bar, il gesto mi inquietò molto pensando che qualcuno avesse l'intenzione di vendicare l'onta fatta al capo della polizia ed essendo incatenato non potevo muovermi.",
+        "Aprirono le portelle del furgone e liberandomi dalle catene mi dissero:«non preoccuparti sappiamo che sei una persona per bene,",
+        "vogliamo offrirti da bene per aver dato una severa lezione ad un scellerato capo della polizia.»",
+        "In prigione feci conoscenza col mio maestro di lingua spagnola, si trattava di un famoso bandito messicano dal nome altisonante Fransisco Gomes de la Fuentes ed erano guai se non lo ripetevi tutto come stava scritto.",
+        "Ogni mattina ci trasportavano sul luogo di lavoro più che altro consisteva nelle pulizie delle strade ecc... ecc... insomma da noi si dice lavori socialmente utili.",
+        "Il carcere, che in realtà non si poteva definirsi tale, esso consisteva in un campo quasi quadrato di quattrocento cinquanta passi da un lato e cinquecento venti passi da l'altro lato. Il muro era inesistente ma esisteva una rete in metallo molto robusta con avviso di mantenersi a due metri distante dalla rete se si trascurava tale misura il cecchino di guardia sulla formaggetta",
+        "aveva il diritto di sparare e quelli non scherzavano.",
+        "Trascorsi un paio di mesi, una mattina dall'altoparlante sentii chiamarmi a colloquio.",
+        "Mi domandavo chi poteva essere, già che non avevo avvisato nessuno dei miei famigliari.",
+        "Mi accorsi che la guardia invece di portarmi in sala colloqui prese un altra direzione portandomi in un ufficio.",
+        "È non vuoi che nell'istante dell'apertura della porta mi trovai davanti il famoso smilzo capo della polizia messicana.",
+        "Nel riconoscendomi disse:«este hombre no» poi evidentemente ripensandoci e ricordando la mia rapidità nel disarmarlo mi richiamò proponendomi un ingaggio come agente nella polizia contro il narcotraffico. Sapevo che se accettavo dovevo stare al loro regolamento e lotta contro i narcotrafficanti era crudele e sanguinaria, lo stipendio poi era anche ridicolo. Perciò non accettai.",
+        "Dopo qualche giorno lo smilzo non demordendo,entrò addirittura nell'area dei detenuti e davanti a tutti mi disse che:«se te elistas te doy el rango de sargento»( se ti arruoli ti do il grado di sergente) non accettai lo stesso."
+    ],
+    "timestamp": "2019-07-27T10:30:37Z",
+    "title": "\"Porto di Mazatlan  ( Messico)  (R)",
+    "topic_id": 44027,
+    "url": "https://www.writersdream.org/forum/forums/topic/44027-porto-di-mazatlan-messico-r/"
+}

@@ -1,0 +1,80 @@
+{
+    "author": {
+        "author_id": 13815,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Macleo",
+        "url": "https://www.writersdream.org/forum/profile/13815-macleo/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8918681318681319,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8918681318681319
+            },
+            "text": [
+                [
+                    "Non mi è chiaro il motivo",
+                    "preferirei \"sono\"",
+                    "Non vedo il motivo o la funzionalità di specificare che la trasmissione è in quattro terzi",
+                    "Lo evidenzio solo qui, ma in tutto il racconto personalmente avrei preferito uno dei sistemi \"classici\" di dialogo. Io uso \"«\" e \"»\"",
+                    "visto che alla fine si suicideranno - almeno così ho capito leggendo l'ultima frase - mi sembra sia stata una fatica inutile e incompatibile con il tragico progetto",
+                    "L'idea degli animali che guardano gli umani da una gabbia o da un documentario, anche se non nuovissima, qui è resa con particolare intelligenza. Il racconto, triste e senza speranza, mi è piaciuto ed è scritto bene. In particolare ci sono molti termini e molte frasi, a partrire dall'incipit, poetiche ed emozionanti: rendono quanto volevi dire e comunicare senza eccessi e forzature e risultano, quindi, molto naturali ed efficaci."
+                ],
+                [
+                    "Letto dello sfratto, la combinazione di \"Quando, tra poco, tornerete su quel divano-letto per l’ultima volta, prima di chiudere gli occhi,\" e \"Dici no, dove andremo non ci saranno animali a guardarci\", mi ha portato fuori strada. Perché in un nuovo alloggio non dovrebbe esserci la televisione che trasmette documentari su leoni e gazzelle o squali? Dopo la morte, invece, la condizione potrebbe essere agevolmente soddisfatta.",
+                    "Comunque il dubbio l'avevo, tant'è che ho scritto \"almeno così ho capito\".",
+                    "Ciao!"
+                ]
+            ],
+            "timestamp": "2019-07-13T17:18:47Z",
+            "title": "Gli animali non ti guardano",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778166",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2232,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "IL PREFETTO",
+        "- rilevato che, nonostante i precedenti piani di abbattimento, i capi effettivi oggetto della presente ordinanza permangono a un livello numerico eccessivo in relazione ai sistemi viari, stradali, agro-silvo-pastorali e ciclopedonali della Provincia e dei Comuni del territorio;",
+        "- constatato che sono state previste 690.877 unità in Provincia nel periodo 15 luglio/15 settembre del corrente anno - 136.030 in più rispetto all’anno precedente -, tali quindi da superare il limite della sostenibilità ambientale causando inevitabili e innumerevoli conflitti con gli abitanti e con gli altri soggetti temporaneamente residenti;",
+        "- dato atto che l’elevata presenza di questa specie ha ormai un carattere invasivo e rappresenta una minaccia per la conservazione della biodiversità delle biocenosi locali e può pregiudicare lo stato di conservazione di specie autoctone o turistiche o di intere comunità biotiche, tant’è che I’I.U.C.N. (International Union for Conservation of Nature) l’ha inserita tra le 100 specie a maggiore minaccia;",
+        "- richiamata la Legge n. 157/92 “Norme per il prelievo venatorio” e successive modifiche, in particolare l’art. 19 che prevede per le Provincie la facoltà di effettuare piani di limitazione di specie per la migliore gestione e la tutela del territorio, per motivi sanitari e per la selezione biologica;",
+        "ORDINA",
+        "1. Di dichiarare l’emergenza nel territorio provinciale e, pertanto, di avviare immediatamente la riduzione del 10% della specie in oggetto come di seguito riportato:",
+        "DISPONE",
+        "2. di pubblicare la presente ordinanza sul sito dell’Ente;",
+        "3. di incaricare della vigilanza sul rispetto della presente Ordinanza Polizia Municipale, Stazioni dei Carabinieri, AUSL, ARPA e ISPRA;",
+        "4. che i Settori Tecnici comunali prendano contatti con gli operatori coadiutori, già abilitati dalla Provincia, affinché sia data materiale esecuzione alla stessa mediante l’abbattimento di n. 69.087 ciclisti;",
+        "5. che tutti i dati relativi al numero di abbattimenti durante il periodo di validità della presente ordinanza siano opportunamente registrati e documentati;",
+        "INFORMA",
+        "6. che avverso la presente ordinanza si potrà effettuare ricorso in via gerarchica entro 30 gg dalla pubblicazione.",
+        "(firma digitale del Prefetto)"
+    ],
+    "timestamp": "2019-07-13T17:32:35Z",
+    "title": "Piano di abbattimento provinciale",
+    "topic_id": 43871,
+    "url": "https://www.writersdream.org/forum/forums/topic/43871-piano-di-abbattimento-provinciale/"
+}

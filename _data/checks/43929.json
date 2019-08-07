@@ -1,0 +1,107 @@
+{
+    "author": {
+        "author_id": 25775,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Lmtb99",
+        "url": "https://www.writersdream.org/forum/profile/25775-lmtb99/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5522222222222222,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5522222222222222
+            },
+            "text": [
+                [
+                    "Buonasera!",
+                    "A me è personalmente piaciuta molto la poesia. E' uno scritto di una semplicità clamorosa: ma \"semplicità\" non significa \"banalità\". In questo scritto vedo una delicatezza quasi struggente, come se quegli ultimi due versi l'Io lirico fosse quasi rammaricato da quel sentimento che non è nato. In un certo senso vedo una sensibilità quasi orientale nei riferimenti alla natura ed al tempo, e questo ai miei occhi è un punto a favore della poesia. Me la immagino scritta quasi di getto, in un sospiro malinconico, forse addirittura in un sorriso triste. Complimenti davvero, davvero bella!"
+                ]
+            ],
+            "timestamp": "2019-07-18T20:04:28Z",
+            "title": "Avrei voluto",
+            "url": "https://www.writersdream.org/forum/forums/topic/43872-avrei-voluto//?do=findComment&comment=779071",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 360,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 779075,
+            "text": [
+                "(per un errore di copiatura nell'ultimo verso c'è un'involontaria ripetizione della parola \" ennesimo\", scusate:)"
+            ],
+            "timestamp": "2019-07-18T20:06:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43929-lennesimo-io//?do=findComment&comment=779075"
+        },
+        {
+            "post_id": 779829,
+            "text": [
+                "Grazie per i complimenti e per la critica.",
+                "Esattamente.",
+                "Effettivamente, ripensandoci, il \"di un\" sarebbe una scelta migliore.",
+                "La poesia vorrebbe essere, almeno nelle intenzioni, una riproduzione in chiave \"poetica\" di critiche, positive o negative, pervenute al sottoscritto. Nel suddetto caso si riferisce ad una discussione con un prete.",
+                "Sì, effettivamente hai compreso il concetto finale, il succo, di ciò che volevo esprimere. Grazie ancora!"
+            ],
+            "timestamp": "2019-07-23T15:24:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43929-lennesimo-io//?do=findComment&comment=779829"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 779079,
+            "text": [
+                "ho sistemato."
+            ],
+            "timestamp": "2019-07-18T20:46:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43929-lennesimo-io//?do=findComment&comment=779079"
+        }
+    ],
+    "text": [
+        "Io, eco d’olio",
+        "nel mare più agitato.",
+        "Io, ladro di minuti",
+        "tracotante ed aggressivo.",
+        "Io, bimbo distratto",
+        "nella corsia d’un ospedale.",
+        "Io, mela ancora immatura",
+        "dolce come l’aria.",
+        "Io, spadaccino infallibile",
+        "tranne qualche eccezione.",
+        "Io, teologo analfabeta",
+        "assassino d’allucinazioni.",
+        "Io, dissimulatore d'ombra",
+        "nei sussurri d'una carezza.",
+        "Io, polvere e granello",
+        "del mio ennesimo Io."
+    ],
+    "timestamp": "2019-07-18T20:05:57Z",
+    "title": "L'ennesimo io",
+    "topic_id": 43929,
+    "url": "https://www.writersdream.org/forum/forums/topic/43929-lennesimo-io/"
+}

@@ -1,0 +1,85 @@
+{
+    "author": {
+        "author_id": 32595,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "DSGU",
+        "url": "https://www.writersdream.org/forum/profile/32595-dsgu/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace il fatto che le lettere io trovino eco alla fine del verso in \"ol io \". L'espressione eco d'olio non la capisco perfettamente, o almeno non ne sono completamente sicuro. Intendi dire che l'olio continua ad andare e tornare a causa della sua proprietà fisica che lo fa stare sopra l'acqua e del fatto che il mare sia agitato? Il movimento che fa l'olio lo fa sembrare un eco?",
+                    "Trovo azzeccata la \"d\" eufonica, aumenta la carica irruente del verso. Molto bella l'immagine \"ladro di minuti\".",
+                    "La mia sensibilità ti consiglierebbe di evitare l'apostrofo e optare invece per \"di un\". Tra le due varianti credo sia la migliore, ma forse per quello che vuoi dire è già perfetta la scelta che hai fatto?",
+                    "Bella l'allitterazione in \"m\". Ma se la mela è ancora immatura, come fa a essere dolce?",
+                    "Questi sono i due versi che mi sono piaciuti di più. Vicino all'io, si inserisce immediatamente un forte ego, che si reputa infallibile. Ma già al verso successivo torna la realtà: esistono delle eccezioni per tutti, anche per gli spadaccini infallibili.",
+                    "Questi due versi invece io li toglierei, se dovessi togliere qualcosa. L'allitterazione è molto bella, ma sento una forzatura che quasi stona con la naturalezza del resto. Di per se non sono così male, ma mi sembrano gli unici versi superflui. Forse però c'è qualcosa che non ho capito io.",
+                    "Molto bella l'espressione \"sussurri d'una carezza\", le \"s\" di \"sussurri\" si trasformano nelle \"z\" di \"carezza\". E lo fanno tranquillamente, seguendo il concetto che esprimono. Il tutto viene già preparato sonoramente dalla parola \"dissimulatore\".",
+                    "Penso alla polvere da cui si dice che proveniamo, e a cui secondo la Bibbia torneremo. E penso all'infinità dell'Universo, rispetto a cui non siamo che granelli.",
+                    "La polvere ci dice che siamo mortali, infatti moriremo tutti quanti. Il concetto del tempo è suggerito anche dal \"granello\" che potrebbe far pensare alla clessidra e alla sabbia al suo interno. Ma tutto ciò ha senso solo perché già anticipato dall'espressione \"ladro di minuti\".",
+                    "Il numero di stanze è otto, di due versi ciascuna. Otto come il simbolo dell'infinito, e il fatto che la poesia termini con \"io\" chiude bene il cerchio (o il simbolo dell'infinito?)",
+                    "Componimento molto interessante"
+                ]
+            ],
+            "timestamp": "2019-07-21T20:51:13Z",
+            "title": "L'ennesimo io",
+            "url": "https://www.writersdream.org/forum/forums/topic/43929-lennesimo-io//?do=findComment&comment=779536",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 4532,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Gordo",
+        "Era febbraio, ed era la festa di una mia cugina. A pensarci bene, era la festa di due cugine, festeggiate la stessa notte. Come ad ogni festa di famiglia, mi ero fatto da parte con i cugini della mia età, o comunque con tutto il gruppo dei non adulti.",
+        "Eravamo in una stanza da letto in cui avrebbero dormito poi alcuni degli invitati. Non so nemmeno chi ci avrebbe dormito lì: forse io? Può essere.",
+        "Mi ricordo che la finestra della stanza dava sul cortile, e che entrava luce da fuori nonostante fosse notte, perché le lampadine in cortile erano accese.",
+        "Mio fratello si era trovato molto bene con tutti i ragazzini lì. Io però mi sentivo già completamente staccato. Non mi divertivano, e probabilmente lo avevano capito. Purtroppo non riuscivo a ridere, come se non avessi mai dato permesso al mio bambino di essere un bambino e come se fossi un adulto in mezzo a bambini.",
+        "Ricordo che uno dei miei cuginetti, forse senza nemmeno troppa malizia mi chiamò gordo . Riesco ancora a sentire il dolore. Negai di essere grasso, gli dissi che non era vero, e infine gli chiesi perché dicesse una cosa così. Rispose che lo diceva perché era così, mi ripeté che lo ero.",
+        "Tirai dentro la pancia più che potei e mi alzai la maglietta. Credevo di riuscire a nascondere il mio peso (e l’immagine che avevo di me) a quel bambinetto, giocando con il mio fiato. Ma lui tocco la mia pancia con il dito indice e insistette, dicendo che proprio quello che si vedeva era quello che intendeva. Poi andò, insieme ad altri ragazzini a giocare da qualche parte.",
+        "Ero completamente spezzato. Se avessi potuto, sarei scappato in camera mia a piangere. Purtroppo però non avevo una camera mia. Fino a quel momento della mia vita, non avevo mai avuto una camera mia, solo per me.",
+        "Allora scomparii nella mia mente, nella solitudine della mia testa, al riparo da qualsiasi altro attacco dal mondo reale.",
+        "Liceo",
+        "Avevo scelto piuttosto casualmente il liceo scientifico in cui sono poi finito. Avrei tanto voluto iscrivermi a un liceo linguistico. Aveva senso a un livello profondo di me, così tanto profondo che però non riuscivo minimamente a spiegarmelo, tantomeno a spiegarlo agli altri, con termini razionali.",
+        "Se avessi dovuto dire perché volevo andare a un liceo linguistico, avrei risposto che mi piaceva la parola “linguistico”. Avrei voluto fare la battuta che forse avrei imparato a usare bene la lingua e con lo sguardo avrei implicato connotazioni sessuali. Ma non sarei riuscito a dire più di questo. E così, quando la mia professoressa di inglese mi consigliò di fare piuttosto un liceo scientifico, mi rassegnai. Credo che in quel momento, si decisero molte cose di quello che sarebbe diventata la mia vita nel futuro.",
+        "In ogni caso, il primo giorno al liceo che avevo distrattamente scelto non pensai a queste cose. Pensai solo al fatto di essere in ritardo. Edificio nuovo, nuova parte della città, il mio sguardo totalmente perso e quasi disperato mentre sto per salire le scale. Temo che tutti mi noteranno, visto che sto per arrivare in ritardo. Un’altra ragazza è di fronte a me e sembra persa tanto quanto me. Scopriamo che siamo nella stessa sezione e insieme riusciamo a trovare la stanza in cui andare.",
+        "Chissà se c’è qualche lezione che non riesco a vedere, nascosta in tutto ciò.",
+        "Bus",
+        "Spostarsi col bus ogni mattina era qualcosa di magico. Ero finalmente cresciuto, o almeno lo ero abbastanza da potermi spostare da solo in città.",
+        "Mi sentivo come se il bus fosse al mio servizio, come se il conducente fosse il mio autista e gli altri passeggeri fossero fortunati che il mio bus avesse tanti posti disponibili, tra cui dei posti anche per loro. Mi sedevo quasi sempre nello stesso posto in fondo, da cui potevo tenere d’occhio il mio bel bus.",
+        "Ascoltavo musica nella nuova scoperta tecnologica di cui potevo servirmi, il mio lettore mp3. Viaggiare in quel bus era la parte migliore della giornata. Ero finalmente da solo: nessuna famiglia, nessuna classe, nessuno che mi potesse disturbare o ferire. Le cuffie le usavo anche quando non avevo nessuna musica, come nei giorni in cui il lettore mp3 era scarico. Mi permettevano di immergermi meglio nel sogno.",
+        "Era un sogno nebbioso, e non riuscivo a capire bene il perché di quella nebbia. Nessun confine era ben chiaro, ed ero per lo più perso tra i dettagli sfumati che si creavano nella mia mente di quasi adolescente.",
+        "Per fortuna il ritmo stabile della batteria delle canzoni rap nelle cuffie mi guidava. Come il tamburo guida i soldati ignari verso la battaglia, mi dava un barlume di ordine e di direzione."
+    ],
+    "timestamp": "2019-07-21T21:19:14Z",
+    "title": "La Formula Magica - Cap. 8",
+    "topic_id": 43968,
+    "url": "https://www.writersdream.org/forum/forums/topic/43968-la-formula-magica-cap-8/"
+}

@@ -1,0 +1,306 @@
+{
+    "author": {
+        "author_id": 12055,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "camparino",
+        "url": "https://www.writersdream.org/forum/profile/12055-camparino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6511111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6511111111111111
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Per me è un racconto bello e non convenzionale. Di una tristezza umida come il sudore delle notti d'estate.",
+                    "Osservazioni",
+                    "Spezzerei la frase",
+                    "Preferirei \"bagna l'anulare\". Lubrifica ha qualcosa di meccanico.",
+                    "Preferirei \"sono intrecciate\"",
+                    "Preferirei \"vortica veloce\". Più minimale.",
+                    "Aggiungerei \"E' strano come continui a avvertire certi stimoli\". Per rafforzare.",
+                    "un leggero schiocco? ciaff è brutto.",
+                    "Curiosa la scelta della seconda persona. Personalmente avrei trovato più efficace la terza. Magari al presente.",
+                    "Rileggendo il racconto per fare le osservazioni lo ho apprezzato ancora di più. Resto convinto che gli animali ci guardano eccome.",
+                    "C'è molto talento e un sentimento triste. Bravissimo"
+                ]
+            ],
+            "timestamp": "2019-07-17T03:39:32Z",
+            "title": "Gli animali non ti guardano",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778775",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 3447,
+    "num_commenti": 1,
+    "num_posts": 47,
+    "post_after": [
+        {
+            "post_id": 778894,
+            "text": [
+                "Ueilà, grazie Capo",
+                "\"Alla via cosi\", come ho sentito dire nei film"
+            ],
+            "timestamp": "2019-07-17T16:39:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=778894"
+        },
+        {
+            "post_id": 778951,
+            "text": [
+                "Ciao Adelaide",
+                "Ueila', \"mi illumini di immenso\"",
+                "La frase intende che anche i morti viventi hanno santi (scomunicati).",
+                "Un grande grazie"
+            ],
+            "timestamp": "2019-07-18T03:03:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=778951"
+        },
+        {
+            "post_id": 779109,
+            "text": [
+                "Ciao Sarettyh, grazie mille",
+                "p.s. Se fossi capace, uno scongiuro te lo manderei io.",
+                "Ciao Marf Grazie del commento così approfondito. Dopo vado a leggerti.",
+                "Un grande in bocca al lupo per tutto."
+            ],
+            "timestamp": "2019-07-19T05:45:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779109"
+        },
+        {
+            "post_id": 779135,
+            "text": [
+                "Se il tema della prossima traccia è \"sconfitta/disincanto\", lo faccio tornare di volata sull'isola",
+                "Su \"sorrisi\" hai ragione. Era una immagine che voleva contrastare con \"turbamento\".",
+                "Su \"da te voglio la borsa e la vita\" è un ammiccamento al vecchio detto \"un bandito ti intima: o la borsa o la vita- Una donna le vuole tutte e due\"-",
+                "Grazie mille. Ciao"
+            ],
+            "timestamp": "2019-07-19T08:33:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779135"
+        },
+        {
+            "post_id": 779179,
+            "text": [
+                "Ciao Rhomer, grazie mille del bel commento"
+            ],
+            "timestamp": "2019-07-19T12:42:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779179"
+        },
+        {
+            "post_id": 779464,
+            "text": [
+                "Ciao Zaza, grazie mille",
+                "Sai? Ogni volta che sento o scrivo \"ritrovare sé stesso\", mi viene sempre da chiedermi se ne vale la pena.",
+                "\"Che ci sarà mai da ritrovare?\" intendo Magari era meglio perso, piuttosto che ritrovato."
+            ],
+            "timestamp": "2019-07-21T13:13:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779464"
+        },
+        {
+            "post_id": 779560,
+            "text": [
+                "Mi fa piacere questa osservazione. E' uno spunto di riflessione. E' obbligatorio il verosimile?",
+                "Le uniche santere che ho conosciuto erano cialtrone analfabete. Tra l'altro spacciavano veleno di scorpione azzurro ai malati terminali dei viaggi della speranza.",
+                "Oltre naturalmente a riti d'amore e contro il malocchio.",
+                "Però una santera immaginaria è funzionale a una storia. E una storia, per sua definizione, è un raccolta di balle.",
+                "Non di dice \"Non raccontarmi storie?\"",
+                "Così propendo per il \"tutto è lecito in amore, in guerra e in un racconto\"."
+            ],
+            "timestamp": "2019-07-22T07:01:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779560"
+        },
+        {
+            "post_id": 779745,
+            "text": [
+                "Cara Talia Un \"caldo\" ringraziamento"
+            ],
+            "timestamp": "2019-07-23T06:28:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779745"
+        },
+        {
+            "post_id": 779885,
+            "text": [
+                "Ueilà, ciao Vincenzo Grazie mille."
+            ],
+            "timestamp": "2019-07-24T05:05:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779885"
+        },
+        {
+            "post_id": 779967,
+            "text": [
+                "Ciao Iva, grazie mille",
+                "Pensa che io avevo sentito di più il racconto della prima tappa."
+            ],
+            "timestamp": "2019-07-24T13:25:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=779967"
+        },
+        {
+            "post_id": 780241,
+            "text": [
+                "Grazie mille a tutti dei bei commenti Sono veramente contento"
+            ],
+            "timestamp": "2019-07-26T05:42:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=780241"
+        },
+        {
+            "post_id": 780464,
+            "text": [
+                "Ueilà, ciao Leo Grazie",
+                "Detto antico, mai smentito"
+            ],
+            "timestamp": "2019-07-27T13:25:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=780464"
+        },
+        {
+            "post_id": 780925,
+            "text": [
+                "Ciao Edu Grazie mille.",
+                "Si, la santera l'ho usata in altri racconti, con riti e strumenti diversi. Diciamo che e' un personaggio multi uso",
+                "Ah la poesia. Era in un rito d'amore, con i chiodi della Croce.",
+                "Quella pero' era copiata da una preghiera vera."
+            ],
+            "timestamp": "2019-07-29T19:32:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=780925"
+        },
+        {
+            "post_id": 780991,
+            "text": [
+                "L'ho ritrovata e la posto. Ha più fascino della mia \"rielaborazione\" anche perché è autentica:",
+                "\"Gloriosa sant'Elena, tu che sei la regina di Gerusalemme,",
+                "da Gerusalemme tre chiodi della Croce hai portato.",
+                "Uno l'hai offerto alle maree e alle onde del mare,"
+            ],
+            "timestamp": "2019-07-30T08:24:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=780991"
+        },
+        {
+            "post_id": 781134,
+            "text": [
+                "Ueila' ciao Grazie mille."
+            ],
+            "timestamp": "2019-07-31T03:30:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=781134"
+        },
+        {
+            "post_id": 781335,
+            "text": [
+                "Ciao Laura Che bel commento, grazie.",
+                "Pensa che avevo cambiato \"sorrisi\", il primo in \"una donna che sorride\", il secondo in \"uomini che ridono\".",
+                "Se a te piace, va bene così"
+            ],
+            "timestamp": "2019-08-01T06:09:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=781335"
+        },
+        {
+            "post_id": 781350,
+            "text": [
+                "Si, quello. Ma anche uno prima d'amore.",
+                "Ciao"
+            ],
+            "timestamp": "2019-08-01T07:26:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=781350"
+        },
+        {
+            "post_id": 782012,
+            "text": [
+                "Tipo: \"dammi un panino e un poco di indecenza\"?",
+                "Grazie mille Ernest.",
+                "Grazie mille, contento ti sia piaciuto"
+            ],
+            "timestamp": "2019-08-05T16:00:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=782012"
+        },
+        {
+            "post_id": 782054,
+            "text": [
+                "Cara Emy grazie Sei sempre carinissima con me. Mi impegnerò sul prossimo racconto per fare una storia più ampia. Poi magari stufo Vabbè"
+            ],
+            "timestamp": "2019-08-05T19:10:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=782054"
+        },
+        {
+            "post_id": 782107,
+            "text": [
+                "Ciao Mariner, grazie veramente"
+            ],
+            "timestamp": "2019-08-06T05:49:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola//?do=findComment&comment=782107"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "[FdI 2019-2] ﻿ L'isola",
+        "“I perdenti muoiono al caldo”",
+        "Dove aveva letto quella frase? Francesco non lo ricordava, ma adesso sembrava adattarsi in modo fastidioso alla sua situazione.",
+        "Il volo sarebbe durato dieci ore. Cercò ricordi gradevoli, frasi diverse.",
+        "“Cosa prendi, tesoro?”.",
+        "“Un whisky prima e una sigaretta dopo”.",
+        "Sorrisi.",
+        "“Qual'è il suo segreto?”.",
+        "“Capire che ci sono tre modi per rovinarsi: il gioco, le donne e andare contro mercato. Il gioco è il più rapido, le donne il più piacevole, andare contro mercato il più sicuro”.",
+        "Sorrisi.",
+        "Poi i ricordi divennero sgradevoli, le frasi lo disturbavano.",
+        "“Lei ha perso il suo valore aggiunto”.",
+        "“E' solo un cialtrone con un bell'orologio”.",
+        "“Abbiamo esaurito le ragioni per essere sposati”.",
+        "Turbamento.",
+        "Aprì un libro che parlava di uno squalo assassino. Lo aveva già letto anni prima. Era rassicurante come la mano di un vecchio amico, non avrebbe riservato sorprese.",
+        "L'aereo atterrò sull'isola. Francesco scese con gli altri passeggeri, recuperò il bagaglio e si diresse verso la dogana.",
+        "Era tardo pomeriggio e faceva caldo.",
+        "Dopo un anno sull'isola ricordava due frasi ricorrenti: “Dammene un altro” e “Cosa vuoi per regalo?”.",
+        "Nei rari momenti di lucidità Francesco capiva di essere in un mondo finto. Una Disneyland, con baristi al posto di Topolino e tante fidanzate nei panni di Minnie. La loro dolcezza aumentava in modo esponenziale con l'avidità.",
+        "L'ultima si chiamava Olaisi. Gli diceva “Da te voglio la borsa e la vita” e la frase lo divertiva.",
+        "Un giorno gli portò una bambola di pezza, con due bottoni al posto degli occhi.",
+        "“E' uno scongiuro potente, - gli disse – benedetto dalla santera”.",
+        "“Una santera vera?” rise lui.",
+        "“Vuoi incontrarla?”.",
+        "“Perché no?”.",
+        "Lo portò in una bidonville.",
+        "Era come scendere all'inferno. Stesso odore, stessi dannati.",
+        "Lui pensò che il diavolo fosse una società impotente, distratta da altre priorità. Senza cattiveria, solo illusioni, tentativi, egoismo, tanta indifferenza per i dettagli. La baraccopoli era un incidente di percorso. Come per la natura. Una specie senza valore, lasciata all'estinzione.",
+        "In quell'ambiente malato crescevano fenomeni che sfuggivano alle regole della società e della natura. Incomprensibili. La santera era tra questi.",
+        "La trovarono seduta su uno sgabello vicino a una baracca. Aveva in mano un libricino simile a un messale. Davanti, una candela accesa ricoperta di piume di gallo.",
+        "“Vai solo, - gli disse Olaisi – è un momento intimo”.",
+        "La santera lo guardò senza vederlo, la voce sembrava provenire da dentro di lei, altrettanto vecchia e malata “L'inizio è sulla nave degli schiavi che ci porta dall'Africa. Siamo i figli, le madri, i padri violentati, gettati in mare agonizzanti. Abbiamo il loro odore, la loro miseria. Siamo ancora schiavi. Senza padrone da odiare, Dio da pregare. I nostri sono i santi scomunicati dei morti viventi”.",
+        "Staccò un foglio dal messale e glielo porse “Leggi, mentre brucia sulla candela”.",
+        "Francesco lesse.",
+        "“Gloriosa sant'Anna,",
+        "custode della corona di spine.",
+        "Tante spine donasti.",
+        "A un uomo si conficcò nel cuore,",
+        "perché fosse capace di amare.",
+        "A una donna nel ventre,",
+        "perché potesse procreare.",
+        "Ora chiedo alla tua santa mano",
+        "di conficcarmi una spina nella fronte,",
+        "perché io possa ritrovare me stesso”",
+        "Il foglio si consumò sulla fiamma e la vecchia sembrò addormentarsi.",
+        "Una settimana dopo Francesco partì.",
+        "L'aereo atterrò a Malpensa. Lui scese con gli altri passeggeri, recuperò il bagaglio e si diresse verso la dogana.",
+        "Era mattina e faceva freddo."
+    ],
+    "timestamp": "2019-07-17T03:58:49Z",
+    "title": "[FdI 2019-2] L'isola",
+    "topic_id": 43911,
+    "url": "https://www.writersdream.org/forum/forums/topic/43911-fdi-2019-2-lisola/"
+}

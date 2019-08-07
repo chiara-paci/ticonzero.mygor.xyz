@@ -1,0 +1,134 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9335869565217391,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9335869565217391
+            },
+            "text": [
+                [
+                    "Ciao , mi fa sorridere - in senso buono - questa tua poesia perché esprime in modi decisamente molto più delicati un'idea che, in questi giorni, ho reso in termini bukowskiani e che non posso postare per non cadere troppo nel semplice e profano, ma che poi ho edulcorato così",
+                    "Ma poi no.",
+                    "Non me ne faccio nulla",
+                    "Di te.",
+                    "Scusa.",
+                    "E sorrido perché mi piace il tuo modo di rendere la stessa questione: non ne vale la pena, se non c'è poi tutto questo fuoco (e tra parentesi 'addio'). Tu usi la parola amore, io non ne ho avuto il coraggio. Specchi diversi.",
+                    "Mi piacciono le ripetizioni, forse eliminerei l'immagine delle nuvole, che sembra forzata rispetto alla prima, quella della fioritura (molto più efficace). Non mi dispiace anche l'idea di chiudere con un avrei voluto, sì, ma non volevo, rinunciando a chiamare in causa l'amore. Ma questo, forse, perché in questi giorni sono per i tagli netti e per far riemergere l'io.",
+                    "A presto, è sempre interessante leggerti,"
+                ],
+                [
+                    "Sì, era chiaro"
+                ],
+                [
+                    "Bellissima! (Ho detto che era un conoscente?)"
+                ]
+            ],
+            "timestamp": "2019-07-14T18:05:09Z",
+            "title": "Avrei voluto",
+            "url": "https://www.writersdream.org/forum/forums/topic/43872-avrei-voluto//?do=findComment&comment=778371",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 299,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 779539,
+            "text": [
+                "Caro , rispondo con un po' di ritardo, mi sono data un paio di giorni per riflettere meglio su quello che avevo scritto. L'ho postata qui per prova, usando l'Officina esattamente per quello che è.La guardo, la ?poesia?, ancora un po' con un occhio sinistro, che da un lato vede qualcosa che inciampa dall'altra sa che forse sto tentando di aggiungere una qualche rottura a quel dialogo a cui spesso faccio ricorso (parlo sempre con qualcuno, questo è vero, non riesco a farne a meno ) . Ancora non sono sulla via giusta, ma la sta cercando. In questa poesia un po' disconnessa ero forse più curiosa di altre di sapere quanto sono uscita fuori strada. Grazie ancora"
+            ],
+            "timestamp": "2019-07-21T21:00:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai//?do=findComment&comment=779539"
+        },
+        {
+            "post_id": 779540,
+            "text": [
+                "Ciao , come ho scritto sopra, ero molto in dubbio su questa poesia. Non che di solito non usi un tono colloquiale, ma qui è forse più elementare e antipoetico del solito. Il concetto che volevo rendere (e non l'ho filtrato più di tanto, l'ho guardato è scritto com'era, quasi infantile) era esattamente quello del vuoto. Il risveglio del dopo.",
+                "Grazie delle belle parole, buona continuazione"
+            ],
+            "timestamp": "2019-07-21T21:05:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai//?do=findComment&comment=779540"
+        },
+        {
+            "post_id": 779548,
+            "text": [
+                "Avevo dimenticato di rispondere. Avrebbe senso e, forse, avrebbe senso anche muoverla, spostando completamente a destra la seconda parte, che ha un cambio di tono. Ci devo lavorare su."
+            ],
+            "timestamp": "2019-07-21T21:31:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai//?do=findComment&comment=779548"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 779237,
+            "text": [
+                "ciao,",
+                "L'uso della forma discorsiva che esprimi in modo così personale e efficace ti permette di accantonare qualche regola. Di norma direi che questa poesia dovrebbe essere più asciutta e che una maggiore sintesi aiuterebbe a fissarne meglio le immagini. Eppure nei tuoi versi riesci a mantenere la freschezza delle parole appena pensate. Questo diventa un valore, che si affianca e mette in secondo piano altri parametri di valutazione.",
+                "Qui siamo al metatesto: l'autore che riflette sul testo. Potrebbe e dovrebbe essere \"un inciampo\" nella sua fluidità, invece quell'incertezza, quel riflettere sul senso di quanto detto apre una porta. Perché quel livello di elaborazione è sempre presente nella lettura e un'intrusione su questo terreno innesca un dialogo su più livelli con il lettore. Bisogna saperlo fare, perché altrimenti appare solo come un inciampo.",
+                "Spesso le tue poesie sono un gioco di forza, parlano a un preciso interlocutore, hanno la forma di un dialogo. Un dialogo confidenziale. Una delle due parti alla fine cede e mostra la sua debolezza. Quelle intrusioni metatestuali possono agire verso questo meccanismo di forze che si misura nel discorso-poesia. In questo caso anticipano il disagio di quel vuoto che l'assenza paventata produce. La preparazione a questa possibilità innesca una dimensione emotiva che è accarezzata in tutto il componimento, e ci giocano in modo interessante tutte le incertezze che incorpora.",
+                "Un'ultima riflessione:",
+                "Questo gioco conferisce un valore particolare alla frase, e se fosse anche il titolo della poesia?",
+                "È sempre interessante leggerti.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-07-19T17:22:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai//?do=findComment&comment=779237"
+        }
+    ],
+    "text": [
+        "Se",
+        "Tu",
+        "Non",
+        "Ci",
+        "Sei",
+        "Non intendo fisicamente",
+        "Intendo",
+        "Se smetti di esistere",
+        "Io non scrivo più",
+        "E, ok, potrei dirla meglio",
+        "Visto che scrivo per te",
+        "Ma se smetti di esistere",
+        "Io che faccio",
+        "Senza l'idea di te",
+        "Di te che non ci sei fisicamente",
+        "Non ho nulla da",
+        "Ho sognato che non eri più",
+        "A disposizione dei miei pensieri",
+        "Ma assenza"
+    ],
+    "timestamp": "2019-07-14T18:09:21Z",
+    "title": "Fisicamente non ci sei mai",
+    "topic_id": 43888,
+    "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai/"
+}

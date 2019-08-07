@@ -1,0 +1,118 @@
+{
+    "author": {
+        "author_id": 24865,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "GiuliaShumaniTutanka",
+        "url": "https://www.writersdream.org/forum/profile/24865-giuliashumanitutanka/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao appassionato! Adesso passo io da te Ho trovato questo racconto molto simpatico. La prosa è scorrevole e non annoia mai il lettore. Ho qualche appunto da farti, ma tu prendilo con le pinze, mi raccomando.",
+                    "Non ho capito bene perché all’inizio, la moglie di Gigi se la prende con Annarita, se Gigi beve dopo questa scena. Secondo me c’è un po’ di confusione con gli accadimenti temporali, il che non rende chiaro al lettore quando succede che cosa. Se fossi in te metterei qualche virgola in meno e qualche punto in più per troncare alcune frasi, che risultano molto lunghe. Mi è piaciuto molto il modo in cui usi alcuni aggettivi e alcuni verbi. Rendono il racconto ricco.",
+                    "Avrei descritto più minuziosamente il passaggio in cui la moglie decide di fare le valigie. Vuole andare via di casa? Okay, ma per prendersi una pausa? Per divorziare? Le avrei dato un’intenzione più solenne, visto che comunque racchiude la morale della storia. Cambierei anche il titolo, visto che l’acqua tonica non viene comunque da te menzionata. In linea di massima comunque, racconto che mi ha fatto sorridere e che si fa leggere volentieri.",
+                    "Spero d’esserti stata d’aiuto!",
+                    "Buona giornata!"
+                ],
+                [
+                    "madonna Coez. Ho il tuo stesso incubo da Gennaio."
+                ]
+            ],
+            "timestamp": "2019-07-22T09:28:45Z",
+            "title": "E tuo padre oggi bevesse soltanto acqua tonica",
+            "url": "https://www.writersdream.org/forum/forums/topic/43969-e-tuo-padre-oggi-bevesse-soltanto-acqua-tonica//?do=findComment&comment=779583",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3702,
+    "num_commenti": 1,
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 779641,
+            "text": [
+                "ciao! Certo che le critiche costruttive aiutano, ci mancherebbe, solo che a volte mi piace scrivere quello che mi passa per la testa senza stare lì a pensare e ripensare per arrovellarmi il cervello e non godermi più nulla. Sono semplici raccontini che mi piace condividere qui, senza troppe pretese. È giusto che le persone mi spronino a fare meglio e ad approfondire, ma ci sono volte in cui semplicemente butto giù senza se e senza ma. Piccoli passatempi."
+            ],
+            "timestamp": "2019-07-22T15:19:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia//?do=findComment&comment=779641"
+        },
+        {
+            "post_id": 780703,
+            "text": [
+                "Ciao !",
+                "Ti ringrazio per essere passato e per avermi lasciato la tua opinione, l’ho letta attentamente. La risposta che mi sento di dare, è la stessa che ho scritto sopra.",
+                "Ero a lavoro, e per noia ho scritto questo racconto lampo. Non va a me personalmente di approfondire perché l’ho buttato giù per passare il tempo (nonostante poi mi facesse piacere pubblicarlo per condividerlo con voi). Scriverlo senza pretese era il mio intento, ma capisco in pieno che possa lasciare allibiti la rapidità con cui si svolge."
+            ],
+            "timestamp": "2019-07-28T18:41:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia//?do=findComment&comment=780703"
+        },
+        {
+            "post_id": 781494,
+            "text": [
+                "ciao! Grazie mille per i tuoi complimenti, con te sono riuscita ad arrivare dove volevo (senza nulla togliere ai commenti degli altri ovviamente). Sono contenta che tu abbia colto tutte le sfaccettature che il mio raccontino, pur breve, voleva comunicare.",
+                "grazie per essere passato e grazie per aver detto che ti è piaciuta la vena ironica (seppur non coltivata. A dire il vero non credo di esserci portata). Ho scritto sopra perché non lavorerò sul racconto, ma grazie comunque per le tue critiche. I pareri esterni sono sempre importantissimi! La battuta sull’ambulante l’ho messa appunto per far capire quanto il marito sia sgradevole, senza quella non si arriverebbe alla svolta."
+            ],
+            "timestamp": "2019-08-01T19:03:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia//?do=findComment&comment=781494"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Era un’afosa giornata d’agosto. Il mare, piatto come una tavola, aveva l’impressione di essere solo un’enorme piscina che conteneva frotte di turisti accaldati. Lo schiamazzare dei bambini si espandeva fastidioso per chilometri.",
+        "Ferdi aveva deciso di trascorrere qualche ora in spiaggia dopo mangiato, noncurante del mio stato d’animo. Avevo ricevuto una telefonata quella mattina che mi aveva affossato l’umore, e non ero certo in vena di stare in mezzo alla gente.",
+        "Cosa gliene fregava a lui?",
+        "Niente, come al solito.",
+        "-Metti giù il telo, la sabbia scotta!- aveva sibilato con la sua irritante vocina. Lo guardai con un sopracciglio alzato prima di aprire la borsa e rendermi conto che me lo ero dimenticata in albergo.",
+        "-Qui non c’è Ferdi!-",
+        "-Come sarebbe a dire che lì non c’è?- mi gridò dietro.",
+        "-Quello che ho detto Ferdinando! Qui il telo non c’è!-",
+        "-Non c’è? Ecco! Sei la solita capocciona! T’avevo ordinato di metterlo sul letto prima di andare in bagno, così o io o te ce ne saremmo ricordati! Anche se ovviamente eri tu che dovevi pensarci!- sbraitò mio marito gesticolando furiosamente.",
+        "-Ascolta, lo sai che mi hai proprio rotto le palle con i tuoi modi aggressivi Ferdinando? Non fai altro che urlarmi dietro per qualsiasi cosa- risposi piccata.",
+        "Sentii della sabbia volarmi addosso. Uno di quegli stupidi bambini dell’ombrellone di fianco stava giocando con la paletta.",
+        "-Per forza ti aggredisco! Perché sei una svampita! Mai una volta che ti ricordi qualcosa!-",
+        "Guardai la bocca di Ferdinando intenta a sfornare insulti e mi domandai: con che coraggio avevo sposato quell’ometto insignificante? Non ne ero certa.",
+        "-Quindi adesso cosa vuoi fare? Continuare ad urlarmi addosso, oppure tornare in albergo a prendere il telo?- replicai.",
+        "-Neanche per sogno rifaccio tutta quella strada! La colpa è tua e ci andrai tu!-",
+        "Mentre mio marito continuava a sbraitare come un povero deficiente, mi accorsi che alle sue spalle, stava passando un ragazzino che teneva degli asciugamani sulle spalle.",
+        "-Guarda Ferdinando, c’è un ragazzo lì che vende quello che ci serve- dissi speranzosa che quella stupida lite potesse finalmente finire.",
+        "-Non mi interessa! Sai benissimo quanto io odi gli asciugamani quando sono in spiaggia. Ci si attacca tutta la sabbia quando sono bagnato e poi non si stacca più, e tralasciando questo, non darò di certo i miei soldi a quel tipo, visto che quasi sicuramente è rumeno!- gridò Ferdinando un po’ più forte, convinto di guadagnarsi l’approvazione dei nostri vicini di ombrellone. Non lo considerarono neanche per sbaglio.",
+        "Ad un tratto mi resi conto che io ero l’unica che sopportava quell’uomo odioso.",
+        "Mia suocera non gli dava udienza per parlare dell’eredità da quelli che ormai erano diventati mesi. I suoi colleghi dell’ufficio organizzavano tornei di calcetto a cui lui non era mai invitato, e i suoi amici... beh i suoi amici non esistevano. Non ne aveva mai avuti.",
+        "-Ascolta Ferdinando, devo chiederti una cosa...- dissi in tono mite.",
+        "-Cosa? Brutta cretina! Cosa devi chiedermi?-",
+        "-Il divorzio-",
+        "***",
+        "Erano passati quattro mesi da quando io e Ferdinando avevamo divorziato, e, felice come non lo ero da tempo, avevo deciso di prendere delle ferie da lavoro e dedicarmi ad un weekend sulle spiagge della Sardegna.",
+        "-Oh no! Ho dimenticato il telo in albergo!- esclamai battendomi il palmo della mano sulla fronte. Mi tornarono in mente le parole di Ferdinando di qualche mese prima e mi sentii come se qualcuno mi avesse tirato un pugno nello stomaco.",
+        "-Non preoccuparti cara, non è successo niente di grave. Torno io in albergo a prenderlo- mi rispose Filippo prima di darmi un tenero bacio sulle labbra.",
+        "Ferdinando in un lampo, tornò ad essere soltanto uno sgradevole ricordo che si appannava in lontananza."
+    ],
+    "timestamp": "2019-07-22T09:30:29Z",
+    "title": "Il giorno in cui scordai il telo da spiaggia",
+    "topic_id": 43970,
+    "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia/"
+}

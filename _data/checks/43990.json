@@ -1,0 +1,234 @@
+{
+    "author": {
+        "author_id": 7603,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "appassionato",
+        "url": "https://www.writersdream.org/forum/profile/7603-appassionato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.4766666666666667,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4766666666666667
+            },
+            "text": [
+                [
+                    "E' un racconto che trasmette serenità nonostante sia dolceamaro: la protagonista ha piano piano saputo accettare il proprio destino e, anzi, trovare un modo per accettare i giorni che passano e si accatastano uno sopra l'altro al ritmo delle stagioni. hai una scrittura fluida e consapevole: la trama e le descrizioni sono vellutate, reali e illuminanti; si riesce a immaginare la baita e pure le movenze della donna, ogni atmosfera scorre ben delineata e morbida.",
+                    "Alcune riflessioni:",
+                    "Bella",
+                    "Bella",
+                    "Bellissima",
+                    "Consiglio il giorno in cui"
+                ]
+            ],
+            "timestamp": "2019-07-24T09:14:07Z",
+            "title": "La pasta madre",
+            "url": "https://www.writersdream.org/forum/forums/topic/43241-la-pasta-madre//?do=findComment&comment=779912",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5837,
+    "num_commenti": 1,
+    "num_posts": 17,
+    "post_after": [
+        {
+            "post_id": 779914,
+            "text": [
+                "Chiedo venia...mi sono dimenticato"
+            ],
+            "timestamp": "2019-07-24T09:26:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=779914"
+        },
+        {
+            "post_id": 780002,
+            "text": [
+                "Grazie davvero!"
+            ],
+            "timestamp": "2019-07-24T18:03:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780002"
+        },
+        {
+            "post_id": 780074,
+            "text": [
+                "Ma certo, grazie."
+            ],
+            "timestamp": "2019-07-25T08:36:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780074"
+        },
+        {
+            "post_id": 780313,
+            "text": [
+                "Grazie per l'attenzione, innanzitutto. Concordo sull'appunto riguardante tempi e lunghezza: ci lavorerò. A presto."
+            ],
+            "timestamp": "2019-07-26T12:00:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780313"
+        },
+        {
+            "post_id": 780334,
+            "text": [
+                "caspita, grazie mille! Sì, vuole essere un racconto pacato, ispirato dalla canzone di Califano/Tiromancino e soprattutto da un'isoletta che ho visitato alcuni anni or sono (Ouessant, bretone e selvaggia)."
+            ],
+            "timestamp": "2019-07-26T14:19:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780334"
+        },
+        {
+            "post_id": 781521,
+            "text": [
+                "grazie mille, assai centrato ogni suggerimento...rivedrò anche il \"magro bonario\". Alla prossima"
+            ],
+            "timestamp": "2019-08-02T06:06:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=781521"
+        },
+        {
+            "post_id": 781678,
+            "text": [
+                "Figurati, nessun segreto: in un paio di discussioni sull'editoria sono stato crudo, realista e probabilmente sgarbato e da lì è nata",
+                "Grazie per il passaggio, hai ragione, anch'io mentre lo buttavo giù mi rendevo conto potesse aver maggior respiro...vedremo.",
+                "A presto."
+            ],
+            "timestamp": "2019-08-03T06:59:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=781678"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 779916,
+            "text": [
+                "Scusami, non riuscivo ad analizzare il muro di testo e mi sono permesso di formattarlo in maniera più leggibile, senza compiere alcun altro intervento.",
+                "Ci sono alcune cose che mi piacciono, anche molto, e altre che invece non mi convincono. Ora non ho tempo di metterci mano ma, sempre che ti faccia piacere, tornerò in seguito a dirti la mia impressione, partendo però dal testo formattato in questo modo."
+            ],
+            "timestamp": "2019-07-24T09:58:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=779916"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 780086,
+            "text": [],
+            "timestamp": "2019-07-25T09:49:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780086"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 780087,
+            "text": [
+                "Qualche consiglio tipografico, innanzitutto:",
+                "– la parte polverosa della strada…ci mancava solo",
+                "i tre puntini di sospensione vanno legati direttamente alla parola che precede e separati da uno spazio da quella che segue, dunque scriviamo:",
+                "la parte polverosa della strada… ci mancava solo",
+                "– «eccomi! Serve acqua dalla fonte?»",
+                "sempre la lettera maiuscola all'inizio di un dialogo: «Eccomi! Serve acqua dalla fonte?»",
+                "– “Forza Nino, veloce!”, si diceva",
+                "hai scelto di usare le virgolette alte per riportare i pensieri, una soluzione possibile ma che io non amo. Il problema si riscontra quando più avanti scrivi: “Per il mio aiutante nascosto”, dove usi lo stesso carattere tipografico per riportare quello che non è un pensiero, ma una scritta su un pacco. E qui allora il lettore rischia di confondersi; il mio consiglio dunque è di usare il corsivo senza virgolette per i pensieri:",
+                "Forza Nino, veloce! si diceva",
+                "che, secondo il mio parere personale, è più piacevole da leggere e non genera confusione tra detto e pensato . Il lettore identifica a colpo d'occhio la riflessione e non rischia di confonderla con una battuta di dialogo.",
+                "Bene, veniamo all'esame del testo.",
+                "facendo sgambettare lesti i piedi piccoli ed evitando accuratamente la parte polverosa della strada…ci mancava solo di arrivare lurido e la frittata era fatta.",
+                "I piedi piccoli non mi piace; o usiamo il diminutivo (i piedini) oppure lo eliminiamo del tutto: è un ragazzino, quindi si può facilmente presumere che i suoi piedi non abbiano le stesse dimensioni di quelle di un adulto;",
+                "la frittata era fatta , qui la consecutio richiederebbe un condizionale passato, ma dal momento che è il pensiero di un ragazzino, per di più sottoposto a uno stress fisico, direi che puoi lasciarlo così: più colloquiale, ma anche più efficace.",
+                "Fortunatamente stava cantando l’ultimo rintocco delle dodici quando spinse, cercando di nascondere quanto fosse trafelato, l’uscio di legno pesante e:",
+                "«eccomi! Serve acqua dalla fonte?» per mostrarsi attento;",
+                "io combatto una battaglia personale contro l'uso invasivo degli incisi e quindi sono forse prevenuto, ma perché separare predicato e complemento oggetto con una frase così lunga?",
+                "Fortunatamente stava cantando l’ultimo rintocco delle dodici quando spinse il pesante uscio di legno, cercando di nascondere quanto fosse trafelato a me pare più scorrevole.",
+                "«Eccomi! Serve acqua dalla fonte?» per mostrarsi attento; ﻿ (disse.)",
+                "più che mostrarsi attento, vuole distrarre l'attenzione dal suo ritardo; la situazione tuttavia mi pare sufficientemente chiara dalla riflessione del ragazzo e per me basta un semplice disse , o anche nulla del tutto.",
+                "Era piena estate, i venti caldi da sud avevano iniziato a sferzare l’isola con continuità e cielo e mare erano un tutt’uno in cui perdersi. Nino esplorava i dintorni da mattino a sera, in bici fino a dove i sentieri lo permettevano, non perdendo occasione per scoprire nuovi anfratti. Questa volta voleva spingersi fino al lato più impervio, quello della alte scogliere, quello che già una volta aveva raggiunto, faticando e seguendo con dovizia gli insegnamenti di papà. Doveva partire non appena pranzato",
+                "Qui qualcosa non funziona nella successione degli eventi.",
+                "Il problema nasce con \"questa volta voleva spingersi\": Nino è appena entrato in casa per pranzare, in quel momento non vuole, o comunque non può, spingersi da nessuna parte. E infatti poi chiarisci che lo farà dopo pranzo.",
+                "Allora perché non aprire il racconto con:",
+                "Era piena estate, i venti caldi da sud avevano iniziato a sferzare l’isola con continuità e cielo e mare erano un tutt’uno in cui perdersi. Nino esplorava i dintorni da mattino a sera, in bici fino a dove i sentieri lo permettevano, non perdendo occasione per scoprire nuovi anfratti. ?",
+                "In questo modo il lettore inquadra la situazione in maniera più chiara (e lo catturi con una prima descrizione, dal momento che il lato \"paesaggistico\" del racconto è, a mio parere, il pezzo forte del brano); poi fai rientrare Nino a casa e spieghi che le sue escursioni riprenderanno dopo pranzo e non \"questa volta\". Tutto risulterebbe più lineare e il lettore non sarebbe costretto a balzi in avanti e all'indietro per seguire la storia.",
+                "lasciarsi lisciare",
+                "trova un sinonimo per uno dei vocaboli, perché sembra un vero e proprio scioglilingua (per noi romagnoli poi, che trasformiamo le \"s\" in \"sc\" è quasi peggio dei trentatré trentini... )",
+                "e, con calma, non appena si fosse presentata la luce corretta, avrebbe ripreso a lavorare.",
+                "prometto che poi non ti stresso più con la faccenda, ma con tutte quelle virgole mi sembra di avere il singhiozzo, se lo leggo a voce alta. Non è più scorrevole se scrivi:",
+                "e avrebbe ripreso a lavorare con calma, non appena si fosse presentata la luce corretta. ?",
+                "Era stato un uomo socievole e agiato fino a quando la incontrò: fu un amore a prima vista e purtroppo anche breve. Un anno, poi la famiglia di lei si trasferì oltreoceano e, nonostante le cieche promesse iniziali, la loro unione naufragò velocemente. Decise di non essere portato per gli affari di cuore e che fosse il momento di dedicarsi a sé, alle pulsioni che percepiva scontrarsi nel suo animo, ramingo ed eremita e la proprietà del nonno materno, sperduta su un isolotto, gli parve subito perfetta. ﻿",
+                "Questa è la parte più infelice del racconto, da riscrivere quasi per intero se un giorno deciderai di revisionarlo.",
+                "Il tempo della narrazione è il passato e, poiché i fatti qui narrati avvengono in un passato precedente, è obbligatorio usare il trapassato. Tu inizi bene con \"era stato\" ma poi slitti inspiegabilmente nel passato remoto.",
+                "C'è poi un altro problema di modo verbale, qui:",
+                "Decise (aveva deciso) di non essere portato per gli affari di cuore e che fosse il momento",
+                "era , non fosse",
+                "non c'è niente di ipotetico nel decidere e infatti hai usato \"che\" e non \"se\":",
+                "dubitava, s'interrogava, valutava... se fosse",
+                "ma",
+                "decise, stabilì, decretò che era",
+                "E poi c'è quel \" la incontrò\" (l'aveva incontrata) che spiazza, perché non sappiamo nulla di questa figura femminile e tu la presenti in scena come se il lettore già la conoscesse.",
+                "da ‘Ntoni, ﻿ un anziano mezzadro",
+                "lasciamo stare 'Ntoni, un personaggio consegnato agli onori della letteratura da Verga. Credo tu possa trovare agevolmente un altro nome per il mezzadro",
+                "Deglutì e iniziò a preparare i colori, quando un tonfo improvviso lo sorprese .",
+                "le due azioni sono contemporanee e tu lo sottolinei con \"quando\"; dunque è corretto usare l'imperfetto:",
+                "Deglutì e stava iniziando a preparare i colori, quando un tonfo improvviso lo sorprese .",
+                "Nino, incuriosito dalla casupola sul finire dell’orizzonte, non aveva rallentato e adesso stava scendendo senza riuscire a decelerare. “Maledetti freni!” pensava, “avrei dovuto sistemarli da un pezzo!”;",
+                "sembrava stesse cavalcando un toro scatenato e in un batter d’occhio si trovò a gambe all’aria e quindi a ruzzoloni fino a sbattere sul muro della casa. Si rizzò in piedi, cercò di ripulire alla bell’e e meglio e",
+                "«e tu chi sei?», domandò perplesso Sergio, continuando subito «ma che hai combinato? Guarda, sanguini dalla testa e dalle ginocchia…vieni, vieni qui alla fontanella», appoggiando la mano destra sulla spalla del ragazzo.",
+                "Si scrutarono per un poco in silenzio, con fugaci occhiate nel momento in cui uno dei due abbassava lo sguardo; quindi Nino si accomiatò, un poco imbarazzato ma soprattutto perché in soggezione di fronte a quello strano personaggio, tanto magro quanto dall’espressione bonaria.",
+                "Modificherei un po' il passaggio, così:",
+                "Incuriosito dalla casupola sul finire dell’orizzonte, Nino non aveva rallentato e adesso stava scendendo senza riuscire a decelerare. Maledetti freni! pensava, avrei dovuto sistemarli da un pezzo.",
+                "Gli sembrava di cavalcare un toro scatenato; in un batter d’occhio si ritrovò a gambe all’aria e prese a ruzzolare, finché andò a sbattere contro il muro della casa. Si rizzò in piedi e cercò di ripulirsi alla bell’e meglio.",
+                "«E tu chi sei?» domandò Sergio, perplesso. «Guarda cosa hai combinato: sanguini dalla testa e dalle ginocchia…Vieni qui alla fontanella.»",
+                "Appoggiò la mano sulla spalla del ragazzo e i due si scrutarono in silenzio, con occhiate fugaci non appena l'altro abbassava lo sguardo. In soggezione di fronte a quello strano personaggio, tanto magro quanto bonario all'aspetto, con una punta d'imbarazzo Nino si accomiatò, non appena gli fu possibile senza rischiare di mostrarsi sgarbato.",
+                "prese l’abitudine di avvicinarsi alla casa di Sergio e di spiare nascosto nell’ultima f﻿ila di arbusti",
+                "tra l'ultima fila di arbusti o dall 'ultima fila di arbusti",
+                "raffigurante né mari né tempeste.",
+                "che non raffigurava il participio presente qui è di una pesantezza estrema",
+                "le persiane vermiglia﻿",
+                "vermiglie o color vermiglio",
+                "Si sentì avvampare in misto tra vergogna, titubanza e curiosità",
+                "in un misto di",
+                "Decise di rischiare e scartarlo",
+                "e di scartarlo, ma ancora preferibile: di arrischiarsi a scartarlo",
+                "A mio parere il racconto soffre di una certa esiguità di spazio: sono tanti i filoni narrativi e comprimerli in appena ottomila caratteri toglie respiro al brano. Con tutto ciò sei riuscito ugualmente a delineare in maniera brillante il desiderio di avventura e il senso di scoperta di Nino; meno riuscita la figura del pittore, di cui apprendiamo parecchi dettagli del passato ma troppo pochi del presente. Vorremmo sapere di più di quelle pulsioni che lo agitano e del suo animo ramingo. In quella carezza che imbarazza Nino e nell'affetto che Sergio manifesta per lui c'è un sentimento di mancata paternità? O qualcosa d'altro?",
+                "I passaggi più riusciti sono certamente quelli dedicati al paesaggio, che riesci a descrivere con vere e proprie pennellate di colore: il risultato è molto \"visivo\" e di grande impatto. Potresti migliorarlo ancora se tu aggiungessi qualche impressione olfattiva: quel vento caldo porterà di certo con sé dei profumi, in certi orari il mare saturerà l'aria con l'aroma del salmastro, e c'è la povere che si solleva dalla strada, la zuppa di ceci il cui effluvio riempirà la stanza dove la famiglia di Nino consuma il pasto...",
+                "È comunque un bel racconto, suggestivo e mai banale, che meriterebbe di essere allungato e revisionato, soprattutto per quanto riguarda i tempi e i modi del verbo.",
+                "Già così è comunque una buona prova, che mostra la stoffa del narratore. Da coltivare, con impegno e umiltà.",
+                "Buon proseguimento."
+            ],
+            "timestamp": "2019-07-25T09:50:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo//?do=findComment&comment=780087"
+        }
+    ],
+    "text": [
+        "Nino stava correndo a perdifiato: era in ritardo, dannazione, e mamma avrebbe usato di nuovo la canna sul suo deretano. “Forza Nino, veloce!”, si diceva a bassa voce facendo sgambettare lesti i piedi piccoli ed evitando accuratamente la parte polverosa della strada…ci mancava solo di arrivare lurido e la frittata era fatta. Fortunatamente stava cantando l’ultimo rintocco delle dodici quando spinse, cercando di nascondere quanto fosse trafelato, l’uscio di legno pesante e: «eccomi! Serve acqua dalla fonte?» per mostrarsi attento; la madre alzò gli occhi dalla pentola in cui ribolliva la zuppa di ceci, patate ed erbette, lasciò illuminare il viso da un sorriso a falce di luna e gli fece cenno di accomodarsi. Era piena estate, i venti caldi da sud avevano iniziato a sferzare l’isola con continuità e cielo e mare erano un tutt’uno in cui perdersi. Nino esplorava i dintorni da mattino a sera, in bici fino a dove i sentieri lo permettevano, non perdendo occasione per scoprire nuovi anfratti. Questa volta voleva spingersi fino al lato più impervio, quello della alte scogliere, quello che già una volta aveva raggiunto, faticando e seguendo con dovizia gli insegnamenti di papà. Doveva partire non appena pranzato e tenere un ritmo sostenuto di pedalata per una trentina di minuti; quindi si saliva, avrebbe forse dovuto spingere per raggiungere il punto più alto del promontorio per poi aver strada libera e lasciarsi lisciare dall’aria fresca.",
+        "Sergio stava riposando all’ombra del pergolato e nel contempo rimuginava sulle modifiche da fare al dipinto; i toni cobalto e amaranto non lo convincevano e, con calma, non appena si fosse presentata la luce corretta, avrebbe ripreso a lavorare. Era stato un uomo socievole e agiato fino a quando la incontrò: fu un amore a prima vista e purtroppo anche breve. Un anno, poi la famiglia di lei si trasferì oltreoceano e, nonostante le cieche promesse iniziali, la loro unione naufragò velocemente. Decise di non essere portato per gli affari di cuore e che fosse il momento di dedicarsi a sé, alle pulsioni che percepiva scontrarsi nel suo animo, ramingo ed eremita e la proprietà del nonno materno, sperduta su un isolotto, gli parve subito perfetta. Andava in paese una volta al mese per le provviste, soprattutto non mancava mai di fermarsi a fare incetta di otri di vino da ‘Ntoni, un anziano mezzadro con cui aveva fatto quasi amicizia. Le giornate erano segnate dal suo umore, dallo stomaco, dal chiarore in veranda; orologi e telefoni non esistevano, regole e preoccupazioni nemmeno. Versò un bicchiere di rosso e subito un altro: assaporava con gusto, questa volta ‘Ntoni aveva fatto un’ottima vendemmia e il risultato finale era profondo, rotondo e profumato. Deglutì e iniziò a preparare i colori, quando un tonfo improvviso lo sorprese.",
+        "Nino, incuriosito dalla casupola sul finire dell’orizzonte, non aveva rallentato e adesso stava scendendo senza riuscire a decelerare. “Maledetti freni!” pensava, “avrei dovuto sistemarli da un pezzo!”; sembrava stesse cavalcando un toro scatenato e in un batter d’occhio si trovò a gambe all’aria e quindi a ruzzoloni fino a sbattere sul muro della casa. Si rizzò in piedi, cercò di ripulire alla bell’e e meglio e «e tu chi sei?», domandò perplesso Sergio, continuando subito «ma che hai combinato? Guarda, sanguini dalla testa e dalle ginocchia…vieni, vieni qui alla fontanella», appoggiando la mano destra sulla spalla del ragazzo. Si scrutarono per un poco in silenzio, con fugaci occhiate nel momento in cui uno dei due abbassava lo sguardo; quindi Nino si accomiatò, un poco imbarazzato ma soprattutto perché in soggezione di fronte a quello strano personaggio, tanto magro quanto dall’espressione bonaria.",
+        "Nei giorni seguenti prese l’abitudine di avvicinarsi alla casa di Sergio e spiare nascosto nell’ultima fila di arbusti: c’era sempre un movimento rarefatto e un’atmosfera ovattata; anche il vento pareva sonnecchiare ed evitare di disturbare il pittore che, indossato un largo cappello di paglia, passava molto più tempo del solito dinanzi al cavalletto. Sergio si era accorto fin dal primo momento delle visite discrete del ragazzo, ma non mosse un dito: parevano due gatti che si adulavano da tetti di palazzi contigui, senza mai il coraggio di invadere uno il terreno dell’altro.",
+        "L’autunno iniziò a gorgogliare e rendersi dispettoso, prima con temporali violenti quindi con un brusco abbassamento delle temperature; il cielo, una volta indossato l’impermeabile grigio, non rischiarava più il lavoro dell’uomo che si preparò per rientrare sulla terraferma, per svernare e mettere insieme i denari che gli permettessero la sussistenza; la bella stagione aveva fruttato quindici dipinti più uno, raffigurante né mari né tempeste.",
+        "Nino, di rientro dal primo mese di scuola sfruttò una domenica di sole per tornare al promontorio: le persiane vermiglia erano ben serrate e il tavolo, le sedie e il cavalletto probabilmente accatastati all’interno. C’era però un pacco sulla porta, con scritto in stampatello “Per il mio aiutante nascosto”. Si sentì avvampare in misto tra vergogna, titubanza e curiosità…era forse per lui? Decise di rischiare e scartarlo; avrebbe comunque avuto il tempo per rimettere ogni cosa al suo posto. Il cuore iniziò a tambureggiare e un senso di calore lo avvolse: la bellezza e l’armonia delle tinte lo lasciarono senza fiato. Mare e cielo si mischiavano sullo sfondo e si poteva riconoscere facilmente il retro della casa e soprattutto la macchia verde da cui spuntavano una ruota di bicicletta e una testa scompigliata assai simile alla sua. Sorrise, mise il pacchio sotto braccio e iniziò a fare respiri profondi. La primavera sarebbe ricomparsa timida in pochi mesi e, probabilmente, avrebbe danzato fra i fiori, le nuvole imbizzarrite e la tenera amicizia fra un uomo ferito e un ragazzino curioso"
+    ],
+    "timestamp": "2019-07-24T09:16:03Z",
+    "title": "Un tempo piccolo",
+    "topic_id": 43990,
+    "url": "https://www.writersdream.org/forum/forums/topic/43990-un-tempo-piccolo/"
+}

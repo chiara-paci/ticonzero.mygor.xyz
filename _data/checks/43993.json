@@ -1,0 +1,94 @@
+{
+    "author": {
+        "author_id": 28184,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Lucrezia Malara",
+        "url": "https://www.writersdream.org/forum/profile/28184-lucrezia-malara/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , è un piacere leggerti e commentare il tuo frammento.",
+                    "Vorrei dirti subito che apprezzo il tuo stile di scrittura. Amo molto anch'io utilizzare immagini ed espressioni \"ermetiche\" all'interno dei miei scritti, a costo di apparire incomprensibile o di ricevere critiche sulla \"poca chiarezza\". Alla fine scriviamo soprattutto per noi stessi, o no?",
+                    "Premetto che è un lavoro che faccio soprattutto sulla mia scrittura e che, secondo me, con il tempo si può soltanto migliorare, ma mi sento di darti un consiglio: cerca di dare più spazio alla scrittura, di farla respirare di più, di renderla libera. Adesso, io non so se tu abbia giù pubblicato scritti più corposi ed è sicuramente una mia mancanza, ma è davvero un peccato che questo frammento sia così breve. Avresti potuto dare qualche colore in più al contesto che ci offri.",
+                    "Un esercizio utile potrebbe essere quello di sostituire i gerundi con frasi più ampie che restituiscano lo stesso significato. Un altro esercizio potrebbe essere quello di servirti più spesso del punto per spezzare le frasi all'interno dello stesso concetto: in questo modo puoi conferire più elementi al tuo scritto senza inoltrarti in subordinate troppo complesse (relativamente a questo, ho riportato in corsivo dei tratti che avrei reso diversamente).",
+                    "Come dicevo prima, sono accorgimenti che provo a utilizzare anch'io per migliorarmi. Spero di esserti stata utile, seppure nella mia poco esperienza.",
+                    "A presto."
+                ]
+            ],
+            "timestamp": "2019-07-24T14:00:13Z",
+            "title": "Riflesso",
+            "url": "https://www.writersdream.org/forum/forums/topic/43591-riflesso//?do=findComment&comment=779971",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2506,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 780023,
+            "text": [
+                "Ciao , grazie per il commento e per i tuoi preziosi suggerimenti.",
+                "A presto."
+            ],
+            "timestamp": "2019-07-24T20:35:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43993-soffio-vitale-che-manca//?do=findComment&comment=780023"
+        },
+        {
+            "post_id": 780438,
+            "text": [
+                "Ciao a tutti e grazie per i vostri commenti.",
+                "Grazie per avermi segnalato il racconto di . Amo questo posto proprio per questo: qui trovo ispirazione continua.",
+                "A presto."
+            ],
+            "timestamp": "2019-07-27T09:48:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43993-soffio-vitale-che-manca//?do=findComment&comment=780438"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Ciao a tutti, vorrei proporvi questo frammento scritto di getto. Spero vi piaccia.",
+        "Ho vissuto i miei primi anni senza sapere nulla di te. Non perché volessi dimenticare, e nemmeno perché non volessi sapere. Semplicemente perché tu non c’eri, non c’eri mai stata.",
+        "Mi ritorna in mente la più chiara immagine delle mie ginocchia rotte, dei rimproveri continui, esasperati, stanchi. Di una madre e il suo segreto ancora denso di tagli sanguinanti.",
+        "Mi mancano le guance che bruciano di lacrime, il silenzio riparatore che faceva sempre seguito. Corro tra i colori accesi di un’infanzia lontana, ormai così tanto lontana da sentirne gli echi strozzati. E mi sembra di affogare. Ogni volta che ritorna, io annego insieme a lei.",
+        "Di te nessuna fotografia, su di te nessuna parola. Non il flebile, morente e remoto ricordo di un sogno che mi avesse portata fino a te, almeno una volta.",
+        "E poi? Poi qualcuno ne parla. Non ha il permesso di parlarne, non ne ha il diritto. Eppure lo fa, vomita la mia verità nel corso di un giorno qualsiasi, un giorno traboccante di estate. E si fa presto a dimenticare. Come quando si urta uno sconosciuto per sbaglio, per strada. E gli si chiede scusa.",
+        "Nemmeno io ce l’ho, l’età adatta. Non dovrei ascoltare, non dovrei sapere, non ancora. Eppure ascolto, accolgo i frammenti confusi di una verità rotta. Ne raccolgo i pezzi sparsi sul pavimento.",
+        "Io no, non avrei mai più dimenticato.",
+        "Ancora ripenso a tutti quei perché a cui nessuno ha mai saputo dare risposta.",
+        "Non è stato facile fare delle domande. Non è stato facile assorbire quei non lo so, ma li ho dovuti accettare. Quanto deve essere stato dilaniante, confuso, incomprensibile quello che è accaduto? Un incubo che toglie il respiro e costringe a riprendere conoscenza, ossigeno.",
+        "Ora, che di tempo ne è passato, ho costruito di te un’immagine inedita, un volto che avrei portato con me per tutti i miei respiri. Nella memoria delle cose mai accadute, dei discorsi mai ascoltati, dei volti mai conosciuti.",
+        "Ripenso al tempo che abbiamo trascorso insieme senza saperlo, nel limbo dei non ancora venuti al mondo. Hai trascorso con me tutto il tempo che avevi, mi sei stata accanto sempre. Forse mi hai tenuta in vita anche tu, con le tue pulsazioni dolorose. Nessun altro ti ha avuta così vicina al cuore, soltanto io.",
+        "Adesso, tu sei una scritta che nessuno comprende, un marchio sulla pelle. Sei il soffio vitale che mi manca per essere completa, qui su questa Terra.",
+        "Lì dove esisti senza che io possa vederti con gli occhi, sei mia sorella."
+    ],
+    "timestamp": "2019-07-24T14:15:13Z",
+    "title": "soffio vitale che manca",
+    "topic_id": 43993,
+    "url": "https://www.writersdream.org/forum/forums/topic/43993-soffio-vitale-che-manca/"
+}

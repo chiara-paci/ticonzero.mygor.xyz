@@ -1,0 +1,106 @@
+{
+    "author": {
+        "author_id": 28792,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "deephell",
+        "url": "https://www.writersdream.org/forum/profile/28792-deephell/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.37333333333333335,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.37333333333333335
+            },
+            "text": [
+                [
+                    "Ciao, a me sembra davvero un buon incipit, infatti non saprei come smontarlo. Credo abbia tutto quello che serve per incuriosire e alla fine far chiedere al lettore come procederà la storia. L'ambiente è ben descritto e l'atmosfera viene creata perfettamente a mio avviso. Mi pare che con le altre risposte i dubbi che avevo mentre leggevo sono stati chiariti. Quindi direi che siamo tutti d'accordo che ha del potenziale questo incipit"
+                ]
+            ],
+            "timestamp": "2019-07-22T16:37:01Z",
+            "title": "Maiolo, 29 maggio 1700",
+            "url": "https://www.writersdream.org/forum/forums/topic/43366-maiolo-29-maggio-1700//?do=findComment&comment=779659",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1186,
+    "num_commenti": 1,
+    "num_posts": 13,
+    "post_after": [
+        {
+            "post_id": 779736,
+            "text": [
+                "Come ho detto è una specie di brainstorming quello che ho scritto, è da mettere a posto. Volevo qualche suggerimento. E' per un corto del quale ho scritto la sceneggiatura, mi serve da mettere all'inizio come didascalia, per dare un quadro della situazione.",
+                "Ci sono delle frasi che non ho formulato bene. Quello che cercherei di fare è appunto riassumere il concetto.",
+                "I disoccupati non sono vittime come tali, ma dal punto di vista di essere persone pronte ad obbedire per disperazione, al punto di non ragionare sul fatto che il lavoro che vanno ad accettare sia una presa in giro, senza che se ne accorgano (come l'esperimento di Milgram, in molti casi, appunto). Sul fatto che siano il cancro della società appunto, vorrei farlo capire, più che scriverlo esplicitamente come ho fatto, non trovo sia funzionale. Lo scopo è creare una società senza le persone \"di mente debole\", cioè che obbediscono senza ritegno all'autorità, che non impongono il loro pensiero e quindi persone che potrebbero non aiutare il progresso a livello intellettuale.",
+                "In quella frase ho omesso GOVERNO, ma comunque va bene come l'hai riformulata.",
+                "Lo stile di scrittura sì, lo farei più come un saggio, è un introduzione ad un filmato, non è un racconto. Però si potrebbe pensare in vari modi e sceglierlo come rende al meglio."
+            ],
+            "timestamp": "2019-07-22T23:00:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43978-introduzione-cortometraggio-distopico//?do=findComment&comment=779736"
+        },
+        {
+            "post_id": 779876,
+            "text": [
+                "Il nome del \"movimento\" non so se metterlo, \"Ripulitori\" era provvisorio, \"Risolutori\" non mi convince...",
+                "Non ho usato il congiuntivo, era in fase di elaborazione. Sto pensando cosa lasciare o meno, anche grazie al vostro aiuto.",
+                "Il seguito è basato sul disorientamento della vittima, che non sa se sta facendo qualcosa di giusto o di sbagliato. Vedremo se riuscirò a rendere l'idea.",
+                "Devo fare un cortometraggio e quindi il pubblico lo leggerà come prima cosa che apparirà sullo schermo, giusto per capire in che situazione siamo.",
+                "Il tipo di pubblico è difficile da definire, direi che è per chiunque. Vorrei appunto capire chi lo apprezzerà, una volta ultimato, e chi no. Non c'è niente di violento, forse un po' di violenza verbale, ma vorrei puntare più a rendere il tutto disturbante. Se verrà bene quindi piacerà a gente che apprezza situazioni particolari ovviamente."
+            ],
+            "timestamp": "2019-07-23T23:38:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43978-introduzione-cortometraggio-distopico//?do=findComment&comment=779876"
+        },
+        {
+            "post_id": 780964,
+            "text": [
+                "Ciao, le critiche che mi fai le trovo giuste e sono anche tra i motivi perchè sono indeciso sul da farsi. L'ho scritto negli appunti e senza neanche troppo controllare l'ho copiato qui. Avrei dovuto ricontrollarlo giusto un pelo di più... Per il plurale nella frase ho semplicemente saltato il soggetto \"governo\", mentre per le virgole c'è un po' di indecisione generale: quando scrivo qualcosa di descrittivo al volo tendo a metterne tante.",
+                "Quello che vorrei puntare a far capire di più, non è il fatto che le vittime siano disoccupati in quanto tali, ma che siano persone che accettino di collaborare in situazioni assurde, quindi considerati inutili al progresso. Diciamo che l'annuncio è ambiguo e i \"datori di lavoro\" considerano il candidato già un debole, per di più , una volta sul posto, se questa persona seguisse tutte le indicazioni e obbedisse, loro lo reputerebbero del tutto inutile per costruire la società che vogliono, così lo eliminano. Per non essere eliminata la persona che si presenta, vedendo che il lavoro consiste nel torturare un uomo, potrebbe dire di no e ricevere i complimenti da quelle persone, che volevano prenderlo in giro fino alla fine per poi portarlo al macello.",
+                "La situazione è quindi questa, circa: questo gruppo di estremisti, pensa ad una società ideale e vorrebbe delle persone che non siano dei pecoroni. Stanno attuando un metodo per eliminare i cosiddetti \"pecoroni\", le persone che non vogliono per la loro società.",
+                "Parte un po' da un mio pensiero tutto ciò: vorrei che le persone che seguono la massa fossero molte meno. Con ciò non voglio dire che debbano essere eliminate fisicamente, ma educate ad un miglior vivere civile. L'educare persone che non vogliono essere educate è qualcosa di complesso e non si capisce chi in realtà voglia veramente dei miglioramenti. Alla fine ci conviene lasciare così com'è e vivere e lasciar vivere. Qualche pazzo però potrebbe attuare qualche modo per etichettare i presunti pecoroni ed eliminarli. Già l'esperimento di Milgram nacque dal fatto del voler dimostrare come le persone obbediscano all'autorità anche a richieste assurde.",
+                "Tra i tutori della legge ci sarà sempre qualcuno che starà sempre dalla parte della legge anche quando la legge sarà oggettivamente sbagliata. Così il cittadino che non vuole avere problemi con la legge, starà dalla parte della legge sbagliata. In alcuni momenti storici ciò sarà pericoloso, in alcuni casi ci sarà sempre qualcuno ed in altri casi saranno anche in molti.",
+                "Nel caso che voglio far vedere io, siamo arrivati ad un punto dove alcune persone vogliono farsi la legge da sole e al governo sono scappati di mano alcuni estremisti. Nel futuro, nel decennio dopo queste \"sviste\", il governo è cambiato e cambiando ha anche accettato questi metodi che seppur non siano proprio legali, sono comunque tollerati e coperti.",
+                "Quello che voglio far capire quindi con l'introduzione scritta è che questo scempio è andato avanti per un periodo di tempo ed è inaccettabile che sia successo.",
+                "Speriamo di aver chiarito un pochino, ci penserò ancora un po' su."
+            ],
+            "timestamp": "2019-07-29T22:48:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43978-introduzione-cortometraggio-distopico//?do=findComment&comment=780964"
+        },
+        {
+            "post_id": 781102,
+            "text": [
+                "Sì, pressappoco. L'umanità passa purtroppo passa da fasi simili, ragionamenti mal interpretati che recano danni."
+            ],
+            "timestamp": "2019-07-30T19:42:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43978-introduzione-cortometraggio-distopico//?do=findComment&comment=781102"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Ciao, dovrei scrivere una didascalia introduttiva per un cortometraggio e vorrei una mano a scrivere qualcosa di intrigante e fluido, da questa specie di brainstorming:",
+        "Nel XXI secolo, dopo che lo stato entrò in profonda crisi, la confusione totale permise la diffusione di annunci di lavoro ambigui ed enigmatici, su internet e sui giornali. I disoccupati, disperati, accettavano. Un gruppo estremista, che poi si scoprì essere chiamato i \"Ripulitori\" attirava gente con disperato bisogno di lavoro e li sottoponeva ad un rivisitato esperimento di Milgram. Se la vittima lo portava fino in fondo veniva eliminato a sua insaputa dopo un colloquio con l'\"organizzatore\". L'individuo spariva e non veniva più ritrovato. Lo stato non fece nulla per evitare questa situazione, forse riteneva potesse essere utile ad una pulizia etnica e morale. \"Ristabilitasi\" la situazione, nei decenni successivi, capi di stato credettero che questa fu una buona idea e l'attuò, per eliminare persone non idonee a popolare il paese. Queste persone erano considerate come un cancro che a lungo andare avrebbe infettato il paese.",
+        "Vorrei qualcosa che possa sembrare quasi vero, che incuta timore nel leggerlo."
+    ],
+    "timestamp": "2019-07-22T16:48:17Z",
+    "title": "Introduzione cortometraggio distopico",
+    "topic_id": 43978,
+    "url": "https://www.writersdream.org/forum/forums/topic/43978-introduzione-cortometraggio-distopico/"
+}

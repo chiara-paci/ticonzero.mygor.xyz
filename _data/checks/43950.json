@@ -1,0 +1,192 @@
+{
+    "author": {
+        "author_id": 30024,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "irene m",
+        "url": "https://www.writersdream.org/forum/profile/30024-irene-m/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "siccome (forse) più tardi posterò una mia poesia, mi dilungherò un po’ nell’analisi di questa tua, anche se di solito non amo “intervenire” con proposte di tagli o cambiamenti nei testi altrui. Inoltre prendi tutto come un’opinione del tutto personale senza alcuna pretesa di valore assoluto.",
+                    "Mi piace molto l’inizio della tua poesia, fino a “sulle sue spalle”; mi piace sia il concetto espresso (che comprendo e in parte condivido, anche se io a dire il vero non so bene cosa identifichi un poeta, personalmente sono solo una che ogni tanto prova a scrivere righe di parole, ma di certo un certo tipo di “pazzia” c’è tutta! ) sia la forma. In particolare mi piacciono quel dolore e quella pazzia che pesano sulle spalle del poeta: si sente e si visualizza, tutto quel peso, l’hai dipinto bene. L’unica cosa che cambierei, forse, è l’uso della maiuscola per poesia e poeta : preferirei la minuscola per entrambi, anche per non esagerare con l’importanza da attribuire al poeta, ma anche alla poesia stessa che, secondo me, non deve essere posta su un piedistallo ma in mezzo a tutti.",
+                    "La parte da “scialle” a “fogne” invece, l’ho trovata poco coerente con l’inizio, dal punto di vista formale: secondo me rallenta troppo il ritmo, ci sono troppi ”e”, mi sembra troppo descrittiva (e il senso profondo della poesia si perde tra le parole che risultano un po’ forzate).",
+                    "Per quanto riguarda le rime, che usi solo in qualche punto, secondo me “invecchiano” un po’ il testo, sembrano più un artificio stilistico utilizzato a tratti (e l’ultima, mare–amare , un po’ scontata: volendo l’uomo può sussurrare al cielo, dato che poi parli proprio del cielo), fatta eccezione per la rima interna meraviglia-bisbiglia, che essendo, appunto, interna, non è per nulla scontata; forse in questo contesto così introspettivo e un po' fosco, non sono poi così necessarie la musicalità e la leggerezza che danno le rime, oppure le userei sempre e non solo in alcuni versi (o al massimo in una sola occasione, ma che sia davvero incisiva). Il discorso dell’uso o meno delle rime, comunque, è davvero molto soggettivo (personalmente non le amo quindi sto sempre attenta ad evitarle, ma non per questo lo devono fare tutti!).",
+                    "Ho trovato invece davvero molto bella, come forma e significato, la chiusa (che forse acquisterebbe maggior risalto senza la ripetizione della parola “vedere”).",
+                    "Quindi, per riassumere, personalmente snellirei un po’ la parte centrale (e anche sotto, eliminerei un “chiederesti”, quello del poeta che sorride alle tombe e ama le sere di febbraio, sempre per non appesantire l’andamento della lettura e un po’ anche per non esagerare con lo stereotipo del poeta cupo, solitario... o sarà che il poeta che sorride alle tombe mi ha fatto venire in mente I sepolcri e altre poesie di Foscolo! , meraviglioso per carità, ma mi rimanda a un’idea un po’ “scolastica” di poesia ).",
+                    "Buona poi l’idea di rivolgersi al lettore, del dialogo, anche io la uso spesso, e mi piace leggere poesie di questo tipo: penso che aiuti il coinvolgimento di chi legge.",
+                    "Spero di non averti annoiato troppo (e se hai tempo e ti va, passa in Ingresso per raccontaci un po’ di te).",
+                    "(Riporto sotto il testo con le mie personalissime modifiche)",
+                    "Se sapessi",
+                    "quanto pesa",
+                    "di dolore e",
+                    "di pazzia",
+                    "ogni parola",
+                    "come pietra",
+                    "sulle sue spalle",
+                    "e che di scialle",
+                    "colorati adorna",
+                    "solo l'abisso",
+                    "e la malinconia ...",
+                    "riveste d'oro",
+                    "le cornici",
+                    "di un quadro tetro",
+                    "e per metro",
+                    "della felicità",
+                    "ha solo i versi",
+                    "che dispersi",
+                    "molto spesso",
+                    "fuggono",
+                    "come topi",
+                    "nelle fogne ...",
+                    "se tu sapessi",
+                    "cosa è la Poesia",
+                    "per un Poeta,",
+                    "mai chiederesti",
+                    "quale sia",
+                    "la meta del mio cammino,",
+                    "non mi chiederesti",
+                    "perché guardo",
+                    "un pino solitario",
+                    "e innevato",
+                    "come un rosario",
+                    "bianco e invecchiato,",
+                    "non mi chiederesti",
+                    "perché sorrido",
+                    "compiacente",
+                    "alle tombe",
+                    "e son felice",
+                    "nelle spente",
+                    "notti di Febbraio.",
+                    "Se tu sapessi",
+                    "cosa è la Poesia",
+                    "per un Poeta,",
+                    "non ti darebbe",
+                    "grande meraviglia",
+                    "vedere un uomo",
+                    "che bisbiglia al mare (cielo-? ),",
+                    "vedere un uomo",
+                    "che cerca d'amare",
+                    "il buio oltre le nuvole."
+                ]
+            ],
+            "timestamp": "2019-07-20T16:39:12Z",
+            "title": "Se tu sapessi",
+            "url": "https://www.writersdream.org/forum/forums/topic/43947-se-tu-sapessi//?do=findComment&comment=779328",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 361,
+    "num_commenti": 1,
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 779353,
+            "text": [
+                "Ciao , grazie mille ! Ho fatto un salto in Officina dopo tanto tempo, in effetti, e devo dire che è sempre un piacere (oltre che rituffarsi nella compagnia del WD) lasciare un proprio scritto e ricevere pareri, impressioni e consigli, e riuscire così a vedere cose che prima ci erano del tutto sfuggite. In questo caso, per esempio, le tue osservazioni sulle assonanze sono state illuminanti: voglio, senza dubbio, ripensare entrambi i punti che mi hai segnalato. (Per ovunque/ogni caos , sembra, sì, una ripetizione concettuale, ma intendevo indicare con ovunque un luogo fisico e con ogni caos un luogo più mentale - ma effettivamente potrebbero essere assimilati).",
+                "Mi fa molto piacere questa cosa che hai scritto! Come sempre, se posto qualche cosa è proprio per vedere \"l'effetto che fa\", per capire come (e se) arrivano le parole... o se per caso non si capisce nulla . Perciò grazie mille ancora per il tuo commento, Anglares, a presto!"
+            ],
+            "timestamp": "2019-07-20T20:08:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore//?do=findComment&comment=779353"
+        },
+        {
+            "post_id": 779528,
+            "text": [
+                "Apprezzo molto la tua schiettezza e quindi grazie per il tuo parere (e anche per la fiducia!) perché, come dicevo prima ad Anglares, se posto una poesia qui è perchè mi servono pareri sinceri, positivi o negativi non ha importanza.",
+                "... questa però è molto più di una delusione! questa è una delle poche situazioni che giustificano l'allontanamento dal tavolo (e poi dal ristorante!) con la scusa della toilette . Comunque, scherzi a parte, provo a spiegarti (ma non per farti cambiare idea, solo per spiegare il perché della semplicità - o banalità): qui",
+                "parli di analogie adolescenziali e in effetti l'idea era proprio quella di un dialogo con una ragazza adolescente (quindi, dato il titolo, per coerenza non potevo essere troppo filosofica, perché altrimenti l'adolescente mi salutava dopo tre parole!) che, inesperta, chiede quali siano i \"sintomi\" inconfondibili dell'amore. Quindi non volevo arrampicarmi in metafore ardite e troppo concettuali, volevo dar vita a una sorta di \"show don't tell\", qualcosa che mostrasse cosa (mi soffermo solo su alcuni effetti, ovviamente, anche perché preferisco scrivere poesie brevi) dovrebbe/potrebbe sentire una persona che probabilmente è innamorata. Il sorriso, dunque, quello ebete che ci si forma mentre camminiamo da soli e magari in realtà ci sono proprio pochi motivi per sorridere nella nostra vita... ma noi sorridiamo, pensando a quella persona: sarà banale, però è sicuramente un sintomo; e poi il cuore che rimbomba come se in tasca o nella borsa ci portassimo dietro John Bonham che picchia sulla batteria; quindi l'essere svagati (non accorgersi che piove) e infine l'insonnia (vabbé, quella magari ci fosse solo quando siamo innamorati!). Sì, in effetti sono cose banali, ma no, la poesia è stata scritta forse troppo di getto, ma non svogliatamente, questo mi sarebbe veramente impossibile. Una riflessione più attenta sulla scelta delle parole, questo assolutamente sì, sarà fatta, senza dubbio. Grazie ancora per la tua analisi schietta, alla prossima!"
+            ],
+            "timestamp": "2019-07-21T20:13:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore//?do=findComment&comment=779528"
+        },
+        {
+            "post_id": 779555,
+            "text": [
+                "... ti ringrazio (in realtà più che un Roberto Baggio mi sento come l’imbranatissimo ragazzetto che ha cominciato l’altro ieri a tirar calci a un pallone…);",
+                "no no! Non ho nemmeno tanta simpatia per il marketing (né organizzo i convegni per i Terrapiattisti )! Ciao, grazie ancora."
+            ],
+            "timestamp": "2019-07-22T06:12:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore//?do=findComment&comment=779555"
+        },
+        {
+            "post_id": 780290,
+            "text": [
+                "Ciao e grazie mille per il tuo commento!",
+                "sì... in realtà il senso è quello (cioè se piove e NON apri l'ombrello è il sintomo che potrebbe far pensare a un certo sentimento - che un po' rimbambisce ! -, mentre se piove e normalmente lo apri, no... ), cioè continuo con i sintomi, ma nella seconda parte non c'è più la negazione che precede le due azioni; ottimo il suggerimento della partita a due! grazie, sì, a ripensarci convince di più anche me.",
+                "Ciao, grazie ancora Zaza, a presto!"
+            ],
+            "timestamp": "2019-07-26T10:24:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore//?do=findComment&comment=780290"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 779335,
+            "text": [
+                "ciao, come stai?",
+                "Sono lieto di ritrovarti in Officina. Bello questo dialogo poetico tra mamma è figlia/o.",
+                "Ho apprezzato molto i due incisi, soprattutto il primo, perché spezzano il flusso del dialogo. Questo ne aumenta la vicinanza a quella dimensione intuitiva e creativa con cui si dovrebbe leggere. Soprattutto una poesia.",
+                "Anche se proprio nel primo inciso trovo una ripetizione concettuale:",
+                "Anche se devo ammettere che questa \"inesattezza\" è funzionale a quel gioco di riconfigurazione della strofa di cui parlavo sopra.",
+                "Questa assonanza mi lascia qualche dubbio.",
+                "Qui la ripetizione è invece molto efficace.",
+                "Una variazione fonetica potrebbe rendere il passaggio più dinamico, ad esempio:",
+                "altro non è che una piacevole partita a carte.",
+                "Anche se così si allunga un po' troppo il verso. Ci sarebbe da lavorarci su.",
+                "Nell'insieme, a parte qualche piccola nota personale, la trovo una poesia molto fresca e spontanea. C'è luce nei versi e esprime quella gioia che vorresti raccontare nel definire il concetto d'amore.",
+                "Piaciuta. Molto.",
+                "A presto."
+            ],
+            "timestamp": "2019-07-20T17:52:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore//?do=findComment&comment=779335"
+        }
+    ],
+    "text": [
+        "Mamma, come si riconosce l’amore?",
+        "Se non ti esplode un sorriso",
+        "mentre cammini da sola",
+        "– nell’ovunque e in ogni caos –",
+        "se il battito non ti scuote",
+        "nei pensieri, nelle vene e in fondo agli occhi",
+        "come i colpi di una batteria scatenata",
+        "– che mai si ferma, mai –",
+        "se piove e apri l’ombrello",
+        "e se ancora riesci a dormire,",
+        "è solo una piacevole partita a carte",
+        "non chiamarlo amore."
+    ],
+    "timestamp": "2019-07-20T16:47:57Z",
+    "title": "Mamma, come si riconosce l’amore?",
+    "topic_id": 43950,
+    "url": "https://www.writersdream.org/forum/forums/topic/43950-mamma-come-si-riconosce-l%E2%80%99amore/"
+}

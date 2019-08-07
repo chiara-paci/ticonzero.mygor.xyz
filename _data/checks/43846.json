@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 32613,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Milamorrison27",
+        "url": "https://www.writersdream.org/forum/profile/32613-milamorrison27/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.3611111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.3611111111111111
+            },
+            "text": [
+                [
+                    "ciao, le tue poesie le trovo sempre molto belle e particolari. In questa dai un messaggio di speranza, di mondi nuovi e di bellezza in essi racchiusi, purtroppo negati con lo spuntare del sole, dove inizia il giorno nuovo e si affronta la dura realtà della vita, e l'illusione si va a perdere, ma incanta pensando di essere appagati in un mondo fantastico anche se utopico. La interpreto in questo modo e mi entusiasma tanto."
+                ]
+            ],
+            "timestamp": "2019-07-11T17:53:03Z",
+            "title": "Illusione",
+            "url": "https://www.writersdream.org/forum/forums/topic/43800-illusione//?do=findComment&comment=777784",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 203,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 777790,
+            "text": [
+                "l'uso di questa sezione del forum richiede un impegno maggiore. I commenti devono essere più approfonditi e te l'ho già detto altre volte, se non hai voglia di dedicare del tempo a farli utilizza la sezione storie, perché non è giusto poi aspettarsi l'attenzione degli altri utenti nel commentare i propri testi.",
+                "Devo chiudere. Non mi costringere a assegnarti altri richiami."
+            ],
+            "timestamp": "2019-07-11T19:04:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43846-tormento//?do=findComment&comment=777790"
+        }
+    ],
+    "text": [
+        "Paludi che risucchiano",
+        "Stagni che ti affogano",
+        "Rane che tormentano",
+        "Putrido il tuo corpo che giace coperto da vermi, mosche, insetti",
+        "perché sei un inetto alla vita, alla tua vita",
+        "che riempi con effimeri piacere"
+    ],
+    "timestamp": "2019-07-11T18:03:04Z",
+    "title": "Tormento",
+    "topic_id": 43846,
+    "url": "https://www.writersdream.org/forum/forums/topic/43846-tormento/"
+}

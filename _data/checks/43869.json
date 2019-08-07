@@ -1,0 +1,159 @@
+{
+    "author": {
+        "author_id": 8476,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "m.q.s.",
+        "url": "https://www.writersdream.org/forum/profile/8476-mqs/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.7522222222222222,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7522222222222222
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "è la prima volta che ti leggo, e premetto che il racconto mi è piaciuto molto!",
+                    "ottimo incipit",
+                    "anche qui direi ottimo: con una beve descrizione, riesci a caratterizzare molto bene la volpe",
+                    "quel \"difficile distinguere una dall'altra\" non mi piace. Puoi scriverlo meglio.",
+                    "Anche questo invece è molto riuscito, secondo me. Frase tutto d'un fiato, che funziona.",
+                    "Bello, ma mettici qualche virgola",
+                    "virgola dopo arte",
+                    "virgola dopo atelier",
+                    "metterei la virgola anche dopo lì.",
+                    "Ecco, a parte qualche piccolo accorgimento, il racconto è scritto molto bene, i mici complimenti. Hai questa capacità, che associo agli scrittori, di descrivere le caratteristiche mostrando , e non descrivendo , if you know what i mean Il buon vecchio Show, don't tell, affatto scontato.",
+                    "Piaciuto molto.",
+                    "Alla prossima"
+                ]
+            ],
+            "timestamp": "2019-07-13T14:59:57Z",
+            "title": "La ghigliottina dà frutti acerbi",
+            "url": "https://www.writersdream.org/forum/forums/topic/43742-la-ghigliottina-d%C3%A0-frutti-acerbi//?do=findComment&comment=778140",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5531,
+    "num_commenti": 1,
+    "num_posts": 17,
+    "post_after": [
+        {
+            "post_id": 778180,
+            "text": [
+                "Ciao ,",
+                "grazie mille per i minuti che hai dedicato alla lettura!",
+                "Venendo alle segnalazioni:",
+                "OrecchIo: ha l'orecchio tappato perché è così. Non c'è un motivo.",
+                "Saranno/sono: hai ragione cavolo, meglio sono! grazie",
+                "tv in 4/3: anche qui non c'è ragione, ma come scrittore del racconto voglio che sia tutto preciso.",
+                "Caporali/non caporali: ok, questione di gusti",
+                "Suicidio: what? da cosa hai capito che si suicideranno? Mi interessa molto sapere cosa può averti sviato. Perché, in realtà, verranno solo sfrattati. In che passaggio il lettore viene portato a pensare che ci sia un suicidio nel futuro della coppia? Mumble mumble",
+                "Grazie mille se vorrai chiarire quell'ultimo punto, che mi lascia un po' perplesso",
+                "buona serata!"
+            ],
+            "timestamp": "2019-07-13T18:21:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778180"
+        },
+        {
+            "post_id": 778367,
+            "text": [
+                "Grazie per la spiegazione!",
+                "ciao! grazie per esserti soffermata posso dirti solo che sì, le ripetizioni sono volute: per dirla come chi sa parlare, fanno un po' parte della mia cifra stilistica. Per dirla come se avessi una cifra stilistica ahah. Contento che ti sia piaciuto!",
+                "ciao grandissimo, grazie per il passaggio! Credo di avere capito cosa intendi; del resto di scrivere racconti senza trama o quasi, mi è sempre stato detto, anche in altri lidi, anche in altre occasioni. Vedi, io credo che, se scritto nel modo giusto, un racconto possa regalare emozioni e significati anche se manca la trama. Non dico che sia il caso dei miei scritti, sia chiaro: è solo ciò che provo a fare, quando scrivo questo genere di brani.",
+                "Sulla questione dello schermo a 4/3: sì, l'idea era di rendere una situazione di abbandono, di povertà, però forse è un po' forzato.",
+                "Buona domenica a tutti voi!"
+            ],
+            "timestamp": "2019-07-14T17:38:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778367"
+        },
+        {
+            "post_id": 778731,
+            "text": [
+                "Ciao , grazie per l'accurato commento. Mi spiace che il racconto non sia stato di tuo gradimento, ma come ha detto una volta Mourinho, nemmeno Gesù piaceva a tutti. Ora, spero coglierai l'ironia di questa mia risposta!",
+                "Ho capito cosa intendi circa la materialità della mia scrittura: hai ragione, e me ne vanto! Piuttosto, la cosa grave è che io non sia riuscito a convogliare un valore simbolico negli oggetti che descrivo. Perché, in effetti, quella era la mia intenzione. Andrà meglio la prossima, forse! Dopo passo a leggere il tuo!",
+                "Ehi ciao , lieto che tu abbia colto le mie intenzioni. Alla fine, è questione di gusti personali. Un amante di Stephen King potrebbe non apprezzare Amy Hempel, mentre un carveriano potrebbe a sua volta disprezzare gli scrittori russi. Ovvio che i miei scritti non sono paragonabili a quelli degli autori citati, ma nemmeno di scrittori veri, fatti e finiti, volevo solo rendere l'idea. Detto ciò, che cosa mi resta da aggiungere? Ce', un bel grazie!"
+            ],
+            "timestamp": "2019-07-16T16:03:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778731"
+        },
+        {
+            "post_id": 778973,
+            "text": [
+                "ti ringrazio tantissimo per gli spunti e i suggerimenti! in effetti ciaff è brutto, modificherò. Anche bagna l'anulare, pensandoci è meglio. Invece il \"vortica furibondo\" mi piace",
+                "Sulla scelta della seconda persona: è un modo di scrivere che non sempre è efficace, perché l'immedesimazione è più difficile! Però mi è uscito così, e mi sembrava la voce giusta per questo racconto! Non so spiegartelo meglio",
+                "Grazie davvero per le belle parole, per me sono di incoraggiamento. Purtroppo dopo anni in cui ho scritto tantissimo, ci sono intervalli (anche lunghi) in cui praticamente non scrivo niente. E quando, poi, ricomincio, mi sembra sempre di non esserne più capace. Commenti come il tuo, mi fanno pensare che forse ho ancora qualcosa da dire Buona giornata!"
+            ],
+            "timestamp": "2019-07-18T08:36:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=778973"
+        },
+        {
+            "post_id": 779033,
+            "text": [
+                "grazie mille per il tuo passaggio da queste parti, davvero"
+            ],
+            "timestamp": "2019-07-18T15:58:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano//?do=findComment&comment=779033"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Gli animali non ti guardano",
+        "C’è una mano che stringe la tua, le dita intrecciate nella presa degli innamorati.",
+        "Il divano-letto è un vascello di sconfinati ricordi, assorbe il sudore del tuo corpo e si tende sotto la calura estiva, che filtra dalla finestra spalancata sul cemento della corte interna.",
+        "Quel cemento coperto di catrame sta ribollendo silenziosamente e tu hai ancora l’orecchio destro tappato. Il divano-letto sembra respirare, sotto di voi.",
+        "Questa è la vostra ultima notte, lì.",
+        "Un sottile strato di sudore lubrifica l’anulare scivolando tra la pelle e la fede. Le vostre mani saranno intrecciate da un paio di ore e inizi ad avvertire un leggero formicolio.",
+        "Guardi lassù. Il ventilatore da soffitto vortica furibondo, eppure non può far altro, se non disperdere l’odore acre dei vostri corpi nudi e appiccicaticci.",
+        "Dici l’ufficiale giudiziario col fabbro e compagnia bella arriverà per le nove. Il marito di tua sorella ci passa a prendere alle otto .",
+        "Il formicolio che avverti alla mano si estende anche al dito medio, che ti è stato amputato dopo l’incidente.",
+        "Lisa fissa lo schermo della tv e dice ogni cosa importante per qualcuno ha zero valore per qualcun altro . E tu sai che non sta parlando di nulla in particolare, o forse sì, ma non hai la forza di approfondire la questione.",
+        "Passi la mano libera sulla fronte, scosti i capelli dagli occhi.",
+        "Il dito fantasma, anche lui ogni tanto soffre il solletico. Il dito fantasma a volte si alza per mandare a fanculo la gente e poi tu te ne resti così, come se ancora non credessi al vuoto tra indice e anulare.",
+        "Dici mi dispiace per come sono andate le cose. Ho fatto davvero tutto il possibile e ho dato tutto me stesso, ma sai che il capo non mi ha mai avuto in simpatia .",
+        "La pancia di Lisa si solleva e si abbassa e una gocciolina di sudore disegna un sorriso sul suo fianco.",
+        "La tv proietta in quattro terzi un documentario sui grossi felini della savana, ma avete azzerato l’audio.",
+        "Le onde di luce della tv irradiano di bianco i vostri corpi spiaggiati, e il bianco diventa giallo e azzurro o blu scuro, a seconda dell’immagine trasmessa.",
+        "State fissando da un po’ quei felini ruggire e sbadigliare e appostarsi; le mani intrecciate bagnano di sudore il lenzuolo e Lisa dice sono loro che stanno guardando noi. Non sembra anche a te che siano questi animali a guardare noi?",
+        "Lisa ha le gambe accavallate, il piede destro penzola ritmicamente, nel lieve tintinnio della cavigliera in rame.",
+        "Dici davvero, non so cosa pensare, cristoddio, dì qualcosa, fammi capire che mi capisci .",
+        "Lisa distende le gambe appoggiandole sulle lenzuola e distoglie lo sguardo dalla tv. Stinge la tua mano, producendo un leggero ciaff.",
+        "Inspiri e concentri il tuo sguardo sugli scatoloni ammucchiati un po’ ovunque, isole di preoccupazioni ai bordi del monolocale. Sul posacenere colmo di mozziconi. Sulle bottiglie di birra vuote. Sul mucchietto di solleciti che non avete mai aperto.",
+        "Dici e poi era ora di cambiare casa, questa davvero non ci merita. Non capisco come siamo riusciti a farci stare tutta sta roba .",
+        "Lisa torna a fissare lo schermo. Chiede possiamo cambiare canale? Questi animali continuano a fissarci.",
+        "Guardi anche tu la tv, e vedi piccoli uccelli appollaiati sul dorso dei rinoceronti, sulla loro testa, che beccano dentro le orecchie dei rinoceronti. Pasteggiano. Fissi l’occhio nero dell’animale riflesso sullo schermo.",
+        "Dici gli animali non ti guardano. Non gliene frega un cazzo di noi, credimi .",
+        "Lisa ha i capelli raccolti in due trecce. Dice io mi alzo, non ne posso più di questi animali che ci fissano . Molla la tua mano. Afferra il pacchetto di Camel e si avvia verso la finestra, che dà sulla corte interna. Si piega in avanti e si appoggia con i gomiti al balcone, poi fa scattare l’accendino. Guardi la sua figura parzialmente illuminata dallo schermo. L’odore di fumo si insinua nella stanza.",
+        "Ti alzi e raggiungi Lisa e la stringi in un abbraccio, da dietro. Le tue carni contro le sue carni e il sudore fa scivolare il tuo petto sopra la sua schiena, ma solo di qualche centimetro.",
+        "Lisa chiede dove andremo non ci saranno più animali a fissarci, vero?",
+        "Volti la faccia verso lo schermo poi lo sguardo scivola al divano-letto su cui fino a poco fa tu e Lisa eravate distesi.",
+        "I vostri corpi hanno lasciato impronte di sudore e pelle invisibile ovunque. Con un po’ di fantasia, puoi indovinare il culo di Lisa, tra quelle macchie. La testa di lisa, la sua schiena, le sue gambe. Cerchi l’effige della tua mano e lo spazio che il moncherino dovrebbe aver lasciato, un’impronta a quattro dita, ma poi rammenti che la mano era intrecciata alla mano di Lisa e così cerchi la macchia lasciata da quelle nove dita congiunte. Infine lasci perdere.",
+        "Sposti lo sguardo nuovamente sulla tv e ti accorgi che tutti quegli animali, leoni e giaguari e rinoceronti della savana, stanno in effetti fissando il divano-letto. Sono reali e si chiedono dove siete finiti.",
+        "Fissano le impronte di voi che fissavate gli animali. L’idea degli animali che fissavano voi è la verità adesso, lì. Quando, tra poco, tornerete su quel divano-letto per l’ultima volta, prima di chiudere gli occhi, forse sentirete davvero l’umidità di quelle lenzuola impregnate di fumo, o forse no, e tutto sarà scontato e disincantato.",
+        "Il divano-letto scricchiolerà, lo sai, e il materasso liso sprofonderà leggermente. Spegnerete la tv e la stanza sarà buia e vi addormenterete. Buonanotte.",
+        "Giri la testa e appoggi la faccia sulla schiena di Lisa. Le dai un bacio sulla pelle nuda. Dici no, dove andremo non ci saranno animali a guardarci ."
+    ],
+    "timestamp": "2019-07-13T15:12:55Z",
+    "title": "Gli animali non ti guardano",
+    "topic_id": 43869,
+    "url": "https://www.writersdream.org/forum/forums/topic/43869-gli-animali-non-ti-guardano/"
+}

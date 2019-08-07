@@ -1,0 +1,109 @@
+{
+    "author": {
+        "author_id": 16174,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "zorrozagni",
+        "url": "https://www.writersdream.org/forum/profile/16174-zorrozagni/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0871428571428572,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1.0871428571428572
+            },
+            "text": [
+                [
+                    "Buongiorno Andrea, il racconto è molto interessante, la trama è originale e ha un buon intreccio, i personaggi sono comunque ben costruiti pur trattandosi di una sorta di apologo. I contenuti sono interessanti ma è la forma a farla da padrona, ovviamente. E proprio sulla forma ho alcuni appunti (personali). Perché usare uno stile così classico e poco comprensibile al lettore, complicandogli la vita, se non per esercizio di stile? Il contenuto non lo richiede (non è un antico manoscritto storico recuperato dalle stive di un veliero affondato, ad esempio). Lo stesso racconto, espresso in una forma più piana e semplice, manterrebbe il suo appeal per il lettore?",
+                    "Io penso sempre che la forma debba essere funzionale al contenuto (e al narratore) e non una semplice canale espressivo dell'autore, per cui, nonostante sia quasi ineccepibile, il racconto in questo modo a me personalmente non attira e lo trovo molto faticoso da leggere.",
+                    "Ciao e grazie per il racconto,",
+                    "F."
+                ],
+                [
+                    "Concordo. Non voglio risultare eccessivamente critico, prendi queste mie per quello che valgono, ossia poco. Ma visto che citato approfondisco il mio punto.",
+                    "Le favole di Esopo risalgono al VI a.c. e lo stile è comunque molto diverso, vuoi perché ha passato più e più riletture e traduzioni, vuoi perché inserito in un contesto favolistico. Ma che sia Fedro, Esopo o Andersen, lo stile (oltre ovviamente al contenuto) è inquadrato in un dato contesto socio-culturale dell'epoca. Cercare di utilizzare una forma che caratterizzi il tuo testo senza realmente ricalcare quello di un periodo storico stona un po' perché sa di abborracciatura. Come se volessi riprendere l'arte del quarto secolo in un mio dipinto ma nel farlo raccogliessi stilemi di differenti epoche, con il risultato di far apparire sì antico, ma in modo posticcio e anacronistico (ad un occhio esperto) il mio dipinto.",
+                    "La domanda che dovresti farti forse è \"a quale scopo\"? In un'opera narrativa ben congegnata, ogni aspetto assolve a uno scopo. In questo specifico caso, non riesco a trovare davvero la funzione stilistica se non in se stessa. Ossia uso questa forma perché mi piace. Lecito, ovviamente, ma secondo me allontana il lettore."
+                ]
+            ],
+            "timestamp": "2019-07-29T09:20:16Z",
+            "title": "La colpevolezza mondatrice",
+            "url": "https://www.writersdream.org/forum/forums/topic/44038-la-colpevolezza-mondatrice//?do=findComment&comment=780783",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 6104,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il giorno dopo hanno da saldare. Per primo come sempre esce lui. Le particelle che fluttuano illuminate dai fari gli ricordano una neve fine che cade sulla luna. Anche se sulla luna non nevica. O nevica? Giurerebbe di ricordare un paio di foto di un monte lunare imbiancato. Passa ore come in uno stato di stasi mentale, un anodino nirvana cerebrale di cui non si rende nemmeno conto. In quello che gli pare un quarto d’ora ha finito di saldare, e guardando l'orologio si accorge che ha pericolosamente sforato la sua quota oraria. Come da una nebbia sonora, sente emergere la voce di Egor che lo chiama, concitato.",
+        "− Tuo tempo finito, Ale, Torna dentro.",
+        "− E ‘ua arrivo, stai calmo.",
+        "Mentre si fa aiutare a togliere il casco vede dei piccoli lampi colorati ai margini del suo campo visivo. Non gli è mai successo, ma l'unica cosa che riesce a pensare è che vorrebbe tornare di nuovo là sotto. Farsi schiacciare dal nero sopra di lui, farsi assorbire, come un escrescenza morbosa del mare, diventare mare. M come mare. Diventare nulla. N come nulla.",
+        "− Ma che successo, Ale? Non stai bene?",
+        "Alessio lo guarda, ostenta tranquillità.",
+        "− Ma che, faccio sto lavoro da vent'anni. Eri nato tu, vent'anni fa?",
+        "− Capito, ma non rispondevi. Io chiamavo, tu silenzio.",
+        "Le loro voci gracchianti sono incomprensibili. Nel nero delle mute sembrano due corvi sgraziati che bisticciano per un verme. Alessio stesso non capisce più esattamente cosa sta dicendo, e gli indica il pozzo sotto pieno di acqua. Gli fa segno che si cali. Lo aiuta a prepararsi, lo sente un po' agitato quando gli apre la manetta, e gli fa segno con il pollice.",
+        "− Per ogni cosa, io sono qui.",
+        "Lo guarda scivolare giù, nella gabbia e poi sul fondale. E si abbandona sul pavimento zigrinato della campana, in mezzo ai rotoli di cavi.",
+        "Quando aveva iniziato ad avere gli attacchi, da bambino. Un respiro sempre più agitato, un cerchio nero che gli si chiudeva sulle palpebre, come avere occhi chiusi, ma forati.",
+        "Suo padre lo abbracciava, lo teneva stretto, fino quasi a non lasciarlo respirare. Lo schiacciava a mille atmosfere, lo includeva in sé.",
+        "− Tieni duro, Ale, passa tutto. Passa tutto. Contiamo insieme, ti va?",
+        "− A come… come cosa, Ale?",
+        "E lo obbligava a riaprire gli occhi, dal nero. Lo costringeva a tornare in superficie, a tornare al mondo. Ad osservare.",
+        "− A come… A come Aceto, — indicando la bottiglietta nera sul tavolo in cucina.",
+        "Il padre gli accarezza la testa.",
+        "Oggi la rete funziona. Scrive a Laura, non la chiama mai perché a quella quota l'elio che lo chef prepara è così concentrato che la sua voce non è comprensibile per lei che non è avvezza.",
+        "*Ciao",
+        "*Ciao, come stai? sono passati quattro giorni senza sentirci",
+        "*Tutto bene, oggi la rete piglia, prima non prendeva mai",
+        "*Com'è il mare?",
+        "*Fermo, ma freddo. Molto freddo.",
+        "*Hai abbastanza coperte lì?",
+        "*Ma sì, non ti preoccupare. A casa tutto bene? Mattia?",
+        "Laura ci mette un po' a rispondere. Scrive, cancella, scrive e riscrive. Alla fine appare il messaggio.",
+        "*Sta bene, mangia e dorme.",
+        "Poi, qualche secondo più tardi.",
+        "*Ci manchi",
+        "Anche voi mi mancate, scrive lui.",
+        "*Ma* aggiunge, per poi rimanere con il messaggio a metà, indeciso.",
+        "*Ma l'hanno poi trovata la signora?",
+        "Laura risponde solo con un laconico *No",
+        "I giorni sono tutti uguali. Hanno un calendario coperto di croci, ogni croce i colleghi hanno sempre meno voglia di parlare, e alzarsi dal letto diventa più faticoso. Nonostante il menu appositamente studiato che pescano ogni sei ore dalla camera di equilibrio, stanno tutti smagrendo. Chi ha la barba lunga, chi le occhiaie fonde.",
+        "Al sedicesimo giorno Alessio discute con Fabiano per un nonnulla. Ha lasciato in bagno il libro che sta leggendo, chiede al compagno di aprirgli. Fabiano rifiuta, dice che lo prenderà dopo. Quando, dopo trentacinque minuti finalmente apre la botola del tronchetto di mezzo, Alessio lo accusa di avergli perso il segno.",
+        "− Era chiuso, — dice Fabiano.",
+        "− Era aperto a faccia giù.",
+        "− Mi sa che dici stronzate, ma fa lo stesso. Cercati sto cazzo di segno, — dice, e gli lancia il libro sul letto.",
+        "Alessio lascia perdere, sa bene che non è il caso di attaccarsi per queste inezie. Torna a sdraiarsi sul letto, ma non riesce più a leggere. Continua a pensare a che fine può aver fatto la vecchia. Caduta in un pozzetto, e morta senza che nessuno dei parenti la possa trovare? Eppure hanno cercato dappertutto, in un raggio di chilometri. Rapita dai rom che stanno dietro alla stazione? Ma per farci cosa? Se la raffigura intenta a rammendare in una delle loro roulotte, felice dopotutto. Ormai non ricorda più nulla della sua vecchia famiglia e questi nuovi colorati carrozzai le danno tutto quello di cui ha bisogno. Cercavano solo una nonna.",
+        "Tira fuori il telefono, e si mette a cercare su internet. La rete va e viene, ma riesce a caricare una pagina.",
+        "“Ancora nessuna notizia, le ricerche proseguono ora solo tramite i volontari. Sono stati dragati i laghetti di San Vitale, ma nemmeno con i cani è stato possibile risalire a una traccia dell'anziana…”",
+        "Forse si è solo stancata di stare in quella famiglia, ha preso i risparmi di una vita e magari ora è su qualche spiaggia. O magari i parenti stessi, l'hanno fatta sparire perché sapeva troppo e ora stanno depistando le indagini.",
+        "Poi si addormenta e sogna ancora. È sott'acqua, o in una foresta aliena. Ci sono alghe veleggianti, galleggia in un mare di elio, che pian piano si trasforma in una viscosa melassa trasparente. Fa sempre più fatica a muoversi. Ha il saldatore in mano, ma diventa sempre più pesante e alla fine lo lascia cadere. Si volta e si guarda intorno, c'è di nuovo la neve fine che spazzola la radura, fino a dove riesce a illuminare la sua torcia. Meduse bianche fluttuanti, ma non sono altro che sempiterni sacchetti di plastica. Ci sono i tubi che spariscono enormi all'orizzonte subacqueo. E a fianco al tubo, c'è un palo, con uno strano volantino. Alessio si scuote, si sposta e lentamente si avvicina. Metro dopo metro riesce ad arrivare al palo, non è un palo ma un albero, e sopra c'è il solito volantino.",
+        "“Si è perduta… risponde al nome… A come…”",
+        "Ma sul volantino non 'è il nome di Anita, c'è il nome di sua madre, Adele."
+    ],
+    "timestamp": "2019-07-29T09:21:24Z",
+    "title": "Ombelicale - Parte 4 di 6",
+    "topic_id": 44041,
+    "url": "https://www.writersdream.org/forum/forums/topic/44041-ombelicale-parte-4-di-6/"
+}
