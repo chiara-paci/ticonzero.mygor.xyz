@@ -48,7 +48,7 @@
     },
     "num_chars": 5403,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 781906,
@@ -57,6 +57,20 @@
             ],
             "timestamp": "2019-08-04T17:40:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44109-the-dragon-slayers-capitolo-0-bozza//?do=findComment&comment=781906"
+        },
+        {
+            "post_id": 782274,
+            "text": [
+                "Ciao ti ringrazio molto per il tuo commento e per i tuoi consigli ai quali voglio rispondere punto per punto:",
+                "grazie mille per i complimenti, ti preannuncio che ne i maghi ne il re dureranno a lungo.",
+                "Ti riferisci alla parte introduttiva con gli Alv e i draghi? Effettivamente avevo il sospetto che potessse essere una parte troppo prolissa, troverò un modo per snellirla.",
+                "questo dialogo avviene poco dopo tra il re e i maghi, nel quale viene enfatizzato anche il fatto che il re non sia semplicemente crudele ma proprio pazzo. In realtà la ragione per cui frusta e uccide quelle persone sarebbe intuibile, ma voglio comunque aggiungere il dialogo per spiegarlo meglio",
+                "Hai centrato il mio più grande difetto in ambito letterario: non sono molto bravo con le descrizioni. Devo effettivamente descrivere in maniera migliore la città anche perchè in futuro sarà molto utile.",
+                "Ti ringrazio ancora per tutti i commenti, nel caso avessi qualcos'altro da dirmi sentiti libera di dirmi ciò che ti pare.",
+                "Grazie e alla prossima!"
+            ],
+            "timestamp": "2019-08-07T08:01:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44109-the-dragon-slayers-capitolo-0-bozza//?do=findComment&comment=782274"
         }
     ],
     "post_staff": [
