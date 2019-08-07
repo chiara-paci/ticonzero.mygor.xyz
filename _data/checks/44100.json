@@ -70,7 +70,7 @@
     },
     "num_chars": 3637,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 781777,
@@ -92,6 +92,16 @@
             ],
             "timestamp": "2019-08-06T16:42:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782178"
+        },
+        {
+            "post_id": 782266,
+            "text": [
+                "Ciao, sono contento che il mio raccontino ti sia piaciuto. Sicuramente cambierò quei due dettagli. Ti ringrazio per aver segnalato il refuso, è sempre molto utile. Sogno il giorno in cui riuscirò a pubblicare una storia senza refusi (sospiro).",
+                "Spero ci si possa rileggere presto, un saluto.",
+                "Domenico"
+            ],
+            "timestamp": "2019-08-07T04:20:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782266"
         }
     ],
     "post_staff": [],
