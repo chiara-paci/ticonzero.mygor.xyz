@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 1.0871428571428572,
+        "valid": 1.0,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 1.0871428571428572
+                "valid": 1
             },
             "text": [
                 [
