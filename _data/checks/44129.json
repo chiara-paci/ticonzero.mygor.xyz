@@ -1,0 +1,121 @@
+{
+    "author": {
+        "author_id": 33294,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Giorgio Fenaroli",
+        "url": "https://www.writersdream.org/forum/profile/33294-giorgio-fenaroli/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5244444444444445,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5244444444444445
+            },
+            "text": [
+                [
+                    "Altri utenti si sono già espressi su questo fronte:",
+                    "Ho apprezzato molto quello che tu hai definito \"Uno scorcio\".",
+                    "Il termine calza a pennello.",
+                    "Credo che una trama più complessa avrebbe tolto il potenziale evocativo dell'atmosfera che si viene a creare durante la lettura che risulta semplice e scorrevole.",
+                    "Mi trovo d'accordo con ciò che hanno segnalato gli utenti prima di me riguardo all'utilizzo di alcuni termini che un po' stonano come il sentiero \"sfidante\" e il caffè \"cucinato\".",
+                    "Grazie per la lettura!",
+                    "Questo è solo un errore di battitura, però l'ho evidenziato comunque."
+                ]
+            ],
+            "timestamp": "2019-08-06T20:03:17Z",
+            "title": "Aurora",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782219",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2706,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 782262,
+            "text": [
+                "al netto dei \"quote\" e delle dichiarazioni di concordanza con il pensiero di chi ti ha preceduto, di tuo nel commento che hai fatto ci sono sì e no due righe e mezzo: è davvero troppo poco, nonostante la tolleranza che usiamo con i nuovi iscritti. A proposito: vedo che ancora non ti sei presentato alla comunità, saresti così gentile da farlo in Ingresso: ?",
+                "Grazie.",
+                "Sono costretto dunque a chiudere il racconto; quando avrai fatto un commento più corposo (magari aiutandoti con le norme generali che trovi nel regolamento) invia il link a uno staffer che vedi online in quel momento (sulla destra della home page) e il racconto verrà riaperto.",
+                "A quel punto ti spiegherò anche come formattare i dialoghi con il trattino, perché la tecnica che usi non è corretta.",
+                "Buon proseguimento."
+            ],
+            "timestamp": "2019-08-06T23:20:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44129-il-nulla-ci-appartiene//?do=findComment&comment=782262"
+        }
+    ],
+    "text": [
+        "Fisso Giulio mentre si appresta a scegliere con attenzione la sigaretta che gli è venuta meglio, facendo ondeggiare le dita sopra una scatola di cicche alla menta, dove le tiene nascoste.",
+        "Tiro fuori l'accendino.",
+        "Gli avvicino la fiamma alle labbra serrate, illuminando gli occhi, rossi e socchiusi.",
+        "A volte penso di stargli facendo del male.",
+        "Spengo la fiamma.",
+        "-E tua madre?- gli chiedo, guardandomi le scarpe slacciate.",
+        "Una nube di fumo ci avvolge.",
+        "Accende il cellulare con aria persa, con il pollice che scivola sullo schermo a comporre il pin.",
+        "-Solito, è a una riunione di scuola-",
+        "La panchina su cui siamo seduti sta diventando scomoda, o forse sono solo io che non riesco a restare fermo.",
+        "Non fa freddo, ma sto tremando, sento lo stomaco in subbuglio e dalle brevi serie di scosse attraversarmi la schiena.",
+        "Davanti a noi passa una coppia sulla trentina, lei è sorridente, mozzafiato, con un vestito verde e i capelli biondi.",
+        "Lui moro, abbronzato, con dei Bermuda rosa e le infradito.",
+        "Parlano del ristorante dove sono appena stati.",
+        "È così che il concerto dei grilli viene interrotto, grazie ai discorsi noiosi della gente che passa per questa strada.",
+        "Oltre questa panchina il mondo non ci appartiene; a quelli come noi non resta nemmeno il silenzio.",
+        "-E come stai tu?- incalzo nuovamente, passandomi una mano nel ciuffo biondo.",
+        "-Non lo vedi?-",
+        "Ha gli occhi di chi non dorme da giorni e che teme di farlo, lo sguardo di chi ha paura di ciò che la notte ha in serbo per lui.",
+        "Sospira.",
+        "-Cosa ti succede, Giulio?-",
+        "All'inizio indugia, penso sia la stanchezza, ma le sue parole escono decise, ragionate.",
+        "-Non succede Nulla, è questo il punto, è sempre la stessa storia-",
+        "Spegne il cellulare e mi guarda negli occhi.",
+        "-Io sento il vuoto, è l'unica cosa che sento in questi momenti-",
+        "Le parole mi muoiono in gola, ho la pelle d'oca.",
+        "Lo conosco da poco, ma già mi parla dei suoi scheletri nell'armadio, di ciò che lo tormenta.",
+        "Abbasso la testa, mettendomi entrambe le mani sulle ginocchia.",
+        "Sento i battiti duplicarsi mentre i polmoni si riempiono di calce.",
+        "-Se ti fa piacere saperlo, anche a me capita di sentire il vuoto, ma quando sono con te mi dimentico che esiste, come se ci fosse davvero qualcosa che mi completi-",
+        "Ora sono io a guardarlo.",
+        "Sono più leggero.",
+        "Mi aspettavo di vederlo confuso, ma per lui il discorso sembra perfettamente lineare, semplice.",
+        "Ora guarda verso la strada.",
+        "-A che ora vai via tu?-",
+        "-Fra un quarto d'ora arrivano i miei-",
+        "Indugia, come un funambolo nel mezzo del suo spettacolo.",
+        "Poi trova le parole, sbuffando fumo.",
+        "-ti va di farli venire un po' più tardi? Tipo fra mezz'ora, un'ora... Quanto vuoi tu-",
+        "Gli dico che si può fare, basta che invii un messaggio per avvisarli.",
+        "I nostri sguardi si incontrano di nuovo.",
+        "E lo vedo sorridere."
+    ],
+    "timestamp": "2019-08-06T20:21:44Z",
+    "title": "Il nulla ci appartiene",
+    "topic_id": 44129,
+    "url": "https://www.writersdream.org/forum/forums/topic/44129-il-nulla-ci-appartiene/"
+}
