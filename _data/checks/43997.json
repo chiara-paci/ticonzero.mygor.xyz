@@ -56,7 +56,7 @@
     },
     "num_chars": 6683,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 780029,
@@ -74,6 +74,17 @@
             ],
             "timestamp": "2019-07-24T22:49:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43997-rc-chat-monica-pt3//?do=findComment&comment=780040"
+        },
+        {
+            "post_id": 782388,
+            "text": [
+                "Mia dolce",
+                "Scusarti del ritardo con cui mi hai letto? Ti prego di non scherzare, sono io che invece ringrazio te per la pazienza con cui continui a leggermi.",
+                "Se riesco ogni tanto a strapparti anche un piccolo sorriso, questo mi ripaga largamente dell'impegno profuso nello scrivere.",
+                "Grazie ancora e un abbraccio."
+            ],
+            "timestamp": "2019-08-07T21:07:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43997-rc-chat-monica-pt3//?do=findComment&comment=782388"
         }
     ],
     "post_staff": [],

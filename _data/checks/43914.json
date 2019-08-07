@@ -56,7 +56,7 @@
     },
     "num_chars": 10793,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 778816,
@@ -82,6 +82,14 @@
             ],
             "timestamp": "2019-07-18T14:24:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43914-un-corpo-e-unanima//?do=findComment&comment=779020"
+        },
+        {
+            "post_id": 782389,
+            "text": [
+                "grazie infinite"
+            ],
+            "timestamp": "2019-08-07T21:25:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43914-un-corpo-e-unanima//?do=findComment&comment=782389"
         }
     ],
     "post_staff": [],
