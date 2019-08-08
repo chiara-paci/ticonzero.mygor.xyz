@@ -16,7 +16,7 @@
         "valid": 0.7578021978021978,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -46,9 +46,24 @@
     },
     "num_chars": 484,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 782549,
+            "text": [
+                "il commento che hai usato per postare è insufficiente.",
+                "Chiudo il topic. Quando avrai regolarizzato manda il link del nuovo commento a un qualsiasi membro dello staff."
+            ],
+            "timestamp": "2019-08-08T16:50:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44125-i-corvi-neri//?do=findComment&comment=782549"
+        }
+    ],
     "text": [
         "I corvi neri sono arrivati",
         "Eccoli, stanno fermi dinanzi a voi",
