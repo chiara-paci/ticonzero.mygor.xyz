@@ -51,7 +51,7 @@
     },
     "num_chars": 6561,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 781755,
@@ -134,6 +134,14 @@
             ],
             "timestamp": "2019-08-06T21:18:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=782244"
+        },
+        {
+            "post_id": 782567,
+            "text": [
+                "hai ragione, ci lavorerò. A presto"
+            ],
+            "timestamp": "2019-08-08T18:37:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44102-fdi-2019-2-sally//?do=findComment&comment=782567"
         }
     ],
     "post_staff": [],

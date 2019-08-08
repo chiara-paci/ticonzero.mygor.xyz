@@ -74,7 +74,7 @@
     },
     "num_chars": 7975,
     "num_commenti": 1,
-    "num_posts": 31,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 779940,
@@ -149,6 +149,14 @@
             ],
             "timestamp": "2019-08-06T14:07:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43987-fdi-2019-2-la-rivolta-del-semolino//?do=findComment&comment=782166"
+        },
+        {
+            "post_id": 782566,
+            "text": [
+                "grazie."
+            ],
+            "timestamp": "2019-08-08T18:29:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43987-fdi-2019-2-la-rivolta-del-semolino//?do=findComment&comment=782566"
         }
     ],
     "post_staff": [],

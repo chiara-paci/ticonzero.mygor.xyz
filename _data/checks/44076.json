@@ -56,7 +56,7 @@
     },
     "num_chars": 4611,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 781634,
@@ -83,6 +83,14 @@
             ],
             "timestamp": "2019-08-04T21:49:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=781926"
+        },
+        {
+            "post_id": 782560,
+            "text": [
+                "Ciao Grazie per aver letto ed espresso un commento di qualunque tipo. Il racconto soffre di una revisione più approfondita, ma mi è mancato il tempo. Tra rinunciare e partecipare ho preferito apportare il mio contributo, non tanto per la qualità, ma per essere parte attiva. 🤗"
+            ],
+            "timestamp": "2019-08-08T17:42:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=782560"
         }
     ],
     "post_staff": [],
