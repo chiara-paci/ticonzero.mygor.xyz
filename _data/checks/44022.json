@@ -52,7 +52,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 39,
+    "num_posts": 40,
     "post_after": [
         {
             "post_id": 780484,
@@ -200,6 +200,17 @@
             ],
             "timestamp": "2019-08-08T19:58:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=782582"
+        },
+        {
+            "post_id": 782600,
+            "text": [
+                "Già, nel finale lui guarda lei: \"hai ottenuto ciò che vuoi\", le dice. Poi Max si guarda a sua volta e pensa... purtroppo pensa.",
+                "In due mi hanno detto che il racconto li ha divertiti. Ci sono dei momenti ironici: il \"te l'avevo detto\", il blob, il cervello in pappe come il pisello, per non parlare poi della poesia. C'è un'ironia grottesca sì, ma credo anche amara.",
+                "Grazie per l' accurata analisi.",
+                "Certo, per non imburrare la teglia, troppe calorie ."
+            ],
+            "timestamp": "2019-08-08T20:45:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=782600"
         }
     ],
     "post_staff": [],
