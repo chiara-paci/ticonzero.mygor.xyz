@@ -61,7 +61,7 @@
     },
     "num_chars": 7985,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 780623,
@@ -105,6 +105,16 @@
             ],
             "timestamp": "2019-08-04T18:02:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44034-fdi-2019-2-la-sindrome-di-sta-stronza//?do=findComment&comment=781909"
+        },
+        {
+            "post_id": 782490,
+            "text": [
+                "Perdonatemi ma il tag mi sta dando dei problemi.",
+                "Comunque vi ringrazio per essere passati e per i commenti, molto puntuali e graditi.",
+                "Un saluto e buon ferragosto a tutti."
+            ],
+            "timestamp": "2019-08-08T13:24:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44034-fdi-2019-2-la-sindrome-di-sta-stronza//?do=findComment&comment=782490"
         }
     ],
     "post_staff": [],
