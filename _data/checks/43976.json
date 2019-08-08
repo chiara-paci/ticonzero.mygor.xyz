@@ -55,7 +55,7 @@
     },
     "num_chars": 7082,
     "num_commenti": 1,
-    "num_posts": 31,
+    "num_posts": 33,
     "post_after": [
         {
             "post_id": 779780,
@@ -152,6 +152,19 @@
             ],
             "timestamp": "2019-08-04T13:48:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43976-fdi-2019-2-lepigono//?do=findComment&comment=781883"
+        },
+        {
+            "post_id": 782577,
+            "text": [
+                "Ciao grazie del passaggio e del commento! A prestissimo!",
+                "Ciao grazie anche a te per essere passato!",
+                "Ciao",
+                "se poi ti viene in mente quale, fammi sapere ché lo cerco! Grazie e a presto!",
+                "Ciao grazie per le tue interessanti considerazioni e i consigli.",
+                "A presto e buon contest!"
+            ],
+            "timestamp": "2019-08-08T19:41:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43976-fdi-2019-2-lepigono//?do=findComment&comment=782577"
         }
     ],
     "post_staff": [],
