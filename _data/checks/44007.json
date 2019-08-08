@@ -44,7 +44,7 @@
     },
     "num_chars": 5938,
     "num_commenti": 1,
-    "num_posts": 44,
+    "num_posts": 46,
     "post_after": [
         {
             "post_id": 780164,
@@ -217,6 +217,14 @@
             ],
             "timestamp": "2019-08-07T13:09:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44007-fdi-2019-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-per-questo-e-solo-per-questo//?do=findComment&comment=782309"
+        },
+        {
+            "post_id": 782525,
+            "text": [
+                "grazie per l'attenzione e per l'apprezzamento."
+            ],
+            "timestamp": "2019-08-08T15:23:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44007-fdi-2019-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-per-questo-e-solo-per-questo//?do=findComment&comment=782525"
         }
     ],
     "post_staff": [],
