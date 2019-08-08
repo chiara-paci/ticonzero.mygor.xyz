@@ -54,7 +54,7 @@
     },
     "num_chars": 5943,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 781435,
@@ -66,6 +66,14 @@
             ],
             "timestamp": "2019-08-01T14:11:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44081-ombelicale-parte-6-di-6//?do=findComment&comment=781435"
+        },
+        {
+            "post_id": 782439,
+            "text": [
+                "Grazie mercy, sono d'accordo con te su tutta la linea. Diciamo che anche a me piacerebbe renderlo un romanzo breve, ma a quel punto lo sforzo di documentazione dovrebbe essere maggiore... ma ci sto pensando. Ad avere il tempo..."
+            ],
+            "timestamp": "2019-08-08T09:10:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44081-ombelicale-parte-6-di-6//?do=findComment&comment=782439"
         }
     ],
     "post_staff": [],
