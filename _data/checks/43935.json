@@ -55,7 +55,7 @@
     },
     "num_chars": 5376,
     "num_commenti": 1,
-    "num_posts": 39,
+    "num_posts": 40,
     "post_after": [
         {
             "post_id": 779184,
@@ -206,6 +206,14 @@
             ],
             "timestamp": "2019-08-06T06:18:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43935-fdi-2019-2-lim-materiale-prezioso//?do=findComment&comment=782111"
+        },
+        {
+            "post_id": 782638,
+            "text": [
+                "e grazie infinite vostro tempo e gli apprezzamenti"
+            ],
+            "timestamp": "2019-08-09T07:07:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43935-fdi-2019-2-lim-materiale-prezioso//?do=findComment&comment=782638"
         }
     ],
     "post_staff": [],
