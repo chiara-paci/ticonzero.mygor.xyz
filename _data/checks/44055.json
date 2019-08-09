@@ -58,7 +58,7 @@
     },
     "num_chars": 5388,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 781147,
@@ -71,6 +71,16 @@
             ],
             "timestamp": "2019-07-31T07:52:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44055-le-ragazze-capitolo-4-33//?do=findComment&comment=781147"
+        },
+        {
+            "post_id": 782707,
+            "text": [
+                "e in effetti questo capitolo è nato da un vecchio articolo che ho scritto molti anni fa, l'intenzione era quella di renderlo più narrativo e meno d'informazione, ma credo che ci sia ancora da lavorarci un po'",
+                "la pensa, la riflette... buona domanda, non so rispondere del tutto",
+                "Grazie mille come sempre, cara"
+            ],
+            "timestamp": "2019-08-09T14:15:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44055-le-ragazze-capitolo-4-33//?do=findComment&comment=782707"
         }
     ],
     "post_staff": [],
