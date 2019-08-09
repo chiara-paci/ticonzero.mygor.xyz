@@ -61,7 +61,7 @@
     },
     "num_chars": 7607,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 780501,
@@ -135,6 +135,14 @@
             ],
             "timestamp": "2019-08-07T16:08:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44024-fdi-2019-2-nel-cuore-di-una-stella//?do=findComment&comment=782349"
+        },
+        {
+            "post_id": 782670,
+            "text": [
+                "e ciao e grazie per i vostri commenti"
+            ],
+            "timestamp": "2019-08-09T10:21:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44024-fdi-2019-2-nel-cuore-di-una-stella//?do=findComment&comment=782670"
         }
     ],
     "post_staff": [],
