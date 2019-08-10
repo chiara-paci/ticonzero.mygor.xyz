@@ -12,13 +12,50 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "eccomi di nuovo a seguire le vicende di Vera e del misterioso vecchio che protegge la porta. Sono passati diversi giorni, ma non ho dimenticato niente, soprattutto non ho scordato l'atmosfera e l'ambientazione a riprova che sono ben congegnate. Non so dire se ho letto o immaginato le montagne alte intorno alla valle, le sfumature del verde tra ombra e sole, prati e boschi, lo scorrere delle acque del ruscello, le rghe tra gli occhi del vecchio e il fresco leggermente umido all'interno della grotta. Non ho certo intenzione di andare a controllare. Questa è l'ambientazione che io vedo nella mia testa e sono immagini che ha fatto scaturire la tua storia combinata con la tua scrittura.",
+                    "Passo alle pulci su questo pezzo:",
+                    "qui serve la maiuscola: Il figlio. La frase è da riformulare un po' nell'ordine delle parole e poi perché è abbastanza spaesante passare dal bosco/montagna a un cortile di paese. Potresti per esempio specificare di che pompa si tratta. Faccio una prova: Gridò il figlio dell'erborista in piedi di fianco alla pompa dell'acqua dall'altro lato dell'orto. In ogni caso, mi sembra una frase troppo lunga e complessa.",
+                    "sostituirei la giovane con Vera",
+                    "qui serve un punto dopo nulla",
+                    "come facciamo a saperlo? Non seguiamo il punto di vista di Vera? E perché questo ragazzino non ha un nome? Immagino sia lo stesso del primo capitolo, giusto? Il fatto di non avere un nome a lungo crea aspettativa e curiosità, quindi se si tratta solo di un caso, sarebbe meglio trovargli un nome e togliergli questa aura di mistero che sta assumendo",
+                    "andare sulla riva e specificherei sulla riva di cosa perché in queste righe abbiamo visto solo una pompa e poi un condotto per l'acqua, ma io immaginavo un pozzo, non qualcosa con una riva",
+                    "toglierei i pesci, dal nome si capisce cosa sono, invece così sa proprio di imbeccata per il lettore",
+                    "io direi venne spiazzato",
+                    "dopo il punto va sempre la maiuscola; in questo caso però sostituirei il punto con una virgola e lascerei la minuscolo dopo. Punto dopo erborista.",
+                    "bisogna specificare chi sono i due di cui parli",
+                    "non le sarebbe dispiaciuto fermarsi.",
+                    "credo sia un refuso: Mi trovo qui",
+                    "via la virgola",
+                    "via di",
+                    "proposta: ma sono in pochi ad averlo visto.",
+                    "riformulerei: L'unica cosa certa che si sa di lui è che vive alla sorgente del fiume.",
+                    "Riformulerei: Temo che anche saperlo non avrebbe cambiato il risultato.",
+                    "specifica chi è che parla",
+                    "questa frase mi fa pensare che i due abbiano un rapporto di almeno qualche mese se no non si spiega la confidenza e la conoscenza, invece la storia letta fino ad ora mi fa pensare che Vera sia in paese da molto poco. Qual è la verità?",
+                    "Alla prossima , grazie della bella lettura"
+                ]
+            ],
+            "timestamp": "2019-08-10T13:39:29Z",
+            "title": "Dietro la Porta (parte 3)",
+            "url": "https://www.writersdream.org/forum/forums/topic/41872-dietro-la-porta-parte-3//?do=findComment&comment=782807",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +63,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 4832,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
