@@ -16,7 +16,7 @@
         "valid": 0.8855555555555555,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -47,7 +47,7 @@
     },
     "num_chars": 5251,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 782524,
@@ -76,7 +76,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44141-uomo-come-ho-inteso-diventare//?do=findComment&comment=782661"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 782758,
+            "text": [
+                "ciao, purtroppo il commento che hai allegato non è sufficiente per pubblicare in officina. Devi sempre tenere presente la sua utilità per l'autore: cerchi di affrontare un aspetto ma non lo metti a fuoco, inoltre un commento approfondito (come il regolamento richiede per postare) deve toccare più aspetti del testo analizzato. Da quel po' che vedo mi sembra che partecipi all'attività in officina in modo corretto e non ti sarà difficile migliorare questo aspetto. Se hai dubbi sulla validità di un commento puoi chiedere allo staff o farti aiutare da qualche sostenitore. Siamo a disposizione per chi vuole migliorarsi.",
+                "Devo chiudere questa discussione in attesa di un commento più approfondito. Per riaprire devi inviare il link del nuovo commento tramite MP a me o a un altro staffer."
+            ],
+            "timestamp": "2019-08-10T06:36:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44141-uomo-come-ho-inteso-diventare//?do=findComment&comment=782758"
+        }
+    ],
     "text": [
         "\"Hai tutto ciò che serve per riuscirci\", sì, però intanto dentro questa cosa assurda ci devo passare io... Vorrei vedere lui al posto mio! E poi, dico, ma a che diavolo potrà servire mai questa razza di messa in scena... È una commedia indegna e imbarazzante. Diamine! A me non frega niente di queste cose... Doversi mettere alla prova, sfidarsi, scoprire la pasta di cui si è fatti, bla bla e bla, di tutte queste ciance io non ho proprio voglia. Ma perché? Perché?! Perché uno deve sempre mettersi in discussione? Perché uno deve sempre temere di non essere all'altezza? Ma lui, che parla tanto, lo capisce che significa per me questa storia? Io ho le cose mie, gli interessi miei, i problemi miei e dovrei pure imbarcarmi in rogne come questa? E lui che sa dirmi? \"Ti sei fatto uomo ormai\", se la cava così. \"È compito tuo\", tutto qua. Ecco, allora io gli vorrei rispondere così: \"E te? Resti lì a guardare?\", \"Io mi sbatto e tu guardi?\", \"Non te ne frega nulla di come mi sento io?\". Vaglielo a spiegare come mi sento io... Eppure, all'inizio non andava così, un po' parlavamo, per un po', nonostante tutto, credevo fosse diverso, che avremmo costruito un po' di sintonia... E invece niente. Tutto d'un tratto, crac e le cose fra noi sono precipitate. Parlare e confrontarsi è diventato difficile, reciproca comprensione non ce n'è più stata, anzi!, fulmini e saette. Chi riesce ancora a capirlo è bravo... Tutti quei discorsi diventati strani e difficili da un giorno all'altro, parole e parole e parole che sembravano deliri incomprensibili... In più, questo fatto nuovo che ha preso ad evitarmi... Io che penso \"Se dovessi aver bisogno, di sicuro potrei contare su di lui\", come tutti gli altri, e invece sparisce, mi lascia a spasso, io mi comprometto, le cose si mettono male, non so più dove sbattere la testa e lui non si fa vedere, nessuno sa dove sia andato a finire... Lui non c'è. Poi viene fuori questa cosa... Questa cosa aberrante... Contro natura... Come se io non fossi più neanche suo figlio... \"Devi dare il buon esempio\", alla fine mi ha detto... Maledetto te, papà.",
         "Perché mi hai abbandonato?!",

@@ -70,7 +70,7 @@
     },
     "num_chars": 3637,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 781777,
@@ -102,6 +102,24 @@
             ],
             "timestamp": "2019-08-07T04:20:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782266"
+        },
+        {
+            "post_id": 782761,
+            "text": [
+                "@ Ciao, sono contento che il racconto ti sia piaciuto. Sicuramente \"si può dare di più\", da par mio cercherò di scrivere racconti migliori :-)"
+            ],
+            "timestamp": "2019-08-10T06:42:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782761"
+        },
+        {
+            "post_id": 782762,
+            "text": [
+                "Sono contento che il mio racconto ti sia piaciuto. Sicuramente terrò conto delle tue segnalazioni, per quanto riguarda i dialoghi e i puntini di sospensione. Però secondo me il fatto che lei sia \"zittita\" sul sentiero di montagna e se ne risenta a distanza di mesi è qualcosa di alquanto realistico su come funzionano i rapporti umani e in una coppia, a mio avviso. Certo, potrei renderlo in toni più tenui, magari mi è venuto troppo brusco.",
+                "Un saluto,",
+                "Domenico"
+            ],
+            "timestamp": "2019-08-10T06:44:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782762"
         }
     ],
     "post_staff": [],
