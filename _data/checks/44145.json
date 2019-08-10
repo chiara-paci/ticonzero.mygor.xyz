@@ -54,8 +54,18 @@
     },
     "num_chars": 3498,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 782785,
+            "text": [
+                "Grazie , hai colto a pieno il senso e il significato che ho cercato di dare al testo.",
+                "Grazie anche per gli errori che mi hai fatto notare e, ovviamente, per avermi letto."
+            ],
+            "timestamp": "2019-08-10T10:04:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44145-dovera-il-tuo-filo-arianna//?do=findComment&comment=782785"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mi persi, e non era il luogo, io mi persi come solo dentro se stessi ci si riesce a perdere. Ero io stesso quel fottuto labirinto. E tu dov'eri, Arianna, dov'era il filo che mi promettesti. T'ho cercata in tutti i miei sbagli, in tutte le parole che ci siam detti prima di lasciarci, in tutti gli angoli della memoria, e poi ti ho aspettata dietro ad ogni mia lacrima, come un bambino senza vergogna e non t’ho trovata. Non m'hai salvato, Arianna, le tue promesse sono cadute come meteore sopra le valli desolate del mio cuore. Son state loro a trafiggermi, le tue promesse vuote e le tue assenze incolmabili hanno schiacciato le mie speranze con una forza che nemmeno t'immagini. Ogni tanto mi perdo di nuovo, quasi mi piace, nei posti in cui è difficile uscire, ho scoperto, è nascosto sempre qualche altro motivo per vivere.",
