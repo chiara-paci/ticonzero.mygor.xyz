@@ -56,7 +56,7 @@
     },
     "num_chars": 7883,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 781024,
@@ -103,6 +103,15 @@
             ],
             "timestamp": "2019-08-02T14:00:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44039-fdi-2019-2-la-vit%C3%A0-%C3%A8-un-rimbalzo//?do=findComment&comment=781610"
+        },
+        {
+            "post_id": 782964,
+            "text": [
+                "sapevo mi avresti sgamato",
+                "quoto te, ma mi serve per rispondere anche a tutti gli altri a cui finora non ho risposto: aspetto che il contest termini e poi posto la versione estesa. Soprattutto la seconda parte è stata modificata per far rientrare tutto e questo naturalmente ha influito; a mio avviso, la versione più ampia fa capire meglio e rende le cose meno forzate."
+            ],
+            "timestamp": "2019-08-11T22:07:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44039-fdi-2019-2-la-vit%C3%A0-%C3%A8-un-rimbalzo//?do=findComment&comment=782964"
         }
     ],
     "post_staff": [],
