@@ -56,7 +56,7 @@
     },
     "num_chars": 4611,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 781634,
@@ -91,6 +91,14 @@
             ],
             "timestamp": "2019-08-08T17:42:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=782560"
+        },
+        {
+            "post_id": 782848,
+            "text": [
+                "Ciao grazie del passaggio e del commento. A rileggerci 😀"
+            ],
+            "timestamp": "2019-08-10T21:46:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44076-fdl-2019-2-perta-ines//?do=findComment&comment=782848"
         }
     ],
     "post_staff": [],

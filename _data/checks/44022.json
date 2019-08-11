@@ -52,7 +52,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 41,
+    "num_posts": 42,
     "post_after": [
         {
             "post_id": 780484,
@@ -211,6 +211,18 @@
             ],
             "timestamp": "2019-08-08T20:45:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=782600"
+        },
+        {
+            "post_id": 782852,
+            "text": [
+                "Il fisico e l'emblema di questo tuo discorso e del racconto. È bello che tu ci abbia visto questo.",
+                "Ma che meraviglia.",
+                "Sono contenta di questo, grazie, è esattamente il mio modo di vedere.",
+                "Puoi anche dirlo che ti ho pagato... Ma grazie",
+                "Per concludere: ottimo lavoro, Roberto! Continua a commentarmi così ( )"
+            ],
+            "timestamp": "2019-08-10T23:33:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=782852"
         }
     ],
     "post_staff": [],

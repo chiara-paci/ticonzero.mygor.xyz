@@ -55,7 +55,7 @@
     },
     "num_chars": 5690,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 779862,
@@ -172,6 +172,14 @@
             ],
             "timestamp": "2019-07-31T23:34:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/43979-fdi-2019-2-sarcodina//?do=findComment&comment=781327"
+        },
+        {
+            "post_id": 782853,
+            "text": [
+                "così mi fai squagliare il mio organismo poco più che monocellulare..."
+            ],
+            "timestamp": "2019-08-11T00:32:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/43979-fdi-2019-2-sarcodina//?do=findComment&comment=782853"
         }
     ],
     "post_staff": [],
