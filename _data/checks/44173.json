@@ -1,0 +1,112 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "comincio a rompere dalla prima frase Ci sono molti dettagli in questa lunga frase, te li segno in grassetto... ma in realtà ci hai detto poco. Al posto di mattino presto si possono dare i colori dell'alba, o la rugiada insieme all'umidità del primo mattino; il canyon a serpente, metafora già usata, può riempirsi di curve strette, scivolose, ripide, scoscese o tante altre immagini; appena lo eliminerei; i pilastri naturali mi viene da chiedere di cosa e attaccati a cosa stanno; il lato destro perché è importante specificarlo? Su quello sinistro che succede? Per finire mi chiedo perché usi proprio setacciò quando immagino che lei sia ferma e perlustri i dintorni con lo sguardo.",
+                    "tutti questi dettagli così precisi che dai, per esempio il sentiero centrale, mi fanno pensare che tu abbia ben chiara in testa la morfologia del paesaggio che però non riesce bene a passare al lettore. So di averti detto nel commento precedente che ci sono ambientazione e tutto, ma questi dettagli troppo specifici mi complicano la vita perché non riesco a inserirli nell'immaginario che ho costruito nella mente. Leggere sentiero centrale mi fa pensare che ci siano altri sentieri e di essermeli persi. Mi chiedo anche centrale a cosa, alla valle?",
+                    "cercherei un sinonimo per vista o per vide e per visione poco sotto",
+                    "la grotta della porta non è tanto bello, cercherei di riformularlo",
+                    "Metterei: Inciampando lungo il sentiero, ormai sotto la luna, tornò sfinita all'insediamento.",
+                    "refuso: manca un da dopo modo. Specificherei che il partire tardi è sul far della sera se no io immagino tarda mattinata e mi fa strano che il vecchio vada già a letto",
+                    "via quella e toglierei anche e dopo la virgola",
+                    "questa non la capisco, non finisce: era sicura di cosa? Forse volevi mettere due punti dopo sicura? In quel caso funzionerebbe",
+                    "non serve la d eufonica",
+                    "toglierei grotta dalla frase precedente e la aggiungerei qui dopo addentrò che è un verbo che da solo non sta bene",
+                    "unirei: solo allora le venne in mente che il vecchio poteva essere seduto nella cunetta poco più avanti, come la prima volta.",
+                    "difficile che un bastone ruzzoli, a parte che il vecchio non se lo sia lasciato sfuggire di mano e ora il bastone rotoli verso Vera",
+                    "ma perché? Sai che non ho capito che pericolo costituisce questo vecchio senza nome e senza identità?",
+                    "hai scordato una virgola dopo sicurezza",
+                    "forse: uno spirito avverso del fato?",
+                    "in che senso? A chi? Simbolico? Reale? Come fa a saperlo?",
+                    "propongo: camminò fino ad arrivare a pochi passi",
+                    "via di",
+                    "qui sembra che sia il naso a essere sospettoso, spostalo dopo vecchio",
+                    "virgola dopo lui",
+                    "In fondo",
+                    "di lei, ormai era troppo tardi: non l'avrebbe raggiunta...",
+                    "via entrambi i possessivi",
+                    "sposterei il verbo all'inizio della frase",
+                    "mi sembra una descrizione troppo cruenta se stiamo parlando di un solo amo da pesca",
+                    "mentre al posto di come, non sono sinonimi",
+                    "Anche negli altri pezzi avevo notato che usi molto e in seguito alla virgola, ma in questo capitolo è molto pesante il risultato. Ti consiglio di alleggerire il tutto, accorciare le frasi e di eliminare i tanti possessivi ed e che si sono impossessati del tuo capitolo.",
+                    "Non mi convince la figura del vecchio che non capisco in quale modo abbia un'importanza del genere. Immagino un nonnetto, cattivo magari, ma in ogni caso molto anziano, quindi con difficoltà a muoversi e non credo così tanta forza. Vera è una giovane, che tra l'altro non è mai stata descritta, o almeno io non ricordo ora, ma dovrebbe avere la forza di atterrare un vecchietto. E perché poi continua a non avere nome? E perché le fa tanta paura? Molte domande, mi piacerebbe tanto avere risposte",
+                    "Alla prossima"
+                ]
+            ],
+            "timestamp": "2019-08-11T12:36:34Z",
+            "title": "Dietro la Porta (parte 4)",
+            "url": "https://www.writersdream.org/forum/forums/topic/41912-dietro-la-porta-parte-4//?do=findComment&comment=782903",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 6948,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "«È andata via. Non ci posso credere, davvero. Dove sarà? Abbiamo fatto lezione ieri!»",
+        "«Non lasciarti prendere dal panico, Erika». Roberto mi ha fatto entrare in casa e siamo seduti uno a fianco dell’altro sul divano consunto. «Lo sapevi che poteva succedere».",
+        "«Lo sapevo, sì, ma non credevo che sarebbe accaduto davvero». Questo concetto sembra essere troppo difficile o forse ingombrante per la mia testa perché non c’è verso che io riesca a comprenderlo. «Come può aver deciso che la cosa migliore fosse tornare in strada? E dove poi? È tornata da Sugar? Dopo tutto quello che mi ha raccontato, come può essere tornata da Sugar?»",
+        "«È sicuramente tornata da lei, è l’unica sicurezza che ha. Non conosce nessun altro», Roberto fa una piccola pausa prima di continuare. «Sa che tornando da Sugar può ricominciare a guadagnare».",
+        "«Eravamo a un passo soltanto!» Mi asciugo le lacrime che tornano a colarmi fino al mento. Per cosa sto piangendo adesso? Per il nervoso? Per la preoccupazione? Per la frustrazione? E per chi sto piangendo? Per Jessy? Per me?",
+        "«Ho deciso che torno in strada. Basta. Bisogna che la smetta di nascondermi qui dentro. Da cosa poi? Mica devo andare a ficcarmi in chissà quali situazioni, ma Jessy potrebbe essere da qualche parte».",
+        "«Se te la senti, va bene, ma non devi sperare di trovarla». Roberto non indora la pillola. Me l’ha detto e ripetuto: quando le ragazze scompaiono dalla strada non vengono ritrovate quasi mai. Spesso nemmeno se vogliono essere ritrovate. Cambiano città, paese, a seconda della gravità della loro situazione. E direi che quella di Jessy è abbastanza seria per potersi candidare per lo meno al trasferimento in un’altra città. Se non in un altro Stato.",
+        "A Bologna ormai Jessy è conosciuta sia dalle forze dell'ordine che dai volontari delle associazioni, verrebbe localizzata molto in fretta e sarebbe al punto di partenza. A quel punto in cui ci trovavamo ieri e da cui si è voluta allontanare.",
+        "«Che cosa possiamo fare?» A che serve piangere? Solo a farti sentire sfinita dopo, con gli occhi gonfi e gli stessi problemi che avevi prima di iniziare. Ma io lo so già. Se nella vita mi fossi limitata a piangere sarei ancora in Russia a meravigliarmi che la persona che mi professa amore eterno e incondizionato sia capace di alzare le mani su di me. Funziona sempre questo pensiero. Se sono riuscita a tirarmi fuori da quella situazione, ho abbastanza forze per fare più o meno qualsiasi cosa. «Dimmi come posso aiutare. Voglio aiutare».",
+        "A quanto pare le uniche azioni che si possono intraprendere in questi casi sono limitate: Roberto ha telefonato al maresciallo e lui lo ha convinto che è inutile denunciare la scomparsa di Jessy. Dice che dobbiamo avere pazienza, che la ragazza potrebbe tornare, ma solo se sarà nelle condizioni per poter decidere da sola. Il maresciallo ha ragione, lo so, ma io sbatterei comunque il telefono contro le pareti e contro tutte le finestre perché Jessy non si troverà mai nella condizione di decidere da sola cosa vuole e può fare. Se fosse esistita questa condizione per lei non l’avrei mai conosciuta. Mi limito a sbattere la cornetta che rimbalza sul suo supporto e poi rimane a penzolare come un impiccato al cappio.",
+        "Mi dispiace. Lo raccolgo e lo sistemo al suo posto. Mi lascio cadere sul divano di fianco a Roberto che non ha mosso un muscolo nemmeno per salvare il suo telefono che ha chiaramente un valore affettivo tanto è vecchio.",
+        "«Ma come ho fatto a non capire cosa stava succedendo? Come ho fatto a non capire che quello era il suo addio?»",
+        "«Come avresti potuto sapere che aveva intenzione di andare via?»",
+        "«Io ero la sua maestra, ero la persona più vicina a lei e ugualmente non ho capito niente. Sono una stupida!»",
+        "«Non puoi prenderti responsabilità che non hai». Roberto è fermo su questo punto. «La nostra è un’operazione di riduzione del danno. Tu l’hai aiutata per quanto lei ti ha permesso, non c’era altro che tu potessi davvero fare. Tu non dovevi convincerla a fare qualcosa che lei non voleva. Potevi solo accompagnarla nella sua decisione».",
+        "Le sue parole mi confortano; allo stesso tempo mi smuovono qualcosa dentro che non identifico con sicurezza, ma che non mi dà una sensazione piacevole.",
+        "«Perché non l’abbiamo mandata da un’altra parte? L’abbiamo tenuta qui dentro sola a rimuginare su quella merda di vita che ha vissuto fino a ora». Sono arrabbiata sia con lui che con me stessa. Sono arrabbiata anche con Jessy. «Anche ieri insistevo che arrivasse in fondo con la storia della denuncia e perché? Perché è la cosa corretta da fare! Ma sai cosa? Ha ragione Jessy, non serve a niente una denuncia del genere, solo a mettere in pericolo la sua famiglia e lei stessa!»",
+        "«Se tutti ragionassero così allora nessuno verrebbe mai arrestato e le ragazze come Jessy continuerebbero a essere comprate e vendute».",
+        "Dove ho già sentito queste stesse parole?",
+        "«Non puoi mettere sulle spalle di una ragazzina di quell’età una responsabilità del genere. Non è giusto».",
+        "«No che non è giusto». Anche Roberto ha alzato la voce adesso. «Ti sembra per caso giusto che una ragazzina di quell’età debba decidere di andare in un altro continente a lavorare? Che venga obbligata a prostituirsi? Venga picchiata e violentata? Debba quasi morire di fame per arrivare in un altro Paese? No che non è giusto, cazzo!»",
+        "Rimaniamo un momento in silenzio entrambi.",
+        "«Mi dispiace di aver urlato», mormoro e gli tocco una mano, secca e calda.",
+        "«Torna in strada e aiuta come puoi e solo se è quello che vuoi. Il nostro lavoro serve, forse poco, forse a pochi». Gli ho fatto venire gli occhi lucidi, sono proprio una merda. «Però a qualcuno facciamo del bene».",
+        "Mi lascio andare contro lo schienale del divano e penso a Jessy sul marciapiedi. Io non l’ho mai vista fuori di casa. Non so perché questo pensiero mi colpisca tanto, come se cambiasse viso con uno sfondo diverso dal salotto disordinato o dalla cucina con i mobili spaiati. Come può essere possibile che fosse qui solo ieri e che ora sia scomparsa? Nessuno può farci niente. Potrei uscire per strada e cercarla. Potrei scandagliare il pianeta per sempre e non ritrovarla mai più. Eppure, come posso rimanere immobile mentre lei è là fuori?",
+        "Mi alzo di scatto e corro nella sua stanza, verso il suo letto. Tiro via lenzuola e coperte, scrollo tutto alla ricerca di un segno, di un segnale. Ma lei mi aveva avvertito ieri, me l’aveva detto a modo suo. “Ciao, Etisa mwen”. Non mi aveva mai chiamato così, non mi aveva mai accompagnata alla porta, non mi aveva mai salutata dalla finestra.",
+        "Lascio cadere le coperte a terra, il cuscino si ribalta e si accascia al fianco del letto a castello. Mi siedo sul pavimento perché non so più dove cercare, perché so che non c’è niente da trovare. Il libro delle favole africane occhieggia tra i riccioli di polvere. Allora le era piaciuto. Forse aveva guardato le figure prima di addormentarsi. Forse aveva riconosciuto alcune delle parole.",
+        "Come ho potuto non capire che lei aveva già compiuto la sua scelta?"
+    ],
+    "timestamp": "2019-08-11T12:38:28Z",
+    "title": "Le ragazze - Capitolo 6 - 2/2",
+    "topic_id": 44173,
+    "url": "https://www.writersdream.org/forum/forums/topic/44173-le-ragazze-capitolo-6-22/"
+}
