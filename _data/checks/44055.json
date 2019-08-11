@@ -58,7 +58,7 @@
     },
     "num_chars": 5388,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 781147,
@@ -81,6 +81,15 @@
             ],
             "timestamp": "2019-08-09T14:15:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44055-le-ragazze-capitolo-4-33//?do=findComment&comment=782707"
+        },
+        {
+            "post_id": 782858,
+            "text": [
+                "che bello trovarti qui!",
+                "grazie mille, procedo!"
+            ],
+            "timestamp": "2019-08-11T04:49:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44055-le-ragazze-capitolo-4-33//?do=findComment&comment=782858"
         }
     ],
     "post_staff": [],

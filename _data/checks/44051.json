@@ -50,7 +50,7 @@
     },
     "num_chars": 5629,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 781109,
@@ -111,6 +111,16 @@
             ],
             "timestamp": "2019-08-09T12:46:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44051-fdi-2019-2-fuori-concorso-la-cerimonia//?do=findComment&comment=782688"
+        },
+        {
+            "post_id": 782824,
+            "text": [
+                "Non ho parole.",
+                "Teoria interessante e condivisibile (anche il fatto che mi ricorda un ritornello di una canzone ), però penso che in questo caso ci sia una doppia faccia della medaglia perché magari può essere un tema famoso per chi segue la mitologia greca e meno per altri. Però credo che tu abbia ragione.",
+                "Buon fine settimana e grazie per l'apprezzamento. Sono felice che il racconto ti sia piaciuto."
+            ],
+            "timestamp": "2019-08-10T16:26:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44051-fdi-2019-2-fuori-concorso-la-cerimonia//?do=findComment&comment=782824"
         }
     ],
     "post_staff": [],
