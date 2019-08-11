@@ -52,8 +52,20 @@
     },
     "num_chars": 12505,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 782857,
+            "text": [
+                "Ciao, sono contento che tu abbia colto l'intento del racconto e che ti sia piaciuto. Mi spiace molto per i refusi: il giorno in cui riuscirò a pubblicare uno scritto privo di refusi credo che stapperò la bottiglia buona.",
+                "In effetti trovo l'epilogo un po' scontato, per non dire affrettato. Dovendo riscrivere il racconto in una versione più lunga, credo che farei aprire un'agenzia viaggi alla ragazza (sfruttando i poteri del suo amico supereroe) e poi metterei una vera battaglia finale, come nei fumetti, in cui la ragazza acquisisce i superpoteri e salva la situazione. Però sempre qualcosa con una sfumatura agrodolce e ironica, non so se mi spiego. Ma forse a quel punto la trama sarebbe troppo fumettosa, non so...",
+                "Grazie ancora, e scusa per il flusso di pensieri.",
+                "Domenico"
+            ],
+            "timestamp": "2019-08-11T03:53:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44160-una-bella-seccatura//?do=findComment&comment=782857"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Un’intera parete della casa era stata sventrata, quella che dava sulla strada. Sua madre era seduta al tavolo, impietrita. Letteralmente. Era stata trasformata in una pietra.",
