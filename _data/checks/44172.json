@@ -16,7 +16,7 @@
         "valid": 0.590879120879121,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -47,9 +47,24 @@
     },
     "num_chars": 7835,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 782932,
+            "text": [
+                ", forse non ti sei accorto che avevi già commentato il brano Il corvo il mese scorso, quindi non possiamo darti buono questo commento, dovresti farne un altro.",
+                "Chiudo. Manda MP quando hai fatto per riaprire."
+            ],
+            "timestamp": "2019-08-11T17:17:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44172-ballerino-di-flamenco//?do=findComment&comment=782932"
+        }
+    ],
     "text": [
         "“BALLERINO DI FLAMENCO”",
         "Città di Siviglia (Spagna) da qualche ora sbarcato dal motopesca Oceanico “ Kanurra”, ero in cerca di un albergo per pernottare e decidere il da farsi dato che ero stato sbarcato con tutto l'equipaggio per colpa di una campagna di pesca disastrosa è maledetta,",

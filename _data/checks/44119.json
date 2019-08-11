@@ -55,7 +55,7 @@
     },
     "num_chars": 3245,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 782189,
@@ -68,6 +68,16 @@
             ],
             "timestamp": "2019-08-06T17:58:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44119-oltre-lobl%C3%B2-capitolo-i//?do=findComment&comment=782189"
+        },
+        {
+            "post_id": 782929,
+            "text": [
+                "Grazie mille per le tue osservazioni.",
+                "Il problema principale che mi mette un po' in difficoltà è che effettivamente i primi capitoli sono un po' poveri di fatti, è come una sorta di lungo prologo in cui essenzialmente presento una situazione e i personaggi che ne fanno parte - vorrei che il lettore riuscisse ad immaginarli, a riconoscerli nella propria testa come se fossero persone già viste da qualche parte. Non so però effettivamente come rendere questo aspetto meno 'pesante' per via delle descrizioni continue.",
+                "Ci lavorerò sicuramente!"
+            ],
+            "timestamp": "2019-08-11T17:11:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44119-oltre-lobl%C3%B2-capitolo-i//?do=findComment&comment=782929"
         }
     ],
     "post_staff": [],
