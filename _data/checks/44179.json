@@ -1,0 +1,58 @@
+{
+    "author": {
+        "author_id": 27743,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 2,
+            "poesia": 0
+        },
+        "name": "flambar",
+        "url": "https://www.writersdream.org/forum/profile/27743-flambar/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao molto breve, ma molto significativo, scorrevole nella sua scrittura e coinvolgente nella sua espressione, tutti noi cresciuti nell'abbondanza, nell'igiene ecc... diffidiamo da loro, ma non solo dai loro pidocchi ma dal modo di come gestiscono la loro vita.",
+                    "I popolo Rom non è benvisto neanche nella loro terra di origine. Non molto tempo fa, questi popoli mi affascinavano e mi incuriosivano tanto che andai a vivere per un un po di tempo con loro. Oh! è chiaro che non mi hanno fatto scoprire sino in fondo come si svolge il loro andazzo, anche perchè non conviene fare troppe domande essi come tutti i popoli nomadi sono un po suscettibili. Alle signore ed alle maestre del tuo racconto desidero assicurarle che per la faccenda dei pidocchi Rom possono stare tranquille per il semplice fatto che con molte probabilità i pidocchi Rom se ne esistono preferiscono stare a dosso ai Rom, diversamente sarebbero anche venuti da me considerando che ci ho fatto anche l'amore con le ragazze di questo popolo. Quello che mi stupisce di sta gente è il modo loro di risolvere i problemi della vita, può darsi che mi sbaglio ma li trovo più felici e più liberi di noi anche se loro hanno delle regole ferree più delle nostre. Di errori non ne ho notati, quindi ti auguro una buona serata a rileggerci"
+                ],
+                [
+                    "sono io che devo ringraziare te di farmi ricordare episodi della mia vita passata"
+                ]
+            ],
+            "timestamp": "2019-08-11T20:45:32Z",
+            "title": "Rom",
+            "url": "https://www.writersdream.org/forum/forums/topic/44116-rom//?do=findComment&comment=782958",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 0,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [],
+    "timestamp": "2019-08-11T20:48:53Z",
+    "title": "Ballerino di flamenco",
+    "topic_id": 44179,
+    "url": "https://www.writersdream.org/forum/forums/topic/44179-ballerino-di-flamenco/"
+}
