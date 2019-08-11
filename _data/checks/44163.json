@@ -64,8 +64,19 @@
     },
     "num_chars": 4832,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 782900,
+            "text": [
+                "credo che questa sia la cosa più bella che mi hai mai detto È proprio così, nel senso che quello era proprio il mio intento, ne sono felice! Non so se sia una cosa che ti piace o no, questo non l'ho capito, ma era esattamente quello che volevo ottenere",
+                "l'impersonale però ancora persiste, eh?",
+                "Buona domenica anche a te, mio caro grazie mille!"
+            ],
+            "timestamp": "2019-08-11T11:58:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44163-le-ragazze-capitolo-6-12//?do=findComment&comment=782900"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Si sarà addormentata?",
