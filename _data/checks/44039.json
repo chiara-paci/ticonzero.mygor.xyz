@@ -56,7 +56,7 @@
     },
     "num_chars": 7883,
     "num_commenti": 1,
-    "num_posts": 31,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 781024,
@@ -112,6 +112,14 @@
             ],
             "timestamp": "2019-08-11T22:07:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44039-fdi-2019-2-la-vit%C3%A0-%C3%A8-un-rimbalzo//?do=findComment&comment=782964"
+        },
+        {
+            "post_id": 783078,
+            "text": [
+                "Nella sezione Racconti lunghi ho postato la versione estesa del racconto (ha lo stesso titolo)."
+            ],
+            "timestamp": "2019-08-12T14:30:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44039-fdi-2019-2-la-vit%C3%A0-%C3%A8-un-rimbalzo//?do=findComment&comment=783078"
         }
     ],
     "post_staff": [],
