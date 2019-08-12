@@ -70,7 +70,7 @@
     },
     "num_chars": 3637,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 781777,
@@ -120,6 +120,15 @@
             ],
             "timestamp": "2019-08-10T06:44:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782762"
+        },
+        {
+            "post_id": 782968,
+            "text": [
+                "Ciao",
+                "sono contento che il raccontino ti sia piaciuto. In effetti, si tratta di un piccolo frammento, però volevo scrivere qualcosa di piccolo, semplice, senza pretese. A volte mi imbarco in trame arzigogolate che poi si rivelano un mezzo fallimento... è difficile trovare l'equilibrio giusto fra semplicità e complessità, trovare la lunghezza giusta, dare quel senso di \"completezza\" da te giustamente cercato. Posso dire, per questo racconto, di essermi involontariamente (me ne rendo conto ora) e umilmente (spero) ispirato al grande mangaka Jirō Taniguchi, la cui opera \"l'uomo che cammina\" ho letto quest'estate. Grazie per il passaggio, saluti."
+            ],
+            "timestamp": "2019-08-12T03:23:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44100-aurora//?do=findComment&comment=782968"
         }
     ],
     "post_staff": [],
