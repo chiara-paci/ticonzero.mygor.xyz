@@ -12,29 +12,26 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.590879120879121,
+        "timestamp": true,
+        "valid": 0.5633333333333334,
         "weight": true
     },
     "closed": true,
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0.590879120879121
+                "timestamp": true,
+                "valid": 0.5633333333333334
             },
             "text": [
-                [
-                    "Il tuo racconto molto fluido ed interessante ha fatto luce su alcune riflessioni che mi sono sempre fatto alla fine di ogni funerale che ho partecipato mi è sempre venuta una fame da lupo ed anche di una voglia di... alcune volte ho pesato per che il dolore di aver perso un parente o una persona cara il mio cervello era andato in tilt, col tuo racconto semplice ed intuitivo mi ha chiarito le cose. Di errori non ne ho visti e come potrei vederli si si considera che tu sei un sostenitore ed io una recluta. Grazie della lettura augurandoti una buona domenica e tanta fortuna"
-                ],
                 [
                     "Ciao e buona domenica Un racconto attraente e coinvolgente il tuo, chi non ha avuto, meglio dire subito quello che tu hai diligentemente scritto. Di errori non ne ho notati, il tuo scritto è talmente cristallino da intuire con facilità quello che vuoi comunicare e cioè, non dimenticarci che la signora morte quando ci chiama non da mai un doppio comando questo",
                     "è l'unica verità che ci fa tutti uguali. È vero durante i funerali si ha fame, dalle mie parti esistono anche coloro che piangono il defunto e spesso lo fanno anche a pagamento. Mi è piaciuto leggerti. Ti auguro una buona domenica e tanta fortuna"
                 ]
             ],
-            "timestamp": "2019-07-14T12:12:20Z",
+            "timestamp": "2019-08-11T11:38:21Z",
             "title": "[FdI 2019-1] Il corvo",
-            "url": "https://www.writersdream.org/forum/forums/topic/43804-fdi-2019-1-il-corvo//?do=findComment&comment=778293",
+            "url": "https://www.writersdream.org/forum/forums/topic/43804-fdi-2019-1-il-corvo//?do=findComment&comment=782898",
             "weight": 1
         }
     ],
