@@ -52,7 +52,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 43,
+    "num_posts": 44,
     "post_after": [
         {
             "post_id": 780484,
@@ -223,6 +223,16 @@
             ],
             "timestamp": "2019-08-10T23:33:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=782852"
+        },
+        {
+            "post_id": 783082,
+            "text": [
+                "questa è stata la mia faccia quando ho letto il tuo commento... è rimasta così anche nei successivi minuti.",
+                "Ma è la terza traccia ! Ci vediamo lì allora.",
+                "Grazie ancora"
+            ],
+            "timestamp": "2019-08-12T15:00:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=783082"
         }
     ],
     "post_staff": [],
