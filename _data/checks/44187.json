@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 33115,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "andrea werner mondazzi",
+        "url": "https://www.writersdream.org/forum/profile/33115-andrea-werner-mondazzi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "In gergo tecnico questa è una pistola posata sul comodino in mezzo al racconto. Se mostri una pistola, la pistola prima o poi dovrà sparare, altrimenti hai inutilmente alimentato le aspettative del lettore che rimarrà poi deluso. A cosa è legato lo stato d'animo? Merita di essere disvelato e approfondito per rendere più intrigante e credibile il tutto. Chi era al telefono? Che notizia è arrivata alla donna? Ecc.",
+                    "Trovo questo passaggio non restituisca un profilo psicologico credibile. Mentre in generale, anche dagli altri passaggi emerge l'arroganza maschilista del tipo, queste sono caratteristiche di norma inconsce e tanto più pronunciate quanto più non narratizzate dal soggetto stesso che le indossa. Dire \"dovevi metterlo sul letto così o io o te lo avremmo ricordato\" e poi aggiungere \"ma ovviamente dovevi ricordarlo tu\" sembra come se il soggetto volesse deliberatamente rimarcare la propria arroganza, cioè prende coscienza dell'essere arrogante e ingiusto (potevamo sia io che te ma ovviamente dovevi te). Il passaggio quindi indebolisce la verosimiglianza del dialogo e non favorisce il calarsi del lettore nella situazione.",
+                    "Infine, l'epifania in cui la donna \"vede\" ogni situazione che dimostrava la piccolezza di suo marito, epifania da cui discende la forte decisione di chiedere il divorzio, mi pare preparata non in modo ottimale. Una passo così forte avrebbe dovuto seguire un impulso preparatorio narrativamente forte, in un frangente di qualche riflessione avresti dovuto inserire tre o quattro cazzotti nello stomaco per il lettore, tipo per esempio un sovvenuto timore di violenza sui figli della coppia o roba così. Altrimenti proponi l'immagine poco verosimile di una moglie che per una vita \"abbozza\" perché non ha la forza di rompere e poi un bel mattino si alza e, tò, \"oggi divorzio\".",
+                    "Buon lavoro."
+                ]
+            ],
+            "timestamp": "2019-08-12T15:33:58Z",
+            "title": "Il giorno in cui scordai il telo da spiaggia",
+            "url": "https://www.writersdream.org/forum/forums/topic/43970-il-giorno-in-cui-scordai-il-telo-da-spiaggia//?do=findComment&comment=783093",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2331,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Fu poiché se ne vergognava quando andava a colloquio con le maestre.",
+        "Fu poiché percepiva di esserne inseguita, quando rassettava la cameretta in cui ve n'erano sparsi ovunque.",
+        "Fu poiché l'incontrava con tale ostinata continuità nei propri sogni, da non riuscire a non considerare d'aver avuto un incubo ogni notte.",
+        "Fu poiché non di rado si lasciava scivolare tra le dita la mattina intera, a causa dell'ipnotico rapimento che subiva al cospetto loro.",
+        "Fu poiché alcuni l'avevano addirittura gettata in stato d'ansia o di panico marcato, altri in afflati di pietà o esaltazione e molti, specialmente, in crisi disperate, con tanto di pianto e lacrime.",
+        "Fu poiché si arrivò financo ad uno scabroso giorno, quello che dalla memoria la coscienza con ogni sforzo tentava di scacciare, ma il cui vivido ricordo qualcosa dall'inconscio non smetteva di far riaffiorare, ad un maledetto giorno si arrivo financo, insomma, quando tanto forte e tanto a fondo di uno di loro subì nell'animo la penetrazione che, sgomenta, fallì di sottrarsi ad un sopravvenuto languore sensuale: nonostante il sommo conturbamento, tramite gesti di selvaggio autoerotismo, dovette infliggersi un urgente orgasmo.",
+        "Fu per tutte queste ragioni, un poco.",
+        "Ma fu grandemente perchè la povera donna non comprendeva la più semplice ragione per cui tutto ciò le accadeva.",
+        "E cioè per la vita vera che il suo bambino di dieci anni inoculava in occhi e sguardi dei volti e dei ritratti che continuamente dipingeva.",
+        "Dunque, per scongiurare di impazzire, un giorno la povera madre assunse risoluta e definitiva decisione.",
+        "Suo figlio non avrebbe più disegnato.",
+        "E fece così in modo di vietargli ogni matita o colore, pennello o carboncino, ogni raffigurazione o altra plastica composizione.",
+        "Naturalmente, che in quel figlio suo fosse nascosto uno dei più grandi artisti che mai avessero calcato il suolo della Terra a quella donna semplice non poteva disvelarsi.",
+        "Forse, però, che il carattere irrisolto e aggrovigliato con cui il piccolo cresceva adulto, le crisi di pianto che lo violentavano ad alterni giorni, il persistente sguardo spento dentro cui si imprigionava ed i farmaci che era costretto ad ingollare pur di soffocare ogni emerso istinto auto-punitivo, che tutto ciò fosse dovuto ad un animo cui erano state amputate l'ali, forse questo, quale madre, avrebbe pur dovuto intuirlo."
+    ],
+    "timestamp": "2019-08-12T15:36:26Z",
+    "title": "Ciò che una madre dovrebbe intuire",
+    "topic_id": 44187,
+    "url": "https://www.writersdream.org/forum/forums/topic/44187-ci%C3%B2-che-una-madre-dovrebbe-intuire/"
+}
