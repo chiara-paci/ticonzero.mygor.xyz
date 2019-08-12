@@ -85,7 +85,7 @@
     },
     "num_chars": 6003,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 781769,
@@ -97,6 +97,17 @@
             ],
             "timestamp": "2019-08-03T16:22:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44083-le-ragazze-capitolo-5-23//?do=findComment&comment=781769"
+        },
+        {
+            "post_id": 783069,
+            "text": [
+                "Grazie a te che hai la pazienza di leggermi e commentarmi",
+                "sono le mani che battono, è solo un giro di parole",
+                "ho capito che ti distubano i che e da quando me l'hai detto, qualche commento fa, sto cercando di fare più attenzione perché ora sembrano davvero troppi anche a me",
+                "Grazie mille , alla prossima!"
+            ],
+            "timestamp": "2019-08-12T13:22:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44083-le-ragazze-capitolo-5-23//?do=findComment&comment=783069"
         }
     ],
     "post_staff": [],

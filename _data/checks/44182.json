@@ -111,8 +111,17 @@
     },
     "num_chars": 7687,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 783000,
+            "text": [
+                "P.s. se ogni tanto trovate dei numeri a caso sappiate che su word erano delle note"
+            ],
+            "timestamp": "2019-08-12T08:47:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44182-the-dragon-slayers-capitolo-0-parte-1//?do=findComment&comment=783000"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Buongiorno a tutti! Vi presento la prima parte del zeresimo capitolo del mio romanzo. Spero possa piacervi, mi raccomando scatenatevi con le critiche e i commenti",

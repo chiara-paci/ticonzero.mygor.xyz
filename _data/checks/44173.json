@@ -72,8 +72,19 @@
     },
     "num_chars": 6948,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783068,
+            "text": [
+                "lo diciamo anche a Bologna",
+                "invece lo trovo sensato e ne terrò conto in revisione!",
+                "Grazie mille"
+            ],
+            "timestamp": "2019-08-12T13:17:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44173-le-ragazze-capitolo-6-22//?do=findComment&comment=783068"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«È andata via. Non ci posso credere, davvero. Dove sarà? Abbiamo fatto lezione ieri!»",
