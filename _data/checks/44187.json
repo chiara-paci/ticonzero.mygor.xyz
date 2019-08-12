@@ -46,8 +46,17 @@
     },
     "num_chars": 2331,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783122,
+            "text": [
+                "grazie per l'attenzione e per l'apprezzamento."
+            ],
+            "timestamp": "2019-08-12T18:05:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44187-ci%C3%B2-che-una-madre-dovrebbe-intuire//?do=findComment&comment=783122"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Fu poiché se ne vergognava quando andava a colloquio con le maestre.",
