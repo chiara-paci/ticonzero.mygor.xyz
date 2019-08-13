@@ -16,7 +16,7 @@
         "valid": 1.0,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -111,7 +111,7 @@
     },
     "num_chars": 7687,
     "num_commenti": 2,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 783000,
@@ -122,7 +122,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44182-the-dragon-slayers-capitolo-0-parte-1//?do=findComment&comment=783000"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 783139,
+            "text": [
+                "hai allegato il link a un commento del 4 agosto che tra l'altro hai usato per postare un altro testo. Il commento deve essere fatto nella stessa giornata in cui posti un tuo testo e ogni volta ne va fatto uno nuovo.",
+                "Chiudo. Per riaprire dovrai inviare il link al nuovo commento tramite MP a uno staffer."
+            ],
+            "timestamp": "2019-08-12T20:40:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44182-the-dragon-slayers-capitolo-0-parte-1//?do=findComment&comment=783139"
+        }
+    ],
     "text": [
         "Buongiorno a tutti! Vi presento la prima parte del zeresimo capitolo del mio romanzo. Spero possa piacervi, mi raccomando scatenatevi con le critiche e i commenti",
         "Trama: In un mondo post-apocalittico l' umanità è stata decimata dai draghi, per fronteggiarli viene creata un' unità di guerrieri specializzati nell' uccidere i draghi, quest' unità prende il nome di dragon slayers.",

@@ -71,8 +71,23 @@
     },
     "num_chars": 7234,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783151,
+            "text": [
+                "la Treccani dice mai, guarda qua",
+                "hai ragione, non l'avevo vista così né intesa in questa maniera, ma capisco che si possa fraintendere",
+                "questo lo dici tu, lui è solo sbiancato, magari non stava bene",
+                "anche questo lo dici tu, magari fissava il mento, la fronte, i capelli, ma non gli occhi e niente seno, promesso! La fidanzata chi?",
+                "giusto",
+                "certo che sì! E in teoria comincia a farlo, ma devo lavorare di più su quell'aspetto, sono ancora un poco confusa!",
+                "Grazie mille caro , gran bel commento il tuo, pieno di materiale da riflessione e di riflessioni! Grazie davvero"
+            ],
+            "timestamp": "2019-08-13T04:51:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44180-le-ragazze-capitolo-7-12//?do=findComment&comment=783151"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sono passati circa cinque mesi dalla prima volta che abbiamo visto Inna. Ora, anche lei, quando vede la macchina dell'associazione che si avvicina solleva la mano in segno di saluto. Non ci ha raccontato molto di più però. Sappiamo solo che è ucraina, ha ventun anni e comincia a parlare meglio l’italiano.",
