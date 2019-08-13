@@ -57,7 +57,7 @@
     },
     "num_chars": 7970,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 780394,
@@ -141,6 +141,24 @@
             ],
             "timestamp": "2019-08-06T19:32:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44023-fdi-2019-2-la-madre-il-diavolo-e%E2%80%A6//?do=findComment&comment=782209"
+        },
+        {
+            "post_id": 783277,
+            "text": [
+                "Grazie!"
+            ],
+            "timestamp": "2019-08-13T18:51:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44023-fdi-2019-2-la-madre-il-diavolo-e%E2%80%A6//?do=findComment&comment=783277"
+        },
+        {
+            "post_id": 783279,
+            "text": [
+                "Ciao",
+                "Grazie per aver espresso la tua impressione e per aver letto il mio racconto.",
+                "Sono sempre felicissima ogni volta che passa qualcuno che non partecipa al contest."
+            ],
+            "timestamp": "2019-08-13T18:54:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44023-fdi-2019-2-la-madre-il-diavolo-e%E2%80%A6//?do=findComment&comment=783279"
         }
     ],
     "post_staff": [],

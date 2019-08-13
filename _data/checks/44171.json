@@ -54,7 +54,7 @@
     },
     "num_chars": 6550,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 782920,
@@ -64,6 +64,17 @@
             ],
             "timestamp": "2019-08-11T15:38:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44171-you-make-me-feel-like-a-natural-woman//?do=findComment&comment=782920"
+        },
+        {
+            "post_id": 783276,
+            "text": [
+                "Scusa, , mi ero perso la tua risposta. Grazie, al solito, del passaggio",
+                "Come povera Marzia?! povero Eddy!",
+                "Certo. Mi sa proprio che è la stessa. Avrei preferito Angelina Jolie ma invece è sempre lei.",
+                "Il film di Mel Gibson non l'ho visto, spero non sia troppo uguale o troppo brutto"
+            ],
+            "timestamp": "2019-08-13T18:47:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44171-you-make-me-feel-like-a-natural-woman//?do=findComment&comment=783276"
         }
     ],
     "post_staff": [],

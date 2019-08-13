@@ -12,13 +12,30 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.8877777777777778,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8877777777777778
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Come già detto sopra è un racconto semplice e lineare. Lo stile è scorrevole e si fa leggere con facilità. Non so se la suddivisione in paragrafi sia volontaria ma secondo me spezzetta troppo il ritmo, di solito preferisco creare un nuovo paragrafo quando cambio scena (io l’avrei fatto dopo il quinto paragrafetto tuo per esempio). Dal punto di vista dei contenuti metti in evidenza gli stereotipi e il razzismo da parte dell’individuo medio e l’ostilità della famiglia verso i desideri della bambina. Si percepisce la difficoltà nell’integrazione da entrambe le parti, fanno eccezione le due bambine che non conoscono il pregiudizio tipico del mondo degli adulti. Il messaggio finale che colgo è che i bambini sono vittime dei grandi: la piccola figlia della parrucchiera non potrà più giocare con questa bambina e quest’ultima non potrà inseguire, almeno per ora, la sua strada. A rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-08-13T16:11:21Z",
+            "title": "Rom",
+            "url": "https://www.writersdream.org/forum/forums/topic/44116-rom//?do=findComment&comment=783256",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +43,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7985,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
