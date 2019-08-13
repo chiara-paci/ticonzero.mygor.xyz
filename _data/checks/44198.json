@@ -1,0 +1,107 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , io amo i toni non pretenziosi e colloquiali, quindi questa tua poesia ha subito attirato la mia attenzione. Ci sono alcune ripetizioni che trovo non pesino affatto e, anzi, siano dei buoni rafforzativi di un certo opporre una sfida, un no, alla persona a cui si fa riferimento. Un no che compare deciso nei primi due versi e, nuovamente, alla fine. No, no, no . A nn erito. Niente . An no . È una buona serie di opposizioni. Tenterei di modificare quel 'mi si chiude lo stomaco', mi piace, ma forse modificando un po' la sfumatura suonerebbe ancora meglio.",
+                    "Ti propongo un paio di varianti, ma per puro esercizio, per snellire il corpo centrale. Vediamo cosa ne pensi di questo:",
+                    "Ferragosto non lo festeggio.",
+                    "Non quest'anno.",
+                    "Chi amavo mi ha venduto.",
+                    "Le sue parole",
+                    "hanno annerito",
+                    "ogni angolo di casa:",
+                    "il soffitto, le tende",
+                    "il parquet in rovere;",
+                    "perfino la facciata esteriore",
+                    "e il prato all'inglese.",
+                    "No.",
+                    "Quest'anno niente costine",
+                    "e spiedini alla brace.",
+                    "All'idea di altro fumo",
+                    "mi si chiude lo stomaco.",
+                    "Mi piace anche l'idea di rivolgermi direttamente alla persona che ti ha venduto (un tu anziché un lei), ma in questo caso bisognerebbe abbandonare la costruzione 'chi amavo mi ha venduto', che funziona ed è lapidaria quanto basta. Buon ferragosto!"
+                ]
+            ],
+            "timestamp": "2019-08-13T17:36:12Z",
+            "title": "Barbecue",
+            "url": "https://www.writersdream.org/forum/forums/topic/44189-barbecue//?do=findComment&comment=783267",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 546,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Lascia allora",
+        "che io rompa tutto",
+        "piatti",
+        "giardini",
+        "aspettative.",
+        "Sono diverse",
+        "I n c o m p a t i b i l m e n t e.",
+        "Lascia che io suoni",
+        "S B A M",
+        "e che sposti a destra",
+        "il rumore",
+        "e a sinistra.",
+        "Il rumore degli stereotipi",
+        "quotidiani",
+        "contiene verità silenziose",
+        "[lo dico da sempre]",
+        "dialoghi scritti",
+        "cubi di cemento",
+        "voti",
+        "la ricerca del colpevole",
+        "[a favore di chi].",
+        "Tutto già visto.",
+        "E se mi faccio divorare",
+        "dall’assenza di altezza",
+        "se mi faccio mangime",
+        "per le fameliche bocche",
+        "per i lombrichi di piazza Statuto",
+        "allora poi",
+        "lasciare andare",
+        "se non posso andare",
+        "è buttare tutto",
+        "giù",
+        "o sigillarmi",
+        "qui",
+        "."
+    ],
+    "timestamp": "2019-08-13T17:45:29Z",
+    "title": "Grida solo chi può",
+    "topic_id": 44198,
+    "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2/"
+}
