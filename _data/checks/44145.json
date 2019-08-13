@@ -54,7 +54,7 @@
     },
     "num_chars": 3498,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 782785,
@@ -64,6 +64,28 @@
             ],
             "timestamp": "2019-08-10T10:04:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44145-dovera-il-tuo-filo-arianna//?do=findComment&comment=782785"
+        },
+        {
+            "post_id": 783194,
+            "text": [
+                "Ciao , sì in effetti non sono per nulla costante (cercheremo di rimediare).",
+                "Ti ringrazio per l'analisi accurata al racconto e sono contento che qualcosa ti sia piaciuto. Avevo paura che non arrivasse bene il ribaltamento della vicenda a chi non sa che Teseo abbandona Arianna sull'isola di Nasso. È una sorta di rivincita questa, un mondo parallelo dove viene ferito chi ha ferito nell'altra vita.",
+                "Anticipando la presentazione di Teseo forse avrei perso un po' dell'effetto sorpresa che a quanto pare ho creato senza volerlo. Ero convinto che citando Arianna e il labirinto fosse già chiaro il contesto e chi parlava, mi rendo conto che può essere frainteso come metafora di qualche altra cosa.",
+                "Forse hai ragione, avrei dovuto scavare un po' più a fondo.",
+                "Ti ringrazio per le pecche che mi hai evidenziato e per il tempo dedicato alla lettura.",
+                "A presto."
+            ],
+            "timestamp": "2019-08-13T11:33:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44145-dovera-il-tuo-filo-arianna//?do=findComment&comment=783194"
+        },
+        {
+            "post_id": 783197,
+            "text": [
+                "Ciao , sono contento che ti sia piaciuto. Ti ringrazio per le proposte sul variare la punteggiatura, credo che metterò in atto il tuo consiglio.",
+                "A presto."
+            ],
+            "timestamp": "2019-08-13T11:36:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44145-dovera-il-tuo-filo-arianna//?do=findComment&comment=783197"
         }
     ],
     "post_staff": [],
