@@ -46,8 +46,18 @@
     },
     "num_chars": 364,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 783290,
+            "text": [
+                "Grazie delle belle parole.",
+                ": Grazie anche a te dell'apprezzamento e dei suggerimenti, interessanti. Credo, però, che lascerò al testo questa veste"
+            ],
+            "timestamp": "2019-08-13T20:02:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44189-barbecue//?do=findComment&comment=783290"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento al testo altrui:",

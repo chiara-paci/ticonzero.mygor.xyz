@@ -1,0 +1,70 @@
+{
+    "author": {
+        "author_id": 32276,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "spaiato",
+        "url": "https://www.writersdream.org/forum/profile/32276-spaiato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ho letto anche altri tuoi scritti e devo dire che hai sicuramente uno stile molto innovativo e originale. Un po' fuori dagli schemi.",
+                    "Il registro qui è colloquiale, usato con scioltezza e disinvoltura. Mi piace quell' “ok”. Mi piace l'estro che muove la tua penna. Il coraggio di azzardare e, ad esempio, troncare un verso di netto creando nel lettore un senso di sospensione sensoriale, aprendogli tutto un mondo; è il caso del verso “non ho nulla da”.",
+                    "La lettura è molto scorrevole. Mi piace anche il fatto che qualche verso prima sottolinei “non fisicamente” e qualche verso dopo ribalti tutto affermando il contrario: questo procedimento genera con abilità una sorta di straniamento in chi legge, e allo stesso tempo dà anche l'idea del fiume di sensazioni, anche contrastanti, che travolge l'io narrante.",
+                    "Con efficacia arriva il messaggio che vuoi trasmettere: se quel qualcuno non ci sarà più, anche come ossessione, nei pensieri e nel cuore della voce narrante, anche l'ispirazione per scrivere verrà a mancare; questo potrebbe essere, in fondo, perfino un bene perché porterebbe alla liberazione dalle catene dell'ossessione. Ma l'io narrante non è preparato a questo. Si sentirebbe destabilizzato. Insomma, sei riuscita a delineare molto bene i tratti di un amore ossessivo, che destabilizza, confonde, travolge, sospende, soffoca..."
+                ]
+            ],
+            "timestamp": "2019-08-13T20:34:33Z",
+            "title": "Fisicamente non ci sei mai",
+            "url": "https://www.writersdream.org/forum/forums/topic/43888-fisicamente-non-ci-sei-mai//?do=findComment&comment=783301",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 199,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "Fic@",
+        "È una fica rasata",
+        "questa notte la luna:",
+        "carne glabra,",
+        "scevra di ogni nuvola.",
+        "Un aereo la attraversa",
+        "e poi di sé",
+        "fa perdere la traccia.",
+        "È la mia fica",
+        "quella che vedo",
+        "dalla finestra."
+    ],
+    "timestamp": "2019-08-13T20:37:52Z",
+    "title": "Fic@",
+    "topic_id": 44200,
+    "url": "https://www.writersdream.org/forum/forums/topic/44200-fic/"
+}
