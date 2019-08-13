@@ -16,7 +16,7 @@
         "valid": 0.39555555555555555,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -43,9 +43,24 @@
     },
     "num_chars": 6318,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 783306,
+            "text": [
+                ", il commento che hai usato per postare è decisamente insufficiente. Ti invito a fare un commento approfondito a un altro racconto.",
+                "Intanto chiudo questo. Quando avrai regolarizzato manda un MP a un qualunque membro dello staff per la riapertura."
+            ],
+            "timestamp": "2019-08-13T20:54:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44194-il-chiodo-incipit//?do=findComment&comment=783306"
+        }
+    ],
     "text": [
         "Salve a tutti. Questo che segue è l'incipit del romanzo che ho appena finito di scrivere. Mi piacerebbe sapere cosa ne pensate. Se a livello tematico non esaurisce tutto il contenuto del racconto ne è però un discreto esempio a livello stilistico. Grazie a chi avrà tempo di leggere e commentare.",
         "Venendo dalla Cumana di Montesanto andai incontro, come sempre, ad uno sciame di gente impazzita che correva in tutte le direzioni. Molti erano operai che andavano a prendere il metrotreno per la periferia, dove da qualche anno s’era stabilita la Tecnofarma, un’enorme industria farmaceutica che dava lavoro a centinaia di persone e aveva reso l’aria nella zona irrespirabile per un raggio di almeno cinque chilometri.",

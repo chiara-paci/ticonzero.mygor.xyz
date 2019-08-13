@@ -16,7 +16,7 @@
         "valid": 0.7011111111111111,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -48,9 +48,29 @@
     },
     "num_chars": 7326,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 783263,
+            "text": [
+                "Al netto dei saluti il tuo commento si riduce a tre righe in tutto .",
+                "Anche se siamo sempre molto tolleranti con i nuovi iscritti, questo è davvero troppo esiguo e sono costretto a chiudere il racconto.",
+                "Potrai averlo riaperto linkando un nuovo commento più approfondito (a un qualsiasi brano dell'Officina) a uno staffer qualsiasi tra quelli che vedi on line (sulla destra della homepage).",
+                "Dal momento che non lo hai ancora, ci piacerebbe anche che tu ti presentassi alla comunità in Ingresso: , grazie",
+                "Aggiungo in ultimo, così riuscirò subito a farmi odiare, la raccomandazione a non citare un intero brano altrimenti la discussione si allunga all'infinito. Puoi evidenziare anche una semplice frase e ti si aprirà la scritta \"quota testo selezionato, così:",
+                "Se invece vuoi chiamare in causa un utente, puoi farlo cliccando sulla chiocciolina prima del nickname, così:",
+                "Grazie e buon proseguimento al WD."
+            ],
+            "timestamp": "2019-08-13T17:00:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44193-the-outlandish-club-cap1//?do=findComment&comment=783263"
+        }
+    ],
     "text": [
         "Credo fermamente che i tombini siano un'invenzione del diavolo per farci cadere e ridere di noi mentre ci roviniamo la faccia sull'asfalto. Oppure è opera di Dio, quel fantastico uomo barbuto che probabilmente starà guardando la scena con gli occhiali 3D e una ciotola maxi di pop corn.",
         "«Divertente vero?» sbuffo guardando in un punto imprecisato fra le nuvole. «Vuoi che lo rifaccia di nuovo? Magari questa volta lo registri.»dico tirandomi su malamente. Ho il gomito sbucciato e penso di essermi strappata i pantaloni. Quando abbasso gli occhi infatti, ho uno squarcio nel jeans sul ginocchio insanguinato. Sospiro cercando di non urlare in mezzo al marciapiede, dove le persone camminano degnandomi di uno sguardo stranito. Aiutare non vi passa neanche per le sinapsi, eh?",
