@@ -1,0 +1,79 @@
+{
+    "author": {
+        "author_id": 33134,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "immanuel",
+        "url": "https://www.writersdream.org/forum/profile/33134-immanuel/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.39555555555555555,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.39555555555555555
+            },
+            "text": [
+                [
+                    "Mi sembra di capire sia il \"preludio\" ad un dialogo tra i due, o almeno una sezione che introduce ad un'azione. Fortemente descrittivo, quasi impressionista per l'atmosfera un po' \"satura\", mi ha vagamente ricordato certe descrizioni di Mishima. Mi piace l'effetto carrellata (a mo' di film) che abbraccia tutto l'ambiente. Non amo particolarmente le descrizioni lunghe e senza azione, tuttavia mi sembra di poter dire che ci hai lavorato su a lungo. O no?"
+                ]
+            ],
+            "timestamp": "2019-08-13T14:15:05Z",
+            "title": "Oltre l'oblò - Capitolo I",
+            "url": "https://www.writersdream.org/forum/forums/topic/44119-oltre-lobl%C3%B2-capitolo-i//?do=findComment&comment=783234",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 6318,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Salve a tutti. Questo che segue è l'incipit del romanzo che ho appena finito di scrivere. Mi piacerebbe sapere cosa ne pensate. Se a livello tematico non esaurisce tutto il contenuto del racconto ne è però un discreto esempio a livello stilistico. Grazie a chi avrà tempo di leggere e commentare.",
+        "Venendo dalla Cumana di Montesanto andai incontro, come sempre, ad uno sciame di gente impazzita che correva in tutte le direzioni. Molti erano operai che andavano a prendere il metrotreno per la periferia, dove da qualche anno s’era stabilita la Tecnofarma, un’enorme industria farmaceutica che dava lavoro a centinaia di persone e aveva reso l’aria nella zona irrespirabile per un raggio di almeno cinque chilometri.",
+        "Alla Pignasecca vidi le solite scene. Un ragazzo sui vent’anni con un occhio mezzo spappolato aspettava di entrare al Pellegrini, perché a quell’ora (e saranno state le nove) il pronto soccorso era ancora chiuso. – Guagliò, un poco di pacienza –, gli ripeteva il custode dell’ospedale.",
+        "Qualche metro più avanti il pescivendolo sistemava sui banconi le alici e i merluzzi, mentre due anziane signore discutevano se la perfetta frittura di pesce richiedesse olio di semi o d’oliva. Un polpo che era riuscito per miracolo a sguizzare via da una bacinella venne centrato in pieno da una Vespa 125, azzurra come il cielo. Una squadra di operai del Comune era impegnata a riparare in via Forno Vecchio una delle decine di telecamere di sicurezza sparse per il centro storico, quasi sicuramente fracassata da qualche ragazzino la sera prima.",
+        "Cercando di non farmi investire attraversai Sant’Anna dei Lombardi, mentre dal chiodo tiravo già fuori le chiavi della saracinesca.",
+        "Per chi non lo sapesse ho una piccola libreria a Cisterna dell’Olio, specializzata in letteratura erotica. In realtà vendo soprattutto riviste e fumetti a tema, come Lucifera, Jacula, Zora la vampira e naturalmente tutto Magnus. Ultimamente però non è che si lavori molto.",
+        "La scorsa estate entrò in negozio un uomo sui quaranta, ben vestito, qualcosa di mezzo tra un avvocato e un impiegato di banca. Girò un po’ attorno, diede un’occhiata veloce alle cartoline d’epoca e si mise a sfogliare un’edizione illustrata delle Undicimila verghe di Apollinaire, un libro terribile, ma orribilmente geniale. Mi chiese se avessi qualcosa di fuori di testa, sul tipo di Lovecraft. Gli indicai lo scaffale dei racconti horror, che lui iniziò minuziosamente ad analizzare. Dopo circa mezz’ora tornò con un numero di una rivista underground, in cui c’era effettivamente un racconto erotico ambientato in una dimensione che seguiva le leggi di una geometria non euclidea.",
+        "Tirò fuori le quattro o cinquemila che mi doveva e biascicando un «’héhérci!» se ne andò ondeggiando come un ladro contento del proprio bottino.",
+        "Per tutto il pomeriggio ebbi ripetute visioni di insani amplessi tra corpi che si scompongono e ricompongono tra loro, come nei quadri di Dalì o in Jeeg Robot d’Acciaio.",
+        "Tornato a casa mi misi subito all’opera. Mi sfilai di dosso il chiodo, le scarpe e il maglione a colore unico, mentre sullo schermo del televisore scorrevano già i titoli di testa, con quella grossa esplosione di mortaio e la nuvola di fumo da cui sbuca la scritta: “diretto da Sam Peckinpah”. La Croce di ferro, che film! James Coburn, Maximillian Schell, David Warner e un po’ di sana, drammatica ultraviolenza, malcichi!",
+        "Per l’occasione mi concessi un dosaggio extra di quarx, che corressi con un paio di gocce di una miscela che avevo preso qualche giorno prima da Gigi.",
+        "– Queste ragazzine, queste checche isteriche, mi raccontano di come fa male quando lo prendono, che curva fa quando sta dentro, cose da pazzi! –.",
+        "Mi aveva beccato mentre uscivo dall’orinatoio. Per questo motivo il più delle volte pregavo che non mi vedesse... Gigi era di cuore buono, non lo nego, ma era anche un produttore seriale di cosiddette grezze, figure di merda la cui onta persiste nel tempo e nello spirito.",
+        "Mi strinse calorosamente la mano, fissandomi per un paio di secondi con quegli occhi lessi che aveva. Beveva dell’Aglianico frizzante di infima qualità, e un paio di gocce gli colavano dai lati della bocca. Sudava, come sempre in qualsiasi stagione, ed emanava un olezzo di muffa, simile a quello che trapela da una stanza chiusa troppo a lungo.",
+        "– Carissimo! Come stai? –, ma non attendeva una risposta, – te l’ho detto che pure io so parlare il tedesco, eh? Ich habe einen großen Schwanz... –, e tirò con forza dalla Marlboro di contrabbando, – eheh... capito? –. Solo per riflesso riuscii a scansarmi una gomitata nei fianchi.",
+        "– Giggì –, gli bisbigliai all’orecchio, – ho sentito che la miscela fa fare dei bei viaggi, sono cuorioso –. Gli passai un cinquantamila, evitando di dilungarmi inutilmente.",
+        "– Eh, ma a me mi fa pure fumare di più. Questo è il terzo pacchetto oggi –, mi confessò scuotendo la testa.",
+        "– Che vuoi fare! Il tabagista è il tossico della sigaretta –, mi venne spontaneo di dire.",
+        "Mi lanciò un’occhiata quasi di traverso, come se stesse riflettendo, e poi ammise: – Bella questa frase! –, e lasciò partire qualcosa che iniziò come un rutto e finì come un fischio, – da dove l’hai presa? –.",
+        "– La dicesti tu, una volta, un po’ di tempo fa –. Lo ringraziai e nel congedarmi gli diedi una pacca sulla spalla.",
+        "Non avevo granché voglia di dormire, perciò mi misi a guardare qualche video sul Jolly Hotel. Ci pensavo spesso dal quindicesimo anniversario.",
+        "Quando ne ebbi abbastanza andai al bagno per lavarmi i denti. Fissandomi allo specchio seguivo con grande attenzione il costante aumento del volume delle mie pupille, dapprima minuscole e poi sempre più grandi.",
+        "Sulla fronte e attorno agli occhi si facevano avanti le prime rughe, a cui ad una attenta osservazione si aggiungevano almeno una decina di capelli bianchi. Non mi piaceva l’idea di invecchiare. Non per la cosa in sé, che comunque non si può evitare, ma per l’avvicinarsi di una scadenza. Ero consumabile preferibilmente entro un certo limite di tempo, proprio come qualsiasi altro. E proprio come la maggior parte dei miei simili mi trovavo anche io, come un idiota, incorniciato in uno specchio, senza aver idea di come uscirne.",
+        "– Fornarina! –, dissi allora all’altro me stesso, come in una tragedia di serie B, – che gran zoccola che eri! Quasi ti strozzavi quando... –, e non seppi bene se ridere o piangere."
+    ],
+    "timestamp": "2019-08-13T14:21:52Z",
+    "title": "Il chiodo - incipit",
+    "topic_id": 44194,
+    "url": "https://www.writersdream.org/forum/forums/topic/44194-il-chiodo-incipit/"
+}
