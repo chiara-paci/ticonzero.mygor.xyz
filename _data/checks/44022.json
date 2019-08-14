@@ -52,7 +52,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 46,
+    "num_posts": 47,
     "post_after": [
         {
             "post_id": 780484,
@@ -233,6 +233,14 @@
             ],
             "timestamp": "2019-08-12T15:00:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=783082"
+        },
+        {
+            "post_id": 783369,
+            "text": [
+                "Questo è un bellissimo complimento, grazie"
+            ],
+            "timestamp": "2019-08-14T17:37:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=783369"
         }
     ],
     "post_staff": [],
