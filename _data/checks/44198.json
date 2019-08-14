@@ -60,8 +60,18 @@
     },
     "num_chars": 546,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783313,
+            "text": [
+                "Ciao , è il permesso di rompere un vetro che deve rimanere intatto e che contiene molteplici cose, quotidianità, la vita di provincia, il dover rimanere. Ad essere diverse sono le aspettative, sì, ma quelle aspettative appartengono a persone, per cui le mie sono diverse, incompatibilmente, da quelle del tu a cui mi rivolgo, che diventa, più avanti, un tu con uno sfondo, in cui se ne raccolgono altri. All'incirca. La verità è che probabilmente è molto criptica e che contiene più spazi a cui forse non volevo dare libero accesso o che, forse, proprio perché a me erano chiari non mi è interessato descrivere. Alla fine, hai letto bene, c'è la resa di chi, non potendo andare - via - può solo scegliere se buttare tutte le carte o chiudersi, in una stanza. È frutto di due giornate no, quando niente funziona si mischiano significati, alcune volte senza motivo.",
+                "Buon ferragosto e grazie del passaggio!"
+            ],
+            "timestamp": "2019-08-13T23:30:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783313"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Lascia allora",
