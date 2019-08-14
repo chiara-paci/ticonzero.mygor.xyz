@@ -64,7 +64,7 @@
     },
     "num_chars": 4832,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 782900,
@@ -75,6 +75,14 @@
             ],
             "timestamp": "2019-08-11T11:58:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44163-le-ragazze-capitolo-6-12//?do=findComment&comment=782900"
+        },
+        {
+            "post_id": 783354,
+            "text": [
+                "Buone vacanze e grazie mille di tutti i tuoi commenti e impressioni che mi sono sempre molto utili! Ti prometto che al tuo ritorno troverai meno che! Spero..."
+            ],
+            "timestamp": "2019-08-14T14:55:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44163-le-ragazze-capitolo-6-12//?do=findComment&comment=783354"
         }
     ],
     "post_staff": [],

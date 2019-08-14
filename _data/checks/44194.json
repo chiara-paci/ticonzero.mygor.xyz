@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.39555555555555555,
+        "valid": 0.39604395604395604,
         "weight": true
     },
     "closed": true,
@@ -21,11 +21,14 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.39555555555555555
+                "valid": 0.39604395604395604
             },
             "text": [
                 [
                     "Mi sembra di capire sia il \"preludio\" ad un dialogo tra i due, o almeno una sezione che introduce ad un'azione. Fortemente descrittivo, quasi impressionista per l'atmosfera un po' \"satura\", mi ha vagamente ricordato certe descrizioni di Mishima. Mi piace l'effetto carrellata (a mo' di film) che abbraccia tutto l'ambiente. Non amo particolarmente le descrizioni lunghe e senza azione, tuttavia mi sembra di poter dire che ci hai lavorato su a lungo. O no?"
+                ],
+                [
+                    "Figurati. Per me resta comunque ben scritto."
                 ]
             ],
             "timestamp": "2019-08-13T14:15:05Z",

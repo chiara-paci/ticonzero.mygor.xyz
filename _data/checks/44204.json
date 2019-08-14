@@ -1,0 +1,65 @@
+{
+    "author": {
+        "author_id": 32613,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Milamorrison27",
+        "url": "https://www.writersdream.org/forum/profile/32613-milamorrison27/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.2011111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.2011111111111111
+            },
+            "text": [
+                [
+                    "\"Se le vedessi librare\": se vedessi librare cosa? Qual è l'oggetto del vedere? Il canto flebile viene paragonato al vento, che arriva addirittura a perdere la sua voce, ma come fa uno sguardo ad essere \"afono\"? Si parte da un'idea interessante, ma lo sviluppo sembra sconclusionato"
+                ]
+            ],
+            "timestamp": "2019-08-14T19:55:59Z",
+            "title": "Parole perdute",
+            "url": "https://www.writersdream.org/forum/forums/topic/43724-parole-perdute//?do=findComment&comment=783374",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 235,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Menti assonnate",
+        "Menti distratte",
+        "Menti inadatte",
+        "menti ridotte al marciume",
+        "senza neanche avere un barlume,",
+        "quello fatto di una sana speranza",
+        "di un forte ideale",
+        "di una grande battaglia",
+        "E' tutto resistenza e negazione",
+        "non ci si avvale della ragione"
+    ],
+    "timestamp": "2019-08-14T20:11:09Z",
+    "title": "Plagiati",
+    "topic_id": 44204,
+    "url": "https://www.writersdream.org/forum/forums/topic/44204-plagiati/"
+}
