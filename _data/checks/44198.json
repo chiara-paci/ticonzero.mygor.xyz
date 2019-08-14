@@ -60,7 +60,7 @@
     },
     "num_chars": 546,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783313,
@@ -70,6 +70,14 @@
             ],
             "timestamp": "2019-08-13T23:30:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783313"
+        },
+        {
+            "post_id": 783372,
+            "text": [
+                "Ciao , sono contenta che ti sia arrivata , l'ho scritta come l'avevo in mente, senza pensare troppo a farmi capire. Grazie!!!"
+            ],
+            "timestamp": "2019-08-14T19:09:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783372"
         }
     ],
     "post_staff": [],
