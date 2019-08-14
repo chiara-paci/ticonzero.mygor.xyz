@@ -16,7 +16,7 @@
         "valid": 0.2011111111111111,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -43,9 +43,23 @@
     },
     "num_chars": 235,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 783387,
+            "text": [
+                "nonostante i continui avvertimenti dello staff continui a utilizzare questo spazio senza preoccuparti di allegare dei commenti adeguati. Questa è una mancanza di rispetto verso gli altri utenti. Chiudo questa discussione e ti assegno altri due punti di richiamo."
+            ],
+            "timestamp": "2019-08-14T21:25:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44204-plagiati//?do=findComment&comment=783387"
+        }
+    ],
     "text": [
         "Menti assonnate",
         "Menti distratte",
