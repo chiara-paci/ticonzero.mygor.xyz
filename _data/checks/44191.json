@@ -66,8 +66,19 @@
     },
     "num_chars": 3041,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 783319,
+            "text": [
+                "perché ipocrisia? Da parte di chi? Dei clienti intendi?",
+                "nel senso che la colpisce poco?",
+                "Grazie buona giornata"
+            ],
+            "timestamp": "2019-08-14T06:14:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44191-le-ragazze-capitolo-7-22//?do=findComment&comment=783319"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Dopo la visita prendiamo appuntamento per il controllo; so già che dovrò insistere perché ci venga. Chissà perché i controlli non sono per niente apprezzati dalle ragazze.",
