@@ -59,7 +59,7 @@
     },
     "num_chars": 5984,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783308,
@@ -68,6 +68,24 @@
             ],
             "timestamp": "2019-08-13T21:02:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=783308"
+        },
+        {
+            "post_id": 783342,
+            "text": [
+                "Grazie , apprezzo il tuo commento!"
+            ],
+            "timestamp": "2019-08-14T12:41:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=783342"
+        },
+        {
+            "post_id": 783346,
+            "text": [
+                "buon consiglio, grazie!",
+                "Hai ragione.",
+                "Grazie ancora per aver letto e commentato il mio racconto."
+            ],
+            "timestamp": "2019-08-14T13:06:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=783346"
         }
     ],
     "post_staff": [],
