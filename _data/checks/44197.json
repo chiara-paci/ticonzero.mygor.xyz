@@ -44,8 +44,17 @@
     },
     "num_chars": 7985,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783326,
+            "text": [
+                "Grazie del commento , sono contento che ti sia piaciuto. Comunque si, è un errore di battitura, volevo scrivere fili d’erba."
+            ],
+            "timestamp": "2019-08-14T08:10:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44197-fdi-2019%EF%BB%BF-3%EF%BB%BF-come-una-goccia-d%E2%80%99acqua-su-una-piastra-incandescente//?do=findComment&comment=783326"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Come una goccia d’acqua versata su una piastra incandescente. Ci ho impiegato anni per descrivere lo sfrigolio in maniera appropriata, e nonostante questo, non rende ancora a pieno l’idea. Sarebbe più corretto immaginare di rovesciare un lago nella bocca di un vulcano in eruzione, mentre si resta riparati dal calore, nei pressi del cratere. Questi sfrigolii, sempre più frequenti con il passare degli anni, sono ormai quotidiani. Osservo la cupola dalla finestra e mi chiedo se cederà, causando la fine di questa misera esistenza.",
