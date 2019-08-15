@@ -52,7 +52,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 48,
+    "num_posts": 49,
     "post_after": [
         {
             "post_id": 780484,
@@ -241,6 +241,16 @@
             ],
             "timestamp": "2019-08-14T17:37:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=783369"
+        },
+        {
+            "post_id": 783441,
+            "text": [
+                "Io amo l'officina",
+                "È un bellissimo complimento.",
+                "Crepi il lupo, e buon ferragosto anche a te"
+            ],
+            "timestamp": "2019-08-15T15:27:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44022-fdi-2019-2-dolce-soffice//?do=findComment&comment=783441"
         }
     ],
     "post_staff": [],
