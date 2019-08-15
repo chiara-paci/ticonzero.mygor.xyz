@@ -91,8 +91,18 @@
     },
     "num_chars": 13396,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783419,
+            "text": [
+                "grazie del passaggio!",
+                "Sì, ho voluto usare una ventata di ottimismo (una volta tanto )"
+            ],
+            "timestamp": "2019-08-15T11:14:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44185-la-vita-%C3%A8-un-rimbalzo-versione-estesa-dellomonimo-racconto-postato-nel-contest-fdi-2019-2//?do=findComment&comment=783419"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Tac. Il sassolino colpì il bordo di plastica, finendo poi nell’erba.",

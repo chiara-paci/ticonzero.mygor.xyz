@@ -80,7 +80,7 @@
     },
     "num_chars": 14437,
     "num_commenti": 2,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 781360,
@@ -134,6 +134,15 @@
             ],
             "timestamp": "2019-08-14T20:01:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44058-fdi-2019-2-un-sacco-fuori-concorso-punto-di-non-ritorno//?do=findComment&comment=783375"
+        },
+        {
+            "post_id": 783384,
+            "text": [
+                "Non mi fido di google.",
+                "You got mail"
+            ],
+            "timestamp": "2019-08-14T21:03:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44058-fdi-2019-2-un-sacco-fuori-concorso-punto-di-non-ritorno//?do=findComment&comment=783384"
         }
     ],
     "post_staff": [],

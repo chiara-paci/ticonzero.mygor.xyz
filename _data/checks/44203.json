@@ -51,6 +51,12 @@
                     "Sì, come dici tu, magari c'è qualcosa di migliorabile, ma in quale racconto non c'è? Ti ho segnalato diverse cose, ma il racconto nel complesso è bello. Brava.",
                     "Anzi no, sto in modalità Shining, purtroppo il racconto va bene, cattiva!",
                     "A rileggerci."
+                ],
+                [
+                    "Sì sì",
+                    "Siamo nell'epoca di google. Che vuoi di più.",
+                    "Fai bene, il racconto merita. Sciogli i tuoi dubbi, aggiusta quelle cosine e incrociano le dita.",
+                    "Per curiosità... Di che concorso so tratta?"
                 ]
             ],
             "timestamp": "2019-08-14T16:15:53Z",
@@ -68,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 783367,
@@ -126,6 +132,17 @@
             ],
             "timestamp": "2019-08-15T11:01:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783418"
+        },
+        {
+            "post_id": 783432,
+            "text": [
+                "Grazie mille Talia",
+                "Non credo... si tratta dell'incontro finale... Ok, due indizi fanno una prova, anche Mercy era perplessa dal titolo. Magari il titolo lo devo cambiare",
+                "Grazie Cett'!",
+                "Ma sai qual è il punto? Le tracce spesso, invece che una gabbia, sono un aiuto a costruire una storia focalizzandosi su un elemento. Poi magari la storia va altrove, e ciò magari è una pecca ai fini del contest... ma non necessariamente ai fini del racconto... Spesso decido di essere borderline rispetto al contest piuttosto che forzare un'idea, se mi sembra che funzioni..."
+            ],
+            "timestamp": "2019-08-15T14:20:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783432"
         }
     ],
     "post_staff": [],
