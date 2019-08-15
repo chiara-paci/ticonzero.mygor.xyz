@@ -68,7 +68,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 783367,
@@ -85,6 +85,14 @@
             ],
             "timestamp": "2019-08-14T22:59:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783396"
+        },
+        {
+            "post_id": 783410,
+            "text": [
+                "perfettamente"
+            ],
+            "timestamp": "2019-08-15T09:38:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783410"
         }
     ],
     "post_staff": [],
