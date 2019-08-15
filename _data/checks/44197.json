@@ -44,7 +44,7 @@
     },
     "num_chars": 7985,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 783326,
@@ -69,6 +69,14 @@
             ],
             "timestamp": "2019-08-15T15:43:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44197-fdi-2019%EF%BB%BF-3%EF%BB%BF-come-una-goccia-d%E2%80%99acqua-su-una-piastra-incandescente//?do=findComment&comment=783444"
+        },
+        {
+            "post_id": 783472,
+            "text": [
+                "Ti ringrazio per le tue impressioni e per avermi spronato a partecipare al contest 😁"
+            ],
+            "timestamp": "2019-08-15T23:19:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44197-fdi-2019%EF%BB%BF-3%EF%BB%BF-come-una-goccia-d%E2%80%99acqua-su-una-piastra-incandescente//?do=findComment&comment=783472"
         }
     ],
     "post_staff": [],
