@@ -46,8 +46,27 @@
     },
     "num_chars": 240,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 783474,
+            "text": [
+                ": Innanzitutto grazie di essere passato per commentare. Rivedendo la poesia dopo un paio di settimane dalla stesura, posso dire di condividere in buona parte le tue annotazioni. Forse a posteriori una stesura migliore potrebbe essere:",
+                "Ed anche i miei dolori",
+                "sono solo intermezzi",
+                "di pornografia. Pigra fame",
+                "placata da avanzi di caviale, sguardo",
+                "d'uomo languido che brama",
+                "un nulla dorato. Consapevole esibizione",
+                "d'immagine luttuosa, e dentro",
+                "le scatole dell'io",
+                "il vuoto.",
+                ": beh...grazie:)"
+            ],
+            "timestamp": "2019-08-15T23:41:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44064-pornografia//?do=findComment&comment=783474"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ed anche le foglie",
