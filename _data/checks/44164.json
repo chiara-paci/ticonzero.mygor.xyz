@@ -70,7 +70,7 @@
     },
     "num_chars": 15239,
     "num_commenti": 2,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783479,
@@ -83,6 +83,14 @@
             ],
             "timestamp": "2019-08-16T02:21:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44164-hunter-and-hunted//?do=findComment&comment=783479"
+        },
+        {
+            "post_id": 783493,
+            "text": [
+                "Grazie per la precisazione Bw. avevo inteso più o meno tutto e avevo trovato il tuo commento molto gratificante."
+            ],
+            "timestamp": "2019-08-16T07:40:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44164-hunter-and-hunted//?do=findComment&comment=783493"
         }
     ],
     "post_staff": [],
