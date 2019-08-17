@@ -59,7 +59,7 @@
     },
     "num_chars": 6207,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 783575,
@@ -70,6 +70,14 @@
             ],
             "timestamp": "2019-08-17T07:41:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44208-il-chiodo-incipit//?do=findComment&comment=783575"
+        },
+        {
+            "post_id": 783595,
+            "text": [
+                "Ogni opinione è bene accetta, e non devi per nulla scusarti! Grazie ancora per il tuo tempo e sì, provvederò a snellire un po', come raccomandi tu!"
+            ],
+            "timestamp": "2019-08-17T11:29:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44208-il-chiodo-incipit//?do=findComment&comment=783595"
         }
     ],
     "post_staff": [],
