@@ -47,8 +47,17 @@
     },
     "num_chars": 2690,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783621,
+            "text": [
+                "Ciao, grazie per il tuo aiuto, i tuoi suggerimenti mi sono molto utili. Sì, è un fantasy, il seguito di un libro che ho già scritto e inserito anche qui."
+            ],
+            "timestamp": "2019-08-17T16:20:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44216-incipit-nuova-creatura//?do=findComment&comment=783621"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il fuoco rischiarava appena la stanza con la sua luminosità capricciosa. Ombre silenziose ondeggiavano sulle pareti, parevano quasi fantasmi. Palpitavano allungandosi sui pesanti tendaggi dell’unica finestra, solleticavano le gambe delle due poltrone poste davanti al focolare.",

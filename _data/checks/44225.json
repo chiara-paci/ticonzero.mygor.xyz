@@ -12,13 +12,56 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Beh, io provo sommessamente a dirti la mia. Tanto di tempo ce n'ho e il commento mi serve per pubblicare, quindi pignoleggio volentieri.",
+                    "Condivido tutto e provo a tirare le somme. Le regole ci sono, ma possono venire infrante quanto l'autore si prefigge qualcosa di particolare che le supera: ad esempio l'esigenza di rendere un senso di concitazione. Inoltre, sempre secondo me, nello sviluppo della frase è possibile che le regole si \"sovrappongano\", per cui la scelta possa essere effettuata in più modi. L'importante, qualunque sia la soluzione scelta, è che la rilettura, preferibilmente \"a voce\", non evidenzi storture, stonature e fraintendimenti dopo l'eliminazione degli incisi. Probabilmente non dico niente di nuovo, ma lo dico di persona, non avendo mai letto nulla di queste famose regole, tranne una che mi ricordo dalla scuola: prima del \"ma\" la virgola ci vuole. Cosa che ho visto disattesa da fior d'autori, mentre spero, promitto e iuro vogliono sempre l'infinito futuro, su questo non ci piove.",
+                    "\"con un gesto pigro\" lo metterei fra due virgole",
+                    "vedo \"ma\" e \"d'altro canto\" come una ripetizione: o \"ma\" o \"d'altro canto\"",
+                    "qui scriverei: \"d’altro canto, per poter essere messo a morte doveva arrivarci vivo, e questo rendeva necessaria un po’ di cautela.\"",
+                    "la virgola fra \"ciottoli\" e \"in\" la leverei. A mio avviso la dispersione avviene in piccoli rigagnoli, quindi i due termini è meglio non siano separati, se no il piscio e il liquame non si disperdono bene.",
+                    "Anche se Tony Dallara cantava \"ghiaccio bollente\", l'azzurro glaciale non ci \"azzecca\" troppo con il bruciare del fuoco. Il concetto è chiaro, ovvero per incanto il popolo si vergogna e si commuove al suo cospetto, ma inventerei qualcos'altro che non sia lo sguardo glaciale che brucia: che so, un sorriso, lo sguardo buono, il carisma innato, una parola... lascio scegliere a te, che sei l'autore. Quanto al termine \"cristallizzato\", credo che sia più coerente a un'immagine che a un paese. Preferirei \"immobile\" o \"come paralizzato\" o altro.",
+                    "Qui le virgole possono essere giocate meglio non solo in un modo.",
+                    "\"L’uomo bevve un sorso di vino, appoggiò la coppa sul tavolo, vi immerse le dita per risciacquarle dall’unto della carne e alzò gli occhi verso il capitano delle guardie fissandolo con aria interrogativa.\"",
+                    "\"L’uomo bevve un sorso di vino e appoggiò la coppa sul tavolo. Quindi vi immerse le dita per risciacquarle dall’unto della carne e alzò gli occhi verso il capitano delle guardie fissandolo con aria interrogativa.\"",
+                    "\"si\"",
+                    "«Se ne stanno tranquilli nelle loro tane, poi all’improvviso arriva qualche saltimbanco da due soldi che si mette alla loro testa e li guida fin sotto le mie finestre a reclamare pane.»",
+                    "Qui, invece, non c'è dubbio: la \"e\" è sbagliata, ci vuole una \"a\"",
+                    "Qui è chiaro che, rileggendo a voce alta, qualcosa non va. Levato l'inciso \"dobbiamo acconternarlo\", resta \"È il suo ultimo pasto nei limiti del possibile.»",
+                    "\"È il suo ultimo pasto, dobbiamo accontentarlo nei limiti del possibile.\" oppure \"È il suo ultimo pasto e, nei limiti del possibile, dobbiamo accontentarlo.»",
+                    "«Proprio così, signore. Gli abbiamo detto che se condivideva il pasto del condannato ne condivideva anche la sorte, e che domani decapiteremo anche lui.»",
+                    "oppure",
+                    "«Proprio così, signore. Gli abbiamo detto che, se condivideva il pasto del condannato, ne condivideva anche la sorte e che domani decapiteremo anche lui.»",
+                    "Io non sono un dietrologista o un simbologista di professione, ma questo pezzo mi è piaciuto in particolare, Magari non l'hai scritto apposta, ma questa realtà malfatta, falsa, provvisoria e trascurata è sotto gli occhi di tutti, anche se nessuno sembra o vuole vederla. Eppure la luce impietosa dell'alba mostra bene ogni particolare, e infatti alla fine un gallo canta e molti poi lo imitano. Proprio ciò che paventavano i poteri forti, che infatti si sono precipitati a decapitarlo.",
+                    "Uno comincia e altri seguono: un po' come è avvenuto qui per Gesù, al quale proprio non avrei mai pensato; semmai ai grandi scienziati laici che sono stati perseguitati per le loro idee logiche e rivoluzionarie.",
+                    "Cominciamo con il birraio che trascina la botte. Per cui la virgola separatrice non ci vuole:",
+                    "\"Un venditore di salsicce trascinò il suo carretto nella piazza, seguito da un birraio con una grossa botte trainata da una coppia di buoi a cui si potevano contare le ossa.\"",
+                    "Se poi leviamo l'inciso \"tranquillo\", resta:",
+                    "\"Il prigioniero camminava a passi lunghi, con lo sguardo dritto davanti a sé come stesse partendo per un viaggio.\"",
+                    "Dato che chi parte per un viaggio non ha necessariamente lo sguardo dritto davanti a sé, scriverei:",
+                    "\"Il prigioniero camminava a passi lunghi con lo sguardo dritto davanti a sé, tranquillo come stesse partendo per un viaggio.\"",
+                    "A parte tutte queste puntualizzazioni, il succo è che il racconto è veramente valido, scritto in modo molto efficace e si apprezza molto il messaggio che contiene.",
+                    "Infine, e questo è molto bello, il condannato e il cacciatore mi hanno fatto venire una buona idea per un racconto. Grazie mille, se e quando lo pubblicherò, ti avviserò."
+                ]
+            ],
+            "timestamp": "2019-08-17T15:32:28Z",
+            "title": "[FdI 2019-1- Molto Fuori Concorso] A cosa pensa il boia nel momento di calare la scure?",
+            "url": "https://www.writersdream.org/forum/forums/topic/43708-fdi-2019-1-molto-fuori-concorso-a-cosa-pensa-il-boia-nel-momento-di-calare-la-scure//?do=findComment&comment=783619",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +69,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7977,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],
