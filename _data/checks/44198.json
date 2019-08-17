@@ -60,7 +60,7 @@
     },
     "num_chars": 546,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 783313,
@@ -78,9 +78,34 @@
             ],
             "timestamp": "2019-08-14T19:09:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783372"
+        },
+        {
+            "post_id": 783585,
+            "text": [
+                "Grazie , credo che sostituirò quel rumore degli stereotipi con L'avanzare degli stereotipi o qualcosa di simile. Mi era servito per procedere in avanti e collegarmi alla premessa, ma la ripetizione ora può sparire, hai ragione."
+            ],
+            "timestamp": "2019-08-17T09:35:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783585"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 783582,
+            "text": [
+                "forza e autenticità.",
+                "Esprimi un messaggio e l'emotività corrispondente con un'energia che scalpita nel testo. Rendi bene il ritmo, l'intensità espressiva, e il peso delle parole, sfruttando diverse possibilità grafiche: il tutto incamera una notevole fisicità. Lo scarto grafico con il rumore esprime un effetto stereofonico di grande efficacia.",
+                "Avrei evitato questa ripetizione con un sinonimo.",
+                "Anche la chiusura è ben costruita."
+            ],
+            "timestamp": "2019-08-17T09:04:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=783582"
+        }
+    ],
     "text": [
         "Lascia allora",
         "che io rompa tutto",

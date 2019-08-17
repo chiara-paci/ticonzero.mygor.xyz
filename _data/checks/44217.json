@@ -1,0 +1,104 @@
+{
+    "author": {
+        "author_id": 16173,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Domenico Santoro",
+        "url": "https://www.writersdream.org/forum/profile/16173-domenico-santoro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, ho letto con interesse il tuo breve racconto, composto di aforismi che tendono all'apice poetico.",
+                    "Ti faccio il mio commento tramite la griglia di Writer's dream, che io seguo con zelo religioso perché molto utile.",
+                    "Trama. La trama è semplice: una madre problematica, non riuscendo a risolvere i suoi problemi psicologici, decide di \"sfogarsi\" sul figlio, forse perché un po' invidiosa del suo talento. La trama non ha niente di sorprendente, ma ha un che di originale: quale madre snaturata farebbe qualcosa del genere? A me non verrebbe mai in mente una madre del genere, ma immagino possa esistere.",
+                    "Personaggi. Se mi permetti, ho trovato che i personaggi siano molto funzionali al racconto, e non viceversa. Questa non è necessarimanete un difetto, o una critica, ma non ho trovato personaggi a tutto tondo, caratterizzati. Sono quasi delle forme di un quadro astratto, qualcosa che intuiamo ma che dobbiamo riempire con la nostra immaginazione.",
+                    "Originalità. Come detto, ho trovato la storia piuttosto originale. Una madre in difficoltà che si sfoga sul figlio. Ora che ci penso, forse ci sono troppi episodi del genere, che tu hai fin troppo poeticizzato nel tuo racconto. Quanti genitori, oltre a togliere i disegni, fanno di peggio ai loro figli? Comunque, ho trovato la storia sufficientemente originale.",
+                    "Stile. A mio avviso, lo stile aforistico, la forma per intenderci, o la circostanza di scrittura, hanno la meglio sulla stessa sostanza del racconto. Anche questo non è necessariamente un male, però sarei curioso di leggero in una forma classica, con dialoghi, descrizioni, che (in apparenza) evadano dall'interorità del personaggio che descrivi.",
+                    "Grammatica e sintassi. Non ho trovato particolari problemi da questo punto di vista.",
+                    "Giudizio finale. Direi, se mi permetti a questo punto un po' di franchezza, che per i miei standard è un racconto sufficiente. Ci vedo del talento, dell'intuito, ma secondo me devi impegnarti maggiormente. Penso che hai la possibilità di tirare fuori ottime cose dal tuo cilindro, con impegno e costanza.",
+                    "Ti ringrazio per la condivisione. Buona lettura e buona scrittura,",
+                    "Domenico"
+                ]
+            ],
+            "timestamp": "2019-08-17T09:22:38Z",
+            "title": "Ciò che una madre dovrebbe intuire",
+            "url": "https://www.writersdream.org/forum/forums/topic/44187-ci%C3%B2-che-una-madre-dovrebbe-intuire//?do=findComment&comment=783583",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7163,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Dopo la fine degli esami, mi prendo sempre due giorni per me stesso, prima di rientrare in famiglia. Mi piace la città semi-deserta d’estate.",
+        "Di solito metto nella borsa i testi dei miei corsi universitari preferiti e vado alla bocciofila, per ripassarli e vagliare così i ricordi di un anno trascorso.",
+        "Il bar della bocciofila è pieno di specchi e di prodotti esposti che, pur essendo nuovi, sembrano già fuori moda. Conosco il posto perché vado a giocarvi a biliardo coi miei amici, per rilassarmi al giovedì sera.",
+        "Mi siedo, di solito, a un tavolino che dà sul campo di bocce, anche se non c’è nessuno a giocare nei pomeriggi d’estate. Qualche altro avventore consuma cappuccino e crostata d’albicocche, la specialità del locale. Sono persone del luogo, ma io non mi sento fuori contesto. Ormai, anch’io mi sento “uno del posto”.",
+        "L’ultima volta, mi ero portato i libri di storia romana, il mio esame preferito dell’anno. Cominciai a leggere dal periodo che ritengo più interessante, quello delle guerre civili.",
+        "Procedetti spedito fino alla battaglia di Farsalo, scorrendo soltanto le parti da me sottolineate, fino a quando non mi accorsi che non avevo ancora ordinato alcunché.",
+        "Andai al bancone. Era entrata nel locale, nel frattempo, una ragazza asiatica, probabilmente cinese. Era alta e slanciata, con lunghi capelli neri, un naso appuntito e un mento sfuggente. Non ho mai capito chi ritiene siano tutti uguali, a me non sembra così. Indossava una camicetta e una gonna nera a pieghe e il paio di occhiali più strani che avessi mai visto. Non avevano montatura. Erano come due dischi di gomma, perfettamente separati, di un intenso arancione scuro. Sembravano quasi due albicocche disseccate. Aderivano perfettamente alla sede dell’occhio, come due monocoli, ma privi di cordicella o catenella.",
+        "Inutile dire che mi invaghii subito di lei. Provai ad attirare la sua attenzione. Le parlai, ma lei mi ignorò del tutto (sembrava molto svagata) e lasciò il locale quando ebbe finito di guardarsi in giro. Non consumò alcunché.",
+        "Io avvertii un’improvvisa voglia di latte. Prese un paio di cartoni dell’azienda locale, da mezzo litro, e un paio di formaggelle avvolte in una carta bianca e lucida.",
+        "Mi sedetti al tavolo per bere e mangiare… fino a quando non mi accorsi come stessi consumando ingenti quantità di qualcosa che non avevo mai sopportato, né saputo digerire.",
+        "Misi i libri nella borsa e lascia il resto di quanto avevo ordinato sul tavolo.",
+        "Diedi qualche tondino al barista e decisi di camminare per la strada afosa e priva di passanti, fino a quando non ricordai come tutte le asiatiche, o quasi, risiedano nello stesso dormitorio.",
+        "Ero leggermente sudato quando vi arrivai. Nell’androne, trovai per terra una di quelle albicocche disseccate. Mi riferisco alla strana lente della ragazza. Provai a indossarla, ma non aderiva al mio occhio perfettamente. Dovevano essere fatte su misura.",
+        "Non c’era il portinaio… probabilmente era già in ferie. Cominciai a girare per i corridoi, sentendomi leggermente a disagio. Quando incrociai una studentessa orientale, provai a descrivere la ragazza della bocciofila, alta così, col naso appuntito e questo singolare occhiale che ho in mano.",
+        "Lei sembrò capire… mi disse il numero della stanza, in un inglese carico d’accento. Avevamo discorso in quella lingua per tutto il tempo, anche se lì per lì non ci avevo fatto caso.",
+        "Bussai alla porta di quella che doveva essere la sua stanza.",
+        "«Avanti».",
+        "Era seduta al suo letto. Le porsi la sua lente. La mise insieme all’altra sul comodino.",
+        "«Ci siamo conosciuti alla bocciofila» le dissi.",
+        "«Non riesco mai a concentrarmi in una stanza quando ci sono degli specchi» ammise.",
+        "«Sei vanitosa».",
+        "«Sì».",
+        "La sua camera era piena di classici della letteratura occidentale. Doveva essere una studentesse di lettere, o forse di lingue. Parlava un ottimo italiano, date le sue limitazioni.",
+        "Sul comodino, aveva una copia di “Moby Dick” con un segnalibro nero e sottile infilato a metà del libro. Ho letto il testo di Melville in tre occasioni distinte nel corso della mia vita (la terza dopo che ebbi conosciuto questa ragazza), ma non sono mai riuscito a ricordare il finale. Naturalmente so come termina, come lo conoscono tutti, ma non perché lo ricordi dalla lettura del libro.",
+        "Non mi disse di accomodarmi; rimasi in piedi. Parlammo per qualche minuto del significato simbolico del classico sul suo comodino. Eravamo entrambi convinti che la ricerca della balena rappresentasse il tentativo di raggiungere Dio, ma forse sia io che lei avevamo letto questo pensiero dalla stessa parte e, in fondo, si può dire così di quasi tutto.",
+        "Le dissi che eravamo perfetti l’uno per l’altra e che si saremmo dovuti fidanzare; ho sempre avuto molto successo con le ragazze, credo perché sono diretto.",
+        "Mi fece accomodare e ci baciammo un po’. Avvertii nella sua bocca il sapore di albicocca disseccata, ma forse era soltanto una mia impressione.",
+        "Per qualche motivo, sapevo che non saremmo andati oltre quel bacio. Sentivamo entrambi sarebbe stato così.",
+        "Quando fu sera — lei indossò un golf leggero, anche se faceva caldo — la portai in giro per la città, che non conosceva affatto, nonostante vi risiedesse da un anno.",
+        "In quel periodo, non c’erano molti locali aperti, tranne la bocciofila che entrambi quel giorno avevamo visitato.",
+        "Di sera giocavano. Ci sedemmo allo stesso tavolino dove ero stato quel pomeriggio, da cui si poteva vedere la partita. Cercai di spiegarle le regole del gioco, anche se io stesso non ero sicuro di capirle.",
+        "Di solito, alla bocciofila, bisogna andare a ordinare al bancone, ma quella sera venne il barista, un uomo dalla pelle e i capelli candidi come la neve. Aveva un taccuino e una penna in mano. Sembrava contento di vederci insieme.",
+        "«Cosa ordinate?»",
+        "«Prenderò del latte» disse lei, e io ordinai lo stesso. Non credo di aver mai più bevuto latte freddo due volte nello stesso giorno. Forse, non ho mai più bevuto latte freddo in vita mia. Naturalmente, entrambi avevamo in mente Moby Dick quando avevamo ordinato.",
+        "«Quali altri libri ti piacciono?» le chiesi.",
+        "Andammo avanti a parlare per qualche minuto di “Vanity fair”, e poi di “Sorgo rosso”, l’unico romanzo cinese che conoscessi. Mi vergognai della mia ignoranza; lei aveva letto tutti i classici dal sua letteratura e molti del canone occidentale. Io, eccetto Moby Dick, avevo affrontato poca narrativa fino a quel punto. Rari momenti della mia vita erano distratti dallo studio o dalla compagnia dei miei amici.",
+        "Avevo letto “Vanity fair”, comunque, e qualche altro di cui discutemmo.",
+        "Mi sembrò bello stare lì con lei… però sapevo che non l’avrei più rivista; entrambi lo sapevamo. Lei sarebbe ripartita per Guangzhou nel corso dell’estate, per non fare più ritorno in Italia fino a chissà quando; anche io sarei partito per la mia città, anche se sarei tornato all’università nel settembre successivo.",
+        "Dovetti pagare per lei. Ammise che non portava mai soldi dietro di sé per non doverne spendere; credo non fosse molto ricca.",
+        "Quando fummo sotto il suo dormitorio, le feci i complimenti per il suo italiano. Mi sembrava avesse trascorso in modo proficuo il suo anno all’estero. Ripensando al mio appena passato, mi chiesi se io potessi dire lo stesso."
+    ],
+    "timestamp": "2019-08-17T09:28:11Z",
+    "title": "Bocciofila",
+    "topic_id": 44217,
+    "url": "https://www.writersdream.org/forum/forums/topic/44217-bocciofila/"
+}
