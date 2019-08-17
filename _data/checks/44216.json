@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 31122,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Letizia Finato",
+        "url": "https://www.writersdream.org/forum/profile/31122-letizia-finato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.66,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.66
+            },
+            "text": [
+                [
+                    "Ciao, il tuo incipit mi è piaciuto. Mi ha trasmesso una sensazione di malinconia mista a una sorta di voglia di cambiamento. Lo trovo scritto bene anche se ha alcune piccole cose da sistemare:",
+                    "- la ripetizione dei \"che\" mi frammenta un po' la scorrevolezza del narrare: puoi riformulare le frasi, magari rendendole più brevi.",
+                    "-",
+                    "In questa frase i concetti sono molti, forse dovrebbero essere spezzati e ampliati. A me personalmente crea una certa confusione, non riesco ad afferrarne il senso anche se avverto in modo sfocato il messaggio.",
+                    "Il brano è molto breve, ma mi ha incuriosito e mi piacerebbe sapere cosa farà a casa Alice dopo essere uscita dal binario con quella sua piccola valigia rossa."
+                ]
+            ],
+            "timestamp": "2019-08-17T06:27:16Z",
+            "title": "Pensieri",
+            "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri//?do=findComment&comment=783572",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2690,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il fuoco rischiarava appena la stanza con la sua luminosità capricciosa. Ombre silenziose ondeggiavano sulle pareti, parevano quasi fantasmi. Palpitavano allungandosi sui pesanti tendaggi dell’unica finestra, solleticavano le gambe delle due poltrone poste davanti al focolare.",
+        "L’anziano Maestro osservava le fiamme danzare divorando lentamente i rami contorti. Allungando le mani, sembrava volerne catturare il calore, ben sapendo che dal giorno successivo anche il legname sarebbe stato razionato.",
+        "Il secondo mese di assedio alla città fortezza stava per volgere al termine. Ogni via di rifornimento chiusa, i magazzini di palazzo si stavano sempre più svuotando.",
+        "Una ventina di giorni prima, un piccolo drappello di soldati era sceso nelle segrete del palazzo. Un passaggio, costruito in un lontano passato, sbucava in una vallata tra le montagne a Nord della città. Non c’era per loro altra speranza, se non attraversare quelle impraticabili cime e raggiungere il nucleo della resistenza.",
+        "“Troppi giorni… davvero troppi” pensò l’uomo corrugando la fronte.",
+        "La porta si aprì, un cigolio sui cardini lo distolse dai suoi pensieri.",
+        "«Buona sera, Maestro» disse Mamal, la governante di palazzo, portando su un vassoio un paio di tazze fumanti.",
+        "«Faresti bene a riposare, Atxeodon, da quanto tempo non posi la testa su un cuscino?» chiese poi, appoggiando il vassoio sul tavolo.",
+        "L’uomo nemmeno rispose. Solo un sorriso tirato gli si accennò sulla bocca, si passò una mano sul viso stanco: erano bastati solo quei due mesi per farlo sembrare ancora più vecchio. La preoccupazione per la situazione, che si faceva di giorno in giorno sempre più difficile, gli aveva minato la salute e ora cominciava a indebolirgli anche lo spirito.",
+        "«Non entreranno, nessuno ci riuscirà, la città di Whurd rimarrà inviolata. E ti dico di più: torneranno, tutti, i soldati in missione e anche la piccola. Dobbiamo solo resistere ancora un po’, vedrai!» disse Mamal porgendogli una tazza.",
+        "«Vorrei avere la tua fiducia, amica mia» rispose Atxeodon.",
+        "Turbato l’uomo si chiese se Heèri stesse bene, se fosse al caldo, se fosse riuscita a raggiungere Exonipun e soprattutto se fosse riuscita a trovare gli Archai. Ma ora, lassù, su quelle impervie montagne, sull’altopiano, era già iniziata la stagione fredda, la lunga e terribile stagione invernale dei Tesay.",
+        "L’angoscia lo penetrò fin nel profondo dell’anima. Aveva istruito Heèri, l’aveva preparata a quel arduo compito e sapeva che solo lei poteva trovare gli Archai. Rammentava bene quanto cocciuta e determinata potesse essere, ma era poco più di una bambina, così delicata, poco allenata ai lunghi viaggi. E più rifletteva, più diventava consapevole di aver fatto un errore."
+    ],
+    "timestamp": "2019-08-17T06:40:32Z",
+    "title": "incipit nuova creatura",
+    "topic_id": 44216,
+    "url": "https://www.writersdream.org/forum/forums/topic/44216-incipit-nuova-creatura/"
+}
