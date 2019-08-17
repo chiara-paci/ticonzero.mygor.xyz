@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 783367,
@@ -163,6 +163,15 @@
             ],
             "timestamp": "2019-08-17T13:49:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783604"
+        },
+        {
+            "post_id": 783617,
+            "text": [
+                "Grazie mille , buon fine settimana anche a te",
+                "Certo che il comandante è colpevole, e lo sa. Il fantomatico tribunale delle nazioni non lo perdonerà, giustamente..."
+            ],
+            "timestamp": "2019-08-17T15:27:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783617"
         }
     ],
     "post_staff": [],
