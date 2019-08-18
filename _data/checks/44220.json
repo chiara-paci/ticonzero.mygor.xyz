@@ -44,7 +44,7 @@
     },
     "num_chars": 7645,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 783654,
@@ -53,6 +53,14 @@
             ],
             "timestamp": "2019-08-17T19:24:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783654"
+        },
+        {
+            "post_id": 783694,
+            "text": [
+                "Buon giorno sono io che devo ringraziare la fortuna di aver incontrato un chirurgo della grammatica come te.Grazie e buona domenica"
+            ],
+            "timestamp": "2019-08-18T07:50:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783694"
         }
     ],
     "post_staff": [],
