@@ -51,7 +51,7 @@
     },
     "num_chars": 6801,
     "num_commenti": 1,
-    "num_posts": 41,
+    "num_posts": 43,
     "post_after": [
         {
             "post_id": 780215,
@@ -244,6 +244,12 @@
             ],
             "timestamp": "2019-08-18T18:26:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44006-fdi-2019-2-la-finestra//?do=findComment&comment=783794"
+        },
+        {
+            "post_id": 783803,
+            "text": [],
+            "timestamp": "2019-08-18T19:15:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44006-fdi-2019-2-la-finestra//?do=findComment&comment=783803"
         }
     ],
     "post_staff": [],

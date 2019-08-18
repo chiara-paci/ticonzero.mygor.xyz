@@ -44,7 +44,7 @@
     },
     "num_chars": 7645,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 783654,
@@ -70,6 +70,14 @@
             ],
             "timestamp": "2019-08-18T13:26:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783762"
+        },
+        {
+            "post_id": 783817,
+            "text": [
+                "Ti ringrazio Buona domenica"
+            ],
+            "timestamp": "2019-08-18T19:56:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783817"
         }
     ],
     "post_staff": [],
