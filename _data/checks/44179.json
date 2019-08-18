@@ -63,7 +63,7 @@
     },
     "num_chars": 7835,
     "num_commenti": 2,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 782959,
@@ -98,6 +98,14 @@
             ],
             "timestamp": "2019-08-16T12:23:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44179-ballerino-di-flamenco//?do=findComment&comment=783516"
+        },
+        {
+            "post_id": 783700,
+            "text": [
+                "Buona giornata che per quel pugno datogli mi avevano arrestato e siccome io e Pilar avevamo una intesa, ma era solo per la danza. Poi per ripicca abbiamo...."
+            ],
+            "timestamp": "2019-08-18T08:13:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44179-ballerino-di-flamenco//?do=findComment&comment=783700"
         }
     ],
     "post_staff": [

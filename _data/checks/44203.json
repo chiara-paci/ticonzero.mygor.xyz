@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 783367,
@@ -172,6 +172,14 @@
             ],
             "timestamp": "2019-08-17T15:27:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783617"
+        },
+        {
+            "post_id": 783718,
+            "text": [
+                "Grazzissime Adelaide"
+            ],
+            "timestamp": "2019-08-18T09:09:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783718"
         }
     ],
     "post_staff": [],

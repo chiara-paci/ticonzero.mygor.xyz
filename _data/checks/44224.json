@@ -61,8 +61,27 @@
     },
     "num_chars": 7980,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 783724,
+            "text": [
+                "Grazie per i vostri commenti, mi fa piacere che abbiate apprezzato questa storia.",
+                "Eh, i videogiochi hanno fatto notevolissimi passi avanti da allora ma, in tutta onestà, e con la nostalgia dalla mia parte, ti posso dire che quel periodo lì rimarrà unico."
+            ],
+            "timestamp": "2019-08-18T09:26:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44224-fdi-2019-3-premi-il-tasto-start//?do=findComment&comment=783724"
+        },
+        {
+            "post_id": 783726,
+            "text": [
+                "Grazie per essere passato, e per la tua interpretazione (in parte corretta). Ho voluto evitare di spiegarla perché ne sarebbe uscito un pippone assurdo, ma sono davvero contento che sia \"passato\" il concetto di \"suicidio simbolico\".",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2019-08-18T09:37:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44224-fdi-2019-3-premi-il-tasto-start//?do=findComment&comment=783726"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Play",
