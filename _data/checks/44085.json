@@ -72,7 +72,7 @@
     },
     "num_chars": 2176,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 781462,
@@ -106,6 +106,19 @@
             ],
             "timestamp": "2019-08-03T14:22:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44085-1944//?do=findComment&comment=781752"
+        },
+        {
+            "post_id": 783670,
+            "text": [
+                "Ciao socia, e scusa se rispondo un po' in ritardo al tuo commento. Anche io",
+                "Non ho ben capito il termine di questa questione dal sapore marzulliano",
+                "...",
+                "Boh",
+                "Il mio personaggio si voleva dolo evitare Auschwitz. Forse in questo è immutato e immutabile...",
+                "Boh"
+            ],
+            "timestamp": "2019-08-18T00:32:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44085-1944//?do=findComment&comment=783670"
         }
     ],
     "post_staff": [],
