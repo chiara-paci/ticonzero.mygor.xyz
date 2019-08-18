@@ -50,8 +50,20 @@
     },
     "num_chars": 6790,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783657,
+            "text": [
+                "Ciao , il tuo intervento non mi offende affatto, i consigli sono sempre ben accetti quando intendono darmi modo di migliorare, li apprezzo ed è quello che cerco!",
+                "Ti ringrazio per i suggerimenti, le parti che hai riscritto mi piacciono molto, cercherò di renderle mie e sistemare di conseguenza.",
+                "Sull'asciugare un po' il prologo sono d'accordo, in verità c'era un terzo capitolo che segue lo stesso ritmo dei primi due ma lo sto già sistemando, per aggiungere un po' di dialogo e un po' più di \"azione\" sperando comunque di non sacrificare troppo l'atmosfera.",
+                "A presto, spero."
+            ],
+            "timestamp": "2019-08-17T22:05:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44177-oltre-lobl%C3%B2-capitolo-ii//?do=findComment&comment=783657"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Giorno I",

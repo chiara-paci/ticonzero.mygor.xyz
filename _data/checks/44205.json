@@ -94,7 +94,7 @@
     },
     "num_chars": 10641,
     "num_commenti": 2,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783721,
@@ -111,6 +111,18 @@
             ],
             "timestamp": "2019-08-18T09:17:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44205-la-principessa-angelica//?do=findComment&comment=783721"
+        },
+        {
+            "post_id": 783767,
+            "text": [
+                "Ce l'ho messa tutta, ma si tratta pur sempre di un mio scritto ed è difficile vedere i propri errori.",
+                "Per il resto non ho parole per ringraziarti, , per questa seconda analisi e se di domenica fai commenti del genere",
+                "spero che mi commenti sempre di domenica.",
+                "Lo riguarderò a fondo e ne estrarrò anche una storia per bambini - depurandolo dalle scemenze - ma non riuscirò a farlo entro agosto visto che sono pieno di impegni e ho le ferie contate.",
+                "Grazie per la pazienza e le innumerevoli segnalazioni, ne farò tesoro."
+            ],
+            "timestamp": "2019-08-18T13:49:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44205-la-principessa-angelica//?do=findComment&comment=783767"
         }
     ],
     "post_staff": [],

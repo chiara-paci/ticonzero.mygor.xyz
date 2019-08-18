@@ -1,0 +1,44 @@
+{
+    "author": {
+        "author_id": 33413,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Claudio Spinosa",
+        "url": "https://www.writersdream.org/forum/profile/33413-claudio-spinosa/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 88,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Se solo fossi attimo",
+        "brucerei in eterno",
+        "con indosso",
+        "ali d’angelo color porpora...",
+        "quore 2019"
+    ],
+    "timestamp": "2019-08-18T14:17:11Z",
+    "title": "FOSSI",
+    "topic_id": 44235,
+    "url": "https://www.writersdream.org/forum/forums/topic/44235-fossi/"
+}
