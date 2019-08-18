@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,25 @@
     },
     "num_chars": 88,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 783785,
+            "text": [
+                "benvenuto nel WD.",
+                "Invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso.",
+                "Inoltre per postare un proprio testo occorre prima commentarne un altro in modo approfondito. Devo chiudere. Per riaprire la discussione dovrai inviare tramite messaggio privato il link di un commento a uno staffer."
+            ],
+            "timestamp": "2019-08-18T17:06:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44235-fossi//?do=findComment&comment=783785"
+        }
+    ],
     "text": [
         "Se solo fossi attimo",
         "brucerei in eterno",
@@ -38,7 +54,7 @@
         "quore 2019"
     ],
     "timestamp": "2019-08-18T14:17:11Z",
-    "title": "FOSSI",
+    "title": "Fossi",
     "topic_id": 44235,
     "url": "https://www.writersdream.org/forum/forums/topic/44235-fossi/"
 }
