@@ -70,8 +70,19 @@
     },
     "num_chars": 7977,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 783732,
+            "text": [
+                "Un sentito grazie a tutti, oltre a quelli sotto citati , , e .",
+                "Si, lo so come si scrive, ma volevo rendere chiaro sin dall'inizio (il quale, però, non si può chiamare così, ma è obbligatorio dire \"incipit\"), che chi racconta è un bambino. Comunque Di Maio si esprime ancora così, e ridacchia pure.",
+                "Eppure basta sentire parlar a casa i genitori, qualche zia o qualche vicina ben informata dei fatti altrui (il classico \"l'avevo detto io che quella....), per avere inculcati alcuni sani concetti sin dalla più tenera età."
+            ],
+            "timestamp": "2019-08-18T10:13:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44225-fdi-2019-3-terra-di-nessuno-ad-1956//?do=findComment&comment=783732"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Abito al quarto piano di un palazzo dove c’è un cortile con una vasca di pesci rossi, che devo starci molto attento perché una volta sono caduto in acqua mentre cercavo di prenderne uno con le mani. Un ponticello di cemento con una ringhiera verde porta a un piccolo giardino, con una panchina di pietra e un’altalena. Su quella ci spingo mio fratello, che è molto pauroso, così forte che il telaio di ferro dove sono attaccate le corde si solleva davanti e dietro, lui piange e urla e la mamma si affaccia alla finestra gridando di tornare a casa se non la smetto. Non capisce che lo faccio a fin di bene perché pian piano diventerà più coraggioso.",
