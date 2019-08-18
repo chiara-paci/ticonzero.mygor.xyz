@@ -56,8 +56,18 @@
     },
     "num_chars": 7988,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783759,
+            "text": [
+                "Grazie mille per aver letto, farò tesoro dei tuoi consigli.",
+                "A presto."
+            ],
+            "timestamp": "2019-08-18T13:16:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=783759"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La sveglia suona caina dal comodino sulla tua destra. Ti butta giù dal letto a calci, senza romanticismi, sei a suo libero uso e la cosa ti pesa. Ti alzi sfatta, la notte non la sopporti più; il letto grande, vuoto, le assenze gelide pure in piena estate. Con gli occhi ammaccati dal sonno infili le ciabatte al contrario e ti trascini verso il bagno, cerchi a tastoni la luce, procedi a memoria chiedendoti quand'è che questa casa sarà casa tua e ci potrai camminare senza guardare. Trovi la luce, lo specchio e una faccia che non riconosci, è la tua? Ogni santa mattina la stessa domanda a cui non rispondi, non lo fai mai. Ti siedi sul cesso, stanca, come se fosse una vita che rimani all'impiedi; ti svuoti di urina e pensieri, i gomiti sulle cosce e le mani sul viso a coprirti gli occhi. Sbadigli, inspiri forte, il cervello inizia a fare i suoi giri e sei già un'altra, meno morta, già più viva. L'acqua ci mette il suo, lava via la notte e la stanchezza, i pensieri restano. \"Che ora ho fatto ieri? Lui mi ha scritto stanotte?\", esci dal bagno e controlli il cellulare, vuoto come sempre, e come sempre ti incazzi e ti rassegni; \"di notte non mi scrive mai, ma almeno mi pensa?\". Il cuore riversa domande alla testa alla stessa maniera di te che riempi la tazza di latte e biscotti, da trent'anni sempre gli stessi.",

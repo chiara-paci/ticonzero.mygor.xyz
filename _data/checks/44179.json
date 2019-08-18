@@ -63,7 +63,7 @@
     },
     "num_chars": 7835,
     "num_commenti": 2,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 782959,
@@ -106,6 +106,14 @@
             ],
             "timestamp": "2019-08-18T08:13:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44179-ballerino-di-flamenco//?do=findComment&comment=783700"
+        },
+        {
+            "post_id": 783763,
+            "text": [
+                "grazie i tuoi commenti sono un elisir per la mia mente"
+            ],
+            "timestamp": "2019-08-18T13:34:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44179-ballerino-di-flamenco//?do=findComment&comment=783763"
         }
     ],
     "post_staff": [

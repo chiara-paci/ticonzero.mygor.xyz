@@ -52,7 +52,7 @@
     },
     "num_chars": 7163,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783673,
@@ -65,6 +65,18 @@
             ],
             "timestamp": "2019-08-18T03:19:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44217-bocciofila//?do=findComment&comment=783673"
+        },
+        {
+            "post_id": 783728,
+            "text": [
+                "Ciao, grazie per aver commentato il mio racconto.",
+                "Al contrario, l'idea di invetire i paragrafi è molto buona, così la narrazione scorre più liscia. Però a me piaceva partire con l'ambientazione della città \"semi-deserta\". Magari troverò un compromesso.",
+                "Per il resto, ti ringrazio per il tuo commento, mi hai fatto riflettere sul mio stesso racconto. Sono contento tu ne abbia colto i tratti onirici e che, sostanzialmente, ti sia piaciuto.",
+                "A rileggerci,",
+                "Domenico"
+            ],
+            "timestamp": "2019-08-18T09:49:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44217-bocciofila//?do=findComment&comment=783728"
         }
     ],
     "post_staff": [],
