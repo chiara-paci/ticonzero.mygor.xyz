@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 5299,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Marf",
+        "url": "https://www.writersdream.org/forum/profile/5299-marf/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7931,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Pioggia. Freddo. Buio. Il suo corpo pretendeva riposo, e non potergli far comprendere che fermarsi ora voleva dire lasciarci le penne lo irritava.",
+        "La traccia che stava seguendo non era indicata nella cartina militare vecchia di ottant’anni su cui si basava, e questo gli dava una debole speranza: tutti i sentieri che lo erano si erano trasformati in vicoli ciechi. Il torrentello gonfiato dall’acquazzone gli aveva chiuso ogni possibilità di rientro, e tentare di aggirare gli ostacoli inerpicandosi sui pendii selvaggi e boscosi della montagna, con le gambe esauste e la sola luce della torcia da fronte, sarebbe stata una scorciatoia per la morte.",
+        "Un muro. No, una casa, sommersa dalla vegetazione. Ormai sarebbe stata ridotta a un rudere, ma magari poteva dargli un minimo di riparo.",
+        "Cercò un varco per guardare all’interno, ma le ante della finestra erano chiuse, e solide, nonostante i decenni passati da quando gli ultimi abitanti, e quindi anche il padrone di quella baita, avevano lasciato la valle. Tentò di spingere la porta, che sfregò, e poi oppose una resistenza viva, come se qualcuno stesse spingendo dall’interno.",
+        "Ebbe in brivido di paura, che fu però sommerso subito da una rabbia disperata. Tese tutti i suoi muscoli per affermare il suo diritto a vivere, ed entrò come una furia. La porta si chiuse dietro di lui, e si voltò per affrontare il suo antagonista.",
+        "Nessuno. Passò qualche istante di terrore, prima che la luce, e il suo sguardo, cadessero sui cardini della porta. Storti e asimmetrici, ma non per caso: era un vecchio sistema per costruire una porta che si chiudesse sotto il proprio peso.",
+        "La lama di luce frugò lo spazio. La casa non faceva acqua: le finestre, anche quelle sugli altri lati, erano ancora ben serrate. Tutto sembrava solido, costruito in maniera massiccia per durare. La temperatura dentro era sopportabile, del resto era stato bel tempo fino a quella mattina, e il giacchino e i pantaloni impermeabili lo avevano protetto bene: se la sarebbe cavata. Se li tolse, e andò a controllare se la panca fosse abbastanza larga e solida per dormirci sopra.",
+        "Tre giorni dopo, aveva già trasferito il campo base alla “Casa del Matto”, come l’aveva ribattezzata. Una definizione perfetta, a quanto pareva, per l’antico proprietario… e forse, pensò, anche per il provvisorio occupante.",
+        "Già quel diario trovato in una specie di zuppiera di vetro con coperchio gli aveva suggerito un’idea di bizzarria: e la lettura l’aveva confermata in pieno. La dedica allo sconosciuto “che troverà i miei pensieri racchiusi in quest’urna” scritta sul frontespizio, la lunga spiegazione di come (ma non del perché) Albert, il misterioso autore, si fosse insediato nella valle da cui tutti stavano fuggendo, risalendola “come un salmone risale la corrente, per fecondare una nuova vita sacrificando la propria”; pensieri divaganti senza capo né coda, racconti iniziati e mai finiti, poesie… Il preciso ritratto di un uomo che si era perso nel labirinto dei propri pensieri, ed era venuto fin lassù a cercarne l’uscita.",
+        "E di lui, che stava leggendo, che si poteva dire? Uno stimato professionista, alla cui vita solidamente organizzata la morte inaspettata di un amico aveva fatto l’effetto che fa a un maglione di lana un filo tirato con forza: lentamente, inesorabilmente, si era smagliata. E fin lì, nulla da dire: ma poi, l’idea di salvare l’edificio scricchiolante della propria esistenza trasferendo l’occupante…",
+        "Aveva sempre avuto la passione di ricostruire i percorsi antichi: andava in vacanza nei pressi di vie e città abbandonate, o ferrovie mai terminate, e alla fine delle ferie controllava su internet se quello che aveva dedotto era vero. La valle abbandonata l’aveva stregato, quando si era preso quell’anno sabbatico, o forse due, tanto poteva permetterselo, per cercare di ritrovare un senso a quel che era e che faceva.",
+        "La memoria degli antichi sentieri era andata perduta: e la vecchia cartina militare non poteva conoscere ciò che era accaduto dopo la sua stampa. Che occasione, per lui, di mettere a frutto le proprie capacità ed esperienza, e mappare tutti i percorsi residui, riaprirli dove possibile, piazzare dei segnavia; e sognare che un giorno, grazie alla sua opera, gli uomini sarebbero ritornati a vagare in quella modesta Pompei di montagna.",
+        "La nuova postazione era decisamente più avanzata e comoda per le nuove esplorazioni: il sentiero che lo aveva portato fin lì proseguiva, e forse era il solo che permetteva di raggiungere il prossimo dei settori in cui aveva diviso, arbitrariamente ma non troppo, la valle da esplorare. Il torrentello che l’aveva isolato quel giorno di tempesta non lo preoccupava: col sereno, aveva trovato un modo di aprirsi un percorso sicuro che lo superava anche in caso di pioggia.",
+        "No, a preoccuparlo veramente era un’altra cosa che quella serata gli aveva rivelato: che, per quanto allenato bene, il suo corpo di cinquantacinquenne non poteva più affrontare certi sforzi. La cattiva stagione non era distante: a quel punto, avrebbe dovuto interrompere la sua ricerca. E allora, cosa avrebbe fatto?",
+        "Cercava di distrarsi tenendosi occupato: trascriveva giornalmente i propri progressi, controllava che i pannellini solari tenessero alta la carica delle batterie dei vari dispositivi che impiegava allo scopo, e se avanzava tempo proseguiva nella lettura del diario di Albert.",
+        "Fratello, ascolta, segui i miei passi,",
+        "vieni con me sul sentiero che sale.",
+        "Tanto vorrei che tu partecipassi",
+        "A questa grande marcia universale.",
+        "La traccia che vorresti che lasciassi",
+        "su questo mondo, la pena non vale",
+        "di tutto quel dolore che tu ammassi.",
+        "Ma il viaggio, invece, è immortale.",
+        "Ebbe tutto il tempo di rimuginarci sopra, su quella poesia, in quel secondo giorno di pioggia forte che lo costrinse a starsene rintanato e a consumare il meno possibile le batterie dei suoi apparecchi. Perché lo avevano colpito tanto, quelle parole misteriose? Meditò fino alla sera, quando, stufo e annoiato, si ficcò nel sacco a pelo, e si addormentò.",
+        "Sognò. Una fila di formiche camminava sulle rocce bagnate di un sentiero. Lui si chinò per osservarle meglio, ma si sbilanciò, e cadde. Continuò a cadere, e mano a mano che si avvicinava, le rocce del sentiero diventavano sempre più ampie, e alla fine toccò terra che era diventato grosso come le formiche che aveva visto.",
+        "Solo che non erano più formiche. Erano uomini con lo zaino, che gli passavano accanto, lo guardavano sorridendo, e gli facevano cenno di venire con loro. Lui, incuriosito, si aggregò al corteo che si snodava lungo le rocce che ora erano montagne. Le sue gambe lo portavano senza sforzo, e lui si sentiva felice.",
+        "Passarono una sella difficile, e dopo vide altre rocce e altra salita.",
+        "«Quando arriviamo?» chiese.",
+        "«Mai» rispose sorridendo uno dei suoi nuovi compagni, «il viaggio è troppo lungo per una vita sola. Ma se continuano ad arrivarne di nuovi, un giorno saremo là, e sarà come se fossimo tutti assieme.»",
+        "Si svegliò. Non sentiva più il rumore della pioggia. Si alzò, aprì una finestra, e vide che stava albeggiando.",
+        "Iniziò a prepararsi la colazione, mentre si chiariva le idee, e prendeva una decisione: oggi avrebbe levato il campo, e sarebbe sceso a valle.",
+        "Aveva sempre fatto tutto da solo: vissuto da solo, esplorato da solo, progettato da solo. Cosa pensava di ottenere, così, di tanto importante, forse una minuscola citazione su una guida alla valle, che nessuno avrebbe mai considerato?",
+        "Ora sapeva cosa fare lungo la brutta stagione: doveva trovare qualcuno che collaborasse al suo progetto, perché diventasse un progetto loro, e infine di chiunque volesse aderirvi. Partecipare a qualcosa che sarebbe andato oltre ai suoi limiti: ecco l’idea nuova che la poesia gli aveva trasmesso. C’era Internet, gli appassionati di montagna erano tanti; aveva tutto l’inverno per cercarli.",
+        "Ripose il diario con reverenza nella sua teca trasparente. Quando fosse tornato, la primavera successiva, lo avrebbe condiviso coi suoi nuovi compagni."
+    ],
+    "timestamp": "2019-08-18T21:25:56Z",
+    "title": "La Casa del Matto",
+    "topic_id": 44239,
+    "url": "https://www.writersdream.org/forum/forums/topic/44239-la-casa-del-matto/"
+}
