@@ -60,7 +60,7 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 783908,
@@ -84,6 +84,15 @@
             ],
             "timestamp": "2019-08-19T13:14:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=783912"
+        },
+        {
+            "post_id": 783965,
+            "text": [
+                "Ci sto provando",
+                "Grazie, contenta che ti sia piaciuto. Stavolta ho sacrificato l'ispirazione poetica al tono leggero del testo, ma non escludo di mettermi a scrivere vere poesie un giorno o l'altro"
+            ],
+            "timestamp": "2019-08-19T21:56:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=783965"
         }
     ],
     "post_staff": [],
