@@ -12,13 +12,39 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    ",",
+                    "mi piace molto la maniera in cui hai posto il punto di vista dentro la testa della protagonista, al cui interno i pensieri sembrano rimbalzare di continuo senza tregua. In effetti, si ha la sensazione di essere chiusi in una gabbia mentale dalla quale non si riesce ad uscire: può essere una possibilità espressiva, ma se il testo fosse più lungo potrebbe diventare pesante.",
+                    "Ti segnalo le poche cose che ho notato:",
+                    "non so se con \"lunghissimo\" intendevi riferirti alla durata del sorriso: ma quella scarpa che cade subito dopo sembra interrompere la continuità dell'atto. Per evitarlo, metterei \"mentre lasci cadere eccetera\". Se invece intendi riferirti all'ampiezza del sorriso (come è stata la mia prima impressione) mi sembrerebbe più chiaro \"larghissimo\"",
+                    "credo che sia un errore di battitura: direi \"altroché, se sa scrivere\" o \"altroché, sa scrivere\"",
+                    "La frase che ho evidenziato non mi è chiara, o meglio: capisco che vuol dire che non vuole tenerlo sulla corda come aveva intenzione di fare, ma letteralmente con il termine \"tempesta\" io mi immagino una sfuriata, un rimprovero, che mi sembrerebbe in contrasto con tutta la situazione, oltre che ingiustificato.",
+                    "\"Riponi\" è un termine che fa pensare a qualcosa che si mette a posto perché non serve più: cercherei un altro vocabolo in questo caso.",
+                    "Vedo che fa parte del tuo stile usare molto il polisindeto, con tutte le frasi sullo stesso piano separate dalle virgole. Qui però ne conto undici... Spezzerei con un punto o un punto e virgola, per separare almeno la corsa al telefonino dalla lettura del messaggio e le sue conseguenze.",
+                    "Per quel che riguarda i personaggi, la protagonista mi dà l'impressione di soffrire un po' di bisogno di controllo: nel battibecco con la propria coscienza, sembra quasi disposta a correre il rischio di perdere Luca pur di non perdere il controllo sulla situazione. È un tratto caratteriale che si sposa piuttosto bene con quel continuo rimuginare i propri pensieri di cui ho accennato all'inizio.",
+                    "Complessivamente, l'ho trovato interessante e piuttosto piacevole da leggere.",
+                    "Grazie per la lettura, e buona serata"
+                ]
+            ],
+            "timestamp": "2019-08-18T21:17:18Z",
+            "title": "Stanotte scrivi per me",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=783831",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +52,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7931,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [],
     "post_staff": [],

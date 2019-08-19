@@ -59,7 +59,7 @@
     },
     "num_chars": 5984,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 783308,
@@ -86,6 +86,15 @@
             ],
             "timestamp": "2019-08-14T13:06:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=783346"
+        },
+        {
+            "post_id": 783827,
+            "text": [
+                "Ciao mi sono accorto, rileggendo il tuo commento, di non aver chiarito questo punto. Gli \"sputo\" in faccia non è un gesto ma è un \"dire\" in modo più irruento, proprio per evitare di scrivere sempre \"dire\" e fornirgli una connotazione più colorita. Hai però ragione perché può dare luogo ad equivoci, effettivamente sembra un gesto, devo stare più attento.",
+                "Grazie ancora del tuo approfondito e utile commento!"
+            ],
+            "timestamp": "2019-08-18T21:00:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=783827"
         }
     ],
     "post_staff": [],
