@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 783850,
@@ -147,6 +147,16 @@
             ],
             "timestamp": "2019-08-19T12:16:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=783903"
+        },
+        {
+            "post_id": 783915,
+            "text": [
+                "grazie cara Adelaide",
+                "in un luogo dove l'immateriale conta più della materia.",
+                "Un po' come il tuo im-materiale prezioso , vero"
+            ],
+            "timestamp": "2019-08-19T13:18:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=783915"
         }
     ],
     "post_staff": [],

@@ -60,8 +60,32 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 783908,
+            "text": [
+                "Intanto grazie per essere passato e per il commento.",
+                "Il senso della poesia è letterale, è quasi più una filastrocca che una poesia. \"Non temere l'ignoto, giacché l'uomo è nato per varcare i confini\"",
+                "Quanto al gerundio, è un normale tempo verbale, che indica la contemporaneità di due azioni. Certo, se poi se ne usa uno in ogni frase magari diventa pesante (come per gli avverbi e tutto il resto, d'altronde)",
+                "Grazie, sono contenta che ti sia piaciuto. Ero senza idee e stavo per rinunciare, così ho lasciato mano libera alla mia vena surreale: \"Pensaci te, che io intanto mi bevo una birra\". Questo è quel che ne è venuto",
+                "Grazie anche a te",
+                "E' vero, i personaggi sono un po' macchiette. Il racconto iniziale era venuto più lungo, e per rientrare ho dovuto tagliare parte della caratterizzazione, lasciando solo dei cenni.",
+                "Sì, forse ho esagerato troppo (mai messo i tacchi ) La tua idea è migliore, grazie.",
+                "All'effetto sorpresa non ho pensato proprio, forse avrei dovuto, non so... Grazie comunque per i tuoi commenti, verrò a leggere volentieri il tuo se partecipi."
+            ],
+            "timestamp": "2019-08-19T13:00:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=783908"
+        },
+        {
+            "post_id": 783912,
+            "text": [
+                "Grazie, troppi complimenti (ma se ne hai altri non ti fare problemi... ). Non scrivo sceneggiature, solo romanzi, ma mi hanno detto altre volte che dialoghi e personaggi sono il mio punto forte (poi di solito faccio disastri con tutto il resto, ma vabbè). In questo caso l'ho scritto davvero di getto, col solo scopo di divertirmi e (possibilmente) far divertire il lettore. Quindi sono molto contenta che sia piaciuto"
+            ],
+            "timestamp": "2019-08-19T13:14:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=783912"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Lascite ogni speranza, voi che entate.",
