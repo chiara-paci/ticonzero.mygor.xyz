@@ -57,7 +57,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 783868,
@@ -70,6 +70,17 @@
             ],
             "timestamp": "2019-08-19T08:59:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44229-sfida-23-erano-piene//?do=findComment&comment=783868"
+        },
+        {
+            "post_id": 783900,
+            "text": [
+                "Ahahah, e ho dovuto tagliare....",
+                "In realtà tra i due, ho pensato ci fosse amore. Nelle battute tagliate per arrivare agli 8000 avevo inserito la componente sentimentale, così da rendere l'uomo umano e non spregevole. Spregevoli sono solo i suoi pensieri, esasperati, ma in fin dei conti comuni. Lui si stupisce di quello che pensa, è come se volesse dare la colpa a qualcuno o a qualcosa di superiore. Ma in realtà le riflessioni sono solo le sue, in quanto proprie dell'essere umano.",
+                "Grazie mille, non ci avevo pensato.",
+                "Grazie un sacco"
+            ],
+            "timestamp": "2019-08-19T12:05:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44229-sfida-23-erano-piene//?do=findComment&comment=783900"
         }
     ],
     "post_staff": [],
