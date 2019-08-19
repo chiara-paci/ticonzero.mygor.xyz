@@ -45,7 +45,7 @@
     },
     "num_chars": 788,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 782623,
@@ -54,6 +54,14 @@
             ],
             "timestamp": "2019-08-08T22:13:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri//?do=findComment&comment=782623"
+        },
+        {
+            "post_id": 783870,
+            "text": [
+                "grazie per i suggerimenti, ne farò tesoro. A presto!"
+            ],
+            "timestamp": "2019-08-19T09:06:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri//?do=findComment&comment=783870"
         }
     ],
     "post_staff": [],
