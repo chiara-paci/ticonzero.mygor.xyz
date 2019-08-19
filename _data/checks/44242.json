@@ -1,0 +1,87 @@
+{
+    "author": {
+        "author_id": 11057,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "ITG",
+        "url": "https://www.writersdream.org/forum/profile/11057-itg/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 79,
+        "title": "Penna e Spada",
+        "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
+    },
+    "num_chars": 7946,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 783931,
+            "text": [
+                "Commento"
+            ],
+            "timestamp": "2019-08-19T16:52:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44242-sfida-23-lultimo-capolavoro-di-t-res//?do=findComment&comment=783931"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Walter Leone sapeva che, prima o poi, sarebbe finito, come tutti gli altri, seduto a un tavolo con la propria esistenza sparpagliata sopra.",
+        "In quel momento, aveva sempre pensato, un uomo non può fare altro che mettersi comodo e porre tristemente su due piatti di una bilancia la persona che si è e quella che si sarebbe voluta essere, sperando di non uscire troppo ammaccato dalla differenza di peso.",
+        "E se un uomo cede all'illusione di sentirsi l'unico padrone del proprio futuro, non può esimersi dalla responsabilità di sentirsi l'unico padrone del proprio passato. E se ambizione e talento ti consentono di scrivere il primo, solo una buona dose di ipocrisia ti consente di abbracciare in pieno il secondo.",
+        "Fino ad allora è solo un incedere confuso, in continua oscillazione tra ambizione e possibilità, certezze e speranze, cercando di arrivare più in alto possibile.",
+        "Quel momento per lui arrivò il 3 maggio del 2007, quando prese per la prima volta in braccio sua figlia Vivian: i piccoli occhi non ancora abituati alla luce del mondo, la pelle rosea che si arricciava in smorfie incomprensibili e la minuscola bocca socchiusa. Solo alla fine lo sguardo cadde sulla manina destra che, come gli avevano anticipato, presentava l'insolita malformazione di avere un dito in più, una sorta di mignolo aggiuntivo.",
+        "Spiegarono che il problema si sarebbe risolto con una semplice operazione, ma Walter non gli diede peso, sospirò con veemenza, affidò la bimba all'infermiera e si congedò smorzando un sorriso. Si sedette al volante della sua Nissan e spinse con rabbia il pedale dell'acceleratore. Lasciò in fretta il parcheggio dell'ospedale e alzò il volume dell'autoradio.",
+        "Freddy Mercury urlava la sua voglia di vivere per sempre lungo la statale, accompagnato dalle sapienti mani di Brian May.",
+        "Tornò a casa solo dopo il tramonto, abbracciò una bottiglia di Jack Daniels sul divano del salone, alzò gli occhi e ripensò a tutto.",
+        "Dall'inizio.",
+        "Il più in alto possibile lo aveva raggiunto nel luglio del '86, poco più che ventenne. Col tempo si sarebbe reso conto che, per un uomo ambizioso, nulla è peggio che raggiungere l'apice in giovane età, per poi passare il resto della vita nel tentativo di ripetersi o, peggio, a convivere con il dubbio che quello che gli altri hanno scambiato per talento sia stata, in verità, soltanto una clamorosa botta di culo.",
+        "Erano, quelli, gli anni delle foto della cometa Halley, di Cernobyl, dell'attentato al Papa e dei quadri di T-Res, l'artista anonimo che raggiunse quotazioni da capogiro. Al di là del talento e di un'insolita capacità di mescolare chiaroscuri e colori accesi, quello che colpiva delle opere di T-Res era l'esasperata tendenza verso il macabro, che sfidava ogni ragionevole esigenza artistica.",
+        "In particolare, riproducevano scene di delitti irrisolti attribuiti a un unico killer seriale, insistendo sui dettagli più cruenti.",
+        "Secondo alcuni critici le rappresentazioni di T-Res suscitavano un trasporto emotivo tale da condizionare l'analisi obiettiva del quadro, al punto che chi li osservava era portato a scorgere particolari che l'autore, in verità, non aveva intenzione di inserire. Per cui una sfumatura di verde poteva essere interpretata come la rappresentazione di una pianta effettivamente presente sulla scena, o una macchia nera in un angolo la volontà di indicare la presenza di qualche animale domestico.",
+        "Molteplici ipotesi furono fatte circa l'identità di T-Res, secondo alcuni era un poliziotto, secondo altri aveva un informatore che gli forniva copie delle foto scattate sulla scena del crimine, altri ancora ritenevano che quella di T-Res fosse una capacità innata di riportare graficamente le informazioni che riusciva a racimolare da giornali, TV e radio, qualcosa di simile alle tecniche che utilizzano i ritrattisti per gli identikit.",
+        "C'era, infine, chi riteneva che i quadri di T-Res fossero una chiara prova del fatto che egli fosse l'assassino. Ovviamente quest'ultima ipotesi, non essendo avvalorata da prove concrete, era stata relegata a semplice speculazione mediatica, prima di essere del tutto smontata quando si giunse all'identificazione del killer seriale: Anreij Rebrov uno studente di chimica di origini ucraine, con un accomodante viso tondo e fascinosi occhi chiari, il quale, tuttavia, si era sempre dichiarato innocente.",
+        "Entrato da poco nella polizia Walter Leone, affascinato dal caso, riesaminò le foto delle scene del crimine confrontandole con i quadri di T-Res.",
+        "Osservando il dipinto dell'omicidio di un ragazzino appena dodicenne, tale Matthew Simpson, notò che sul polso della vittima, rappresentata distesa sul pavimento con il braccio destro a coprirsi gli occhi, si allargava un cerchio dal cui centro partivano due linee che si estendevano fino ai bordi della tela.",
+        "Walter si convinse che quel cerchio rappresentasse un orologio con le lancette che segnavano un orario preciso: 10:20, che, però, non coincideva con quello presunto della morte, stimato per le 18:30.",
+        "Fu l'esame dei reperti raccolti sulla scena che fece emergere una coincidenza sconcertante; al momento della morte il bambino aveva un orologio al polso, quando Walter ebbe modo di esaminarlo poté verificare che segnava in maniera perpetua un unico orario: 10:20. Walter ipotizzò che l'orologio fosse fermo già alla morte del bambino.",
+        "Grazie a questa intuizione ottenne la possibilità di interrogare T-Res, che si scoprì essere afroamericano di 45 anni di nome Caleb Kappleton, che, nonostante il successo, continuava a vivere in condizioni di semipovertà.",
+        "Erano passati 20 anni, ma Walter ne ricordava con incredibile precisione la faccia: le labbra grosse che teneva leggermente aperte come se si portasse appresso un affanno perenne; la barba ispida che si sparpagliava lungo la faccia.",
+        "E gli occhi: grossi, neri, profondi.",
+        "Sembravano invocare la pietà che Caleb non osava chiedere a parole.",
+        "Era restato zitto tutto il tempo dell'interrogatorio con la testa bassa rivolta verso le mani giunte.",
+        "Solo alla fine, quando i toni si attenuarono, alzò le braccia e pronunciò delle parole che sembrarono vaneggiamenti di un folle: «Non sono opera mia! Queste sono le mani del diavolo. Che Dio abbia pietà di voi.».",
+        "La prima a testimoniare contro Caleb fu Margareth Donovan, una donna sulla sessantina che dichiarò di averlo visto nei pressi dell'abitazione di Matthew.",
+        "Seguirono altre testimonianze che scagionarono Andreij Rebrov e condannarono Caleb Kappleton alla pena di morte e T-Res a una sorta di damnatio memoriae: i quadri furono ritirati dal mercato e il suo nome fu bandito dalle gallerie.",
+        "La difesa evidenziò delle incongruenze tra le testimonianze e pose l'attenzione su alcune affermazioni di chiaro stampo razzista. Fu organizzata una fiaccolata di protesta dopo l'emissione della sentenza e parte della stampa si disse convinta della sua innocenza.",
+        "Caleb Kappletton fu giustiziato la mattina del 12 marzo del '92.",
+        "Fuori c'era il Sole.",
+        "Walter Leone fu felice di aver salvato un uomo innocente.",
+        "Chi è nel giro afferma che al mercato nero è ancora possibile imbattersi in una delle opere di Caleb Kappleton alias T-Res.",
+        "Ma non l'ultima.",
+        "Caleb rinunciò all'ultimo pasto ed espresse come ultimo desiderio quello di poter dipingere un'ultima tela.",
+        "Nel rispetto delle sue volontà fu recapitata all'uomo che l'aveva arrestato, Walter Leone, la mattina del 2 maggio del 2007.",
+        "Walter Leone ripose la bottiglia ormai vuota ai piedi del divano, si rese conto di aver passato la notte in bianco solo quando i primi raggi di Sole si insinuarono tra le imposte. Una lama di luce tagliò il muro nero dell'oscurità andando a lambire la tela che aveva davanti. Lui continuò a fissarla fin quando la luce non la scoprì del tutto. C'era un neonato dipinto, a terra privo di vita, rappresentato con il braccio destro a coprirsi gli occhi.",
+        "Dal centro della manina partivano delle linee che arrivavano a toccare i bordi della tela, Walter Leone avrebbe giurato che fossero le dita della mano.",
+        "Erano sei.",
+        "Fuori c'era il Sole."
+    ],
+    "timestamp": "2019-08-19T16:51:58Z",
+    "title": "[Sfida 23] L'ultimo capolavoro di T-Res",
+    "topic_id": 44242,
+    "url": "https://www.writersdream.org/forum/forums/topic/44242-sfida-23-lultimo-capolavoro-di-t-res/"
+}
