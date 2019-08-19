@@ -57,8 +57,21 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783868,
+            "text": [
+                "Abbiamo gli stessi gusti.",
+                "Grazie , da chi scrive horror sentirsi dire:",
+                "Conta tantissimo.",
+                "Sì, ora che conosci la sezione vedrai che non l'abbandonerai più. Volendo puoi candidarti a sfidante. Credo che tu possa proporti in \"guanto di sfida\", uno staffer ti metterà nella lista d'attesa.",
+                "A presto"
+            ],
+            "timestamp": "2019-08-19T08:59:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44229-sfida-23-erano-piene//?do=findComment&comment=783868"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La madre di Maria guarda la tv, quando riempiono di terra la bocca della figlia. Dentro, tutta dentro.",
