@@ -44,7 +44,7 @@
     },
     "num_chars": 7645,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 783654,
@@ -78,6 +78,16 @@
             ],
             "timestamp": "2019-08-18T19:56:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783817"
+        },
+        {
+            "post_id": 783886,
+            "text": [
+                ", Buon giorno se spiego cosa si fa durante la guardia su di un ponte comando di un bastimento in navigazione non basterebbe l'intero WD per spiegarlo, figurati in 8000 caratteri.",
+                "Grazie di avermi letto e commentato.",
+                "PS Ho letto da qualche parte su questo forum che dobbiamo darci del tu. Personalmente lo preferisco. Ti auguro tanta fortuna"
+            ],
+            "timestamp": "2019-08-19T09:52:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44220-fdi-2019%EF%BB%BF-3%EF%BB%BF-a-b-i-s-s-o//?do=findComment&comment=783886"
         }
     ],
     "post_staff": [],
