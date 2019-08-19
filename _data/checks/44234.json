@@ -101,8 +101,20 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 783850,
+            "text": [
+                "Non volevo dire \"amnesia\" perché avevo già scritto \"vuoti di memoria\", ma ho sbagliato a usare \"afasia\" al posto di spiegare che non trovava le parole giuste per esprimersi.",
+                "A voler proprio essere pignoli e noiosi ti è sfuggito anche qualche doppio spazio, ma è tutto. Per il resto è ben scritto e mi è piaciuto molto. La poesia poi l'ho trovata bellissima e ben inserita",
+                "Ti ringrazio della lettura attenta, delle tue considerazioni e suggerimenti.",
+                "Sono lieta che tu abbia apprezzato la prosa e la poesia"
+            ],
+            "timestamp": "2019-08-19T06:19:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=783850"
+        }
+    ],
     "post_staff": [],
     "text": [
         "I raggi rotti del sole",
