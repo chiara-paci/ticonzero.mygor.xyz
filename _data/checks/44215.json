@@ -91,8 +91,24 @@
     },
     "num_chars": 11012,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784025,
+            "text": [
+                "Tu hai qualcosa di eroico , davvero, e anche tutta la mia ammirazione. La battuta però è carina e avresti dovuto conservarla per un racconto",
+                "Ricordati sempre che parli con uno che per vivere fa il muratore, che legge pochissimo e che si permette pure di citare Shakespeare. Ce n'è abbastanza per bannarmi a vita da qualsiasi forum letterario. Detto questo aggiungo prova a leggere il Macbeth. Sono sicuro rimarrai sorpreso da quanto risulti non solo moderno e leggibilissimo, ma assolutamente fico.",
+                "concordo in pieno, però è stato divertente scriverlo",
+                "Hai ragione, non l'ho spiegato bene per niente, ma avevo in mente La strada di McCharty: l'imbarbarimento, la lotta per la sopravvivenza, il prevalere dell'istinto animale, tutte le conseguenze del collasso sociale",
+                "Voglio postare una serie di racconti in cui provare a dilungarmi fino all'eccesso. Magari mi tolgo il vizio In ogni caso conto su di te.",
+                "Direi che sono già in debito. A buon rendere, dunque (presto)",
+                "Eh, dici bene, ma è sparita dalla circolazione. Qui ci vuole un appello e si accettano sottoscrizioni.",
+                "Aspetta, mo' proviamo a chiamarla. Ricuccia! Dove sei finita? Guarda che ti stanno aspettando tutti qui. E guarda no? So' tanti eh..."
+            ],
+            "timestamp": "2019-08-20T13:00:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44215-i-giorni-contati-shakespeare-fino-alla-fine-del-mondo//?do=findComment&comment=784025"
+        }
+    ],
     "post_staff": [],
     "text": [
         "…Ma se è buono, perché mi suggerisce così orrende immagini da drizzarmi i capelli,",

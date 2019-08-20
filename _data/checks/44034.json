@@ -61,7 +61,7 @@
     },
     "num_chars": 7985,
     "num_commenti": 1,
-    "num_posts": 35,
+    "num_posts": 36,
     "post_after": [
         {
             "post_id": 780623,
@@ -123,6 +123,15 @@
             ],
             "timestamp": "2019-08-16T13:34:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44034-fdi-2019-2-la-sindrome-di-sta-stronza//?do=findComment&comment=783529"
+        },
+        {
+            "post_id": 784019,
+            "text": [
+                "Grazie mille a te per il commento e l'apprezzamento. Mi fa molto piacere .",
+                "Un saluto."
+            ],
+            "timestamp": "2019-08-20T12:33:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44034-fdi-2019-2-la-sindrome-di-sta-stronza//?do=findComment&comment=784019"
         }
     ],
     "post_staff": [],

@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 783850,
@@ -204,6 +204,18 @@
             ],
             "timestamp": "2019-08-20T12:12:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784016"
+        },
+        {
+            "post_id": 784029,
+            "text": [
+                "ossia, il padre ha scritto quei versi, appena arrivato su Orbis, registrando i suoi pensieri da malato, prima che svanissero.",
+                "E infatti, così li spiega al figlio:",
+                "Non sei uno zuccone, è che ti è sfuggita una riga di testo e basta quello a fraintendere... Forse, dovevo evidenziare meglio quel concetto, svilupparlo con più respiro. In questo mondo di transito, Orbissano senior ha visto il confronto tra il suo pensiero malato e quello guarito.",
+                "Dovevo essere più chiara. Dire di più.",
+                "Grazie di avermi dato l'opportunità di spiegare, caro"
+            ],
+            "timestamp": "2019-08-20T13:34:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784029"
         }
     ],
     "post_staff": [],
