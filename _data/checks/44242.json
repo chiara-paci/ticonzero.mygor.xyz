@@ -12,13 +12,36 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "parto con il dirti che ho trovato questo testo scritto in maniera notevole. Hai mostrato una capacità di scrittura non indifferente utilizzando un vocabolario ricercato e mantenendo un ritmo veloce che, per me, è fondamentale in un testo breve. Devo essere onesto, ultimamente faccio fatica ad arrivare alla fine di un testo, il tuo è scivolato rapido fino alla fine. In questo ha sicuramente aiutato il tempo verbale al presente e la scelta della seconda persona, scelte entrambe azzeccate e funzionali.",
+                    "Ho trovato buone anche le descrizioni, riesci a infilarle senza lasciar andare l'azione, tra un movimento e l'altro, tipo:",
+                    "in questo passaggio hai descritto la cucina disordinata e hai insistito sul carattere bizzarro della protagonista. Preferisco queste soluzioni alle descrizioni dettagliate di arredi ecc. ti faccio i miei complimenti, per quello che valgono.",
+                    "Bella immagine, magari la mattina fosse davvero così semplice svuotarsi dai pensieri...",
+                    "In questo pezzo, gusto personale, avrei evitato l'utilizzo di tutte queste interrogative dirette. Credo che sia una soluzione un po' inflazionata nei flussi di coscienza, ma, ribadisco, è un gusto personale. E poi devo pur segnalarti qualche cosa :).",
+                    "A questo punto ho temuto che lei avesse una tresca con il direttore, in stile bridget jones",
+                    "In conclusione, ho apprezzato davvero il tuo modo di scrivere e sono curioso di leggere qualcosa che abbia una trama più articolata. Questo l'ho visto più come un esercizio di stile, incentrato sulla presentazione della protagonista e sui suoi pensieri, ma dove accade poco. In ogni caso mi hai piacevolmente colpito. Complimenti davvero."
+                ]
+            ],
+            "timestamp": "2019-08-19T16:41:40Z",
+            "title": "Stanotte scrivi per me",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=783928",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 79,
@@ -26,7 +49,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
     },
     "num_chars": 7946,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [
         {
