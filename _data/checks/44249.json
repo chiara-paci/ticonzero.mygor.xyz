@@ -12,13 +12,49 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Inizio con qualche annotazione sulla forma.",
+                    "Questa frase è strana dal punto di vista sintattico, Non capisco l'inizio con \"A vista\", poi se il soggetto sono i mattoni dovrebbe essere al plurale il verbo. Non so, la rivedrei tutta. Si capisce cosa vuoi dire e l'immagine è bella ma la sintassi non funziona.",
+                    "Qui aggiungerei una virgola prima del ma e dopo gustoso.",
+                    "Bella e precisa l'immagine della tv in bianco e nero, me la ricordo anch'io!",
+                    "a crepapelle",
+                    "Bisognerebbe attaccare i puntini alla prima parola.",
+                    "Qui fai un cambio repentino di tempo verbale, dal passato al presente. Poi a fine brano torni al passato. Non so se è voluto, per dare dinamismo all'azione. Non è canonico ma a me non dispiace.",
+                    "Anche qui c'è un vertiginoso cambio di tempo verbale. Da calibrare per non far pensare a un errore e non a un effetto voluto.",
+                    "quando scoprii",
+                    "Qui metterei il minuscolo dopo il discorso diretto e due punti al posto della virgola.",
+                    "Da calabrese?",
+                    "Lo seguii",
+                    "Immagine molto forte ed efficace.",
+                    "sentì o sentii?",
+                    "refuso: sentii",
+                    "Mi brancò?",
+                    "refuso: andò",
+                    "Immagine molto forte!",
+                    "Il tuo testo ha dei guizzi formali molto audaci, i cambi di tempo verbale di cui ho già detto e anche il cambio di persona, a un certo punto ti rivolgi all'uomo con la seconda persona. Se ben calibrati sono guizzi interessanti. Però, a differenza di altri tuoi lavori che ho letto, questo mi pare meno curato dal punto di vista formale. Ci sono però immagini forti e interessanti. Insomma, credo che dopo una revisione potrebbe rendere molto meglio. I personaggi sono ben delineati. L'unica cosa che non mi è chiara è l'età della protagonista. Nel testo dici che ha 19 anni ma da come la descrivi in alcuni punti sembra più piccola.",
+                    "Ciao, alla prossima"
+                ]
+            ],
+            "timestamp": "2019-08-20T19:57:05Z",
+            "title": "[R] Gioventù bruciata",
+            "url": "https://www.writersdream.org/forum/forums/topic/44075-r-giovent%C3%B9-bruciata//?do=findComment&comment=784071",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,8 +62,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7695,
-    "num_commenti": 0,
-    "num_posts": 2,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [],
     "text": [

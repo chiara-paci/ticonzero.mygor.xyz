@@ -16,7 +16,7 @@
         "valid": 0.42,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -45,9 +45,24 @@
     },
     "num_chars": 7522,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 784074,
+            "text": [
+                "al netto di saluti e manifestazioni di apprezzamento, il tuo commento si riduce a sì e no tre righe: davvero troppo poco, nonostante l'indulgenza di cui diamo prova nei confronti dei nuovi iscritti.",
+                "Quando avrai commentato un qualsiasi brano dell'Officina in base ai parametri previsti dal regolamento, o comunque in maniera soddisfacente, trasmetti il link via mp a uno qualsiasi degli staffer e il racconto, che ora vado a chiudere, ti verrà riaperto."
+            ],
+            "timestamp": "2019-08-20T20:07:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784074"
+        }
+    ],
     "text": [
         "Il quadro era semplice, non un’opera d'arte eppure era molto bello.",
         "Non poteva essere altrimenti... era in bella mostra nella galleria degli uffizi di Firenze.",
