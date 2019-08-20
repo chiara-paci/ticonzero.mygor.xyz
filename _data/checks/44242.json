@@ -50,7 +50,7 @@
     },
     "num_chars": 7946,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 783931,
@@ -59,6 +59,18 @@
             ],
             "timestamp": "2019-08-19T16:52:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44242-sfida-23-lultimo-capolavoro-di-t-res//?do=findComment&comment=783931"
+        },
+        {
+            "post_id": 784041,
+            "text": [
+                "Ciao , grazie del commento",
+                "Non differiva, è lo stesso quadro.",
+                "Lo ha visto prima, certamente. In una prima stesura avevo spiegato meglio questo punto, in fase di revisione ho deciso di lasciarlo sospeso.",
+                "Ti scrivo in privato le mie ipotesi di lettura.",
+                "Saluti"
+            ],
+            "timestamp": "2019-08-20T16:30:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44242-sfida-23-lultimo-capolavoro-di-t-res//?do=findComment&comment=784041"
         }
     ],
     "post_staff": [],
