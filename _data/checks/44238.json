@@ -60,7 +60,7 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 783908,
@@ -93,6 +93,16 @@
             ],
             "timestamp": "2019-08-19T21:56:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=783965"
+        },
+        {
+            "post_id": 784082,
+            "text": [
+                "Molte grazie per il commento . Sono molto contenta se il racconto l'hai trovato semplice e piacevole da leggere.",
+                "l'abbreviazione mi pareva facesse più \"presentazione ufficiale\", leggermente ironica. Poi magari è un'idea mia... In più se lo scrivevo per esteso non ci stavo coi caratteri (me ne avanzavano credo due ). Grazie per essere passata!",
+                "Ps: dal nick forse si capisce poco, ma sono femmina"
+            ],
+            "timestamp": "2019-08-20T21:09:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=784082"
         }
     ],
     "post_staff": [],
