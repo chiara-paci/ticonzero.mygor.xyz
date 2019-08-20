@@ -45,8 +45,17 @@
     },
     "num_chars": 482,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 784046,
+            "text": [
+                "Grazie e dei complimenti e di aver apprezzato. A presto"
+            ],
+            "timestamp": "2019-08-20T17:28:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44052-il-peso-del-cuore//?do=findComment&comment=784046"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il mio commento:",
