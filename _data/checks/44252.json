@@ -47,8 +47,17 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784100,
+            "text": [
+                "I mentre sono utilissimi"
+            ],
+            "timestamp": "2019-08-20T23:22:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784100"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sui banchi di scuola c’era un’immagine che mi affascinava: il ritratto di un lanzichenecco.",
