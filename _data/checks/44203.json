@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 783367,
@@ -196,6 +196,14 @@
             ],
             "timestamp": "2019-08-19T09:10:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783872"
+        },
+        {
+            "post_id": 783987,
+            "text": [
+                "Traggo dalla frustrazione di non riuscire più ad azzeccare un nano la spinta per scrivere racconti dolenti"
+            ],
+            "timestamp": "2019-08-20T09:08:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=783987"
         }
     ],
     "post_staff": [],
