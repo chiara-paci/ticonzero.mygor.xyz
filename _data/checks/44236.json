@@ -62,8 +62,19 @@
     },
     "num_chars": 476,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784174,
+            "text": [
+                "Ciao, sono contento la poesia ti sia piaciuta e che ti sia arrivato \"qualcosa\". Ho sempre il timore di essere troppo autoreferenziale nella mia scrittura. Sono contento anche che tu abbia parlato di percorso \"filosofico\". Mi chiedo sempre se siano serviti a qualcosa tutti gli anni a studiare filosofia... a quanto pare sì :-).",
+                "Fammi sapere se poi sei mai riuscita a completare un cubo di Rubik... io non ci ho mai neanche provato, mi sembra un'impresa che va oltre le mie capacità.",
+                "Un saluto, a rileggerti."
+            ],
+            "timestamp": "2019-08-21T13:51:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784174"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Leggere un bel libro è come",

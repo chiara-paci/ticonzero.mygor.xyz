@@ -1,0 +1,66 @@
+{
+    "author": {
+        "author_id": 30024,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "irene m",
+        "url": "https://www.writersdream.org/forum/profile/30024-irene-m/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "ciao,",
+                    "questa tua poesia mi ha colpito soprattutto per il contrasto tra l’apparente semplicità e la sua effettiva (almeno per me) complessità.",
+                    "Stilisticamente mi piace molto, mi piace il titolo e mi piace l’uso che fai delle frasi brevi e spezzate e dei punti fissi (e anche la ripetizione del Come. Come. ). Questo ritmo sincopato, secondo me, alleggerisce la ricerca del pensiero. Confesso che l’ho letta e riletta un sacco di volte per riuscire ad afferrarne lo svolgimento (mi è presa quella frenesia che mi capitava quando tentavo di completare il cubo di Rubik! ), ma poi mi sono detta che uno svolgimento chiaro e logico non è sempre necessario, in poesia. Quello che conta (per me, quindi per il mio modo di intendere la poesia) è che arrivi un qualcosa che non sia solo di chi scrive, ma che possa essere “riconosciuto” da chi legge. Qui quel qualcosa io l’ho trovato. C’è una sensazione che scalda, fa sentire bene (l’amore nelle sue varie espressioni) e qualcosa che poi fa rimanere “di ghiaccio”, crea delusione. Il tutto in un vortice di sensazioni che è difficile comparare fra loro: il vortice che poi è la vita, anzi, come la vita…",
+                    "In conclusione la tua poesia mi sembra molto originale e coinvolgente nel suo percorso quasi filosofico. A rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-08-21T13:26:48Z",
+            "title": "Come",
+            "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784162",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 531,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "(Un testo brevissimo ma autoconclusivo, per questo lo posto qui in Raccont i)",
+        "Brrrrrrrr (storia minima)",
+        "Le nuvole già lo sapevano.",
+        "E lo sapeva il sole, mentre ballava tra le foglie nuove di quella dispettosa primavera: niente da dichiarare – come dicono alle frontiere. Non c’era storia.",
+        "Lei, che non era nuvole né sole, aveva portato soltanto un grazie e un perché ? dentro a quegli occhi inutilmente grandi.",
+        "Lei voleva soltanto capire.",
+        "Anche gli alberi lì intorno rabbrividirono a quel fatti un pianto che invece lui le disse."
+    ],
+    "timestamp": "2019-08-21T13:55:04Z",
+    "title": "Brrrrrrrr (storia minima)",
+    "topic_id": 44255,
+    "url": "https://www.writersdream.org/forum/forums/topic/44255-brrrrrrrr-storia-minima/"
+}

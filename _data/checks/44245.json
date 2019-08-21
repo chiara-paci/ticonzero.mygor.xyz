@@ -12,44 +12,52 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 0.42,
+        "timestamp": false,
+        "valid": 0.9044444444444445,
         "weight": true
     },
     "closed": false,
     "commenti": [
         {
             "checks": {
-                "timestamp": true,
-                "valid": 0.42
+                "timestamp": false,
+                "valid": 0.9044444444444445
             },
             "text": [
                 [
-                    "Buongiorno",
+                    "Buongiorno @lovigius",
                     "Appena finito di leggere il racconto mi sono detto \" Wow \".",
-                    "E' bellissimo, si entra nella testa della protagonista, fra debolezze e forze, stati d'animo e fra le righe si intuisce l'intera vita della protagonista che fa della scrittura una professione e che fatalmente si ritrova innamorata di una persona che magari non scrive di professione ma che alla fine lo fa meglio di lei oppure riesce ad eccitare la sua fantasia meglio di come abbia mai fatto qualsiasi altro."
+                    "E' bellissimo, si entra nella testa della protagonista, fra debolezze e forze, stati d'animo e fra le righe si intuisce l'intera vita della protagonista che fa della scrittura una professione e che fatalmente si﻿ ritrova innamorata di una persona che magari non scrive di professione ma che alla fine lo fa m﻿eglio di lei oppure riesce ad eccitare la sua fantasia meglio di come abbia mai fatto qualsiasi altro.",
+                    "Riesci a rendere perfetta l'idea della donna divisa fra l'amore per lui e l'essere \"forte\" nei confronti dell'amato.",
+                    "Mi e' piaciuta anche la descrizione della casa, un po' disordinata e la donna che sembra perfetta sul lavoro e che invece a casa va in giro su una scarpa sola, pur di leggere il messaggio in arrivo.",
+                    "La lettura scorre bene e un sorriso ti esce dalle labbra sin dalle prime battute.",
+                    "Mi e' piaciuto davvero tanto!"
                 ]
             ],
-            "timestamp": "2019-08-20T11:00:31Z",
+            "timestamp": "2019-08-21T00:27:28Z",
             "title": "Stanotte scrivi per me",
-            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784002",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784101",
             "weight": 1
         },
         {
             "checks": {
-                "timestamp": true,
-                "valid": 0.42
+                "timestamp": false,
+                "valid": 0.9044444444444445
             },
             "text": [
                 [
-                    "Buongiorno",
+                    "Buongiorno @lovigius",
                     "Appena finito di leggere il racconto mi sono detto \" Wow \".",
-                    "E' bellissimo, si entra nella testa della protagonista, fra debolezze e forze, stati d'animo e fra le righe si intuisce l'intera vita della protagonista che fa della scrittura una professione e che fatalmente si ritrova innamorata di una persona che magari non scrive di professione ma che alla fine lo fa meglio di lei oppure riesce ad eccitare la sua fantasia meglio di come abbia mai fatto qualsiasi altro."
+                    "E' bellissimo, si entra nella testa della protagonista, fra debolezze e forze, stati d'animo e fra le righe si intuisce l'intera vita della protagonista che fa della scrittura una professione e che fatalmente si﻿ ritrova innamorata di una persona che magari non scrive di professione ma che alla fine lo fa m﻿eglio di lei oppure riesce ad eccitare la sua fantasia meglio di come abbia mai fatto qualsiasi altro.",
+                    "Riesci a rendere perfetta l'idea della donna divisa fra l'amore per lui e l'essere \"forte\" nei confronti dell'amato.",
+                    "Mi e' piaciuta anche la descrizione della casa, un po' disordinata e la donna che sembra perfetta sul lavoro e che invece a casa va in giro su una scarpa sola, pur di leggere il messaggio in arrivo.",
+                    "La lettura scorre bene e un sorriso ti esce dalle labbra sin dalle prime battute.",
+                    "Mi e' piaciuto davvero tanto!"
                 ]
             ],
-            "timestamp": "2019-08-20T11:00:31Z",
+            "timestamp": "2019-08-21T00:27:28Z",
             "title": "Stanotte scrivi per me",
-            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784002",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784101",
             "weight": 1
         }
     ],
@@ -62,8 +70,17 @@
     },
     "num_chars": 7522,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 784175,
+            "text": [
+                "Non lo sapevo"
+            ],
+            "timestamp": "2019-08-21T13:54:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784175"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -91,6 +108,32 @@
             ],
             "timestamp": "2019-08-21T00:35:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784102"
+        },
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 784173,
+            "text": [
+                "Ricordo a tutti che il Regolamento vieta reazioni (freccine verdi, rosse e faccine) in Officina."
+            ],
+            "timestamp": "2019-08-21T13:49:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784173"
+        },
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 784178,
+            "text": [
+                "Questa volta non era riferito a te, , c'erano due freccine verdi di altri utenti al commento di ."
+            ],
+            "timestamp": "2019-08-21T14:03:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784178"
         }
     ],
     "text": [
