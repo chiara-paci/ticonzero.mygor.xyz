@@ -61,7 +61,7 @@
     },
     "num_chars": 7739,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 784150,
@@ -77,6 +77,16 @@
             ],
             "timestamp": "2019-08-21T11:42:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=784150"
+        },
+        {
+            "post_id": 784157,
+            "text": [
+                "Cara , bentrovata!",
+                "Ti confesso che anch’io c’ho capito poco, ma sono felice che il mio intento di rendere magiche e surreali le descrizioni sia riuscito, descrizioni che per altro sono similitudini di gesti e sensazioni che ho deciso di non rendere esplicite per permettere a voi di arrovellarvi il cervello (magari se a fine contest nessuno ci arriva le manifesto).",
+                "Grazie per avermi lasciato la tua impressione!"
+            ],
+            "timestamp": "2019-08-21T13:00:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=784157"
         }
     ],
     "post_staff": [],

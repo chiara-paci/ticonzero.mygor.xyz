@@ -47,7 +47,7 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 784100,
@@ -56,6 +56,15 @@
             ],
             "timestamp": "2019-08-20T23:22:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784100"
+        },
+        {
+            "post_id": 784165,
+            "text": [
+                "Be', c'è l'esplorazione di un quartiere appestato, e di una casa, volendo anche dei cassetti... vediamo il giudice del contest cosa ne pensa.",
+                "Giovani, vi leggo tutti! Grazie dei passaggi"
+            ],
+            "timestamp": "2019-08-21T13:34:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784165"
         }
     ],
     "post_staff": [],
