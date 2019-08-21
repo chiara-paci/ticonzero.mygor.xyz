@@ -57,8 +57,54 @@
     },
     "num_chars": 7813,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 784114,
+            "text": [
+                "Giusto però la frase secondo me sta bene lì dov'è. È un'introduzione al cambiamento. Dal viaggio, da quel momento si passa alla pausa.",
+                "Eccola la. La solita scemenza che mi toglie il gusto. per fortuna stavola mi sembra di ver salvato le virgole"
+            ],
+            "timestamp": "2019-08-21T08:00:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784114"
+        },
+        {
+            "post_id": 784115,
+            "text": [
+                "scusa il messaggio spezzato.",
+                "ne conosco un po' di quelle più datate ma questa non mi sovviene. Mi puoi dire il titolo?",
+                "E si, ci hai preso in pieno!",
+                "Grazie"
+            ],
+            "timestamp": "2019-08-21T08:03:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784115"
+        },
+        {
+            "post_id": 784116,
+            "text": [
+                "Grazie Alessandro, sono contenta. Il tuo è il primo commento e mi fai sperare di aver fatto un buon lavoro."
+            ],
+            "timestamp": "2019-08-21T08:06:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784116"
+        },
+        {
+            "post_id": 784117,
+            "text": [
+                "Grazie Capitano"
+            ],
+            "timestamp": "2019-08-21T08:08:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784117"
+        },
+        {
+            "post_id": 784119,
+            "text": [
+                "S'è capito che avevo bisogno di vacanze èh.",
+                "Grazie, e non scusarti, la colpa è mia. Mai postare sotto stress. Ma le vacanze stanno per finire, chissà che combinerò in seguito."
+            ],
+            "timestamp": "2019-08-21T08:32:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784119"
+        }
+    ],
     "post_staff": [],
     "text": [
         "… e sbocciarono le rose sopra i rami del baobab",
