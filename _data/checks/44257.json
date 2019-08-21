@@ -1,0 +1,93 @@
+{
+    "author": {
+        "author_id": 32276,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "spaiato",
+        "url": "https://www.writersdream.org/forum/profile/32276-spaiato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace molto questo incipit in cui si sostiene una tesi e poi la si nega, creando una sorta di piacevole spiazzamento nel lettore ma soprattutto sottolineando e accrescendo l'idea della forza dell'amore. Un'azione è bella come fare l'amore ma allo stesso tempo niente è come fare l'amore, perché la sua forza è talmente grande che non è misurabile. Una costruzione apparentemente semplice ma che in realtà è abilmente congegnata e comunica l'idea con grande efficacia.",
+                    "Guardare un bel tramonto è come",
+                    "un bel bacio",
+                    "ma niente è come fare l’amore.",
+                    "Dal bacio si ritorna al fare l'amore. E così si rimarca ulteriormente la sua forza e la sua grandezza.",
+                    "Come, come.",
+                    "Mangiare il polpettone è come",
+                    "un abbraccio",
+                    "ma niente è come, come.",
+                    "Molto bello questo come come ripetuto e lasciato sospeso. Rimanda ovviamente all'idea del fare l'amore e ancora una volta, reiterandone la presenza nei versi, si rimarca l'idea della sua forza e bellezza.",
+                    "Restare di sasso e come agghiacciare nel ghiaccio",
+                    "ma niente è come il ghiaccio; niente.",
+                    "Come, come.",
+                    "Baciare una ragazza è come",
+                    "fare l’amore.",
+                    "Come, come, ma niente è come.",
+                    "Trovare la canzone è come",
+                    "fare l’amore.",
+                    "Come, come.",
+                    "Come come... idem come sopra",
+                    "Come Dio è la vita; come, come.",
+                    "Verso, quest'ultimo che non mi convince appieno. Non riesco a contestualizzarlo in tutto il resto.",
+                    "Per il resto la poesia mi è piaciuta molto. Ha una struttura molto lineare. Lo stile è prosaico, colloquiale. Sembra una struttura molto semplice ma in realtà è ben congegnata, studiata abilmente, e questo è il grande pregio del testo. Comunica efficacemente l'idea di quanto fare l'amore sia qualcosa di eccezionale, che non ha eguali. E lo comunica anche con una certa ironia e piacevole leggerezza, senza morbosità. Suscitando nel lettore un sorriso. Si nota una certa dimestichezza nello scrivere. Hai gestito con scioltezza determinati accorgimenti, come ad esempio il \"come come\" ripetuto e lasciato sospeso, che contribuisce a rendere onnipresente in ogni verso il concetto del fare l'amore, come a sottolinearne sempre la forza e l'importanza, ma allo stesso tempo non appesantisce la lettura. L'idea, quindi, è sviluppata con maestria e originalità. La forma è semplice ma curata. Hai saputo ricreare la bellezza delle piccole grandi cose di tutti i giorni, in questo caso i sentimenti più semplici e più forti, con morbidezza e senza inutili orpelli e artifici retorici."
+                ]
+            ],
+            "timestamp": "2019-08-21T18:46:50Z",
+            "title": "Come",
+            "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784197",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 297,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "Maschi",
+        "A letto i maschi",
+        "ci vogliono puttane.",
+        "Disinibite, ma senza cuore.",
+        "Donne materasso.",
+        "Calde come una trapunta,",
+        "più sinuose",
+        "del risvolto di una federa.",
+        "Ma soprattutto inerti",
+        "come lenzuola alla rinfusa,",
+        "senza piedi",
+        "per andare loro incontro",
+        "quando si rivestono",
+        "e per sempre",
+        "se ne vanno."
+    ],
+    "timestamp": "2019-08-21T18:58:42Z",
+    "title": "Maschi",
+    "topic_id": 44257,
+    "url": "https://www.writersdream.org/forum/forums/topic/44257-maschi/"
+}
