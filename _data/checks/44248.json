@@ -57,7 +57,7 @@
     },
     "num_chars": 7813,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 784114,
@@ -121,6 +121,14 @@
             ],
             "timestamp": "2019-08-21T18:56:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784200"
+        },
+        {
+            "post_id": 784233,
+            "text": [
+                "Acc... si è vero la conoscevo, ma adesso devo andare a cercarla perché non mi ricordo la melodia. Grazie per avermi risposto."
+            ],
+            "timestamp": "2019-08-21T20:22:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784233"
         }
     ],
     "post_staff": [],

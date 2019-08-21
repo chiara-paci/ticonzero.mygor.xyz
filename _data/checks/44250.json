@@ -61,7 +61,7 @@
     },
     "num_chars": 7739,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 784150,
@@ -87,6 +87,16 @@
             ],
             "timestamp": "2019-08-21T13:00:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=784157"
+        },
+        {
+            "post_id": 784221,
+            "text": [
+                "Ahahahah !",
+                "Eh, ho dato il meglio di me",
+                "Grazie per il commento, capitano!"
+            ],
+            "timestamp": "2019-08-21T19:58:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=784221"
         }
     ],
     "post_staff": [],
