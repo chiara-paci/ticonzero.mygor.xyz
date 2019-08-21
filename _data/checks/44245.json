@@ -16,8 +16,25 @@
         "valid": 0.42,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.42
+            },
+            "text": [
+                [
+                    "Buongiorno",
+                    "Appena finito di leggere il racconto mi sono detto \" Wow \".",
+                    "E' bellissimo, si entra nella testa della protagonista, fra debolezze e forze, stati d'animo e fra le righe si intuisce l'intera vita della protagonista che fa della scrittura una professione e che fatalmente si ritrova innamorata di una persona che magari non scrive di professione ma che alla fine lo fa meglio di lei oppure riesce ad eccitare la sua fantasia meglio di come abbia mai fatto qualsiasi altro."
+                ]
+            ],
+            "timestamp": "2019-08-20T11:00:31Z",
+            "title": "Stanotte scrivi per me",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784002",
+            "weight": 1
+        },
         {
             "checks": {
                 "timestamp": true,
@@ -36,7 +53,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -44,8 +61,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 7522,
-    "num_commenti": 1,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -61,6 +78,19 @@
             ],
             "timestamp": "2019-08-20T20:07:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784074"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 784102,
+            "text": [
+                "Situazione regolarizzata, il precedente commento è stato integrato ."
+            ],
+            "timestamp": "2019-08-21T00:35:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784102"
         }
     ],
     "text": [
