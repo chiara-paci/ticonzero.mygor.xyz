@@ -94,7 +94,7 @@
     },
     "num_chars": 10641,
     "num_commenti": 2,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 783721,
@@ -123,6 +123,17 @@
             ],
             "timestamp": "2019-08-18T13:49:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44205-la-principessa-angelica//?do=findComment&comment=783767"
+        },
+        {
+            "post_id": 784206,
+            "text": [
+                "Diciamo la parodia di una favola...",
+                "Sì, l'ho visto eoni fa ed effettivamente ora che me lo dici mi è tornato in mente: se non erro è re Tritone che dice così ad Ariel.",
+                "Ti ringrazio per aver letto e per essere passata, , grazie per il commento ne farò tesoro quando rivedrò il racconto: ho in mente di risistemarlo perché è uno di quelli che mi è piaciuto quando l'ho scritto. Non so, non so spiegarmelo.",
+                "Grazie ancora, cercherò di riprendermi a breve dalla commozione ma non garantisco (cito)"
+            ],
+            "timestamp": "2019-08-21T19:16:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44205-la-principessa-angelica//?do=findComment&comment=784206"
         }
     ],
     "post_staff": [],
