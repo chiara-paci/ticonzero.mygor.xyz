@@ -53,8 +53,18 @@
     },
     "num_chars": 7179,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 784193,
+            "text": [
+                "Grazie felice che ti sia molto piaciuta l'idea e il racconto.",
+                "grazie di cuore non solo x l'apprezzamento ma soprattutto x l'accurata analisi del testo. Te e so o veramente grato. Grazie"
+            ],
+            "timestamp": "2019-08-21T16:53:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44251-fdl-2019-3-lincredibile-viaggio-di-una-bolla-di-sapone//?do=findComment&comment=784193"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Erano mesi che era rinchiusa in quella stanza angusta, priva di finestre, a forma di cilindro. Era pigiata come una sardina contro le sue compagne, le mancava l’aria. Ma i momenti peggiori arrivavano quando dall’ esterno scrollavano energicamente il contenitore dove erano stipate. Quegli attimi, seppur brevi, le parevano eterni. Aveva saputo che qualcuna di loro era riuscita",
