@@ -65,8 +65,17 @@
     },
     "num_chars": 297,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784281,
+            "text": [
+                "Grazie dell'apprezzamento! Hai mosso, in effetti, dubbi che per un attimo ho avuto anch'io. Mi sono chiesto se fosse meglio la \"e\" piuttosto che il \"ma\", dato che il \"ma\" si ripete qualche verso dopo. Però ho pensato che il \"ma\" sottolineasse meglio il concetto di \"senza cuore\", che è importante perché viene ripreso nella chiusa. Quindi ho optato per questa soluzione, anche perché il \"ma \" successivo non è strettamente vicino. Secondo me la ripetizione non viene avvertita più di tanto durante la lettura (poi magari mi sbaglio). Per quanto riguarda la chiusa, anch'io ho avuto il dubbio che potesse generare fraintendimenti, però sinceramente \"per non seguirli\" o cose simili mi è sembrato suonassero un po' male, oltre ad essere banali. La soluzione attuale mi sembra un po' più poetica. Tu comunque mi dici che, rileggendola, si capisce il senso... Spero con non troppe difficoltà."
+            ],
+            "timestamp": "2019-08-22T09:13:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44257-maschi//?do=findComment&comment=784281"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento al testo altrui",
