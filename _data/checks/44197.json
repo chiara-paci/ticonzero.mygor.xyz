@@ -44,7 +44,7 @@
     },
     "num_chars": 7985,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 783326,
@@ -124,6 +124,14 @@
             ],
             "timestamp": "2019-08-20T07:54:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44197-fdi-2019%EF%BB%BF-3%EF%BB%BF-come-una-goccia-d%E2%80%99acqua-su-una-piastra-incandescente//?do=findComment&comment=783977"
+        },
+        {
+            "post_id": 784299,
+            "text": [
+                "Vi ringrazio per le correzioni e i pareri che avete fornito. Ogni feedback è per me prezioso: punteggiatura e dialoghi sono gli aspetti su cui dovrò lavorare di più. Buon contest a tutti!"
+            ],
+            "timestamp": "2019-08-22T11:29:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44197-fdi-2019%EF%BB%BF-3%EF%BB%BF-come-una-goccia-d%E2%80%99acqua-su-una-piastra-incandescente//?do=findComment&comment=784299"
         }
     ],
     "post_staff": [],

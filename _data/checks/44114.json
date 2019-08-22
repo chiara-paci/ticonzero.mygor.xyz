@@ -51,7 +51,7 @@
     },
     "num_chars": 4553,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 782096,
@@ -70,6 +70,14 @@
             ],
             "timestamp": "2019-08-14T16:51:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44114-la-morte-della-salamandra//?do=findComment&comment=783368"
+        },
+        {
+            "post_id": 784300,
+            "text": [
+                "Grazie per la lettura! Le mie bestioline si augurano di non avere racconti a loro dedicati, spero di trovare spunti meno tragicomici per la prossima storia 😅"
+            ],
+            "timestamp": "2019-08-22T11:30:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44114-la-morte-della-salamandra//?do=findComment&comment=784300"
         }
     ],
     "post_staff": [],
