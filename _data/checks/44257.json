@@ -65,7 +65,7 @@
     },
     "num_chars": 297,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 784281,
@@ -98,6 +98,14 @@
             ],
             "timestamp": "2019-08-22T12:26:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44257-maschi//?do=findComment&comment=784307"
+        },
+        {
+            "post_id": 784316,
+            "text": [
+                "Grazie a te! Sì, è utile questa officina. Allora teniamo per buona la seconda versione!"
+            ],
+            "timestamp": "2019-08-22T13:19:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44257-maschi//?do=findComment&comment=784316"
         }
     ],
     "post_staff": [],

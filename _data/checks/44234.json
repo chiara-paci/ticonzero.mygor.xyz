@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 783850,
@@ -244,6 +244,15 @@
             ],
             "timestamp": "2019-08-20T18:18:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784057"
+        },
+        {
+            "post_id": 784313,
+            "text": [
+                "grazie, cara",
+                "Penso che riscoprirò la bis-cupola e il cielo dietro al cielo in una rivisitazione a più ampio respiro..."
+            ],
+            "timestamp": "2019-08-22T12:53:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784313"
         }
     ],
     "post_staff": [],
