@@ -63,8 +63,29 @@
     },
     "num_chars": 7695,
     "num_commenti": 1,
-    "num_posts": 9,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 784273,
+            "text": [
+                "Ciao grazie per essere passato e per l'apprezzamento.",
+                "In effetti ero partita dall'idea di fare una specie di metafora dei nostri tempi, ma lo spazio di 8000 caratteri è tiranno! Sono contenta, però, che tu abbia colto un accenno alla questione. Buon contest!",
+                "Ciao",
+                "grazie per il tuo commento e anche per i suggerimenti formali. Pensa che la frase",
+                "l'avevo scritta come suggerisci tu, poi l'ho cambiata perché non mi suonava bene, ma evidentemente sbagliavo!",
+                "Sono contenta che il racconto ti sia piaciuto! A presto!",
+                "Ciao",
+                "grazie per il passaggio e il suggerimento. In effetti ho proprio faticato a far stare tutto in 8000 caratteri e ho lasciato fuori tante altre idee che scaturivano da un mondo immobile, ad esempio il concetto di tempo che sarebbe del tutto diverso dal nostro ma che era troppo complicato inserire. Grazie ancora e a presto!",
+                "Ciao",
+                "hai colto uno degli aspetti he speravo arrivassero al lettore! Grazie per il commento! A prestissimo!",
+                "Ciao",
+                "adesso sono curiosa di leggere il tuo racconto sugli oneiroi, se dovessi pubblicarlo in Officina fammi sapere!",
+                "Grazie per il passaggio e per l'apprezzamento! Buon contest!"
+            ],
+            "timestamp": "2019-08-22T08:26:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44249-fdi-2019-3-il-lato-oscuro//?do=findComment&comment=784273"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il Lato Oscuro",
