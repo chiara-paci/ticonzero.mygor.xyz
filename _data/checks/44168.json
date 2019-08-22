@@ -47,7 +47,7 @@
     },
     "num_chars": 1185,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 782870,
@@ -64,6 +64,14 @@
             ],
             "timestamp": "2019-08-22T14:31:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44168-incipit-secondo-quale-scegliere//?do=findComment&comment=784332"
+        },
+        {
+            "post_id": 784358,
+            "text": [
+                "Si forse ha ragione, in effetti con il titolo vorrebbe indirizzare il lettore verso una determinata strada. Sì l' ho letto senza e mi pace. Quanto sono importanti le osservazioni di altre persone. Grazie per il suggerimento e la sua motivazione. Isabella."
+            ],
+            "timestamp": "2019-08-22T20:11:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44168-incipit-secondo-quale-scegliere//?do=findComment&comment=784358"
         }
     ],
     "post_staff": [],
