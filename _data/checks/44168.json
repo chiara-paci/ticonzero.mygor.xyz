@@ -47,13 +47,23 @@
     },
     "num_chars": 1185,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 782870,
             "text": [],
             "timestamp": "2019-08-11T07:28:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44168-incipit-secondo-quale-scegliere//?do=findComment&comment=782870"
+        },
+        {
+            "post_id": 784332,
+            "text": [
+                "Grazie mille per la risposta, sì è una storia d'amore, ma non ha nulla a che fare con il film.",
+                "Ti stavo rispondendo sull'altro post, purtroppo mi hanno fatto dividere i due incipit nonostante fossero al di sotto delle battute consentite.",
+                "Comunque grazie."
+            ],
+            "timestamp": "2019-08-22T14:31:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44168-incipit-secondo-quale-scegliere//?do=findComment&comment=784332"
         }
     ],
     "post_staff": [],

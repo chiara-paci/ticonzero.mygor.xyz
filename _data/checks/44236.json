@@ -62,7 +62,7 @@
     },
     "num_chars": 476,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 784174,
@@ -81,6 +81,17 @@
             ],
             "timestamp": "2019-08-22T10:08:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784289"
+        },
+        {
+            "post_id": 784321,
+            "text": [
+                "In effetti volevo ispirarmi alla semplicità di una canzone di Jovanotti",
+                "Lascio a te decidere!",
+                "Anche io non sono convinto da quel verso; vedrò di revisionarlo.",
+                "Grazie, a rileggerci."
+            ],
+            "timestamp": "2019-08-22T13:42:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784321"
         }
     ],
     "post_staff": [],
