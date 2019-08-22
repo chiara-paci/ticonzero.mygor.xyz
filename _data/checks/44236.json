@@ -62,7 +62,7 @@
     },
     "num_chars": 476,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 784174,
@@ -73,6 +73,14 @@
             ],
             "timestamp": "2019-08-21T13:51:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784174"
+        },
+        {
+            "post_id": 784289,
+            "text": [
+                "Ciao Sono contento che la poesia ti sia piaciuta. Rifletterò sulla frase finale. Io penso aggiunga significato alla poesia, ma forse non è di immediata comprensione. Grazie, a rileggersi."
+            ],
+            "timestamp": "2019-08-22T10:08:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44236-come//?do=findComment&comment=784289"
         }
     ],
     "post_staff": [],

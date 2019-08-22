@@ -53,7 +53,7 @@
     },
     "num_chars": 7179,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 784193,
@@ -71,6 +71,16 @@
             ],
             "timestamp": "2019-08-21T21:58:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44251-fdl-2019-3-lincredibile-viaggio-di-una-bolla-di-sapone//?do=findComment&comment=784243"
+        },
+        {
+            "post_id": 784288,
+            "text": [
+                "Grazie , le tue osservazioni mi sembrano molto appropriate. Hai fatto un ottimo lavoro sul mio testo. Comincio ad apprezzare le pulci.",
+                "Cari saluti,",
+                "Intes"
+            ],
+            "timestamp": "2019-08-22T09:52:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44251-fdl-2019-3-lincredibile-viaggio-di-una-bolla-di-sapone//?do=findComment&comment=784288"
         }
     ],
     "post_staff": [],
