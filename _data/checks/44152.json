@@ -62,7 +62,7 @@
     },
     "num_chars": 7875,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 782727,
@@ -75,6 +75,14 @@
             ],
             "timestamp": "2019-08-09T17:59:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44152-fdi-2019-2-fuori-concorso-il-tunnel//?do=findComment&comment=782727"
+        },
+        {
+            "post_id": 784397,
+            "text": [
+                "Evidentemente ho voluto condensare troppo in troppo poco spazio, e gran parte di quel che volevo esprimere si è perso. Grazie per il commento, che mi aiuta a regolarmi per i prossimi racconti"
+            ],
+            "timestamp": "2019-08-23T12:29:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44152-fdi-2019-2-fuori-concorso-il-tunnel//?do=findComment&comment=784397"
         }
     ],
     "post_staff": [],
