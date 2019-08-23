@@ -63,7 +63,7 @@
     },
     "num_chars": 7695,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 784273,
@@ -84,6 +84,16 @@
             ],
             "timestamp": "2019-08-22T08:26:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44249-fdi-2019-3-il-lato-oscuro//?do=findComment&comment=784273"
+        },
+        {
+            "post_id": 784430,
+            "text": [
+                "Ciao e avete ragione: 8000 caratteri sono pochi per un racconto del genere. Per quanto riguarda gli spiegoni, ho cercato di farne il meno possibile ma tant'è... grazie del passaggio!",
+                "Ciao",
+                "sono contenta che il racconto ti sia piaciuto. Per quanto riguarda la questione dei nomi hai ragione, il concetto di paura rimane marginale, ci sono solo due piccoli accenni, uno nel dialogo iniziale e uno nella poesia, e mi sarebbe piaciuto approfondire questo aspetto, ma già così ho faticato a farci stare tutto. Grazie! Alla prossima!"
+            ],
+            "timestamp": "2019-08-23T16:34:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44249-fdi-2019-3-il-lato-oscuro//?do=findComment&comment=784430"
         }
     ],
     "post_staff": [],
