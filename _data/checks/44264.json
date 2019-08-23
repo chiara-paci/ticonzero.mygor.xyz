@@ -12,13 +12,37 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "ti ringrazio per aver condiviso questo racconto. Lo commenterò usando la griglia di Writer's dream, che per me è come le tavole della Legge.",
+                    "Trama. Molto densa, quasi non ci si crede che stia all'interno di un racconto di mille parole o giù di lì. Hai pensato che, su queste basi, potresti fare un racconto più lungo, o addirittura un romanzo? Comunque, ho trovato che racchiudere una vicenda così ampia all'interno di mille parole fosse un'impresa complessa, tanto che a volte l'andamento del racconto è un po' forzato. Mi è piaciuto, comunque, come hai affrontato il problema della redenzione. Alla fine la protagonista prende una \"fragile decisione\", come accade spesso nella vita. Riuscirà a mantenerla? Questo dipende dalla visione ottimistica o pessimistica del lettore.",
+                    "Personaggi. Non ho molto inquadrato il personaggio maschile. Non riesco a vedere bene la sua parabola da rapinatore a bravo cittadino che cerca di redimersi. Anche qui, forse potresti sviluppare il personaggio tramite qualche paragrafo in più. Più convincente la ragazza con problemi di droga. Ho trovato che il suo aspetto fisico fosse ben descritto e il suo comportamento abbastanza naturale.",
+                    "Stile. Mi è piaciuto, mi pare che la scelta dei vocaboli sia competente. Non ho particolari riserve sullo stile. Ho trovato gradevole la poesia e la scelta, coraggiosa, di mostrare una delle poesie della madre della protagonista. E' un buono modo per introdurre un terzo personaggio.",
+                    "Originalità. La storia non è particolarmente originale, ma non ho neanche avuto la sensazione, leggendola, di \"già visto\". Diciamo che è originale il giusto.",
+                    "Grammatica e sintassi. Non ho niente da dire al riguardo.",
+                    "Giudizio finale. Nel complesso, ho delle remore, come già detto, per lo svolgimento un po' affrettato. Inoltre, approfondirei maggiormente il personaggio maschile, che, in questa storia, agisce un po' da deus ex machina.",
+                    "Grazie della condivisione, a rileggerci."
+                ]
+            ],
+            "timestamp": "2019-08-23T05:49:09Z",
+            "title": "[FdI 2019-2 fuori concorso] Il tunnel",
+            "url": "https://www.writersdream.org/forum/forums/topic/44152-fdi-2019-2-fuori-concorso-il-tunnel//?do=findComment&comment=784370",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,7 +50,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 1376,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

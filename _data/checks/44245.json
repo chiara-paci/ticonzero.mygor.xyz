@@ -70,7 +70,7 @@
     },
     "num_chars": 7522,
     "num_commenti": 2,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 784175,
@@ -79,6 +79,20 @@
             ],
             "timestamp": "2019-08-21T13:54:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784175"
+        },
+        {
+            "post_id": 784372,
+            "text": [
+                "Ciao",
+                "Ho studiato le tue osservazioni e devo dire che per la maggior parte sono corrette.",
+                "Non condivido l'osservazione sulla descrizione della ragazza.",
+                "A me sembra di averla descritta perfettamente!",
+                "Era attratto dalla ragazza raffigurata nel quadro, la sua bellezza certo, ma anche il suo sorriso, quella luce e quella gioia che traspariva dal suo﻿﻿ viso, quella innocenza che quell'ignoto pittore era riuscito a trasmettere.",
+                "La bellezza e' oggettiva, non ha bisogno di descrizioni, mentre per l'uso improprio della terza persona e' piu' un errore mio di impostazione delle virgolette.",
+                "Per il resto osservazioni ineccepibili grazie."
+            ],
+            "timestamp": "2019-08-23T05:55:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784372"
         }
     ],
     "post_staff": [
