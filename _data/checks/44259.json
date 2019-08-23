@@ -59,8 +59,19 @@
     },
     "num_chars": 6906,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784464,
+            "text": [
+                "dici il fatto che la strada potesse sembrare meno schifosa perché si sentiva utile? Questo tema in un certo modo sì, anche se non del tutto, però ho intenzione di entrare di più in queste contraddizioni",
+                "forse ho sbagliato io, non intendevo tutti gli uomini, ma alcuni, i clienti che cercano comprensione e poi ci sono anche tutti gli altri, forse non è chiara la distinzione?",
+                "grazie"
+            ],
+            "timestamp": "2019-08-23T21:57:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44259-le-ragazze-capitolo-8-12//?do=findComment&comment=784464"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Per quanto sembri strano l'amore sboccia anche sui marciapiedi e febbraio lo dimostra. Di fianco alle ragazze, sul ciglio della strada, troneggiano piccoli cumuli di cioccolatini e fiori per alcuni giorni prima e dopo la festa degli innamorati.",
