@@ -47,7 +47,7 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 784100,
@@ -65,6 +65,16 @@
             ],
             "timestamp": "2019-08-21T13:34:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784165"
+        },
+        {
+            "post_id": 784409,
+            "text": [
+                "Sui banchi di scuola inteso... a scuola. Non si dice?",
+                "Lo dico a te, visto che mi trovi di passaggio, perché forse tagliando il nome del luogo dove vanno i due monattini si perde la località (però non credo, si dovrebbe capire). Quindi, avendo adesso il dubbio di non aver fatto intuire al lettore cosa è successo (fatto che comunque ritengo positivo, perché ve dovete sforzà con l'immaginazione, idem io) ti lascio uno spoiler.",
+                "Chi vuole eviti:"
+            ],
+            "timestamp": "2019-08-23T13:41:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784409"
         }
     ],
     "post_staff": [],

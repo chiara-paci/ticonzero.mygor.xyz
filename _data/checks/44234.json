@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 783850,
@@ -253,6 +253,16 @@
             ],
             "timestamp": "2019-08-22T12:53:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784313"
+        },
+        {
+            "post_id": 784410,
+            "text": [
+                "Non so perché, ma ogni tanto mi avvito su certe frasi, invece di scriverle in modo più semplice ed efficace.",
+                "Ne hai giusto individuato un paio, che mi sono segnata: ti ringrazio.",
+                "Come neofita del genere fantascienza, ho gradito molto i tuoi apprezzamenti,"
+            ],
+            "timestamp": "2019-08-23T13:43:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784410"
         }
     ],
     "post_staff": [],
