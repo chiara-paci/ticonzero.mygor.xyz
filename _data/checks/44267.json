@@ -64,8 +64,42 @@
     },
     "num_chars": 7845,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 784507,
+            "text": [
+                "Grazie per il commento tempestivo e le belle parole, sono contenta tu abbia gradito.",
+                "Talia"
+            ],
+            "timestamp": "2019-08-24T11:34:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=784507"
+        },
+        {
+            "post_id": 784508,
+            "text": [
+                "Beh sì hai ragione, ma io pensavo alla parola strada col sinonimo di \"percorso\" più che come dimensioni del tracciato. La ripetizione è brutta, da cambiare.",
+                "Sì esatto come dici tu, con i piedi lateralmente al corpo, uno per ogni lato, volevo dire. Anche mi fa notare la stessa cosa",
+                "Per cui davvero c'è qualcosa da cambiare.",
+                "Ecco tu hai trovato troppo svelato il finale nella poesia, invece mi muove un'osservazione esattamente all'opposto",
+                "Avevo pensato alla poesia un po' rivelatrice proprio per spiegare il tipo di magia che ho immaginato possa ridare energia e forza vitale al vecchio. Alla fine non ho accontentato nessuno . Capita.",
+                ", e sono onorata dei vostri apprezzamenti e molto felice che tutti e tre abbiate apprezzato il racconto. Grazie per aver letto.",
+                "Talia"
+            ],
+            "timestamp": "2019-08-24T11:44:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=784508"
+        },
+        {
+            "post_id": 784510,
+            "text": [
+                "Grazie per aver letto e commentato. Le tue parole mi rendono felice .",
+                "Grazie per le parole di apprezzamento, è sempre bello sentirsi dire certe cose .",
+                "Talia"
+            ],
+            "timestamp": "2019-08-24T11:48:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=784510"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La sua voce è un rantolo ma gli occhi neri, circondati da rughe antiche, brillano pieni di vita.",
