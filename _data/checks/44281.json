@@ -1,0 +1,54 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 433,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Giovani musicisti",
+        "che brindate a quel tavolo",
+        "urlate e gridate di felicità",
+        "i lineamenti tirati e gli occhi vividi,",
+        "passione e giovinezza",
+        "passione e arroganza",
+        "mi stordite di vita e di bellezza.",
+        "Alzate al cielo i calici di vino rosso",
+        "intonate arie di Mozart e di Puccini",
+        "domani è già vicino per la lotta...",
+        "E chi sopravvive sarà forse il vero artista?",
+        "Ma ora siete puri e avidi invincibili e",
+        "incoscienti.",
+        "E con voi godo, brindo e brillo",
+        "di maternità."
+    ],
+    "timestamp": "2019-08-24T15:50:20Z",
+    "title": "Note di note",
+    "topic_id": 44281,
+    "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note/"
+}
