@@ -91,7 +91,7 @@
     },
     "num_chars": 11012,
     "num_commenti": 2,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 784025,
@@ -107,6 +107,17 @@
             ],
             "timestamp": "2019-08-20T13:00:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44215-i-giorni-contati-shakespeare-fino-alla-fine-del-mondo//?do=findComment&comment=784025"
+        },
+        {
+            "post_id": 784593,
+            "text": [
+                "Eh ma stai sempre in vacanza, ahahah.",
+                "Vabbè, tanto sei lontana e non mi puoi tirare dietro niente.",
+                "Ora hai fatto una promessa eh.",
+                "Ri-abbraccio"
+            ],
+            "timestamp": "2019-08-24T22:41:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44215-i-giorni-contati-shakespeare-fino-alla-fine-del-mondo//?do=findComment&comment=784593"
         }
     ],
     "post_staff": [],
