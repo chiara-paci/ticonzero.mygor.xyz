@@ -12,13 +12,32 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Talia, hai affrontato un tema non facile e molto più complesso di quello che può sembrare. Anche in questo campo si può però cadere in diversi stereotipi. Intanto il giocatore di macchinette è diverso dal giocatore di cavalli, di cani, di calcio di sport dove è previsto invece un gioco sulle probabilità. La storia è lunga e controversa ma anche qui, c'è chi ne ha fatto un semplice divertimento senza conseguenze. Le tipologie del giocatore sono infinite, si va dall'operaio al nobile , all'intellettuale al professionista ecc . Quindi credo che la battuta iniziale che indica - di scommettere sul cane che caca prima -faccia parte di una feccia che esiste ma che non è detto che sia la personalità del tuo protagonista. Antonio mi sembra tutto sommato un buon uomo che è stato inghiottito dalle macchinette con tutte le conseguenze disastrose del caso. Quello in cui dovresti forse immergerti meglio è l'anima del protagonista, la psiche, la mente che trova in un gesto compulsivo, l'adrenalina che forse non trova nella vita di tutti giorni. Così la droga così l'alcol, così infinite altre dipendenze di cui si parla meno ma che esistono; alcune note e benedette altre sconosciute -Secondo me- Ma che hanno in comune un ventaglio di condizioni psicologiche in cui avventurarsi per narrare e che sono da prendere direttamente dalla vita reale. Anche se ora mi vien in mente il giocatore di Donstoevsky.",
+                    "Brava comunque. Al di là delle virgolette messe male o no, credo che un tema di questo genere prevedeva prima di tutto una profonda introspezione del personaggio, dell'uomo della famiglia, del suo ambiente di lavoro, del suo passato, delle amicizie ecc ...Ovviamente in così poche battute è quasi impossibile. In ogni caso toglierei la prima frase. E inizierei con la descrizione ansiogena ecc lasciando fuori la scommessa sui cani di strada - lui non è uno da strada che gioca con i clandestini - mi concentrerei sull'alienazione che gli procura l'attesa e la compulsività violenta del gioco da video. Bene il passaggio e la descrizione sugli strozzini.",
+                    "A volte, una sola frase di un familiare o un breve evento possono essere molto drammatici e efficaci. Per es: la figlia partorisce e lui non è presente. (è solo un esempio)Mi piace la scrittura che è fluida e chiara e non trovo particolari osservazioni, forse descriverei meglio la faccia di Antonio nei momenti di maggiore tensione. Il finale lo asciugherei in una frase che possa essere significativa una metafora, qualcosa di evocativo. Un po' meno da lieto fine. Per quanto siamo tutti qui a fare il tifo per la guarigione di Antonio.",
+                    "La poesia è bellissima, anche qui brava veramente, ma... Se lui ne rimane così affascinato, folgorato in un nano secondo, mi viene fatto di pensare che sia una persona che si alimenta di cose che già avrebbero contribuito a tenerlo lontano dalla catastrofe o perlomeno più appagato e contemplativo . Detto questo sei stata molto brava e coraggiosa. Quindi complimenti. Però noi siamo qui per i nostri confronti. E ovviamente quello che dico è solo un punto di vista del tutto opinabile. Secondo me puoi dilungarti e divertirti a fare un personaggio più caratterizzato. Non macchiettistico però, considerata la delicatezza e la drammaticità del tema. Grazie per avermi dato l'opportunità di questa breve analisi."
+                ]
+            ],
+            "timestamp": "2019-08-24T12:13:27Z",
+            "title": "[FdI 2019 -2]  Post Fata Resurgo",
+            "url": "https://www.writersdream.org/forum/forums/topic/43967-fdi-2019-2-post-fata-resurgo//?do=findComment&comment=784511",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,7 +45,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 433,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],
