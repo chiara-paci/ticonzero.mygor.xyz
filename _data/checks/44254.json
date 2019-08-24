@@ -48,7 +48,7 @@
     },
     "num_chars": 7863,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 784254,
@@ -78,6 +78,14 @@
             ],
             "timestamp": "2019-08-23T17:01:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=784436"
+        },
+        {
+            "post_id": 784515,
+            "text": [
+                "e grazie per esservi fermati a commentare. Non so davvero perché mi sono buttata su questo personaggio che, alla fine, non ho saputo portare dove voleva la traccia. Eppure sono una viaggiatrice entusiasta e curiosa, tanto che preferisco il viaggio a qualunque altra cosa: gioelli, abbigliamento costoso, arredamenti di grande designer... Nulla vale quanto un viaggio. Scoprire nuovi luoghi e realtà mi arricchisce e mai mi sazia."
+            ],
+            "timestamp": "2019-08-24T12:43:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=784515"
         }
     ],
     "post_staff": [],
