@@ -50,7 +50,7 @@
     },
     "num_chars": 2512,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 782058,
@@ -83,6 +83,14 @@
             ],
             "timestamp": "2019-08-11T20:52:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44116-rom//?do=findComment&comment=782960"
+        },
+        {
+            "post_id": 784598,
+            "text": [
+                "grazie per i tuoi suggerimenti."
+            ],
+            "timestamp": "2019-08-25T05:40:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44116-rom//?do=findComment&comment=784598"
         }
     ],
     "post_staff": [],
