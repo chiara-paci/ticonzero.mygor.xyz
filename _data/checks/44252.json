@@ -47,7 +47,7 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 784100,
@@ -75,6 +75,17 @@
             ],
             "timestamp": "2019-08-23T13:41:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784409"
+        },
+        {
+            "post_id": 784626,
+            "text": [
+                "Direi più questa ipotesi, ero a corto di caratteri. Mi serviva lo spazio per un aggancio...",
+                "Denghiù",
+                "C'hai ragione, ci so arrivato adesso (so sveglio, eh )",
+                "Tra l'altro quell'immagine c'era in un libro quando andavo a scuola eoni fa, e mi acchiappava la fantasia."
+            ],
+            "timestamp": "2019-08-25T10:48:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784626"
         }
     ],
     "post_staff": [],

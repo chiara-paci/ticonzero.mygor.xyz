@@ -46,7 +46,7 @@
     },
     "num_chars": 433,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 784595,
@@ -60,6 +60,16 @@
             ],
             "timestamp": "2019-08-24T22:42:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=784595"
+        },
+        {
+            "post_id": 784632,
+            "text": [
+                "sono molto soddisfatta! ..",
+                "Ti ringrazio molto per le tue osservazioni. Avrai modo di intervenire ancora -spero- sui miei lampi futuri- se ne avrò eh... vado a sbirciare Lampi di Poesia",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-08-25T11:15:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=784632"
         }
     ],
     "post_staff": [
