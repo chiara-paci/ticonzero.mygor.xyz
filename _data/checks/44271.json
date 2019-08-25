@@ -53,7 +53,7 @@
     },
     "num_chars": 6651,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 784599,
@@ -71,6 +71,16 @@
             ],
             "timestamp": "2019-08-25T06:04:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44271-alessia//?do=findComment&comment=784599"
+        },
+        {
+            "post_id": 784680,
+            "text": [
+                "Grazie ancora per i tuoi consigli , vedrò di lavorarci un pochino su questo racconto...",
+                "Quella del lago che non ti era piaciuta è questa?",
+                "Io ci ero molto affezionato..."
+            ],
+            "timestamp": "2019-08-25T17:10:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44271-alessia//?do=findComment&comment=784680"
         }
     ],
     "post_staff": [],
