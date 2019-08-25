@@ -63,7 +63,7 @@
     },
     "num_chars": 7695,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 784273,
@@ -94,6 +94,15 @@
             ],
             "timestamp": "2019-08-23T16:34:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44249-fdi-2019-3-il-lato-oscuro//?do=findComment&comment=784430"
+        },
+        {
+            "post_id": 784654,
+            "text": [
+                "Ciao e",
+                "grazie davvero per i vostri generosi commenti! Felice che il mio racconto vi sia piaciuto!"
+            ],
+            "timestamp": "2019-08-25T13:17:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44249-fdi-2019-3-il-lato-oscuro//?do=findComment&comment=784654"
         }
     ],
     "post_staff": [],
