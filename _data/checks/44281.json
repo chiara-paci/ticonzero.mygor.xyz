@@ -46,7 +46,7 @@
     },
     "num_chars": 433,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 784595,
@@ -62,7 +62,29 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=784595"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 784602,
+            "text": [
+                "ciao, benvenuta nel WD.",
+                "Nella tua poesia avverto un'esigenza comunicativa che la rende autentica. Non ritrovo forme stilistiche convenzionali o un tono aulico che \"la veste\". Dunque è una poesia che parla e in cui c'è la voce dell'autrice. Vi trovo uno sguardo complesso verso un'euforia creativa: ebrezza e scontro, ego, individualità ma anche l'atto creativo più puro, il dono per eccellenza con cui incornici il finale. La maternità. Quest'ultimo è un passaggio che rilancia il senso di tutta la poesia e ancora il ritratto poetico dentro uno sguardo forte, ristabilisce un ordine nelle cose. Ed è una capacità prevalentemente di uno sguardo femminile. Va ben oltre una riflessione sull'artista (o musicista nel caso) geniale e senza regole, c'è un'affezione nelle parole, un ammonire: fate attenzione. Questo lascia una piacevole sensazione leggendo.",
+                "Si potrebbe anche fare una riflessione sui livelli \"etici\" che tocca il componimento: purezza e incoscienza prima, fino a brillare di maternità. Allora dov'è la purezza? L'autentico risiede nel non voluto? Nel gesto preterintenziolare? Espressione del libero istinto o progettualità. Questa dualità crea una divaricazione di significati dentro cui abita uno spazio interpretativo vasto.",
+                "Ecco dunque la profondità del testo.",
+                "Passiamo invece a qualche aspetto su cui ti suggerisco di riflettere. Non ho letto altro di tuo e non so in quale direzione va la tua ricerca, ti evidenzio comunque alcune cose che ho notato:",
+                "È importante fare attenzione hai richiami musicali delle rime, sia di quelle volute che non. I versi sono liberi e ogni accenno aulico può confondere.",
+                "Mentre l'aspetto sui cui porrei maggiore attenzione, per quanto riguarda un margine di affinamento della scrittura, è la scelta degli accapo. La poesia è discorsiva e va bene, il linguaggio è fresco e diretto e anche questo va bene. Però anche senza cercare delle immagini tipicamente poetiche è importante creare un innesco nel ritmo della parola. Non intendo necessariamente in forma metrica, ma quanto meno concettuale. Ovvero le pause dovrebbero coincidere con dei nodi del testo e determinarne l'estensione. Il ritmo diventa così quello di una rimodulazione del messaggio poetico e ogni verso acquista spessore. C'è ancora un legame tipico della prosa tra molti versi. La sintassi poetica si esalta quando ogni verso suona (per ritornare al tema musicale) di un suo valore e si armonizza con gli altri secondo un dettato che non è (o non solo) logico. I versi devono gravitare tra loro e ordinarsi secondo una regola emotiva. Inoltre dalla discussione sopra leggo che dai importanza al lampo creativo (a proposito, sai che nel WD esiste un contest di poesia che si chiama proprio ?), quindi dovrebbe esserti facile entrare maggiormente in rapporto con questo aspetto. Ovviamente sempre che questo coincida con la tua idea di poesia.",
+                "Spero che questa mia lettura ti torni utile e di ritrovarti presto in officina.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-08-25T06:52:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=784602"
+        }
+    ],
     "text": [
         "Giovani musicisti",
         "che brindate a quel tavolo",
