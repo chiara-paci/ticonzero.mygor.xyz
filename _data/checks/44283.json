@@ -51,8 +51,20 @@
     },
     "num_chars": 7843,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 784676,
+            "text": [
+                "Grazie del commento.",
+                "Sì. Così come compare due volte \"tagliola\" e tre volte \"morsa\". La tenaglia (metaforica) e la tagliola (reale) accomunano i due esemplari di femmine in una medesima, seppur differente, morsa di sofferenza.",
+                "Io intendevo la forma della corolla, chiusa a bulbo (tipo il tulipano).",
+                "Comunque, la Papillonia gigante (lat. papilonium grandis grandis) è una pianta endemica che cresce solo nei boschi di Colleretto delle Grazie. Il fiore vero e proprio è talmente orrendo e nauseabondo che si interra a mo' di struzzo, facendo così sbocciare il bulbo in tutta la sua beltà."
+            ],
+            "timestamp": "2019-08-25T16:23:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=784676"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Giandomenico arresta l'auto nello slargo ghiaioso al termine dello sterrato. Se non era per le indicazioni dettagliate della dottoressa Poletti non sarebbe mai riuscito ad arrivare in quel punto sperduto tra i boschi di Colleretto delle Grazie.",
