@@ -61,7 +61,7 @@
     },
     "num_chars": 7989,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 784699,
@@ -90,6 +90,16 @@
             ],
             "timestamp": "2019-08-26T08:03:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=784725"
+        },
+        {
+            "post_id": 784848,
+            "text": [
+                "Grazie , e grazie per il tempo ed i commenti.",
+                "Sì, i refusi e gli svarioni sono dietro l'angolo, e diventano ancora più insidiosi quando sei al limite degli 8000, con poco ossigeno, e ogni più piccola modifica comporta una corsa al contatore di caratteri per verificare se hai sforato.",
+                "Grazie ancora e vi chiedo di scusarmi le sviste."
+            ],
+            "timestamp": "2019-08-26T21:25:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=784848"
         }
     ],
     "post_staff": [],
