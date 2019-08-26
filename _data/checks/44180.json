@@ -71,7 +71,7 @@
     },
     "num_chars": 7234,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 783151,
@@ -86,6 +86,17 @@
             ],
             "timestamp": "2019-08-13T04:51:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44180-le-ragazze-capitolo-7-12//?do=findComment&comment=783151"
+        },
+        {
+            "post_id": 784806,
+            "text": [
+                "Ciao cara Flo",
+                "Erika non l'aveva mai vista quindi sapeva della sua esistenza, ma finché una cosa o una persona non le vedi è più facile fare finta che non esistano",
+                "è un errore, Flo, grazie mille, non mi ero proprio accorta",
+                "Bentornata! Sul racconto, non dalle vacanze"
+            ],
+            "timestamp": "2019-08-26T16:13:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44180-le-ragazze-capitolo-7-12//?do=findComment&comment=784806"
         }
     ],
     "post_staff": [],
