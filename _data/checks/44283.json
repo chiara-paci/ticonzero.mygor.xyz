@@ -51,7 +51,7 @@
     },
     "num_chars": 7843,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 784676,
@@ -63,6 +63,16 @@
             ],
             "timestamp": "2019-08-25T16:23:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=784676"
+        },
+        {
+            "post_id": 784793,
+            "text": [
+                "Grazie per il commento e le segnalazioni migliorative.",
+                "Più che di estetica, forse è perchè ritengo che per loro natura le femmine hanno una marcia in più verso la vita.",
+                "No, intendevo proprio immantinente, nel senso di subitaneo. E cioè che la filosofia non è figlia dell'immediato, dell'attimo in sè, ma sia più a suo agio nel lungo raggio del ponderato."
+            ],
+            "timestamp": "2019-08-26T15:24:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=784793"
         }
     ],
     "post_staff": [],
