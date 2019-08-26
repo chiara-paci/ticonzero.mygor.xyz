@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 38,
+    "num_posts": 39,
     "post_after": [
         {
             "post_id": 783367,
@@ -220,6 +220,14 @@
             ],
             "timestamp": "2019-08-25T22:51:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=784708"
+        },
+        {
+            "post_id": 784741,
+            "text": [
+                "ma quella, la paternità, così funziona, un attimo che ti distrai e swipp!"
+            ],
+            "timestamp": "2019-08-26T08:59:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=784741"
         }
     ],
     "post_staff": [],

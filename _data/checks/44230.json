@@ -56,7 +56,7 @@
     },
     "num_chars": 7988,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 783759,
@@ -122,6 +122,37 @@
             ],
             "timestamp": "2019-08-21T13:47:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784171"
+        },
+        {
+            "post_id": 784730,
+            "text": [
+                "Ciao ,sono contento ti sia piaciuto il racconto.",
+                "Quando dici che non ti sei sentito coinvolto perché non puoi che gioire quano la mattina non ti devi mettere a leggere messaggi sul cellulare, sappi che la penso proprio come te. Solo che qui non sono io, quindi ho provato a dare l'immagine di una donna sentimentalmente presa, che aspetta con ansia i suoi messaggi.",
+                "Ma alla fine l'hai capito anche tu a cosa miravo.",
+                "Ti ringrazio quindi per averlo letto e per avermi fatto notare i 3 errori.",
+                "A preso."
+            ],
+            "timestamp": "2019-08-26T08:34:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784730"
+        },
+        {
+            "post_id": 784731,
+            "text": [
+                "Ciao , grazie per essere passato.",
+                "Ti ringrazio per i complimenti e per gli errori che mi hai fatto notare.",
+                "Sì, ho notato che non è arrivata molto bene l'idea che avevo in mente.",
+                "Grazie ancora. A presto."
+            ],
+            "timestamp": "2019-08-26T08:38:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784731"
+        },
+        {
+            "post_id": 784732,
+            "text": [
+                "Ciao , grazie per essere passato. Sono del parere che contino tantissimo i commenti di qualsiasi tipo di lettore. Certo, i commenti tecnici degli appartenenti al settore fanno piacere e sono costruttivi, però i commenti di noi comuni mortali ci fanno capire cosa arriva a chi non legge con occhio critico (a chi legge per trovare il pelo nell'uovo, per intenderci). Quindi grazie infinite per i complimenti, sono contento che ti sia piaciuto. A presto."
+            ],
+            "timestamp": "2019-08-26T08:44:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784732"
         }
     ],
     "post_staff": [],

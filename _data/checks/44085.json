@@ -72,7 +72,7 @@
     },
     "num_chars": 2176,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 781462,
@@ -119,6 +119,14 @@
             ],
             "timestamp": "2019-08-18T00:32:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44085-1944//?do=findComment&comment=783670"
+        },
+        {
+            "post_id": 784738,
+            "text": [
+                "Grazie mille"
+            ],
+            "timestamp": "2019-08-26T08:56:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44085-1944//?do=findComment&comment=784738"
         }
     ],
     "post_staff": [],
