@@ -61,7 +61,7 @@
     },
     "num_chars": 7989,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 784699,
@@ -100,6 +100,16 @@
             ],
             "timestamp": "2019-08-26T21:25:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=784848"
+        },
+        {
+            "post_id": 785001,
+            "text": [
+                "Grazie , e grazie per il tempo che mi avete dedicato e per i commenti.",
+                "Fa sempre piacere vedere che ogni tanto quel che scrivi piace.",
+                "E di nuovo scusate per i refusi."
+            ],
+            "timestamp": "2019-08-27T19:32:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=785001"
         }
     ],
     "post_staff": [],
