@@ -51,7 +51,7 @@
     },
     "num_chars": 4553,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 782096,
@@ -78,6 +78,14 @@
             ],
             "timestamp": "2019-08-22T11:30:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44114-la-morte-della-salamandra//?do=findComment&comment=784300"
+        },
+        {
+            "post_id": 784974,
+            "text": [
+                "Grazie mille !"
+            ],
+            "timestamp": "2019-08-27T17:16:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44114-la-morte-della-salamandra//?do=findComment&comment=784974"
         }
     ],
     "post_staff": [],

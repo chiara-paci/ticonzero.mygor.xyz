@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 783850,
@@ -263,6 +263,22 @@
             ],
             "timestamp": "2019-08-23T13:43:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784410"
+        },
+        {
+            "post_id": 784983,
+            "text": [
+                "Grazie del tuo passaggio. Ho recepito le tue giuste osservazioni,"
+            ],
+            "timestamp": "2019-08-27T18:21:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784983"
+        },
+        {
+            "post_id": 784985,
+            "text": [
+                "Caro , mi fai felice per questo positivo giudizio sulla mia prima volta nel fantasy di un altro mondo."
+            ],
+            "timestamp": "2019-08-27T18:33:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=784985"
         }
     ],
     "post_staff": [],
