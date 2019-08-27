@@ -88,8 +88,21 @@
     },
     "num_chars": 16053,
     "num_commenti": 2,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 784925,
+            "text": [
+                "grazie per le correzioni dettagliate, apprezzatissime!",
+                "Si tratta di un vecchio racconto scritto anni fa, a cui sono molto affezionata (anche per motivi personali), per questo ho voluto postarlo per primo.",
+                "Anche se ora mi sto vergognando per i \"bé\" accentati e il trattino al posto dei due punti, rileggendolo prima di pubblicare mi sono del tutto sfuggiti. Giuro che ora non li uso più e metto la \"h\" come si deve",
+                "Sulle altre correzioni ci ragionerò per bene stasera, tutte molto valide mi pare, sono venuta qua proprio in cerca di questo.",
+                "Grazie anche a per l'opinione! Nella mia testa la trama scorre lineare, ma è ovvio che lo sia e se non sei l'unico a incontrare queste difficoltà sicuramente qualcosa è da rivedere"
+            ],
+            "timestamp": "2019-08-27T11:41:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44291-agatay//?do=findComment&comment=784925"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Nella vita del leopardo delle nevi il tempo scorreva oziosamente.",

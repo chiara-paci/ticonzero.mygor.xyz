@@ -70,7 +70,7 @@
     },
     "num_chars": 7522,
     "num_commenti": 2,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 784175,
@@ -101,6 +101,15 @@
             ],
             "timestamp": "2019-08-23T22:11:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784466"
+        },
+        {
+            "post_id": 784924,
+            "text": [
+                "Ciao",
+                "Non ho capito se al netto dell'errata posizione logistica del quadro il racconto le e' piaciuto."
+            ],
+            "timestamp": "2019-08-27T11:36:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44245-ossessione//?do=findComment&comment=784924"
         }
     ],
     "post_staff": [
