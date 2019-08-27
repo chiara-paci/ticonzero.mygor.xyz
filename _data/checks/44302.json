@@ -50,8 +50,37 @@
     },
     "num_chars": 331,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 785002,
+            "text": [
+                "Ciao!",
+                "No, in effetti, ma ero convinto si trattasse di qualcosa di vomitevole. Letteralmente pensavo che il significato fosse: agglomerato di sostanze di dubbia provenienza incompatibili fra loro, quindi potrai ben capire come l'esordio del tuo commento possa avermi fatto sentire. Poi ho guardato su Internet e...Aaaahhhhh, meno male.",
+                "Ehm, Laura, se magari la prossima volta eviti di scrivere un commento più bello della poesia, mica mi offendo eh?",
+                "Massì, facciamolo pure notare a tutti!",
+                "Grazie per il passaggio, Laura e per l'apprezzamento. Felice che ti sia piaciuta. Scherzi a parte, il tuo accostamento di immagini è davvero intrigante ed ha suggestionato anche me che scrivendola non ci avevo pensato, cioè non in quei termini. A presto"
+            ],
+            "timestamp": "2019-08-27T19:51:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44302-rare-forme-di-vita-dalta-quota//?do=findComment&comment=785002"
+        },
+        {
+            "post_id": 785007,
+            "text": [
+                "Ciao! Peccato che il quotidiano spicciolo riesca spesso e comunque a passarci sopra, comunque noi proviamoci sempre e comunque (intendo a respirare bene ). Grazie a te per le belle osservazioni che collimano con gli spunti che mi hanno fatto scrivere questo. Alla prossima"
+            ],
+            "timestamp": "2019-08-27T20:02:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44302-rare-forme-di-vita-dalta-quota//?do=findComment&comment=785007"
+        },
+        {
+            "post_id": 785009,
+            "text": [
+                "Ciao A. I tuoi commenti non sono mai banali. Giuro che io non lo sapevo davvero cos'era un potpourry (faccio ancora fatica a scriverlo) e quindi le suggestioni, se suggestioni ci sono, sono libere, non condizionate da un'immagine precisa. Mi fa piacere che ti sia piaciuta. A risentirci"
+            ],
+            "timestamp": "2019-08-27T20:19:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44302-rare-forme-di-vita-dalta-quota//?do=findComment&comment=785009"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Rare forme di vita d’alta quota",

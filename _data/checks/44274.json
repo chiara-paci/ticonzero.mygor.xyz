@@ -43,7 +43,7 @@
     },
     "num_chars": 6971,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 784877,
@@ -55,6 +55,15 @@
             ],
             "timestamp": "2019-08-27T06:02:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44274-il-gioco-3di3//?do=findComment&comment=784877"
+        },
+        {
+            "post_id": 785014,
+            "text": [
+                "In effetti, forse la differenza principale tra la realtà (dove per realtà intendiamo la vita reale) e la fantasia (dove potremmo tranquillamente intendere un qualsiasi racconto, romanzo, poesia) è che la prima non si arresta mai e qualsiasi occasionale morale noi si possa ricavare da qualsiasi evento ci possa capitare è destinata immancabilmente a essere superata, a evolversi e diventare altro, mentre in un'opera di fantasia possiamo illuderci che la chiusa finale sancisca una sorta di soluzione definitiva. La vita\\realtà non è mai definitiva, anche se spesso ci arrovelliamo per renderla tale. Magari non lo è nemmeno nell'unico momento in cui sarebbe lecito pensare che lo sia. Magari, ahahah.",
+                "Grazie per il passaggio. Ciao!"
+            ],
+            "timestamp": "2019-08-27T20:37:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44274-il-gioco-3di3//?do=findComment&comment=785014"
         }
     ],
     "post_staff": [],
