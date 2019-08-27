@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 30134,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Nevermind",
+        "url": "https://www.writersdream.org/forum/profile/30134-nevermind/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Spero non ti dispiaccia se commento su questo vecchio testo ma l'avevo cominciato e volevo percorrerlo tutto prima ad arrivare a quelli più recenti.",
+                    "Alcune scelte di lessico le posso vedere come una questione stilistica, ma alcune mi danno una strana impressione, per esempio \"piccolo\" non è scorretto per descrivere un bagliore, ma non posso fare a meno di pensare che ci sia un termine più adatto, così come \"mitigata\" che è un verbo più di azione attiva che non di stato, quindi fa sembrare che l'aria \"sia stata mitigata\" da qualcuno, oppure l'omissione in \" le era finita davanti agli occhi\".",
+                    "Per chi è familiare col concetto di poteri divinatori che ti permetto di entrare nei ricordi di una persona toccando un oggetto che le apparteneva non è difficile comprendere che il punto di vista è cambiato da Reinor alla donna della forcina, ma chiunque altro sarebbe piuttosto confuso senza qualche indizio o transizione che faccia capire cosa sta accadendo.",
+                    "Ci sono alcuni pensieri descritti direttamente che funzionano, come quando si immagina dei vermi giganti, ma non vedo perché alcuni pensieri, soprattutto quando il resto della narrazione è comunque discorso libero indiretto, debbano essere esplicitati in questo modo. Se è perché lo dice a se stesso ad alta voce forse qualche indicazione sarebbe utile.",
+                    "Reinor non si fa troppi problemi ad immergersi in centinaia di metri di tunnel senza troppa paura di perdersi, di rimanere intrappolato o di trovare ciò che ha rapito gli altri, c'è qualcosa che mi sono perso, è lui che è fatto così, o avventurarsi in luoghi così pericolosi è comune per gli abitanti di questo mondo?",
+                    "Com'è la conformazione delle orme di insetto? Non sono troppo piccole per fungere da paragone o perfino solo essere notate? O magari c'è da inferire che in questo mondo si trovano comunemente insetti giganti che lasciano orme visibili alla pari di un uomo o un orso.",
+                    "Un dettaglio che mi è piaciuto. Rende bene l'esperienza viscerale di vivere le paure nei ricordi di un'altra persona."
+                ]
+            ],
+            "timestamp": "2019-08-27T10:25:55Z",
+            "title": "Sottoterra. Parte 4",
+            "url": "https://www.writersdream.org/forum/forums/topic/34410-sottoterra-parte-4//?do=findComment&comment=784911",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 3470,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il vecchio si destò con una forte nausea che gli fluttuava per il cranio e una intensa sensazione di fiacchezza. Accanto a lui l'erborista era impegnata a pestare a mortaio dei boccioli gialli.",
+        "– Finalmente è sveglio. Mi aveva spaventato, sa? Alla sua età è rischioso finire in quelle condizioni. –",
+        "L'uomo provò di alzarsi, ma al suo corpo mancava ogni forza.",
+        "– Su, su, – gli disse la donna conciliante, – Nel giro di qualche giorno tornerà in piedi, ma ora deve riposare. –",
+        "Il vecchio appoggiò la testa sulla stuoia e si guardò attorno irrequieto, ma non c'era nessun altro nella capanna.",
+        "– Certo è stata una disattenzione non da poco la sua, – lo ammonì l'erborista, – credevo che lei vivesse qui da anni, quindi mi spiega come le è venuto in mente di mangiare le interiora del pinnaffilata? Non sa che sono velenose? –",
+        "– Erano piuttosto gustose per, – brontolò lui sottovoce, poi come fosse troppo stanco per mantenere una facciata scontrosa aggiunse, – comunque, grazie. –",
+        "– È fortunato che l'antidoto per una tossina simile sia stato efficacie. Ma se la cura ha funzionato dovrebbe ringraziare soltanto chi le ha permesso di riceverla in tempo. –",
+        "L'erborista riempì un vasetto dei fuori polverizzati e sporgendosi fuori della capanna fece segno a Vera di entrare. Consegnò alla giovane il vasetto e le diede istruzioni mentre questa ascoltò attentamente.",
+        "– Deve bere una tisana con questi fiori ogni mattina per almeno tre giorni. Tornerò per un'altra visita non appena mi sarà possibile – e rivolta all'uomo aggiunse, – e lei farà meglio a prestare più attenzione a quello che mangia. –",
+        "I due rimasero soli e Vera si sedette davanti al vecchio.",
+        "– A quanto pare quel maledetto pesce non aveva ancora finito di beffarmi. – tentò di scherzare lui.",
+        "Vera accennò un lieve sorriso, ma la nota di dispiacere che portava sul volto aveva appena dato al guardiano la conferma di ciò che di più lo riempiva di terrore. In pochi istanti si sentì crollare tutto ciò che gli rimaneva. E per un istante nel tumulto di vuoto e sconforto che lo pervadeva, gli sembrò quasi di sentire una sottile ombra di sollievo.",
+        "– Allora, hai trovato ciò che cercavi? – le domandò arreso.",
+        "La ragazza tenne lo sguardo basso, come a vergognarsi.",
+        "– Non ce l'ho fatta. –",
+        "– E... E perché mai? – chiese lui con genuino sgomento.",
+        "– Sapevo che era la mia occasione per arrivare finalmente a quella porta, ma non riuscivo a togliermi il dubbio che quello che hai detto fosse vero. –",
+        "– Non avrei dovuto parlare in quel modo della tua promessa. – ammise lui dispiaciuto.",
+        "– Però avevi ragione. Era solo un capriccio, una questione di orgoglio. Nessuno mi obbligava a continuare. Forse avevo solo paura di andare avanti senza un pilastro portante a sostenermi. Questo vecchio disco di legno tuttavia non si è rivelato un sostegno molto solido. –",
+        "Il vecchio annuì ancora smarrito.",
+        "– E ora? Cosa hai intenzione di fare? –",
+        "Vera prese un ampio respiro e si mise a parlare vivacemente.",
+        "– Prima di tutto aspetterò che tu ti regga di nuovo in piedi. Poi devo finire i lavori alla capanna, in fondo te l'ho promesso, no? E pure la rete avrebbe bisogno di qualche miglioramento. –",
+        "Il vecchio scosse la testa alla sua eccentricità e sospirò con un certo conforto.",
+        "– A quanto pare non riuscirò a liberarmi di te ancora per un pezzo. –",
+        "– Ben detto! – esclamò Vera uscendo dalla capanna, poi però si fermò all'ingresso e con un tono più serio gli disse, – In realtà ci ho pensato un po', e credo ci sia un'altra cosa che potrei costruire per te. –"
+    ],
+    "timestamp": "2019-08-27T10:26:18Z",
+    "title": "Dietro la Porta (parte 11)",
+    "topic_id": 44301,
+    "url": "https://www.writersdream.org/forum/forums/topic/44301-dietro-la-porta-parte-11/"
+}

@@ -59,7 +59,7 @@
     },
     "num_chars": 5984,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 783308,
@@ -111,6 +111,19 @@
             ],
             "timestamp": "2019-08-23T16:59:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=784434"
+        },
+        {
+            "post_id": 784907,
+            "text": [
+                "Grazie mi ha fatto molto piacere il tuo commento.",
+                "Sì questo è proprio un errore.",
+                "e anche qui certamente va snellita.",
+                "esatto, intendevo proprio così.",
+                "questo è un bel complimento.",
+                "Grazie ancora per aver letto il mio racconto."
+            ],
+            "timestamp": "2019-08-27T10:00:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=784907"
         }
     ],
     "post_staff": [],

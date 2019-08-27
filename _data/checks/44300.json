@@ -1,0 +1,99 @@
+{
+    "author": {
+        "author_id": 18725,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Befana Profana",
+        "url": "https://www.writersdream.org/forum/profile/18725-befana-profana/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "il racconto mi è piaciuto moltissimo, davvero. L'ho anche trovato più curato del solito nella forma: ho notato una sola virgola \"di troppo\":",
+                    "O questa volta sei stata più attenta tu, o il testo era così bello che non ho avuto modo di accorgermi di eventuali sviste",
+                    "La scrittura lirica, immaginifica, scegli tu l'aggettivo, soprattutto nella prima parte mi ha trasmesso sensazioni disomogenee: ci sono frasi che ho trovato magnifiche e da brivido",
+                    "Questa sopra ogni altra. Bellissima e rende perfettamente l'idea: quando rievoco ricordi e sensazioni di viaggi passati, situazioni e incontri si confondono, il vecchio incontrato in Irlanda come un cugino lontano del barbone in stazione a Genova; il taxista rasta in Dominica la cui faccia si sovrappone a quella dell'artista di strada a Barcellona...",
+                    "Tra l'altro, il tuo Lars mi ha fatto pensare al mio Angelo, barista siciliano che mi pescò per strada e mi ospitò in casa, dato che l'ostello era colmo. Uniti dall'umanità di un gesto gentile e disinteressato",
+                    "Mi limito a questo esempio, ma di frasi perfette ce ne sono diverse.",
+                    "Invece, altre costruzioni mi sono suonate eccessive, barocche artificiose, ma naturalmente è solo una percezione mia. Ti faccio un esempio anche qui",
+                    "Capisco cosa vuol dire, ma i toni decisamente pomposi mi infastidiscono un po', trovo che nuocciano all'empatia verso la protagonista. Anche qui ci sarebbero altre frasi per cui vale la stessa cosa, ma non sto a dilungarmi, bastava l'esempio.",
+                    "Questa virgola non so se sia sbagliata, ma io la toglierei: passai ore persa nella vita...",
+                    "Non ho null'altro da eccepire al racconto: molto belli i contenuti, giusta la struttura, bello!",
+                    "Forse, ma solo per gusto personale, avrei snellito ancora il finale, con meno dettagli, sul \"sono impaziente, ma aspetto, non ce la faccio più\", li avrei lasciati più impliciti.",
+                    "E credo che avrei tolto l'ultima frase, per chiudere qui"
+                ]
+            ],
+            "timestamp": "2019-08-27T09:13:39Z",
+            "title": "[FdI 2019﻿-3﻿] ...e sbocciarono le rose sopra i rami del baobab",
+            "url": "https://www.writersdream.org/forum/forums/topic/44248-fdi-2019%EF%BB%BF-3%EF%BB%BF-e-sbocciarono-le-rose-sopra-i-rami-del-baobab//?do=findComment&comment=784900",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7941,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Con il piede già sul terzo scalino, Andrea esita. Eppure, dopo giorni che riordina, sgombera, separa ciò che deve essere conservato da ciò che può essere buttato, non vede l’ora di aver finito. Giorni che fatica e sbuffa, a volte impreca, con la schiena a pezzi, sentendosi un po’ come il bravo fesso che s’è fatto incastrare dai “per fortuna che ci sei tu”. Sa di essere ingiusto: sua sorella vive all’altro capo del mondo e la madre non è in grado. L’incidente ha sorpreso e sconvolto tutti, ma per lei è stato peggio. La morte improvvisa dei genitori l’ha annientata: al momento di scegliere gli abiti con cui seppellirli, è quasi svenuta. Come chiederle di occuparsi di sistemare e svuotare la casa? Quanto a suo padre... La convivenza con i suoceri era difficile; si è sempre sentito trattare come una cattiva scelta, non all’altezza, inetto e mal sopportato. Forse ne avrebbe approfittato per prendersi qualche rivincita vigliacca, con commenti acidi e fuori luogo.",
+        "Andrea sa di aver preso la decisione giusta, scegliendo di fare da solo, ma ora ha fretta di finire, consegnare le chiavi all’agenzia immobiliare e tornarsene a casa per piangere i nonni come si deve. Deve solo occuparsi della soffitta, prima.",
+        "La soffitta: il giardino segreto dei nonni. Che lui sappia, nessuno: parente, amico o semplice conoscente, ha mai potuto mettervi piede; nemmeno lui, nipote preferito, che tante volte da bambino ha scongiurato «non tocco niente, promesso». Per anni si è chiesto e ha tentato di immaginare cosa nascondessero lassù. Le loro spiegazioni evasive: vecchie collezioni fragili, residuati bellici dei trisavoli, prodotti chimici pericolosi... non hanno mai convinto la famiglia, che ha finito per considerare quella segretezza come una stramberia innocua e smesso di interessarsene.",
+        "Al momento di aprirne la porta, però, Andrea si ritrova intriso di curiosità e del fascino del mistero della sua infanzia. Ripensa alle teorie bizzarre scaturite dalla sua fantasia: il laboratorio di strani esperimenti; il covo ipertecnologico in cui i nonni preparavano le loro avventure di agenti segreti; il nascondiglio in cui, coppia di novelli Lupin, celavano i bottini d’incredibili furti d’alto bordo. Quante avventure ha immaginato per quella soffitta vietata: ha quasi voglia di fare dietro front e serbare intatto il mistero, ma non può. Gira la chiave con mano quasi ferma, cercando di ignorare il battito nella gola.",
+        "Davanti a lui si apre una normale soffitta: scaffali colmi di vecchi libri, quaderni, libretti delle istruzioni di elettrodomestici recenti e passati. Sorride davanti a un ripiano che espone decine di “opere d’arte” fabbricate con la sorella: cornici di conchiglie, collane di maccheroni, portapenne di stecchi gelato. Nemmeno le casse accatastate dal lato in cui il soffitto s’abbassa sembrano racchiudere arcani: abiti smessi, tra cui la pelliccia d’ermellino di nonna, accantonata per sfuggire alle ramanzine ecologiste di figlia e nipoti. Andrea l’accarezza come fosse viva. Non si sofferma troppo sugli altri scatoloni: vestiti, biancheria e stoviglie andranno a un’opera di carità. Quale avrebbero scelto i nonni?",
+        "Sospira, mezzo deluso e mezzo divertito: né passaggi segreti né casseforti nascoste. Sulla parete di fondo lo aspettano un capiente armadio meno antico del resto del mobilio intorno e un paio di bauli. Probabilmente altri abiti: nonna Olga era una donna elegante e sofisticata, Andrea non l’ha mai vista senza trucco o vestita con negligenza.",
+        "Il contenuto dell’armadio è però inaspettato: tutine aderenti di pelle nera e rossa, abiti di pizzo cortissimi e oltremodo trasparenti, vestaglie scabrose, boa e negligé leggeri di piume. Olga e Livio avevano molti amici e uscivano spesso, tanto da giovani che con il passare degli anni ma il nipote ignorava che fossero appassionati di feste in maschera. Un senso di fastidio gli avvinghia lo stomaco, mentre sposta le grucce. Ritira la mano come se la tutina di rete a maglie larghe che sta toccando potesse scottargliela. È chiaro che Carnevale non c’entra. Fatica a immaginare la raffinata Olga infilata in quella cosa a rete, o nella tuta di pelle dal décolleté ombelicale; non vuole immaginarlo. Prova la voglia irrazionale di chiudere l’armadio e farlo scomparire, magari dargli fuoco, ma si china sui bauli. Copri-capezzoli glitterati e a nappine, manette di pelliccia, collari, una collezione di palle di geisha colorate. Altri gadget e sex-toys di cui ignorava l’esistenza e fatica a immaginare l’uso.",
+        "Una parte di lui vorrebbe scappare, ma la curiosità prevale. Lascia il baule per aprire quello accanto e si ritrova davanti un’ampia collezione di videocassette e DVD, che già sa non guarderà mai, e plichi di fotografie legate da nastri di seta.",
+        "Corpi nudi, o poco e fantasiosamente vestiti, avvinghiati in amplessi collettivi. Orge , non trova altro termine. Laddove i volti sono visibili, Andrea riconosce i nonni e alcuni dei loro più vecchi amici. Non si è mai considerato un puritano, ma un senso di nausea lo stordisce e deve sforzarsi per non vomitare sul baule. Lascia cadere le foto e richiude il coperchio, su cui si abbandona a sedere come se il suo corpo fosse troppo pesante per rimanere in piedi. Quanto riderebbe papà , pensa. “Quei due vecchi stronzi che mi trattavano come il figlio della serva che ha inguaiato la contessina... guardali. Schifosi!»",
+        "Suo padre non deve saperne nulla. Nessuno lo deve. Che orrore! Che vergogna! E lui che li ha sempre considerati perfetti; che li venerava. Che chiedeva loro consiglio per ogni scelta importante. A chi d’altri? Lo hanno quasi cresciuto, poi sostenuto, economicamente e moralmente, durante gli anni dell’università; studi che senza di loro non avrebbe potuto permettersi. I suoi amati nonni sempre disponibili e pronti quando i genitori non si mostravano all’altezza. Come conciliare i suoi ricordi con quella parodia dell’armadio di Narnia ? Portale d’un mondo su cui non avrebbe mai voluto affacciarsi.",
+        "Non può parlarne con nessuno, deve fare sparire tutto al più presto. Ha bisogno di uscire da lì - la soffitta su cui aveva tanto fantasticato, Cristo! - gli manca il respiro. È già alla porta quando nota su uno scaffale una fotografia che conosce molto bene: è piccolissimo, all’epoca della prima delle tante separazioni dei suoi in cui i bambini venivano spediti dai nonni. È sulle spalle di nonno Livio e gli tira i capelli come fossero redini; nonna non guarda l’obiettivo, ma il nipote. Ridono tutti e tre.",
+        "È stato lui a fare ingrandire la foto come regalo per i cinquant’anni di matrimonio dei nonni. Da allora, l’ingrandimento e la sua cornice in stile Luigi XIV la cui scelta gli richiese mesi, ornano una parete del salotto. Devono averne fatto una copia da conservare lassù. Anche il foglio accanto alla foto gli è familiare: il biglietto di auguri che accompagnava il regalo.",
+        "“ Né diavoli, né angeli:",
+        "troppo puri",
+        "di bene o di male",
+        "per essere veri.",
+        "Uomini,",
+        "figlio mio,",
+        "tra luce e buio",
+        "tracciamo una via,",
+        "diritta o contorta.",
+        "Non devi vincere il drago",
+        "o abbatter nemici,",
+        "esplorare pianeti",
+        "o contrade remote.",
+        "Scoprire chi sei,",
+        "conoscer te stesso",
+        "e l’altro da te",
+        "è la sola avventura.",
+        "La Vita. ”",
+        "S’era imbattuto in quella poesia nel libro di un autore sconosciuto scovato su una bancarella a Milano. I suoi versi gli erano sembrati giusti e l’aveva dedicata ai nonni, con poche parole in aggiunta: “Grazie per l’amore, il coraggio, la mano tesa dopo le cadute. Per avermi spinto a partire con la certezza di poter tornare. Per avermi accettato anche quando non capivate, senza mai giudicare. Vi voglio infinitamente bene”.",
+        "Si sente improvvisamente osceno, molto più di tutto ciò che ha visto in quella soffitta. Né angeli né diavoli, solo esseri umani. Chi ha diritto di giudicare? Accarezza piano la foto e gli sembra quasi di sentire la voce roca di nonno Livio: «siamo fiocchi di neve, Andrea, così simili da lontano, ma se t'avvicini ognuno è un mondo a se stante. Né meglio, né peggio, distinti.»"
+    ],
+    "timestamp": "2019-08-27T09:58:38Z",
+    "title": "[FdI 2019-3] La soffitta dei nonni",
+    "topic_id": 44300,
+    "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni/"
+}
