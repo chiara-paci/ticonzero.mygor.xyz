@@ -55,8 +55,19 @@
     },
     "num_chars": 7941,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 784930,
+            "text": [
+                "grazie a te.",
+                "Ho esitato molto sul terminare e postare questo racconto, da un lato perché sono in vacanza e fatico molto a ritagliarmi uno spazio di concentrazione per scrivere, dall’altro perché ho gros dubbi sull’attinenza alla traccia. Il fatto che ti sia piaciuto mi ripaga della scelta di aver deciso di pubblicare",
+                "ramanzine non è un refuso: nemmeno sapevo esistesse la forma romanzine. Si scoprono sempre cose nuove."
+            ],
+            "timestamp": "2019-08-27T12:10:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni//?do=findComment&comment=784930"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Con il piede già sul terzo scalino, Andrea esita. Eppure, dopo giorni che riordina, sgombera, separa ciò che deve essere conservato da ciò che può essere buttato, non vede l’ora di aver finito. Giorni che fatica e sbuffa, a volte impreca, con la schiena a pezzi, sentendosi un po’ come il bravo fesso che s’è fatto incastrare dai “per fortuna che ci sei tu”. Sa di essere ingiusto: sua sorella vive all’altro capo del mondo e la madre non è in grado. L’incidente ha sorpreso e sconvolto tutti, ma per lei è stato peggio. La morte improvvisa dei genitori l’ha annientata: al momento di scegliere gli abiti con cui seppellirli, è quasi svenuta. Come chiederle di occuparsi di sistemare e svuotare la casa? Quanto a suo padre... La convivenza con i suoceri era difficile; si è sempre sentito trattare come una cattiva scelta, non all’altezza, inetto e mal sopportato. Forse ne avrebbe approfittato per prendersi qualche rivincita vigliacca, con commenti acidi e fuori luogo.",
