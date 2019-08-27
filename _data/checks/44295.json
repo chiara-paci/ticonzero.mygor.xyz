@@ -75,8 +75,17 @@
     },
     "num_chars": 6153,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784878,
+            "text": [
+                "direi fucsia oppure magenta elettrico"
+            ],
+            "timestamp": "2019-08-27T06:03:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44295-le-ragazze-capitolo-9-12//?do=findComment&comment=784878"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Questa sera sono di pattuglia, ma non ne ho alcuna voglia. Mi sento così stanca e giù di morale. Vorrei solo andare a casa, mettermi a mangiare salame fino a vomitare e guardare uno di quei film in cui esiste sempre una soluzione a ogni problema.",

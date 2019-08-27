@@ -53,8 +53,19 @@
     },
     "num_chars": 9344,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 784868,
+            "text": [
+                "Ciao",
+                "ti segnalo che non ho \"scelto\" io il nome Persefone. Esiste effettivamente una leggenda su di lei, il nono pianeta del sistema solare. Ti invito ad approfondire su Wikipedia, se incuriosito. Non so perché ho usato abitare al posto di orbitare, mi è venuto così. Probabilmente è un errore.",
+                "Sono contento che il racconto ti abbia fatto ridere e riflettere, alla fine il mio obiettivo è questo. Ci sono delle parti effettivamente un po' insensate, per non dire stupide, ma sono contento ti siano piaciute. Bisogna essere anche un po' stupidi, ogni tanto, secondo me. Alla prossima, grazie..."
+            ],
+            "timestamp": "2019-08-27T04:58:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44292-avvertimento-da-un-altro-pianeta//?do=findComment&comment=784868"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Non tutti sanno che il sistema solare ha un nono pianeta (decimo, se uno conta anche Plutone). Si chiama Persefone ed abita oltre Nettuno. È un posto freddo, lontano dal sole. I suoi ingegnosi abitanti, in millenni di evoluzione, lo hanno scaldato sfruttando le riserve di combustibili fossili e tramite l’energia atomica. Uno sviluppo industriale incontrollato, però, ha portato a guerre, siccità, desertificazione, maremoti, distruzione.",
