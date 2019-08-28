@@ -55,7 +55,7 @@
     },
     "num_chars": 7941,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 784930,
@@ -66,6 +66,37 @@
             ],
             "timestamp": "2019-08-27T12:10:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni//?do=findComment&comment=784930"
+        },
+        {
+            "post_id": 785056,
+            "text": [
+                "non so: mi pareva che con l’inciso fra virgole il periodo funzionasse meglio, ma con la punteggiatura sono sempre molto dubbiosa. Grazie",
+                ", (hai ragione: meglio i due punti in quella chiusa) grazie mille"
+            ],
+            "timestamp": "2019-08-28T09:50:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni//?do=findComment&comment=785056"
+        },
+        {
+            "post_id": 785059,
+            "text": [
+                ", e pensare che sono in Italia ormai da due settimane e il racconto l’ho scritto qui: sono comunque riuscita a infilarci una francesata. Chi altri, certo, non à qui d’autre!",
+                "Per la poesia non so che dirti, l’avevo scritta a parte e il passaggio nel racconto era più lungo: spiegava che si era riconosciuto nella poesia perché rispecchiava il modo in cui gli avevano insegnato i nonni: inutile aspirare alla perfezione, bisogna imparare a conoscere se tessi e le proprie passioni, accettare quelle degli altri, eccetera. Poi ho dovuto tagliare per rientrare nei caratteri e ho ridotto. Non mi è nemmeno venuto in mente di tagliare la poesia, ci avevo faticato tanto (e senza arrivare a esserne soddisfatta) che per me era così e basta",
+                "Ma ci rifletterò a mente fredda. Grazie del commento."
+            ],
+            "timestamp": "2019-08-28T10:00:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni//?do=findComment&comment=785059"
+        },
+        {
+            "post_id": 785060,
+            "text": [
+                "Oddio, , mi hai messo un sacco di dubbi: il paragrafo era più lungo e tutto al passato prossimo, ho accorciato e modificato all'imperfetto per salvare caratteri, ma mi pareva che il senso restasse chiaro; invece mi fai capire che... non si capisce niente.",
+                "Okay: i nonni sono morti da qualche giorno in un incidente. La sorella è lontana, ripartita dopo il funerale immagino; la madre è sconvolta e fatica a riprendersi (erano i suoi genitori, presumiamo figlia unica, in ogni caso distrutta). Il padre, genero dei defunti, aveva con loro un pessimo rapporto da sempre (fino a pochi giorni fa, data della morte), se Andrea gli avesse chiesto una mano per riordinare la casa dei nonni, forse ne avrebbe approfittato per prendersi delle piccole rivincite vigliacche commentando acidamente questo o quello. Andrea non crede che lo avrebbe sopportato e ha deciso di occuparsi della casa dei nonni da solo.",
+                "Mi dispiace che non si capisse dal testo, proverò a rielaborare.",
+                "No, dai. Ammetto volentieri che ho forzato sulla traccia, ma l'esplorazione è quella di Andrea. Il tema esplorazione mi ha messo subito in mente un bambino che esplora la soffitta dei nonni come fosse un luogo misterioso. Lo so che è un po' al limite del fuori gioco per l'aderenza, ma quello mi è venuto. Poi il bambino è diventato adulto, perché mi è venuta voglia di fare una sorta di omaggio ai nonni di amici che, anni fa, morirono uccisi nello scontro con un automobilista ubriaco e i cui figli e nipoti, riordinando gli armadi della loro vasta casa in campagna, scoprirono le prove inconfutabili della loro passione per il libertinaggio e le sex tapes. Scoperta che provocò sorpresa ma offerse anche un sorriso alla famiglia in un momento di grande tristezza. Un omaggio ai nonni libertini",
+                "Ciao Giorgio, grazie, e scusami se non sono stata abbastanza chiara"
+            ],
+            "timestamp": "2019-08-28T10:20:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44300-fdi-2019-3-la-soffitta-dei-nonni//?do=findComment&comment=785060"
         }
     ],
     "post_staff": [],
