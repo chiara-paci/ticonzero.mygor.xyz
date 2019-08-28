@@ -66,7 +66,7 @@
     },
     "num_chars": 7787,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 785119,
@@ -75,6 +75,31 @@
             ],
             "timestamp": "2019-08-28T18:13:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=785119"
+        },
+        {
+            "post_id": 785131,
+            "text": [
+                "It, giusto?",
+                "Per questo consiglio di leggere 22.11.63 (sempre di King)"
+            ],
+            "timestamp": "2019-08-28T19:42:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=785131"
+        },
+        {
+            "post_id": 785133,
+            "text": [
+                "Lì si va sul sicuro: King per me è bravo, ma non consiglierei tutto quello che ha scritto."
+            ],
+            "timestamp": "2019-08-28T19:45:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=785133"
+        },
+        {
+            "post_id": 785136,
+            "text": [
+                "Non male, anche se ho preferito Io sono leggenda."
+            ],
+            "timestamp": "2019-08-28T19:54:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=785136"
         }
     ],
     "post_staff": [],
