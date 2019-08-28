@@ -1,0 +1,108 @@
+{
+    "author": {
+        "author_id": 33386,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Pigliasogni",
+        "url": "https://www.writersdream.org/forum/profile/33386-pigliasogni/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0
+            },
+            "text": [
+                [
+                    "Un commento lampo, a pelle: mi è piaciuto tantissimo!"
+                ],
+                [
+                    "Non ho capito perché i piatti di ieri sono così tanti. O sono i piatti accatastati da più giorni, o ieri ha cucinato per più persone. Non mi sembra coerente con il personaggio che per cenare da sola abbia fatto una catasta di piatti. O lui la sera precedente le ha lasciato i piatti da lavare? Per semplificare, toglierei \"ieri\".",
+                    "- trama: ben strutturata, incipit coinvolgente, concreto e immediato",
+                    "- personaggi: ottima caratterizzazione per lei, lui un po' sul vago.",
+                    "- contenuti: l'empatia è il punto di forza di questo racconto. Di norma non gradisco le narrazioni in seconda persona, ma qui la resa è eccellente",
+                    "- stile: disordinato, credo sia voluto per rendere meglio la caratterizzazione",
+                    "- grammatica e sintassi: refusi e piccoli errori sono già stati segnalati, non ti tedio ulteriormente.",
+                    "- giudizio finale: te lo avevo scritto come commento lampo: mi è piaciuto molto. Ciò che ho apprezzato di più è stata la sospensione e l'attesa per un colpo di scena finale, mi aspettavo che lui le dicesse qualcosa di negativo, mi aspettavo un tradimento (che sarebbe stata la conclusione più banale e non mi avrebbe colpita particolarmente), invece la conclusione dolce e appassionata mi ha lasciato una sensazione molto positiva."
+                ]
+            ],
+            "timestamp": "2019-08-19T10:00:53Z",
+            "title": "Stanotte scrivi per me",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=783889",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6208,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Non so ancora se mi piace viaggiare.",
+        "I miei genitori si vantano di essere viaggiatori esperti: zainetto, scarpe comode, GPL e partono. Non temono nulla e sono pronti a tutto.",
+        "Loro hanno girato mezza Europa a piedi e l’anno scorso hanno percorso i Balcani in lungo e in largo con la loro automobile.",
+        "I miei genitori amano l’avventura.",
+        "Ho appena festeggiato il mio secondo mese di vita.",
+        "La pancia di mamma era un posto tranquillo, ma, detto tra noi, non vedevo l'ora di uscire: stavo stretta e mi annoiavo, è molto più divertente qui fuori.",
+        "Oggi papà ha proposto di andare in montagna da alcuni amici e poi, poiché saremmo di strada, di andare a trovare i nonni. I nonni mi piacciono, mi coccolano molto.",
+        "Mamma fa sempre facce strane quando papà propone qualcosa, ma accetta perché le piace viaggiare con lui. Spero le piaccia viaggiare anche con me. E’ la prima volta che partiamo insieme.",
+        "Non più di quattro ore di viaggio e dovremmo essere dai nonni, dicono.",
+        "Partenza alla grande! Ero così emozionata che in ascensore ho fatto una super pupù, la tutina era tutta marrone e mamma mi ha riportata a casa e mi ha messo un completino ancora più bello.",
+        "L'auto dei miei genitori è bella e grande, credo: per far entrare l'aria usano delle manovelle e con la mia navicella occupo tutto lo spazio sul sedile dietro a papà, mamma così mi sta molto vicina.",
+        "Ripartenza perfetta, purtroppo mi sono addormentata subito.",
+        "Siamo arrivati in montagna.",
+        "Siamo quasi arrivati all’appuntamento con gli amici.",
+        "Sarà l'aria fresca, ma a me è venuta una gran fame… mamma sta titubando un po' ad esaudirmi, forse è meglio spiegarsi meglio. Ecco, con un buon urlo tutto è più chiaro. Forse sono un po' sordi.",
+        "Papà ferma l'auto e io posso fare una bella poppata con calma. Ai miei genitori piace che io mangi, mi servono almeno trenta minuti per saziarmi come si deve.",
+        "Pancino pieno, andiamo dagli amici. Siamo un po' in ritardo.",
+        "Che belle le montagne! Sono verdi, pieni di uccellini, di sole, di… siamo entrati in una chiesa buia, uffa, a me piacevano gli uccellini. In chiesa cantano. Allora, se non posso stare fuori con gli uccellini, canto anche io, forte forte.",
+        "Mamma ha cambiato idea: meglio gli uccellini. Così io e mamma ci facciamo una bella passeggiata.",
+        "Sono tutti usciti dalla chiesa, mamma e papà mangiano con gli amici, poi salutiamo e si riprende il viaggio. Sarò bravissima!",
+        "Ripartiti. Rifermati. Che bello, c'è una processione proprio sulla via principale per uscire dal paese. Mamma è sempre entusiasta del folclore dei piccoli centri. Dice tante parole, ne capisco poche, ma credo che siano parti del corpo, le dice con tanta passione. Papà ha messo il mento sul volante, forse perché vuole vedere meglio? È buffo papà.",
+        "È finita la processione e sono stata bravissima quasi tutto il tempo. Ripartiamo. Però aspetta, io non ho ancora fatto la pupù, non si parte senza aver fatto pupù.",
+        "I miei genitori sono prudenti, non mi sganciano mai dalla navicella se non siamo fermi con l’auto. Papà trova un posticino per fermarsi e mamma mi cambia il pannolino, ok, si può partire. Stavolta non mi addormento, voglio stare sveglia, come mamma e papà.",
+        "Che belle le montagne, peccato che debba vederle da sdraiata, mi piacerebbe stare in braccio a mamma. Glielo comunico. No, non voglio il coniglietto rosa, né il giochino che fa rumore, voglio proprio stare in braccio a mamma. Non mi tira su, ma si tuffa lei nella culla, non è quel che ho chiesto, ma apprezzo lo sforzo e accetto il compromesso.",
+        "Mi sembra che mamma si stia addormentando, ci penso io a tenerla sveglia, non vorrei che si perdesse il paesaggio.",
+        "Quanto tempo è che non mangio? Chissà com'è il latte in montagna. Ci fermiamo: sosta-poppata. Sì il latte della mamma qui è migliore. Mi hanno rimessa subito nella navicella. Non ho mangiato con calma e non ho fatto il ruttino: mi fa un po' male la pancia… Ecco dopo un bel ruttino puzzolente va molto meglio. Siamo di nuovo fermi: mamma deve pulire tutta la navicella e cambiarmi la tutina. Mi piace molto la nuova tutina.",
+        "Ripartiti. Mi sento bene e guardo il cielo.",
+        "Siamo di nuovo fermi.",
+        "Non ho fatto nulla, davvero!",
+        "Ah ecco, colpa di papà che deve mettere GPL all'auto.",
+        "Mamma, non c'è bisogno che mi controlli il pannolino ora che siamo fermi, ho capito che me la devo trattenere, tranquilla è asciuttissimo, possiamo ripartire.",
+        "Sta cambiando il paesaggio, c'è la pianura e laggiù dovrebbe esserci il mare. Che bello il mare. L'acqua che sciaborda sotto il sole, la spiaggia, i bimbi… mi sono rilassata e ho fatto pupù... Maaamma! Piazzola di sosta. Ormai siamo esperti, mamma è velocissima, papà non guarda neanche verso di noi e ripartiamo.",
+        "Ho un po' sonno, ma non è bene dormire durante un viaggio. Devo restare sveglia. Cosa stavamo dicendo? Ah sì, il mare. Come è bello il mare, gli alberi dalle fronde ampie, l'aria che sa di sale…mi è venuta sete a pensare a tutto quel sale. Maaamma! Non c’è niente di meglio del latte appena sgorgato per togliere la sete.",
+        "Fermata, poppata, ruttino e ripartenza.",
+        "Il sole è andato via. Ho proprio tanto sonno. Ma quando arriviamo dai nonni? Non so se resisto ancora molto senza dormire. Mamma, mi prendi in braccio un po’? Almeno per dirmi che sono brava.",
+        "Ora siamo in città, quante luci, quante macchine, c'è traffico. Dai mamma, ora siamo praticamente fermi, mi prendi in braccio? Niente da fare. Neanche il pianto al massimo livello la smuove.",
+        "Siamo vicini alla casa dei nonni, ma non c’è parcheggio. Mi sa che mi addormento.",
+        "Trovato un parcheggio. Ci vorranno venti minuti a piedi per arrivare dai nonni. Scaricata l'auto. Ce la farà papà a portare tutto? Per fortuna ha il passeggino, tanto io sono finalmente in braccio a mamma.",
+        "Eccoci arrivati dai nonni! Evviva!",
+        "Mi è passato il sonno. Mamma invece ha già il pigiama e papà è sotto le coperte. Loro sì che sono viaggiatori esperti.",
+        "Va bene, vengo a letto anche io. Mentre guardo il lampadario della camera dei nonni sento papà che dice qualcosa come “Dai più” o “Nai più” o “Mai più”, non capisco bene. Mamma ha borbottato che ci abbiamo messo più tempo che ad attraversare i Balcani, è stata un’avventura.",
+        "Sono proprio contenta! Allora sono stata brava: i miei genitori amano le avventure!",
+        "Non vedo l'ora di fare il viaggio di ritorno.",
+        "Mi piace viaggiare!"
+    ],
+    "timestamp": "2019-08-28T17:26:03Z",
+    "title": "In viaggio con me",
+    "topic_id": 44320,
+    "url": "https://www.writersdream.org/forum/forums/topic/44320-in-viaggio-con-me/"
+}
