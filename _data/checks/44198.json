@@ -60,7 +60,7 @@
     },
     "num_chars": 546,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 783313,
@@ -101,6 +101,14 @@
             ],
             "timestamp": "2019-08-22T11:25:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=784297"
+        },
+        {
+            "post_id": 785148,
+            "text": [
+                "Ciao , grazie! Quando scrivo poesie cerco sempre di non mettere paraventi (soprattutto a me stessa), sono felice di riuscire, ogni tanto, ad incontrare qualcuno con le mie parole ."
+            ],
+            "timestamp": "2019-08-28T20:53:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44198-grida-solo-chi-pu%C3%B2//?do=findComment&comment=785148"
         }
     ],
     "post_staff": [

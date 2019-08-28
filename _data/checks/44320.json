@@ -52,8 +52,28 @@
     },
     "num_chars": 6208,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 785145,
+            "text": [
+                "hai colto perfettamente il senso che volevo dare e mi fa piacere! Quel \"titubare\" in effetti stride, hai ragione, va cambiato.",
+                "Sulla terminologia mista, hai fatto un'eccellente analisi.",
+                "Lo riguarderò alla luce dei tuoi spunti.",
+                "Grazie per aver dedicato tempo a questo brano."
+            ],
+            "timestamp": "2019-08-28T20:21:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44320-in-viaggio-con-me//?do=findComment&comment=785145"
+        },
+        {
+            "post_id": 785147,
+            "text": [
+                "grazie per il commento incoraggiante. È un racconto di vita vissuta, un trauma da sdrammatizzare, con tutte le pupù del caso, però forse sì, per chi legge si può alleggerire un po'!"
+            ],
+            "timestamp": "2019-08-28T20:32:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44320-in-viaggio-con-me//?do=findComment&comment=785147"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Non so ancora se mi piace viaggiare.",
