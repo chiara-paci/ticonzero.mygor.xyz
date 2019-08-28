@@ -111,8 +111,18 @@
     },
     "num_chars": 52,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785053,
+            "text": [
+                "Giusto, , grazie del passaggio.",
+                "E per avere più respiro, protendersi scoperti verso l'alto e l'infinito."
+            ],
+            "timestamp": "2019-08-28T09:27:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44308-a-braccia-nude//?do=findComment&comment=785053"
+        }
+    ],
     "post_staff": [],
     "text": [
         "A braccia nude",
