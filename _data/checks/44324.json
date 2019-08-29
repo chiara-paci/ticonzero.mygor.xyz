@@ -45,8 +45,26 @@
     },
     "num_chars": 2795,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 785225,
+            "text": [
+                "Grazie per l'approfondimento, sì, non avevo fatto caso al doppio per, lo sistemerò.",
+                "La motivazione è nel titolo, ma probabilmente non lo si percepisce. Al figlio piacciono gli occhiali da solo, e suo padre purchè di soddisfarne quotidianamente le sua richiesta, è disposto ad uccidere purchè di averne sempre di nuovi da regalare al figlio. L'idea geminale, è da dove ho tratto l'idea del racconto. Io Solidea amo gli occhiali da sole, ne ho molte paia. Quindi il pensiero di farne un racconto è prioprio scattato dalla mia collezione di occhiali. Attenzione però tutti comprati..."
+            ],
+            "timestamp": "2019-08-29T13:04:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44324-il-piccolo-andrea-conti-pazzo-per-gli-occhiali-da-sole//?do=findComment&comment=785225"
+        },
+        {
+            "post_id": 785231,
+            "text": [
+                "Urca, felice di aver letto il tuo mirato intervento, e grazie per il tempo che hai dedicato a questo raccontino. Scritto ciò premetto che non ho idea di cosa sia \"Commento il tuo acconto per pubblicare nel contest di Ferragosto\". Per tutto il resto ho preso nota. Grazie ancora a rileggerti."
+            ],
+            "timestamp": "2019-08-29T13:33:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44324-il-piccolo-andrea-conti-pazzo-per-gli-occhiali-da-sole//?do=findComment&comment=785231"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il piccolo Andrea Conti pazzo per gli occhiali da sole",
