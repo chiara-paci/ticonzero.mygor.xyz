@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 23804,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 2,
+            "poesia": 0
+        },
+        "name": "solidea",
+        "url": "https://www.writersdream.org/forum/profile/23804-solidea/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5566666666666666,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5566666666666666
+            },
+            "text": [
+                [
+                    "È la tua prima opera che leggo, e ti devo scrivere che i dialoghi sono fantastici. C'è una minuziosa ricerca nei vocaboli. Le battute sono sempre mirate e pungenti. Questo dialogo fra due amici, credo o fratelli, visto che racconti della mano piccola che non sapeva nemmeo scrivere, potrebbe benissimo essere un taglio di una giornata passata all'aria aperta tra due ragazzi, che si pongono delle domande. A volte, profonde altre, leggere, ma sempre taglienti e precise. Non ho idea da dove tu provenga, ma credo, nonostante il brano sia perfetto, ho notato delle briciole di toscanità. Ottimo lavoro."
+                ]
+            ],
+            "timestamp": "2019-08-29T07:24:39Z",
+            "title": "La scoperta",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=785171",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2294,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "ALTA MAREA",
+        "Mi sono girata ancora una volta, per ammirare lo spettacolo delle onde che perivano sulla spiaggia. In quel momento ruzzolai tra i massi, e la gamba destra si incastrò tra le rocce che dividevano l’oceano dalla terra.",
+        "\"Aiuto! Aiuto! Pallino! Pallino!\"",
+        "Ero disperata.",
+        "\"Pallino. No. Non avvicinarti altrimenti cadrai anche tu. Ascoltami. Vai da Rocco e portalo da me.\"",
+        "Feci il cenno con la mano, le braccia erano libere e mi dovevano sorreggere.",
+        "Lo guardavo allontanarsi. Speravo in un suo ritorno.",
+        "Sapevo che avrei avuto solo due ore prima che l'alta marea mi inghiottisse. Mi divincolavo, ma era peggio, ad ogni mossa scivolavo costantemente giù, e mi ferivo.",
+        "Qui da noi, l'imbrunire arriva molto tardi.",
+        "Ed eccoli, i granchi si infilavano su per il pantaloncino, mi agitavo, ma loro camminavano sulla mia pelle escoriata.",
+        "Avevo la sensazione di non farcela.",
+        "Il muschio mi faceva scivolare incessantemente verso il basso.",
+        "Ora il piede giaceva nell'acqua.",
+        "Incominciavo ad aver freddo e sete, le labbra erano ormai secche, l'aria, sempre presente, aveva lavorato bene.",
+        "Il buio arrivò e mi avvolse in questo panorama senza tanti complimenti.",
+        "Nella disperazione, pensavo: \"Sono felice perché morirò nell'abbraccio del mio oceano, poi ho voltato lo sguardo verso il cielo, che mi offriva una magnifica volta stellata.\"",
+        "L’alta marea, subdola e strisciante come tutti i giorni stava per concludere il suo percorso.",
+        "Salata iniziò a calcarmi sul mento, gli arti superiori oramai tremavano, la forza si stava gradatamente esaurendo.",
+        "I dolori si facevano acuti.",
+        "Stavo per mollare, ed allora pensai che: \"Non mi sarei sposata con Rocco, non avrei visto più Napoli.\"",
+        "Sale il riflusso e le lacrime scendono tutto è sale.",
+        "Parlavo al vento. \"La faccio finita stacco la presa e amen.",
+        "Vedrai Veronique qualche minuto, basta non agitarsi..stai...ferma…ferma..immobile...ferm… \"",
+        "Non volevo morire, volevo vedere i miei figli nascere, volevo sposarmi.",
+        "Con un strattone sono riemersa.",
+        "Urlavo.",
+        "Urlavo al cielo, al mare.",
+        "Urlavo per il dolore.",
+        "Poi ho sentito una voce.",
+        "La sua voce.",
+        "\"Mi vedi Rocco, Pallino sono qui.\"",
+        "Iniziavo una nuova vita.",
+        "“Rocco mi porti a fare una passeggia in galleria Umberto?\"",
+        "“Certo Veronique, ragazzi chi ha voglia di spingere la carrozzina della mamma?\"",
+        "fonte germinale: adoro la Bretagna, mi affascina l'alta marea."
+    ],
+    "timestamp": "2019-08-29T07:36:12Z",
+    "title": "alta marea",
+    "topic_id": 44325,
+    "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea/"
+}
