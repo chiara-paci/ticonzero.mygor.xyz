@@ -43,7 +43,7 @@
     },
     "num_chars": 2294,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 785174,
@@ -62,7 +62,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785177"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 785193,
+            "text": [
+                "Ciao",
+                "Abbiamo chiuso. Domani potrai fare un nuovo commento approfondito e mandarlo per messaggio a privato a uno staffer online, che riaprirà la discussione."
+            ],
+            "timestamp": "2019-08-29T09:04:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785193"
+        }
+    ],
     "text": [
         "ALTA MAREA",
         "Mi sono girata ancora una volta, per ammirare lo spettacolo delle onde che perivano sulla spiaggia. In quel momento ruzzolai tra i massi, e la gamba destra si incastrò tra le rocce che dividevano l’oceano dalla terra.",
