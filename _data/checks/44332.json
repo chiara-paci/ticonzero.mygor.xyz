@@ -50,8 +50,23 @@
     },
     "num_chars": 352,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785283,
+            "text": [
+                "ciao Bellardini eh eh...",
+                "Sono abbastanza impressionata da come scrivi e commenti ma sono ancora più colpita dalla sensibilità e dalla profondità delle tue osservazioni, e come al solito sei riuscito a a centrare i punti e le emozioni spiegandole in modo mirabile e assolutamente in linea con le mie intenzioni più interiori",
+                "Ecco questo è anche il valore aggiunto di un commento esterno come il tuo, che apre una riflessione in più su me stessa e sulla mia vita.",
+                "qui le parole sono scritte in modo particolarmente chiaro semplice e comprensibile eppure non avrei mai saputo spiegarle e avvicinarmi al loro significato più intimo in modo così efficace.",
+                "Grazie mi hai commosso.",
+                "I tuoi commenti e le tue osservazioni ( anche critiche) saranno sempre un grande piacere per me.",
+                "A presto"
+            ],
+            "timestamp": "2019-08-29T17:32:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44332-grembo//?do=findComment&comment=785283"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Madre mia,",
