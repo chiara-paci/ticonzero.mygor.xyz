@@ -52,7 +52,7 @@
     },
     "num_chars": 6208,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 785145,
@@ -72,6 +72,14 @@
             ],
             "timestamp": "2019-08-28T20:32:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44320-in-viaggio-con-me//?do=findComment&comment=785147"
+        },
+        {
+            "post_id": 785293,
+            "text": [
+                "noto una certa cognizione di causa 🤣 contenta che ti abbia fatto sorridere!"
+            ],
+            "timestamp": "2019-08-29T19:03:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44320-in-viaggio-con-me//?do=findComment&comment=785293"
         }
     ],
     "post_staff": [],
