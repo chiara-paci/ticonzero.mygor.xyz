@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.47659340659340665,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.47659340659340665
+            },
+            "text": [
+                [
+                    "ciao quello che mi ha colpito prima di tutto sono le parole così ben armonizzate e delicate, poetiche appunto, che certo hanno il suono dolce dell'amore e in cui si percepisce invece - e ci si addolora - la voce dell'autrice che è un suono struggente e malinconico come la voce di un violoncello appassionato e inascoltato. L'amore tenta l'ultima carta ma sembra cadere, proprio come le foglie in autunno che che si disperdono nel vento. Io l'ho percepita così.",
+                    "Molto bella."
+                ],
+                [
+                    "ciao credo di aver fatto un errore precedente richiamando Siria anzichè Sira ...ah ah. Piano piano ce la farò a prendere il via.",
+                    "Dicevo appunto;",
+                    "quello che mi ha colpito prima di tutto sono le parole così ben armonizzate e delicate, poetiche appunto, che certo hanno il suono dolce dell'amore e in cui si percepisce invece - e ci si addolora - la voce dell'autrice che è un suono struggente e malinconico come la voce di un violoncello appassionato e inascoltato. L'amore tenta l'ultima carta ma sembra cadere, proprio come le foglie in autunno che si disperdono nel vento. Io l'ho percepita così.",
+                    "Molto bella."
+                ]
+            ],
+            "timestamp": "2019-08-29T11:30:13Z",
+            "title": "Parole perdute",
+            "url": "https://www.writersdream.org/forum/forums/topic/43724-parole-perdute//?do=findComment&comment=785218",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 352,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Madre mia,",
+        "ogni ora di infanzia negata è una lacrima che non scende",
+        "e che poi diventa sudore e distillato",
+        "povera madre mia, anche tu come me.",
+        "Vieni...",
+        "le lacrime puliranno le nostre ferite,",
+        "e possa almeno tu ritrovare un grembo materno,",
+        "stringiti a me e saremo tutto ciò che non sappiamo.",
+        "Stasera è già notte che se ne andrà.",
+        "Stasera ti canto una ninna nanna..."
+    ],
+    "timestamp": "2019-08-29T14:16:57Z",
+    "title": "Grembo",
+    "topic_id": 44332,
+    "url": "https://www.writersdream.org/forum/forums/topic/44332-grembo/"
+}
