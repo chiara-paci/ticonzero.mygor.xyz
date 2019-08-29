@@ -59,7 +59,7 @@
     },
     "num_chars": 5984,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 783308,
@@ -124,6 +124,17 @@
             ],
             "timestamp": "2019-08-27T10:00:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=784907"
+        },
+        {
+            "post_id": 785183,
+            "text": [
+                "grazie davvero!",
+                "sì esatto, ho immaginato un pomeriggio estivo.",
+                "sono toscano in effetti!",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2019-08-29T08:18:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=785183"
         }
     ],
     "post_staff": [],
