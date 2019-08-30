@@ -60,8 +60,17 @@
     },
     "num_chars": 15928,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785349,
+            "text": [
+                "grazie per il passaggio e il commento."
+            ],
+            "timestamp": "2019-08-30T07:48:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44319-unisola-fuori-dal-tempo//?do=findComment&comment=785349"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Un'isola fuori dal tempo",

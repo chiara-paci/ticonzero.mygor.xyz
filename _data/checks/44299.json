@@ -49,8 +49,19 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785330,
+            "text": [
+                "grazie infinite per il tuo commento.",
+                "Hai perfettamente ragione, in questo problema sono incappata anche in altri racconti. Purtroppo il limite di 8000 caratteri mi ha tolto spazio (ma è solo una scusa, in fondo, essendo fuori concorso, potevo sforare alla grande e passarlo su racconti lunghi). Ma sono contenta che anche questa volta qualcuno me lo abbia fatto notare, rischia di diventare un difetto costante e devo darmi una regolata, fare più attenzione e arrivare al finale con motivazioni consequenziali logiche Ci sto già lavorando.",
+                "Sfortunata, dici? Non sai quanto valore abbia un commento per ognuno di noi. Te ne sono grata."
+            ],
+            "timestamp": "2019-08-30T05:03:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=785330"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«È stato un bene che si siano lasciati» – disse mia zia.",

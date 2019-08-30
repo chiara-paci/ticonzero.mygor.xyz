@@ -55,8 +55,18 @@
     },
     "num_chars": 4816,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 785352,
+            "text": [
+                "Grazie a tutti per i commenti e i complimenti!",
+                "Concordo che alcuni passaggi cazzoni non sono ben inseriti, soprattutto la parte del RioMare, ma per motivi non spiegabili in un forum, era una battuta che aveva senso solo per 3 persone al mondo, tra cui me ovviamente e non ho resistito alla tentazione di inserirla nel racconto"
+            ],
+            "timestamp": "2019-08-30T08:10:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44338-il-mio-gatto-scoreggia//?do=findComment&comment=785352"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Buongiorno,",
