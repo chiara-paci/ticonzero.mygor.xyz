@@ -1,0 +1,81 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , sono tornata su questa tua poesia, perché a volte la velocità della vita ci impedisce di fare quel che hai fatto tu: congelare un momento, raccogliere un fotogramma. Ho in mente da qualche anno, a mia volta, l'immagine di due mani raccolte nelle mie, un gesto semplice, ma inatteso e fragile per certi versi, qualcosa che ferma e protegge. Ecco, ho dovuto forzarmi e fermarmi per vedere quel che hai descritto e quando l'ho fatto, ne sono stata contenta. Nonostante un linguaggio a prima vista costruito, nell'uso di alcuni vocaboli come",
+                    "librare",
+                    "lambire",
+                    "afono",
+                    "ammutisse",
+                    "canto (parola semplice di per sé, ma non in poesia, si carica all'istante e diventa aulica)",
+                    "e in inversioni come",
+                    "all’autunno arrese",
+                    "e",
+                    "dei tuoi palmi",
+                    "faresti conchiglie",
+                    "nonostante questo (io ho una passione viscerale per le parole quotidiane), una volta che sono riuscita a entrare vicino a quell'albero ogni costruzione è sparita ed è stata necessaria. Ho visto le foglie cadere e due mani che non riescono a raccoglierle. Quel",
+                    "dimmi",
+                    "finale mi ha ricordato alcune poesie postate in questo sito a inizio anno, da Mattia (e ora, dimmi) e il dialogo suona sempre di direzione verso qualcuno, di una qualche forza o desiderio, soprattutto quando quel qualcuno lo si chiama in causa senza vederlo.",
+                    "Brava, bella prova, scusa se sono stata una bacchettona sulla costruzione e sulla parole 'auliche', ma alla fine era per dirti che, ok, qui ci sta, suona naturale, appena superati i propri - i miei in questo caso - limiti. Mi rimane un dubbio su ammutisse, ma è un dubbio che potrebbe essere sbagliato, azzittisse non sarebbe lo stesso, ammutisse richiama più visivamente l'essere muti (nella sua m, che è una consonante labiale e quindi richiede che le labbra si serrino).",
+                    "Buona giornata,"
+                ]
+            ],
+            "timestamp": "2019-08-30T14:42:27Z",
+            "title": "Parole perdute",
+            "url": "https://www.writersdream.org/forum/forums/topic/43724-parole-perdute//?do=findComment&comment=785396",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 203,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ogni secrezione",
+        "La emettiamo in silenzio",
+        "Io nel rispetto del tuo",
+        "Tu nel timore di me",
+        "Ogni immagine",
+        "La coltiviamo a parte",
+        "Le mie prolificano",
+        "Di continenti",
+        "Dettagli annunciati",
+        "Le tue sono isole",
+        "Raggiungibili a piedi"
+    ],
+    "timestamp": "2019-08-30T14:44:06Z",
+    "title": "Flussi (corporei)",
+    "topic_id": 44345,
+    "url": "https://www.writersdream.org/forum/forums/topic/44345-flussi-corporei/"
+}
