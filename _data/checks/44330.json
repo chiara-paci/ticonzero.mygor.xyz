@@ -58,8 +58,18 @@
     },
     "num_chars": 5420,
     "num_commenti": 1,
-    "num_posts": 6,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 785340,
+            "text": [
+                "Grazie mille, ragazzi",
+                "Beh… non sempre si incontra. Ma non toccatemi i miei amati cliché"
+            ],
+            "timestamp": "2019-08-30T05:49:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=785340"
+        }
+    ],
     "post_staff": [],
     "text": [
         "[FdI 2019-3] L'umido richiamo della notte",
