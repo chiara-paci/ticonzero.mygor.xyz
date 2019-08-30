@@ -12,13 +12,29 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Complimenti per il racconto, mi è piaciuto molto ho ritrovato grande proprietà di linguaggio. Lo commenterò seguendo la griglia di Writer's dream, che io seguo con la stessa tenacia con cui uno sciamano nativo americano ricerca il suo spirito guida. Per qualche motivo, il browser non mi fa andare a capo. Mi scuso. Trama. Una giornata di malattia, in estate. La visita del medico, le siringhe, il termometro, la sensazione di tedio. Non è una trama particolarmente complicata, ma va bene, anzi è meglio essere semplici in racconti di mille parole. Secondo me rendi bene l'atmosfera, comunque. Personaggi. Il personaggio principale è ben delineato. Mi sa di una donna intelligente, capace, frustrata dalla sua situazione. Il resto della famiglia è appena accennato, ma va bene, è un racconto in soggettiva. Uno squarcio nel mondo della protagonista e soltanto \"suo.\" Originalità. Ho trovato l'idea discretamente originale, ma soprattutto bene eseguita. Quando uno esegue bene, credo l'originalità vada in secondo piano. A meno che forse uno non voglia andare dagli editori... ma anch'io non so bene cosa vogliano, a dire il vero. Stile. Lo stile mi è piaciuto. L'ho trovato ben cadenzato, senza particolari sbavature dal punto di vista ritmico, della scelta dei termini e della sintassi. Grammatica e sintassi. Nulla da ridire. Giudizio finale: ottimo racconto. Magari poteva essere un po' più colorato, se permetti una critica. Mi ha dato un senso di grigiore, che forse però tu volevi trasmettere. Magari ora prova a scrivere qualcosa di più brillante. Lo dico per te, così ti svaghi! Mi scuso per la tirata lunga un solo paragrafo ma, lo ripeto, non riesco ad andare a capo. Probabilmente starò espiando i peccati di qualche vita precedente. A rileggerci!"
+                ]
+            ],
+            "timestamp": "2019-08-30T20:12:49Z",
+            "title": "I giorni della malattia",
+            "url": "https://www.writersdream.org/forum/forums/topic/44343-i-giorni-della-malattia//?do=findComment&comment=785448",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,8 +42,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7857,
-    "num_commenti": 0,
-    "num_posts": 6,
+    "num_commenti": 1,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 785404,
@@ -46,6 +62,22 @@
             ],
             "timestamp": "2019-08-30T17:52:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785422"
+        },
+        {
+            "post_id": 785449,
+            "text": [
+                "Commento a un altro racconto. Mi scuso per il disguido, non mi erano ben chiare le regole del contest."
+            ],
+            "timestamp": "2019-08-30T20:14:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785449"
+        },
+        {
+            "post_id": 785450,
+            "text": [
+                "Ciao, ti ringrazio anche per l'augurio, sono contento il racconto ti sia piaciuto. Sulla poesia: mi limito a dire che prima è nata la poesia, e poi su di essa mi sono ispirato per il racconto. Inizialmente non pensavo di partecipare al contest, ma poi ho cominciato a scrivere due righe ed è andata così. A rileggerci."
+            ],
+            "timestamp": "2019-08-30T20:16:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785450"
         }
     ],
     "post_staff": [],
