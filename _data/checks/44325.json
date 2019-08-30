@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.5566666666666666,
+        "valid": 0.6133333333333333,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -32,9 +32,24 @@
             "title": "La scoperta",
             "url": "https://www.writersdream.org/forum/forums/topic/44201-la-scoperta//?do=findComment&comment=785171",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.6133333333333333
+            },
+            "text": [
+                [
+                    "Chapeau. Non è tanto che vi frequento, quindi ho iniziato a leggere solo i titoli, per poi in un secodno tempo approfondire le varie letture. Il tuo, (scusatidodeltu) mi ha abbagliato,ho pensato cosa mai potrà aver raccontato sulla pasta madre. Ho trovato il racconto a dir poco fantastico, è morbido come la pasta madre, è delicato, è profondo. Hai una padronanza nella scrittura non indifferente, hai scritto delle frasi potenti, che mi hanno atterrito. Io personalmente non ho nulla da segnalare. Per il finale? Non è un giallo, oppure un racconto rosa. È uno spaccato di vita. Come sei entrata in punta di piedi ne esci con la medesima delicatezza."
+                ]
+            ],
+            "timestamp": "2019-08-30T06:26:53Z",
+            "title": "La pasta madre",
+            "url": "https://www.writersdream.org/forum/forums/topic/43241-la-pasta-madre//?do=findComment&comment=785343",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -42,8 +57,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 2294,
-    "num_commenti": 1,
-    "num_posts": 6,
+    "num_commenti": 2,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 785174,
@@ -76,6 +91,17 @@
             ],
             "timestamp": "2019-08-29T09:04:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785193"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 785373,
+            "text": [],
+            "timestamp": "2019-08-30T11:00:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785373"
         }
     ],
     "text": [
