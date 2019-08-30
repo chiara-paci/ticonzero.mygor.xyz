@@ -1,0 +1,102 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno pezzo breve questo!",
+                    "sei sicuro del cranio? Io ho grande esperienza di nausee, ma nel cranio non mi è mai successo di sentirla. Mi limiterei allo stomaco o magari direi che rendeva debole tutto il suo corpo in una sensazione generale di malessere",
+                    "nel mortaio",
+                    "perché aveva? Metterei ha spaventato",
+                    "ad alzarsi, in generale il verbo provare regge \"a\"",
+                    "punto al posto della virgola",
+                    "per? Forse ti è scappato, se no metterei dei puntini di sospensione",
+                    "forse di fiori?",
+                    "mentre ascoltava perché c'è contemporaneità tra dare e ascoltare",
+                    "non ripeterei con questi fiori, lo sappiamo già",
+                    "riformulerei se no sembra che parli dell'erborista: Appena rimasero soli Vera si sedette di fronte al vecchio.",
+                    "Tentò",
+                    "metterei che aveva sul volto",
+                    "toglierei di prima di più",
+                    "capisco cosa vuoi dire, ma credo che la frase vada riformulata per essere espressa meglio",
+                    "toglierei sia E che la virgola",
+                    "metterei solo: si arrese",
+                    "come se si vergognasse, come imbarazzata",
+                    "virgola al posto del punto",
+                    "qui non capisco se intendi senza una scopo nella vita o senza un antagonista",
+                    "preferirei abbastanza al posto di molto",
+                    "metterei: di fronte all'eccentricità della ragazza",
+                    "userei aggiunse al posto di gli disse",
+                    "La storia prosegue senza intoppi, ma con un colpo di scena: Vera non ha aperto la porta. Mi sembra un punto chiave del racconto, in fondo lei non ha fatto l'unica cosa attorno alla quale gira tutto il tuo racconto, spingerei di più sul momento in cui ne parla con il vecchio, aggiungerei sensazioni, esitazioni, insomma, darei più enfasi a quel punto.",
+                    "Alla prossima"
+                ]
+            ],
+            "timestamp": "2019-08-30T05:30:01Z",
+            "title": "Dietro la Porta (parte 11)",
+            "url": "https://www.writersdream.org/forum/forums/topic/44301-dietro-la-porta-parte-11//?do=findComment&comment=785333",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 7389,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Non sapevo che cosa mi aspettava: loro, hanno fatto di me una prostituta.",
+        "Loro, hanno minacciato di prendere mia bambina.",
+        "Dio, proteggila. Proteggi anche me.",
+        "Riportami a casa da mia figlia.",
+        "Voglio riabbracciarli, mia figlia, mia sorella, i miei cugini: in Bulgaria!",
+        "Solo tu puoi riportarmi a casa,",
+        "Amen.",
+        "Cara figlia mia, quanto vorrei abbracciarti. Però sono molto lontana, mia cara Loni.",
+        "Questa lettera è solo per te, amore mio perché vorrei che tu sapessi, che capissi, che in questo mondo non ti puoi fidare di nessuno. Non sei più piccola, bambina mia.",
+        "Voglio raccontarti quello che mi è successo quando sono venuta in Italia. Prima di tutto, quando sono partita tutto quello che sapevo era che sarei andata a lavare piatti in un ristorante. Ho iniziato il viaggio con la gioia nel cuore perché avevo trovato il modo di aiutarti. Sono partita con una grande malinconia nel cuore perché mi stavo allontanando da te e non sapevo quanto tempo sarebbe passato prima di rivederti. Non credere a chi ti dice il contrario. Non sapevo che sarei finita in questo buco. Non sapevo che avrebbero fatto di me una prostituta.",
+        "Mi ha salvata un uomo che lavora con le donne in strada, mi ha portato in un appartamento insieme a Irina. Ti ricordi di Irina che vive nel palazzo giallo di fianco al nostro? Quello quasi nuovo? Quando sono partita c'era anche lei. Siamo partite insieme. Nell'appartamento dove ci ha portato Roberto, così si chiama l'uomo che ci ha tolte dalla strada, c’erano altre tre ragazze. Anche loro erano prostitute, anche loro vengono da paesi come la Bulgaria, dove ci sono tanta campagna e tante fabbriche, ma pochi soldi. Anche loro pensavano di arrivare in Italia per lavare i piatti. Quanti piatti ci sono in Italia? Le ragazze dell'Est, come dicono qui, pensano che ci sono abbastanza piatti per tutte. Ora, dopo tutto quello che è successo, mi chiedo come abbiamo fatto a essere così ingenue. E dire che le voci non mancavano anche a casa, tutte le donne che sono andate via prima di noi e che mandano i soldi a casa, avranno fatto questa fine anche loro? Dove saranno?",
+        "Ogni giorno mi alzo e bevo il caffè insieme a Irina. Fuori c’è il sole, è primavera. Sento gli uccellini cantare e vedo gli alberi verdi. C'è silenzio. Però sto male, sento un peso dentro, continuo a pensare a te, a mia sorella, a tuo padre. Non dimentico nessuno, vi penso sempre, siete l'unica cosa che mi fa sentire forte, che mi fa sentire che può esserci un dopo. Fuori c'è il sole, ma dentro di me piove sempre. Non riesco più a ridere. Quando sarò in Bulgaria andrà finalmente tutto a posto, mi sentirò bene. Al sicuro. Qui a Bologna non mi sento al sicuro. L'unica cosa che voglio è lasciarmi tutto questo alle spalle e tornare a casa, dalla mia famiglia.",
+        "Non so cosa succede qui di preciso, aspettiamo, aspettiamo sempre qualcosa: i documenti, il momento di fare la nostra denuncia, i volontari che ci fanno lezione di italiano. Perché imparare l'italiano? Non mi serve e non mi interessa. La mia esperienza in questo paese è finita e non voglio metterci mai più piede. Voglio solo che Dio mi riporti a casa da te, bambina mia.",
+        "Io e Irina siamo in questa casa da tanto tempo, o almeno a me sembra così. Non succede mai niente, le giornate sono tutte uguali. Alcune delle ragazze che una volta come noi stavano sulla strada ora fanno un lavoro vero. Vivono ancora qui perché hanno paura di stare da sole, ma escono tutte le mattine per andare a fare le pulizie, o a badare a qualche anziano che è rimasto solo. Tutti i giorni vengono anche i volontari, sono simpatici, sono quasi tutti giovani. Insistono per farci imparare a parlare l'italiano, qualche volta cuciniamo insieme, o puliamo la casa. Però non usciamo mai. Questa settimana, però, hanno promesso di portarci in chiesa. Speriamo.",
+        "In questa casa non si può fumare, dobbiamo uscire sul balcone e quando viene la sera mi fa molta paura che entri qualcuno perché il balcone è vicino alla strada. Si può scavalcare senza problemi. Non usciamo mai da sole.",
+        "Non so se Roberto è un uomo buono. Tutte le notti esce con la macchina, dei fazzoletti, dei preservativi, del tè caldo: porta tutto alle prostitute in strada, è così che ci siamo conosciuti. Noi aiutiamo, prepariamo il thermos con il tè e la scatola con preservativi e fazzoletti e biscotti che lui, e i volontari, distribuiscono durante il giro serale.",
+        "Roberto dice che va tutto bene, che dobbiamo aspettare ancora un po' per tornare a casa perché prima bisogna andare al processo per dare la nostra testimonianza. Dopo possiamo tornare a casa, ritornare in Bulgaria. Io e Irina diciamo che va bene, che aspettiamo il processo, dove dovremmo dire chi ci ha fatto tutto questo. Dovremmo raccontare tutto a degli sconosciuti. Ho molta paura. Abbiamo già raccontato la nostra storia e tutto quello che riuscivamo a ricordarci a Erika, che fa la volontaria. Lei ha scritto tutto e poi ha consegnato la nostra storia ai carabinieri. Abbiamo parlato anche con i carabinieri e c’era una ragazza che traduceva le nostre parole.",
+        "Al processo, per la prima volta dopo mesi, saremo nella stessa stanza con la donna che ha portato me e Irina in Italia. La donna che ci ha tenute prigioniere proprio come tuo padre è in galera, amore mio. Solo che noi eravamo rinchiuse dentro a una stanza, in un appartamento, in una città straniera. In un paese che non è il nostro. Non ci lasciavano mai uscire, neanche per andare in bagno. Avevamo un secchio e dovevamo fare tutto lì dentro. La donna che ci ha mentito per venire in Italia era quella che ci portava da mangiare e che svuotava il secchio. Qualche volta sentivamo anche la voce di uomo, però non lo abbiamo mai visto fino alla prima volta che ci hanno portate a lavorare.",
+        "La prima volta che siamo uscite dalla nostra stanza-prigione è stato dopo una settimana che ci trovavamo in Italia, ed è stato per cominciare la nostra nuova professione. Non avevamo ancora idea di quello che sarebbe successo. Non è del tutto vero. Dopo tanti giorni in cui nessuno ci spiegava niente e in cui siamo state trattate come degli animali, lavare dei piatti sembrava una favola che ci eravamo inventate. Sapevamo che stava arrivando qualcosa di brutto, ma non sapevamo di preciso di cosa si sarebbe trattato.",
+        "Quando ci hanno finalmente lasciate uscire, l'unica cosa che avevamo visto dell'Italia si riduceva al parcheggio e ai pochi alberi che riuscivamo a scorgere dalla finestra. Non ne sapevamo più di quanto non sapessimo quando siamo partite. Anche se avevamo molta paura in più e tutta la situazione ci sembrava strana. Ma, a parte essere prigioniere, nessuno ci aveva ancora fatto del male o obbligato a fare niente.",
+        "Quella sera, quando Marina è venuta a portarci da mangiare, ci ha dato anche dei vestiti. «Mangiate e vestitevi, è ora di andare a lavorare». Non abbiamo chiesto niente e lei è andata via. Lo capisco che penserai che siamo due sceme per non aver chiesto niente, per non aver capito niente. Ma era tutto così strano, così sconosciuto. E in fondo noi avevamo fatto quel viaggio per quello. Per lavorare. Avevamo abbandonato i nostri figli, le nostre famiglie, il nostro paese perché non c'era un'altra possibilità.",
+        "Siamo uscite di casa con Marina e siamo salite in una macchina scura dove ci aspettava un uomo. Quando si è messo a parlare con Marina ho subito capito che la voce che sentivamo in casa era la sua.",
+        "Non parlavano con noi, era come non esistere."
+    ],
+    "timestamp": "2019-08-30T05:36:28Z",
+    "title": "Le ragazze - Capitolo 10 - 1/2",
+    "topic_id": 44339,
+    "url": "https://www.writersdream.org/forum/forums/topic/44339-le-ragazze-capitolo-10-12/"
+}
