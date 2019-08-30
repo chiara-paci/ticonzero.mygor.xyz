@@ -58,7 +58,7 @@
     },
     "num_chars": 5420,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 785340,
@@ -68,6 +68,14 @@
             ],
             "timestamp": "2019-08-30T05:49:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=785340"
+        },
+        {
+            "post_id": 785387,
+            "text": [
+                "Cara Adelaide Grazie, come sempre."
+            ],
+            "timestamp": "2019-08-30T13:33:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=785387"
         }
     ],
     "post_staff": [],
