@@ -49,8 +49,18 @@
     },
     "num_chars": 3470,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785468,
+            "text": [
+                "Grazie come al solito. Dato che questa parte era corta ho fatto un po' di revisione, ma credo che per ogni dettaglio che ho corretto ho pure aggiunto un refuso. Alcune delle scelte lessicali erano intenzionali, ma riconosco che anche quando volute varie espressioni richiederebbero termini o forme più adatte che non ho trovato. Non volevo soffermarmi troppo sulla decisione di Vera di non aprire la porta perché speravo fosse chiaro che il mistero di cosa c'è dietro non è più il punto della storia da un po', ma ho qualche idea su come mi ci sarei comunque potuto sottolinearlo in un altro modo.",
+                "Ci vediamo per l'ultima parte."
+            ],
+            "timestamp": "2019-08-30T21:30:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44301-dietro-la-porta-parte-11//?do=findComment&comment=785468"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il vecchio si destò con una forte nausea che gli fluttuava per il cranio e una intensa sensazione di fiacchezza. Accanto a lui l'erborista era impegnata a pestare a mortaio dei boccioli gialli.",
