@@ -27,7 +27,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 0,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 785404,
@@ -38,6 +38,14 @@
             ],
             "timestamp": "2019-08-30T15:39:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785404"
+        },
+        {
+            "post_id": 785422,
+            "text": [
+                "per qualche motivo pensavo che per il concorso non fosse necessario. Chiedo venia, risolvo in serata. È la prima volta che partecipo."
+            ],
+            "timestamp": "2019-08-30T17:52:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785422"
         }
     ],
     "post_staff": [],

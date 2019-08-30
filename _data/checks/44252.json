@@ -47,7 +47,7 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 784100,
@@ -86,6 +86,27 @@
             ],
             "timestamp": "2019-08-25T10:48:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=784626"
+        },
+        {
+            "post_id": 785430,
+            "text": [],
+            "timestamp": "2019-08-30T18:38:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=785430"
+        },
+        {
+            "post_id": 785431,
+            "text": [
+                "Speravo di giocarmi il testa a testa per la classifica, quindi ho filosofeggiato... ma davanti a una bestiola ferita, mamma del cucciolo, che guarisce dalla depressione una donna in crisi è tutto inutile",
+                "A sto punto abbondavo con le terga sanguinolente..."
+            ],
+            "timestamp": "2019-08-30T18:40:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=785431"
+        },
+        {
+            "post_id": 785432,
+            "text": [],
+            "timestamp": "2019-08-30T18:41:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=785432"
         }
     ],
     "post_staff": [],
