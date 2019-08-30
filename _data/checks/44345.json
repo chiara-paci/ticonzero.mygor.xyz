@@ -58,8 +58,17 @@
     },
     "num_chars": 203,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785480,
+            "text": [
+                ", ..grazie!"
+            ],
+            "timestamp": "2019-08-30T22:25:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44345-flussi-corporei//?do=findComment&comment=785480"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ogni secrezione",
