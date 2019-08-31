@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 785404,
@@ -95,6 +95,14 @@
             ],
             "timestamp": "2019-08-31T12:31:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785552"
+        },
+        {
+            "post_id": 785577,
+            "text": [
+                "Ciao, sono contento ti sia piaciuto. Dovendolo riscrivere, magari renderei più esplicito il problema della condizione di salute dei protagonisti. Però non mi piace essere troppo esplicito, perché preferisco che il lettore unisca i puntini. Grazie del passaggio, alla prossima."
+            ],
+            "timestamp": "2019-08-31T14:41:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785577"
         }
     ],
     "post_staff": [],
