@@ -55,7 +55,7 @@
     },
     "num_chars": 4816,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 785352,
@@ -85,6 +85,15 @@
             ],
             "timestamp": "2019-08-31T08:17:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44338-il-mio-gatto-scoreggia//?do=findComment&comment=785507"
+        },
+        {
+            "post_id": 785519,
+            "text": [
+                "Grazie di nuovo per il tempo che mi stai dedicando .",
+                "Ho letto con attenzione e apprezzato moltissimo il tuo intervento. Alcuni temi li condivido in pieno, altri mi trovano mi trovano su posizioni differenti ( ma sono ovviamente scelte e gusti personali). Ma hai colpito ed affondato quando osservi che il racconto manca di equilibrio tra le sue parti: mancanza lapalissiana, quasi banale ma che per qualche strano motivo ho fatto finta (perché come l'ho letto il tuo commento mi sono reso conto di averlo saputo fin dall'inizio pure io) di non vedere in fase di scrittura."
+            ],
+            "timestamp": "2019-08-31T09:04:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44338-il-mio-gatto-scoreggia//?do=findComment&comment=785519"
         }
     ],
     "post_staff": [],
