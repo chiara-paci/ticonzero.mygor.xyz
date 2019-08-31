@@ -57,7 +57,7 @@
     },
     "num_chars": 7966,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 783868,
@@ -103,6 +103,15 @@
             ],
             "timestamp": "2019-08-22T13:37:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44229-sfida-23-erano-piene//?do=findComment&comment=784320"
+        },
+        {
+            "post_id": 785669,
+            "text": [
+                "alle prese con il fantasy, con il contest, pure il tempo per il Penna e Spada, grazie.",
+                "(Passerò a leggere il tuo fantasy a breve:))"
+            ],
+            "timestamp": "2019-08-31T21:22:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44229-sfida-23-erano-piene//?do=findComment&comment=785669"
         }
     ],
     "post_staff": [],
