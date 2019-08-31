@@ -58,7 +58,7 @@
     },
     "num_chars": 5420,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 785340,
@@ -84,6 +84,15 @@
             ],
             "timestamp": "2019-08-31T06:06:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=785494"
+        },
+        {
+            "post_id": 785550,
+            "text": [
+                "Ciao Intes, grazie mille",
+                "Beh, come luogo fisico inesplorato io intendevo il quartiere vecchio e la cave . Mica il loro rapporto."
+            ],
+            "timestamp": "2019-08-31T12:05:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=785550"
         }
     ],
     "post_staff": [],
