@@ -73,7 +73,7 @@
     },
     "num_chars": 7593,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 784621,
@@ -99,6 +99,19 @@
             ],
             "timestamp": "2019-08-25T15:17:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44279-le-ragazze-capitolo-8-22//?do=findComment&comment=784669"
+        },
+        {
+            "post_id": 785500,
+            "text": [
+                "Buongiorno",
+                "no, è una parola inventata, viene dal verbo sfogare",
+                "perché quando si scrive paese riferito a stato va maiuscolo",
+                "venereo, significato Treccani",
+                "il tipo di cliente che mi sta meno antipatico e di cui riesco a comprendere meglio le ragioni è il cosidetto cliente salvatore, quello che salva le ragazze dalla strada insomma",
+                "bella immagine, grazie"
+            ],
+            "timestamp": "2019-08-31T07:33:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44279-le-ragazze-capitolo-8-22//?do=findComment&comment=785500"
         }
     ],
     "post_staff": [],

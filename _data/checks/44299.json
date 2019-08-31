@@ -49,7 +49,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 785330,
@@ -60,6 +60,16 @@
             ],
             "timestamp": "2019-08-30T05:03:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=785330"
+        },
+        {
+            "post_id": 785493,
+            "text": [
+                "constatare che apprezzi la mia scrittura mi inorgoglisce.",
+                "Purtroppo temo rimarrai delusa, mi sono impantanata sulla traccia, o meglio il personaggio mi ha trascinata e e la storia è finita a modo suo (intendo del personaggio). Ciò mi ha spinto a creare il racconto che hai appena commentato.",
+                "Ti confesso che Un'altra volta Parigi, volendo colmare il salto repentino verso la risoluzione, mi sta prendendo la mano, e ho la vaga sensazione possa diventare molto più che un racconto. Grazie infinite per esserti fermata a commentare, grazie per il tuo apprezzamento"
+            ],
+            "timestamp": "2019-08-31T05:54:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=785493"
         }
     ],
     "post_staff": [],

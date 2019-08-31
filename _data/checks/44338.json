@@ -55,7 +55,7 @@
     },
     "num_chars": 4816,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 785352,
@@ -77,6 +77,14 @@
             ],
             "timestamp": "2019-08-30T21:47:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44338-il-mio-gatto-scoreggia//?do=findComment&comment=785472"
+        },
+        {
+            "post_id": 785507,
+            "text": [
+                "Scusate ho riletto solo adesso il mio intervento precedente pieno di strafalcioni ma evidentemente ero ubriaco!"
+            ],
+            "timestamp": "2019-08-31T08:17:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44338-il-mio-gatto-scoreggia//?do=findComment&comment=785507"
         }
     ],
     "post_staff": [],

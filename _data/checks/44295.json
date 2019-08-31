@@ -75,7 +75,7 @@
     },
     "num_chars": 6153,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 784878,
@@ -84,6 +84,16 @@
             ],
             "timestamp": "2019-08-27T06:03:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44295-le-ragazze-capitolo-9-12//?do=findComment&comment=784878"
+        },
+        {
+            "post_id": 785501,
+            "text": [
+                "erika è completamente concentrata nel suo lavoro di riempimento degli scaffali che la assorbe e non la fa pensare a niente altro",
+                "sempre e solo Erika",
+                "questa è una cosa bellissima, Flo! Grazie mille"
+            ],
+            "timestamp": "2019-08-31T07:36:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44295-le-ragazze-capitolo-9-12//?do=findComment&comment=785501"
         }
     ],
     "post_staff": [],
