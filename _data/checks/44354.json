@@ -54,8 +54,21 @@
     },
     "num_chars": 13311,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785595,
+            "text": [
+                "Ciao , grazie per il commento molto approfondito.",
+                "In effetti il testo è ambientato in un passato indefinito, frutto di ricordi della mia Venezia e di racconti di nonna.",
+                "Il finale è volutamente aperto a più interpretazioni, ma le metamorfosi, per quanto mi riguarda, qui nascono dai dolori: il pappagallo cercava la libertà tramite l’odio, diventando così un uomo mostruoso, mentre la donna, prigioniera dell’amore, è riuscita a prendere il volo con una forma nuova e libera.",
+                "Concordo sul discorso diretto, troverò un’altra soluzione!",
+                "Ancora grazie."
+            ],
+            "timestamp": "2019-08-31T16:18:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785595"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sostituti",
