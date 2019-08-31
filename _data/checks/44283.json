@@ -51,7 +51,7 @@
     },
     "num_chars": 7843,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 784676,
@@ -91,6 +91,15 @@
             ],
             "timestamp": "2019-08-29T11:12:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=785216"
+        },
+        {
+            "post_id": 785572,
+            "text": [
+                "Grazie del commento.",
+                "Ho messo subito le cose in chiaro perché non volevo che con le sue battute acide Flavia passasse semplicemente per una stronza. E che la condiscendenza del suo Giangi non risultasse come vittimismo ma venisse recepita come amore incondizionato."
+            ],
+            "timestamp": "2019-08-31T14:13:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=785572"
         }
     ],
     "post_staff": [],
