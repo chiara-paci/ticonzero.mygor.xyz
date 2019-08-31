@@ -12,9 +12,9 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.5,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.9183333333333333,
+        "weight": true
     },
     "closed": false,
     "commenti": [
@@ -43,9 +43,26 @@
             "title": "alta marea",
             "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785545",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8366666666666667
+            },
+            "text": [
+                [
+                    "Ciao , quanta verità!",
+                    "Un flusso di coscienza nel quale mi sono riuscita a immergere con facilità, senza sballottamenti da rapide ma con la giusta dose di piccole scosse. Il calzino, le ciabatte al contrario, il viso che non si vuole riconoscere, il sorriso che si deve trattenere: sono tutti elementi reali ai quali, secondo me, hai saputo porre attenzione, sfruttandoli nel modo giusto. Mi piace molto la voce narrante, con un’invidia non da invidiosa ma da scrittrice, che come tale sa leggere e valutare, amando le parole e chi le scrive.",
+                    "Unica cosa, qui sopra dici che il letto è vuoto, raffreddato dalle assenze (di lui, presumo) per questo io ho pensato che lei vivesse sola. Poi però torna a casa e lo trova lì, come se i due vivessero insieme. È una piccola ambiguità nel loro rapporto, forse ho frainteso io ma non mi è chiarissima la situazione."
+                ]
+            ],
+            "timestamp": "2019-08-31T13:11:36Z",
+            "title": "Stanotte scrivi per me",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=785561",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -53,7 +70,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 13311,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 3,
     "post_after": [
         {
