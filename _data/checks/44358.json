@@ -74,7 +74,7 @@
     },
     "num_chars": 6108,
     "num_commenti": 2,
-    "num_posts": 10,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 785726,
@@ -103,6 +103,14 @@
             ],
             "timestamp": "2019-09-01T15:49:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785798"
+        },
+        {
+            "post_id": 785854,
+            "text": [
+                "Ahahah, quoto il tuo spoiler , e ti rispondo di sì"
+            ],
+            "timestamp": "2019-09-01T20:39:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785854"
         }
     ],
     "post_staff": [],

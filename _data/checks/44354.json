@@ -71,7 +71,7 @@
     },
     "num_chars": 13311,
     "num_commenti": 2,
-    "num_posts": 3,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 785595,
@@ -84,6 +84,23 @@
             ],
             "timestamp": "2019-08-31T16:18:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785595"
+        },
+        {
+            "post_id": 785860,
+            "text": [
+                "Grazie , troppo buona!"
+            ],
+            "timestamp": "2019-09-01T20:56:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785860"
+        },
+        {
+            "post_id": 785865,
+            "text": [
+                "Grazie ! Non speravo in una critica così positiva 😄",
+                "Correggerò tutti i refusi quanto prima; sul presente dovrò trovare un compromesso, ma capisco la perplessità e ci lavorerò sopra 😊"
+            ],
+            "timestamp": "2019-09-01T21:18:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785865"
         }
     ],
     "post_staff": [],
