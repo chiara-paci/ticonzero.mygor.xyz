@@ -74,7 +74,7 @@
     },
     "num_chars": 6108,
     "num_commenti": 2,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 785726,
@@ -95,6 +95,14 @@
             ],
             "timestamp": "2019-09-01T13:43:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785769"
+        },
+        {
+            "post_id": 785798,
+            "text": [
+                "Madonna, quello diventa arduo più da leggere che da scrivere! Comunque Veronesi tre o quattro punti, effettivamente, li mette. OK, voglio continuare il gioco, proverò a postare una versione con pochi punti al punto giusto"
+            ],
+            "timestamp": "2019-09-01T15:49:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785798"
         }
     ],
     "post_staff": [],
