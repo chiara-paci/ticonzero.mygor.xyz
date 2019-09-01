@@ -60,7 +60,7 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 783908,
@@ -125,6 +125,19 @@
             ],
             "timestamp": "2019-08-24T00:14:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=784470"
+        },
+        {
+            "post_id": 785736,
+            "text": [
+                "grazie per il commento! Mi fa molto piacere che ti sia piaciuto.",
+                "rispondo al tuo dubbio, perché mi pare l'abbiano avuto anche altri:",
+                "pensavo che questa frase bastasse a spiegare che il cannibalismo non è una pratica abituale, diciamo che si arrangiano con quel che passa il convento... Quindi se arriva un \"ospite\" e sono a corto di carne lo mangiano, altrimenti no (non sono mica selvaggi...) Invece, quanto al fatto che lascino i cadaveri ammucchiati lì, hai ragione, in effetti è poco igienico e ha poco senso, quindi ci penserò su",
+                "Rispondo anche a te anche se in ritardo, perché anche Macleo mi pare si sia fatto la stessa domanda",
+                "L'hanno scritta prima di morire, non perché pensassero che il posto era pericoloso (altrimenti immagino avrebbero lasciato un messaggio più serio e diretto), ma solo per divertimento, tipo: \"Oh, guarda quell'antica tomba... Non sarebbe forte scriverci qualcosa?\" \"Dai, grande, prendo lo scalpello!\" (il perché i due girassero con uno scalpello nello zaino è invece una storia lunga e complicata, che forse prima o poi racconterò )",
+                "Grazie per il tuo passaggio"
+            ],
+            "timestamp": "2019-09-01T11:04:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=785736"
         }
     ],
     "post_staff": [],
