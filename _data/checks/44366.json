@@ -16,7 +16,7 @@
         "valid": 0.36777777777777776,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -45,9 +45,23 @@
     },
     "num_chars": 430,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 785808,
+            "text": [
+                "purtroppo il tuo commento non è abbastanza approfondito per postare un proprio testo in officina. Chiudo. Quando avrai fatto un commento più esaustivo invialo tramite MP a uno staffer e riapriremo la discussione."
+            ],
+            "timestamp": "2019-09-01T16:54:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44366-roma-esiste//?do=findComment&comment=785808"
+        }
+    ],
     "text": [
         "Acido, cemento e cielo immenso.",
         "Urlano i vizi più meschini",
