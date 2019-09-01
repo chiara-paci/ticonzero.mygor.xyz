@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 36,
+    "num_posts": 37,
     "post_after": [
         {
             "post_id": 783850,
@@ -312,6 +312,14 @@
             ],
             "timestamp": "2019-09-01T18:01:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=785815"
+        },
+        {
+            "post_id": 785841,
+            "text": [
+                "Grazie : mi fai arrossire dalla contentezza."
+            ],
+            "timestamp": "2019-09-01T19:59:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=785841"
         }
     ],
     "post_staff": [],
