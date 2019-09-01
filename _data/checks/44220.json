@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.95,
+        "valid": 0.998131868131868,
         "weight": true
     },
     "closed": false,
@@ -21,12 +21,15 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.95
+                "valid": 0.998131868131868
             },
             "text": [
                 [
                     "Caro Un racconto con dei concetti che sembrano lineari ma non sufficienti a far riflettere colui che comanda è il responsabile di tutto ciò di criminale che commette l'armata al suo comando: In pratica se si commettano atti di violenza carnale, è lui di persona che sta commettendo quel reato, se si sta attuando un genocidio, è lui che lo sta facendo di persona, quindi è solo lui che in pratica lo commette e di conseguenza ne risentono anche i famigliari. prendiamo per esempio il comandante serbo Milosevic, quando la figlia da lui adorata venne a conoscenza che il padre era responsabile di tutte le atrocità commesse dalla truppa al suo comando, si suicidò.",
                     "È cosa molto difficile per un dilettante come me, poter notare qualche errore di grammatica o di punteggiatura ad un campione come te, inoltre se lo letto fino in fondo significa che il suo contenuto è facile da intuire. Grazie per la lettura ti auguro un buon fine settimana e tanta fortuna."
+                ],
+                [
+                    "Cari e La cosa più ingiusta è che ad essere processati per i loro crimini sono soltanto i vinti. Ovvero i vincitori per essere dichiarati tali di certo non ne hanno commesso di meno di stupri e violenze contro donne, uomini, bambine e bimbi maschi. Chi li ha processati, chi di costoro ha pagato per crimini commessi addirittura anche dopo la dichiarazione di guerra finita si sono verificate crimini atroci come le Foibe. È meglio che mi sto zitto e che non aggiunga altro, potrei anche esplodere. Buona domenica e scusate lo sfoco."
                 ]
             ],
             "timestamp": "2019-08-17T14:23:37Z",
