@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.37222222222222223,
+        "valid": 0.37164835164835164,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.7444444444444445
+                "valid": 0.7432967032967033
             },
             "text": [
                 [
@@ -33,6 +33,9 @@
                     "Mi accodo anche io sui dubbi dei \"?!?\" forse usati un pò troppo.",
                     "Ma sono dettagli.",
                     "Si legge che è una bellezza, bravo!"
+                ],
+                [
+                    "Ho sottovalutato il potere delle repliche di Italia1 immagino..."
                 ]
             ],
             "timestamp": "2019-08-31T14:05:23Z",

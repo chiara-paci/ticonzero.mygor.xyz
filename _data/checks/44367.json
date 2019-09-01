@@ -1,0 +1,77 @@
+{
+    "author": {
+        "author_id": 2390,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "danieler",
+        "url": "https://www.writersdream.org/forum/profile/2390-danieler/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.18888888888888888,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.18888888888888888
+            },
+            "text": [
+                [
+                    "Personalmente preferisco la prima stesura. Togliendo \"foglie\" non ci sono quasi più sinestesie interessanti, rimane poco di poetico. \"Nulla\" l'avrei lasciato in maiuscolo, visto che mi sembra tu intenda un modo di vivere, qualcosa di essenziale, che informa l'esistenza."
+                ]
+            ],
+            "timestamp": "2019-09-01T18:23:48Z",
+            "title": "Pornografia",
+            "url": "https://www.writersdream.org/forum/forums/topic/44064-pornografia//?do=findComment&comment=785818",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 282,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 785826,
+            "text": [
+                "anche se il tuo commento tocca diversi punti è troppo sintetico e avresti dovuto svilupparlo ulteriormente. Questo è obbligatorio quando si usa un commento per postare un proprio testo. Chiudo. Per riaprire la discussione dovrai fare un commento più approfondito e inviarne il link tramite MP a uno staffer."
+            ],
+            "timestamp": "2019-09-01T18:35:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44367-tu//?do=findComment&comment=785826"
+        }
+    ],
+    "text": [
+        "Tu mi fai pensare di più alla morte.",
+        "Mi fai pensare al vuoto e al nulla",
+        "come a stati migliori dell'esistere, del superfluo.",
+        "A una bocca che deve parlare,",
+        "a un cervello costretto a pensare,",
+        "a un tempo non morto,",
+        "a un amore che dura più di un giorno.",
+        "Tu mi fai pensare alle forme del dovere."
+    ],
+    "timestamp": "2019-09-01T18:30:47Z",
+    "title": "Tu",
+    "topic_id": 44367,
+    "url": "https://www.writersdream.org/forum/forums/topic/44367-tu/"
+}
