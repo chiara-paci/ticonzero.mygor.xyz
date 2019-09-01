@@ -53,7 +53,7 @@
     },
     "num_chars": 7931,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 783960,
@@ -119,6 +119,18 @@
             ],
             "timestamp": "2019-08-24T21:24:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=784587"
+        },
+        {
+            "post_id": 785695,
+            "text": [
+                ", grazie del passaggio e dell'apprezzamento.",
+                "Le frasi che mi hai evidenziato, che sono quelle che hanno indicato un po' tutti, sono un ulteriore esempio della difficoltà che ho nel rileggere un mio testo come se fosse \"nuovo\".",
+                "Altrimenti, avrei dovuto capire da solo che non era chiaro, per esempio che lui non vede la baita abbastanza chiaramente da capire in che stato sia.",
+                "Sto cercando un sistema per superare questa difficoltà: proverò a spulciare il forum per vedere se ci sia già una discussione al riguardo.",
+                "Per il resto, grazie ancora per la \"fiducia\" che dai al brano, e a rileggerci."
+            ],
+            "timestamp": "2019-09-01T07:32:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=785695"
         }
     ],
     "post_staff": [],

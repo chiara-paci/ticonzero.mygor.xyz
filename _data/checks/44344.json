@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 785404,
@@ -103,6 +103,15 @@
             ],
             "timestamp": "2019-08-31T14:41:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785577"
+        },
+        {
+            "post_id": 785704,
+            "text": [
+                "geniale è una parola grossa, però mi piace trasmettere qualcosa coi miei racconti, spero d'esserci riuscito. Grazie del passaggio, a rileggerci.",
+                "Ciao grazie per l'augurio, spero tu abbia gradito il racconto. A rileggerci."
+            ],
+            "timestamp": "2019-09-01T08:05:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785704"
         }
     ],
     "post_staff": [],
