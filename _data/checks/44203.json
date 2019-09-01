@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 43,
+    "num_posts": 45,
     "post_after": [
         {
             "post_id": 783367,
@@ -246,6 +246,14 @@
             ],
             "timestamp": "2019-08-26T21:53:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=784852"
+        },
+        {
+            "post_id": 785767,
+            "text": [
+                "Grazie mille , mi fai sempre arrossire. Non sei la prima che ha perplessità sul titolo, e per merito di so che titolo metterci. \"Prima o poi rincontreremo il mare\". Sai, devo ancora capire se la differenza di stili è un punto di forza o di debolezza. Certo, saper variare è un bene, ma credo che probabilmente sto ancora cercando la mia voce"
+            ],
+            "timestamp": "2019-09-01T13:40:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=785767"
         }
     ],
     "post_staff": [],

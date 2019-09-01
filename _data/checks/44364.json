@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9777777777777777,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9777777777777777
+            },
+            "text": [
+                [
+                    "Ciao percepisco nella tua poesia un momento di dolore, che diventa visione e anche si concretizza in una descrizione quasi fisica tangibile, che non urla ma mette in scena e poi rinasce e si fa sentire in uno stato d'animo fortemente personale ma forse anche universale e volutamente condiviso. Sono qui con i miei dolori, ferito sanguinante - ve lo dico - la guerra peggiore si combatte senza armi - Ma io ci sono, sono qui e combatto.",
+                    "Perdonami, non ho capito il titolo.",
+                    "La tregua sinonimo di : interruzione ,armistizio cessazione momentanea, sosta, arresto, blocco ecc... per indicare il desiderio di una Tregua",
+                    "che dice: \"mi sono preso un respiro per parlare e sfogarmi \" oppure \" Non ce la faccio più : Aiuto - riposo - serenita - pace -",
+                    "Vorrei anche capire perché hai deciso di mettere in corsivo i due passaggi a seguire",
+                    "Ho pensato perché volevi dividere la riflessione reale dalla visione, ma non saprei.",
+                    "Comunque alziamo i calici!",
+                    "Piaciuta e grazie per il tuo passaggio alla mia"
+                ]
+            ],
+            "timestamp": "2019-09-01T13:34:08Z",
+            "title": "La tregua",
+            "url": "https://www.writersdream.org/forum/forums/topic/44360-la-tregua//?do=findComment&comment=785764",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 283,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Gelide urla di madri",
+        "senza più lacrime,",
+        "e noi muti, cechi...",
+        "Il nostro odore",
+        "è di fiori inventati",
+        "e avanziamo nel nulla",
+        "come statue di gesso.",
+        "La fine ci parlerà…",
+        "Se polvere siamo",
+        "insieme ritorneremo.",
+        "E allora si…",
+        "che sarà bellezza",
+        "e concime d’amore",
+        "e vita che rinasce",
+        "e silenzio che urla",
+        "di verità."
+    ],
+    "timestamp": "2019-09-01T14:15:13Z",
+    "title": "Madre terra",
+    "topic_id": 44364,
+    "url": "https://www.writersdream.org/forum/forums/topic/44364-madre-terra/"
+}
