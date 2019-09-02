@@ -53,7 +53,7 @@
     },
     "num_chars": 7931,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 783960,
@@ -141,6 +141,16 @@
             ],
             "timestamp": "2019-09-02T20:28:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=786082"
+        },
+        {
+            "post_id": 786095,
+            "text": [
+                "Ah, visto che la questione pare interessare, ho trovato una discussione di falegnameria in cui ci sono delle foto di una porta incardinata col principio che intendevo io:",
+                "http://www.legnofilia.it/viewtopic.php?p=111524",
+                "L'asse dei cardini della porta, quando ruota, risulta inclinato, e quindi il baricentro si alza: il peso spinge a riportarlo in basso, e quindi in posizione chiusa o (se supero i 90° gradi di apertura) spalancata. L'idea è che il protagonista, sentendo il peso della porta che resiste al suo tentativo di aprirla, pensi a qualcuno che la spinga dall'interno."
+            ],
+            "timestamp": "2019-09-02T20:55:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=786095"
         }
     ],
     "post_staff": [],
