@@ -34,6 +34,9 @@
                     "Giudizio finale. Sicuramente vedo un ottimo talento che vuole essere affinato. Ecco, magari ti consiglio di leggere un autore come il già citato Guareschi, per assaporare il gusto di una nobile semplicità e sfrondare così i tuoi scritti molto interessanti, ma sicuramente \"editabili\".",
                     "Ricorda che questa è solo un'opinione di uno scrittore dilettante... prendila per quel che è.",
                     "Auguri per le prossime storie. A rileggerci."
+                ],
+                [
+                    "immaginavo il pappagallo significasse qualcosa, grazie per la tua spiegazione. A presto."
                 ]
             ],
             "timestamp": "2019-09-02T11:10:33Z",
@@ -51,8 +54,18 @@
     },
     "num_chars": 10846,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785991,
+            "text": [
+                "Ciao, ti ringrazio per aver segnalato i refusi. Mi spiace l'ambientazione del racconto non ti abbia convinto. Onestamente volevo fare un omaggio affettuoso, ma anche parlare un po' di come funzionano i rapporti umani. Diciamo che questa era la mia idea di \"rivisitazione\" del genere. Non saprei onestamente come altrimenti scriverla. Sarei curioso di sentire le tue idee al riguardo. In che senso si potrebbe cominciare un'esplorazione? Cosa rivisiteresti? E come?",
+                "Ti ringrazio per l'attenzione e a rileggersi."
+            ],
+            "timestamp": "2019-09-02T14:28:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44374-le-avventure-di-felicia-imbriani//?do=findComment&comment=785991"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Felicia Imbriani era scocciata. Intanto, la sua intera esistenza era già stata determinata da una stupida scelta. Per tutti i suoi compagni di scuola sarebbe sempre stata e soltanto la ex fidanzata di Dimensional Boy, amichevole supereroe di quartiere. In altre parole, Vinicio Squadri: un vero impiastro, anzi, un super-impiastro di dimensioni (perdonate il gioco di parole) veramente colossali.",

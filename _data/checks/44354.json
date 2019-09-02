@@ -71,7 +71,7 @@
     },
     "num_chars": 13311,
     "num_commenti": 2,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 785595,
@@ -101,6 +101,17 @@
             ],
             "timestamp": "2019-09-01T21:18:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785865"
+        },
+        {
+            "post_id": 785949,
+            "text": [
+                "Ciao , grazie per la lettura e per il commento.",
+                "Questo testo è stato un esperimento, perché di solito scrivo cose molto più brevi e con descrizioni appena accennate (pennellate, o almeno quello è l’intento); probabilmente devo prendere il ritmo e inserire più pause: non voglio certo far schiantare il lettore contro un muro di parole!",
+                "Riguardo ai personaggi, ho cercato di dipingerli più che di spiegarli, forse il gioco non mi è riuscito 😬",
+                "E il pappagallo... nella mia famiglia è sempre stato associato alla morte, non so perché, molto più di corvi o simili. Quando mia nonna mi ha accennato a una donna che, lasciata sola dal marito, ha iniziato ad assomigliare in modo sorprendente al proprio pappagallo, ho visto l’atmosfera tinta per tinta. Sono uccelli così intelligenti, e così testardi quando decidono di odiare qualcuno!"
+            ],
+            "timestamp": "2019-09-02T11:58:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44354-sostituti//?do=findComment&comment=785949"
         }
     ],
     "post_staff": [],

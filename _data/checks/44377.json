@@ -1,0 +1,69 @@
+{
+    "author": {
+        "author_id": 32276,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "spaiato",
+        "url": "https://www.writersdream.org/forum/profile/32276-spaiato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Che dire? Davvero splendida. Formalmente è molto curata, pulita, levigata. Senza tanti fronzoli, e in pochi versi, sei riuscita a comunicare tanto e in modo efficace. Anche la scelta lessicale denota cura e attenzione; bello quel”prolificano”. Le immagini scelte sono di grande impatto, soprattutto la chiusa splendida che toglie il respiro.",
+                    "Mi piace la contrapposizione tra la sfera carnale, dei primi versi, e quella più mentale ed emotiva dei successivi, con quelle “immagini” coltivate a parte, singolarmente, che mi fanno pensare a modi di pensare, sogni, aspirazioni e sentimenti che i due soggetti della poesia non condividono più tra di loro, ma anzi vivono in modo completamente opposto (come si intuisce nella chiusa). I continenti mi fanno pensare a sogni, progetti, aspirazioni grandi, non attuabili nell'immediato, ma più profondi. Le isole raggiungibili a piedi mi fanno pensare a qualcosa di meno profondo, più immediato, più pratico, più povero (anche perché le isole sono più piccole rispetto ai continenti).",
+                    "Tutta la poesia mi trasmette un senso di incomunicabilità, di qualcosa che si è rotto, di modi di vivere il rapporto completamente divergenti.",
+                    "Le secrezioni emesse in silenzio, il timore della mancanza di rispetto, mi danno l'idea del poco afflato emotivo anche nella sfera carnale. È una metafora che si collega bene con quella della chiusa e la completa, trasmettendo in modo cristallino l'idea di un'intesa che ormai si è sgretolata.",
+                    "Il linguaggio utilizzato, tra l'altro, è molto delicato ed elegante. Anche il termine “secrezione” è perfetto, in quanto può rimandare alla sfera carnale (come l'ho interpretato io) ma non solo, può alludere comunque a una condivisione (mancata) di più ampio respiro.",
+                    "Ciao, a rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-09-02T13:53:14Z",
+            "title": "Flussi (corporei)",
+            "url": "https://www.writersdream.org/forum/forums/topic/44345-flussi-corporei//?do=findComment&comment=785978",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 191,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "Come back",
+        "Il mio sorriso è una casa",
+        "nella quale trascorro",
+        "ultimamente poco tempo.",
+        "Passo fuori",
+        "gran parte del giorno:",
+        "qui, sui gradini d'ingresso,",
+        "in attesa di un tuo ritorno."
+    ],
+    "timestamp": "2019-09-02T13:56:53Z",
+    "title": "Come back",
+    "topic_id": 44377,
+    "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back/"
+}

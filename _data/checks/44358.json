@@ -74,7 +74,7 @@
     },
     "num_chars": 6108,
     "num_commenti": 2,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 785726,
@@ -111,6 +111,14 @@
             ],
             "timestamp": "2019-09-01T20:39:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785854"
+        },
+        {
+            "post_id": 785976,
+            "text": [
+                "Daje!"
+            ],
+            "timestamp": "2019-09-02T13:31:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44358-punto-gospel-per-voce-e-bottiglia//?do=findComment&comment=785976"
         }
     ],
     "post_staff": [],
