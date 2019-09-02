@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 48,
+    "num_posts": 49,
     "post_after": [
         {
             "post_id": 783367,
@@ -265,6 +265,14 @@
             ],
             "timestamp": "2019-09-01T20:34:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=785853"
+        },
+        {
+            "post_id": 785890,
+            "text": [
+                "E hai ragione anche tu, . Quella internazionale è la legge del più forte"
+            ],
+            "timestamp": "2019-09-02T06:22:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=785890"
         }
     ],
     "post_staff": [],
