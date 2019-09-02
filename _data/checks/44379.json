@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.31722222222222224,
+        "valid": 0.3651098901098901,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.6344444444444445
+                "valid": 0.7302197802197802
             },
             "text": [
                 [
@@ -33,6 +33,11 @@
                     "Qui invece non è chiarissimo ( con errore):",
                     "Il succo invece: ho trovato tutto al posto giusto, personaggi, storiella simpatica ma non mi ha conquistato.",
                     "Credo sia causa principalmente dovuta all'ambientazione, cioè quella dei supereroi degli albori, tipo le storie degli anni '60, che personalmente non amo più molto. Il tuo omaggio è perfetto, pure troppo, è questo il mio problema. Avrei preferito una rivisitazione di qualche genere. Ma ovviamente in questo giudizio pesano moltissimo i miei gusti personali che mi fanno mal digerire l'ambientazione! Tienine conto."
+                ],
+                [
+                    "provo a spiegarmi meglio.",
+                    "Una piccola premessa: sono un grandissimo appassionato di fumetti!",
+                    "Detto questo, la tua storia poteva benissimo essere trasposta in un episodio del telefilm di Batman degli anni '60: sai quella in cui danno un pugno e vedi la scritta SBAM? Quella. Bene sappi che mi sono visto tutte le puntate, letto tutte le storie, ma adesso se ne vedo una mi viene l'orticaria! Era chiaramente la tua intenzione e quindi va benissimo, si tratta di gusti e come ti dicevo è un problema dei miei non certo dei tuoi! Detto questo l'idea è tutt'altro che malvagia ma, sempre per i miei gusti, vedrei molto bene la stessa storia, magari anche stessi personaggi (più o meno) ma rapporti più seri. Mantenere quindi l'ambientazione supereroistica dei tempi \"ingenui\" se mi permetti il termine ma un rapporto umano più maturo ( tipo una moglie tradita o qualcosa del genere) in modo da creare un contrasto. Ma sono gusti miei ripeto!"
                 ]
             ],
             "timestamp": "2019-09-02T14:16:26Z",

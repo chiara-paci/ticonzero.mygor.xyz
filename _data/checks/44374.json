@@ -54,7 +54,7 @@
     },
     "num_chars": 10846,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 785991,
@@ -64,6 +64,22 @@
             ],
             "timestamp": "2019-09-02T14:28:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44374-le-avventure-di-felicia-imbriani//?do=findComment&comment=785991"
+        },
+        {
+            "post_id": 786006,
+            "text": [
+                "Credo di avere più o meno capito cosa intendi dire. In realtà la storia parla di rapporti umani, anche se tra adolescenti. Forse sta qui il problema. Ti ringrazio comunque per aver chiarito ulteriormente il tuo pensiero. A presto."
+            ],
+            "timestamp": "2019-09-02T15:02:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44374-le-avventure-di-felicia-imbriani//?do=findComment&comment=786006"
+        },
+        {
+            "post_id": 786054,
+            "text": [
+                "in effetti non avevo pensato a un romanzo su Dimensional Boy, più che altro perché penso le persone non ne possano più di supereroi. Però mi sto affezionando a lui. Ti ringrazio per aver segnalato la lungaggine del romanzo e tutto il resto, grazie mille. Segnalo che qui i dialoghi sono più curati perché tutti in metrica (più o meno) anche se forse danno una sensazione di tedio. Ciao grazie."
+            ],
+            "timestamp": "2019-09-02T18:08:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44374-le-avventure-di-felicia-imbriani//?do=findComment&comment=786054"
         }
     ],
     "post_staff": [],
