@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 785404,
@@ -112,6 +112,15 @@
             ],
             "timestamp": "2019-09-01T08:05:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785704"
+        },
+        {
+            "post_id": 785883,
+            "text": [
+                "Ciao, sono contento ti sia piaciuto il racconto e tu ne abbia preso appieno lo spirito. Mi spiace d'essere andato un po' fuori traccia. Io pensavo che l'esplorazione della nuova casa, e della stanza della nuova amica, del comodino, delle poesie, giù in cucina coi genitori ecc. andasse bene, ma evidentemente la tematica dell'esplorazione non emerge a sufficienza perché non sei il primo a farmelo notare. Cercherò di essere più attinente nei prossimi.",
+                "A rileggersi."
+            ],
+            "timestamp": "2019-09-02T04:16:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=785883"
         }
     ],
     "post_staff": [],
