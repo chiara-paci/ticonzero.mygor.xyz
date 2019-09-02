@@ -53,7 +53,7 @@
     },
     "num_chars": 7931,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 783960,
@@ -131,6 +131,16 @@
             ],
             "timestamp": "2019-09-01T07:32:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=785695"
+        },
+        {
+            "post_id": 786082,
+            "text": [
+                "Ciao , e grazie per l'apprezzamento.",
+                "Il nome in realtà glielo avevo anche trovato, perché ricordavo che anche nel racconto precedente avevo un protagonista innominato, ma alla fine non ho trovato un punto naturale in cui inserirlo. È da solo, e non deve rapportarsi con nessuno: e i nomi servono quando dobbiamo indicarci gli uni agli altri. L'unica sarebbe stata infilarlo quando pensava se era matto quanto il compilatore del diario:",
+                "ma non so quanto sarebbe stato bene..."
+            ],
+            "timestamp": "2019-09-02T20:28:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44239-fdi-2019-3-la-casa-del-matto//?do=findComment&comment=786082"
         }
     ],
     "post_staff": [],
