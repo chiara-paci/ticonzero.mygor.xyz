@@ -56,7 +56,7 @@
     },
     "num_chars": 7988,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 783759,
@@ -153,6 +153,32 @@
             ],
             "timestamp": "2019-08-26T08:44:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=784732"
+        },
+        {
+            "post_id": 785914,
+            "text": [
+                "Ciao volevo dare l'idea di una ragazza che si è lasciata un po' andare, che non si è preoccupata di sistemare casa perché ha altre preoccupazioni che la affliggono.",
+                "Grazie per essere ripassata."
+            ],
+            "timestamp": "2019-09-02T08:51:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=785914"
+        },
+        {
+            "post_id": 785916,
+            "text": [
+                "Ciao , sì sono un uomo quindi grazie del complimento e grazie per aver letto e commentato. A presto."
+            ],
+            "timestamp": "2019-09-02T08:53:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=785916"
+        },
+        {
+            "post_id": 785917,
+            "text": [
+                "Ciao , innanzitutto ti ringrazio per le cose che mi hai fatto notare che stridono un po'. Alcune cose andrebbero smussate e rese più chiare. Per il finale ti posso dire che i due vivono insieme, soltanto che lui lavora spesso di notte.",
+                "Grazie per la lunga analisi. A presto."
+            ],
+            "timestamp": "2019-09-02T08:58:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=785917"
         }
     ],
     "post_staff": [],
