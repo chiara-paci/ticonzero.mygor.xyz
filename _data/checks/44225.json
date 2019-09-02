@@ -70,7 +70,7 @@
     },
     "num_chars": 7977,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 783732,
@@ -107,6 +107,14 @@
             ],
             "timestamp": "2019-08-20T16:07:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44225-fdi-2019-3-terra-di-nessuno-ad-1956//?do=findComment&comment=784040"
+        },
+        {
+            "post_id": 786037,
+            "text": [
+                "Ma noi siamo ancora immortali, e lo saremo sino a quando moriremo."
+            ],
+            "timestamp": "2019-09-02T17:25:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44225-fdi-2019-3-terra-di-nessuno-ad-1956//?do=findComment&comment=786037"
         }
     ],
     "post_staff": [],
