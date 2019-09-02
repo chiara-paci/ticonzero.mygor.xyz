@@ -65,7 +65,7 @@
     },
     "num_chars": 5073,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 785331,
@@ -79,6 +79,16 @@
             ],
             "timestamp": "2019-08-30T05:05:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44298-le-ragazze-capitolo-9-22//?do=findComment&comment=785331"
+        },
+        {
+            "post_id": 785894,
+            "text": [
+                "Buongiorno",
+                "Devi sempre considerare questi pezzi come capitoli unici, questo e il 9-1/2 sono uniti, magari legegndoli insieme sono più bilanciati? Non lo so nemmeno io, credo sarà una cosa che capirò solo alla fine con una lettura e revisione integrale.",
+                "Grazie mille di leggermi!"
+            ],
+            "timestamp": "2019-09-02T06:58:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44298-le-ragazze-capitolo-9-22//?do=findComment&comment=785894"
         }
     ],
     "post_staff": [],

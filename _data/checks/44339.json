@@ -67,8 +67,21 @@
     },
     "num_chars": 7389,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 785895,
+            "text": [
+                "no, hai ragione, non ci avevo nemmeno pensato. Sono state tradotte in italiano e questo è successo davvero, da una ragazza bulgara che parlava bene italiano, ma non lo scriveva bene. Questo lo so io e non l'ho detto a nessun altro, quindi mi sembra giustificato che tu ti trovi in difficoltà...",
+                "hai colto esattamente il punto!",
+                "Grazie caro",
+                "solo perché mi piaceva spezzare la narrazione con dei pezzi diversi, per nessun'altra ragione",
+                "Grazie mille Flo"
+            ],
+            "timestamp": "2019-09-02T07:02:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44339-le-ragazze-capitolo-10-12//?do=findComment&comment=785895"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Non sapevo che cosa mi aspettava: loro, hanno fatto di me una prostituta.",

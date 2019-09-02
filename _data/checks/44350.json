@@ -86,8 +86,20 @@
     },
     "num_chars": 7235,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 785896,
+            "text": [
+                "non avevo alcun dubbio su questo",
+                "È proprio così: se l'avesse deciso lei di vendersi sarebbe stata un'altra storia, più accettabile.",
+                "questa lettera è reale, è solo una rielaborazione di un testo scritto da una ragazza per sua figlia. Non era una lettera, ma un diario, i nomi e i riferimenti erano altri, ma il succo è quello. Ho eliminato molti errori e rielaborato alcune frasi, ma forse non abbastanza. Capisco bene l'osservazione che mi fai sulla lingua e credo proprio che tu abbia ragione, bisogna proprio rimetteral in sesto per bene dal punto di vista della sintassi e della grammatica.",
+                "Ti ringrazio tanto mio caro , sei sempre prezioso"
+            ],
+            "timestamp": "2019-09-02T07:09:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44350-le-ragazze-capitolo-10-22//?do=findComment&comment=785896"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ha guidato per molto tempo, credo che abbiamo addirittura cambiato città. Noi non sapevamo dove stavamo andando. Ci stringevamo la mano e basta. Quando la macchina si è fermata eravamo su una strada larga in mezzo a dei campi ordinati mezzi nascosti nella nebbia e qualche casolare qua e là. Nel colore scuro della notte sembrava quasi di essere a casa, a Bobo v Dol. Non c'era altro intorno solo buio. L'unica luce veniva dai lampioni stradali.",

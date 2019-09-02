@@ -1,0 +1,77 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 1
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "wowww e non si inizia così un commento serio, però è la prima espressione che mi è venuta.",
+                    "Dal primo momento si viene catturati e si entra nel vivo di un clima familiare che sembrerebbe un flusso di coscienza, uno sfogo sui conflitti parentali e personali, e forse anche lo è. In ogni caso il personaggio narrante cattura subito chi legge, almeno me, e si rivela interessante complesso, sfaccettato - geniale - a tratti adolescenziale ma fortemente dotato di una tagliente ironia e autoironia che incuriosisce fortemente il lettore, ma ecco che viene fuori poi l'imprevidibilità della tua narrazione divisa tra realtà e finzione tre conscio e inconscio tra autostima e fragilità e poi il mistero di una mente sdoppiata tra acuta visione -(cinica anche) - della realtà e potente immaginazione",
+                    "ed ecco che arriviamo al colpo inaspettato, è fantasia horror realtà? Dove ci porterai",
+                    "per entrare subito dopo nel delirio della tua narrazione - senza inibizioni - audace - che parla ai nostri spettri appunto. E che cosa vorranno da te?...Chi sei tu veramente poi?",
+                    "L'ho letto con estremo piacere e non ho notato nessuna stonatura sulla scrittura, che è bella, fluida ed efficace, trovo anche che stai delineando un tuo stile personale in cui oltre a non appesantire, diverti e fai riflettere. Eccome.",
+                    "Mi è piaciuto molto e aspetto con curiosità il continuo per leggerti e per imparare"
+                ]
+            ],
+            "timestamp": "2019-09-01T15:57:21Z",
+            "title": "On writing 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/44361-on-writing-1//?do=findComment&comment=785799",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 4233,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Dal frutto tutta la sua dolcezza",
+        "(primo capitolo)",
+        "Tutto cominciò con un piccolo portachiavi d’argento che io le regalai in amicizia, il 13 Giugno del 1976. Giorno del suo compleanno. Una piccola cosa senza troppo valore a cui lei fece molta festa. Forse perché non se l’aspetta o forse perché avrebbe comunque fatto festa a qualsiasi dono inaspettato. Era il suo carattere.",
+        "Aveva solo sedici anni e io ventisei, era bellissima ma non credo sia stato questo a farmi innamorare senza riserva e per tutta la vita. Tutti potevano affermare che fosse bella, ma qualcuno allora non sembrava particolarmente colpito. Poi tra le mie sfortune dei giorni a venire ci fu anche questa, che quelli che non l’avevano apprezzata da subito, l’apprezzarono con il tempo.",
+        "Sapete era la classica adolescente che sta per sbocciare, magra con le gambe lunghissime e perfette, il sedere tondo e alto e i seni piccolissimi color latte. Ma vi assicuro che niente era paragonabile alla sua bellezza interiore, e per interiore non parlo solo di sensibilità tenerezza e generosità, di cui era per altro dotata, ma per le sfaccettature del suo carattere, per l’amore e la curiosità che mostrava in ogni cosa della vita, mangiare e poi fare l’amore quando lo scoprì, e poi viaggiare, nuotare, ballare, stare in mezzo alla gente ed essere felice. E seduttiva senza saperlo.",
+        "Terribilmente seduttiva, anche nei bronci e negli inaspettati cambi d’umore a cui mi dedicavo con pazienza certosina senza per altro averci mai capito granché.",
+        "E fu proprio quello lo sbaglio, non aver capito fino i fondo la bellezza della sua mente. Perciò il suo sguardo grigio verde, le labbra carnose, persino i denti troppo grandi e le mani affusolate come due farfalle non mi abbandonarono mai un minuto nella vita.",
+        "Un giorno mi ha lasciato e dal quel momento c’è stato sempre un prima Arianna e un dopo Arianna, però non c’è stato un giorno della mia vita che non l’abbia pensata o ricordata a me stesso o a qualcun altro. E sono passati tanti anni.",
+        "Ora mi sembrava difficile dire se questa donna con i fianchi larghi e popolani che mi versava il tè in silenzio, avesse a che fare, almeno in un aspetto, magari nascosto, segreto, con Arianna o con una delle donne che avevo desiderato. Desiderato si. Perché desiderare, era stato per me largamente più appagante e affascinante dell’essere desiderato.",
+        "Era così devota e cortese, preda ignara della mia affettata e ipocrita gentilezza, che altro non facevo che metterla ancora più al mio servizio. Eppure per garantirmi quella stanza tiepida, borghese, pulita fatta di tempi scanditi e chiare tende di lino dove la luce si disperdeva quieta e rilassante sul morbido materasso, le sorridevo e le prendevo la mano ossuta, portandola alle mie labbra in un sorriso compiacente e rassicurante. Da qualche tempo ormai, anni, ero avvezzo alle recite d’occasione, quelle che dovevo compiere per le mie esigenze personali. Lei mi guardava con gli occhi miopi e grigi appena velati di mascara, con fare compito e toni garbati che si confacevano a una donna come lei, educata e di buona famiglia.",
+        "“Come stai? Ti senti un po’ meglio? Se vuoi abbiamo un po’ di prosciutto e di mozzarella, poi possiamo andare a vedere l’ultimo film che c’è al cinema …”",
+        "Le accarezzai una guancia:",
+        "“Scusami Lucia… ma ho ancora mal di testa e non mi sento. Perché non chiami Monica e ci vai con lei?”",
+        "“Va bene, non ti preoccupare farò così” Si staccò da me come avesse messo giù una cornetta del telefono e non fece nessuna altra questione, fuorché raccomandarmi di riposare e mangiare qualora avessi avuto fame.",
+        "Se ne andò, e se dio vuole, mi ritrovai immerso in un silenzio ancora più grande, avvolto nel delirio dei miei sogni che erano stati in parte anche la mia realtà.",
+        "Se è vero, che i momenti più belli col passare del tempo si fermano dentro la nostra testa, è ancor più vero che senti nelle narici gli odori degli amplessi come si fossero fissati per sempre in ogni cellula della nostra pelle. La mia pelle. Potevo piangere al pensiero di quei giorni, di quei momenti, di quelle ore. Potevo parlarne e lo avevo fatto in parte con l’amico storico di sempre Antonio, quello a cui finivo per dire tutto, se non tutto, tanto.",
+        "Quelle ore però le avevo irrimediabilmente perdute."
+    ],
+    "timestamp": "2019-09-01T21:03:59Z",
+    "title": "Dal frutto tutta la sua dolcezza - 1 di 1",
+    "topic_id": 44369,
+    "url": "https://www.writersdream.org/forum/forums/topic/44369-dal-frutto-tutta-la-sua-dolcezza-1-di-1/"
+}
