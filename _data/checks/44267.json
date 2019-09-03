@@ -64,7 +64,7 @@
     },
     "num_chars": 7845,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 784507,
@@ -114,6 +114,17 @@
             ],
             "timestamp": "2019-08-26T11:52:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=784769"
+        },
+        {
+            "post_id": 786122,
+            "text": [
+                ", , , , , e",
+                "Mi scuso per il ritardo con cui vengo a ringraziarvi ma è davvero un perioduccio uccio uccio.",
+                "Vi ringrazio sia per gli apprezzamenti, che fanno sempre piacere e riempiono il cuore (per cui fatene e fatene), sia per le annotazioni. Ognuno di voi mi ha detto delle cose davvero interessanti, che mi serviranno sicuramente nella stesura dei prossimi racconti.",
+                "Talia"
+            ],
+            "timestamp": "2019-09-03T05:54:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=786122"
         }
     ],
     "post_staff": [],
