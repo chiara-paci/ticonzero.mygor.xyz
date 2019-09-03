@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,23 @@
     },
     "num_chars": 194,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 786274,
+            "text": [
+                "manca il commento allegato alla discussione. Ho visto che ne hai fatto uno in giornata ma è troppo breve. Devo chiudere. Per riaprire manda tramite messaggio privato il link di un commento più approfondito a uno staffer."
+            ],
+            "timestamp": "2019-09-03T19:53:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44389-se//?do=findComment&comment=786274"
+        }
+    ],
     "text": [
         "Se",
         "avessi lasciato",
