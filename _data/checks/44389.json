@@ -1,0 +1,49 @@
+{
+    "author": {
+        "author_id": 33584,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Marianne5",
+        "url": "https://www.writersdream.org/forum/profile/33584-marianne5/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 194,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Se",
+        "avessi lasciato",
+        "che il mio corpo mi sorprendesse",
+        "avrei fermato la tua mano",
+        "sul mio viso",
+        "E ti avrei baciato",
+        "incurante delle tue perplessità",
+        "avrei sentito il tuo palato",
+        "e la pienezza delle tue labbra",
+        "se"
+    ],
+    "timestamp": "2019-09-03T16:51:40Z",
+    "title": "SE",
+    "topic_id": 44389,
+    "url": "https://www.writersdream.org/forum/forums/topic/44389-se/"
+}
