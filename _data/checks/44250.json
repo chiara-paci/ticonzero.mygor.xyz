@@ -61,7 +61,7 @@
     },
     "num_chars": 7739,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 784150,
@@ -207,6 +207,17 @@
             ],
             "timestamp": "2019-09-04T07:48:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=786342"
+        },
+        {
+            "post_id": 786450,
+            "text": [
+                "fantastico!",
+                "Grazie per il commento.",
+                ", felice che ti sia piaciuto! Hai ragione: in un rapporto i profumi sono ben diversi, ma qui ho voluto sottolineare con il cioccolato la dolcezza nel complesso mescolato alla vaniglia, la fragranza della pelle di lei.",
+                "Non sei tu che manchi di fantasia, sono io che sono troppo contorta"
+            ],
+            "timestamp": "2019-09-04T17:46:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44250-fdi-2019-3-un-cuore-furioso//?do=findComment&comment=786450"
         }
     ],
     "post_staff": [],
