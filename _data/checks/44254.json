@@ -48,7 +48,7 @@
     },
     "num_chars": 7863,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 784254,
@@ -125,6 +125,14 @@
             ],
             "timestamp": "2019-09-04T19:33:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=786474"
+        },
+        {
+            "post_id": 786492,
+            "text": [
+                "grazie per l'apprezzamento. Sì, ho avuto un serio problema con la traccia, alla fine il personaggio mi ha trascinato dove voleva lui. Peccato."
+            ],
+            "timestamp": "2019-09-04T20:37:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=786492"
         }
     ],
     "post_staff": [],
