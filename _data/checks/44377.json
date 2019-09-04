@@ -48,7 +48,7 @@
     },
     "num_chars": 191,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 786092,
@@ -73,6 +73,15 @@
             ],
             "timestamp": "2019-09-04T08:14:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786347"
+        },
+        {
+            "post_id": 786404,
+            "text": [
+                "Ciao grazie dell'apprezzamento e delle osservazioni. Anch'io, in origine, avevo pensato alla variante da te proposta, solo che mi sembrava in effetti un po' monca, sia nel senso che alla lettura. Poi l'immagine dei gradini mi sembrava carina. Per quanto riguarda il \"qui\" mi sembra che, omettendolo, venga a mancare qualcosa dal punto di vista ritmico.",
+                "A rileggerci, ciao."
+            ],
+            "timestamp": "2019-09-04T13:34:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786404"
         }
     ],
     "post_staff": [],

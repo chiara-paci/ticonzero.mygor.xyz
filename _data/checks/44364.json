@@ -50,7 +50,7 @@
     },
     "num_chars": 283,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 786056,
@@ -62,6 +62,17 @@
             ],
             "timestamp": "2019-09-02T18:23:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44364-madre-terra//?do=findComment&comment=786056"
+        },
+        {
+            "post_id": 786391,
+            "text": [
+                "io coltivo la speranza ragazzi, ma temo che gli interessi personali compatibilmente con il cinismo siano difficili da debellare. E anche l’indifferenza di cui siamo tutti un po’ ammalati... ma è l’epilogo che ci accomunerà tutti e che forse proprio per questo rappresenterà l’ ultima poeticità.",
+                "’la livella’ come diceva Totò",
+                "Grazie della vostra attenzione",
+                "😊"
+            ],
+            "timestamp": "2019-09-04T12:56:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44364-madre-terra//?do=findComment&comment=786391"
         }
     ],
     "post_staff": [],
