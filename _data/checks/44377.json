@@ -48,7 +48,7 @@
     },
     "num_chars": 191,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 786092,
@@ -82,6 +82,15 @@
             ],
             "timestamp": "2019-09-04T13:34:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786404"
+        },
+        {
+            "post_id": 786406,
+            "text": [
+                "Ciao! Grazie mille. Con poche parole hai espresso esattamente il senso di ciò che volevo trasmettere. Mi fa piacere che ti sia arrivata in modo così limpido e chiaro.",
+                "Il titolo, in effetti, non mi veniva proprio. Ho pensato a diverse soluzioni, ma mi venivano le solite parole banali. Così ho optato per l'inglese, che mi sembra un po' più incisivo."
+            ],
+            "timestamp": "2019-09-04T13:47:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786406"
         }
     ],
     "post_staff": [],
