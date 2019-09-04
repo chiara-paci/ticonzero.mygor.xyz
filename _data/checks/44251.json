@@ -53,7 +53,7 @@
     },
     "num_chars": 7179,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 784193,
@@ -99,6 +99,16 @@
             ],
             "timestamp": "2019-08-29T10:07:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44251-fdl-2019-3-lincredibile-viaggio-di-una-bolla-di-sapone//?do=findComment&comment=785209"
+        },
+        {
+            "post_id": 786320,
+            "text": [
+                "Grazie e sia x gli apprezzamenti che x le sempre utili critiche.",
+                "Cordiali saluti,",
+                "Intes"
+            ],
+            "timestamp": "2019-09-04T05:33:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44251-fdl-2019-3-lincredibile-viaggio-di-una-bolla-di-sapone//?do=findComment&comment=786320"
         }
     ],
     "post_staff": [],

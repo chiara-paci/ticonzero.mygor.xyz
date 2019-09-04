@@ -74,7 +74,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 51,
+    "num_posts": 53,
     "post_after": [
         {
             "post_id": 783367,
@@ -273,6 +273,23 @@
             ],
             "timestamp": "2019-09-02T06:22:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=785890"
+        },
+        {
+            "post_id": 786312,
+            "text": [
+                "grazie per l'apprezzamento e per le osservazioni.",
+                "...Mi sembri un tipo interessante, tu ...ti terrò d'occhio"
+            ],
+            "timestamp": "2019-09-04T04:46:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=786312"
+        },
+        {
+            "post_id": 786314,
+            "text": [
+                ", e se invece fosse questo?"
+            ],
+            "timestamp": "2019-09-04T04:48:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44203-fdi-2019-3-il-bambino//?do=findComment&comment=786314"
         }
     ],
     "post_staff": [],

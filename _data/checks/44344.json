@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 785404,
@@ -129,6 +129,15 @@
             ],
             "timestamp": "2019-09-02T16:43:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786028"
+        },
+        {
+            "post_id": 786318,
+            "text": [
+                "Grazie per essere passati di qui, sono contento che il racconto nel complesso vi sia piaciuto. Ahimè, ho dei rimorsi per non aver sviluppato meglio le tematiche del concorso. Cercherò di essere più ortodosso la prossima volta, ma la storia mi è venuta così.",
+                "Saluti, a rileggersi."
+            ],
+            "timestamp": "2019-09-04T05:16:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786318"
         }
     ],
     "post_staff": [],
