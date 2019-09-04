@@ -48,7 +48,7 @@
     },
     "num_chars": 191,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 786092,
@@ -91,6 +91,15 @@
             ],
             "timestamp": "2019-09-04T13:47:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786406"
+        },
+        {
+            "post_id": 786495,
+            "text": [
+                "grazie, mi fa piacere.",
+                "Leggendo le vostre considerazioni, mi rendo conto di quanto sia tutto estremamente soggettivo"
+            ],
+            "timestamp": "2019-09-04T20:44:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786495"
         }
     ],
     "post_staff": [],
