@@ -48,7 +48,7 @@
     },
     "num_chars": 191,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 786092,
@@ -65,6 +65,14 @@
             ],
             "timestamp": "2019-09-02T20:47:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786093"
+        },
+        {
+            "post_id": 786347,
+            "text": [
+                "Grazie delle tue parole, molto gradite."
+            ],
+            "timestamp": "2019-09-04T08:14:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786347"
         }
     ],
     "post_staff": [],
