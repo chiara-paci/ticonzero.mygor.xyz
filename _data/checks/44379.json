@@ -55,7 +55,7 @@
     },
     "num_chars": 9129,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 786358,
@@ -72,6 +72,15 @@
             ],
             "timestamp": "2019-09-04T11:09:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44379-stasera-mi-butto-anzi-no-meglio-domattina-sul-presto//?do=findComment&comment=786358"
+        },
+        {
+            "post_id": 786418,
+            "text": [
+                "Eccome, se mi aiuta!",
+                "Grazie infinite"
+            ],
+            "timestamp": "2019-09-04T14:52:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44379-stasera-mi-butto-anzi-no-meglio-domattina-sul-presto//?do=findComment&comment=786418"
         }
     ],
     "post_staff": [],
