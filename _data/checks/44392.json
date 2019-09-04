@@ -44,8 +44,25 @@
     },
     "num_chars": 512,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 786351,
+            "text": [
+                "Esatto l’infanzia è gioco e spensieratezza, anche dove la povertà è estrema."
+            ],
+            "timestamp": "2019-09-04T10:19:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44392-bambini//?do=findComment&comment=786351"
+        },
+        {
+            "post_id": 786352,
+            "text": [
+                "Grazie , hai ragione le notti in Africa sono meravigliose, la via Lattea sembra così vicina, la notte è luminosa. Sono rimasto ore in contemplazione di quello spettacolo."
+            ],
+            "timestamp": "2019-09-04T10:24:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44392-bambini//?do=findComment&comment=786352"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il mio commento:",
