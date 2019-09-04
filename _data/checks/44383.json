@@ -46,8 +46,21 @@
     },
     "num_chars": 6184,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 786294,
+            "text": [
+                "Sono contento che ti sia piaciuto",
+                "Laura mi sono accorto che non ti ho detto ciao. Era voluto",
+                "Grazie per il tuo commento farò tesoro di tutto. ( credici )",
+                "Ti aspetto alla quinta puntata",
+                "Ciao"
+            ],
+            "timestamp": "2019-09-03T21:42:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44383-l-accessorio-parte-4//?do=findComment&comment=786294"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Parole",

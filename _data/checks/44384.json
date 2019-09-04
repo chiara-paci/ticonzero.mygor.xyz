@@ -63,7 +63,7 @@
     },
     "num_chars": 6491,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 786171,
@@ -77,6 +77,15 @@
             ],
             "timestamp": "2019-09-03T10:58:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44384-le-ragazze-capitolo-11-12//?do=findComment&comment=786171"
+        },
+        {
+            "post_id": 786322,
+            "text": [
+                "in ogni caso da prendere in considerazione, secondo me",
+                "Ti ringrazio"
+            ],
+            "timestamp": "2019-09-04T05:38:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44384-le-ragazze-capitolo-11-12//?do=findComment&comment=786322"
         }
     ],
     "post_staff": [],
