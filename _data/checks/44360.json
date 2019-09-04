@@ -47,7 +47,7 @@
     },
     "num_chars": 312,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 785869,
@@ -58,6 +58,16 @@
             ],
             "timestamp": "2019-09-01T22:07:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44360-la-tregua//?do=findComment&comment=785869"
+        },
+        {
+            "post_id": 786371,
+            "text": [
+                "Grazie per il tuo gradito passaggio.",
+                "Saluti,",
+                "Intes"
+            ],
+            "timestamp": "2019-09-04T11:42:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44360-la-tregua//?do=findComment&comment=786371"
         }
     ],
     "post_staff": [],
