@@ -60,7 +60,7 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 783908,
@@ -138,6 +138,14 @@
             ],
             "timestamp": "2019-09-01T11:04:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=785736"
+        },
+        {
+            "post_id": 786552,
+            "text": [
+                "Grazie per il passaggio e i commenti"
+            ],
+            "timestamp": "2019-09-05T11:17:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=786552"
         }
     ],
     "post_staff": [],
