@@ -48,7 +48,7 @@
     },
     "num_chars": 191,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 786092,
@@ -100,6 +100,14 @@
             ],
             "timestamp": "2019-09-04T20:44:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786495"
+        },
+        {
+            "post_id": 786566,
+            "text": [
+                "Ciao Mi fa piacere che anche tu l'abbia trovata bella"
+            ],
+            "timestamp": "2019-09-05T14:30:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786566"
         }
     ],
     "post_staff": [],
