@@ -13,34 +13,12 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 1.0,
-        "weight": true
+        "valid": 0.0,
+        "weight": false
     },
     "closed": true,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": false,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao ti ringrazio molto per il tuo commento e per i tuoi consigli ai quali voglio rispondere punto per punto:",
-                    "grazie mille per i complimenti, ti preannuncio che ne i maghi ne il re dureranno a lungo.",
-                    "Ti riferisci alla parte introduttiva con gli Alv e i draghi? Effettivamente avevo il sospetto che potessse essere una parte troppo prolissa, troverò un modo per snellirla.",
-                    "questo dialogo avviene poco dopo tra il re e i maghi, nel quale viene enfatizzato anche il fatto che il re non sia semplicemente crudele ma proprio pazzo. In realtà la ragione per cui frusta e uccide quelle persone sarebbe intuibile, ma voglio comunque aggiungere il dialogo per spiegarlo meglio",
-                    "Hai centrato il mio più grande difetto in ambito letterario: non sono molto bravo con le descrizioni. Devo effettivamente descrivere in maniera migliore la città anche perchè in futuro sarà molto utile.",
-                    "Ti ringrazio ancora per tutti i commenti, nel caso avessi qualcos'altro da dirmi sentiti libera di dirmi ciò che ti pare.",
-                    "Grazie e alla prossima!"
-                ]
-            ],
-            "timestamp": "2019-08-07T08:01:12Z",
-            "title": "The Dragon Slayers Capitolo 0 (bozza)",
-            "url": "https://www.writersdream.org/forum/forums/topic/44109-the-dragon-slayers-capitolo-0-bozza//?do=findComment&comment=782274",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -48,7 +26,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 7687,
-    "num_commenti": 1,
+    "num_commenti": 0,
     "num_posts": 3,
     "post_after": [
         {
