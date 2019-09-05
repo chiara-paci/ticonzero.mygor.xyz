@@ -47,8 +47,22 @@
     },
     "num_chars": 4682,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 786592,
+            "text": [
+                "Ciao",
+                "Ti ringrazio per il tuo commento ma non credo proprio che hai centrato il punto. L'immedesimazione nel personaggio e' proprio l'unica cosa che non mi manca.",
+                "Il protagonista e' un fantasma perché non riesce a staccarsi dal mondo terreno e dalla sua amatissima Sara. Il suo e' un essere fantasma molto lucido, vaga tutte le notti e vede e osserva attentamente il mondo che lo circonda, notte dopo notte, tanto che riesce a notare i cambiamenti dei vari personaggi che incontra.",
+                "Allo stesso tempo non riesce ad accettare la sua condizione e per questo \"dimentica\"( quasi volutamente) la sua condizione fino a che non e' costretto a riconoscerla al mattino.",
+                "Quando la luce del sole dissolve il suo corpo.",
+                "A rileggerci"
+            ],
+            "timestamp": "2019-09-05T19:21:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786592"
+        }
+    ],
     "post_staff": [],
     "text": [
         "\" Sono qui anche stanotte...",
