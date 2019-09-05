@@ -61,7 +61,7 @@
     },
     "num_chars": 7989,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 784699,
@@ -129,6 +129,15 @@
             ],
             "timestamp": "2019-08-28T15:02:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=785090"
+        },
+        {
+            "post_id": 786600,
+            "text": [
+                "Grazie , e , per i commenti e i suggerimenti.",
+                "Sì, aver dovuto sintetizzare una storia già imbastita e più lunga è stato maledettamente difficile. Comunque grazie ancora."
+            ],
+            "timestamp": "2019-09-05T20:06:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=786600"
         }
     ],
     "post_staff": [],
