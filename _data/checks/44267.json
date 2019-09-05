@@ -64,7 +64,7 @@
     },
     "num_chars": 7845,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 784507,
@@ -125,6 +125,19 @@
             ],
             "timestamp": "2019-09-03T05:54:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=786122"
+        },
+        {
+            "post_id": 786558,
+            "text": [
+                "Ciao ,",
+                "Hai fatto un gran bel lavoro sul mio testo, ti ringrazio. Accetto tutte le tue osservazioni, dato che sono sensate e migliorative.",
+                "Solo su una annotazione non sono completamente d'accordo, ma forse non ho esplicitato in maniera chiara il mio pensiero.",
+                "Volevo far capire che il ragazzo è scappato di notte da un certo tipo di sorveglianza. Visto che la madre lo ha scoperto dal nonno e sospetta che abbia coinvolto il figlio, lo ha messo sotto sorveglianza. Lui ha eluso i controlli, perciò sa di rischiare di venir scoperto in quella scampagnata notturna. Se ciò dovesse accadere, sa bene che rischia delle punizioni, e pertanto, consapevole che probabilmente pagherà il fio, preferì e andare fino in fondo, ormai che c'è.",
+                "Grazie mille per le correzioni e gli apprezzamenti .",
+                "Talia"
+            ],
+            "timestamp": "2019-09-05T12:04:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44267-fdi-2019-3-nostoc-alchemico//?do=findComment&comment=786558"
         }
     ],
     "post_staff": [],
