@@ -53,8 +53,17 @@
     },
     "num_chars": 7948,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 786511,
+            "text": [
+                "E come al solito se mi cade una virgola dove va a finire?"
+            ],
+            "timestamp": "2019-09-04T22:49:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44401-fdi-2019-3-tokulti-fuori-concorso//?do=findComment&comment=786511"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Tokulti",
