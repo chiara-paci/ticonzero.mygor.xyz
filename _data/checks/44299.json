@@ -49,7 +49,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 785330,
@@ -70,6 +70,16 @@
             ],
             "timestamp": "2019-08-31T05:54:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=785493"
+        },
+        {
+            "post_id": 786780,
+            "text": [
+                "grazie per esserti fermata a commentare.",
+                "Non mi dispiace affatto perché sono d'accordo con te. Infatti, insoddisfatta da quello (che non ha beccato la traccia) ho sentito la necessità di scriverne un altro.",
+                "Grazie per l'apprezzamento."
+            ],
+            "timestamp": "2019-09-06T22:38:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=786780"
         }
     ],
     "post_staff": [],

@@ -52,7 +52,7 @@
     },
     "num_chars": 8019,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 786755,
@@ -68,6 +68,18 @@
             ],
             "timestamp": "2019-09-06T19:34:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=786755"
+        },
+        {
+            "post_id": 786771,
+            "text": [
+                "Non ti è sfuggito nulla. E uno sviluppo recente. Ovviamente non te lo voglio anticipare, ma credo di poterlo configurare nello spazio del prossimo capitolo.",
+                "Ma no, è solo un gioco. Puoi dormire sonni tranquilli, fidati. Non voglio mica perdere la mia lettrice più assidua eh",
+                "No, hai fatto bene. Lo avevo dimenticato.",
+                "Ma no Giuro che ho intenzione di riprenderlo in mano Per ora sto rileggendo La talpa di John Le Carrè, ahahah. Scherzi a parte una prosa fantastica eh.",
+                "I tuoi complimenti mi incoraggiano a proseguire. A presto Del"
+            ],
+            "timestamp": "2019-09-06T21:05:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=786771"
         }
     ],
     "post_staff": [],
