@@ -27,8 +27,17 @@
     },
     "num_chars": 86,
     "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 786667,
+            "text": [
+                "temo di aver fatto un casino. Mi pare che la mia votazione sia pubblica!!!!! Azz."
+            ],
+            "timestamp": "2019-09-06T10:55:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44418-intes-mk-69//?do=findComment&comment=786667"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Rhomer premi il tasto start",

@@ -1,0 +1,95 @@
+{
+    "author": {
+        "author_id": 31477,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Panurge",
+        "url": "https://www.writersdream.org/forum/profile/31477-panurge/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9655555555555555,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9655555555555555
+            },
+            "text": [
+                [
+                    "Leggendo mi è subita saltata in mente la carta dei tarocchi che è anche quella che mi è più cara. Il castigo, a testa in giù, come espiazione di una colpa, ma anche come gesto di disobbedienza (non volere cercare il sole dove gli altri lo vedono). Cui segue il narcisistico disgusto di specchiarsi nella propria miseria. Eppure, proprio in questa condizione, l’impiccato è illuminato dalla nuova prospettiva: la saggezza del buffone che vede tutto sottosopra e riesce a evocare un nuovo disordine per ingannare la vertigine. Alla fine la serafica consapevolezza che non occorre fare niente, sarà l’universo a rovesciarsi al posto suo, e mentre aspetta anche lui trova il suo sole dentro una pozzanghera.",
+                    "Le immagini sono evocative, qualcosa da rivedere sulla metrica (ad esempio il verso sette e il penultimo sono troppo calcati secondo me, e sostituirei nell’”acqua del mio vuoto” con “nella pozzanghera”). Il finale comunque è molto suggestivo, la mia parte preferita."
+                ]
+            ],
+            "timestamp": "2019-09-06T10:41:55Z",
+            "title": "Impiccato inverso (l'appeso)",
+            "url": "https://www.writersdream.org/forum/forums/topic/43718-impiccato-inverso-lappeso//?do=findComment&comment=786665",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1284,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Una burla innocente che rifà il verso alla \" Ballade des dames du temps jadis \" del maestro e genio François Villon, conservando la struttura della ballata medioevale francese.",
+        "Su ditemi dov’è Messalina",
+        "e Flora sua antenata romana",
+        "dov’é Longina e Poppea Sabina",
+        "che fotté anche l’Arma pretoriana",
+        "e dove Clodia che in quanto a fama",
+        "non fu di certo più castigata",
+        "e poi Frine che fu denudata",
+        "in processo perché fosse assolta",
+        "dov’è Cleopatra la scellerata",
+        "dove son le vacche di una volta?",
+        "Dov’è poi la grande Caterina",
+        "ed Isabella la cortigiana",
+        "e Semiramide la regina",
+        "che non fu certo una puritana",
+        "dov’è Lucrezia la castellana",
+        "dove Salomé la debosciata",
+        "la qual d’una testa fu omaggiata",
+        "per qualche moina e giravolta",
+        "dov’è Cleopatra la scellerata",
+        "dove son le vacche di una volta?",
+        "E dov’è Giovanna l’angioina",
+        "detta l’insaziabile sovrana",
+        "dove Marozia la concubina",
+        "che imbrigliò la curia vaticana",
+        "e Veronica la veneziana",
+        "la qual fu erudita e raffinata",
+        "nonché una porcona indiavolata",
+        "e più di Tullia vezzosa e dotta",
+        "dov’è Cleopatra la scellerata",
+        "dove son le vacche di una volta?",
+        "Oh voi Don Juan che ad ogni puttana",
+        "alzaste in volo la sua sottana",
+        "vi prego ditemi se è lontana",
+        "quella Taide così accalorata",
+        "che Persepoli ne fu incendiata",
+        "per qualche capriccio o luna storta",
+        "dov’è Cleopatra la scellerata",
+        "dove son le vacche di una volta?"
+    ],
+    "timestamp": "2019-09-06T11:08:01Z",
+    "title": "Ballata delle vacche di una volta",
+    "topic_id": 44419,
+    "url": "https://www.writersdream.org/forum/forums/topic/44419-ballata-delle-vacche-di-una-volta/"
+}
