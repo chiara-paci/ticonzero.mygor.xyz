@@ -46,7 +46,7 @@
     },
     "num_chars": 4271,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 786650,
@@ -64,6 +64,23 @@
             ],
             "timestamp": "2019-09-06T09:26:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44411-lottagono//?do=findComment&comment=786652"
+        },
+        {
+            "post_id": 786678,
+            "text": [
+                "non ho capito se è un bene o una dura critica",
+                "grazie per avermi letto"
+            ],
+            "timestamp": "2019-09-06T11:31:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44411-lottagono//?do=findComment&comment=786678"
+        },
+        {
+            "post_id": 786679,
+            "text": [
+                "spongbob"
+            ],
+            "timestamp": "2019-09-06T11:32:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44411-lottagono//?do=findComment&comment=786679"
         }
     ],
     "post_staff": [],
