@@ -16,7 +16,7 @@
         "valid": 0.38,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -45,9 +45,23 @@
     },
     "num_chars": 76,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 786620,
+            "text": [
+                "il commento allegato è troppo sintetico per postare un proprio testo. Devo chiudere. Quando ne avrai uno più approfondito invialo tramite MP a uno staffer e provvederemo a riaprire la discussione."
+            ],
+            "timestamp": "2019-09-06T05:56:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44413-niente-altro//?do=findComment&comment=786620"
+        }
+    ],
     "text": [
         "Se tu stanotte fossi già mia, l'alba non porterebbe con se nessun desiderio."
     ],
