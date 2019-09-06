@@ -47,7 +47,7 @@
     },
     "num_chars": 7978,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 784100,
@@ -116,6 +116,14 @@
             ],
             "timestamp": "2019-08-30T18:44:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=785434"
+        },
+        {
+            "post_id": 786628,
+            "text": [
+                "Hai centrato l'obiettivo di questo tipo di racconti"
+            ],
+            "timestamp": "2019-09-06T07:58:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44252-fdi-2019-3-i-monatti//?do=findComment&comment=786628"
         }
     ],
     "post_staff": [],

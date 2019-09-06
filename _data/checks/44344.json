@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 785404,
@@ -162,6 +162,14 @@
             ],
             "timestamp": "2019-09-04T16:33:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786436"
+        },
+        {
+            "post_id": 786626,
+            "text": [
+                "Ciao Talia, sono contento che il racconto ti sia piaciuto. Pensa che, rileggendolo, lo farei in modo molto diverso. Comunque, ti ringrazio per il passaggio. A presto."
+            ],
+            "timestamp": "2019-09-06T07:42:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786626"
         }
     ],
     "post_staff": [],
