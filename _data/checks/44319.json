@@ -60,7 +60,7 @@
     },
     "num_chars": 15928,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 785349,
@@ -69,6 +69,15 @@
             ],
             "timestamp": "2019-08-30T07:48:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44319-unisola-fuori-dal-tempo//?do=findComment&comment=785349"
+        },
+        {
+            "post_id": 786624,
+            "text": [
+                "Ciao , grazie per la lettura e le belle parole, sono veramente contento che il racconto ti sia piaciuto e sia riuscito a trasmetterti ciò che ho provato io stesso visitando quei luoghi.",
+                "Alla prossima!"
+            ],
+            "timestamp": "2019-09-06T07:10:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44319-unisola-fuori-dal-tempo//?do=findComment&comment=786624"
         }
     ],
     "post_staff": [],
