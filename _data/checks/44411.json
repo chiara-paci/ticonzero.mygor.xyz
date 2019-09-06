@@ -46,8 +46,26 @@
     },
     "num_chars": 4271,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 786650,
+            "text": [
+                "Perchè le donne sono più intelligenti e riescono a fare 2 cose contemporaneamente. è \"soprattutto se NON sono una donna. E' ironico con se stesso dice praticamente visto che non sono una donna devo stare attento con la pistola.",
+                "E ' il mio tallone d'Achille Ed avete assolutamente ragione"
+            ],
+            "timestamp": "2019-09-06T09:22:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44411-lottagono//?do=findComment&comment=786650"
+        },
+        {
+            "post_id": 786652,
+            "text": [
+                "Grazie. Peccato che tu non sia stato in giuria . Non mi hanno filato per niente"
+            ],
+            "timestamp": "2019-09-06T09:26:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44411-lottagono//?do=findComment&comment=786652"
+        }
+    ],
     "post_staff": [],
     "text": [
         "L’ottagono",
