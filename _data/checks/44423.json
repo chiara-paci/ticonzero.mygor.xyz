@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.53,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.53
+            },
+            "text": [
+                [
+                    "Ciao anche a me piace molto la tua poesia,",
+                    "malinconia dell'attesa e della perdita con una metafora riuscita, quella della casa che più rappresenta l' intimità ma anche dove possiamo vivere la nostre solitudini peggiori chiusa la porta e uno sguardo verso il fuori chissà...",
+                    "Devo dire che anch'io ho preferito l'eliminazione del 'qui' l in ogni caso devo dire mantiene intatta delicatezza e poesia,",
+                    "Non impazzisco per i titoli inglese devo dire , ma in questo caso lo trovo carino, giovane ed anche evocativo sa di viaggio di incontri di una chiamata nel nulla...",
+                    "Ciao alla prossima"
+                ]
+            ],
+            "timestamp": "2019-09-05T18:12:05Z",
+            "title": "Come back",
+            "url": "https://www.writersdream.org/forum/forums/topic/44377-come-back//?do=findComment&comment=786583",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 512,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ora che ti ho ritrovato",
+        "canto una canzone per te...",
+        "Potrei prendere il primo treno",
+        "e arrivare in una fredda notte di luna,",
+        "la neve cadrebbe lenta sul tuo paese",
+        "e sui nostri sensi di colpa",
+        "ma niente è più caldo di quel",
+        "nostro filo sconosciuto e lontano",
+        "che ci apre speranze infantili.",
+        "Ti sfioro una mano e sorridi",
+        "lentamente sorseggi un caffè,",
+        "i tuoi occhi brillano",
+        "tra nuvole di fumo e vetri appannati",
+        "voci sussurrate ed estranee,",
+        "e quel tempo sospeso e sognato",
+        "in cui i silenzi e gli abbandoni",
+        "non avranno nè lacrime nè storia."
+    ],
+    "timestamp": "2019-09-06T13:10:38Z",
+    "title": "Sei come neve",
+    "topic_id": 44423,
+    "url": "https://www.writersdream.org/forum/forums/topic/44423-sei-come-neve/"
+}

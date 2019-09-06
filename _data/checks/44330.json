@@ -58,7 +58,7 @@
     },
     "num_chars": 5420,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 785340,
@@ -109,6 +109,14 @@
             ],
             "timestamp": "2019-09-06T07:01:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=786623"
+        },
+        {
+            "post_id": 786698,
+            "text": [
+                "Grazie mille, ragazzi. Contento di essere arrivato alla terza tappa"
+            ],
+            "timestamp": "2019-09-06T13:01:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44330-fdi-2019-3-lumido-richiamo-della-notte//?do=findComment&comment=786698"
         }
     ],
     "post_staff": [],

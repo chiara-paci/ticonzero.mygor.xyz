@@ -53,8 +53,17 @@
     },
     "num_chars": 7064,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 786681,
+            "text": [
+                "Grazie , lieta che ti sia piaciuto. Visto che è il tuo primo messaggio, ti invito a fare un salto in per presentarti, così possiamo darti il benvenuto ufficiale. Intanto grazie per essere passata (deduco dal nick che tu sia una femminuccia, ma potrei sbagliarmi )! Ti aspetto per il secondo capitolo!"
+            ],
+            "timestamp": "2019-09-06T11:35:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44412-sulle-tracce-del-gemello-cap-1-sono-io-il-male//?do=findComment&comment=786681"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Terra dei Mille Soli, sette cicli solari prima del Fattaccio",
