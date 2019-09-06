@@ -65,8 +65,20 @@
     },
     "num_chars": 512,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 786778,
+            "text": [
+                "ciao Bob un commento che mentre lo leggo chiarisce a me certi passaggi. Quasi quasi mi verrebbe la voglia di farne une racconto. Quello di una bella storia d'amore di due sconosciuti che pure riescono a creare questo filo sottile, un contatto di immagini rubate a canzoni postate luoghi sconosciuti o conosciuti in parte che prendono dimensioni meravigliose e fiabesche. Ma le parole le percezioni molto più che le immagini. Solo per caso c'è un profondo romanticismo comune, un etica anche un sogno che si desidera da entrambi le parti al di la delle vite consolidate con gli inevitabili problemi familiari e di vita, e perché c'è il diritto a sognare e forse anche ad amare in modi diversi con la consapevolezza di ritagliarsi una sospensione, un mondo parallelo in cui se pure c'è un piccolo senso di colpa per quello che rappresenta il desiderio di un altro mondo sconosciuto, c'è il diritto a darci un' altra possibilità d'amore, intatto, freddo, bianco, perché immortalato e perfetto e senza dolori nè lacrime perché niente si abbandona o si vuole abbandonare se non il diritto al sogno che è come la neve e poi si scioglie... eppure più forte sembra rimanere a riscaldare",
+                "esatto.E il racconto non lo farò proprio perché è questo il momento da immortalare.",
+                "Grazie molto molto bello il tuo commento. Non sembreresti perfido come lasci intendere dei tuoi scritti.",
+                "A presto"
+            ],
+            "timestamp": "2019-09-06T21:53:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44423-sei-come-neve//?do=findComment&comment=786778"
+        }
+    ],
     "post_staff": [
         {
             "author": {
