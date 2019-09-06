@@ -66,7 +66,7 @@
     },
     "num_chars": 7787,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 785119,
@@ -145,6 +145,14 @@
             ],
             "timestamp": "2019-09-04T22:37:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=786510"
+        },
+        {
+            "post_id": 786663,
+            "text": [
+                "Vero, spiazza perché alle volte la vita cambia all'improvviso in pochi secondi e niente è più come prima."
+            ],
+            "timestamp": "2019-09-06T10:24:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=786663"
         }
     ],
     "post_staff": [],
