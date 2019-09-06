@@ -60,7 +60,7 @@
     },
     "num_chars": 15928,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 785349,
@@ -96,6 +96,14 @@
             ],
             "timestamp": "2019-09-06T09:26:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44319-unisola-fuori-dal-tempo//?do=findComment&comment=786651"
+        },
+        {
+            "post_id": 786735,
+            "text": [
+                "tranquillo, nessuna offesa, avevo capito ciò che intendevi."
+            ],
+            "timestamp": "2019-09-06T16:36:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44319-unisola-fuori-dal-tempo//?do=findComment&comment=786735"
         }
     ],
     "post_staff": [],
