@@ -53,7 +53,7 @@
     },
     "num_chars": 7948,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 786511,
@@ -74,6 +74,15 @@
             ],
             "timestamp": "2019-09-05T11:53:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44401-fdi-2019-3-tokulti-fuori-concorso//?do=findComment&comment=786556"
+        },
+        {
+            "post_id": 786763,
+            "text": [
+                "Oh, grazie!",
+                "La fine qui nel racconto è un po' strappata, nel romanzo da cui ho tratto questa storia è molto più complessa. Grazie per avermi lasciato le tue impressioni."
+            ],
+            "timestamp": "2019-09-06T19:52:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44401-fdi-2019-3-tokulti-fuori-concorso//?do=findComment&comment=786763"
         }
     ],
     "post_staff": [],
