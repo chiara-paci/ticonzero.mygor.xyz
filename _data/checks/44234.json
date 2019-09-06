@@ -101,7 +101,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 40,
+    "num_posts": 41,
     "post_after": [
         {
             "post_id": 783850,
@@ -330,6 +330,17 @@
             ],
             "timestamp": "2019-09-06T06:24:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=786622"
+        },
+        {
+            "post_id": 786726,
+            "text": [
+                "Lo so, .",
+                "Con l'espressione \"il mio esordio nel mondo del fantasy\" volevo significare, in senso lato , la prima volta in cui scrivo distaccandomi dal reality (dalla realtà, dalla consistenza concreta dei fatti raccontati).",
+                "L'inizio è interessante; molto bella la frase \"l’Emerito Professor Arrigo Orbissano junior aveva scoperto un altro cielo dietro il cielo\". Per il resto però il racconto mi ha lasciato un po' freddino, non mi ha coinvolto più di tanto.",
+                "Mi fa piacere per il mio incipit, grazie"
+            ],
+            "timestamp": "2019-09-06T15:55:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44234-fdi-2019-3-i-raggi-rotti-del-sole//?do=findComment&comment=786726"
         }
     ],
     "post_staff": [],
