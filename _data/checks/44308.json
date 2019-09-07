@@ -111,7 +111,7 @@
     },
     "num_chars": 52,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 785053,
@@ -140,6 +140,17 @@
             ],
             "timestamp": "2019-09-06T15:40:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44308-a-braccia-nude//?do=findComment&comment=786725"
+        },
+        {
+            "post_id": 786856,
+            "text": [
+                "Trovo il tuo commento competente, accurato e indice di una buona sensibilità poetica, E sono lieta che la mia poesia abbia incontrato il tuo favore.",
+                "Grazie del passaggio,",
+                "Solo una cosa: gli incisi non dovrebbero essere delimitati dai trattini lunghi?",
+                "Può essere, sì. Ma quando ho pubblicato questi versi, volutamente non ho citato la parola \"haiku\" perché so che hanno mille regole, e io alcune non le ho rispettate di sicuro, come l'iniziale del primo verso minuscola e l'assenza del titolo (Senza titolo)."
+            ],
+            "timestamp": "2019-09-07T18:49:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44308-a-braccia-nude//?do=findComment&comment=786856"
         }
     ],
     "post_staff": [],
