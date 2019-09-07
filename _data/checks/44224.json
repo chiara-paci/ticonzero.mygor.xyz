@@ -61,7 +61,7 @@
     },
     "num_chars": 7980,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 783724,
@@ -116,6 +116,14 @@
             ],
             "timestamp": "2019-08-28T21:05:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44224-fdi-2019-3-premi-il-tasto-start//?do=findComment&comment=785151"
+        },
+        {
+            "post_id": 786824,
+            "text": [
+                "vi ringrazio per aver lasciato un commento e per gli apprezzamenti."
+            ],
+            "timestamp": "2019-09-07T13:53:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44224-fdi-2019-3-premi-il-tasto-start//?do=findComment&comment=786824"
         }
     ],
     "post_staff": [],
