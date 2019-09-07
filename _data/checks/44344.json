@@ -43,7 +43,7 @@
     },
     "num_chars": 7857,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 785404,
@@ -170,6 +170,15 @@
             ],
             "timestamp": "2019-09-06T07:42:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786626"
+        },
+        {
+            "post_id": 786817,
+            "text": [
+                "Ciao Edu, sei un bravo critico, hai colto esattamente il problema che, più o meno inconsciamente, avevo io col racconto (a parte il fatto che la poesia non era in metrica.) C'è un picco che arriva troppo presto e poi un brusco calo nel finale che non sono riuscito a risolvere. Devo sicuramente riscrivere la seconda parte o magari tagliarla del tutto (come dice mia zia, meglio togliere che mettere). Purtroppo ho la tendenza a voler lavorare sempre su cose nuove e non mi piace troppo rivedere il mio lavoro. Così poco tempo, così tante storie da scrivere! Cercherò di correggermi.",
+                "Grazie mille, Domenico."
+            ],
+            "timestamp": "2019-09-07T12:35:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44344-fdi-2019-3-il-secondo-avvento//?do=findComment&comment=786817"
         }
     ],
     "post_staff": [],
