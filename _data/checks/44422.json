@@ -44,8 +44,17 @@
     },
     "num_chars": 7644,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 786801,
+            "text": [
+                "Buon giorno cara grazie dell'aiuto. Tu dici che avrei dovuto strapazzarli un po? Da un lato hai ragione, ma dall'altro lato è contrario ai miei principi. Difatti nelle numerose risse avute sono stato coinvolto e per difendermi sono stato costretto a reagire.Ti auguro un buon fin e settimana e tanta fortuna"
+            ],
+            "timestamp": "2019-09-07T10:28:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44422-rimorchiatore-hascidot//?do=findComment&comment=786801"
+        }
+    ],
     "post_staff": [],
     "text": [
         "“ RIMORCHIATORE HASCIDOT “",

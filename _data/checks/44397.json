@@ -66,7 +66,7 @@
     },
     "num_chars": 10586,
     "num_commenti": 2,
-    "num_posts": 3,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 786831,
@@ -78,6 +78,14 @@
             ],
             "timestamp": "2019-09-07T14:27:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44397-la-morte-di-piero//?do=findComment&comment=786831"
+        },
+        {
+            "post_id": 786884,
+            "text": [
+                "grazie per l'attenzione!"
+            ],
+            "timestamp": "2019-09-07T22:03:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44397-la-morte-di-piero//?do=findComment&comment=786884"
         }
     ],
     "post_staff": [],

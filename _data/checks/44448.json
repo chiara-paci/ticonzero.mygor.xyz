@@ -1,0 +1,77 @@
+{
+    "author": {
+        "author_id": 16679,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "ohohboh",
+        "url": "https://www.writersdream.org/forum/profile/16679-ohohboh/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "ciao, concordo con quanto detto fin ora. Un racconto potente dal punto di vista narrativo, o meglio, una buonissima idea di partenza che tuttavia perde di forza per i troppi refusi e per un finale che personalmente non ho amato.",
+                    "L'omissione del verbo avere in questo periodo mi da l'impressione di un linguaggio fin troppo colloquiale, o quanto meno non adatto ad una prosa letteraria. (in generale l'intera prosa, come ho già detto, mi sembra poco curata, ma cito questo periodo per far capire bene cosa intendo.)",
+                    "Inoltre vorrei avere delucidazioni su un aspetto ben preciso della trama. Nel finale il lettore scopre che la voce narrante è un fantasma, ma esattamente perché? Com'è morto? C'entra qualcosa con la morte della sua Sara? Avresti potuto spiegare meglio questo aspetto, che a mio parere è fondamentale per l'intera storia. E Sara invece? Perché è morta? Da ciò che scrivi sembrerebbe essere stata vittima di femminicidio, ma non lo narri in modo dettagliato e questo confonde il lettore. In conclusione, una buona idea di partenza da arricchire e migliorare. Alla prossima!"
+                ]
+            ],
+            "timestamp": "2019-09-07T22:16:14Z",
+            "title": "( Io ) Vagabondo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786885",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2876,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Vi ho in pugno, vi controllo, vi ammalo. So di recare danni immensi e chiedo perdono, ma la verità è che tutto ciò mi diverte tantissimo.",
+        "Ah, dimenticavo, il divertimento è uno dei tanti lussi che non vi concederò, semmai ve ne darò la parvenza.",
+        "Penserete di muovervi e poter agire come meglio credete, ma vi svelo un segreto: siete pedine di piombo sulla mia immensa scacchiera, sono io a posizionarvi dove voglio.",
+        "Adesso è tempo di illustrare nel dettaglio le regole del gioco.",
+        "Nascerete tra il dolore fisico di un corpo che vi metterà al mondo e l’umido delle vostre stesse lacrime; piangerete perché consapevoli di ciò che vi aspetta.",
+        "Spegnerò quella vostra sana curiosità infantile, costringendovi ad impiegare tempo con nozioni sterili, che non formeranno la vostra anima.",
+        "Vi annichilirete, vi annullerete.",
+        "La vostra essenza verrà valutata da numeri, la voglia di scoprire si tramuterà presto in odio per la conoscenza.",
+        "Arriverete a detestare nel profondo la realtà, tanto che alle volte temo di un vostro rifiuto di stare al gioco, ma per fortuna ho pensato anche a come tenervi a bada.",
+        "Quelle strane scatoline illuminate che avete in mano vi daranno l’illusione di poter stare più vicini, ma serviranno solo ad infettarvi i sentimenti. Baserete autostima e amore reciproco sulla popolarità virtuale.",
+        "Sarete affetti da una malattia che si estenderà col tempo: il morbo del dover essere.",
+        "Vi mostrerò modelli che reputerete esempi di felicità, e in modo fallimentare vi struggerete per raggiungerli: queste vostre convinzioni malate prenderanno il nome di “obiettivi”. Penserete di avere qualcosa che non va, quindi assumerete gli stessi comportamenti di chi si è sentito sbagliato prima di voi, e così faranno tanti altri in un eterno circolo vizioso.",
+        "Se proverete a tirarvene fuori, a disertare la fatica, il malessere ed a perseguire un sogno verrete additati come virus, sbattuti fuori, ai margini.",
+        "Sarete numeri durante i vostri studi, catene di montaggio per la seconda parte del gioco.",
+        "Non sentirete i profumi del mondo, proverete emozioni inconsciamente imposte, il divertimento sarà qualcosa giudicato tale da i più, mai qualcosa che vi piacerà, eppure inizierete ad amare anche quella schiavitù.",
+        "La menzogna del progresso porterà alla distruzione del vostro stesso mondo, e un giorno della natura vi rimarrà un vago ricordo, forse qualche fotografia.",
+        "Andrete avanti così fino allo scadere del tempo, quando potrete dire addio a quest’inferno chiudendo gli occhi, in attesa che il vostro corpo diventi pasto per vermi.",
+        "Scusate se mi sono dilungato tanto, ma il solo parlare di tutto ciò mi provoca gran piacere. Questo mio gioco non avrà mai sosta, un divertimento che si protrarrà all’infinito.",
+        "A volte penso che se qualcuno di voi si svegliasse potrebbe domandarmi “perché ci fai questo? Perché non ci lasci respirare?”, ed io certamente risponderei",
+        "“Perché mi avete creato voi”."
+    ],
+    "timestamp": "2019-09-07T22:22:03Z",
+    "title": "Monologo del carnefice",
+    "topic_id": 44448,
+    "url": "https://www.writersdream.org/forum/forums/topic/44448-monologo-del-carnefice/"
+}
