@@ -55,7 +55,7 @@
     },
     "num_chars": 202,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 786994,
@@ -75,6 +75,23 @@
             ],
             "timestamp": "2019-09-08T19:19:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44451-punge//?do=findComment&comment=786994"
+        },
+        {
+            "post_id": 786997,
+            "text": [
+                "Ultima versione, credo definitiva.",
+                "Punge",
+                "Punge la tua assenza,",
+                "come l'ago il dito",
+                "di chi cuce con poca cura.",
+                "La differenza è tutta",
+                "nella perdita: per il sarto",
+                "rossa, contenibile",
+                "semplicemente",
+                "portandola alle labbra."
+            ],
+            "timestamp": "2019-09-08T19:49:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44451-punge//?do=findComment&comment=786997"
         }
     ],
     "post_staff": [],
