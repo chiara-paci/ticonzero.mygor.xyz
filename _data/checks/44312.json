@@ -47,7 +47,7 @@
     },
     "num_chars": 4682,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 786592,
@@ -87,6 +87,18 @@
             ],
             "timestamp": "2019-09-08T01:21:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786899"
+        },
+        {
+            "post_id": 786946,
+            "text": [
+                "Grazie",
+                "Il tuo e' stato il commento piu' particolareggiato e quello che mi e' piaciuto di piu'.",
+                "Per quanto riguarfa la punteggiatura, come ho scritto prima forse l'ho pubblicato un po' frettolosamente senza rivederlo a sufficienza.",
+                "Mentre l'andare a capo spesso e' un po' un mio stile, mi piace cosi anche se capisco cje possa non piacere ne' essere particolarmente corretto grammaticalmente.",
+                "A rileggerci, piacere di conoscerti."
+            ],
+            "timestamp": "2019-09-08T14:15:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786946"
         }
     ],
     "post_staff": [],
