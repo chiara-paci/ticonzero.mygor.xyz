@@ -51,7 +51,7 @@
     },
     "num_chars": 7843,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 784676,
@@ -119,6 +119,14 @@
             ],
             "timestamp": "2019-09-07T18:15:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=786852"
+        },
+        {
+            "post_id": 786906,
+            "text": [
+                "allora sono in debito di un antiemetico"
+            ],
+            "timestamp": "2019-09-08T07:52:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=786906"
         }
     ],
     "post_staff": [],
