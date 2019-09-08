@@ -66,7 +66,7 @@
     },
     "num_chars": 15773,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 786435,
@@ -84,6 +84,14 @@
             ],
             "timestamp": "2019-09-04T16:29:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44391-fd-2019-3-fuori-concorso-aspettative//?do=findComment&comment=786435"
+        },
+        {
+            "post_id": 786986,
+            "text": [
+                "grazie"
+            ],
+            "timestamp": "2019-09-08T18:18:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44391-fd-2019-3-fuori-concorso-aspettative//?do=findComment&comment=786986"
         }
     ],
     "post_staff": [],

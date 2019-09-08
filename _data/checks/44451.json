@@ -55,8 +55,28 @@
     },
     "num_chars": 202,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 786994,
+            "text": [
+                "(Nuova versione, spero più chiara e magari migliore)",
+                "Punge",
+                "Punge la tua assenza,",
+                "come l'ago il dito",
+                "di chi cuce con poca cura.",
+                "La differenza è tutta",
+                "nella perdita:",
+                "per il sarto",
+                "rossa",
+                "e contenibile",
+                "se portata",
+                "alle labbra."
+            ],
+            "timestamp": "2019-09-08T19:19:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44451-punge//?do=findComment&comment=786994"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento al testo altrui",
