@@ -48,7 +48,7 @@
     },
     "num_chars": 7863,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 784254,
@@ -151,6 +151,15 @@
             ],
             "timestamp": "2019-09-08T12:48:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=786941"
+        },
+        {
+            "post_id": 786988,
+            "text": [
+                "Per questo motivo, mi suggeriva di eliminare la frase \"",
+                "Quindi dovrò riflettere per bene. Lo avevo usato come indizio, perché mi lasciano spiazzati quei finali dove il personaggio, che ha il ruolo decisivo/incisivo nel racconto, spunti dal nulla, senza nessun preavviso. Valuterò alternative. Grazie infinite"
+            ],
+            "timestamp": "2019-09-08T18:38:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44254-fdi-2019-3-nel-cuore-di-giuda//?do=findComment&comment=786988"
         }
     ],
     "post_staff": [],
