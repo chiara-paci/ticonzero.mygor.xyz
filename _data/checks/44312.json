@@ -47,7 +47,7 @@
     },
     "num_chars": 4682,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 786592,
@@ -61,6 +61,32 @@
             ],
             "timestamp": "2019-09-05T19:21:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786592"
+        },
+        {
+            "post_id": 786897,
+            "text": [
+                "Ti ringrazio per il commento, gli appunti sono ineccepibili grazie, ma piu che stile poco curato direi poco tempo per scrivere.",
+                "L'ho scritto di getto ed e' rimasto li fino alla pubblicazione, fatta un po' frettolosamente."
+            ],
+            "timestamp": "2019-09-08T01:10:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786897"
+        },
+        {
+            "post_id": 786898,
+            "text": [
+                "Grazie! Appunti ineccepibili"
+            ],
+            "timestamp": "2019-09-08T01:12:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786898"
+        },
+        {
+            "post_id": 786899,
+            "text": [
+                "In realtà io credo che la storia vada raccontata cosi. Non spiego volutamente lascio intuire.",
+                "Grazie del commento"
+            ],
+            "timestamp": "2019-09-08T01:21:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44312-io-vagabondo//?do=findComment&comment=786899"
         }
     ],
     "post_staff": [],
