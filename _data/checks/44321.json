@@ -66,7 +66,7 @@
     },
     "num_chars": 7787,
     "num_commenti": 1,
-    "num_posts": 27,
+    "num_posts": 28,
     "post_after": [
         {
             "post_id": 785119,
@@ -153,6 +153,15 @@
             ],
             "timestamp": "2019-09-06T10:24:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=786663"
+        },
+        {
+            "post_id": 786927,
+            "text": [
+                "Ho lasciato libera interpretazione al lettore. Certo, nei commenti ho dato spiegazione, ma può andare bene anche quello che hai scritto tu.",
+                "Capisco, ma è quello che mi piaceva di più."
+            ],
+            "timestamp": "2019-09-08T11:59:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44321-fdi-2019-3-quello-che-veramente-vuoi//?do=findComment&comment=786927"
         }
     ],
     "post_staff": [],

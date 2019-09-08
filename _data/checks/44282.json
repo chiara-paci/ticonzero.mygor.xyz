@@ -61,7 +61,7 @@
     },
     "num_chars": 7989,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 784699,
@@ -138,6 +138,16 @@
             ],
             "timestamp": "2019-09-05T20:06:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=786600"
+        },
+        {
+            "post_id": 786931,
+            "text": [
+                "Grazie , grazie e grazie",
+                "Hai una buona memoria. Complimenti. Non posso dire nulla sulla poltrona su cui sto seduto. Forse ci sarò un'altra storia.",
+                "T'immagini se certi mobili potessero parlare e raccontare quante ne hanno viste ?"
+            ],
+            "timestamp": "2019-09-08T12:35:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44282-fdi-2019-3-monte-a-punta//?do=findComment&comment=786931"
         }
     ],
     "post_staff": [],
