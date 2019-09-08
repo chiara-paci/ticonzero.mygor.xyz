@@ -46,7 +46,7 @@
     },
     "num_chars": 433,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 784595,
@@ -103,6 +103,16 @@
             ],
             "timestamp": "2019-09-08T12:44:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=786936"
+        },
+        {
+            "post_id": 787006,
+            "text": [
+                "ho letto e commentato la tua poesia, ma ora mi sono accorta di non averti risposto pur avendola letta con piacere e attenzione",
+                "La tua analisi è stata perfetta ma la tavolata era veramente di giovani musicisti.Hai ragione comunque quando dici che quando si è giovani si è tutti un po' artisti. Pochi però ci rimangono. In più gli ambienti artistici mi sono cari per diverse ragioni.",
+                "In alto i calici e grazie del tuo passaggio"
+            ],
+            "timestamp": "2019-09-08T22:53:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44281-note-di-note//?do=findComment&comment=787006"
         }
     ],
     "post_staff": [
