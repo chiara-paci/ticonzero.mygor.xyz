@@ -49,7 +49,7 @@
     },
     "num_chars": 5578,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 786887,
@@ -64,6 +64,36 @@
             ],
             "timestamp": "2019-09-07T22:23:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44432-dal-frutto-tutta-la-sua-dolcezza-capitolo-3//?do=findComment&comment=786887"
+        },
+        {
+            "post_id": 786902,
+            "text": [
+                "Hai ragione avevo capito male.Scusami",
+                "Lo so Bob. Non ho il minimo dubbio credimi sulla tua sincera disponibilità , lo dicevo scherzando vista la diversità dei tuoi racconti spassosi,",
+                "Per quanto mi riguarda sei sempre gentilissimo e assolutamente prezioso per me."
+            ],
+            "timestamp": "2019-09-08T06:30:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44432-dal-frutto-tutta-la-sua-dolcezza-capitolo-3//?do=findComment&comment=786902"
+        },
+        {
+            "post_id": 787002,
+            "text": [
+                "Cavolo mi sono sbagliata con la faccina! Mi sembrava solo un po' adirata e invece intendeva altro ... comunque in effetti mi si è abbassata un po' la vista..",
+                "Chiedo scusa per la involontaria scivolata di stile ma vedi a volte.",
+                "Mannaggia. Proprio a te Bob che sei il mio lettore più assiduo"
+            ],
+            "timestamp": "2019-09-08T21:06:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44432-dal-frutto-tutta-la-sua-dolcezza-capitolo-3//?do=findComment&comment=787002"
+        },
+        {
+            "post_id": 787003,
+            "text": [
+                "Cavolo mi sono sbagliata con la faccina! Mi sembrava solo un po' adirata e invece intendeva altro ... comunque in effetti mi si è abbassata un po' la vista..",
+                "Chiedo scusa per la involontaria scivolata di stile ma vedi a volte.",
+                "Mannaggia. Proprio a te Bob che sei il mio lettore più assiduo"
+            ],
+            "timestamp": "2019-09-08T21:08:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44432-dal-frutto-tutta-la-sua-dolcezza-capitolo-3//?do=findComment&comment=787003"
         }
     ],
     "post_staff": [],
