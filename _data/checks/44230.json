@@ -56,7 +56,7 @@
     },
     "num_chars": 7988,
     "num_commenti": 1,
-    "num_posts": 35,
+    "num_posts": 37,
     "post_after": [
         {
             "post_id": 783759,
@@ -203,6 +203,25 @@
             ],
             "timestamp": "2019-09-06T10:07:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=786660"
+        },
+        {
+            "post_id": 787109,
+            "text": [
+                "Ciao , grazie per aver letto, sono contento ti sia piaciuto.",
+                "Per quanto riguarda il tenere per sé le parole di lui non è per il voler imparare, ma semplicemente perché ne è gelosa, ha paura che poi lui possa scrivere per il pubblico e non più soltanto per lei."
+            ],
+            "timestamp": "2019-09-09T13:54:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=787109"
+        },
+        {
+            "post_id": 787110,
+            "text": [
+                "Ciao , sì hai capito bene cosa intendevo.",
+                "Quelo non ci fai caso eraa più un non ci presti attebzione perché non ti interessa.",
+                "Grazie per aver letto."
+            ],
+            "timestamp": "2019-09-09T13:56:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=787110"
         }
     ],
     "post_staff": [],

@@ -76,8 +76,17 @@
     },
     "num_chars": 7623,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787129,
+            "text": [
+                "Grazie per il passaggio e i suggerimenti, !"
+            ],
+            "timestamp": "2019-09-09T16:08:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44408-subconscio-computabile//?do=findComment&comment=787129"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Dopo due anni di assenza dal forum, mi è tornata la voglia di scrivere qualcosa.",
