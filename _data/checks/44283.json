@@ -51,7 +51,7 @@
     },
     "num_chars": 7843,
     "num_commenti": 1,
-    "num_posts": 27,
+    "num_posts": 28,
     "post_after": [
         {
             "post_id": 784676,
@@ -127,6 +127,14 @@
             ],
             "timestamp": "2019-09-08T07:52:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=786906"
+        },
+        {
+            "post_id": 787101,
+            "text": [
+                "grazie"
+            ],
+            "timestamp": "2019-09-09T13:21:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44283-fdi-2019-3-il-cammino-del-codon-doro//?do=findComment&comment=787101"
         }
     ],
     "post_staff": [],
