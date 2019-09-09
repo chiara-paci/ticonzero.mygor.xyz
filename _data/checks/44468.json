@@ -1,0 +1,63 @@
+{
+    "author": {
+        "author_id": 10369,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Banana",
+        "url": "https://www.writersdream.org/forum/profile/10369-banana/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.65,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.65
+            },
+            "text": [
+                [
+                    "Ciao,",
+                    "ho letto il tuo racconto.",
+                    "Sfoltirei innanzitutto il superfluo, le ripetizioni in particolar modo: guarda ad esempio quante volte nel testo compare \"Il vecchio\".",
+                    "Qualche refuso qua e là, ma non è una cosa a cui faccio molto caso: \"in dietro\", \"lo tese impegnato\". Ogni tanto mi sono imbattuto in costruzioni rivedibili: \"mentre guardava cupo fuori﻿\". Altre espressioni invece potrebbero essere rese meglio in quanto un po' piatte: \"Lo scorrere del tempo era una cosa ansiosa\"; altre ancora suonano piuttosto insolite seppur pienamente comprensibili: \"Cercò di aprire meglio le orecchie\" (come si fa ad aprirle meglio?).",
+                    "Lavorerei quindi di sottrazione. Ma è un mio parere.",
+                    "Un saluto,",
+                    "B."
+                ]
+            ],
+            "timestamp": "2019-09-09T18:46:02Z",
+            "title": "Il vecchio e il temporale",
+            "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=787149",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1328,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Chi siamo e saremo",
+        "La pioggia che cade del cielo nero nasconde ogni cosa, lascia intravedere uno scampolo di luna: minuscole gocce di pioggia in grado di estinguere stelle grandi centinaia di volte il nostro sole. A osservare il miracolo dalla finestra c’è Arianna. Tiene un taccuino sulle ginocchia e fa scorrere da sinistra a destra una penna sul punto di esaurirsi, a cui rimane la forza di rilasciare solamente linee appena percettibili riuscendo a espellere una rabbia che si riflette nella pressione cui è sottoposta la punta della penna stessa, che a tratti squarcia il foglio come se urlasse. E no, niente scorciatoie quest’oggi sotto un cielo così nero da nascondere le stelle, sotto questa pioggia che non smette di cadere e occulta ogni cosa, sopra questo mondo cattivo e confusionario che alla faccia dei labirinti io da quelli ci esco a occhi chiusi. Da qualche parte una donna sta morendo e il dolore è diluito nello spazio, si disperde, svanisce e con esso si accompagna la perdita della memoria, ultimo affronto che dovrebbe renderci tutti uniti e indivisibili, ma noi continuiamo a pensare ai cazzi nostri e a come anche da soli possiamo cambiare le cose e diventare qualcuno in questo mondo che ci mastica senza darci il tempo di accorgercene ed eccoci già digeriti e pronti a non sapere più chi siamo e saremo."
+    ],
+    "timestamp": "2019-09-09T18:54:51Z",
+    "title": "Chi siamo e saremo",
+    "topic_id": 44468,
+    "url": "https://www.writersdream.org/forum/forums/topic/44468-chi-siamo-e-saremo/"
+}
