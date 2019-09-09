@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.6688888888888889,
+        "valid": 0.6967032967032967,
         "weight": true
     },
     "closed": false,
@@ -40,7 +40,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.6688888888888889
+                "valid": 0.6967032967032967
             },
             "text": [
                 [
@@ -48,6 +48,12 @@
                     "è una poesia giovane ribelle, ma forse sarebbe più giusto dire appassionata perché in qualche modo è l'occhio di chi non si accontenta degli aforismi di chi profetizza per maturità o esperienza, e nello stesso tempo la trovo profonda riflessiva che guarda dentro se stessi, di chi, pur soffrendo vuole comprendere e vedere al di là, provando sbagliando ma con la luce di un navigatore che attraversa con audace e non senza ostacoli il mare.",
                     "Ho provato a fare delle piccole variazioni che ti dico con sincerità non sono il frutto di un'esperta di metrica ecc. ma solo il mio gusto personale e che potrebbe offriti un'altra",
                     "versione che ovviamente potrebbe non piacerti affatto.Comunque piaciuta. Brava"
+                ],
+                [
+                    "ah ah ... è un periodo che faccio delle gaffe anche nell'utilizzo degli emoji ...scusami, in ogni caso immaginavo tu fossi un uomo in quanto 'impiccato inverso...'",
+                    "anche se poi ci può essere un recitativo anche nella poesia, perché no.",
+                    "Comunque bravo eh eh spero sia la faccina giusta ma mi pare proprio di si.",
+                    "A rileggerci"
                 ]
             ],
             "timestamp": "2019-09-06T16:03:39Z",
