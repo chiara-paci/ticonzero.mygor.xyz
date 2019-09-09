@@ -60,7 +60,7 @@
     },
     "num_chars": 7998,
     "num_commenti": 1,
-    "num_posts": 31,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 783908,
@@ -156,6 +156,15 @@
             ],
             "timestamp": "2019-09-06T11:30:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=786677"
+        },
+        {
+            "post_id": 787139,
+            "text": [
+                "Sì, mi sono accorta anch'io dell'incogruenza. Io intendevo in ottimo italiano quel che viene dopo, quindi per renderlo più chiaro avrei dovuto mettere la frase alla fine della battuta di dialogo, però mi suonava meglio in mezzo... Vedrò come risolvere",
+                "Sono contenta che per il resto ti sia piaciuto, è un genere che non avevo mai provato, ma visti i commenti positivi forse dovrei pensarci"
+            ],
+            "timestamp": "2019-09-09T16:59:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44238-fdi-2019-3-una-scoperta-sensazionale//?do=findComment&comment=787139"
         }
     ],
     "post_staff": [],
