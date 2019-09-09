@@ -44,7 +44,7 @@
     },
     "num_chars": 7644,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 786801,
@@ -53,6 +53,14 @@
             ],
             "timestamp": "2019-09-07T10:28:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44422-rimorchiatore-hascidot//?do=findComment&comment=786801"
+        },
+        {
+            "post_id": 787005,
+            "text": [
+                "Ciao tu non immagini quanto mi lieta un tuo commento. Grazie del passaggio, ti auguro una buona settimana e di vincere il contest."
+            ],
+            "timestamp": "2019-09-08T21:58:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44422-rimorchiatore-hascidot//?do=findComment&comment=787005"
         }
     ],
     "post_staff": [],

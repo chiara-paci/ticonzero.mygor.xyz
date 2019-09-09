@@ -1,0 +1,65 @@
+{
+    "author": {
+        "author_id": 33701,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "YuriMila",
+        "url": "https://www.writersdream.org/forum/profile/33701-yurimila/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.47333333333333333,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.47333333333333333
+            },
+            "text": [
+                [
+                    "Ciao , ho letto il tuo frammento, devo dire che mi ha molto colpito. Può essere usato, per come la vedo io, come incipit, ma starebbe bene anche come finale.",
+                    "Una cosa che ho notato è questa:",
+                    "In questa frase si ripetono due volte \"erano\" e \"compagni\", scelta che personalmente non mi convince molto.",
+                    "Ho notato anche che fai molto uso del verbo essere, quindi scrivi troppe volte \"era\", cosa che ho trovato un po' ripetitiva.",
+                    "Come hanno già detto prima, l'uso dei \"che\" non è il massimo.",
+                    "Per il resto è un bel frammento, complimenti."
+                ]
+            ],
+            "timestamp": "2019-09-09T11:42:10Z",
+            "title": "Pensieri",
+            "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri//?do=findComment&comment=787084",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 3449,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il vecchio si stava dondolando con la sua seggiola, davanti alla finestra, mentre guardava cupo fuori. Era da ore che ripeteva sempre gli stessi movimenti, prima in dietro, poi in avanti, in dietro poi in avanti. Cercava di mantenere un ritmo. Il vecchio abitava in una villa antica, le stanze erano fatte di legno. Quella in cui si trovava ora era la camera da letto. L’orologio segnava le ventidue, il vecchio aveva sonno, ma non riusciva con le sue forze a raggiungere il letto. Avrebbe dormito sulla sedia quella notte. Un tuono ruppe il silenzio. Ci fu un lampo un secondo prima. Con le sue dita, fece un uno come segno.",
+        "«300 metri» disse dentro la sua testa.",
+        "Da quella posizione si riuscivano a sentire i cani abbaiare in giardino. Ci fu un altro lampo. Il vecchio provò molta tensione, chissà quando sarebbe arrivato il suono. Un secondo? Due? Guardò in cielo. Il tuono non sembrò mai arrivare. I cani avevano smesso di abbagliare. La sedia si era fermata. Il tuono si fece vivo. Il vecchio fece un due con la mano.",
+        "«600 metri» disse dentro la sua testa.",
+        "Le luci dei lampioni nel sentiero si fecero più fioche. Ormai non si riusciva quasi più a vedere niente. Il vecchio si tolse gli occhiali, mise la mano all’interno della sua giacca ed estrasse un piccolo pezzo di seta. Si pulì gli occhiali. Quest’azione lo tese impegnato per mezzo minuto. In quel lasso di tempo non ci fu neanche un lampo, la situazione sembrava ritornata alla normalità. Ma proprio in quell’attimo, il vecchio vide una figura sinistra avanzare lungo il sentiero. Sembrava un uomo che camminava sotto la pioggia, nascosto dalle ombre. La poca luce dei lampioni ne rappresentavano solo la sagoma. Era alto, snello. Chi poteva essere? Cosa voleva a quest’ora? Il suo cuore incominciò a pompare sangue più velocemente. Il vecchio cercò di alzarsi ma le gambe non riuscivano a reggere. C’era assoluto silenzio. La pioggia era ormai sparita, le ultime gocce erano prossime ad andarsene. Con tutte le sue forze, cercò di raggiungere il letto, riuscendoci. Si sdraiò. Dentro di lui i pensieri incominciarono a farsi pesanti. Non mancavano le domande. Quello che aveva visto era reale? E se fosse stato un ladro? Il vecchio abitava da solo. La badante andava via dopo cena e ritornava la mattina. Girò la testa prima a sinistra, poi a destra. Non c’era niente per difendersi. In quel momento non sapeva più a cosa pensare. Una sola cosa poteva fare: accucciarsi dentro le coperte. Poteva sembrare un gesto infantile, forse, ma in quella situazione anche un semplice gesto poteva farlo sentire meglio. Ci fu un altro tuono nel mezzo del silenzio. La luce se ne andò. La stanza era buia, la poca luce della luna bastava a malapena per vederci. L’unico senso che ora poteva utilizzare era l’udito. Cercò di aprire meglio le orecchie: nessun rumore. Passarono diversi minuti, non sembrava essere successo niente. Che se lo sia veramente immaginato? Lo scorrere del tempo era una cosa ansiosa, in quel momento il vecchio voleva solo che ritornasse il giorno, la luce e la badante. Oppure voleva dormire, lasciarsi alle spalle questo mondo e abbandonarsi ai sogni. Ogni cosa che lo poteva fare distrarre sarebbe stata ben accetta. Ma ecco che un suono interruppe i suoi pensieri. Erano passi. Qualcuno stava salendo le scale. Lentamente. Molto lentamente. Quella lentezza era angosciante. Il pavimento scricchiolò, i passi si fecero più forti, più vicini. Qualcuno era davanti alla porta"
+    ],
+    "timestamp": "2019-09-09T12:14:36Z",
+    "title": "Il vecchio e il temporale",
+    "topic_id": 44464,
+    "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale/"
+}
