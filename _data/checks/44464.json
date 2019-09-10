@@ -48,7 +48,7 @@
     },
     "num_chars": 3449,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787152,
@@ -57,6 +57,14 @@
             ],
             "timestamp": "2019-09-09T18:57:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=787152"
+        },
+        {
+            "post_id": 787250,
+            "text": [
+                "Grazie mille per aver commentato e . Mi avete dato ottimi consigli."
+            ],
+            "timestamp": "2019-09-10T19:02:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=787250"
         }
     ],
     "post_staff": [],
