@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 30650,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "davidep",
+        "url": "https://www.writersdream.org/forum/profile/30650-davidep/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.7711111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7711111111111111
+            },
+            "text": [
+                [
+                    "Caro ,",
+                    "mi è piaciuto molto il racconto. In particolare:",
+                    "1) la caratterizzazione dei personaggi è ben fatta: si vede chiaramente l'ottusa attitudine burocratica del Prof. Carta che parla di recesso e di penali e anche la sua superficialità nel non considerare le, giuste, preoccupazioni del Sig. Amati. Il Sig. Amati, invece dimostra chiaramente di essere consapevole del pericolo a cui potrebbe andare incontro e riesce a concludere in modo coerente il racconto con una battuta (finale).",
+                    "2) I dialoghi, muovono il racconto in modo fluido e mi hanno anche fatto sorridere. Vorrei fare un appunto però:",
+                    "In particolare quando fa riferimento in modo specifico a Tonezza del Cimone. Diamo fiducia ai nostri lettori: loro, a differenza del gretto Prof. Carta, sanno cosa era l'Italia nel '44.",
+                    "Complimenti!"
+                ]
+            ],
+            "timestamp": "2019-09-10T20:48:54Z",
+            "title": "1944",
+            "url": "https://www.writersdream.org/forum/forums/topic/44085-1944//?do=findComment&comment=787267",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4556,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "L'invalicabile muro di sterpi e vecchi rovi infranse le illusioni di Aurelio: ancora una volta non sarebbe riuscito ad arrivare in vetta.",
+        "\"E anche da qua non si passa\", pensò amareggiato di fronte a quel tenace groviglio al limite della ripida pietraia.",
+        "Senza l'aiuto di una roncola o di un falcetto sarebbe stato impossibile proseguire.",
+        "Da quando era tornato a vivere in paese, Aurelio aveva provato a salire in vetta già altre volte, trovando sempre i sentieri impraticabili o abbandonati all'incuria.",
+        "Sconsolato, si sedette su una roccia per godersi il vento di tramontana che spirava con dolcezza dal mare e risaliva accarezzando i fianchi della montagna.",
+        "\"Forse davvero non resta che salire per la direttissima\", pensò mentre scrutava il fianco glabro della montagna cercando di scorgerne il percorso.",
+        "Soltanto qualche vecchio pastore passava dalla direttissima e qualcuno aveva perso la vita su quel sentiero in tempi remoti.",
+        "Aurelio realizzò che non avrebbe avuto altre alternative e, stretti i lacci degli scarponi, si avviò con passo deciso verso il fondovalle accompagnato dagli scricchiolii dei sassi che, calpestati, schizzavano impazziti.",
+        "L'indomani partì poco prima dell'alba e si addentrò in un denso bosco di lecci attraverso un sentiero ripido e malridotto ma ben segnato.",
+        "I primi raggi di sole penetravano già tra i rami quando Aurelio raggiunse una radura con un antico fontanile in pietra un tempo usato dalle bestie al pascolo.",
+        "Proseguì arrampicandosi su una piccola falesia senza particolari difficoltà e riprese il sentiero che, dopo qualche ora, si apriva su un altopiano carsico e assolato alla base del massiccio calcareo della vetta.",
+        "Nel cielo una poiana volteggiava silenziosa e dal prato saliva ipnotico il ronzio delle api che danzavano intorno ai fiori.",
+        "Un odore, o forse quel cielo blu quasi irreale, riportò Aurelio indietro nel tempo con i ricordi a quando nel paese risuonavano le voci che lo abitavano: massaie che trasportavano il bucato in ampie tinozze e i calzolai che cantavano nelle loro botteghe sempre aperte.",
+        "Le interminabili partite con i soldatini di piombo, poggiati con meticolosa destrezza sugli scalini di roccia delle case e quelle chiacchierate col fratello Mariano durante le notti d'agosto.",
+        "Come quell'ultima volta, quando Mariano gli chiese se sarebbe mai tornato e si abbracciarono a lungo. Poi quell'infame telegramma: Mariano non c'era più, un incidente se l'aveva portato via lasciando solo ricordi sbiaditi.",
+        "Il ricordo di Mariano, destò Aurelio che passo dopo passo raggiunse il fianco della vetta, oltre mezzacosta.",
+        "Il cuore pompava sangue e il respiro, che non era più quello regolare e quasi piacevole di una comoda passeggiata, era diventato l'afono e sgraziato lamento tipico dell'affanno.",
+        "Il sole, ormai alto, infuocava la parete rocciosa su cui Aurelio procedeva quasi a carponi per lunghi tratti a causa della pendenza.",
+        "Il terreno era un vasto tappeto di piccoli sassi, scaglie, frammenti di pietra adagiato sul piano inclinato del fianco della montagna: ogni passo era più incerto del precedente.",
+        "Inaspettata, una brusca scivolata fece arretrare Aurelio di qualche metro, che si spezzò un'unghia nel tentativo maldestro di aggrapparsi al terreno.",
+        "Imprecò e si alzò facendo attenzione, ma appena mosse il piede sinistro fu trascinato giù da una forza irresistibile. Scivolava verso il basso tentando di aggrapparsi a effimeri appigli nel terreno. Disperato, puntò i piedi nel tentativo di arrestare la caduta ma fu infine sbalzato con violenza su uno sperone.",
+        "Poi il buio.",
+        "Quando riaprì gli occhi il sole era già basso. Un dolore infernale gli stringeva la testa: con fatica le forme ripresero sembianze note.",
+        "Si toccò il viso, coperto da una appiccicosa colata di sangue rappreso. Aveva tagli profondi e graffi più superficiali su tutto il corpo.",
+        "I vestiti erano laceri e impolverati. Capì che non aveva nessun arto rotto e riuscì anche a sollevarsi sulle ginocchia.",
+        "Guardò in alto verso la vetta e, nonostante la caduta, valutò l'ascesa come ancora possibile. Cosi, un piede dopo l'altro, ricominciò a camminare.",
+        "Oltrepassò il punto dove era scivolato e con un precario equilibrio e il busto attaccato alla parete di roccia arrivò davanti un pertugio tra due speroni: con un ultimo sforzo e con l'aiuto delle mani conquistò la cima.",
+        "Seduto sul ciglio della montagna guardò verso meridione: le prime luci laggiù in pianura, avvolte nel rossore crepuscolare, spuntavano timide. Una strana, innaturale, folata di vento lo distrasse da quel panorama. Aurelio si voltò: Mariano era lì che lo aspettava con un sorriso."
+    ],
+    "timestamp": "2019-09-10T20:53:34Z",
+    "title": "L'ascesa",
+    "topic_id": 44479,
+    "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa/"
+}
