@@ -1,0 +1,89 @@
+{
+    "author": {
+        "author_id": 30219,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ali_spiegate",
+        "url": "https://www.writersdream.org/forum/profile/30219-ali_spiegate/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9433333333333334,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9433333333333334
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "ho letto la tua poesia e l'evoluzione di questa nelle successive modifiche.",
+                    "A mio avviso, proprio il fatto che vi siano più versioni consente di intravedere una maturità nel significato, che però ancora rincorre se stesso, rimanendo evidente nelle parole ma monco nell'atmosfera che una poesia dovrebbe creare. E' una poesia d'amore, un amore ricercato ma non trovato, in cui il parallelismo che funziona è tra il sarto che consola la propria ferita e l'io narrante che invece non riesce.",
+                    "Credo, ma sempre per mio parere, che il tuo scritto sia ancora vincolato alla prosa e si esprime in maniera troppo discorsiva in cui emerge l'intensità del messaggio ma in maniera didascalica. Oserei ancora qualche modifica, se fosse mio proporrei qualcosa del genere:",
+                    "Punge la tua assenza,",
+                    "ago nel dito di chi cuce senza cura.",
+                    "Si consola il sarto",
+                    "con la ferita alle labbra,",
+                    "le mie restano sole.",
+                    "Ferita pulsante,",
+                    "senza di te.",
+                    "Spero di esserti stato utile! A presto"
+                ]
+            ],
+            "timestamp": "2019-09-10T14:48:23Z",
+            "title": "Punge",
+            "url": "https://www.writersdream.org/forum/forums/topic/44451-punge//?do=findComment&comment=787219",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 577,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Alle armi, soldato",
+        "c’è da combattere al fronte.",
+        "Attento alla schiena, lì colpisce il nemico,",
+        "colpisce l’amico,",
+        "colpisce il distratto,",
+        "a chi non importa a chi non ci bada",
+        "chi colpisce la vita in ogni sua trama.",
+        "Alle armi, soldato",
+        "credici ancora,",
+        "una guerra di stenti",
+        "la speranza in ogni aurora.",
+        "Combattono le genti, combattono le genti.",
+        "Alle armi soldato",
+        "il peggior avversario è arrivato,",
+        "non sparare al tuo volto",
+        "la faccia è già tetra",
+        "la vesti di blu",
+        "umorismo malsano che gioca a far male",
+        "ma prova a cambiare",
+        "sei pur sempre tu.",
+        "Alle armi soldato",
+        "C’è ancora da vivere fuori,",
+        "fuori dalle tue prigioni."
+    ],
+    "timestamp": "2019-09-10T14:55:38Z",
+    "title": "soldato",
+    "topic_id": 44473,
+    "url": "https://www.writersdream.org/forum/forums/topic/44473-soldato/"
+}

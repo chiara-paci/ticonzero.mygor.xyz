@@ -52,7 +52,7 @@
     },
     "num_chars": 8019,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 786755,
@@ -80,6 +80,14 @@
             ],
             "timestamp": "2019-09-06T21:05:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=786771"
+        },
+        {
+            "post_id": 787187,
+            "text": [
+                "Ripasso con calma questa sera se ce la faccio, sennò domani. Grazie del passaggio!"
+            ],
+            "timestamp": "2019-09-10T10:51:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=787187"
         }
     ],
     "post_staff": [],
