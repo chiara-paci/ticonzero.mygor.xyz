@@ -57,7 +57,7 @@
     },
     "num_chars": 4909,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 786560,
@@ -70,6 +70,14 @@
             ],
             "timestamp": "2019-09-05T12:43:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44343-i-giorni-della-malattia//?do=findComment&comment=786560"
+        },
+        {
+            "post_id": 787215,
+            "text": [
+                "Adelaide, grazie per le belle parole. Sono d’accordo con te: anche se è un terreno impervio è quello che amo di più per i miei scritti. :)"
+            ],
+            "timestamp": "2019-09-10T14:29:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44343-i-giorni-della-malattia//?do=findComment&comment=787215"
         }
     ],
     "post_staff": [],
