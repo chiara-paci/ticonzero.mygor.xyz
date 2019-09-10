@@ -50,7 +50,7 @@
     },
     "num_chars": 352,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 785283,
@@ -65,6 +65,16 @@
             ],
             "timestamp": "2019-08-29T17:32:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44332-grembo//?do=findComment&comment=785283"
+        },
+        {
+            "post_id": 787191,
+            "text": [
+                "Benvenuto in WD e benvenuto da me.Ricordati che quando fai un commento devi sempre inserire il link. Dopo aver cliccato chiocciola Sulla destra punti il mouse e clicchi dal menu il nick dello scrittore che vuoi commentare.",
+                "Ti ringrazio di aver scelto la mia poesia e di averci trovato un riscontro emozionale. Alla prossima tua",
+                "😉"
+            ],
+            "timestamp": "2019-09-10T11:09:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44332-grembo//?do=findComment&comment=787191"
         }
     ],
     "post_staff": [],

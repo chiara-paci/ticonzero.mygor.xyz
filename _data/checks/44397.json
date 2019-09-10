@@ -66,7 +66,7 @@
     },
     "num_chars": 10586,
     "num_commenti": 2,
-    "num_posts": 6,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 786831,
@@ -86,6 +86,14 @@
             ],
             "timestamp": "2019-09-07T22:03:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44397-la-morte-di-piero//?do=findComment&comment=786884"
+        },
+        {
+            "post_id": 787179,
+            "text": [
+                "grazie per l'attenzione e per il giudizio. Sullo stile, credo non sia solo questione di tua sensibilità individuale, poiché non è la prima volta che ciò mi viene appuntato. Ciò nondimeno, capacità mie di migliorare a parte, lo trovo funzionale al tono che desidero attribuire a molti miei racconti. Infatti, mi è utile per rendere un qualche contrasto tra i contenuti e la coscienza narrante. Contrasto che trovo favorisca un'atmosfera tragicomica. Grazie ancora e ciao."
+            ],
+            "timestamp": "2019-09-10T09:21:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44397-la-morte-di-piero//?do=findComment&comment=787179"
         }
     ],
     "post_staff": [],
