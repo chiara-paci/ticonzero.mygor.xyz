@@ -1,0 +1,59 @@
+{
+    "author": {
+        "author_id": 28521,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Neachel",
+        "url": "https://www.writersdream.org/forum/profile/28521-neachel/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Un'introduzione scorrevole, lineare, aiutata dalle rime tutte uguali che rendono il ritmo della prima strofa sicuramente incalzante.",
+                    "Ancora il messaggio della poesia non è chiaro, ovviamente, ma vi è già la possibilità di presagire in lontananza un senso sia di speranza unito ad una grande incertezza.",
+                    "Nella seconda strofa, si può già notare un grosso cambio di tono: l'incerta speranza è diventata, adesso, non più un motivo per andare avanti, ma piuttosto un motivo per rifugiarsi e rinchiudersi in se stessi, vittima ognuno di noi delle limitazioni più che conosciute dell'essere umano. L'unico modo per evadervi, temporaneamente, è il distogliere lo sguardo, l'attenzione, e riporla altrove.",
+                    "La realizzazione di ciò che prima ho esplicitato, porta rapidamente all'abbandono della volontà. Essa diventa schiava della logica nichilista, e non può più scapparne. La volontà si azzera ed, annichilita dalla cruda verità da poco conquistata, rimane in bilico fra la vittoria e la sconfitta, lasciandosi trascinare dagli eventi piuttosto che dominandoli.",
+                    "Non resta altro, quindi, che aspettare.",
+                    "Non si può fare nient'altro se non sedersi ed ammirare il passaggio del tempo che, prima o poi, porterà ogni storia alla sua conclusione. Ci si troverà lì, alla fine di tutto, per compiacersi della concretizzazione della stessa, ma provando dolore per essere stati dalla parte della ragione. In fondo, ognuno di noi non vuole altro che essere smentito, quando la verità che scopre non gli aggrada."
+                ]
+            ],
+            "timestamp": "2019-09-10T17:02:30Z",
+            "title": "La verità è figlia del tempo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787239",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 0,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [],
+    "timestamp": "2019-09-10T17:12:14Z",
+    "title": "Soliloquio",
+    "topic_id": 44476,
+    "url": "https://www.writersdream.org/forum/forums/topic/44476-soliloquio/"
+}
