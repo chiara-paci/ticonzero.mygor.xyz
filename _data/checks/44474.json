@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.9688888888888889,
+        "valid": 0.9766483516483517,
         "weight": true
     },
     "closed": false,
@@ -46,7 +46,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.9377777777777778
+                "valid": 0.9532967032967034
             },
             "text": [
                 [
@@ -57,6 +57,9 @@
                     "A parte queste due sciocchezze il resto fila liscio, è una lettura piacevole venata di un umorismo gradevole e lievemente surreale.",
                     "Con pochissimi tratti sei riuscito a delineare bene la figura del narratore, ma anche quella della moglie che emerge da brevissime annotazioni e pensieri del protagonista. Partendo da una situazione assolutamente plausibile hai costruito un racconto in cui ogni cosa viene affrontata con un eccesso di serietà che diventa comica e dei personaggi che parlano fra loro senza mostrare alcuna espressività è coinvolgimento, impassibili come dei Buster Keaton parlanti.",
                     "In conclusione un racconto piacevole e ben scritto."
+                ],
+                [
+                    "In realtà è un accostamento un po' tirato per i capelli, si tratta di un comico dei tempi del muto che rimane impassibile di fronte a qualsiasi evento. Sicuramente ci sarebbero accostamenti più azzeccati, ma mi è venuto in mente quello"
                 ]
             ],
             "timestamp": "2019-09-10T14:43:16Z",
@@ -74,8 +77,41 @@
     },
     "num_chars": 15522,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 787288,
+            "text": [
+                "Finalmente una persona dotata di gusto e intelligenza! (Dovrebbero inserirti in giuria per i premi Nobel )",
+                "Grazie , sono molto contento che il racconto ti sia piaciuto e che si colga l'omaggio a Marquez."
+            ],
+            "timestamp": "2019-09-11T08:01:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44474-chi-bussa-alla-porta-di-jacques-leclerc//?do=findComment&comment=787288"
+        },
+        {
+            "post_id": 787290,
+            "text": [
+                "È il mio dramma, me lo dicono in ogni racconto, ma del resto prima o poi le storie si devono chiudere, soprattutto quando c'è un limite di caratteri",
+                "Grazie per gli apprezzamenti e le segnalazioni.",
+                "Hai sicuramente ragione sulla ripetizione dell'atto del guardare, ma, a mia discolpa, posso dire che nella prima parte del racconto il guardare è proprio il nucleo della storia. È una storia tutta visuale che ho cercato di rendere più con il tell che con lo show. La differenza fra Leclerc e gli altri uomini è proprio nel come guarda. Forse avrei potuto aggiungere qualche nota degli altri sensi, ma temevo che distogliesse l'attenzione proprio dagli sguardi.",
+                "Ho cercato di stirare le frasi alla massima lunghezza possibile.",
+                "Lo lascerò riposare un po' e poi gli metterò mano riguardando le cose che mi hai segnalato.",
+                "Grazie"
+            ],
+            "timestamp": "2019-09-11T08:13:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44474-chi-bussa-alla-porta-di-jacques-leclerc//?do=findComment&comment=787290"
+        },
+        {
+            "post_id": 787293,
+            "text": [
+                "Tutto il racconto è un esperimento di scrittura, un esercizio stilistico in una direzione opposta da quello che insegnano i manuali di scrittura e in parte lontana anche dal mio stile \"normale\". In realtà non credo però che spezzarle le renderebbe migliori, sicuramente più scorrevoli, ma parte del fascino del racconto (se ne ha uno) è dato, almeno credo, anche dalla scrittura che ti si avvolge attorno. L'atmosfera non è solo in quello che descrivo, ma anche nella forma. In una forma diversa diventerebbe un racconto diverso.",
+                "Capisco benissimo che la lunghezza delle frasi e la ricchezza di coordinate e subordinate possa diventare fastidiosa",
+                "Grazie per le segnalazioni e gli apprezzamenti"
+            ],
+            "timestamp": "2019-09-11T08:22:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44474-chi-bussa-alla-porta-di-jacques-leclerc//?do=findComment&comment=787293"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento 1:",
