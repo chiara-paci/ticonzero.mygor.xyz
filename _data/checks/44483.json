@@ -45,8 +45,30 @@
     },
     "num_chars": 222,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 787360,
+            "text": [
+                "Versione riveduta",
+                "Autunno",
+                "È già foglia",
+                "la tua mano",
+                "che racchiude la mia.",
+                "Esitante nel gesto,",
+                "sospesa.",
+                "Prossima alla caduta.",
+                "Dita mosse",
+                "da un debole soffio,",
+                "così le labbra:",
+                "accenno di suono",
+                "che si sfalda",
+                "al confine con la mia bocca."
+            ],
+            "timestamp": "2019-09-11T16:49:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44483-autunno//?do=findComment&comment=787360"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento al testo altrui",
