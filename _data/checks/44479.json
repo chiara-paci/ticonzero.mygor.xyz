@@ -48,8 +48,18 @@
     },
     "num_chars": 4556,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787296,
+            "text": [
+                "Grazie tanto ! Suggerimenti sempre preziosi!",
+                "a presto!"
+            ],
+            "timestamp": "2019-09-11T08:41:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787296"
+        }
+    ],
     "post_staff": [],
     "text": [
         "L'invalicabile muro di sterpi e vecchi rovi infranse le illusioni di Aurelio: ancora una volta non sarebbe riuscito ad arrivare in vetta.",

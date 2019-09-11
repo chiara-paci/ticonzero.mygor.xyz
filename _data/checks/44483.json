@@ -1,0 +1,71 @@
+{
+    "author": {
+        "author_id": 32276,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "spaiato",
+        "url": "https://www.writersdream.org/forum/profile/32276-spaiato/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "È un bel componimento. Sembra un quadro, dipinto con tocchi estremamente delicati. La morbidezza delle parole da te scelte ne è la prova. Lo definirei un chiaroscuro, per la contrapposizione tra le immagini della prima parte (quell'inchiostro che piove sul lago trasmette una sensazione tutt'altro che leggera, anzi cupa e pesante) e le immagini della seconda, in cui rimane il senso di oppressione che vuoi trasmettere, ma rimane più tenue, in un certo senso si risolve con quelle impronte di vento che, per lo meno sul piano lessicale e metaforico, trasmettono anche un senso di leggerezza.",
+                    "Quindi sei stata molto abile in tutto questo, hai ricreato con efficacia una contrapposizione che è il fiore all'occhiello di questa poesia, oltre allo stile così levigato, pulito, curato.",
+                    "\"Sulle punte del silenzio” : questa immagine mi fa pensare al movimento, ma un movimento appena accennato, abbozzato, quasi per non disturbare . Mi piace il termine “errare”, mi trasmette un'idea di sbandamento, instabilità, confusione; un procedere a stento. Complimenti"
+                ]
+            ],
+            "timestamp": "2019-09-11T11:06:25Z",
+            "title": "Sulle punte del silenzio",
+            "url": "https://www.writersdream.org/forum/forums/topic/43832-sulle-punte-del-silenzio//?do=findComment&comment=787315",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 222,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "Autunno",
+        "È già foglia",
+        "la tua mano",
+        "che racchiude la mia.",
+        "Esitante nel gesto",
+        "sospesa",
+        "prossima alla caduta.",
+        "Dita mosse",
+        "da un debole soffio,",
+        "così le labbra:",
+        "accenno di suono",
+        "che si sfalda",
+        "al confine con la finestra."
+    ],
+    "timestamp": "2019-09-11T11:10:36Z",
+    "title": "Autunno",
+    "topic_id": 44483,
+    "url": "https://www.writersdream.org/forum/forums/topic/44483-autunno/"
+}

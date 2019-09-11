@@ -52,7 +52,7 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787276,
@@ -61,6 +61,21 @@
             ],
             "timestamp": "2019-09-11T02:35:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787276"
+        },
+        {
+            "post_id": 787307,
+            "text": [
+                "Ciao, sono contento che il mio racconto ti abbia fatto iniziare la giornata con un sorriso. Alla fine, il mio scopo è questo.",
+                "Sulle tue utili critiche:",
+                "Sicuramente vado troppo \"a capo\", per una questione di leggibilità. Ma credo sia un difetto.",
+                "Proverò a spostare qualche frase come mi hai detto.",
+                "Grazie di aver corretto il refuso.",
+                "Anelare in quel contesto significa \"aspirare a\", ma forse potevo scrivere semplicemente \"aspirare\" in effetti.",
+                "Il cane chiamato Caccona. È una situazione più comune di quanto non si pensi. La sorellina di un mio conoscente aveva chiamato il gatto (maschio) Deborah.",
+                "Qua e là mi hai segnalato difetti che vedrò di correggere. Grazie ancora, a rileggersi."
+            ],
+            "timestamp": "2019-09-11T10:24:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787307"
         }
     ],
     "post_staff": [],
