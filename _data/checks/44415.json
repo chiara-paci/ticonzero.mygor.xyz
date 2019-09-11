@@ -54,8 +54,25 @@
     },
     "num_chars": 424,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 787274,
+            "text": [
+                "Ciao, benvenuta nel forum. Davvero una grande aggiunta, oserei dire. Ti ringrazio per la bellissima esegesi della poesia. Hai reso chiari concetti che non lo erano a me, che l'ho scritta. Grazie ancora, spero ci si possa rileggere. A presto."
+            ],
+            "timestamp": "2019-09-11T02:30:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787274"
+        },
+        {
+            "post_id": 787275,
+            "text": [
+                "Il tuo nick mi sembra femminile, ma in realtà non sono sicuro. Nel caso, benvenuto."
+            ],
+            "timestamp": "2019-09-11T02:31:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787275"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La stazione è dietro i binari:",
