@@ -49,7 +49,7 @@
     },
     "num_chars": 7928,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 785330,
@@ -80,6 +80,14 @@
             ],
             "timestamp": "2019-09-06T22:38:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=786780"
+        },
+        {
+            "post_id": 787389,
+            "text": [
+                "grazie per esserti fermata a commentare. Sì, il finale risulta frettoloso, ci sto lavorando... seriamente."
+            ],
+            "timestamp": "2019-09-11T18:51:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44299-fdi-2019-3-unaltra-volta-parigi-fuori-concorso//?do=findComment&comment=787389"
         }
     ],
     "post_staff": [],
