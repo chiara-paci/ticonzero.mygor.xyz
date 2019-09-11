@@ -52,8 +52,17 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 787276,
+            "text": [
+                "Ciao, sono contento il racconto ti sia piaciuto. Mi piace scrivere dialoghi, spesso faccio molto affidamento su di loro, forse troppo. Ti ringrazio per le annotazioni, ne terrò sicuramente conto in fase di revisione. Sono contento il racconto ti sia piaciuto e ti ringrazio per aver segnalato i refusi. A mia (parziale) discolpa: ho l'impressione che a volte il correttore ortografico di Scrivener trasformi le parole. Non sempre tutta questa tecnologia viene in nostro supporto. Trovo interessante l'accostamento coi film di Buster Keaton, che non conosco. Proverò a recuperarne qualcuno. Sono felice la storia ti sia piaciuta. Il titolo è buttato lì, non mi veniva in mente niente di meglio. Diciamo che non volevo anticipare le \"sorprese\" del racconto, perciò ho fatto una scelta neutra. Se tu avessi suggerimenti, te ne sarei grato. Grazie a tutti!"
+            ],
+            "timestamp": "2019-09-11T02:35:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787276"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Se potessi essere il protagonista di una storia, sceglierei quella dell’uomo che entra in un caffè e fa splash.",
