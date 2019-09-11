@@ -48,7 +48,7 @@
     },
     "num_chars": 4556,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 787296,
@@ -58,6 +58,15 @@
             ],
             "timestamp": "2019-09-11T08:41:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787296"
+        },
+        {
+            "post_id": 787334,
+            "text": [
+                "Ciao , grazie per aver speso del tempo con questo mio racconto. Non hai preso alcuna cantonata, la storia è quella. Proprio come l'hai riassunta tu.",
+                "a presto!"
+            ],
+            "timestamp": "2019-09-11T14:42:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787334"
         }
     ],
     "post_staff": [],
