@@ -52,7 +52,7 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 787276,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-09-11T10:24:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787307"
+        },
+        {
+            "post_id": 787331,
+            "text": [
+                "Ciao, sono contento il racconto ti sia piaciuto e ti ringrazio per le utili correzioni. Sono contento tu abbia apprezzato la battuta sullo yoga, temevo di averla capita solo io. A presto."
+            ],
+            "timestamp": "2019-09-11T14:24:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787331"
         }
     ],
     "post_staff": [],

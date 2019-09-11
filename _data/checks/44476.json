@@ -48,8 +48,17 @@
     },
     "num_chars": 0,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787330,
+            "text": [
+                "Ti ringrazio ancora per le parole che hai voluto dedicare al mio componimento ed a me"
+            ],
+            "timestamp": "2019-09-11T14:17:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44476-soliloquio//?do=findComment&comment=787330"
+        }
+    ],
     "post_staff": [],
     "text": [],
     "timestamp": "2019-09-10T17:12:14Z",
