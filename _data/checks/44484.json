@@ -45,8 +45,33 @@
     },
     "num_chars": 3630,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 787477,
+            "text": [
+                "Grazie ogni suggerimento è sempre ben accolto. Grazie."
+            ],
+            "timestamp": "2019-09-12T13:20:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44484-la-valigia-gialla//?do=findComment&comment=787477"
+        },
+        {
+            "post_id": 787478,
+            "text": [
+                "grazie per esserti fermato da me. Sono lieta delle tue osservazioni che assolutamente prenderò nota."
+            ],
+            "timestamp": "2019-09-12T13:24:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44484-la-valigia-gialla//?do=findComment&comment=787478"
+        },
+        {
+            "post_id": 787479,
+            "text": [
+                "grazie per il passaggio."
+            ],
+            "timestamp": "2019-09-12T13:25:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44484-la-valigia-gialla//?do=findComment&comment=787479"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La valigia gialla non è più al solito posto, sopra l'armadio.",
