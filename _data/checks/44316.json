@@ -46,7 +46,7 @@
     },
     "num_chars": 5205,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 787367,
@@ -82,6 +82,16 @@
             ],
             "timestamp": "2019-09-12T20:25:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44316-l-accessorio-parte-3//?do=findComment&comment=787522"
+        },
+        {
+            "post_id": 787527,
+            "text": [
+                "allora non mi sono spiegato bene.",
+                "Se pubblico i capitoli successivi (purtroppo scorretti) sembra una mancanza di rispetto?",
+                "Questo è il mio dubbio. Non voglio passare per quello che non accetta le critiche anzi diffido da quelli che mi dicono solo \"bello\""
+            ],
+            "timestamp": "2019-09-12T21:09:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44316-l-accessorio-parte-3//?do=findComment&comment=787527"
         }
     ],
     "post_staff": [],
