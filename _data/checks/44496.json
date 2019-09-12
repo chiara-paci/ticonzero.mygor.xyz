@@ -1,0 +1,94 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , girando qua e là ho trovato questa tua poesia, che mi ha incuriosito e mi ha spinto ad arrivare fino in fondo (ok, non sempre succede). Il Papa è la carta dei Tarocchi, quindi, questo non era chiaro, ma al di là del titolo di cui non avevo compreso fino in fondo il collegamento (a parte, ovvio, il fatto che simboleggiasse la fede), mi è piaciuta l'idea di riconoscere nella fede una risposta a una mancanza personale e mi è piaciuto in modo particolare il modo in cui hai ne hai reso alla fine il senso di sazietà:",
+                    "In generale, funziona bene e te le dice chi per la fede prova avversione. Ma il tuo non è uno dei soliti cliché ed funziona, con alcune sentenze (non in accezione negativa) che hanno assolutamente senso, perché espresse da un io che vuole esprimere un proprio sentire (e quindi hanno senso per quell'io e lo vuole dire).",
+                    "Aggiusterei alcuni versi, questo in particolare che trovo funzioni poco:",
+                    "Da una parte hai fatto bene a omettere il 'che' credevano, sarebbe stato veramente di troppo, dall'altra la frase è complicata e il 'dell'altro che io non sono mai' pesa un po' (anche se alcune ridondanze a volte le apprezzo). Di chi era quel mondo? Era di chi lo credeva di in un altro diverso da me? Era di chi ne ha ceduto la proprietà ad altri anziché a me? Era di chi non ci mai messo piede? Era di tutti quelli che non ci sono mai stati? Qualcosa ancora non quadra, ma penso che girandoci un po' attorno potresti riuscire a trovare la combinazione giusta.",
+                    "Quindi scommettevano sull'esistenza di quell'altro mondo in cui non erano mai stati. Ma poi ritorni e chiarisci su cosa hanno scommesso, cambiando direzione",
+                    "e sistemerei anche questa, non so bene come. Non è il 'su se' a farmelo sentire necessario, credo sia un po' scontato qui 'dio e i suoi se' e, insieme, porti un po' fuori direzione rispetto alla parte iniziale.",
+                    "questo mi piace moltissimo. Il non importa potrebbe anche meritarsi un accapo o uno spostamento a destra.",
+                    "e qui va tutto bene, forse metterei solo",
+                    "Gli uomini bramano solo ciò che possono avere",
+                    "e io sono diventato chi non sarebbero stati mai.",
+                    "Ma fa freddo quando si è soli",
+                    "quando non si può sapere cosa basta a scaldare. [la parola amore in poesia mi inibisce sempre un po'..sole/cuore/amore]",
+                    "Mi copro d'oro per ritrovare il calore che non trovo in Dio",
+                    "e sono un uomo di valore adesso,",
+                    "io.",
+                    "Ok, mi sono divertita un po' a fare qualche modifica. Ma è un mero esercizio di forma, la poesia m'è piaciuta.",
+                    "Buona serata,"
+                ]
+            ],
+            "timestamp": "2019-09-12T17:41:40Z",
+            "title": "Papa",
+            "url": "https://www.writersdream.org/forum/forums/topic/43908-papa//?do=findComment&comment=787502",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 381,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Le cose si allargano",
+        "e ti ingombrano.",
+        "q u o t i d i a n a m e n t e .",
+        "La vegetazione",
+        "invade le pietre,",
+        "invade le acque,",
+        "e io oggi",
+        "me ne voglio andare",
+        "mentre ieri",
+        "ieri volevo restare .",
+        "È un paese stretto",
+        "questo",
+        "e il tempo che investo",
+        "a gridare",
+        "COSA NON C'È",
+        "COSA NON VA",
+        "mi si ributta appresso",
+        "chiedendo ragione",
+        "di tale svendita",
+        "di fine stagione,",
+        "dei tanti offerenti",
+        "pronti a reclamare",
+        "il diritto di usare."
+    ],
+    "timestamp": "2019-09-12T17:48:25Z",
+    "title": "La parola esposta",
+    "topic_id": 44496,
+    "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta/"
+}
