@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.9755555555555555,
+        "valid": 0.9818681318681318,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.9755555555555555
+                "valid": 0.9818681318681318
             },
             "text": [
                 [
@@ -34,6 +34,9 @@
                     "racconto scritto benissimo con il tuo stile inconfondibile ironico e originale avvolto in atmosfere moderne e un po' metafisiche, descrizioni stupende, visive. Forse per il mio gusto avrei cercato una metafora o un modo diverso, meno esplicito di chiudere. Credo che potresti dirci di più di questo superman, comune,in qualche modo nella sua fragilità e nel suo autocompiacimento come come se ne trova tanti nelle nostra società attuale, anche se poi non appare così duro fin dal subito. Quindi avrei affondato un po' di più sul suo cinismo all'inizio e sul suo sgretolamento suicida alla fine. Ho trovato molto interessante anche Jimmy, da esplorare come nuovo personaggio.",
                     "Ottimo. Però rimane un po' l'amaro in bocca. Finisce troppo preso.",
                     "Bravo Bob"
+                ],
+                [
+                    "Mi dispiace ma nel campo dei fumetti sono piuttosto ignorante, l'avevo presa come frutto delle tua fantasia... a questo punto mi consolo con Billie Holiday"
                 ]
             ],
             "timestamp": "2019-09-11T18:17:08Z",
