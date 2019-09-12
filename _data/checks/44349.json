@@ -65,7 +65,7 @@
     },
     "num_chars": 7406,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 785529,
@@ -114,6 +114,15 @@
             ],
             "timestamp": "2019-09-04T01:58:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44349-fdi-2019-3-il-ramingo-avventuriero//?do=findComment&comment=786309"
+        },
+        {
+            "post_id": 787519,
+            "text": [
+                "grazie per la dettagliata analisi, rivedrò il testo con le tue annotazioni in mente. Tutto consigli molti utili, e complimenti per l'occhio di falco!",
+                "Grazie anche a , e : ricevere apprezzamenti da autori come voi mi dà una certa carica"
+            ],
+            "timestamp": "2019-09-12T20:12:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44349-fdi-2019-3-il-ramingo-avventuriero//?do=findComment&comment=787519"
         }
     ],
     "post_staff": [],
