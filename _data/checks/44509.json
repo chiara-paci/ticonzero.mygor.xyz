@@ -1,0 +1,84 @@
+{
+    "author": {
+        "author_id": 30003,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Rocco Lassandro",
+        "url": "https://www.writersdream.org/forum/profile/30003-rocco-lassandro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    ", l'immagine della foglia rende in modo geniale il significato di una stretta di mano che si consuma tra due persone che si dicono addio e le sensazioni che l'accompagnano, in particolare nell'istante in cui la stretta si scioglie e una parte, quella che non ha voluto la separazione, sente montare improvvisamente e dolorosamente dentro di sé la consapevolezza che quella è l'ultima volta in cui ha potuto sfiorare la mano della persona amata e che parallelamente a quello fisico, che non può compromettere l'unità dell'essere, anche un'altro legame, più profondo e spirituale, ha esaurito la propria parabola lasciando invece l'essere monco. Mi piace. Quanto al finale, sebbene ci sia qualcosa che non mi convince nel modo in cui l'ultimo verso è articolato e nella scelta delle parole, tra le due versioni preferisco la prima e l'immagine che mi suggerisce, di quell'essere monco, seduto a una finestra, che, con lo sguardo perso nell'orizzonte e nei ricordi, quasi inconsapevolmente, in un sospiro intriso di malinconia, sussurra un nome per il quale ormai ha orecchie, ma non memoria, soltanto il vento."
+                ]
+            ],
+            "timestamp": "2019-09-13T18:42:39Z",
+            "title": "Autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/44483-autunno//?do=findComment&comment=787623",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 660,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Se scruto l'orizzonte,",
+        "vedo soltanto il mare,",
+        "eppure c'è un'isola, laggiù,",
+        "nascosta chissà dove.",
+        "Assediata dalla tempesta,",
+        "un'isola di pace,",
+        "una fortezza inespugnabile,",
+        "per l'uomo, rifugio",
+        "dalle ombre della vita,",
+        "un amore dimenticato",
+        "per una donna d'altri tempi,",
+        "un romanticismo inatteso",
+        "per poterlo ricordare.",
+        "Onore e rispetto,",
+        "sacrificio, dolore,",
+        "braci che ardono",
+        "nella carne, nel sangue,",
+        "sotto un letto di pelle,",
+        "un sorriso autentico,",
+        "gioia che riempie l'anima:",
+        "i suoi colori, gli odori.",
+        "Immune al vento,",
+        "la sua luce, del mare,",
+        "vince la schiuma, la notte,",
+        "il cinismo, la disillusione.",
+        "C'è un'isola, laggiù, seppure",
+        "nascosta chissà dove,",
+        "una donna in mezzo al mare,",
+        "il suo nome è amore."
+    ],
+    "timestamp": "2019-09-13T18:52:51Z",
+    "title": "Eppure c'è un'isola",
+    "topic_id": 44509,
+    "url": "https://www.writersdream.org/forum/forums/topic/44509-eppure-c%C3%A8-unisola/"
+}
