@@ -44,7 +44,7 @@
     },
     "num_chars": 8013,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787589,
@@ -53,6 +53,22 @@
             ],
             "timestamp": "2019-09-13T14:56:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44498-t-i-l-d-e//?do=findComment&comment=787589"
+        },
+        {
+            "post_id": 787613,
+            "text": [
+                "Ma io la volevo proprio cosi, piatta, noiosa, pigra, prevedibile per mia natura sono un malacarne un vagabondo un autentico clochard musicista di strada e nient'altro"
+            ],
+            "timestamp": "2019-09-13T17:28:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44498-t-i-l-d-e//?do=findComment&comment=787613"
+        },
+        {
+            "post_id": 787615,
+            "text": [
+                "scusa mi ho dimenticato di tagarti . Buona serata"
+            ],
+            "timestamp": "2019-09-13T17:31:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44498-t-i-l-d-e//?do=findComment&comment=787615"
         }
     ],
     "post_staff": [],
