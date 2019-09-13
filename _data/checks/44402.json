@@ -45,8 +45,27 @@
     },
     "num_chars": 6364,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 787635,
+            "text": [
+                "caspita mi spiace che no si capisce. Perchèé nel capitolo 1 Paolo dice di essere in metro tra le 5 e le 6 di pomeriggio e poi senza soluzioni di continuità la storia va dritta fino a quando lui dice che sta andando alla polizia e che sicuramente alle 23 non stanno dormendo. Pensavo bastassero come riferimento. Come posso far capire al lettore dove si trova il protagonista temporalmente senza scrivere troppi riferimenti orari?",
+                "ma Paolo no sa se è successo o no. Credevo si capisse che era una ipotesi. Dici che non è chiaro che è un possibilità inclusa tra gli scenari? Che casini che faccio"
+            ],
+            "timestamp": "2019-09-13T20:48:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787635"
+        },
+        {
+            "post_id": 787638,
+            "text": [
+                "Parlavo del cervello. Mi era venuto in mente l'immagine degli esploratori di metà 800 che secondo le leggende venivano messi vestiti nelle pentole e i cannibali indigeni li cuocevano girando intorno al pentolone. Il cervello è vestito di beige nell'acqua del pentolone molliccio e umido. Dite che non si capisce?",
+                "ciao e grazie ancora"
+            ],
+            "timestamp": "2019-09-13T20:54:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787638"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il tombino",
