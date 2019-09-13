@@ -12,13 +12,44 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.2922222222222222,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.2922222222222222
+            },
+            "text": [
+                [
+                    "Forse una critica al consumiamo o un elogio... È da analizzare. Nel contesto mi piace, inietta nel lettore un certo dubbio esistenziale. Non sono propriamente convito dalla metrica, ma non penso di avere il diritto di criticare codesto punto visto la mia esilarante abilità nel trasformare le mie poesie in un confuso groviglio di parole dal effimero significato."
+                ]
+            ],
+            "timestamp": "2019-09-13T15:11:04Z",
+            "title": "La parola esposta",
+            "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta//?do=findComment&comment=787596",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.2922222222222222
+            },
+            "text": [
+                [
+                    "Forse una critica al consumiamo o un elogio... È da analizzare. Nel contesto mi piace, inietta nel lettore un certo dubbio esistenziale. Non sono propriamente convito dalla metrica, ma non penso di avere il diritto di criticare codesto punto visto la mia esilarante abilità nel trasformare le mie poesie in un confuso groviglio di parole dal effimero significato."
+                ]
+            ],
+            "timestamp": "2019-09-13T15:11:04Z",
+            "title": "La parola esposta",
+            "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta//?do=findComment&comment=787596",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,10 +57,36 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 221,
-    "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_commenti": 2,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787605,
+            "text": [
+                "Solitamente tendo ad essere molto pesante in fatto di comparazioni e critica, quindi per non rischiare di diventare troppo pesante o logorante mi astengo dal fare approfondimenti troppo approfonditi, potrebbero sfociare nel verboso. La prossima volta sarò più esplicativo, grazie per il suggerimento."
+            ],
+            "timestamp": "2019-09-13T16:23:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44507-memoria//?do=findComment&comment=787605"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 787601,
+            "text": [
+                "benvenuto nel WD.",
+                "Hai dimenticato il link al commento:",
+                "Può passare come esordio in officina, però per postare un proprio testo di norma occorre un commento un po' più approfondito.",
+                "Buona permanenza."
+            ],
+            "timestamp": "2019-09-13T16:12:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44507-memoria//?do=findComment&comment=787601"
+        }
+    ],
     "text": [
         "Litania morta",
         "Su codesta strofa",
