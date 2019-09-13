@@ -48,7 +48,7 @@
     },
     "num_chars": 4556,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787296,
@@ -67,6 +67,17 @@
             ],
             "timestamp": "2019-09-11T14:42:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787334"
+        },
+        {
+            "post_id": 787593,
+            "text": [
+                "Salve e grazie per i suggerimenti. Purtroppo devo ammettere che metto gli a capo in modo piuttosto causale. O meglio, non so bene come comportarmi.",
+                "E’ vero che questo testo è una bozza, ma è altrettanto vero che non sono molto capace a spezzare il testo. Imparerò.",
+                "e grazie tanto a per le belle parole.",
+                "e grazie ad entrambi per aver letto queste mie parole"
+            ],
+            "timestamp": "2019-09-13T15:05:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787593"
         }
     ],
     "post_staff": [],

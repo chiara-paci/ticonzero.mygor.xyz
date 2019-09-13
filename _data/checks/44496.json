@@ -59,8 +59,17 @@
     },
     "num_chars": 381,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 787597,
+            "text": [
+                "Ahahah , la metrica non esiste per me ;"
+            ],
+            "timestamp": "2019-09-13T15:13:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta//?do=findComment&comment=787597"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Le cose si allargano",

@@ -45,8 +45,43 @@
     },
     "num_chars": 2876,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 787588,
+            "text": [
+                "Grazie per aver espresso il tuo pensiero sul mio racconto, a presto!"
+            ],
+            "timestamp": "2019-09-13T14:52:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44448-monologo-del-carnefice//?do=findComment&comment=787588"
+        },
+        {
+            "post_id": 787590,
+            "text": [
+                "in primis ti ringrazio per aver letto e detto la tua sul mio scritto. A fine commento mi poni una domanda ben precisa, e cioè chi sia il carnefice. Ora, partendo dal presupposto che amo scrivere dei finali aperti, interpretabili da chiunque secondo il proprio gusto e pensiero, rispondo in base a quella che è la mia visione del racconto: per me il carnefice è la società stessa, che auto imponendosi questa sorta di \"regime totalitario\", togliendo assolutamente spazio alle cose davvero importanti, sta via via impoverendosi sempre di più. Quel \"Mi avete creato voi\" è un invito del carnefice (o in base alla mia visione del racconto, un auto invito) ad uscire fuori da tutto questo male che sta affliggendo la società, o arriverà il giorno in cui non ci sarà più via di scampo. Mi scuso inoltre per i refusi, ho scritto questo racconto completamente di getto, non ho dato molta importanza né alla forma, né allo sviluppo della trama, come avete giustamente puntualizzato tutti quanti.",
+                "Ti ringrazio nuovamente per aver letto, a presto!"
+            ],
+            "timestamp": "2019-09-13T15:01:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44448-monologo-del-carnefice//?do=findComment&comment=787590"
+        },
+        {
+            "post_id": 787591,
+            "text": [
+                "Grazie per aver letto e commentato, farò tesoro dei tuoi consigli.",
+                "A presto!"
+            ],
+            "timestamp": "2019-09-13T15:05:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44448-monologo-del-carnefice//?do=findComment&comment=787591"
+        },
+        {
+            "post_id": 787594,
+            "text": [
+                "Grazie per il tuo meraviglioso commento, a presto!"
+            ],
+            "timestamp": "2019-09-13T15:06:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44448-monologo-del-carnefice//?do=findComment&comment=787594"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Vi ho in pugno, vi controllo, vi ammalo. So di recare danni immensi e chiedo perdono, ma la verità è che tutto ciò mi diverte tantissimo.",

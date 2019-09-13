@@ -1,0 +1,51 @@
+{
+    "author": {
+        "author_id": 33766,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Jack Doe",
+        "url": "https://www.writersdream.org/forum/profile/33766-jack-doe/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 221,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Litania morta",
+        "Su codesta strofa",
+        "Dimenticata e smorta",
+        "Vecchia e sporca",
+        "Scrivo per ricordare",
+        "Ciò che rimane",
+        "Su fogli ingialliti",
+        "Su lacrime e sorrisi",
+        "Tremante e folle",
+        "Senza mente né cuore",
+        "Vecchio quanto il mare",
+        "Un ultima strofa, quale?"
+    ],
+    "timestamp": "2019-09-13T15:17:34Z",
+    "title": "Memoria",
+    "topic_id": 44507,
+    "url": "https://www.writersdream.org/forum/forums/topic/44507-memoria/"
+}
