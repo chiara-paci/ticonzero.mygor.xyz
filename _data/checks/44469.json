@@ -52,7 +52,7 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 787276,
@@ -84,6 +84,15 @@
             ],
             "timestamp": "2019-09-11T14:24:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787331"
+        },
+        {
+            "post_id": 787542,
+            "text": [
+                "Ciao, sono contento i tuo racconto ti sia piaciuto. Naturalmente, non aveva molte pretese di essere realistico...",
+                "Ciao, sono felice tu abbia apprezzato il racconto. A presto."
+            ],
+            "timestamp": "2019-09-13T08:00:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787542"
         }
     ],
     "post_staff": [],

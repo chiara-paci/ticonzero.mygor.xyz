@@ -76,7 +76,7 @@
     },
     "num_chars": 7623,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787129,
@@ -85,6 +85,16 @@
             ],
             "timestamp": "2019-09-09T16:08:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44408-subconscio-computabile//?do=findComment&comment=787129"
+        },
+        {
+            "post_id": 787581,
+            "text": [
+                "Sì, è esatto. L'idea originale si basa sulla possibilità di avere una tecnologia che permetta di distrubuire il proprio carico computazionale anche sugli esseri umani.",
+                "Ti ringrazio, ma non è di certo una mia intuizione . Credo basti guardarsi un po' attorno (o dentro - almeno nel mio caso) per giungere a questa idea.",
+                "Vi ringrazio per i vostri gentili commenti, ricchi di spunti di riflessione!"
+            ],
+            "timestamp": "2019-09-13T13:38:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44408-subconscio-computabile//?do=findComment&comment=787581"
         }
     ],
     "post_staff": [],
