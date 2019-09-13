@@ -46,7 +46,7 @@
     },
     "num_chars": 5205,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 787367,
@@ -92,6 +92,16 @@
             ],
             "timestamp": "2019-09-12T21:09:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44316-l-accessorio-parte-3//?do=findComment&comment=787527"
+        },
+        {
+            "post_id": 787634,
+            "text": [
+                "grazie mi sa che sei la più buona del wd perché non mi hai preso a bastonate sui refusi come hanno fatto giustamente gli altri iscritti ti sei trattenuta e ti ringrazio",
+                "no ho capito. Scusami",
+                "credo che dovrò andare a cercare su qualche testo come si usano gli esclamativi perché me lo dicono tutti e continuo a non capire dove sia meglio metterli"
+            ],
+            "timestamp": "2019-09-13T20:31:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44316-l-accessorio-parte-3//?do=findComment&comment=787634"
         }
     ],
     "post_staff": [],
