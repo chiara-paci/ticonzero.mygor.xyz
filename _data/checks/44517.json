@@ -1,0 +1,66 @@
+{
+    "author": {
+        "author_id": 33269,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Delphine",
+        "url": "https://www.writersdream.org/forum/profile/33269-delphine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao il tuo incipit mi è piaciuto perché permette di immergersi subito nello stato stato d'animo della protagonista, c'è una sorta di malinconica nel lasciarsi l'estate alle spalle e la tristezza per quello che ritroverà, le solite abitudini forse, ma anche gli stessi amici di sempre che sembrano però essere entrati in una specie di decadenza psicologica, con i discorsi ripetuti e le vecchie storie vissute. Questo sembra aprire uno scenario interessante su chi è veramente Alice. Come si porrà lei di fronte ai ricordi e al passare del tempo,? Qual'è la sua vita in città, come è stata la sua vacanza trascorsa. Quindi si pensa anche a degli intrecci, a conflitti e amori, abitudini. Forse qualcuno la sta aspettando. Interessante come incipit o come ispirazione di un eventuale storia o anche come finale.",
+                    "Mi sono permessa una piccola modifica giusto per riflettere insieme e giocare con le parole...",
+                    "Non cambia molto alla fine, ma mi sono divertita a proportelo così. Per il resto non ti segnalo la solita storia dei: \" che \" ripetuti - sono anche un mio problema - bisogna starci attenti perché in realtà le frasi scorrono meglio e diventano più fluide.",
+                    "Complimenti credo che tu possa rilevarci molte cose da questo piccolo frammento proposto.",
+                    "Grazie di avermi dato l'opportunità di immergermi ed analizzare il tuo lavoro",
+                    "Buona scrittura"
+                ]
+            ],
+            "timestamp": "2019-09-14T17:55:43Z",
+            "title": "Pensieri",
+            "url": "https://www.writersdream.org/forum/forums/topic/44057-pensieri//?do=findComment&comment=787733",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1064,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Francesca era tornata a casa ripensando a quell’ immagine.",
+        "Scese la rampa di scalini che dalla piazza di fronte alla chiesa costeggiava la piccola spiaggia di pescatori.",
+        "Era là che l’aveva visto. In quella sera di metà giugno calda e ventilata, uscendo dalla messa, con l’immagine del santo fra le mani. Si sedette sull’ ultimo scalino, mentre il sole calava e i pesci schizzavano nelle reti. L’odore del mare spazzò via quello dell’incenso e lo vide.",
+        "In piedi sulla piccola imbarcazione, lentamente si avvicinava alla riva, una mano sui fianchi magri, le spalle lucide aperte al sole, i capelli neri che ricadevano attorcigliati sulla fronte e intorno al collo. Con un balzo saltò in acqua trascinando la barca fino alla spiaggia, poi in una corsa improvvisa si rituffò in mare e ne riemerse con le braccia incrociate dietro la testa.",
+        "Gocciolante, di un colore mai visto. Forse di un paese lontano. Francesca si avvicinò all’imbarcazione con i sandali nella mano destra e S Rita nella sinistra. Il vento le alzò il vestito",
+        "fino all’inguine. Il ragazzo sorrise: “Ciao…”"
+    ],
+    "timestamp": "2019-09-14T18:24:20Z",
+    "title": "La goccia",
+    "topic_id": 44517,
+    "url": "https://www.writersdream.org/forum/forums/topic/44517-la-goccia/"
+}
