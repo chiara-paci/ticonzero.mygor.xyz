@@ -45,7 +45,7 @@
     },
     "num_chars": 6364,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787635,
@@ -64,6 +64,15 @@
             ],
             "timestamp": "2019-09-13T20:54:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787638"
+        },
+        {
+            "post_id": 787727,
+            "text": [
+                "grazie per i tuoi consigli anche oggi Kikki però credimi sono veramente l'ultimo della classe perché nonostante la tua spiegazione continuo a rimanere della mia idea perché si sta parlando della notte che deve arrivare non di quella passata. non può aver fatto perché sarebbe già successo. Help. Ho sbagliato ancora ?",
+                "ciaoKikki"
+            ],
+            "timestamp": "2019-09-14T16:51:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787727"
         }
     ],
     "post_staff": [],
