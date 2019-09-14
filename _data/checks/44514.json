@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 31560,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "INTES MK-69",
+        "url": "https://www.writersdream.org/forum/profile/31560-intes-mk-69/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "nella prima parte della tua bella poesia che riporto sotto ho avvertito una inquietudine interiore molto forte che hai voluto, credo, rimarcare con quel lago nero. Affonda, quasi come a mettere radici impastandosi con la tua persona. Forse avrei evitato la parola nero finendo il verso con il solo lago. Già l'immagine mi sembra molto forte così com'è, ma questa è solo una mia opinione personale che ho voluto condividere con te solo perchè siamo in uno spazio che si chiama officina.",
+                    "Nella seconda parte (che riporto sotto) ho avvertito una grande calma, ma solo apparente. Perchè mi è parso di capire che la calma è solo esterna a te. Cioè il mondo che ti circonda non avverte questo tuo turbamento interiore e quindi non ne rimane scosso. Insomma, rimane spettatore (forse nemmeno spettatore) indifferente.",
+                    "Poesia molto delicata e bella a mio avviso, dove a esprimere i concetti sono soprattutto i non detti in maniera simile a quello che accade negli haiku (ovviamente nello spirito non nella metrica).",
+                    "Saluti,",
+                    "Intes"
+                ]
+            ],
+            "timestamp": "2019-09-14T09:24:45Z",
+            "title": "Sulle punte del silenzio",
+            "url": "https://www.writersdream.org/forum/forums/topic/43832-sulle-punte-del-silenzio//?do=findComment&comment=787684",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 286,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ombre",
+        "L'ombra della sera",
+        "e l'ombra del mattino",
+        "si sono date appuntamento a mezzogiorno",
+        "per incontrarti.",
+        "È stata un'epifania magica.",
+        "Non biasimarle quindi",
+        "se al crepuscolo",
+        "le vedi allungare il collo",
+        "per godere ancora di quel sole",
+        "che le ha permesso di abbracciarti.",
+        "Ancora ti cercano",
+        "fuggendo da te."
+    ],
+    "timestamp": "2019-09-14T09:35:18Z",
+    "title": "Ombre",
+    "topic_id": 44514,
+    "url": "https://www.writersdream.org/forum/forums/topic/44514-ombre/"
+}

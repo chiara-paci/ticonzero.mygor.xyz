@@ -62,7 +62,7 @@
     },
     "num_chars": 7148,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787291,
@@ -75,6 +75,30 @@
             ],
             "timestamp": "2019-09-11T08:14:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44395-le-ragazze-capitolo-11-22//?do=findComment&comment=787291"
+        },
+        {
+            "post_id": 787673,
+            "text": [
+                "Ciao cara",
+                "mi sembrava bastasse il riferimento temporale dei due anni",
+                "Mikaela che è appena scesa dalla macchina di un cliente e li ha raggiunti, ma non è molto chiaro, hai ragione, vado a rimettere a posto la dinamica del dialogo, grazie!",
+                "che ci vivono tante persone diverse",
+                "dipende dal decorso della malattia e dalle cure che si fanno",
+                "Grazie cara Flo"
+            ],
+            "timestamp": "2019-09-14T08:54:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44395-le-ragazze-capitolo-11-22//?do=findComment&comment=787673"
+        },
+        {
+            "post_id": 787688,
+            "text": [
+                "ma che dici? Ti ringrazio per riuscire a passare di qua, quanto riesci e quanto hai voglia, per me è utile e davvero bello",
+                "lo terrò presente in fase di revisione! Non ho approfondito troppo, ho paura di diventare didascalica, come già mi accade, e di annoiare",
+                "sono d'accordissimo!",
+                "Grazie ancora"
+            ],
+            "timestamp": "2019-09-14T09:37:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44395-le-ragazze-capitolo-11-22//?do=findComment&comment=787688"
         }
     ],
     "post_staff": [],
