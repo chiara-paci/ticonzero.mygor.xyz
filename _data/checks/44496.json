@@ -59,7 +59,7 @@
     },
     "num_chars": 381,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 787597,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-09-13T17:13:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta//?do=findComment&comment=787612"
+        },
+        {
+            "post_id": 787693,
+            "text": [
+                "Esatto, vanno bene entrambe. Ci sono giorni in cui anche il paese italico mi sta stretto (e non poco)."
+            ],
+            "timestamp": "2019-09-14T10:27:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44496-la-parola-esposta//?do=findComment&comment=787693"
         }
     ],
     "post_staff": [],
