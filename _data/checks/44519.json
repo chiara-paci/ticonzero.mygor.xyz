@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 11817,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Ljuset",
+        "url": "https://www.writersdream.org/forum/profile/11817-ljuset/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "I tempi sono confusi.",
+                    "Prendiamo per buono che sia questo l'inizio.",
+                    "Come arriviamo a (?)",
+                    "Voglio dire, tra la prima frase e la seconda, quanto tempo ci passa?",
+                    "Quando succedeva? Parli della prima volta o di una successiva?",
+                    "Il soggetto è \"l'odore del mare\", che oltre a spazzare via (l'odore) dell'incenso, lo vide (chi/che cosa?) da un'analisi logica sembrerebbe che l'odore del mare vide quello dell'incenso, dopo averlo spazzato via. Ma credo tu volessi intendere che era la ragazza a vedere il ragazzo.",
+                    "Non spezzerei la frase. sarebbe più chiaro dire: \"Lo vide, in piedi sulla piccola imbarcazione...\"",
+                    "Riemergere dopo un tuffo \"con le braccia incrociate dietro la testa\" non è un movimento facile da attuare. L'hai visto fare da qualcuno? Prova immaginare ciò che hai scritto.",
+                    "Forse manca un passaggio?",
+                    "Ermetico. \"Di un paese lontano\" si riferisce al ragazzo o al colore ? La costruzione è ambigua.",
+                    "Penso che l'a capo non sia voluto. Però ci starebbe invece dopo \"all'inguine\".",
+                    "Quindi: Il vento le alzò il vestito fino all'inguine.",
+                    "Il ragazzo sorrise. \"Ciao...\" (se vogliamo attribuire il \"ciao\" al ragazzo)",
+                    "Oppure: Il ragazzo sorrise.",
+                    "\"Ciao...\" (se invece vogliamo far fare la prima mossa alla ragazza).",
+                    "L'idea c'è, però dovresti lavorarci un po' sopra."
+                ]
+            ],
+            "timestamp": "2019-09-14T21:21:22Z",
+            "title": "La goccia",
+            "url": "https://www.writersdream.org/forum/forums/topic/44517-la-goccia//?do=findComment&comment=787749",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2545,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Strano come le migliori relazioni finiscono per motivi futili. È come se ci fosse una regola non scritta che la storia d’amore perfetta non debba esistere.",
+        "Roberto era seduto immobile sul letto da una buona mezz’ora, mentre alle sue spalle Liana dormiva ignara dei suoi pensieri. L’aveva svegliato un incubo: l’esame di maturità. In realtà lui l’aveva superato bene, con la migliore preparazione dell’istituto in storia.",
+        "Ma questo succedeva molti anni fa: nel sogno la commissione d’esame lo attendeva in un sotterraneo, con una serie di celle con le sbarre in ferro arrugginito. Tutti i professori avevano una faccia severa e i suoi compagni – gente mai vista, in realtà – erano molto agitati mentre sostenevano l’interrogazione. Roberto sfogliava il libro e si rendeva conto di non averlo mai aperto; peggio ancora, non aveva mai sentito parlare degli avvenimenti che conteneva. Lesse qua e là dei brani, sperando che avrebbero potuto fargli delle domande su quello che stava leggiucchiando – il 1848 – ma si rese conto che il libro parlava di fatti assurdi, di un pittore sconosciuto che raccontava la sua epoca attraverso i ricordi di un viaggio a bordo di un veliero. Arrivò il suo turno. Mentre avanzava verso la sedia per essere interrogato, chiese a quello che lo precedeva quanto avesse preso. 5. Avrebbe voluto averlo lui quel cinque – la sua testa era completamente vuota e lottava per nascondere il panico che si era impossessato di lui. Si sedette. L’esaminatore era un misto tra la figura del Manzoni e quella del Leopardi. “Chi erano gli avversari?” gli chiese. Roberto frugò disperatamente nella memoria – il periodo doveva essere la seconda metà del novecento, in Polonia, ma non capiva perché ci fosse stata una rivoluzione in quella data. “Dei reazionari” – pensava fosse troppo ovvio che fossero i rivoltosi. “Al contrario”, gli aveva risposto il professore, e con un ghigno un po’ sadico gli disse: “Si rende conto, vero, che dobbiamo approfondire l’argomento”. Quello di cui si rese conto Roberto era di non sapere assolutamente niente e che avrebbe voluto alzarsi e andarsene, ammettendo di essere non solo impreparato, ma di non sapere neanche di cosa trattasse l’esame.",
+        "Roberto ritornò al presente. La sua compagna dormiva ancora e lui avrebbe voluto andarsene prima che lei si svegliasse. Una zanzara gli volò davanti; lui batte insieme le mani e la colpì – schiacciata! – sangue su entrambi le mani. Un presagio?",
+        "Roberto fantasticò sul senso di un racconto sulla morte della zanzara. Che c’era da dire?",
+        "Sblam! Sangue. Fine."
+    ],
+    "timestamp": "2019-09-14T21:29:36Z",
+    "title": "L'esame",
+    "topic_id": 44519,
+    "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame/"
+}
