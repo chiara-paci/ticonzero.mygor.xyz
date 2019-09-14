@@ -44,7 +44,7 @@
     },
     "num_chars": 8013,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 787589,
@@ -69,6 +69,14 @@
             ],
             "timestamp": "2019-09-13T17:31:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44498-t-i-l-d-e//?do=findComment&comment=787615"
+        },
+        {
+            "post_id": 787660,
+            "text": [
+                "cara I racconti si sono verificati prima di prendere moglie. Con la venuta dei bambini, ho dovuto fare molti passi indietro se volevo continuare a fare il papà. La mia sposa quando ci siamo conosciuti, era molto diversa, sentivo il dovere di proteggerla, mi sembrava un agnellino, ed invece si è scoperta in un famelico lupo vestito d'agnello, sempre pronto a saltarmi a dosso e sbranarmi."
+            ],
+            "timestamp": "2019-09-14T07:10:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44498-t-i-l-d-e//?do=findComment&comment=787660"
         }
     ],
     "post_staff": [],
