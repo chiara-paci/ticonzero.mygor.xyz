@@ -48,7 +48,7 @@
     },
     "num_chars": 1064,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 787774,
@@ -74,6 +74,17 @@
             ],
             "timestamp": "2019-09-15T10:32:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44517-la-goccia//?do=findComment&comment=787777"
+        },
+        {
+            "post_id": 787809,
+            "text": [
+                "Benvenuto da me,",
+                "hai interpretato tutto nel modo giusto o perlomeno come io lo sentivo e volevo farlo immaginare, scrivo molto per immagini e ti sono arrivate tutte, forse anche con un pizzico di emozione. Questo per me è meraviglioso.",
+                "Grazie del tuo bellissimo e incoraggiante commento.",
+                "A presto"
+            ],
+            "timestamp": "2019-09-15T16:59:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44517-la-goccia//?do=findComment&comment=787809"
         }
     ],
     "post_staff": [],

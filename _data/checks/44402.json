@@ -45,7 +45,7 @@
     },
     "num_chars": 6364,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787635,
@@ -73,6 +73,14 @@
             ],
             "timestamp": "2019-09-14T16:51:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787727"
+        },
+        {
+            "post_id": 787810,
+            "text": [
+                "Grazie"
+            ],
+            "timestamp": "2019-09-15T17:08:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44402-l-accessorio-parte-5//?do=findComment&comment=787810"
         }
     ],
     "post_staff": [],
