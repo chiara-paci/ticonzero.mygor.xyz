@@ -13,12 +13,63 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "valid": 1.0,
+        "weight": true
     },
-    "closed": true,
-    "commenti": [],
-    "commenti_weight": 0,
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il genera Fantasy del tuo capitolo mi ha intrigato a leggere. Come da regolamento giudicherò a sezioni l’opera.",
+                    "Trama: è ben articolata, coerente con i canoni del fantasy. Allo stesso tempo l’ho trovata originale, il principe delle tenebre è un topo, quindi mi aspetto che il resto dei personaggi siano degli animali, oppure sarà un mondo di mutua collaborazione tra animali e uomini, Chissà? La conclusione naturalmente lascia in sospeso. Ermete citava un destino mescino per lui se non riuscirà ad allearsi col topo, vedremo.",
+                    "Personaggi: in Ermete spicca il dualismo, è costretto a chiedere aiuto al topo anche se si pente della decisione presa sin dall’inizio. Nel mago prevale anche l’amore per il suo mondo. La terra dei mille soli è in pericolo e lui farebbe carte false pur di salvarla.",
+                    "Nel principe delle tenebre, nonché il topo, risalta per originalità del suo carattere ambiguo. Fino a prova contraria rappresenta il male, eppure prova a riscattare la sua posizione pur di essere rispettato dai concittadini.",
+                    "Contenuti: la storia è plausibile. Penso che la missione sia un buon legante per la storia, trovare l’orologio gemello per poter leggere il futuro e forse salvare la terra dei mille soli. Il messaggio trasmesso è incisivo, il bene e il male devono unirsi per uno scopo comune.",
+                    "Stile: il linguaggio usato è semplice, non appesantisce la lettura e permette di concentrasi sulla storia.",
+                    "Grammatica e sintassi: nella parte iniziale ho trovato qualche refuso un po’ lungo. Esempi:",
+                    "– Scrollò﻿﻿ il ﻿capo e dal ta﻿schino d﻿ella tunica rossa a r﻿ighe nere, veste ch﻿e p﻿ortava nei gi﻿orni i﻿n cui﻿ al Castello della Pietra Rossa non era richiesta la sua presenza, tirò fuori un fischietto a forma di gardena e vi soffiò dentro. –",
+                    "– Non﻿ era una cosa sensata mos﻿trare la propria debolezza, per non parlare che quella scelta lo avrebbe portato prima o poi a rivelare segreti che era meglio non divulgare a chi poteva usarli per﻿ nu﻿﻿ocere a lui o alla famiglia reale.–",
+                    "Se fossi al tuo posto proverei a dividere meglio i periodi.",
+                    "Giudizio finale: nella tua storia ho trovato delle premesse incoraggianti. Orologi misteriosi e mondi alternativi, non potrei desiderare altro da un fantasy. In aggiunta il tuo occhio, sempre vigile sui dettagli, permette di immedesimarsi meglio tra le righe.",
+                    "Spero di poter leggere altro, a presto."
+                ]
+            ],
+            "timestamp": "2019-09-13T14:17:26Z",
+            "title": "Sulle tracce del Gemello Cap. 1 - Sono io il Male",
+            "url": "https://www.writersdream.org/forum/forums/topic/44412-sulle-tracce-del-gemello-cap-1-sono-io-il-male//?do=findComment&comment=787585",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Drake Alistair.",
+                    "Mi ha fatto piacere scoprirti, come da regolamento giudicherò la storia per sezioni.",
+                    "Trama: nella storia si evincono le debolezze di Dorian, sviscerate durante un semplice gioco tra coetanei. La conclusione lascia l’amaro in bocca, crudo ma vero, tanto da riuscire a percepire il dolore del personaggio. Originale la trovata dei nomignoli, idea dell’antagonista, mi chiedo ne avrà uno anche lui?",
+                    "Personaggi : Dorian è il fulcro del racconto. Tra pensieri e sentimenti ne esce un bambino che giustifica le sue paure con l’età. Da l’impressione di accondiscendere alle angherie di Froli solo per farsi accettare dal gruppo.",
+                    "Froli è il bullo del villaggio con tanto di seguaci, cui difende usando la violenza. Originalità per entrambi i protagonisti è ambientazione, un bullo e la sua preda fuori da un contesto urbano.",
+                    "Contenuti: i personaggi sono dei bambini, eppure la violenza e le debolezze sono dei temi che abbracciano ogni età. La storia è plausibile, anche se dell’ambientazione si sa poco e nulla. Da quello che ho percepito si tratta di un villaggio, presumo sarà collocato in periodo storico. Il messaggio è chiaro, il percorso del protagonista per superare la sue paure.",
+                    "Stile: il linguaggio è asciutto ed essenziale, ma non per questo banale. Trovo cura nelle descrizioni.",
+                    "Grammatica e sintassi: non ho trovato errori.",
+                    "Giudizio finale: dal titolo mi aspettavo altro. Solo alla fine ho capito che è un titolo introspettivo, un tocco non da poco. A mio avviso quello che risalta più tra le righe è lo stile. Come ho già detto, in questo caso la semplicità è sinonimo di studio della parola. Peccato per l’ambientazione, qualche attenzione in più avrebbe giovato la storia. Spero di trovare nei prossimi capitoli qualche altro carattere fantasy, oltre al periodo, presumo storico, del racconto.",
+                    "A presto."
+                ]
+            ],
+            "timestamp": "2019-09-13T16:26:38Z",
+            "title": "Il cuore di cristallo - Capitolo 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/43566-il-cuore-di-cristallo-capitolo-1//?do=findComment&comment=787606",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -26,8 +77,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 10556,
-    "num_commenti": 0,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -49,6 +100,20 @@
             ],
             "timestamp": "2019-09-12T20:16:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44497-il-padrone-del-nulla-l%E2%80%99incontro//?do=findComment&comment=787520"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 787799,
+            "text": [
+                "Regolarizzato:",
+                ","
+            ],
+            "timestamp": "2019-09-15T14:23:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44497-il-padrone-del-nulla-l%E2%80%99incontro//?do=findComment&comment=787799"
         }
     ],
     "text": [
