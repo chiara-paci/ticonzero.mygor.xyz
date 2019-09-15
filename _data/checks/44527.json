@@ -12,13 +12,32 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.7977777777777778,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7977777777777778
+            },
+            "text": [
+                [
+                    "Questa poesia mi ha colpita subito per le immagini molto concrete, che quindi comunicano qualcosa sia al lettore \"distratto\", che a quello che vuole analizzare il testo più in profondità. Ovviamente su due piani differenti. Per me questo è un aspetto positivo e apprezzabile nella poesia contemporanea, soprattutto se non vuole rivolgersi soltanto a un pubblico di nicchia.",
+                    "Essendo nuova, ammetto di non aver letto altri tuoi componimenti, ma mi piacciono qui le rime leggere e incostanti, la metrica quasi precisa: un po' come se la poesia vera e disordinata di quell'erba che cresce tra i binari si ritrovasse con la stessa forza nella musicalità dei tuoi versi.",
+                    "A livello di forma mi chiedo se il \"di\" dell'ultimo verso non debba essere sostituito da un \"che\", o forse ho interpretato male il significato.",
+                    "A rileggerti"
+                ]
+            ],
+            "timestamp": "2019-09-15T20:51:24Z",
+            "title": "La verità è figlia del tempo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787842",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,10 +45,24 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 325,
-    "num_commenti": 0,
-    "num_posts": 1,
+    "num_commenti": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 787852,
+            "text": [
+                "Ecco il link al commento:"
+            ],
+            "timestamp": "2019-09-15T22:27:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787852"
+        }
+    ],
     "text": [
         "Commento La verità è figlia del tempo di Domenico Santoro",
         "Sorry non sono riuscita a inserire il link...",
