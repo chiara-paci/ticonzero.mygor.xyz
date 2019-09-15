@@ -53,8 +53,21 @@
     },
     "num_chars": 13156,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787786,
+            "text": [
+                "Ciao , grazie mille per il tempo che mi hai dedicato.",
+                "Non sto a rispondere punto punto in quanto mi sembrano tutti appunti correttissimi.",
+                "La considerazione più importante però, per me, rimane la necessità, che trapela dalle tue considerazioni, di non essere troppo superficiale su alcuni aspetti, chiarissimi nella mia mente ma magari non nella mente del lettore, che ovviamente non sa ciò che per me risulta scontato ma che effettivamente non lo è per il resto del mondo.",
+                "L'unica superficialità voluta è quella della descrizione della bambina. Vorrei in futuro raggiungere la capacità di potermi permettere di non descrivere personaggi e luoghi quando non strettamente necessario ai fini della trama. Semplificando volevo non descrivere la bambina in modo che fosse qualunque bambina, non una specifica. Mi rendo conto che pensarlo è una cosa, renderlo in scrittura ben altro. Inoltre non posso non riconoscere la mia deriva scenografica più che letteraria.",
+                "Grazie mille di nuovo"
+            ],
+            "timestamp": "2019-09-15T12:06:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44359-il-grande-riboldi//?do=findComment&comment=787786"
+        }
+    ],
     "post_staff": [],
     "text": [
         "“Venghino Signori Venghino, il luna park è aperto!”",

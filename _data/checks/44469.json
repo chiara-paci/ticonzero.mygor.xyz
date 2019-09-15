@@ -52,7 +52,7 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 787276,
@@ -93,6 +93,14 @@
             ],
             "timestamp": "2019-09-13T08:00:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787542"
+        },
+        {
+            "post_id": 787788,
+            "text": [
+                "Ciao, sono contento che, nel complesso, il racconto ti sia piaciuto. La parte sul caffè è assolutamente slegata e casuale, l'ho messa solo per fare ridere il lettore, non ha grandi significati. A presto."
+            ],
+            "timestamp": "2019-09-15T12:31:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787788"
         }
     ],
     "post_staff": [],
