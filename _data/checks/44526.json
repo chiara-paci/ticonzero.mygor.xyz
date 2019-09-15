@@ -1,0 +1,46 @@
+{
+    "author": {
+        "author_id": 28718,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Lauram",
+        "url": "https://www.writersdream.org/forum/profile/28718-lauram/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 109,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Uno più uno,",
+        "fa due fino a sera.",
+        "Scende la notte,",
+        "vanno a dormire.",
+        "Due diventa uno,",
+        "non per l'intero.",
+        "Ma per l'età."
+    ],
+    "timestamp": "2019-09-15T20:44:34Z",
+    "title": "Adolescenza ritrovata",
+    "topic_id": 44526,
+    "url": "https://www.writersdream.org/forum/forums/topic/44526-adolescenza-ritrovata/"
+}
