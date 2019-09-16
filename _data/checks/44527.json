@@ -46,7 +46,7 @@
     },
     "num_chars": 325,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 787867,
@@ -70,6 +70,20 @@
             ],
             "timestamp": "2019-09-15T22:27:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787852"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 787963,
+            "text": [
+                "così:",
+                "Vai sul messaggio di cui vuoi ottenere il link, poi seleziona con il tasto destro del mouse il simbolo di condivisione, in alto a destra (quello con i tre pallini), e clicca con il tasto sinistro su Copia indirizzo link. Dopodiché ti basterà incollare semplicemente l'indirizzo link che hai copiato nella discussione dove ti serve."
+            ],
+            "timestamp": "2019-09-16T20:56:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787963"
         }
     ],
     "text": [
