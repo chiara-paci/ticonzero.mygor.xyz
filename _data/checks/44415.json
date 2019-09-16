@@ -54,7 +54,7 @@
     },
     "num_chars": 424,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787274,
@@ -71,6 +71,14 @@
             ],
             "timestamp": "2019-09-11T02:31:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787275"
+        },
+        {
+            "post_id": 787858,
+            "text": [
+                "Ciao posso solo dire che quando scrivo una poesia mi sforzo di arrivare a tutti. Sono contento che ti sia piaciuta, penserò se cambiare l'ultimo verso. A presto."
+            ],
+            "timestamp": "2019-09-16T04:50:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44415-la-verit%C3%A0-%C3%A8-figlia-del-tempo//?do=findComment&comment=787858"
         }
     ],
     "post_staff": [],
