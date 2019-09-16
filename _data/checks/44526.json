@@ -12,13 +12,38 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ma che carino questo racconto, ma tanto tanto",
+                    "Mi è piaciuta molto la trama. È molto originale, divertente, insomma mi ha fatto sorridere. La narrazione è garbata, ti rappresenta: tu sei garbato.",
+                    "Ti faccio notare due cosette, poi vedi tu.",
+                    "Secondo me, il periodo è un po' troppo lungo e il \"chi parla\" arriva dopo un po'. Potresti frammentare dopo la prima frase e ci attacchi: dice l'agente.",
+                    "Di mezzo, oltre all'agente c'è lui e l'astronave. Dopo multa, rimarcherei il soggetto, magari con un: riprende a parlare, continua a parlare...",
+                    "Qui non è molto credibile. D'accordo che davanti a lui c'è un piccolo alieno, ma il lettore crede che in questo punto della narrazione ci sia l'agente... davvero una persona comune, già bella che arrabbiata, ascolta senza stupirsi il discorso del signor Bianchi, Rossi (ho fatto confusione, scusa) senza intervenire? Metterei delle pause ad indicare il comportamento dell'agente durante il racconto..",
+                    "L'ho riletta due volte per capirla. Io a volte lo faccio, quando m'incarto con il che e non so come uscirne, taglio tutto e metto il discorso diretto",
+                    "Che razza di eroe è, se antepone una pasticca per la pressione alla salvezza del mondo?",
+                    "Il nesso non è chiarissimo, ma fa niente, il racconto mi è piaciuto assai (come direbbe , ti taggo e ti saluto )",
+                    "Ciao, buon inizio settimana"
+                ]
+            ],
+            "timestamp": "2019-09-15T20:25:00Z",
+            "title": "Il vigile e l'astronave",
+            "url": "https://www.writersdream.org/forum/forums/topic/44515-il-vigile-e-lastronave//?do=findComment&comment=787839",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,7 +51,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 109,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
