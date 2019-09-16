@@ -56,8 +56,21 @@
     },
     "num_chars": 4161,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 787898,
+            "text": [
+                "giustissimo vado a cambiarlo",
+                "no no... Stira proprio quelli sudati..ed Ero indeciso se aggiungere:",
+                "Una bella spruzzata di deodorante ed eccomi quà come nuovo. Daltronde se hanno inventato il deodorante non vedo perchè devo continuare a farmi la doccia.",
+                "Non so come spiegartelo forse dovrei metterlo tra parentesi ma non credo che nei dialoghi vadano bene le parentesi . il \" vediamo se me lo ricordo\" lui lo pronuncia mentre parla con lei non lo sta pensando non so se sia giusto ma io dopo il trattino di solito metto la frase pronunciata dal personaggio e se c'è un pensieroin mezzo metto in corsivo",
+                "Fatemi sapere se è del tutto sbagliato"
+            ],
+            "timestamp": "2019-09-16T13:29:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44518-l-accessorio-parte-6//?do=findComment&comment=787898"
+        }
+    ],
     "post_staff": [],
     "text": [
         "ndr. Già mi scuso per le tante parolacce",
