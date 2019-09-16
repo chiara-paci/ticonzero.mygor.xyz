@@ -71,8 +71,19 @@
     },
     "num_chars": 4450,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 787868,
+            "text": [
+                "non credo lo sappia nemmeno lei, cioé io. Voglio dire, mentre sei confuso e insicuro non sai bene cosa stai cercando, più che altro tenti di uscire dalla melma psicologica in cui ti senti affondare mentre, poco a poco, si delinea quello di cui hai bisogno o che vuoi veramente fare.",
+                "Non ti sei annoiato in questo capitolo? Non è successo niente, è solo un interludio. Ti sembra che la stia tirando troppo per le lunghe? Ti disturba il fatto che il racconto non sia lineare, ma salti di fatto in fatto e alcuni problemi trovino soluzione capitoli dopo e ti lasciano nell'attesa?",
+                "Buona settimana grazie mille"
+            ],
+            "timestamp": "2019-09-16T07:21:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44520-le-ragazze-capitolo-13-33//?do=findComment&comment=787868"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Gina è nata fuori Lima, in Perù. È nata con un pene tra le gambe, ma crescendo si è accorta che non le apparteneva, che era lì per sbaglio. Così ha sfidato tutto quello che conosceva per poter essere se stessa.",
