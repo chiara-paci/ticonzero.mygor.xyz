@@ -12,21 +12,18 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
+        "timestamp": true,
+        "valid": 1.0,
         "weight": true
     },
     "closed": false,
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0
+                "timestamp": true,
+                "valid": 1
             },
             "text": [
-                [
-                    "Un commento lampo, a pelle: mi è piaciuto tantissimo!"
-                ],
                 [
                     "Non ho capito perché i piatti di ieri sono così tanti. O sono i piatti accatastati da più giorni, o ieri ha cucinato per più persone. Non mi sembra coerente con il personaggio che per cenare da sola abbia fatto una catasta di piatti. O lui la sera precedente le ha lasciato i piatti da lavare? Per semplificare, toglierei \"ieri\".",
                     "- trama: ben strutturata, incipit coinvolgente, concreto e immediato",
@@ -37,9 +34,9 @@
                     "- giudizio finale: te lo avevo scritto come commento lampo: mi è piaciuto molto. Ciò che ho apprezzato di più è stata la sospensione e l'attesa per un colpo di scena finale, mi aspettavo che lui le dicesse qualcosa di negativo, mi aspettavo un tradimento (che sarebbe stata la conclusione più banale e non mi avrebbe colpita particolarmente), invece la conclusione dolce e appassionata mi ha lasciato una sensazione molto positiva."
                 ]
             ],
-            "timestamp": "2019-08-19T10:00:53Z",
+            "timestamp": "2019-08-28T14:54:15Z",
             "title": "Stanotte scrivi per me",
-            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=783889",
+            "url": "https://www.writersdream.org/forum/forums/topic/44230-stanotte-scrivi-per-me//?do=findComment&comment=785089",
             "weight": 1
         }
     ],
