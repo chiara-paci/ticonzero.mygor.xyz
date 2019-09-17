@@ -48,7 +48,7 @@
     },
     "num_chars": 3449,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 787152,
@@ -104,6 +104,20 @@
             ],
             "timestamp": "2019-09-17T10:38:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=788009"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788032,
+            "text": [
+                "Peccato, perché per me è come una badilata in un timpano.",
+                "Comunque questo è un racconto di un autore e non possiamo metterci a discuterne qui, nel caso apri una discussione in Lingua e Affini."
+            ],
+            "timestamp": "2019-09-17T13:33:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=788032"
         }
     ],
     "text": [
