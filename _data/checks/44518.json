@@ -56,7 +56,7 @@
     },
     "num_chars": 4161,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 787898,
@@ -69,6 +69,14 @@
             ],
             "timestamp": "2019-09-16T13:29:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44518-l-accessorio-parte-6//?do=findComment&comment=787898"
+        },
+        {
+            "post_id": 787945,
+            "text": [
+                "Chiedo l'aiuto del pubblico perché @Lauram mi ha solo incasinato e non ho capito niente"
+            ],
+            "timestamp": "2019-09-16T19:53:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44518-l-accessorio-parte-6//?do=findComment&comment=787945"
         }
     ],
     "post_staff": [],

@@ -71,7 +71,7 @@
     },
     "num_chars": 4450,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 787868,
@@ -82,6 +82,12 @@
             ],
             "timestamp": "2019-09-16T07:21:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44520-le-ragazze-capitolo-13-33//?do=findComment&comment=787868"
+        },
+        {
+            "post_id": 787992,
+            "text": [],
+            "timestamp": "2019-09-17T07:00:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44520-le-ragazze-capitolo-13-33//?do=findComment&comment=787992"
         }
     ],
     "post_staff": [],
