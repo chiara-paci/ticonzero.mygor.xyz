@@ -51,7 +51,7 @@
     },
     "num_chars": 1288,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 788018,
@@ -72,6 +72,17 @@
             ],
             "timestamp": "2019-09-17T12:09:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=788020"
+        },
+        {
+            "post_id": 788046,
+            "text": [
+                "Benvenuta da me,",
+                "i tuoi suggerimenti mi sono stata molto utili.",
+                "Intrigante mi piace.",
+                "Grazie"
+            ],
+            "timestamp": "2019-09-17T14:39:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=788046"
         }
     ],
     "post_staff": [

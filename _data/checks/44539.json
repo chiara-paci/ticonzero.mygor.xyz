@@ -103,9 +103,48 @@
     },
     "num_chars": 12468,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788050,
+            "text": [
+                "grazie infinite, come prima cosa.",
+                "l'ho fatto per , a lui piacerà",
+                "giustissimo: non succede nulla, praticamente.",
+                "Questo è il complimento più gradito, perché sono proprio gli elementi su cui ho lavorato: se sono riuscito a fare arrivare ciò che mi proponevo ne sono davvero felice.",
+                "Per quanto riguarda le tue note che, come altre che verranno, saranno come sempre il punto di partenza di una futura revisione, ti dico che il passaggio delle otturazioni è uno di quelli che più mi ha fatto penare: l'ho riscritto due o tre volte e forse ancora non ci siamo.",
+                "Grazie per le ripetizioni, sfuggite anche all'ultima rilettura, che saranno di certo eliminate.",
+                "Più che giusto: era \"sulla soglia\" nella prima stesura, poi la soglia è diventata porta, ma la preposizione è rimasta...",
+                "Difendo soltanto la scelta di teoria , che trovo adatta ai termini arcaici della prima parte, dalle Esportazioni senza filtro agli svedesi, che molti giovani wdiani non conosceranno.",
+                "Ti ringrazio di cuore per l'attenta lettura e il commento che mi saranno utilissimi."
+            ],
+            "timestamp": "2019-09-17T15:47:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788050"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788050,
+            "text": [
+                "grazie infinite, come prima cosa.",
+                "l'ho fatto per , a lui piacerà",
+                "giustissimo: non succede nulla, praticamente.",
+                "Questo è il complimento più gradito, perché sono proprio gli elementi su cui ho lavorato: se sono riuscito a fare arrivare ciò che mi proponevo ne sono davvero felice.",
+                "Per quanto riguarda le tue note che, come altre che verranno, saranno come sempre il punto di partenza di una futura revisione, ti dico che il passaggio delle otturazioni è uno di quelli che più mi ha fatto penare: l'ho riscritto due o tre volte e forse ancora non ci siamo.",
+                "Grazie per le ripetizioni, sfuggite anche all'ultima rilettura, che saranno di certo eliminate.",
+                "Più che giusto: era \"sulla soglia\" nella prima stesura, poi la soglia è diventata porta, ma la preposizione è rimasta...",
+                "Difendo soltanto la scelta di teoria , che trovo adatta ai termini arcaici della prima parte, dalle Esportazioni senza filtro agli svedesi, che molti giovani wdiani non conosceranno.",
+                "Ti ringrazio di cuore per l'attenta lettura e il commento che mi saranno utilissimi."
+            ],
+            "timestamp": "2019-09-17T15:47:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788050"
+        }
+    ],
     "text": [
         "«Io sono uno che arriva a cose fatte» disse Leo.",
         "Finalmente libera dalla canicola di un'estate torrida, l'aria era asprigna e densa degli aromi delle prime vendemmie, a cui si aggiungeva quello delle barbabietole, sradicate e stipate sui camion pronti a mettersi in viaggio verso il vicino zuccherificio. Ce n'era già una lunga teoria lungo il sentiero sterrato che portava all'incrocio con la statale.",

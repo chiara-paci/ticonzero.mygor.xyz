@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 16173,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Domenico Santoro",
+        "url": "https://www.writersdream.org/forum/profile/16173-domenico-santoro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao commenterò il tuo testo usando la griglia di Writer's dream.",
+                    "Cura formale e metrica.",
+                    "Ti confesso che ho sempre avuto un debole per il segno d'interpunzione dei trattini, tanto di averne anche abusato in passato, ma anche in presente. Se ci fosse una riunione di \"trattinisti anonimi\" sicuramente io mi alzerei per dire \"sì, anch'io ho fatto abuso di trattini.\" Comunque, mi è piaciuto l'andamento dialettico che tu hai dato alla poesia tramite questo segno grafico. Di solito, nei dialoghi poetici, si va verso a capo, mentre tu hai dialogo nello stesso verso. Molto bene, per me, innovativo.",
+                    "Svolgimento della tematica. Che c'è stato? Niente, sono morta. Come tutte le storie (è una storia d'amore la tua, vero?) sono lasciati a terra cadaveri crivellati di piombo. Vedo che tutto ciò incide nella \"nostra pelle più antica\" (di quale pelle parli, poi? Mi incuriosisce questa immagine) e, naturalmente, di luglio, mese classico per le storie d'amore. Ho l'impressione che la persona attraverso cui la soggettiva leggiamo questa poesia non riesca a rassegnarsi alla fine dell'amore. Capita a molti. Non si capacita, soprattutto, che lui/lei possa dimenticarlo in eterno. In effetti, una rottura può fare male. Questa poesia rende bene il senso di frustrazione.",
+                    "Originalità, scelta dei vocaboli. Come scrivevo poc'anzi, la tematica non è originale, ma mi è piaciuta la forma dialogica/spezzettata, quasi da rap. I vocaboli non sono ricercati. La definirei una poesia \"alla mano\", e questa non è da intendersi come critica.",
+                    "Efficacia delle immagini retoriche. Mi sono già dilungato su quella pelle antica, che mi incuriosisce. Mi interrogo su quei \"pensieri che si accasciano, spirando a terra il loro fiato.\" In effetti, mi sembra che sia quello che fanno i pensieri, però ho l'impressione che lavorando di lima tu possa ricavare qualcosa di più pertinente da questa immagine. Solo una mia impressione: sei tu il poeta/poetessa.",
+                    "Emozioni suscitate. L'ho già detto di sopra: frustrazione. E anche, perché no, attesa.",
+                    "Spero che il mio umilissimo giudizio ti sia stato/a utile! A rileggersi!"
+                ]
+            ],
+            "timestamp": "2019-09-17T15:53:57Z",
+            "title": "Dimenticarmi",
+            "url": "https://www.writersdream.org/forum/forums/topic/44536-dimenticarmi//?do=findComment&comment=788051",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 425,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Io non sono anonimo e morto,",
+        "bensì vivo, colorato, squillante",
+        "e mi piace sentirmi importante",
+        "tenere al mondo un posto certo.",
+        "C’è chi ha avuto ben altra sorte",
+        "ebrei, indiani, incas, armeni",
+        "miliardi d’anime senza domani",
+        "fecero buia, silenziosa morte.",
+        "Dimenticati, anonimi volti",
+        "mentre io parlo, “migliore” d’altri…",
+        "solo un pugno di poeti colti",
+        "sopra i cadaveri svettano alti?",
+        "Non conta al mondo la nostra fama",
+        "ma il quotidiano, come si ama."
+    ],
+    "timestamp": "2019-09-17T15:55:53Z",
+    "title": "Lo sterminio dei Navajo",
+    "topic_id": 44544,
+    "url": "https://www.writersdream.org/forum/forums/topic/44544-lo-sterminio-dei-navajo/"
+}
