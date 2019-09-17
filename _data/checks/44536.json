@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 31425,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 0,
+            "poesia": 3
+        },
+        "name": "Exairesi",
+        "url": "https://www.writersdream.org/forum/profile/31425-exairesi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao . La tua è una poesia complessa a cui dare un giudizio, prima di tutto perché è molto rapida, semplice, quasi inafferrabile nel suo senso.",
+                    "Descrivi un momento, due che si prendono la mano, poi il bacio che lascia intendere un momento di intimità, di passione che trascina in avanti. E infatti la stessa poesia mi dà l'impressione - come nel componimento la mano di lei - di essere \"prossima alla caduta\".",
+                    "La poesia infatti parte lentamente, c'è la descrizione del momento in cui le due mani si stringono e poi il tempo rallenta fino a fermarsi in quel verso \"prossima alla caduta\". Qui la caduta (che fa subito pensare ad un rapido movimento) è descritta come \"prossima\" e si ha la sensazione che il tempo si fermi nell'attimo prima di quel gesto, gesto fra l'altro già anticipato dall'inizio del componimento (È già foglia la tua mano). Questo mi è piaciuto, come se quella caduta, quel precipitare di mani, quell'abbandonarsi insomma, fosse già nelle intenzioni di lei che peró ancora ponderava ogni suo gesto ( e tu stesso lo dici: \"esitante nel gesto, sospesa\").",
+                    "Ma finalmente lei si abbandona e il ritmo accelera, si muovono le dita (animate da un debole soffio) e poi ecco che l'attenzione si sposta sulle labbra e sul bacio che ne deriva (descritto come il modento in cui un gemito si infrange nell'unione delle loro labbra).",
+                    "In generale molto bella, sensoriale e delicata. Mi piace che la realtà si riduca ad un impressione e che venga descritta per dettagli. Mi da' l'idea di un ricordo, che vive nella memoria a frammenti, ricostruibile solo attraverso queste forme confuse e queste rapide percezioni.",
+                    "Ciò che non ho apprezzato però è la vaghezza dei termini che utilizzi (non ci sono immagini da visualizzare, si percepisce chiaramente solo questo ruzzolare in avanti). In generale questa mancanza unità alla velocità del componimento fa si che non ci si riesca ad emozionare, tutto scivola via molto in fretta e si ha l'impressione che non rimanga niente se non un'impressione.",
+                    "Comunque molto bella, grazie e bravo!"
+                ]
+            ],
+            "timestamp": "2019-09-17T00:53:26Z",
+            "title": "Autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/44483-autunno//?do=findComment&comment=787981",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 569,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Non c'è stato niente - Io sono morta",
+        "Senza esplodere fuori di me altro che nuvole",
+        "E illusioni di piombo - Sono morta, io",
+        "Tu che ne hai fatto di me?",
+        "Di ció che è mio - cosa ti resta",
+        "Niente - a parte la pelle strappata",
+        "Tu di mio - di me, io! - cosa conservi",
+        "Niente - ed è nebbia che sale",
+        "Che tinge dolore - il dolore.",
+        "E poi anche questo dimenticare eterno",
+        "È vita - tu la replichi infinite volte",
+        "E in infinite notti - mi dimentichi.",
+        "Come - è arrivata l'estate di nuovo?",
+        "Sulla nostra pelle più antica",
+        "Su pensieri che si accasciano",
+        "Spirando al suolo il loro fiato",
+        "Come - cade ancora Luglio?"
+    ],
+    "timestamp": "2019-09-17T01:02:37Z",
+    "title": "Dimenticarmi",
+    "topic_id": 44536,
+    "url": "https://www.writersdream.org/forum/forums/topic/44536-dimenticarmi/"
+}
