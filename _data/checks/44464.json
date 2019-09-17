@@ -48,7 +48,7 @@
     },
     "num_chars": 3449,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 787152,
@@ -67,7 +67,45 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=787250"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788009,
+            "text": [
+                "sei molto giovane e questi sono di certo i tuoi primi \"tentativi\" letterari.",
+                "C'è molto da lavorare e la cosa immagino non ti stupirà: se sei approdato al WD a quest'età e hai deciso di metterti in gioco significa che ne sei consapevole. Sappi però che si tratta innanzitutto di apprendere delle tecniche, che s'imparano anche relativamente in fretta. Condizione necessaria sono l'impegno (quello con la I maiuscola) e l'umiltà: devi trasformarti in una spugna, assorbire tutto dalla lettura non solo dei classici, ma anche dei contemporanei, autori già famosi e non. Se farai tutto questo, mettendo la volontà di imparare a scrivere bene tra le tue priorità, sono convinto che in breve tempo potrai notare cospicui miglioramenti; non è un discorsino d'incoraggiamento, non solo perlomeno, e te ne spiegherò il motivo alla fine.",
+                "Ora vediamo da dove iniziare per dare alla tua scrittura un taglio più professionale.",
+                "Non farò un editing rigo per rigo, ma cercherò di evidenziare alcuni aspetti su cui lavorare.",
+                "La struttura del periodo , come prima cosa.",
+                "Scrivi frasi secche e slegate tra loro: lo stile epigrafico, quasi lapidario, è una caratteristica comune dello stile moderno e può anche andare bene, che piaccia o no. Le frasi però devono essere concatenate tra loro per formare un discorso che abbia una sua continuità, non devono essere cioè pensierini slegati tra loro. A questo scopo le congiunzioni giocano un ruolo importante nella costruzione dei periodi. Cerco di mostrarti cosa intendo:",
+                "La pendola in camera da letto, rivestita in faggio come le altre stanze dell'antica villa, batté le ventidue. Per quanto avesse sonno, il vecchio si sentiva esausto e capì che non sarebbe riuscito a raggiungere il letto; decise perciò che avrebbe dormito sulla sedia.",
+                "Preceduto da un lampo che illuminò la stanza a giorno, un tuono squarciò il silenzio.",
+                "Ho mantenuto le stesse informazioni che volevi trasmettere al lettore, ma ora sono inquadrate in una struttura più armonica, che si legge di seguito e non a scatti.",
+                "Tempi e modi dei verbi devono essere perfetti .",
+                "Sembrava un uomo che camminasse ...",
+                "È un'ipotesi: il vecchio distingue una sagoma, può essere un uomo oppure no. Il congiuntivo è obbligatorio.",
+                "Se invece il vecchio fosse sicuro di ciò che ha visto avresti scritto: Era un uomo che camminava ...",
+                "Siamo al passato, quindi ci vuole il congiuntivo passato: Che se lo fosse immaginato?",
+                "I possessivi in particolare, ma anche gli altri aggettivi, quando sono superflui si rivelano dannosi .",
+                "può dondolarsi sulla seggiola di un'altra persona? No, quindi> si stava dondolando sulla seggiola",
+                "può fare un segno con le dita di un altro? Fece un segno con le dita ...",
+                "Ci sarebbero tante altre cose da sottolineare, ma non voglio confonderti le idee. In generale il testo va asciugato, come si dice in termine tecnico: ci sono troppe informazioni che si ripetono e rischiano di appesantire il testo, vanno eliminate un po' alla volta riscrivendo più volte il frammento. Chiediti sempre: questa cosa l'ho già detta? Il lettore avrà già capito che... oppure lo devo sottolineare? E via di questo passo. Dopo avere eliminato tutto ciò che è in esubero, prova a riscrivere il frammento cercando di legare le frasi tra loro.",
+                "... non è un discorsino d'incoraggiamento, non solo perlomeno, e te ne spiegherò il motivo alla fine .",
+                "Non me ne sono dimenticato.",
+                "Sai cosa funziona in questo brano?",
+                "Succede che sai condurre la narrazione: volevi trasmettere l'ansia del vecchio, i suoi timori per quella sagoma intravista nel buio, la paura che qualcuno fosse intenzionato a introdursi in casa... Ebbene, nonostante le tante imperfezioni, ci sei riuscito: il lettore è lì, inchiodato alla pagina, e vuole sapere chi c'è dietro alla porta.",
+                "Non è cosa di poco conto: molti più navigati di te e in possesso di tecniche di scrittura più raffinate non ne sono capaci.",
+                "È ciò che mi ha fatto affermare di essere fiducioso che i miglioramenti potranno essere più rapidi di quanto tu stesso possa immaginare, sempre che non vengano mai a mancare impegno e umiltà.",
+                "Buon lavoro ."
+            ],
+            "timestamp": "2019-09-17T10:38:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=788009"
+        }
+    ],
     "text": [
         "Il vecchio si stava dondolando con la sua seggiola, davanti alla finestra, mentre guardava cupo fuori. Era da ore che ripeteva sempre gli stessi movimenti, prima in dietro, poi in avanti, in dietro poi in avanti. Cercava di mantenere un ritmo. Il vecchio abitava in una villa antica, le stanze erano fatte di legno. Quella in cui si trovava ora era la camera da letto. L’orologio segnava le ventidue, il vecchio aveva sonno, ma non riusciva con le sue forze a raggiungere il letto. Avrebbe dormito sulla sedia quella notte. Un tuono ruppe il silenzio. Ci fu un lampo un secondo prima. Con le sue dita, fece un uno come segno.",
         "«300 metri» disse dentro la sua testa.",
