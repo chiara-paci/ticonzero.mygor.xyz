@@ -46,7 +46,7 @@
     },
     "num_chars": 325,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 787867,
@@ -55,6 +55,22 @@
             ],
             "timestamp": "2019-09-16T07:21:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787867"
+        },
+        {
+            "post_id": 787985,
+            "text": [
+                "grazie mille. Svelato l'arcano: facendolo da cellulare non si riesce. Perché infatti fino lì arrivavo...e poi niente. Grazie davvero! Buona giornata"
+            ],
+            "timestamp": "2019-09-17T05:19:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787985"
+        },
+        {
+            "post_id": 787986,
+            "text": [
+                "Anzi no, ce l'ho fatta pure da cellulare. 😌 😌 😌"
+            ],
+            "timestamp": "2019-09-17T05:21:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787986"
         }
     ],
     "post_staff": [

@@ -3,9 +3,9 @@
         "author_id": 31425,
         "checks": {
             "contest": 0,
-            "flag": false,
+            "flag": true,
             "narrativa": 0,
-            "poesia": 3
+            "poesia": 1
         },
         "name": "Exairesi",
         "url": "https://www.writersdream.org/forum/profile/31425-exairesi/"
@@ -49,7 +49,7 @@
     },
     "num_chars": 569,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
     "post_staff": [],
     "text": [
