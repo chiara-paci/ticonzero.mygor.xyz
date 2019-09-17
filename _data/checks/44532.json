@@ -51,7 +51,7 @@
     },
     "num_chars": 1288,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 788018,
@@ -83,6 +83,18 @@
             ],
             "timestamp": "2019-09-17T14:39:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=788046"
+        },
+        {
+            "post_id": 788132,
+            "text": [
+                "ciao,",
+                "Ho capito lo rivedo da capo..",
+                "E’ l’incipit di un vecchio racconto e l’avevo In cantina fra i giocattoli dell’infanzia",
+                "Grazie del passaggio",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-09-17T21:13:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=788132"
         }
     ],
     "post_staff": [
