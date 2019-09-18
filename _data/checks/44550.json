@@ -56,7 +56,7 @@
     },
     "num_chars": 2423,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 788180,
@@ -84,6 +84,16 @@
             ],
             "timestamp": "2019-09-18T17:06:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788242"
+        },
+        {
+            "post_id": 788258,
+            "text": [
+                "ma solo dopo il caffè, prima sono così:",
+                "La protagonista è una sola. Lei adulta che si ricorda delle \"istruzioni\" ricevute a dieci anni dalla mamma e dalla maestra.",
+                "Esatto, grazie per il passaggio."
+            ],
+            "timestamp": "2019-09-18T19:17:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788258"
         }
     ],
     "post_staff": [],
