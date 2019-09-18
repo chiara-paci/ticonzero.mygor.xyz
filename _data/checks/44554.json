@@ -27,9 +27,32 @@
     },
     "num_chars": 401,
     "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 788263,
+            "text": [
+                "Settimana 33"
+            ],
+            "timestamp": "2019-09-18T20:03:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44554-i-racconti-della-nona-luna-quinto-ciclo//?do=findComment&comment=788263"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 788263,
+            "text": [
+                "Settimana 33"
+            ],
+            "timestamp": "2019-09-18T20:03:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44554-i-racconti-della-nona-luna-quinto-ciclo//?do=findComment&comment=788263"
+        }
+    ],
     "text": [
         "In ritardo, ma ci siamo. Come sempre, voi non dovete far altro che pubblicare i vostri racconti in Officina, ma se siete nuovi e volete saperne di più potete leggere .",
         "Il calendario della Nona Luna:",
