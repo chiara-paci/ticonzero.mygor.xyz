@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 11549,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Pierpiero",
+        "url": "https://www.writersdream.org/forum/profile/11549-pierpiero/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6344444444444445,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6344444444444445
+            },
+            "text": [
+                [
+                    "Posso dirtelo in franchezza? Veramente un bel racconto e bella scrittura.",
+                    "Ci sono un po' di refusi che non sto qui a segnalarti perché lo hanno fatto gli altri.",
+                    "C'è chi ti ha detto troppi a capo. Non sono d'accordo, ci stanno, anzi amplificano la frammentarietà, che in questo racconto serve.",
+                    "Lo stile è piatto e pulito, altro punto a favore (gusto personale qui).",
+                    "Ironia e surrealismo, sembra quasi un racconto di Keret.",
+                    "I dialoghi sono veramente ben fatti. Poi hai anche un modo di raccontare, di proseguire per immagini che è veramente figo.",
+                    "Vorrei essere più cattivo per spingerti a migliorare ancora di più, ma seriamente non mi viene.",
+                    "Spero di rileggerti presto.",
+                    "Un saluto."
+                ]
+            ],
+            "timestamp": "2019-09-18T21:11:38Z",
+            "title": "Il mio cane",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=788267",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 1235,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Scriveva una commedia degli equivoci. Pensava a Fabio de Luigi come protagonista. Aveva ancora tre giorni per spedire l’email alla produzione. Nell’ultima settimana andava a letto tardi e non lasciava mai una scena incompleta, prima di salire in camera. Quel pomeriggio, però, aveva detto che sarebbero andati al cinema. Ma mentre lei si preparava, lui continuava a scrivere.",
+        "Lei era indecisa tra una rimanenza d’armadio ed un vestito rosso. La sveglia evidenziò il ritardo: erano le nove e cinquanta, lo spettacolo cominciava alle dieci.",
+        "Scese avvolta di rosso.",
+        "Lui non se ne accorse. Gli sembrò di cadere quando lei gli carezzò il collo. Non avrebbe voluto andarsene nel mezzo della scena. Ma sorrise.",
+        "“Ti sta bene il vestito, è nuovo?”.",
+        "Salvò il documento e si infilò la giacca da scrittore, secondo lei. Velluto beige con toppe sulle maniche.",
+        "L’Odeon distava solo un chilometro da casa, ma erano in ritardo. Sbatterono le portiere.",
+        "Percorrevano il rettilineo che li separava dalla sala quando incrociarono un’auto in direzione opposta. I fari si sdoppiarono. Da due divennero quattro. Lui fece in tempo a serrare la mandibola, lei a gridare “ma che fa?”.",
+        "I pompieri impiegarono novanta minuti per estrarre i corpi dal groviglio di metallo."
+    ],
+    "timestamp": "2019-09-18T21:15:41Z",
+    "title": "Odeon",
+    "topic_id": 44556,
+    "url": "https://www.writersdream.org/forum/forums/topic/44556-odeon/"
+}

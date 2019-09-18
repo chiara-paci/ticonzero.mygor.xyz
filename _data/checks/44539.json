@@ -103,7 +103,7 @@
     },
     "num_chars": 12468,
     "num_commenti": 2,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 788050,
@@ -120,6 +120,19 @@
             ],
             "timestamp": "2019-09-17T15:47:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788050"
+        },
+        {
+            "post_id": 788270,
+            "text": [
+                "Parto da qui, che è la cosa più facile:",
+                "lo zio spaccia per accaduta realmente a lui la trama di un romanzo e Matteo abbocca. Quando si lamenta di essere stato ingannato Leo si inalbera, muovendo da questo concetto: come hai potuto pensare che mi sia accaduta davvero quella cosa? Io non ho mai voluto saperne nulla di quei ladroni! Dove \"quei\" racchiude nella sua testa tutto il sistema bancario e non si riferisce ai banchieri di quella specifica banca. Poi magari non sono riuscito a trasmettere in maniera chiara ciò che volevo.",
+                "Di questo ti sono particolarmente grato: lavoro molto sul lessico, ma la ricchezza non è sempre sinonimo di felicità nell'espressione. Se e quando riesco a calibrarlo bene, in base ai personaggi e alle situazioni, ne sono felice.",
+                "sono utilissime, invece.",
+                "Le segnalazioni di refusi, errori, ripetizioni e altro sono importanti, ma rivedendo più volte il racconto uno riesce a scoprirle anche da solo. Quello che invece da solo non puoi fare è capire come un testo arrivi al lettore: quello te lo può dire solo lui e nessun altro.",
+                "Quindi grazie infinite, davvero ."
+            ],
+            "timestamp": "2019-09-18T21:28:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788270"
         }
     ],
     "post_staff": [
@@ -143,6 +156,24 @@
             ],
             "timestamp": "2019-09-17T15:47:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788050"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788270,
+            "text": [
+                "Parto da qui, che è la cosa più facile:",
+                "lo zio spaccia per accaduta realmente a lui la trama di un romanzo e Matteo abbocca. Quando si lamenta di essere stato ingannato Leo si inalbera, muovendo da questo concetto: come hai potuto pensare che mi sia accaduta davvero quella cosa? Io non ho mai voluto saperne nulla di quei ladroni! Dove \"quei\" racchiude nella sua testa tutto il sistema bancario e non si riferisce ai banchieri di quella specifica banca. Poi magari non sono riuscito a trasmettere in maniera chiara ciò che volevo.",
+                "Di questo ti sono particolarmente grato: lavoro molto sul lessico, ma la ricchezza non è sempre sinonimo di felicità nell'espressione. Se e quando riesco a calibrarlo bene, in base ai personaggi e alle situazioni, ne sono felice.",
+                "sono utilissime, invece.",
+                "Le segnalazioni di refusi, errori, ripetizioni e altro sono importanti, ma rivedendo più volte il racconto uno riesce a scoprirle anche da solo. Quello che invece da solo non puoi fare è capire come un testo arrivi al lettore: quello te lo può dire solo lui e nessun altro.",
+                "Quindi grazie infinite, davvero ."
+            ],
+            "timestamp": "2019-09-18T21:28:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788270"
         }
     ],
     "text": [

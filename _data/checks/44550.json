@@ -56,7 +56,7 @@
     },
     "num_chars": 2423,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 788180,
@@ -94,6 +94,17 @@
             ],
             "timestamp": "2019-09-18T19:17:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788258"
+        },
+        {
+            "post_id": 788266,
+            "text": [
+                "Esatto , grazie per essere passata. Allora ho fatto bene a scrivere nel titolo il numero di battute, tipo spot: per chi ha poco tempo",
+                "In realtà il racconto nasceva molto più lungo, mi sono imposta io il limite di 2500.",
+                "Era nelle battute tagliate .",
+                "Grazie ancora"
+            ],
+            "timestamp": "2019-09-18T20:59:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788266"
         }
     ],
     "post_staff": [],
