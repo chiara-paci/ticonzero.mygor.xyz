@@ -54,17 +54,26 @@
         "title": "Racconti",
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
-    "num_chars": 2433,
+    "num_chars": 2423,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 788180,
+            "text": [
+                "Grazie per il tuo gradito commento"
+            ],
+            "timestamp": "2019-09-18T09:44:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788180"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Le parentesi tonde non si trovano solo nelle espressioni di matematica. Sul mio viso da quarantenne ne ho due. Non scendono dalle labbra a tagliare il mento come nelle marionette. Le mie rughe d’espressione, curve ai lati della bocca, spingono le guance all’esterno quando sorrido.",
         "“Mamma, come la saluto la dottoressa?”",
         "Fino all’influenza dell’anno prima, entravo e uscivo dal suo studio con un ciao. Potevo scappare intorno al lettino quando mi doveva fare la puntura. Per visitarmi, mi sfilava la canottiera rinsaccata nelle mutande, senza che mi vergognassi.",
         "E adesso? La pubertà nei due bottoncini che ora sono tutto il mio seno, mi scombussola i pensieri.",
-        "A dieci anni non sta bene dire ciao e arrivederci è troppo da grandi.",
+        "A dieci anni non sta bene dire ciao e arrivederci è troppo.",
         "E allora? Come saluto i grandi che vedo tutti i giorni?",
         "Con un sorriso.",
         "La dottoressa chiama i pazienti in sala d’attesa. È il nostro turno e entriamo.",
