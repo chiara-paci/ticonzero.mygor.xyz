@@ -70,9 +70,62 @@
             "title": "Parentesi [racconto di 2500 battute]",
             "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788209",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "È autobiografico, vero? Perché io ti vedo così!",
+                    "“Mamma, come la saluto la dottoressa?”",
+                    "Fino all’influenza dell’anno prima, entravo e uscivo dal suo studio con un ciao. Potevo scappare intorno al lettino quando mi doveva fare la puntura. Per visitarmi, mi sfilava la canottiera rinsaccata nelle mutande, senza che mi vergognassi.",
+                    "E adesso? La pubertà nei due bottoncini che ora sono tutto il mio seno, mi scombussola i pensieri.",
+                    "hai omesso l'inciso tra due virgole, così:",
+                    "La pubertà, nei due bottoncini che ora sono tutto il mio seno, mi scombussola i pensieri.",
+                    "A dieci anni non sta bene dire ciao",
+                    "ci sta bene una virgola, anche se dopo c'è la congiunzione",
+                    "e arrivederci è troppo.",
+                    "E allora? Come saluto i grandi che vedo tutti i giorni?",
+                    "Con un sorriso.",
+                    "La dottoressa chiama i pazienti in sala d’attesa. È il nostro turno e entriamo.",
+                    "“Buongiorno,” dice mamma.",
+                    "“Buongiorno,” risponde lei. Scrive qualcosa sull’agenda, non ci guarda. Mi crederà una maleducata, non l’ho ancora salutata, penso.",
+                    "Potresti usare il corsivo per i pensieri della protagonista.",
+                    "Sudo per l’imbarazzo e la maglietta mi si riempie di odori nuovi.",
+                    "bellissima immagine nel suo puro significato.",
+                    "“Ma come sei cresciuta,” dice",
+                    "virgola",
+                    "appena posa gli occhi su di me. Felice, rispondo al suo sorriso con uno che vale doppio: contiene la gratitudine per non esserle sembrata sgarbata, più il mio nuovo ciao.",
+                    "brava!",
+                    "Al sorriso, si è poi aggiunta la raccomandazione della maestra.",
+                    "Date il vostro posto a sedere al vecchietto sull’autobus. Cedete agli altri, diceva.",
+                    "Un corsivo nelle parole della maestra, ancorché ripensate, ci starebbe bene.",
+                    "Da adulta",
+                    "virgola",
+                    "ho scoperto che",
+                    "virgola (precede un inciso)",
+                    "tra le cose che si possono offrire, cedere il proprio momento è quello che mi piace di più.",
+                    "Brava! E come lo spieghi bene, dopo...",
+                    "Al banco del pane, prendo il numero e lo do volentieri alla persona sopraggiunta un istante dopo di me. È un gesto inaspettato che regala sorrisi.",
+                    "Alla guida, mi fermo per far passare chi deve svoltare a sinistra. In strada, gli incroci di sguardi che ringraziano, sono incidenti cortesi.",
+                    "Quando vedo chi spinge, sulla sua perenne sedia a rotelle, l’uomo, la donna o il bambino,",
+                    "che sia un uomo, una donna, o un bambino",
+                    "(se ho capito bene, ti riferisci a vedere chiunque costretto su una sedia a rotelle)",
+                    "invece abbasso lo sguardo. Le parentesi si infeltriscono di colpo sul mio viso, da tonde diventano graffe: graffiano.",
+                    "E il sorriso? E il prendere il mio posto? Che fine fanno? mi chiedo. Non so rispondere. So solo che mi dispiace negare a quelle persone il mio sguardo, e allora recupero le linee morbide delle parentesi e gli sorrido. Penso che vorrei altre curve, sopra e sotto la bocca; per formare una bolla, in grado di contenere chi ha bisogno di essere alleggerito, anche solo per un po’.",
+                    "Un bel racconto,",
+                    "Finalmente mi trovo a leggerti in una versione molto diversa dall'horror o dal trucido che prediligi: questa versione di introspezione tenera e armoniosa di una giovanissima vita mi è piaciuta un sacco."
+                ]
+            ],
+            "timestamp": "2019-09-18T13:26:15Z",
+            "title": "Parentesi [racconto di 2500 battute]",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788209",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -80,9 +133,18 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 695,
-    "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_commenti": 2,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 788239,
+            "text": [
+                "Errata corrige: mi scombina, mi porta a un’altezza che trascende l’inadeguatezza ."
+            ],
+            "timestamp": "2019-09-18T16:47:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=788239"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Si affaccia",
