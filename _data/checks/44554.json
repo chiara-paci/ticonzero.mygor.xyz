@@ -1,0 +1,46 @@
+{
+    "author": {
+        "author_id": 9701,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Kuno",
+        "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 401,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "In ritardo, ma ci siamo. Come sempre, voi non dovete far altro che pubblicare i vostri racconti in Officina, ma se siete nuovi e volete saperne di più potete leggere .",
+        "Il calendario della Nona Luna:",
+        "settimana﻿ 33 (13 agosto / 19 agosto) - staffer:",
+        "settimana 34 (20 agosto / 26 agosto) - staffer:",
+        "settimana 35 (27 agosto / 2 settembre) - staffer:",
+        "settimana 36 (3 settem﻿bre / 9 settembre) - staffer:",
+        "Giudice:"
+    ],
+    "timestamp": "2019-09-18T15:06:22Z",
+    "title": "I racconti della Nona luna - Quinto ciclo",
+    "topic_id": 44554,
+    "url": "https://www.writersdream.org/forum/forums/topic/44554-i-racconti-della-nona-luna-quinto-ciclo/"
+}
