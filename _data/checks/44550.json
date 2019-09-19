@@ -56,7 +56,7 @@
     },
     "num_chars": 2423,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 788180,
@@ -105,6 +105,22 @@
             ],
             "timestamp": "2019-09-18T20:59:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788266"
+        },
+        {
+            "post_id": 788316,
+            "text": [
+                "grazie."
+            ],
+            "timestamp": "2019-09-19T09:38:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788316"
+        },
+        {
+            "post_id": 788333,
+            "text": [
+                "Grazie , lo dicevo prima in dediche agli utenti, (non sono riuscita a taggarti), i vostri commenti mi aiutato sempre tanto."
+            ],
+            "timestamp": "2019-09-19T12:15:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=788333"
         }
     ],
     "post_staff": [],

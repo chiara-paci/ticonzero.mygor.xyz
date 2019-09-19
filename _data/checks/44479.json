@@ -48,7 +48,7 @@
     },
     "num_chars": 4556,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 787296,
@@ -78,6 +78,18 @@
             ],
             "timestamp": "2019-09-13T15:05:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=787593"
+        },
+        {
+            "post_id": 788319,
+            "text": [
+                "Ciao ! Grazie per i complementi e per i commenti: molto preziosi!",
+                "Appena ho un minuto di tempo, prenderò i commenti ricevuti qui in officina e cercherò di applicarli al testo per renderlo più definitivo.",
+                "Purtroppo non riesco a scrivere quanto vorrei ma non è la prima volta che scrivo qui in officina.",
+                "Il mio primo testo era una descrizione del mondo in cui questo racconto è ambientato: puoi trovarlo .",
+                "ciao e a presto!"
+            ],
+            "timestamp": "2019-09-19T10:01:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44479-lascesa//?do=findComment&comment=788319"
         }
     ],
     "post_staff": [],
