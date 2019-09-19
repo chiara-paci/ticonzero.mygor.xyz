@@ -52,7 +52,7 @@
     },
     "num_chars": 7853,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 787276,
@@ -101,6 +101,15 @@
             ],
             "timestamp": "2019-09-15T12:31:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=787788"
+        },
+        {
+            "post_id": 788294,
+            "text": [
+                "Ciao sono contento che il raccontino ti sia piaciuto. Non conoscevo Keret, lo recupererò sicuramente. Sono sempre alla ricerca di raccolte di raccontini interessanti. Grazie per la segnalazione.",
+                "A rileggersi, Domenico."
+            ],
+            "timestamp": "2019-09-19T06:18:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44469-il-mio-cane//?do=findComment&comment=788294"
         }
     ],
     "post_staff": [],
