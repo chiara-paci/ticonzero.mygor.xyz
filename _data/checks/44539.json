@@ -103,7 +103,7 @@
     },
     "num_chars": 12468,
     "num_commenti": 2,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 788050,
@@ -133,6 +133,18 @@
             ],
             "timestamp": "2019-09-18T21:28:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788270"
+        },
+        {
+            "post_id": 788314,
+            "text": [
+                "Credo che le Muratti siano ancora in commercio, perché ci sono immagini di pacchetti con la scritta \"fumare fa male\" o simili, che sono degli ultimi anni, guarda qui . Lo Zippo è un accendino a benzina, che era molto famoso ai tempi della mia adolescenza, o giù di lì: se ne parla qui . Stessa cosa per gli svedesi, che ho messo in corsivo per fare capire che non si tratta di palestrati nordici .",
+                "Tutta la prima parte è ambientata circa cinquantacinque anni fa e ho cercato di inserirvi vocaboli che richiamassero alla mente (per chi c'era) oggetti famosi in quegli anni e nei successivi.",
+                "Verissimo, potrebbe riferirsi a entrambi infatti: ne ero consapevole ma ho preferito lasciare così per esigenze di scorrevolezza, visto che le parole successive mi sembra che chiariscano subito l'ambiguità.",
+                "ognuno ha avuto i propri treni...",
+                "Sono felice che ti sia piaciuto: grazie infinite per il tuo commento"
+            ],
+            "timestamp": "2019-09-19T09:28:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788314"
         }
     ],
     "post_staff": [
@@ -174,6 +186,23 @@
             ],
             "timestamp": "2019-09-18T21:28:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788270"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788314,
+            "text": [
+                "Credo che le Muratti siano ancora in commercio, perché ci sono immagini di pacchetti con la scritta \"fumare fa male\" o simili, che sono degli ultimi anni, guarda qui . Lo Zippo è un accendino a benzina, che era molto famoso ai tempi della mia adolescenza, o giù di lì: se ne parla qui . Stessa cosa per gli svedesi, che ho messo in corsivo per fare capire che non si tratta di palestrati nordici .",
+                "Tutta la prima parte è ambientata circa cinquantacinque anni fa e ho cercato di inserirvi vocaboli che richiamassero alla mente (per chi c'era) oggetti famosi in quegli anni e nei successivi.",
+                "Verissimo, potrebbe riferirsi a entrambi infatti: ne ero consapevole ma ho preferito lasciare così per esigenze di scorrevolezza, visto che le parole successive mi sembra che chiariscano subito l'ambiguità.",
+                "ognuno ha avuto i propri treni...",
+                "Sono felice che ti sia piaciuto: grazie infinite per il tuo commento"
+            ],
+            "timestamp": "2019-09-19T09:28:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788314"
         }
     ],
     "text": [
