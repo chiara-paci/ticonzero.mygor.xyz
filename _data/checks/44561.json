@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 24300,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Silverwillow",
+        "url": "https://www.writersdream.org/forum/profile/24300-silverwillow/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, , un racconto particolare e insolito il tuo. Poi è anche scorrevole e si legge volentieri.",
+                    "Mi è piaciuta molto l'idea di base del creare un club della tristezza, così come il dialogo dove il protagonista cerca di tirar fuori la tristezza dall'altro a tutti i costi. Devo dire però che mentre la prima parte mi è piaciuta molto, il finale mi ha convinto meno.",
+                    "Cerco di spiegarmi: da come il racconto parte, sembra voler giocare soprattutto sull'assurdità e sull'ironia, e funzionava bene, secondo me, anche perché fa da contrasto con il filo conduttore che è la tristezza. Quindi mi aspettavo forse un finale sullo stesso tono. Qualcosa che creasse un effetto sorpresa. Il fatto che il protagonista riesca a convincere questo sconosciuto a unirsi a loro secondo me smorza un po' il tono. Nel finale poi cambia del tutto, concludendosi con una nota filosofica e malinconica, quindi la sensazione che ho avuto io è che non sapessi bene quale dei due toni dare alla storia, e il lettore finisce per restare confuso.",
+                    "meglio come in Fight Club",
+                    "Se ho capito giusto Viviana è stata lasciata dalla stessa ragazza di Francesco. Messa così però sembra che Viviana sia stata lasciata poco dopo essere stata \"reclutata\" e non poco dopo Francesco, o almeno si può intrepretare in entrambi i sensi",
+                    "refuso",
+                    "ma non l'hanno già creato?",
+                    "quel \"con sicurezza\" e \"certo\" vicini suona un po' ridondante, semplificherei: \"chiese, già certo della risposta\"",
+                    "via l'apostrofo",
+                    "questa frase (oltre al fatto che in fondo c'è una virgola al posto del punto), secondo me si contraddice un po'. Prima dice che vuole trovare persone già tristi, ma poi che tutti in fondo lo sono, quindi secondo il suo modo di vedere qualunque persona dovrebbe andar bene. Spero di essermi spiegata",
+                    "Attenzione anche alla ripetizione, verso la fine, di lamentele/lamentavano/lamentarsi. Cercherei un sinonimo o cambierei le frasi.",
+                    "Per il resto ho trovato originale l'idea, e buona la scrittura. Spero di averti dato qualche spunto di riflessione per migliorarlo. Ciao"
+                ]
+            ],
+            "timestamp": "2019-09-18T23:25:13Z",
+            "title": "Il club della Tristezza",
+            "url": "https://www.writersdream.org/forum/forums/topic/44523-il-club-della-tristezza//?do=findComment&comment=788287",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2197,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Nota: quello che segue è la prima parte del prologo di un romanzo che sto ancora progettando (tutto il prologo non ci stava), ma vorrei intanto avere un idea di quale impressione suscita, visto che i primi paragrafi sono la parte più importante",
+        "Iniziò nella primavera del 1920, il giorno del funerale. Uno di quei giorni tiepidi d’aprile in cui il cielo si srotola blu e accecante da un orizzonte all’altro, e se ne frega altamente delle miserie a cui gli capita di fare da scenario.",
+        "Una leggera brezza ammucchiava contro le lapidi le foglie secche dell’anno precedente e spettinava i petali della corona di fiori sopra la bara d’abete.",
+        "Non ricordo se piansi. Vorrei ricordarlo. Poter dire, in tono burbero e con un velo di virile malinconia sulle palpebre: “L’ultima volta che piansi fu a dodici anni, al funerale di mia madre”. È una di quelle cose che anche gli uomini rispettano, e per cui le signore si inteneriscono. Invece niente: non ne ho idea.",
+        "Ma penso di no, perché ho il vago ricordo di due vecchie befane- conoscenti, dirimpettaie, chi lo sa- le teste coperte da fazzoletti neri stinti accostate a parlare fitto fitto.",
+        "«... non è mica tanto normale... Non sembra neanche che gliene importi qualcosa».",
+        "«Eh, io l’avevo visto subito. Non dissi niente a quella povera donna, con tutti i problemi che già c’aveva. Ma quello lì ci ha gli occhi cattivi, gli occhi come quelli del diavolo».",
+        "Il dotto scambio di opinioni sulla mia persona fu interrotto dal coro.",
+        "Accompagnati dal suono dell’organo proveniente dalle porte spalancate della chiesa, i presenti intonarono: « Fremd bin ich eingezogen/ fremd zieh' ich wieder aus... » Straniero sono giunto, straniero me ne vado. Il mio unico apporto alla cerimonia, tra parentesi, perché sapevo che lei amava i lied di Schubert. Aveva dei perniciosi indizi di un animo romantico, la mamma.",
+        "Ma io non ascoltavo davvero né le donne né la canzone.",
+        "Ero concentrato invece sulle strida rauche e stizzose di una grossa cornacchia grigia che volava in cerchio intorno al campanile. La osservavo da un po', mentre scompariva e riappariva attraversando i riflessi del sole sulla cipolla metallica della cupola.",
+        "E desideravo con tutto me stesso di essere al suo posto."
+    ],
+    "timestamp": "2019-09-18T23:58:22Z",
+    "title": "Il funerale [incipit]",
+    "topic_id": 44561,
+    "url": "https://www.writersdream.org/forum/forums/topic/44561-il-funerale-incipit/"
+}
