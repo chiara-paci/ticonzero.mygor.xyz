@@ -46,7 +46,7 @@
     },
     "num_chars": 325,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787867,
@@ -71,6 +71,15 @@
             ],
             "timestamp": "2019-09-17T05:21:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=787986"
+        },
+        {
+            "post_id": 788404,
+            "text": [
+                "grazie mille per il tuo commento, è molto bello rileggersi nelle interpretazioni degli altri! Grazie per avermi scelta 😘 consigli stilistici graditissimi!",
+                "A presto"
+            ],
+            "timestamp": "2019-09-19T19:50:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=788404"
         }
     ],
     "post_staff": [
