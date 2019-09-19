@@ -1,0 +1,82 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao. Mi hai lasciato perplesso, con questo tuo pezzo. Il problema è che è, di fondo, un'idea apprezzabile, forse addirittura notevole, ma trattata con estrema superficialità. Non si scende a fondo nel cuore buono, gentile ed altruiste di LeClerc, personaggio che avrebbe sicuramente meritato un approfondimento psicologico importante, magari dandogli più voce. Stessa cosa per Marek. Sono \"schizzi\" che fanno presagire un quadro di ottimo gusto, ma lasciati lì, e mostrati al pubblico (noi) nella loro forma gretta, ancora da modellare e rifinire. Spero che il tuo intento sia comprendere se questo \"spezzone\" sia solo uno \"spezzone\", per l'appunto, di un'opera decisamente più vasta. Di rado mi sento di consigliare di continuare un'opera in quanto, la maggior parte delle volte, o è una schifezza da cestinare, oppure un'opera compiuta, la maggior parte delle volte da cestinare comunque. In questo caso ho apprezzato lo stile asciutto, con una sintassi rarissime volte arzigogolata e che rende veramente fluida la lettura. Apprezzabile. D'altro canto, sarò ripetitivo, sono rimasto deluso dalla superficialità con la quale hai cestinato le tue creature solo per darle alla vita il prima possibile. Penso che sia una cosa che facciamo tutti. Ma prima che tali pargoli siano pronti al cinico giudizio del pubblico, è bene che sopportino una educazione spartana e che vengano portati al limite della loro rifinitura e complessità (anche se in un semplice racconto). Da una persona che spera di ammirare il tuo lavoro futuro e l'approfondimento del personaggio di Leclerc, gentile anima buona. A presto."
+                ]
+            ],
+            "timestamp": "2019-09-18T16:43:07Z",
+            "title": "Chi bussa alla porta di Jacques Leclerc?",
+            "url": "https://www.writersdream.org/forum/forums/topic/44474-chi-bussa-alla-porta-di-jacques-leclerc//?do=findComment&comment=788236",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 11259,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "LA MINESTRA INCANTATA",
+        "Un tempo vi era un bambino molto povero, figlio di poveri operai, che non aveva mai assaggiato il prosciutto, il latte, o la mortadella ma che, per via della povertà della sua famiglia, era costretto continuamente a mangiare, a colazione, pranzo e cena la minestra. Un giorno, il povero bimbo, prende coraggio per fare una cosa che i genitori gli avevano espressamente vietato di fare: andare dallo stregone del villaggio. Lo stregone del villaggio era una persona assai strana poiché aveva salvato molte vite, ma comunque le sue magie, i suoi esoterismi, erano visti come un qualcosa di oscuro, di demoniaco, e incutevano un enorme timore in tutti i cittadini. Nonostante la sua paura fosse enorme, il suo desiderio aveva superato l’angoscia, quindi aveva preso coraggio e aveva deciso di recarsi dallo stregone.",
+        "Incamminandosi verso la montagna la disperazione di commettere un errore lo assalì, iniziò ad aver timore che stesse facendo la cosa sbagliata, una cosa che avrebbe potuto portare rovina nella sua vita e nella vita delle persone che amava. Essendo un bambino, però, in lui vinse la voglia e la curiosità di ottenere quel che non aveva mai avuto. Arrivò in una piccola casupola di montagna, da sempre risaputa come il luogo dove albergava lo stregone in completa solitudine. La casa era in legno abbastanza logoro, rovinato forse dalle intemperie e dall’incuria. Arrivò alla porta e bussò.",
+        "“Vieni piccolo, entra pure.” Disse una voce profonda e decisa. Il piccolo entrò senza pensarci due volte. Vide lo stregone sul tavolo che lavorava a strani marchingegni. Senza neanche rivolgergli lo sguardo disse:“Sei sicuro della tua scelta? Le scelte sono come le strade: ci sono bivi e solo una strada è quella corretta, le altre possono portarti in luoghi selvaggi e pericolosi.”",
+        "Il piccolo guardò lo stregone con occhi spalancati, come se fosse stupefatto dallo stregone. Era una persona che, apparentemente, poteva sembrare tutto fuorché uno stregone. Era vestito come un boscaiolo, la barba non era poi così lunghissima e non vedeva pozioni o teste mozzate da qualche parte in casa: non rispecchiava minimamente tutte le parole che venivano dette su di lui giù nel villaggio. Tutto questo, ovviamente, aveva fatto calare la tensione nel piccolo bimbo che, anziché pensava trovarsi di fronte un mostro, trovò solamente un uomo comune, forse solo un po’ strano. “Sei sicuro, allora?” Intervenne di nuovo lo stregone.",
+        "“Si. Non è giusto che tutti i miei amici possano avere tutto quello che io non ho, mangiare cose buonissime, avere bei vestiti, avere dei giocattoli che io non ho … e poi devo sempre vedere la mamma e il papà litigare per i soldi, e poi che si tolgono il cibo per darlo a me e loro devono morire di fame. Voglio avere cose buone e non voglio più togliere il cibo a mamma e papà.”",
+        "Lo stregone rimuginava girandosi i baffi e guardando il soffitto.",
+        "“Le tue intenzioni non sono cattive, e il tuo desiderio altrettanto … ma saranno sempre queste le tue intenzioni? Vorrai sempre aiutare la mamma e il papà non pesando su di loro? Bisogna star attenti a quel che si desidera, perché i desideri sono come coltelli: puoi infilarli nel burro per spalmarli sul pane o far del male ad una persona se le tue intenzioni sono cattive.“",
+        "Il bimbo guardò lo stregone e, con forza, intervenne:”Le mie intenzioni sono buone, non voglio far del male a nessuno.”",
+        "“Allora avrai per te il dono che non ho mai fatto a nessuno, quello della minestra incantata. Questa minestra è molto particolare, ed è un dono molto utile ma che può diventare pericoloso se lo utilizzi in maniera sbagliata. Mangiando questa minestra assaggerai tutti i sapori che desideri: se desideri assaporare il latte, sentirai nella tua bocca il caldo latte appena munto, se desideri assaporare un pezzo di carne morbido e succulento, assaporerai un pezzo di carne morbido e succulento. Inoltre, questa minestra è infinita: ogniqualvolta ne assaggerai un cucchiaio la minestra si riformerà magicamente da sola, quindi non peserai più sui tuoi genitori e non si toglieranno più il loro cibo per darlo a te.”",
+        "Il piccolo era molto galvanizzato da tutto ciò che gli stava accadendo. Finalmente avrebbe potuto assaggiare tutto il cibo che agli altri bimbi era concesso mangiare molto spesso e inoltre avrebbe potuto finalmente vedere i propri genitori mangiare senza togliersi il cibo per darlo a lui. Si avviò verso casa molto galvanizzato da quel che gli stava accadendo, con la sua boccia di minestra ben sigillata. Arrivò a casa proprio per l’ora di cena e vide i propri genitori tristi seduti al tavolo mentre guardavano i loro piatti scarni aspettando il loro figlioletto. Il piccolo entrò tutto euforico ma nascose immediatamente la boccia di minestra dietro la schiena.",
+        "“Cosa nascondi dietro la schiena?” Intervenne il padre con la calma di chi è stanco dopo una dura giornata di lavoro.",
+        "“Niente papà, solamente un barattolo.” Il padre guardò attentamente.",
+        "“Fammi vedere.” Il bimbo mantenne ancora il barattolo dietro la schiena. “Va bene, fai il misterioso, sarà qualcosa di qualche ragazzetta.” Il bimbo sorrise leggermente. “Non vieni a mangiare?” Il bimbo fece cenno di no con la testa.",
+        "“No papà, da oggi in poi tu e mamma potrete mangiare tranquillamente tutto quel che volete.”",
+        "Il padre guardò stranito il figlio, come se non comprendesse quel che voleva dire.",
+        "“Perché dici questo?” Il piccolo sorrise.",
+        "“Voi vi siete sempre tolti del cibo per darlo a me, molto spesso andando a letto digiuni … e non pensate che io non vi abbia sentito, perché la notte piangete di nascosto da me, ed io non voglio che voi piangete. Quindi mangiate tutto quel che c’è, perché io mangerò per sempre tutto quel che voglio!”",
+        "La madre scoppiò in un pianto irrefrenabile, non riuscendo più a trattenersi dal dolore provato fino ad adesso. Il padre si alzò ed andò a rincuorarla.",
+        "“Perché dici questo, come farai senza cibo?”",
+        "“Non preoccuparti papà!” Esclamò il bimbo con grande certezza.",
+        "“Ho la minestra incantata, una minestra che si riforma ogni volta che la mangio.”",
+        "“Non dirmi che sei andato dallo stregone!” Disse il padre alterato. “Ogni persona che si è recata da quell’uomo ha avuto una triste fine! Butta immediatamente quell’oggetto del male!” Urlò il padre, ormai furioso.",
+        "“No! Non vi vedrò più soffrire! Non è giusto che nel mondo ci sia chi ha tutto e chi non ha nulla, non è giusto che voi soffriate a causa mia e che voi per causa mia dobbiate soffrire la fame e dobbiate piangere ogni giorno perché con noi la vita è stata cattiva! Non la butterò mai papà!” E, detto questo, il piccolo scappò di casa correndo come una agile gazzella da un leone affamato. Riuscì a giungere in un luogo sperduto, da solo. Aveva il fiatone, era stanco, e forse per l’adrenalina non se n’era accorto, ma aveva corso veramente molto. Prese un ramo da terra e, con il coltellino che aveva sempre dappresso, fece un cucchiaio di legno. Aprì il suo barattolo di minestra e ne assaggiò un cucchiaio. Inizialmente non gli sembrava buona, e pensò immediatamente al fatto che quella della sua mamma, nonostante fosse sicuramente di meno, era decisamente più buona. Ma, improvvisamente, ecco che la minestra prese il sapore della minestra della mamma. Divenne buonissima. Così, preso dal gusto, il piccolo pensò a quanto potesse essere buona la mortadella, ed ecco che il sapore nella sua bocca si trasformò e divenne il sapore della mortadella. Non aveva mai provato quel sapore, e lo trovò eccezionale! Prese immediatamente un altro cucchiaio, perché voleva sicuramente riassaporare la mortadella e il suo sapore morbido nella bocca. Di nuovo sentì quel morbido sapore nella sua bocca e ne fu felicissimo! Ma ancora il piccolo non si sentiva sazio. Prese un altro cucchiaio e, questa volta, immaginò il caldo latte di una mucca che si è nutrita negli alti pascoli di erba incontaminata. Sentì un sapore dolcissimo nella sua bocca, un sapore talmente buono che aveva quasi l’impressione che stesse per piangere! Non poteva pensare al fatto che fino ad adesso fosse stato privato di tutti questi bellissimi sapori e che avesse dovuto privare i genitori del mangiare copiosamente la più umile tra tutte queste delizie (anche se la minestra della mamma era sicuramente buonissima). All’improvviso, però, lo sconforto lo colse. Ed il papà? Il papà gli avrebbe tolto con grande certezza la sua minestra incantata e lui sarebbe dovuto ritornare a mangiare quel poco di minestra che la mamma si poteva permettere. Pensò di darne anche ai genitori, ma se poi, andando lì, il padre gli avesse tolto la minestra e non avesse voluto saperne ragione? Era troppo rischioso tornare a casa perché il padre avrebbe potuto vedere la sua boccia con la minestra incantata. Così inizio ad immaginare cosa fosse successo se il padre fosse stato cieco e potesse non vederlo, in maniera tale che lui avrebbe potuto girovagare per casa con la sua boccia oppure, nel peggiore dei casi, avrebbe potuto mentirgli. Era sicuro che la mamma non gli avrebbe detto niente della sua minestra perché era così triste che tutto le passava quasi inosservato. Così si immaginò che il padre lo guardasse e immaginò successivamente il padre cieco. All’improvviso nella sua boccia apparvero due occhi molto grandi e la loro pupilla dilatata dall’orrore. Il piccolo si terrorizzò a tal punto che gli cadde di mano la boccia che, fortunatamente, non si era rotta. Corse a casa per paura, dopo aver raccolto la boccia con gli occhi del padre dentro, danzanti come comete nel firmamento. Entrò lentamente, per non farsi sentire e vedere. Vide la mamma appoggiata al muro, terrorizzata, con sulla faccia una smorfia orribile, come di chi abbia avuto un incubo. Si girò più in là e vide il padre sdraiato a terra. Si avvicinò lentamente a lui tenendo stretta la boccia fra le braccia. Vide il padre con le orbite incavate e il sangue che gli colava dagli zigomi al mento, con la bocca contorta in una smorfia terrificante. La vista di quegli occhi senza occhi, quel vuoto orribile gli gelò il sangue in un istante. Non riuscì a trattenersi ed urlò dal dolore talmente forte che la mamma cadde a terra e perse i sensi. Scappò verso la dimora dello stregone chiedendogli cosa fosse successo. Arrivò molto più rapidamente a casa dello stregone perché corse veloce come mai corse prima. Aprì la porta con foga ed urlò:",
+        "“Mio padre!” Lo stregone non si scompose mentre era lì concentrato, ancora una volta, a creare qualche diavoleria che nessun umano aveva mai visto prima.",
+        "“E’ ormai andato, piccolo … non ti vedrà più, non preoccuparti: non patirai mai la fame e l’invidia del cibo.”",
+        "“Rivoglio mio padre!” Lo stregone fece cenno di no col capo, facendo capire al bimbo che non si poteva tornare indietro. Il piccolo, piangendo disperatamente, aprì la boccia di minestra e iniziò a berla come fosse acqua. Immaginò, a questo punto, il suo cuore e, d’un tratto, del sangue iniziò a sgorgargli dalla bocca come una fontana e cadde a terra con il corpo preda di spasmi fortissimi. Dopo poco il corpo del piccolo si fermò, e il freddo apparve nei suoi occhi. Lo stregone comprese che era finita la sua vita e prese il corpo inerte del piccolo, per seppellirlo in giardino al fianco di altre lapidi, come se già sapesse la fine di quel piccolo cuore divorato da sé stesso."
+    ],
+    "timestamp": "2019-09-19T07:38:04Z",
+    "title": "La minestra incantata.",
+    "topic_id": 44563,
+    "url": "https://www.writersdream.org/forum/forums/topic/44563-la-minestra-incantata/"
+}
