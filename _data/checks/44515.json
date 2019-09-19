@@ -60,7 +60,7 @@
     },
     "num_chars": 7937,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 787791,
@@ -87,6 +87,17 @@
             ],
             "timestamp": "2019-09-16T18:09:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44515-il-vigile-e-lastronave//?do=findComment&comment=787929"
+        },
+        {
+            "post_id": 788416,
+            "text": [
+                "Non preoccuparti, mi avrebbe fatto piacere.",
+                "Ti ringrazio molto dell'apprezzamento, hai usato parole davvero bellissime e... non ho parole, , grazie. Soprattutto questa affermazione che mi ha lasciato così",
+                "Per il racconto ho visto che devo sistemare molto e lo farò, anche grazie alle tue dritte.",
+                "Grazie ancora, davvero, non ho parole!"
+            ],
+            "timestamp": "2019-09-19T20:50:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44515-il-vigile-e-lastronave//?do=findComment&comment=788416"
         }
     ],
     "post_staff": [],
