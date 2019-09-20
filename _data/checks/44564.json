@@ -78,8 +78,22 @@
     },
     "num_chars": 7924,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788436,
+            "text": [
+                "Buongiorno caro",
+                "mi sembrava quasi una ripetizione, per questo l'ho omesso",
+                "no, sono io che vado in tilt, ma poi li correggo tutti in revisione",
+                "giusto, però nel capitolo precedente ho lasciato una ripetizione ben più grossa e nessuno ha detto niente... poi l'ho tolta!",
+                "devo controllare, ma credo fosse solo un dialogo tra Davide ed Erika (io?)",
+                "Alla prossima, caro , grazie sempre!"
+            ],
+            "timestamp": "2019-09-20T05:55:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44564-le-ragazze-capitolo-14-13//?do=findComment&comment=788436"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Torino sembra una bella città. Non che ne abbia visto molto, solo quello che sono riuscita a sbirciare dal finestrino alla luce dei lampioni: un bel lungofiume punteggiato di barchette che mi fanno pensare al mare, qualche cupola e le colline sullo sfondo. Non avremo tempo di fare del turismo, il seminario a cui assisteremo inizia alle nove del mattino e continua fino quasi a sera, oggi e domani. Dopo torniamo subito a Bologna, per non arrivare troppo tardi a casa e pagare due notti in ostello invece di una sola.",
