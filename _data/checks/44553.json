@@ -134,7 +134,7 @@
     },
     "num_chars": 695,
     "num_commenti": 2,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 788239,
@@ -151,6 +151,15 @@
             ],
             "timestamp": "2019-09-19T12:17:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=788334"
+        },
+        {
+            "post_id": 788511,
+            "text": [
+                "Grazie,",
+                "Grazie,"
+            ],
+            "timestamp": "2019-09-20T14:17:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=788511"
         }
     ],
     "post_staff": [],
