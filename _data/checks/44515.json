@@ -60,7 +60,7 @@
     },
     "num_chars": 7937,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 787791,
@@ -98,6 +98,15 @@
             ],
             "timestamp": "2019-09-19T20:50:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44515-il-vigile-e-lastronave//?do=findComment&comment=788416"
+        },
+        {
+            "post_id": 788544,
+            "text": [
+                "C'è un effetto wtf voluto.",
+                "Ti ringrazio per essere passata e dell'apprezzamento, . Buon fine settimana!"
+            ],
+            "timestamp": "2019-09-20T19:57:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44515-il-vigile-e-lastronave//?do=findComment&comment=788544"
         }
     ],
     "post_staff": [],
