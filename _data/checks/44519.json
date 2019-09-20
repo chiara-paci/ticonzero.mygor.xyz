@@ -58,7 +58,7 @@
     },
     "num_chars": 2545,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 787997,
@@ -69,6 +69,25 @@
             ],
             "timestamp": "2019-09-17T09:01:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=787997"
+        },
+        {
+            "post_id": 788442,
+            "text": [
+                "Hai ragione. Mi era proprio sfuggito.",
+                "Grazie per la visita."
+            ],
+            "timestamp": "2019-09-20T07:05:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788442"
+        },
+        {
+            "post_id": 788493,
+            "text": [
+                "Grazie per averlo notato.",
+                "Sì, il finale è un po' brusco... come la fine della vita per la zanzara.",
+                "A presto."
+            ],
+            "timestamp": "2019-09-20T11:57:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788493"
         }
     ],
     "post_staff": [],
