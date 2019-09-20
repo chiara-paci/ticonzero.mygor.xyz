@@ -49,8 +49,19 @@
     },
     "num_chars": 11651,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788500,
+            "text": [
+                "grazie di nuovo per l'attenzione che rivolgi ai miei racconti. E grazie per i tanti rilievi.",
+                "Per quanto ai segni « si tratta di un mero espediente tipografico per segnalare che quanto raccontato nei passaggi che li riportano non si trovano sullo stesso piano narrativo del resto del racconto (infatti si tratta del racconto che la Carla espone al medico circa il proprio sogno). Non sono seguiti dai segni » proprio per non confondere il loro utilizzo con quello più normale che se ne potrebbe fare per delimitare frasi pronunciate dai personaggi o citazioni varie.",
+                "Un caro saluto."
+            ],
+            "timestamp": "2019-09-20T13:05:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44566-lo-sguardo-del-totem//?do=findComment&comment=788500"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«Rientrò da scuola il bambino, salutò la nonna, baciò il fratellino su una tempia e si recò in salotto dove, in una cornicetta, era esposta la fotografia di quel giorno al parco: il prato verdissimo, lui, la mamma col pancione, il papà, sorridevano. A fianco, la seconda cornicetta: suo fratello in culla.",

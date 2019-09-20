@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 30041,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "sarano",
+        "url": "https://www.writersdream.org/forum/profile/30041-sarano/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "il racconto è divertente, si legge velocemente con uno stile direi efficace. La trama tratta di un uomo e del suo proposito di suicidio, ma il lettore non sente il peso di questo perchè viene usata una giusta ironia che scarica la tensione emotiva . Tutto è trattato come fosse una storia fantastica, una fiaba non a lieto fine che potrebbe impressionare i bambini le notti d'inverno. I personaggi principali, un uomo senza età tale signor Rick, e il signor Arthur Wyse, sono tratteggiati a sfumature leggere. Il signor Rick vuole gettarsi dalla scogliera e finirla con la sua vita e l'altro, proprietario di una impresa di pompe funebri, pronto previa firma sul contratto ad occuparsi della rimozione del suo cadavere e delle pratiche burocratiche post- mortem. Mister Rick è dipinto come uno sconfitto, ma sulla scogliera cerca quasi un riscatto e tenta a suo modo di salvare altri suicidi pronti a gettarsi. Cerca di salvare una ragazza bella ma determinata nel suo intento e un uomo ma fallisce. Quando Rick vuole retrocedere dal suo proposito Arthur Wyse non esita cinicamente a gettarlo dalla rupe facendolo sfracellare sugli scogli. Come già altri ti hanno fatto notare in alcuni punti la grammatica scricchiola rendendo il brano meno efficace. A mio giudizio pur non essendo trama che mi appartiene, l'ho trovato nel suo genere piacevole io l'ho visto come una metafora della vita, ma il finale a lettura attenta rivela la spiacevole mancanza di speranza di una resurrezione, di una rivoluzione o almeno di un piccolo variare di una linea tracciata per lui cosi netta."
+                ]
+            ],
+            "timestamp": "2019-09-20T15:44:39Z",
+            "title": "Stasera mi butto... anzi no, meglio domattina, sul presto.",
+            "url": "https://www.writersdream.org/forum/forums/topic/44379-stasera-mi-butto-anzi-no-meglio-domattina-sul-presto//?do=findComment&comment=788519",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 11359,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Aldo finì in fretta il caffè, sottrasse senza farsi vedere il giornale dal bar e raggiunse suo fratello Cesare nella vecchia bottega che era stata prima di suo padre. Da due generazioni erano barbieri in un piccolo paese stretto come le scarpe di un bambino nei piedi di un uomo. Vivevano in una frazione che ancora si faceva chiamare Lombardia, dove d’estate si vedeva dai campi il confine che la divideva dall’Emilia. Quasi tutti svolgevano lavori manuali, erano contadini o maniscalchi o muratori e spesso le tre professioni venivano ricoperte da un solo uomo.",
+        "C’era l’emporio della signora Gina, dove appena entravi era impossibile non leggere un cartello scritto a mano - Qui non si bestemmia, non si fuma e non si urla- . C’era solo una scuola con una vecchia insegnante ormai pronta per la pensione e un bidello che nelle feste del paese ballava e cantava. La Lombardia di Milano, delle industrie, della moda, dell’avanguardia culturale era lontana cosi tanto da sognarla come se fosse Londra o Parigi.",
+        "Aldo aveva intorno ai 30 anni ed era il maggiore, a suo dire amato da molte donne. Ogni giorno tirava fuori una nuova avventura. La gente che andava a bottega era semplice e poco bastava a farli sorridere. Quei pochi con la pretesa di studiare facevano un ‘emigrazione corta fino a Milano e poi non tornavano più. Aldo e Cesare erano rimasti perché lo studio non era un mestiere per loro e gli altri lavori erano pur sempre più faticosi che tenere in mano una forbice; così quando il padre, alla morte della madre, chiuse la bottega loro in un attimo la riaprirono.",
+        "I due erano complementari: Aldo era teatrale, approssimativo, di gran fantasia, Cesare più serio, più veloce e preciso, ma chiuso come un ricco. Il fatto di essere balbuziente non lo aiutava certo, le parole quando gli uscivano inciampavano fino ad uscire incomprensibili. E pensare che Cesare era alto e bello, ma distante come un sogno. Le poche donne libere del paese ne pesavano ogni centimetro, ma lui appena si avvicinavano sceglieva la via della fuga. Aldo non era di cosi bell’aspetto, ma era impudente, i suoi modi ricordavano un po’ i marpioni della riviera.",
+        "Molti arrivavano dai paesi vicini solo per sentire parlare Aldo delle sue avventure con donne chissà dove incontrate e a nessuno veniva in mente di contestare i suoi racconti. In bottega si stava in silenzio come in chiesa quando si ascoltava la predica, le domande, se c’era proprio la necessità di farle, venivano dopo. Anche se si aveva finito di tagliare i capelli non si usciva senza aver sentito il finale della storia. Aldo al centro con in mano forbici o rasoio arringava i presenti , i nomi delle donne erano “di scena”, fingendosi Aldo un galantuomo. Spesso qualcuno chiedeva di più, qualcuno sospettava la moglie di uno o dell’altro, ma Aldo era inflessibile e faceva cadere ogni domanda a terra come i capelli appena tagliati. Cesare invece stava sempre zitto, spazzava, tagliava, ascoltava e sorrideva quando gli altri sorridevano.",
+        "Cesare era fisicamente la fotocopia di suo padre Berto, con due mani che quando si chiudevano parevano una morsa. Berto era stato un gran lavoratore, ma anche un gran bevitore, che non disdegnava dopo la bottega sostare ore nell’unico bar che lo sopportasse, perché il padrone lo conosceva da sempre e cercava di limitare i danni dandogli da bere il meno possibile. Quando l’attenzione si allentava incominciava a bere senza limiti e quasi sempre se c’era gente cominciava a parlare ad alta voce e spesso litigava. Essendo un piccolo paese era conosciuto per essere un’ anima travagliata e, pur evitandolo, se voleva riusciva a trovare la scintilla da gettare in un pagliaio. Non era uno facile da domare, una volta stese tre uomini da solo. Chiunque fosse a portata dei suoi pugni era in pericolo. Quando accadeva c’era per la famiglia l’umiliazione di andare a riprenderlo.",
+        "Un giorno, nel paese che pareva sempre sonnecchiare, arrivò una maestra: veniva addirittura da vicino Milano: era delicata e con le unghie curate e i capelli ben spazzolati. Era diversa dalle donne del paese cresciute come le erbacce o come le piante in un deserto. Quella donna quando passava profumava di primavera anche d’inverno. In un piccolo paese di milletrecento anime la notizia della nuova maestra sconvolse quel mare quieto dove anche le tempeste arrivavano quasi sempre annunciate. Gli uomini ora parlavano solo di lei, altri argomenti divennero interessanti come la matematica per i ripetenti. Aldo perse la sua popolarità, la gente entrava ed usciva senza più ascoltare le sue storie. La maestra era piena di iniziativa e la prima delle sue idee fu di fare un corso d’italiano gratis nel vecchio cinema dell’oratorio con il benestare del parroco.",
+        "Aldo era furente, non gli pareva vero di veder una massa di sdentati, pulciosi contadini ripulirsi dopo il lavoro per imparare a parlare come i signori di città. Ormai ogni cosa lo infastidiva, anche il solo vedere la domenica una fila di bifolchi con il vestito buono strattonarsi per stare nella panca vicino alla maestra . Dopo tanto rimuginare Aldo ebbe un’illuminazione: la soluzione era a portata di mano, bastava solo pensarci. Un sorriso si aprì su quel viso spigoloso: era semplice, avrebbe dovuto conquistare la maestra. Prima di avere un piano preciso si immaginava già con il risultato in tasca. Vedeva con la fantasia la bottega piena di zotici attenti a cercare di non perdere il filo di come era riuscito ad incantare la maestra. Tutti nella bottega seduti e per i ritardatari solo posti in piedi, restando in silenzio con la bocca aperta come fanno i bambini la notte di Natale.",
+        "Due volte la incrociò, ma le gambe si misero quasi a correre nella direzione opposta. Nei racconti fatti in bottega tutto era più facile. Le parole sembravano impastarsi, rimanevano attaccate alla lingua. Maledizione, era solo una donna eppure aveva il piglio di una cavalla che scalciava appena ci si avvicinava. Aldo certo non era tipo da arretrare davanti ad un ostacolo. Ogni giorno staccando rose dai vari campi ne portava sulla finestra della maestra. Lo faceva di notte, la posava delicato sul davanzale anche se c’era pioggia o neve. Una notte la maestra lo aspettò e quando lui pose la solita rosa lei aprì la finestra e lo vide. Preso alla sprovvista Aldo fuggì cercando di far scomparire ogni orma del suo passaggio. Quando arrivò nei pressi di casa sua, per non far capire che era uscito a Cesare e a suo padre, appoggiò una scala alla finestra che aveva lasciato aperta. Una volta entrato si trovò davanti Berto ubriaco che russava sul divano. Fece piano, ma non abbastanza da non svegliarlo. Berto non andava mai svegliato d’improvviso, la cosa era ormai tristemente risaputa, diventava estremamente pericoloso e caricava chiunque fosse davanti. Ci volle l’intervento di Cesare per placare quel tornado di bestemmie e pugni carichi di dinamite.",
+        "Ormai la frittata era fatta, la sua famiglia sospettava e per quanto non chiedessero lo guardavano come se fosse preda di chissà quale delirio. Berto era uno che ragionava a giorni alterni e per quanto fosse un padre a cui si potevano fare molte critiche non era cattivo e nel vedere il figlio soffrire pensò di agire. Per quanto volesse essere sobrio si aiutò con tre meglio quattro o forse cinque bianchi, poi partì come un soldato per la guerra. Incontrò i soliti amici, ma tirò dritto verso la casa della maestra. Davanti alla porta non esitò, suonò e subito dopo non contento bussò per ribadire la sua impazienza. La maestra venne ad aprire e Berto senza troppo aspettare il suo consenso si introdusse nell’abitazione.",
+        "Appena entrato vide un uomo del paese vicino che conosceva e gli stava di pelle antipatico.",
+        "-Cosa fai qua?- disse Berto giusto per risultare cordiale.",
+        "L’uomo rispose- Lo stesso che fai tu- Berto non ci capiva più niente, lui era li per Aldo, quest’uomo come poteva saperlo? Forse lo stava prendendo in giro. Pensò per un attimo di prenderlo a pugni. I due si squadrarono, Berto si tolse il cappello, lo appoggiò e senza troppo pensarci si tolse anche la giacca rimanendo con una camicia sottile come la voce dei bambini. L’uomo, un contadino divenuto benestante, vestiva elegante come nei giorni di festa quando si sentiva nell’aria l’odore di frittelle e zucchero filato. Berto cominciò a canzonare il paese dell’uomo che impettito rispose –Il vostro è un paese di straccioni­- . Berto si alzò e disse – Ripetilo-. La maestra allora si mise ad urlare, avendo intercettato Berto che aveva già serrato i pugni, che quella era casa sua e di andarsene se voleva litigare. Berto si sedette con il viso triste di un alunno beccato a copiare.",
+        "- Devo parlare con la maestra- disse l’uomo -sono arrivato per primo. La mia è una cosa privata, non voglio che lui senta.-",
+        "Berto si morse la lingua, ma aveva una gran voglia di far star zitto quel buffone vestito da tacchino, anche se non doveva dimenticarsi che era li per Aldo. La maestra e l’uomo andarono nella stanza accanto a parlare. Berto cercò di udire, ma i due parlavano piano come in chiesa la domenica quando si prega. Alla fine la maestra ricomparve, sembrava turbata, l’uomo le era dietro pareva volesse sorreggere la sua ombra. La maestra sorrideva, ma era come essere in trincea a schivar gli spari. Berto aveva il problema di Aldo da risolvere e non capiva in quale labirinto emotivo si fosse infilato. Era stanco di aspettare, aveva il diritto di essere ascoltato, ma l’uomo restava. Ad un certo punto il peso del silenzio e degli sguardi divenne ferro da sostenere sulla schiena . La maestra disse – Gradite qualcosa?- In quell’atmosfera surreale , l’uomo con gli occhi umidi disse - Deciditi scegli me o quello li.- Poi guardando Berto aggiunse - Mi fai schifo portatore di rose- .",
+        "Berto aveva bisogno di bere, si parlava di lui o di chi altro? Comunque per non sbagliare prese l’uomo e lo spinse fuori dalla casa. La maestra urlò - Scelgo la libertà, non amo te ne nessun altro e tra un mese torno a Milano.- Fu strano vedere un uomo cosi ben vestito lanciare parole cosi grevi verso la maestra. Berto fu bloccato dalla maestra, peccato, perché le nocche gli prudevano. Di suo non ci aveva capito niente, aveva un suo discorso da fare, ma ormai nella sua testa c’era solo una gran confusione.",
+        "- Maestra- disse guardandola negli occhi- ho bisogno di un piacere.-",
+        "Un mese dopo la maestra passando dal centro del paese con le valigie e con dietro la solita scia di pappagalli arrivata davanti alla bottega entrò, salutò i due fratelli e a sorpresa baciò Aldo. Il giorno dopo la bottega era piena: Aldo, grazie a suo padre, poteva riempire le pagine e colorarle a modo suo. Piccola storia di un paesino nascosto perfino dalle cartine stradali, dove il prete sgrida ancora chi non va la domenica in chiesa, dove si sente il profumo delle passate di pomodoro e le bestemmie di chi gioca a carte. Un paesino dove un padre grosso come un orso sta seduto qualche volta con i suoi figli con un litro di vino a fianco, guardando le nuvole e le tante parole appese, aspettando che il vento le colpisca e le faccia volare e scendere nelle bocche degli uomini, pronte a servire chi le usa spesso ben oltre il significato, ma più volentieri gestite per ogni propria furba convenienza. Parole che incantano , che fanno vacillare la gente semplice come Berto. Parole come i temporali d’agosto che ti trovano sempre senza riparo."
+    ],
+    "timestamp": "2019-09-20T15:47:46Z",
+    "title": "Storia di parole al vino rosso",
+    "topic_id": 44571,
+    "url": "https://www.writersdream.org/forum/forums/topic/44571-storia-di-parole-al-vino-rosso/"
+}
