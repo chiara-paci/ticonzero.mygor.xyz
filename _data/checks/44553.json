@@ -134,7 +134,7 @@
     },
     "num_chars": 695,
     "num_commenti": 2,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 788239,
@@ -160,6 +160,14 @@
             ],
             "timestamp": "2019-09-20T14:17:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=788511"
+        },
+        {
+            "post_id": 788575,
+            "text": [
+                "Ti sono grata per le tue parole, caro"
+            ],
+            "timestamp": "2019-09-21T06:00:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=788575"
         }
     ],
     "post_staff": [],
