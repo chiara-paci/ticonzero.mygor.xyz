@@ -58,7 +58,7 @@
     },
     "num_chars": 2545,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 787997,
@@ -107,6 +107,40 @@
             ],
             "timestamp": "2019-09-21T15:33:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788641"
+        },
+        {
+            "post_id": 788664,
+            "text": [
+                "Hai fatto un'analisi approfondita, cogliendo l'essenza del racconto.",
+                "Sono un appassionato di psicologia, ipnosi, stati di coscienza alterata, ecc. Attualmente mi sto interessando di autismo. La cosa affascinante è che gli autistici sono solo apparentemente diversi: l'unico handicap è la loro difficoltà nei rapporti con il prossimo. Soprattutto quelli che hanno la sindrome di Asperger hanno un'intelligenza a volte superiore alla media.",
+                "Tu scrivi qualcosa che ha attinenza con psicologia, o anche occultismo?",
+                "Mi piacerebbe leggere qualche tuo scritto.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-09-21T19:10:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788664"
+        },
+        {
+            "post_id": 788665,
+            "text": [
+                "Grazie per avermi evidenziato gli errori e le imprecisioni.",
+                "In effetti potrebbe sembrare un racconto \"senza capo né coda\".",
+                "Forse non sono riuscito ad esprimere ciò che intendevo.",
+                "Cercherò di migliorare.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-09-21T19:14:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788665"
+        },
+        {
+            "post_id": 788667,
+            "text": [
+                "L'avevo capito.",
+                "La mia non è polemica: sono convinto che se il mio intento non viene capito, probabilmente è un problema di comunicazione, che quindi va corretta.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-09-21T19:30:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788667"
         }
     ],
     "post_staff": [],

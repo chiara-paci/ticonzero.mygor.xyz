@@ -48,7 +48,7 @@
     },
     "num_chars": 3449,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 787152,
@@ -65,6 +65,15 @@
             ],
             "timestamp": "2019-09-10T19:02:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=787250"
+        },
+        {
+            "post_id": 788660,
+            "text": [
+                "Grazie per aver commentato. Sono ancora giovane quindi ho ancora tantissimo da imparare. Cerco sempre di migliorarmi ogni giorno. Mi rileggerò e studierò meglio i tuoi suggerimenti.",
+                "Grazie mille, per te potrebbe anche non essere una frase di incoraggiamento, ma a me ha fatto tanto piacere. La prima cosa che voglio è proprio riuscire a trasmettere qualcosa al lettore."
+            ],
+            "timestamp": "2019-09-21T18:31:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44464-il-vecchio-e-il-temporale//?do=findComment&comment=788660"
         }
     ],
     "post_staff": [
