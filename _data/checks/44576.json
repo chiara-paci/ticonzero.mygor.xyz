@@ -50,8 +50,18 @@
     },
     "num_chars": 7858,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788672,
+            "text": [
+                "Ciao , sono contento che il racconto ti sia piaciuto. Sicuramente terrò conto delle tue utili annotazioni. In certi momenti noti difetti che sono dovuti al fatto che i personaggi parlano in versi sciolti. Probabilmente è stata un'idea terribile! Inoltre scrivere così è faticosissimo.",
+                "Alla prossima, grazie ancora."
+            ],
+            "timestamp": "2019-09-21T19:47:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44576-addio-ragazzo-dimensionale//?do=findComment&comment=788672"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ne aveva già viste di ogni. Era stato bruciacchiato, sputacchiato, lapidato, catapultato, sbeffeggiato e deriso, smascherato dalla sua stessa fidanzata e quasi sbudellato in due occasioni distinte. Adesso era stanco. Riposto il costume nel comò, si era trovato un lavoro vero. Aveva seguito il suggerimento di Felicia Imbriani (la sua ex): consegne a domicilio.",
