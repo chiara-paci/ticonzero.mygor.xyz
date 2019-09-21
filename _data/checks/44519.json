@@ -58,7 +58,7 @@
     },
     "num_chars": 2545,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 787997,
@@ -88,6 +88,14 @@
             ],
             "timestamp": "2019-09-20T11:57:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788493"
+        },
+        {
+            "post_id": 788595,
+            "text": [
+                ". Bell'analisi. Grazie per il tuo intervento. Terrò senz'altro conto dei tuoi suggerimenti."
+            ],
+            "timestamp": "2019-09-21T10:01:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44519-lesame//?do=findComment&comment=788595"
         }
     ],
     "post_staff": [],
