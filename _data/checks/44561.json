@@ -54,7 +54,7 @@
     },
     "num_chars": 2197,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 788423,
@@ -72,6 +72,16 @@
             ],
             "timestamp": "2019-09-19T21:48:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44561-il-funerale-incipit//?do=findComment&comment=788423"
+        },
+        {
+            "post_id": 788615,
+            "text": [
+                "Ciao , figurati. Ti ringrazio invece per essere passata a leggere.",
+                "Probabilmente è un frammento troppo breve, aspetterò di aver finito il romanzo per capire se l'inizio è adatto alla storia o si può migliorare.",
+                "Grazie per il commento"
+            ],
+            "timestamp": "2019-09-21T12:38:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44561-il-funerale-incipit//?do=findComment&comment=788615"
         }
     ],
     "post_staff": [],
