@@ -13,12 +13,30 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "valid": 0.06043956043956044,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.06043956043956044
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Abbiamo chiuso. Domani potrai fare un nuovo commento approfondito e mandarlo per messaggio a privato a uno staffer online, che riaprirà la discussione."
+                ],
+                []
+            ],
+            "timestamp": "2019-08-29T09:04:45Z",
+            "title": "alta marea",
+            "url": "https://www.writersdream.org/forum/forums/topic/44325-alta-marea//?do=findComment&comment=785193",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,8 +44,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 401,
-    "num_commenti": 0,
-    "num_posts": 2,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 788263,
@@ -51,6 +69,19 @@
             ],
             "timestamp": "2019-09-18T20:03:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44554-i-racconti-della-nona-luna-quinto-ciclo//?do=findComment&comment=788263"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 788803,
+            "text": [
+                "I racconti della mia settimana."
+            ],
+            "timestamp": "2019-09-22T19:30:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44554-i-racconti-della-nona-luna-quinto-ciclo//?do=findComment&comment=788803"
         }
     ],
     "text": [
