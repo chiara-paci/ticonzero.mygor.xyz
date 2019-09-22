@@ -1,0 +1,64 @@
+{
+    "author": {
+        "author_id": 27106,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ippolita2018",
+        "url": "https://www.writersdream.org/forum/profile/27106-ippolita2018/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "In una raffinata struttura, quella del sonetto elisabettiano (o shakespeariano), stipi dei contenuti di grande impatto, esposti in un tono che mi verrebbe da definire scanzonato. Per il mio gusto personale, questa è una miscela esplosiva: la compresenza di elementi a contrasto e di vari piani di lettura è sempre stimolante.",
+                    "L'io lirico entra in scena come un bambino che in classe alza la mano e vuole manifestare a tutti, in primo luogo a sé stesso, che esiste e ha la dignità per farlo: sono vivo, ci dice, in quanto ancora rispondo a un nome (vi vedo un rimando alla concezione biblica: chi non ha nome non esiste); i colori e i suoni sono testimoni della magnificenza della vita, insieme all'orgoglio di avere in essa un posto certo. Trovo eccellente l'uso dell'aggettivo \"colorato\", che contribuisce al tono giocoso e individualistico di questa prima quartina. L'apparente ovvietà del contrasto con la seconda quartina è subito capovolta dal verso ebrei, ﻿indiani, incas, armen i , in cui l'io lirico, raggruppando tali categorie, fa un riferimento incisivo, mirato a genocidi infamanti. Di nuovo, nella terza quartina, torna l'aggettivo \"anonimo\", e con esso la consapevolezza che solo essere chiamati per nome salva dall'oblio, e che non è un merito l'essere vivi, né motivo di orgoglio. Poi, due versi dal contenuto non immediatamente individuabile, ma illuminato dal distico finale:",
+                    "solo ﻿un pugno di poeti colti",
+                    "sopra i cadaveri svettano alti ?",
+                    "Torna qui l'individualismo dei primi versi, la fierezza (o, meglio, l'autocompiacimento) non solo di sentirsi vivi, ma anche di essere insigniti di un onore che pone al di sopra degli altri (i quali non solo sono morti, ma anche dimenticati); insieme a questi elementi, premono con urgenza le eterne domande di senso: cos'è, in fondo, la vita? Perché il dolore, e perché mai distribuito con tale agghiacciante casualità? Il distico finale abbozza una risposta dal sapore evangelico e nel verbo amare suggella l'intero componimento.",
+                    "Grazie e un saluto, ."
+                ]
+            ],
+            "timestamp": "2019-09-22T09:16:43Z",
+            "title": "Lo sterminio dei Navajo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44544-lo-sterminio-dei-navajo//?do=findComment&comment=788710",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 261,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Feci cenno a un condomino lungo le scale.",
+        "Fermati, viandante! ― gli ho detto ― entra dentro e rifocillati: il sentiero è lungo!",
+        "Ha continuato la sua corsa guardandomi di sbieco.",
+        "Eppure scendeva dal settimo piano: e io avevo sul tavolo pane nero e ricotta di capra."
+    ],
+    "timestamp": "2019-09-22T15:06:03Z",
+    "title": "Feci cenno a un condomino",
+    "topic_id": 44584,
+    "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino/"
+}
