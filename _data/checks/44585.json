@@ -1,0 +1,96 @@
+{
+    "author": {
+        "author_id": 26110,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Mafra",
+        "url": "https://www.writersdream.org/forum/profile/26110-mafra/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi sono sempre piaciute le storie ambientate nei paesi, e il tuo racconto riesce a ricostruire bene quella realtà fatta di piccole cose, di personaggi più legati all’apparenza che alla sostanza, di rapporti umani semplici e passioni elementari. Un mondo opposto alla città con tutti i suoi artifici, di cui soprattutto i personaggi maschili sono l’emblema. In particolare Aldo appare ben tratteggiato, il classico donnaiolo che ama mettere in piazza le sue imprese erotiche senza svelare l’ identità delle sue conquiste, rivelandosi in questo modo persino galantuomo.",
+                    "Il racconto ha, secondo me, dei pregi ma anche dei difetti.",
+                    "Fra i primi ti segnalo:",
+                    "- la capacità di trasmettere nel complesso l’atmosfera adeguata ai fatti narrati;",
+                    "- l’espressività delle metafore e delle similitudini, soprattutto alcune:",
+                    "- la caratterizzazione dei personaggi;",
+                    "- alcune scelte come la reticenza, quando il padre va a parlare con la maestra.",
+                    "Andiamo ora ai difetti:",
+                    "- l’uso della punteggiatura che ti ha già ampiamente illustrato e che quindi non starò a ripeterti;",
+                    "- qualche ripetizione di troppo;",
+                    "- qualche costruzione o espressione migliorabili:",
+                    "Anche se si era finito di tagliare i capelli",
+                    "Eviterei il gerundio: Ogni giorno staccava rose dai vari campi e le portava sulla finestra della maestra.",
+                    "Per non far capire a Cesare e a suo padre che era uscito.",
+                    "- la scena in casa della maestra è poco chiara, andrebbe rivista secondo me, forse risente dell’agitazione dei due uomini, andrebbero ripartiti meglio i tempi della contesa fra i due e eliminerei qualche similitudine ripetitiva;",
+                    "- il finale posticcio: è ben scritto ma è come appiccicato rispetto al racconto che fino a lì scivola piuttosto bene. Non so, forse dovresti sfoltirlo e trovargli un’altra collocazione, o forse eliminarlo del tutto.",
+                    "Per finire ti segnalo un refuso che, mi pare, non ti sia stato segnalato nel commento precedente:",
+                    "Credo volessi dire riccio.",
+                    "In conclusione, ho letto con piacere il tuo racconto, credo che tu debba lavorarci ancora su ma che tu abbia già elaborato una buona base da cui partire.",
+                    "Ciao!"
+                ]
+            ],
+            "timestamp": "2019-09-22T16:06:35Z",
+            "title": "Storia di parole al vino rosso",
+            "url": "https://www.writersdream.org/forum/forums/topic/44571-storia-di-parole-al-vino-rosso//?do=findComment&comment=788770",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 12225,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Era l’idolo di tutte noi.",
+        "Se ne stava in piedi, sulla soglia del bar Amaranto, a ridere e scherzare con l’esuberanza dei vent’anni più belli in cui ci fossimo mai imbattute, mentre noi incantate lo guardavamo dal balcone di fronte. La casa di Brunella era il nostro quartier generale, ci riunivamo lì il pomeriggio, dopo i compiti, e ci piaceva, perché avevamo campo libero. I suoi genitori c’erano e non c’erano allo stesso tempo, erano presenze evanescenti, si muovevano senza far rumore, come attraverso i muri, e si rendevano visibili solo se necessario, all’ora della merenda per esempio, quando la madre di Brunella si materializzava d’un tratto nella stanza portando con sé un vassoio stracolmo di panini alla nutella, lo lasciava sul tavolo, e se ne ritornava da dove era venuta senza dire neanche una parola.",
+        "Brunella era in apparenza la più calma e riflessiva del gruppo, parlava con un garbo quasi svenevole, ai limiti dell’ostentazione. In realtà dietro quell’aria da madonnina celava la furia di un vulcano, anche se l’eruzione rimase latente per molti anni, e si palesò dopo, in età matura, con una carrellata di matrimoni e divorzi – tre, se ben ricordo - che movimentarono la sua vita coniugale. Poi c’era Sandra, gli occhi da felino e una cascata di ricci in testa, perennemente in lotta con la sua magrezza; tentava in ogni modo di sconfiggerla ingurgitando da mattina a sera una quantità spropositata di dolci di ogni tipo, senza riuscire a mettere su neanche un etto. Emanuela invece era il volto dolce della femminilità, incapace d’invidia e pensieri maligni, non le avresti estorto un giudizio velenoso neanche su Debora senz’acca, la nostra compagna acida come un’anguria andata a male per la quale tutte provavamo un’antipatia sfrenata e, per questo motivo, era stata ostracizzata a tempo indeterminato dal gruppo non appena aveva osato mettervi piede.",
+        "Al vertice della nostra piccola confraternita c’era Giovanna, non perché qualcuno di noi l’avesse investita del ruolo; era stata lei stessa ad eleggersi, senza imporsi, in maniera del tutto naturale. Giovanna in effetti con la stoffa della leader c’era nata, le calzava addosso a pennello, e chi le gravitava intorno era costretto a cedere al suo carisma, a provare per lei un sentimento misto di ammirazione e di livore, perché tutte avremmo voluto essere come lei, ma solo lei era come noi avremmo voluto essere. La mattina la osservavamo arrivare a scuola da lontano al ritmo di marcia, con l’inflessibilità di un generale che si trascina dietro la truppa senza bisogno di impartire ordini, e dall’andatura eravamo solite scommettere sul suo umore: un’oscillazione nervosa delle braccia, unita a un trotto veloce, minacciava tempesta, una postura più rilassata e un’ombra di sorriso lasciavano presagire qualche ora di bonaccia. Ah, quasi dimenticavo il particolare più interessante. Giovanna era fra noi l’unica femmina, femmina con le tette intendo dire, tutte le altre eravamo amebe in continua trasformazione, non più bambine ma neanche donne ancora. Il nostro capo invece era già una donna fatta, e se a volte per vincere l’invidia ce lo dimenticavamo, erano gli sguardi spudorati dei maschi sulle sue forme a rinfrescarci la memoria.",
+        "E infine c’ero io, la Francesca del gruppo. C’è sempre una Francesca in un gruppo, o mi sbaglio? Ero la più vecchia, non in senso anagrafico, avevamo tutte fra i dodici e i tredici anni appena compiuti. Ero vecchia dentro, il mio senso di responsabilità superava quello di tutte le altre messe insieme, ero quella prudente, che dietro ogni angolo scorgeva un pericolo, che frenava sul nascere ogni progetto audace, una rompiscatole insomma, una rompiscatole leale, però. Per le mie compagne avrei affrontato qualunque cosa, purché si ponesse al di qua dei limiti imposti dai miei genitori, ai quali non intendevo derogare per nulla al mondo.",
+        "Lui era entrato nelle nostre vite senza fare rumore, così, da un giorno all’altro. Stavamo a guardarlo anche per un’ora intera affacciate al balcone, un metro e ottanta di ragazzo, i capelli neri, perfettamente lisci, gli occhi azzurri come il mare all’orizzonte dietro le case, un sorriso di denti bianchi e lucidi che di certo non avevano mai avuto bisogno del dentista. Rubava la scena agli altri maschi intorno a lui, tanto era bello, chiacchierava con loro, spesso rideva, e a volte fumava una sigaretta, più per darsi un contegno che per necessità. Al grido di una di noi, venite, ragazze, c’è Dino, correvamo subito fuori lasciando a metà gli stupidi scherzi telefonici con cui riempivamo il vuoto dei pomeriggi, e fingendo indifferenza ci appostavamo dietro la ringhiera a prenderci anche noi la nostra piccola parte di felicità. Ma il suo volto aveva l’imperturbabilità di un dio, e ogni suo gesto rammentava al mondo che era sceso dall’Olimpo senza alcuna intenzione di mescolarsi ai comuni mortali. In altre parole, a parte gli amici, non mostrava interesse per nessuno, men che meno per le cinque spettatrici mignon in estatica adorazione sul terrazzino della casa di fronte. E il suo contegno non variava mai, né quando ci capitava d’incontrarlo a passeggio in mezzo alla calca il sabato pomeriggio, né quando stava in attesa di un passaggio in macchina sul marciapiede antistante il bar, indosso la tuta da ginnastica della squadra di calcio cittadina, appoggiato a terra il borsone del medesimo colore rosso. Neppure quando un pomeriggio, le mie compagne, colte da un irrefrenabile delirio, ebbero la faccia tosta di invitarlo alla festicciola in corso nel nostro quartier generale, e gli urlarono dal balcone, sali! Vieni alla festa! Forza, ti aspettiamo! Io tentai di fermarle, ma non ci riuscii, la frittata era fatta ormai. Ma, è risaputo, se non sei un cuoco provetto, nove volte su dieci la frittata ti si attacca alla padella o si rompe mentre la giri, e a quell’età noi non sapevamo cucinare neanche un uovo. Inutile dire quale disastro fu il risultato di quell’esperimento: Dino scoppiò in una risata più umiliante di un rifiuto verbale e non si mosse di un millimetro; gli amici, invece, si catapultarono subito dentro al portone su per le scale, onorandoci per l’intera serata della loro modesta e noiosa presenza.",
+        "Un giorno accadde quello che non avremmo mai voluto accadesse. Dino incominciò a farsi vedere in giro con una ragazza, una ragazza fissa intendo, perché di quelle che comparivano il giorno prima per trasformarsi in ricordo già il giorno dopo avevamo perso il conto. Contemporaneamente girò voce che i due si fossero fidanzati, o, come allora si diceva, si erano messi, espressione questa, a mio modesto parere, del tutto inappropriata, che tutt’al più, per avere un senso, avrebbe dovuto completarsi con l’avverbio insieme. E invece no, negli anni Ottanta si diceva proprio così, senza l’avverbio, vi siete messi? Senza aggiungere altro.",
+        "Quando la bomba scoppiò, lo ricordo come fosse oggi, noi cinque ci aggrappammo a una sola speranza: che la prescelta fosse racchia, piena di difetti, che le mancasse pure qualche pezzo, e avesse un carattere insopportabile, insomma che fosse una megera, di dentro e di fuori. Non poteva finire così, dovevamo attaccarci a qualcosa di cui sparlare, altrimenti come avremmo impiegato i nostri pomeriggi ora che l’oggetto dei nostri desideri al bar Amaranto non ci veniva più tanto spesso, impegnato com’era in ben altri svaghi? Ma ancora non sapevamo quanto le nostre aspettative sarebbero state disattese. Gli dei si accoppiano fra di loro, qualcuno ha forse visto Apollo andarsene a spasso con la strega di Biancaneve? E quando per la prima volta la vedemmo, non potemmo che constatare l’unica inoppugnabile verità: Ketty, questo il suo nome, era l’esatto doppio di Dino, al femminile, la personificazione della bellezza al grado più elevato, una bellezza senza eccessi, né arroganza, calda di semplicità e candore, fatta per suscitare amore. Tutto funzionava perfettamente in lei, nessuna menomazione, nessuna pecca, niente di niente. E alla fine ci arrendemmo di fronte all’evidenza, al punto che finimmo col venerare lei forse ancor più di quanto veneravamo lui.",
+        "Erano giovani e belli, avevano in pugno il mondo e la vita davanti a loro. Quando passeggiavano mano nella mano, sulla via principale, l’allegria del loro sorriso attirava l’attenzione di tutti, si guardavano di continuo negli occhi come per scorgervi dentro i riflessi del mondo che insieme avevano scelto d’inventare. Si sarebbero sposati, lei avrebbe indossato il vestito più bello, con lo strascico a ricoprire il pavimento della chiesa fino al portone, le damigelle dietro a sorreggerlo, e davanti i paggetti a spargere petali di rose. Avrebbero abitato in una villetta a due piani, di quelle con il prato verde e il cane che abbaia agli estranei, e a Natale l’avrebbero riempita di luminarie per riscaldare di luce l’intero quartiere. Cosa manca ancora? Ah sì, i bambini. Avrebbero avuto almeno due bambini, un maschio e una femmina, sani, belli, intelligenti, come possono esserlo solo i figli degli dei.",
+        "La favola finisce qui.",
+        "O meglio, finisce in un caldo giorno di ferragosto, mentre la città brucia e le macchine fuggono verso la montagna alla ricerca di un po’ di refrigerio. In realtà a Dino e Ketty del caldo e del freddo non importa un bel niente, vogliono soltanto passare una giornata senza pensieri con gli amici, non gliene frega niente se al mare o da qualche altra parte, l’importante è lasciare la città, divertirsi e stare insieme. La mamma di Ketty glielo grida, mentre la saluta sul portone, state attenti, vi raccomando, in queste giornate tutti bevono, quelle curve diventano pericolose. Sta’ tranquilla, mamma, ci vediamo stasera, non ti preoccupare, risponde lei. Un ultimo sguardo alla mamma sul portone, un ciao di fretta con la mano, e subito in macchina dove Dino l’aspetta con un bacio e la gioia di sempre. Raggiungono gli altri, fa caldo anche in montagna oggi, non basta l’ombra dei pini, ma sono ragazzi, e a queste cose non badano, badano soltanto a mangiare, a bere, si raccontano barzellette sporche, giocano a pallavolo, poi si addormentano sul prato. Verso le cinque qualcuno propone di salire tutti insieme sulla stessa macchina per prendere un gelato al bar più vicino, è solo a qualche chilometro di strada, cosa può succedere in qualche chilometro di strada?",
+        "C’è chi obietta, ma sei coglione? Tutti sulla stessa macchina? Se ci fermano ci ritirano la patente, e finiamo tutti alla polizia. Io non ci salgo.",
+        "Dai, cacasotto, cosa vuoi che sia? Sono solo cinque minuti.",
+        "A volte bastano cinque minuti, anche meno, a cambiare il corso di una vita, o di più vite, ma è troppo giovane per capirlo.",
+        "Si caricano in otto sulla Cinquecento, braccia che s’intrecciano, ginocchi incollati ai ginocchi, corpi avvinghiati come serpi, l’uno sull’altro, e ridono, spingono, stiamo facendo una cazzata, qualcuno dice, ma intanto il motore si avvia, giù, lungo le curve, tutti sanno che è una bravata, una stupida bravata, ma nessuno ha il coraggio di ammetterlo, di mostrarsi pavido, non vuole essere preso in giro, messo alla berlina. Alla seconda curva la macchina sbanda, si ribalta, finisce contro un albero, in una scarpata.",
+        "La favola finisce qui.",
+        "Per un motivo banale, la ragione più stupida del mondo, perché un cretino ha fatto una proposta e gli altri lo hanno seguito.",
+        "Al balcone di fronte al bar Amaranto non ci siamo più affacciate, da allora.",
+        "Sono passati trentacinque anni dal quel giorno. La città fu sconvolta dall’incidente che spense due giovani vite e le loro speranze. Nessuno ci voleva credere, ma così fu. Dino e Ketty furono gli unici due a non farcela, sugli otto ragazzi saliti sulla Cinquecento quel maledetto giorno di ferragosto, gli altri si salvarono. Tutti.",
+        "Gli dei non li vollero proteggere in quella circostanza, guardavano da un’altra parte.",
+        "E oggi, che dalle riunioni nel quartier generale di fronte al bar Amaranto mi sembra trascorso un secolo, al cimitero entro dal portone centrale che dà su un viale ampio di cipressi. Il mio sguardo cade sempre là, in fondo sulla sinistra, oltre la scaletta, fino al muro di cinta di fronte al mare, alle due lapidi bianche strette una accanto all’altra.",
+        "Gli dei sono diventati angeli, e nella morte sorridono belli più che nella vita."
+    ],
+    "timestamp": "2019-09-22T16:08:57Z",
+    "title": "Il sorriso degli angeli",
+    "topic_id": 44585,
+    "url": "https://www.writersdream.org/forum/forums/topic/44585-il-sorriso-degli-angeli/"
+}
