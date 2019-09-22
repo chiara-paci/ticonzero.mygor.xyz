@@ -12,13 +12,65 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Kikki. Mi accingo a completare le mie osservazioni su questo secondo capitolo.",
+                    "Da quello che abbiamo letto finora, non c'è ancora stato con le ragazze niente di più che un breve incontro. Toglierei.",
+                    "poi il vetro del finestrino si è rialzato, il loro sguardo è tornato a rivolgersi alla strada e alle macchine di possibili clienti,",
+                    "e ai possibili clienti. Veloce e pulito. Le macchine sono implicite",
+                    "la nostra auto è ripartita e loro sono rimaste di nuovo sole , esposte sul marciapiede. Sono solo delle donne.",
+                    "Sono soltanto delle donne, per evitare la ripetizione sole\\solo",
+                    "Qualche volta nemmeno quello, sono ancora delle ragazze , quasi delle bambine. Era questo che mi incuriosiva tanto?",
+                    "Hai appena detto che sono donne. Dire ora che sono ragazze o quasi bambine suona contraddittorio. Ripeterei: Qualche volta nemmeno quello, qualche volta sono ancora delle ragazze...",
+                    "Lo so che è implicito ma l'orecchio arriva prima del cervello, e la prosa deve funzionare, per l'appunto, a orecchio. Come la musica.",
+                    "È strano vedere le ragazze così, sedute alla fermata dell’autobus, illuminate dall'alone freddo delle alogene: hanno lo sguardo duro, inespressivo, minaccioso, aggressivo, sono pronte a scattare alla prima avvisaglia di pericolo. E fanno bene a stare in guardia. Continuo a pensare che siano donne coraggiose, ci avevo visto giusto da bambina.",
+                    "Mi piaceva quel ricordo, non mi ci attaccherei ulteriormente se proprio non ne vale la pena. Tra l'altro, vado a memoria, là si parlava di fierezza non di coraggio. Sono due cose diverse.",
+                    "Mentre entro nell'ultima rotonda che mi porterà a casa, vedo nell'ombra, dietro una siepe, due ragazze di colore che si stringono nelle giacche imbottite e mi viene un sorriso ironico mentre penso che le chiamano donnine allegre…, ma a chi sarà venuta in mente una definizione così scema e così completamente inappropriata? Mi sembra davvero un controsenso: al freddo, mezze nude, su un marciapiede, di notte, vengono picchiate, derubate, minacciate, stuprate, accoltellate, sono il bersaglio di tutti coloro che non hanno di meglio da fare che andare in giro di notte a lanciare insulti e bottiglie dai finestrini. Quando passi di fronte a loro non ne vedi nemmeno una che sorrida, a parte Maddalena, ovviamente. Non ne vedi nemmeno una che abbia lo sguardo sereno e tranquillo. Come riusciamo a non capire che la strada non si sceglie? Che queste ragazze sono schiave… siamo in Italia, uno dei paesi più ricchi del mondo,",
+                    "Se dovessimo saldare oggi i nostri debiti, cioè restituire il danaro non nostro, non so quanto questa affermazione possa essere fondata.",
+                    "Buono il pezzo precedente. Ottimo lavorare sui luoghi comuni, sui modi di dire che a volte dicono più di quello che pensiamo",
+                    "la culla della cultura, del bel vivere, della buona cucina, del sole, del mare, delle canzoni d’amore e dell’allegria…, ma siamo un paese schiavista. Non trovo una definizione più appropriata, è inutile nascondersi dietro paroloni e tanti discorsi. Se i clienti non si vergognano di andare con queste ragazzine, se i magnaccia non si vergognano di vendere corpi altrui, se lo stato e i giornali non si vergognano di parlarne solo per mostrare un impegno che il più delle volte non si concretizza in niente , perché dovrei essere reticente e usare una parola diversa da schiavismo?",
+                    "Stato e giornali si impegnano davvero in qualcosa che non sia procacciare voti e vendere copie? Ma va, mi giunge nuova. Vabbè, non divaghiamo, atteniamoci alla scrittura.",
+                    "Faccio un secondo giro della rotonda. Mi sento addosso un qualche tipo di responsabilità. Non conosco queste ragazze, sono uscita solo una volta con i volontari e ancora non so niente; ma completo ugualmente un secondo giro e provoco qualche alzata di testa, interrogativa e sul chi va là. Capisco che non sto facendo un favore a nessuno, neanche a me considerando le mie dita congelate dentro ai guanti e il naso che cola, così imbocco la mia uscita e vado a casa.",
+                    "Il personaggio protagonista è molto sentito, molto plausibile, brava.",
+                    "Passo una giornata turbolenta. A livello di pensieri, dall’esterno non si nota niente, il mio tran tran quotidiano continua come se il mio cervello fosse un lago di acque ferme , ma io n on riesco a smettere di rimuginare sul fatto che tutte le ragazze che ho visto sui marciapiede ieri sera, sono una minuscola parte di tutte le prostitute che ci sono in Italia e nel mondo intero.",
+                    "congiungerei, come ho fatto",
+                    "Quello che ho visto ieri sera in strada, insieme ai racconti di Roberto, mi lascia interdetta. Mi chiedo come ho fatto, come non mi sono mai chiesta perché quelle donne si trovassero sul marciapiede. Anche io mi sono sempre fermata all’apparenza. Forse perché il farsi delle domande per ottenere risposte ti costringe anche a prendere delle iniziative. E io non ero pronta.",
+                    "Mi chiedo come ho fatto finora a non chiedermi perché quelle donne si trov ino sul marciapiede. O trovano? Boh, io coi verbi sono un disastro, non darmi retta.",
+                    "Le ragazze partono dalle campagne o dai sobborghi di grandi città; alle spalle hanno situazioni che non offrono niente. Non hanno una via d’uscita e nessuna prospettiva. Nessuna di loro viene dalla Francia o dalla Germania, nei loro paesi di origine la miseria è grave, sono i cosiddetti paesi in via di sviluppo o con profondi problemi sociali come la Romania, la Moldavia, l'Ucraina, l'Albania, la Russia e la Nigeria.",
+                    "Metterei un punto dopo Germania ,",
+                    "Roberto dice che in zona fiera ci sono due donne italiane, della provincia di Bologna.",
+                    "E' senz'altro plausibile che ci siano delle italiane, ma l'informazione sporca un po' il significato di ciò di cui si parlava in precedenza. Affronterei la cosa in un altro momento, magari dandole un suo spazio specifico.",
+                    "Mi rendo conto che ingannare queste persone o promettere loro che in Italia avranno un lavoro, deve essere davvero semplice, non hanno niente da perdere. Tentare di cambiare la propria sorte è il minimo che possano fare. Le donne che ho visto nelle poche ore che è durata l’uscita con la macchina di pattuglia dell’associazione, non sono altro che ragazzine, anche minorenni, come Love. Alcune partono spontaneamente, altre vengono vendute dai genitori ai trafficanti, altre vengono rapite, oppure comprano un viaggio nell'agenzia turistica dietro l'angolo.",
+                    "Piccola digressione di carettere personale. Concordo pienamente con quanto lascia intendere questo passaggio. Spesso la gente si dimentica che il primo e inalienabile diritto fondamentale di ogni persona, a questo mondo, (e quando dico persona sottindendo un essere umano che disponga di un solo fondamentale requisito, e cioè che gli batta il cuore) è in primo luogo quello di sopravvivere.",
+                    "Ci sono anche quelle che decidono “liberamente” di battere, il vero problema è che non hanno scelto il regime di schiavismo e di violenza in cui sono poi costrette a vivere.",
+                    "La trovo poco chiara. Scegliere di essere schiavi è un'assurdità quindi perchè ribadirlo? Semplificherei: Il vero problema è il regime di schiavismo e di violenza in cui sono poi costrette a vivere",
+                    "Una delle proposte più quotate per risolvere questo problema, che viene identificato prima di tutto come degrado urbano, poi come prostituzione e per ultimo come tratta di donne a scopo di sfruttamento sessuale, è la riapertura delle case chiuse. Il progetto di regolarizzazione della prostituzione prevede di fiscalizzare le prestazioni sessuali di quelle donne che si prostituiscono. Roberto mi ha dato da leggere l’intervento che sta preparando per un evento di presentazione in una chiesa.",
+                    "Presentazione di che?",
+                    "Lui identifica il problema principale che affrontano le associazioni che si occupano di tratta a scopo di sfruttamento sessuale nel fatto che le donne coinvolte non sono prostitute, ma vengono prostituite.",
+                    "associazioni come la sua. O meglio come...Ha un nome l'associazione? Sono così rimba da essermi perso anche quello?",
+                    "Dopo una rapida ricerca su internet, mi rendo conto che il traffico di esseri umani a scopo di sfruttamento sessuale, ricopre il terzo posto, subito dopo il narcotraffico e il commercio di armi, per quanto riguarda i guadagni della malavita organizzata. Ci sono quindi degli interessi politici ed economici molto forti alla base.",
+                    "sposterei la frase sottolineata dopo terzo posto, per chiarire subito di cosa si sta parlando",
+                    "Ok, capitolo finito. Hai usato un sacco di informazioni su cui a mio avviso ci si poteva dilungare anche di più. Non dico che sia necessario. Se riesci a mantenere il tenore della narrazione per tutti i quattordici capitoli (fino a oggi) io sto apposto anche così. Vedremo. Comunque brava. Ciao."
+                ]
+            ],
+            "timestamp": "2019-09-22T06:32:18Z",
+            "title": "Le ragazze - Capitolo 2 - 3/3",
+            "url": "https://www.writersdream.org/forum/forums/topic/43912-le-ragazze-capitolo-2-33//?do=findComment&comment=788689",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,7 +78,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 678,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
