@@ -50,8 +50,18 @@
     },
     "num_chars": 425,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 788781,
+            "text": [
+                "Ciao, sono contento la piccola poesia ti sia piaciuta e ti ringrazio per il bellissimo commento. Non avevo pensato fino in fondo il problema dell'anonimato... era più qualcosa che mi era venuto in mente spontaneamente.",
+                "Il tempo spazza via tutto! Non resta che trattarci con rispetto e gentilezza in quel poco che abbiamo a disposizione. Un caro saluto."
+            ],
+            "timestamp": "2019-09-22T16:46:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44544-lo-sterminio-dei-navajo//?do=findComment&comment=788781"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Io non sono anonimo e morto,",
