@@ -54,7 +54,7 @@
     },
     "num_chars": 98,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 787789,
@@ -63,6 +63,14 @@
             ],
             "timestamp": "2019-09-15T13:18:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44491-fiches//?do=findComment&comment=787789"
+        },
+        {
+            "post_id": 788819,
+            "text": [
+                "Grazie. Sì, la metafora è quella. Le fiches sono quelle sul panno verde della giovinezza, poi con la mezz'età comincia la discesa ed ecco che il nero croupier ce ne sottrae una alla volta. Fin quando lo sentiremo squillare \"rien ne va plus, les jeux sont faits\"."
+            ],
+            "timestamp": "2019-09-22T20:32:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44491-fiches//?do=findComment&comment=788819"
         }
     ],
     "post_staff": [],

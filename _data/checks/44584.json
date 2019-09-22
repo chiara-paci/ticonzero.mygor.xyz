@@ -48,9 +48,28 @@
     },
     "num_chars": 261,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 788815,
+            "text": [
+                "bentrovata.",
+                "Ti ritrovo con una poesia fresca e moderna.",
+                "La chiave del componimento, libero da qualsiasi legame tra metrica e ritmica, è tutto giocato su un contrasto concettuale: dinamismo e stasi. Ecco lo scendere le scale, la dinamica degli sguardi, l'incontro. Un attimo che annulla il tempo. Eppure quest'attimo è riempito come uno spazio emotivo. Le azioni sottintendono un campo di valori che il testo riesce a evocare: l'interesse per l'altro, l'ospitalità, un senso di socialità, a tutto questo si contrappone il mistero della fretta o dell'indifferenza del condomino. Anche questa opposizione favorisce una geometria di significati che rafforza il contrasto dinamico già descritto.",
+                "Qui è esemplificato uno dei segreti della poesia contemporanea. Ovvero che si può estrarre un'armonia di significati anche da una forma discorsiva e che il contenuto nell'arte di oggi ha un valore preponderante, ben superiore alle forme linguistiche. La sfida a mio avviso è quella di non perdere nell' informalità espressiva (e uso il termine nel preciso significato che gli si dà nell'arte dell'immediato secondo dopoguerra) un senso generale dei valori, perché un atto artistico dovrebbe tendere a uno sguardo universale sul mondo. Questa è l'unità di senso che un autore dovrebbe proteggere, ben più che una regola metrica. Comunicare è pensare, e un pensiero comunicato implica qualcosa di più ampio dell'individualità.",
+                "So che posso sempre ritrovare tutto questo nella tua scrittura.",
+                "A presto."
+            ],
+            "timestamp": "2019-09-22T20:21:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=788815"
+        }
+    ],
     "text": [
         "Feci cenno a un condomino lungo le scale.",
         "Fermati, viandante! ― gli ho detto ― entra dentro e rifocillati: il sentiero è lungo!",
