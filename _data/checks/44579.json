@@ -79,7 +79,7 @@
     },
     "num_chars": 678,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 788802,
@@ -110,7 +110,29 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44579-minuti-nel-tempo//?do=findComment&comment=788812"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 788822,
+            "text": [
+                "ciao!",
+                "Una poesia bella e appassionata.",
+                "Riesco a soffermarmi solo su due punti che mi hanno colpito:",
+                "Questo passaggio crea una bel quadro, però vorrei offrirti un punto di vista diverso. La costruzione della metafora, con la scrittura come vestito, come illusione, è efficace e allude a un'idealità all'interno della quale può trovare spazio un sentimento. Si può arrivare a questa idealità anche percorrendo la strada opposta, provando a pensare la scrittura, specie se è una poesia, e ancor di più se parla a una donna, come una nudità dell'animo. Provare a cercare i nodi di un'emotività, scavando nel conflitto di un sentimento, esibirne la forza e allo stesso tempo la fragilità, può conferire un'autenticità ulteriore al testo. È solo un altro modo di avvicinarsi al tema, forse più vicino al mio modo di scrivere, però questi versi sono esemplari per mostrare questa possibilità.",
+                "Al netto di questa divagazione la poesia funziona bene, forse eviterei le esclamazioni:",
+                "In una poesia sono spesso abusate e possono togliere un po' di freschezza. Ovviamente è solo un dettaglio.",
+                "E poi c'è il finale. Che dire? Da leggere e rileggere. Splendido.",
+                "Se devo trovare una pulce, visto che siamo in Officina, avverto l'esigenza di uno stacco nell'ultimo verso. Se fosse una parola isolata avrebbe ancora più intensità. Ma è già molto bella così.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-09-22T20:55:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44579-minuti-nel-tempo//?do=findComment&comment=788822"
+        }
+    ],
     "text": [
         "Minuti nel tempo",
         "Siamo ancora qui, lo vedi",
