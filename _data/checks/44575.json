@@ -52,8 +52,18 @@
     },
     "num_chars": 4514,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788861,
+            "text": [
+                "Ciao",
+                "Grazie delle note. Hai parzialmente ragione, questo racconto è effettivamente un frammento...ma del mio subconscio! Infatti è la trascrizione di uno stranissimo sogno che ho fatto alcune notti fa...non ho assolutamente idea di come Rashard abbia fatto ad arrivare sull'astronave!"
+            ],
+            "timestamp": "2019-09-23T07:37:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44575-rashard-e-la-fine-della-buyers-corporation//?do=findComment&comment=788861"
+        }
+    ],
     "post_staff": [],
     "text": [
         "“No, scusa, non ho capito bene. Per tingerti i capelli ci vogliono più o meno di tre ore e mezza?”.",

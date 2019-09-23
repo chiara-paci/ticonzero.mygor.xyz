@@ -1,0 +1,93 @@
+{
+    "author": {
+        "author_id": 33115,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "andrea werner mondazzi",
+        "url": "https://www.writersdream.org/forum/profile/33115-andrea-werner-mondazzi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il racconto è veramente ben scritto e toccante. Non c'è molto da dire su questo. Provo soltanto a fornire una indicazione dell'unico passaggio che ho trovato migliorabile. Si tratta della svolta finale quando la protagonista capovolge il proprio giudizio sulla nonna grazie alle rivelazioni sul suo passato fatte dalla madre. Ecco, mentre gli eventi della gioventù della nonna si incastrano a perfezione nei gesti e nelle attitudini infastidenti che questa riservava alla nipote, penso che sia poco verosimile quei dettagli siano emersi così tardi (il fatto che la protagonista sia stata lontana dieci anni potrebbe spiegare il fatto, ma sinceramente non accontenta l'animo). Insomma, mentre l'epifania interiore è repentina ed è giusto che sia così, credo questa avrebbe potuto e dovuto essere preparata meglio, con più testo, con più circostanza che si assommano nel tempo fornendo alla fine una figura complessiva (il nuovo giudizio sulla nonna) che appare d'un tratto. Invece, per come è scritto, ci troviamo direttamente sul ciglio del burrone di una nuova consapevolezza senza essercene accorti (e quindi senza aver goduto di quel percorso). Ciò detto, il racconto è molto gradevole anche così e rinnovo la miei chilometri la complimenti."
+                ]
+            ],
+            "timestamp": "2019-09-23T06:59:00Z",
+            "title": "Ora, prima e prima ancora",
+            "url": "https://www.writersdream.org/forum/forums/topic/43512-ora-prima-e-prima-ancora//?do=findComment&comment=788853",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3354,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "- Mamma, dov'è nonna?",
+        "- ...amore mio, perché me lo domandi?",
+        "- Dove sta nonna? La sua stanza è vuota.",
+        "- Vieni con me, andiamoci... Ascolta ora, piccolo mio, ascolta.",
+        "- ...",
+        "- Questa è la sua presenza. Senti il suo odore che emana dalle pareti? Senti il suo odore che viene dalle coperte?",
+        "- Sì, mamma, lo sento fortissimo, per questo non capisco perché nonna non è qui con noi. Dov'è la mia nonna?",
+        "- Piccolo, lo hai detto tu. Se questo odore richiama in te nonna, significa che lei è con te, è qui con noi.",
+        "- Ma se lei non si fa vedere presto il suo odore finirà! Sparirà!",
+        "- Non è vero, piccolo mio, le cose non spariscono. Mutano, si trasformano. Il suo odore sta per trasformarsi del tutto...",
+        "- Che vuol dire mamma?",
+        "- ...ricordi, piccolo mio, le storie che leggiamo prima di dormire?",
+        "- Sì, mamma.",
+        "- La sera, quando sei nel letto, tu ascolti la mia voce leggere quelle storie. È la mia voce quella che ascolti. E ti porta dentro avventure che prendono ad abitare i tuoi sogni, in cui navighi addormentato, anche quando ormai la mia voce ha smesso di arrivare alle tue orecchie.",
+        "- Vuol dire che l'odore di nonna che sento ora è un sogno? Vuol dire che nonna è qui ed io sto dormendo?",
+        "- Vuol dire che l'odore di nonna ha smesso di essere un normale odore. Come fa la mia voce, quando si trasforma nella storia che vivi in sogno.",
+        "- Nonna è diventata una storia?",
+        "- La storia in cui nonna si è trasformata, come fa la mia voce quando ti addormenti, è la tua storia. Nonna, piccolo mio, è diventata un pezzetto della tua storia. Il suo odore non è più un normale odore, amore mio, perché si è trasformato in un significato.",
+        "- ...ma vorrei abbracciarla...",
+        "- Beh... Non vorrai tener per te tutti i suoi abbracci! Giusto?",
+        "- ...",
+        "- L'affetto, la cura, la pazienza, la tenerezza, tutte queste belle cose che nonna ha scritto nella tua storia non vorrai mica farle spegnere così! Vero? Questi significati che ora fanno parte della tua storia, non vorrai tenerli segreti! Dimmi, amore mio, secondo te cos'è una storia?",
+        "- ...una storia è una cosa che si racconta a qualcuno per... per farlo stare meglio, mamma.",
+        "- Bravissimo, amore mio! E questo ora spetta a te: il significato che nonna è diventata tu devi trasformarlo in voce, in carezze, in abbracci, tu devi trasformarlo in cose come queste!",
+        "- ...",
+        "- Lo puoi trasformare in un odore che sia un odore buono per qualcuno, in una voce che sia una voce dolce per qualcuno, in un abbraccio che sia un tenero abbraccio per qualcuno.",
+        "- Posso abbracciare te, mamma?",
+        "- ...",
+        "- Posso abbracciare la maestra, mamma?",
+        "- Certo che puoi farlo, piccolo mio, ma devi farlo specialmente con chi ti sembra ne abbia più bisogno. Per esempio, se ti sembra che un amichetto abbia proprio bisogno di quell'affetto che nonna ha scritto nella tua storia...",
+        "- ...lo darò a lui! Abbraccerò gli amichetti che mi sembrano tristi o spaventati!",
+        "- Bravissimo! Se farai così, quel significato che nonna ha scritto nella tua storia tornerà cosa concreta per loro! E loro impareranno un pezzetto del significato che gli avrai regalato con quel gesto.",
+        "- Nonna mi ha dato una cosa importante... Sembra un super potere... Non posso tenerlo tutto per me!",
+        "- Non puoi, amore mio.",
+        "- Mi piace che qualcuno possa volermi bene come io ne voglio a nonna.",
+        "- È la cosa più importante, amore mio.",
+        "- Sai mamma, credo che la mia storia, con nonna dentro, è la cosa più bella che ho.",
+        "- ...lo so, amore mio..."
+    ],
+    "timestamp": "2019-09-23T07:09:38Z",
+    "title": "L'odore di nonna",
+    "topic_id": 44590,
+    "url": "https://www.writersdream.org/forum/forums/topic/44590-lodore-di-nonna/"
+}
