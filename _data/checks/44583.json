@@ -47,8 +47,17 @@
     },
     "num_chars": 5457,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788832,
+            "text": [
+                "mille grazie, , per la tua rilettura e per la segnalazione delle molte inesattezze e distrazioni. In effetti, ciò che può sembrarmi semplice e comprensibile, perché l'ho vissuto in prima persona, non è altrettanto leggibile per gli altri. Ti ringrazio anche per il tuo tempo, per la pazienza nello scovare errori ed errorini, e per lo sforzo di leggere un testo che, riletto alla luce dei tuoi commenti, in effetti non era così scorrevole! . Caffè (della moka) pagato!"
+            ],
+            "timestamp": "2019-09-22T22:11:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=788832"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Fa caldo come non si può immaginare che faccia caldo: i finestrini abbassati non portano ventate rinfrescanti, ma polvere e smog, e il climatizzatore sarebbe diventato un lusso accessibile dopo circa 20 anni. Ma siamo nel 1978 e tre persone sudate in una vetturetta soffocata di bagagli stanno guardando con un misto di stanchezza ed eccitazione la strada traboccante di automobili molto più grandi e ancora più cariche della nostra.",

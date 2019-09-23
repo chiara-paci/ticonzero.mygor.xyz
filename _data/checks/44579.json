@@ -79,7 +79,7 @@
     },
     "num_chars": 678,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 788802,
@@ -108,6 +108,25 @@
             ],
             "timestamp": "2019-09-22T20:14:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44579-minuti-nel-tempo//?do=findComment&comment=788812"
+        },
+        {
+            "post_id": 788847,
+            "text": [
+                "Non sarebbero legami, diversamente, dove legami si intendono come collegamenti e non costrizioni.",
+                "Bella osservazione, la tua. Grazie del passaggio, Laura."
+            ],
+            "timestamp": "2019-09-23T05:46:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44579-minuti-nel-tempo//?do=findComment&comment=788847"
+        },
+        {
+            "post_id": 788848,
+            "text": [
+                "Sai meglio di me che una poesia, quando la pensiamo più come una libera espressione dell'animo che un esercizio stilistico (parlo di momenti diversi eh, non di modi migliori o peggiori di scrivere una poesia. Voglio dire che nel momento in cui è nata non mi sono soffermato molto sulla forma e poi mi è piaciuta così. Detto questo, io amo anche gli esercizi stilistici e anche considerare le diverse possibilità, specie se molto intriganti come la tua) è legata spesso a un momento e a un contesto specifico, e per questo forse anche a una forma specifica, cioè la veste in cui ha visto la luce.",
+                "Ehi, sto cominciando a considerare la forma grafica, così mi rovini il disegno eh, ahahah.",
+                "Scherzo, ovviamente. Grazie del passaggio molto gradito e molto proficuo, come sempre. Ciao Ang"
+            ],
+            "timestamp": "2019-09-23T05:57:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44579-minuti-nel-tempo//?do=findComment&comment=788848"
         }
     ],
     "post_staff": [
