@@ -45,7 +45,7 @@
     },
     "num_chars": 9551,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 788925,
@@ -56,6 +56,17 @@
             ],
             "timestamp": "2019-09-23T13:48:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788925"
+        },
+        {
+            "post_id": 788947,
+            "text": [
+                "Grazie",
+                "Sì, ho fatto delle aggiunte non rendendomi conto di aver superato il limite.",
+                "Mi affido alla decisione della \"Corte\".",
+                "Grazie e scusate ancora."
+            ],
+            "timestamp": "2019-09-23T16:07:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788947"
         }
     ],
     "post_staff": [],
