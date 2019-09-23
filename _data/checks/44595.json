@@ -45,8 +45,19 @@
     },
     "num_chars": 9551,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 788925,
+            "text": [
+                "Chiedo scusa, mi accorgo ora che il racconto sfora (anche se di poco) gli 8000 caratteri.",
+                "Attendo istruzioni.",
+                "Grazie."
+            ],
+            "timestamp": "2019-09-23T13:48:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788925"
+        }
+    ],
     "post_staff": [],
     "text": [
         "E’ finita! Non ci posso credere, ce l’ho fatta! Credevo di svenire appena salito sul palco e invece sono vivo, eccomi, sono ancora qua! Cantare con Vasco al suo primo concerto a San Siro, di fronte a quasi sessantamila persone, è stata un’esperienza terrificante ma allo stesso tempo una carica di adrenalina talmente potente da farmi credere di poter benissimo sfondare nel mondo della musica nazionale e internazionale. Vasco mi dice che la voce c’è, la grinta a vagonate, ha riso di gusto per l’abbigliamento da “rocker in pensione” che ho scelto per l’occasione. Ha molto apprezzato l’apertura del concerto in cui mi ha lasciato da solo a cantare “Muoviti”. Terrore puro, mi sono cagato addosso ma è stato un delirio: mi ha rimproverato solo per la capriola finale. “Se ti spezzavi il collo, mi bloccavi il Fronte del Palco, non farlo mai più!” mi ha detto alla fine abbastanza seriamente. Addirittura mi ha lasciato solo su “C’è chi dice no”: il pubblico inizialmente ha disapprovato con una marea di fischi, alla fine del brano quasi ero il loro nuovo idolo, roba da non crederci!",
