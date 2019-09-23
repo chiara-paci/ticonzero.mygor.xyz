@@ -54,7 +54,7 @@
     },
     "num_chars": 2197,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 788423,
@@ -82,6 +82,15 @@
             ],
             "timestamp": "2019-09-21T12:38:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44561-il-funerale-incipit//?do=findComment&comment=788615"
+        },
+        {
+            "post_id": 788914,
+            "text": [
+                "Grazie per il commento.",
+                "la frase iniziale credo che la cambierò completamente, per collegarla alla situazione presente del protagonista e creare (spero) più curiosità. Sono comunque felice di sapere che almeno un po' inizia a coinvolgere"
+            ],
+            "timestamp": "2019-09-23T12:54:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44561-il-funerale-incipit//?do=findComment&comment=788914"
         }
     ],
     "post_staff": [],

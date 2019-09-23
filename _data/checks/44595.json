@@ -1,0 +1,75 @@
+{
+    "author": {
+        "author_id": 31680,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "DaniloV",
+        "url": "https://www.writersdream.org/forum/profile/31680-danilov/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 0.4033333333333333,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4033333333333333
+            },
+            "text": [
+                [
+                    "Tralasciando la ricerca di refusi e altro, trovo la scrittura molto scorrevole e asciutta. Se fosse un po' meno asciutta darebbe la possibilità di \"godere\" maggiormente dell'evolversi delle situazioni, comunque ben intrecciate.",
+                    "Mi sarebbe piaciuto sapere qualcosa in più del Dottor Rossi, soprattutto nella parte iniziale. Ma probabilmente l'autore ha deciso che possa bastare l'informazione, tragica, principale.",
+                    "Resta il fatto che si lascia leggere piacevolmente."
+                ]
+            ],
+            "timestamp": "2019-09-23T13:24:53Z",
+            "title": "la valigia gialla",
+            "url": "https://www.writersdream.org/forum/forums/topic/44484-la-valigia-gialla//?do=findComment&comment=788917",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 9551,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "E’ finita! Non ci posso credere, ce l’ho fatta! Credevo di svenire appena salito sul palco e invece sono vivo, eccomi, sono ancora qua! Cantare con Vasco al suo primo concerto a San Siro, di fronte a quasi sessantamila persone, è stata un’esperienza terrificante ma allo stesso tempo una carica di adrenalina talmente potente da farmi credere di poter benissimo sfondare nel mondo della musica nazionale e internazionale. Vasco mi dice che la voce c’è, la grinta a vagonate, ha riso di gusto per l’abbigliamento da “rocker in pensione” che ho scelto per l’occasione. Ha molto apprezzato l’apertura del concerto in cui mi ha lasciato da solo a cantare “Muoviti”. Terrore puro, mi sono cagato addosso ma è stato un delirio: mi ha rimproverato solo per la capriola finale. “Se ti spezzavi il collo, mi bloccavi il Fronte del Palco, non farlo mai più!” mi ha detto alla fine abbastanza seriamente. Addirittura mi ha lasciato solo su “C’è chi dice no”: il pubblico inizialmente ha disapprovato con una marea di fischi, alla fine del brano quasi ero il loro nuovo idolo, roba da non crederci!",
+        "Infatti, non ci credevo, mi ero appena svegliato ed era stato solo un sogno: cantare con Vasco Rossi a Milano, in quel 10 luglio 1990, era qualcosa che nemmeno un fan più accanito si sarebbe azzardato a pensare di sognare. Realistico come il sudore in cui stavo sguazzando, deprimente come l’incontro con gli imprenditori d’oltralpe che mi aspettava in ufficio e per il quale ero totalmente impreparato. Anche per il concerto non ero pronto, poi guarda che ovazione mi hanno tributato, pensai; pur sapendo che difficilmente avrei visto i colleghi in piedi ad applaudirmi in sala riunioni. Mi attivai e mi tuffai nella giornata, ripensando però spesso al sogno così nitido, bello: ricordavo in ogni singolo dettaglio. Gli impegni ebbero il sopravvento sui pensieri e la giornata decollò sulla solita pista della frenesia.",
+        "Mancano undici minuti alla fine e con la coda dell’occhio mi accorgo che il Mister lancia occhiate in panchina verso di me. Evito assolutamente di incrociare il suo sguardo, per la stupida conclusione che, se si dovesse accorgere che lo guardo, non mi farebbe più entrare, ma soprattutto per il timore reverenziale che nutro nei confronti del Signor Azeglio Vicini, persona splendida prima che allenatore della Nazionale Italiana di calcio. Ho appena diciannove anni, sono stato convocato come una scommessa dal Mister, non senza polemiche; ma d’altronde in Italia le polemiche sul calcio sono all’ordine del giorno. In realtà, grazie all’esaltante finale di stagione col mio club, il Bari, che ho portato alla salvezza a suon di reti nelle ultime nove giornate, sono nel gruppo partecipante a questi Campionati Mondiali organizzati per di più in Italia. Mister Vicini mi fa un cenno, mi avvicino, lui è teso, io più di lui moltiplicato un milione: “Scaldati” mi fa, ed io inizio a scaldare un motore che in realtà è già fuori giri. Napoli, 3 luglio 1990, Stadio San Paolo, semifinale Italia – Argentina, siamo 1 – 1: pochi minuti ai supplementari e io faccio il mio esordio assoluto con la maglia azzurra addirittura contro Diego Armando Maradona, al posto di uno strepitoso Totò Schillaci che mi abbraccia e mi dice due parole che nemmeno sento. Non c’è tempo neanche per avere paura, Roberto (Donadoni ndr) mette un cross al bacio dalla fascia, ma io scivolo malamente a pochi millimetri dal colpo di testa vincente: le urla di disperazione della gente e dei miei compagni quasi mi sfondano il cranio. Passano due minuti e Roby (Baggio ndr) mi serve un assist dei suoi, magico. Devo solo spingere la palla in rete, addirittura dribblo Goycochea e segno il gol del 2 a 1 in un tripudio di gioia, fuochi d’artificio, abbracci e lacrime che ci portano verso la finale dei Mondiali a Roma contro Germania o Inghilterra che se la stanno ancora giocando ai supplementari.",
+        "- Germania o Inghilterra? Berlino o Londra per il prossimo ponte di novembre? – Era la voce squillante e interrogativa di mia moglie, che non si era accorta del mio sonno profondo sul divano, nel dopo pranzo di una classica domenica autunnale in famiglia.",
+        "- “Germania, Germania, Germania!” risposi istintivamente ancora stordito dal torpore, ma, soprattutto, stupito ancora dal sogno così nitido ma terminato malamente. Avessi giocato almeno la finale, pensai sconsolato.",
+        "- “Ok, Berlino, va benissimo! Non c’è bisogno di gridarlo tre volte!” rispose quasi seccata mia moglie.",
+        "“No, è che dormivo, mi sono svegliato di soprassalto, non avevo capito...” quasi mi giustificai, farfugliando le ultime parole.",
+        "Non raccontai nulla del sogno, anzi, dei sogni, né a mia moglie né a nessun altro, anche se questa cosa cominciava a pesarmi un bel po’. La settimana prima per tre notti, in sequenza temporale, avevo sognato: la cerimonia della consegna degli Oscar del 27 marzo 1995 a Los Angeles, in cui conducevo la serata insieme a David Letterman e addirittura premiavo Tom Hanks come migliore attore per Forrest Gump; la mia partecipazione al Pavarotti & Friends del 13 settembre 1994 a Bologna, in cui cantavo strepitosamente \"Nessun Dorma\" insieme al maestro, con relativa standing ovation finale; infine a giugno 1997 ero nel famoso video musicale di \"Bitter Sweet Symphony\" dei The Verve, in cui mi trovai quasi alle mani con il cantante Richard Ashcroft perché non prendevo bene una delle sue spallate, come da sceneggiatura.",
+        "Le sensazioni che mi restavano dopo questi sogni iniziavano a interferire con la mia vita privata, mi facevano sentire nervoso ed insoddisfatto di qualsiasi cosa. Temevo di addormentarmi, non era certamente una situazione piacevole, così decisi che, se ci fosse stato un altro episodio, sarei corso ai ripari iniziando a indagare con l’aiuto di eventuali specialisti.",
+        "E’ il 15 giugno del 1996, siamo finalmente a New York, al Madison Square Garden. Finalmente ho la visibilità che mi sono meritato vincendo tutti gli incontri possibili: Mike Tyson ha deciso di sfidare proprio me, lo “Stallone Pugliese”, in occasione del suo rientro dopo i suoi noti guai giudiziari. Mi sono allenato benissimo, Mickey inizialmente diceva che non avrei dovuto combattere contro quella furia, ma ora è convinto anche lui che disputerò un grandissimo incontro. Siamo ai nostri rispettivi angoli, guardo Tyson col mio sguardo più feroce, lui non ne sembra particolarmente impressionato: come al solito me la sto facendo sotto prima di un grande appuntamento, ma so che lotterò alla grande e batterò anche “Iron Mike”. Ne sono certo! La campana ci avvisa che si può partire, ci sfioriamo i guantoni in segno di rispetto, Mike fa due passi in avanti, me lo trovo dinanzi spaventosamente imponente, fa appena una finta e subito rispondo con la cosa migliore e più saggia che si potesse fare in quel momento: neanche sfiorato mi tuffo a terra, mi abbraccio al tappeto e chiudo gli occhi. Come si fa a combattere contro questo qui? – penso mentre sento il boato di disapprovazione del “Madison”.",
+        "- Ho vinto, ho vinto! Sono il campione! - Ripeteva l’avversario in un sorprendente italiano. Mi compiacevo che l’incontro fosse già finito, salvo poi rendermi conto che mio figlio stava giocando a lotta libera e mi era saltato addosso mentre dormivo, svegliandomi da uno di quei sogni ancora una volta limpidi quanto ormai persecutori. Decisi che poteva bastare: chiamai un collega per avvisare che non sarei andato in ufficio quella mattina, accompagnai mio figlio a scuola, poi tornai nuovamente a casa e raccontai tutto a mia moglie. Insieme decidemmo di andare dal nostro medico curante per capire come affrontare quello che ormai era diventato un vero problema.",
+        "Il dottor Rossi, carissimo amico di famiglia, ascoltò tutto molto attentamente, prese molti appunti sul suo taccuino, poi, quando terminai di raccontare tutte le mie vicissitudini, enunciò la sua chiarissima diagnosi:",
+        "- Carissimo, questo è un diffusissimo caso di cui non preoccuparsi eccessivamente: si tratta semplicemente di “Novantite”! – fece una pausa quasi teatrale poi riprese con slancio.",
+        "- Prima che possiate chiedermelo, vi dico che è un’infiammazione, di origine presumibilmente anche di natura nostalgica, ad una parte del “magazzino del cervello”, chiamiamolo volgarmente così. In questo caso ha colpito la parte riguardante gli anni ’90, da qui il nome, sfasando i ricordi legati a quegli anni e ponendo il soggetto colpito nella condizione di riviverli, addirittura da protagonista, mischiandoli con la propria realtà. Insomma nulla di grave, un paio di compresse al giorno per tre settimane e tutto tornerà nella norma! Scompariranno quei sogni dopo che ricordi, sogni e realtà saranno tornati ai loro posti – concluse il Dottore.",
+        "Io e mia moglie, finalmente risollevati, uscimmo dallo studio: con la prescrizione saremmo andati subito in farmacia, perché volevo iniziare quanto prima la cura. Un particolare, apparentemente insignificante, attirò la mia attenzione: il Dottore aveva probabilmente fatto cambiare la targa sulla porta ma con grande stupore lessi che sotto il nome era scritto “Pediatrician”. Come poteva essere? Scoprivamo solo in quel momento che il nostro medico era un pediatra? E perché la scritta in inglese? Mi avvicinai meglio alla targa e lessi ad alta voce, scandendo bene: “ Dr. Douglas Ross – Pediatrician ”.",
+        "Mia moglie esplose in una risata fragorosissima, poi aggiunse: - Ma come? Ci curiamo da Doug Ross, alias George Clooney, di E.R. – Medici in prima Linea e non ne abbiamo mai saputo nulla? Ed è pure un pediatra!",
+        "Scoppiò nuovamente a ridere, ed io con lei.",
+        "Era successo ancora."
+    ],
+    "timestamp": "2019-09-23T13:42:16Z",
+    "title": "La \"Novantite\"",
+    "topic_id": 44595,
+    "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite/"
+}
