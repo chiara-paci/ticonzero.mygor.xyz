@@ -104,7 +104,7 @@
     },
     "num_chars": 12468,
     "num_commenti": 2,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 788050,
@@ -146,6 +146,17 @@
             ],
             "timestamp": "2019-09-19T09:28:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788314"
+        },
+        {
+            "post_id": 788980,
+            "text": [
+                "e scusate il ritardo con cui vi rispondo; vi ho letto subito, ma in quel momento non potevo rispondere e, pressato da altri impegni, stavo quasi per dimenticarmene.",
+                "Non litigate per trovare significati reconditi nel mio raccontino : nasce in realtà da una riflessione, che diventa una frase di Leo:",
+                "Come altri tre o quattro racconti del genere che ho scritto in vita mia, e che molto pomposamente definisco \"filosofici\", mi muovo attorno a un'idea (il destino, il senso della vita e simili) e attorno a quella costruisco una storia che non ha alcuna pretesa di mettere ko il lettore. Sono semplici cornici per inquadrare domande a cui non ho risposta e di conseguenza non posso offrire colpi di scena e/o finali a effetto, semmai soltanto qualche spunto di riflessione.",
+                "Grazie per il vostro tempo e per la vostra lettura attenta e partecipe."
+            ],
+            "timestamp": "2019-09-23T21:44:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788980"
         }
     ],
     "post_staff": [
@@ -204,6 +215,22 @@
             ],
             "timestamp": "2019-09-19T09:28:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788314"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 788980,
+            "text": [
+                "e scusate il ritardo con cui vi rispondo; vi ho letto subito, ma in quel momento non potevo rispondere e, pressato da altri impegni, stavo quasi per dimenticarmene.",
+                "Non litigate per trovare significati reconditi nel mio raccontino : nasce in realtà da una riflessione, che diventa una frase di Leo:",
+                "Come altri tre o quattro racconti del genere che ho scritto in vita mia, e che molto pomposamente definisco \"filosofici\", mi muovo attorno a un'idea (il destino, il senso della vita e simili) e attorno a quella costruisco una storia che non ha alcuna pretesa di mettere ko il lettore. Sono semplici cornici per inquadrare domande a cui non ho risposta e di conseguenza non posso offrire colpi di scena e/o finali a effetto, semmai soltanto qualche spunto di riflessione.",
+                "Grazie per il vostro tempo e per la vostra lettura attenta e partecipe."
+            ],
+            "timestamp": "2019-09-23T21:44:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788980"
         }
     ],
     "text": [
