@@ -48,8 +48,18 @@
     },
     "num_chars": 261,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 788988,
+            "text": [
+                "Una bella ispirazione la tua, , in qualche modo complementare alla mia.",
+                "Mi hai letto nel pensiero: infastidiva anche me l'incoerenza con il precedente passato remoto, ma ripresentarlo anche nell'inciso appesantiva. Hai ragione: l'eliminazione non sacrifica il senso. Grazie mille, , sono felice ti sia piaciuta."
+            ],
+            "timestamp": "2019-09-24T06:33:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=788988"
+        }
+    ],
     "post_staff": [
         {
             "author": {

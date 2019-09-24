@@ -11,12 +11,12 @@
         "url": "https://www.writersdream.org/forum/profile/31680-danilov/"
     },
     "checks": {
-        "num_chars": false,
-        "timestamp": true,
-        "valid": 0.4033333333333333,
-        "weight": true
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.20166666666666666,
+        "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -37,11 +37,11 @@
         }
     ],
     "commenti_weight": 1,
-    "expected_weight": 1,
+    "expected_weight": 2,
     "forum": {
-        "forum_id": 27,
-        "title": "Racconti",
-        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9551,
     "num_commenti": 1,
