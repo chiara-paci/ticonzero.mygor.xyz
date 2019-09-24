@@ -104,7 +104,7 @@
     },
     "num_chars": 12468,
     "num_commenti": 2,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 788050,
@@ -157,6 +157,20 @@
             ],
             "timestamp": "2019-09-23T21:44:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788980"
+        },
+        {
+            "post_id": 789113,
+            "text": [
+                "grazie di , sono felice che ti sia piaciuto!",
+                "Un paragone da nulla... Grazie anche solo per averlo pensato!",
+                "A questo sinceramente non avevo pensato: dici davvero che si confondono?",
+                "Oh be', i nomi sono casuali: vedrò eventualmente di cambiarli (e li chiamò Mario e Dario ...)",
+                "hai pienamente ragione, qui interverrò",
+                "bella idea: il lettore trova sempre qualcosa che l'autore non sapeva di aver messo",
+                "Utilissima, grazie infinite"
+            ],
+            "timestamp": "2019-09-24T21:47:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=789113"
         }
     ],
     "post_staff": [
@@ -231,6 +245,25 @@
             ],
             "timestamp": "2019-09-23T21:44:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=788980"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 789113,
+            "text": [
+                "grazie di , sono felice che ti sia piaciuto!",
+                "Un paragone da nulla... Grazie anche solo per averlo pensato!",
+                "A questo sinceramente non avevo pensato: dici davvero che si confondono?",
+                "Oh be', i nomi sono casuali: vedrò eventualmente di cambiarli (e li chiamò Mario e Dario ...)",
+                "hai pienamente ragione, qui interverrò",
+                "bella idea: il lettore trova sempre qualcosa che l'autore non sapeva di aver messo",
+                "Utilissima, grazie infinite"
+            ],
+            "timestamp": "2019-09-24T21:47:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44539-leo//?do=findComment&comment=789113"
         }
     ],
     "text": [
