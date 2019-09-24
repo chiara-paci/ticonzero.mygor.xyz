@@ -43,8 +43,26 @@
     },
     "num_chars": 3354,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 789036,
+            "text": [
+                "grazie per l'attenzione. Sono contento il racconto ti sia piaciuto. Quella della mamma è proprio un'esortazione, come a dire: proprio perché ti manca l'affetto di nonna vuol dire che quell'affetto era una cosa preziosa e le cose preziose è bene condividerle. Immagino che la mamma con questa domanda di esortazione miri proprio a fare crescere emotivamente il figlio, aiutandolo a superare l'egoismo istintivo e naturale in una situazione del genere. Per quanto al silenzio della mamma nel passaggio citato, non è certo morta anche lei! Soltanto, la immagino per un momento venir meno alla forza d'animo fino a quel momento manifestata, proprio per le parole del suo bambino. Quella che è morta, infatti, oltre che nonna, era madre, sua madre, manca anche a lei: anche lei vorrebbe poter riabbracciare la madre/nonna.",
+                "Grazie ancora per l'attenzione."
+            ],
+            "timestamp": "2019-09-24T11:40:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44590-lodore-di-nonna//?do=findComment&comment=789036"
+        },
+        {
+            "post_id": 789043,
+            "text": [
+                "grazie per queste tue parole."
+            ],
+            "timestamp": "2019-09-24T12:56:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44590-lodore-di-nonna//?do=findComment&comment=789043"
+        }
+    ],
     "post_staff": [],
     "text": [
         "- Mamma, dov'è nonna?",

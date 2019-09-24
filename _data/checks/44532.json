@@ -51,7 +51,7 @@
     },
     "num_chars": 1288,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 788018,
@@ -95,6 +95,16 @@
             ],
             "timestamp": "2019-09-17T21:13:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=788132"
+        },
+        {
+            "post_id": 789034,
+            "text": [
+                "ciao,",
+                "non c’è ombra di dubbio che vada riscritto rielaborato corretto e anche continuato, in modo da far capire meglio anche la voce ‘narrante’ : chi è e cosa va a vedere il ‘suo sguardo’",
+                "Grazie del tuo passaggio e di tutte le preziose informazioni"
+            ],
+            "timestamp": "2019-09-24T11:20:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=789034"
         }
     ],
     "post_staff": [

@@ -12,13 +12,39 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace molto la resa del discorso diretto, senza presenza del narratore, dove a spiegarti la situazione sono solo le parole del bambino.",
+                    "L'argomento ovviamente non è originale e forse è proprio questo che lo rende funzionale: chiunque abbia perso una persona cara ha provato la sensazione dell'odore che svanisce e, soprattutto se eravamo piccoli quando l'abbiamo persa, ci siamo sentiti fare discorsi simili (o peggio abbiamo dovuto farli).",
+                    "A quel tempo non c'era un narratore onnisciente che parlava sotto. Non sentivi altro che l'odore e la voce di un adulto che cercava di spiegarti quella verità.",
+                    "Insomma ho fatto tanti giri di parole per dire che ho dovuto leggerlo in due tempi perché mi commuovevo.",
+                    "L'unica frase che mi è parso stonasse un po' è",
+                    "Probabilmente una prima risposta sarebbe stata un egoistico \"Sì\" tipico dei bambini, anche se lo immagino con un broncetto che dice la stessa cosa nel suo silenzio.",
+                    "Mannaggia alla mamma e al suo modo di eludere i discorsi, tipico degli adulti!",
+                    "Non ho detto di volerli tenere tutti per me, solo che vorrei abbracciarla, perbacco!",
+                    "Domanda... perché questo silenzio? mi è sorto quasi il dubbio che fosse morta anche la mamma. 'Sta roba è peggio di Bambi",
+                    "Nel complesso è molto scorrevole, ben scritto e, almeno nel mio caso, direi che tocca le corde giuste.",
+                    "Complimenti."
+                ]
+            ],
+            "timestamp": "2019-09-24T10:25:41Z",
+            "title": "L'odore di nonna",
+            "url": "https://www.writersdream.org/forum/forums/topic/44590-lodore-di-nonna//?do=findComment&comment=789028",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +52,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 4188,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
