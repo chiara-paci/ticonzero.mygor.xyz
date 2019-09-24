@@ -46,8 +46,17 @@
     },
     "num_chars": 1064,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789116,
+            "text": [
+                "Ti ringrazio tanto per il passaggio, davvero: è sempre importante, soprattutto a quest'età, capire cosa pensino gli altri dei propri testi. Credo sia interessante quello che hai recepito, perché in un punto va contro quello che pensavo io mentre la scrivevo, ed è questo il bello della poesia: la polifonia semantica, che non svilisce, bensì arricchisce lo scritto. Chissà. Grazie!"
+            ],
+            "timestamp": "2019-09-24T22:20:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44438-non-mi-appartengo//?do=findComment&comment=789116"
+        }
+    ],
     "post_staff": [],
     "text": [
         "[Tornare a imbastire versi è sempre difficile, ma bisogna farlo, anche se l'università e la vita ci portano verso strade che non hanno nulla a che vedere con la scrittura. Piccola informazione: Non mi appartengo chiude la prima raccolta ed è un po' il sunto di quest'ultimo anno di liriche stracciate. Poi sono arrivati gli osteoclasti, la peristalsi e altro, ma questa è un'altra storia. La poesia, comunque, è già stata pubblicata in altre sedi. Buona giornata a tutti!]",
