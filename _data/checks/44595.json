@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.20166666666666666,
-        "weight": false
+        "valid": 0.6305555555555555,
+        "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -34,9 +34,29 @@
             "title": "la valigia gialla",
             "url": "https://www.writersdream.org/forum/forums/topic/44484-la-valigia-gialla//?do=findComment&comment=788917",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.8577777777777778
+            },
+            "text": [
+                [
+                    "Ciao vado subito al dunque e parto subito con le note positive:",
+                    "- trovo molto accattivante il tuo modo di scrivere;",
+                    "- mi piace la caratterizzazione che fai del gruppo delle amiche prima, e di Dino e Ketty successivamente;",
+                    "- la storia non stanca, si fa leggere volentieri ma qui torno probabilmente al primo punto.",
+                    "Le cose che invece mi hanno convinto di meno sono le seguenti:",
+                    "la trama non è originalissima, mi sembra (seppure piacevolmente) di aver letto qualcosa di già noto; il titolo lascia presagire già che qualcuno volerà in cielo. Forse la cosa è voluta, o forse no, personalmente avrei lasciato più suspense e creato un colpo di scena diverso, dando magari una possibilità in più ad una delle ragazze...Ovviamente qui entriamo nel merito delle opinioni. Resta il fatto che, ribadisco, la lettura è scorrevole e sicuramente avrai modo di confermarlo con altri racconti."
+                ]
+            ],
+            "timestamp": "2019-09-24T15:20:39Z",
+            "title": "Il sorriso degli angeli",
+            "url": "https://www.writersdream.org/forum/forums/topic/44585-il-sorriso-degli-angeli//?do=findComment&comment=789063",
+            "weight": 2
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 3,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -44,8 +64,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9551,
-    "num_commenti": 1,
-    "num_posts": 5,
+    "num_commenti": 2,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 788925,
@@ -82,6 +102,17 @@
             ],
             "timestamp": "2019-09-24T06:59:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788991"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 789101,
+            "text": [],
+            "timestamp": "2019-09-24T21:10:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=789101"
         }
     ],
     "text": [
