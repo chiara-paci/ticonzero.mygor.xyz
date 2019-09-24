@@ -63,8 +63,33 @@
     },
     "num_chars": 1821,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 789073,
+            "text": [
+                "grazie, cara . Sono contenta che non si scopra immediatamente il ruolo del mio protagonista.",
+                "Solo questa frase mi lascia qualche perplessità.",
+                "Ti riferisci a questa:",
+                "Voglio dire che il territorio in cui si trova a districarsi il nostro spermatozoo è come un percorso ad ostacoli. A volte lo blocca, oppure lo avviluppa in un filamento elastico, il quale però non lo trattiene a lungo perché il nostro eroe è velocissimo.",
+                "Descrivi benissimo un momento fondamentale della vita, purtroppo spesso banalizzato.",
+                "Ti auguro una buona continuazione",
+                "Floriana",
+                "Hai scelto le parole giuste anche per chiudere. Ti ringrazio tante del tuo passaggio e ti ho rivista volentieri. Alla prossima, cara Floriana"
+            ],
+            "timestamp": "2019-09-24T18:23:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789073"
+        },
+        {
+            "post_id": 789099,
+            "text": [
+                "Della serie: oltre l'erotico... di più... più in là",
+                "grazie"
+            ],
+            "timestamp": "2019-09-24T20:44:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789099"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Un viaggio determinante",
