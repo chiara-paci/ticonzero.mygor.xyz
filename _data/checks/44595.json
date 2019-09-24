@@ -45,7 +45,7 @@
     },
     "num_chars": 9551,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 788925,
@@ -69,7 +69,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788947"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 788991,
+            "text": [
+                "sposto in e chiudo, in attesa di un tuo commento a un racconto nella stessa sezione (che segnalerai via messaggio provato a me o a qualsiasi altro componente dello staff che trovi online)."
+            ],
+            "timestamp": "2019-09-24T06:59:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44595-la-novantite//?do=findComment&comment=788991"
+        }
+    ],
     "text": [
         "E’ finita! Non ci posso credere, ce l’ho fatta! Credevo di svenire appena salito sul palco e invece sono vivo, eccomi, sono ancora qua! Cantare con Vasco al suo primo concerto a San Siro, di fronte a quasi sessantamila persone, è stata un’esperienza terrificante ma allo stesso tempo una carica di adrenalina talmente potente da farmi credere di poter benissimo sfondare nel mondo della musica nazionale e internazionale. Vasco mi dice che la voce c’è, la grinta a vagonate, ha riso di gusto per l’abbigliamento da “rocker in pensione” che ho scelto per l’occasione. Ha molto apprezzato l’apertura del concerto in cui mi ha lasciato da solo a cantare “Muoviti”. Terrore puro, mi sono cagato addosso ma è stato un delirio: mi ha rimproverato solo per la capriola finale. “Se ti spezzavi il collo, mi bloccavi il Fronte del Palco, non farlo mai più!” mi ha detto alla fine abbastanza seriamente. Addirittura mi ha lasciato solo su “C’è chi dice no”: il pubblico inizialmente ha disapprovato con una marea di fischi, alla fine del brano quasi ero il loro nuovo idolo, roba da non crederci!",
         "Infatti, non ci credevo, mi ero appena svegliato ed era stato solo un sogno: cantare con Vasco Rossi a Milano, in quel 10 luglio 1990, era qualcosa che nemmeno un fan più accanito si sarebbe azzardato a pensare di sognare. Realistico come il sudore in cui stavo sguazzando, deprimente come l’incontro con gli imprenditori d’oltralpe che mi aspettava in ufficio e per il quale ero totalmente impreparato. Anche per il concerto non ero pronto, poi guarda che ovazione mi hanno tributato, pensai; pur sapendo che difficilmente avrei visto i colleghi in piedi ad applaudirmi in sala riunioni. Mi attivai e mi tuffai nella giornata, ripensando però spesso al sogno così nitido, bello: ricordavo in ogni singolo dettaglio. Gli impegni ebbero il sopravvento sui pensieri e la giornata decollò sulla solita pista della frenesia.",
