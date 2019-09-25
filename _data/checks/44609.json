@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 31680,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "DaniloV",
+        "url": "https://www.writersdream.org/forum/profile/31680-danilov/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5077777777777778,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5077777777777778
+            },
+            "text": [
+                [
+                    "Una \"poesia\" raccontata, questa è la mia prima impressione.",
+                    "Per capirne il significato ho dovuto leggere sino al punto in cui \"perde la coda\": lì mi si è accesa la lampadina e ho capito che non si narrava di una strana gara di auto o di moto d'acqua, su qualche pianeta sconosciuto.",
+                    "Originale come composizione e magistralmente condotta in porto.",
+                    "Forse, ma dico forse, si sarebbe potuto giocare un po' di più e \"allungare\" il percorso approfittando della fluidità di scrittura. Ma è una mia opinione, resta la brillantezza di una poetica cronaca d'altri tempi."
+                ]
+            ],
+            "timestamp": "2019-09-24T21:29:58Z",
+            "title": "Un viaggio determinante",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789108",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4923,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Marco è finalmente in vacanza con tutta la sua famiglia: mamma, papà e sorellina. Un’attesa lunga un anno e finalmente la gioia di poter rivedere il suo amatissimo Mare: “il Mediterraneo filmato da Salvatores e cantato da Mango coinvolge tutti e cinque i sensi, forse anche mezzo in più” ripete sempre suo nonno.",
+        "La Puglia, in particolare, è una regione che Marco ama tantissimo, non solo perché ci vivono i nonni, ma anche per il paesaggio e le acque cristalline che circondano un po’ tutta la regione. Per non parlare del cibo! Ogni anno si ritorna a casa con almeno cinque-sei chili in più, nonostante le corse in libertà per le campagne assolate.",
+        "Marco ha undici anni e nuota benissimo perché ha imparato molto presto a farlo. La piscina, nei freddi mesi piemontesi, gli sta molto stretta e questo è un altro motivo della sua attrazione viscerale verso il mare: la libertà di lunghe e bellissime nuotate dove mettere in pratica gli insegnamenti di un lungo inverno.",
+        "L’altro giorno gli è capitata una strana avventura, mentre gironzolava fiero con la sua canoa gonfiabile, avuta in dono per la promozione. I suoi genitori erano molto indecisi sulla possibilità di assecondare la richiesta del proprio figlioletto: alla fine ne hanno approvata la volontà, dando fiducia a un ragazzino che si è sempre mostrato molto responsabile.",
+        "Marco era poco distante dal litorale sabbioso quando ha iniziato a remare abbastanza vigorosamente, non accorgendosi della corrente che in pochi minuti lo aveva allontanato dalla costa. Si era trovato quasi subito in mare aperto: aveva cercato di mantenere la calma per provare a rientrare, ma si era accorto dell’impossibilità di riuscirci da solo. Così il panico aveva avuto la meglio e, tirati i remi in canoa, si era abbandonato alla corrente in preda alle lacrime.",
+        "Marco sentiva la disperazione togliergli ogni briciolo residuo di forze e capacità di ragionamento, ormai confondeva il sapore delle lacrime con l’acqua di mare. Mentre realizzava la portata della solitudine in mezzo al mare, aveva notato con la coda dell’occhio qualcosa che galleggiava poco distante da lui. Il \"qualcosa\" si muoveva e, man mano che gli si avvicinava, riscontrava aspetti umani. Ora aveva alzato un braccio, a Marco parve subito quello di un ragazzino, più o meno della sua età: poté notare che indossava solo un giubbetto di salvataggio arancione.",
+        "Erano ormai vicini, il ragazzino in mare alzò disperatamente un braccio, come se stesse sollevando la cosa più pesante al mondo. Si aggrappò istintivamente alla canoa di Marco, il quale sembrò quasi infastidito da questo gesto di invasione della sua proprietà. Si rese conto istantaneamente della stupidità del suo pensiero: erano in due, soli in mezzo al mare, e l’unica via d’uscita per entrambi era quella di restare uniti nella loro condizione di esseri umani in pericolo.",
+        "- Vieni qua! Aggrappati meglio alla canoa, su, ci sei! Dai! – disse subito Marco, cercando di tirare fuori, quanto più possibile, il corpo del ragazzino dall’acqua.",
+        "Poteva avere la sua stessa età, forse era anche più piccolo e aveva la pelle paurosamente raggrinzita.",
+        "- Puoi parlarmi? Mi Capisci? – chiedeva Marco al ragazzino che ora sembrava guardarlo. Aveva gli occhi vivaci, accecati dal sole, offuscati da un terrore ben visibile, ma vivi. Lo stesso terrore che sino a qualche minuto prima Marco aveva avuto modo di saggiare, e che ora sembrava aver lasciato il posto alla voglia di aiutare quel ragazzino.",
+        "- Come ti chiami? What is your name? – chiese Marco nel suo inglese genuinamente scolastico.",
+        "- .. Badu... Badu... BADU! – ripeté più volte il ragazzino, quasi a ribadire la voglia di aggrapparsi alla vita.",
+        "- Ciao Badu! Io sono Marco, ora siamo in due in pericolo, qualcuno verrà a cercarci, ne sono certo... lo spero...",
+        "La previsione di Marco non si rivelò sbagliata: passò solo una lunghissima mezzora, prima che potesse notare in lontananza una moto d’acqua, del servizio di salvataggio, che scortava un gommone della guardia costiera. Gli operatori Individuarono presto la canoa e si avvicinarono portando in salvo Marco e, con grande sorpresa, Badu.",
+        "Furono prestati i primi soccorsi a bordo: si scoprì poi che Badu era miracolosamente in mare da quasi quarantotto ore.",
+        "Marco trovò i suoi genitori e la sorellina in lacrime ad aspettarlo: si abbracciarono e furono momenti di grande emozione.",
+        "Badu non trovò nessuno, non si sapeva altro di lui, era sbucato dal nulla, partorito da un mare che aveva protetto lui e inghiottito i suoi ventisette compagni, padre incluso, di un viaggio disperato. Ora aveva un gemello, Marco, cui aveva sussurrato “thank you” con le ultime forze che gli erano rimaste.",
+        "Il Mediterraneo li aveva uniti e restituiti alla vita, le pratiche per l’affido sarebbero state lunghe e tortuose ma la mamma e il papà di Marco, noto politico anti-immigrazione, erano seriamente intenzionati a lasciare la Puglia solo con la certezza di poter ripartire in cinque."
+    ],
+    "timestamp": "2019-09-24T21:45:12Z",
+    "title": "Mediterraneo!",
+    "topic_id": 44609,
+    "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo/"
+}

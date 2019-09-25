@@ -63,7 +63,7 @@
     },
     "num_chars": 1821,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 789073,
@@ -88,6 +88,25 @@
             ],
             "timestamp": "2019-09-24T20:44:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789099"
+        },
+        {
+            "post_id": 789126,
+            "text": [
+                "La tua amica Annabella è una saggia.",
+                "Cara , sono lieta che ti sei spinta avanti nella lettura prima di capire che gara fosse: vuol dire che mi sono impegnata abbastanza per non farlo capire subito.",
+                "Grazie dei complimenti"
+            ],
+            "timestamp": "2019-09-25T06:23:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789126"
+        },
+        {
+            "post_id": 789127,
+            "text": [
+                "Caro , lieta di conoscerti. Io metto quasi sempre dei versi nei miei racconti. Qui non li ho messi, ma mi fa molto piacere che tu la trovi una \"poesia raccontata\". Abbinato al fatto che ci hai messo un po' a capire il contesto, è un gran bel complimento, che apprezzo molto.",
+                "Hai ragione sul fatto che potevo allungare un po' la descrizione del percorso: tra l'altro, ho scoperto che ci vogliono ore per vedere l'ovulo."
+            ],
+            "timestamp": "2019-09-25T06:27:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789127"
         }
     ],
     "post_staff": [],
