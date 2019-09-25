@@ -57,8 +57,52 @@
     },
     "num_chars": 7888,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 789227,
+            "text": [
+                "Ma va.",
+                "E' un complimento? Non ne sono così sicuro, ahahah",
+                "Quello che si dice un commento lampo, ma ti ringrazio per l'apprezzamento. A presto, Laura"
+            ],
+            "timestamp": "2019-09-25T18:35:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789227"
+        },
+        {
+            "post_id": 789229,
+            "text": [
+                "In effetti è sempre la dimensione che mi intriga di più.",
+                "Anche a me sembra abbastanza leggero. Per stare dentro i caratteri ho dovuto tagliare tutto ciò che non era indispensabile e che diversamente avrei lasciato. Eppure, me ne rendo conto ora, il racconto avrà perso qualche dettaglio, ma ci ha guadagnato in leggerezza.",
+                "sospeso, sì. Quello della nostra coscienza, che non ha tempo",
+                "Lo spero. Bellissima osservazione, la tua.",
+                "Sempre felice di incontrare l'apprezzamento di persone di buon gusto, come te e Laura. A presto, Del."
+            ],
+            "timestamp": "2019-09-25T18:47:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789229"
+        },
+        {
+            "post_id": 789231,
+            "text": [
+                "Giusto. Dovrò cambiare la battuta.",
+                "Rispondere con una domanda. Questo volevo dire, mannaggia a me. Grazie mille. Non è una scemenza, e tu segnala sempre eh, mi raccomando.",
+                "Poteva anche sforzarsi di più eh. Ecco perchè appena ho potuto mi sono sempre tenuto alla larga dai professori.",
+                "Grazie mille dell'apprezzamento. Bwv. A presto"
+            ],
+            "timestamp": "2019-09-25T18:57:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789231"
+        },
+        {
+            "post_id": 789236,
+            "text": [
+                "Be' sbagliato è una parola grossa. I genitori, come i figli, non possono essere diversi da ciò che sono, o almeno non dovrebbero. A volte i conflitti sono inevitabili, secondo me. Semmai la differenza si può fare nel modo in cui li si gestisce, no? E forse il nostro errore (intendo di adulti), se è un errore, è nel sottovalutare i bambini, nel pensare di essere sempre e comunque più avanti di loro.",
+                "Ho dovuto forzare la mia tendenza a ricadere nel reale, perché la battuta la pronunciava Edgardo, all'inizio. Mi chiedevo come fosse possibile che lei entrasse nella sua testa, oltretutto sognando, e completasse la sua frase. ma quando l'ho fatta pronunciare a lei non ho potuto più tornare indietro. Era giusto così, reale o non reale.",
+                "Grazie per l'apprezzamento, Poeta Zaza. A presto"
+            ],
+            "timestamp": "2019-09-25T19:15:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789236"
+        }
+    ],
     "post_staff": [],
     "text": [
         "È solo il giorno del tuo compleanno",
