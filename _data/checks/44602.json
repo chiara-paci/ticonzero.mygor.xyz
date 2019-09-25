@@ -64,8 +64,22 @@
     },
     "num_chars": 6004,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789135,
+            "text": [
+                "no, non ce l'ha, però è molto risentita e dopo questa esplosione non credo riuscirà a rimettere in equilibrio il suo sentire e a tornare a lavorare con le stesse persone",
+                "ho sbagliato, non so bene come ho fatto a non vederlo: in altre associazioni va al singolare, scusa",
+                "colpa del copia incolla e del fatto che questa volta non ho controlalto che niente si fosse scomposto",
+                "mmm, forse dovrebbe rimanere a discrezione del lettore, in fondo non è questo il tema centrale della storia... io intendevo un bacio, ma sono una frana per quanto riguarda scene del genere, non sapevo né come né cosa dire. Ogni consiglio è ben accetto. Tipo: questa pezzetto è troppo sdolcinato? È fuori luogo? O, al contrario, non si capisce niente, pnemmeno che finalmente si baciano? Si capisce durante tutta l'evoluzione dei capitoli che prima o poi si baceranno o è sorprendente?",
+                "certo che ti dà da pensare... è il rischio che si corre a pubblicare i capitoli senza aver finito di stendere tutto il testo, che ci possiamo fare? In ogni caso, i volontari di Mercy ora hanno un passato anche tra le righe di questo romanzo, compaiono qua e là fin dall'inizio, capisco che siano un po' un pugno in un occhio inseriti così, mi dispiace",
+                "Grazie di tutto, come sempre sei un occhio di falco dal cuore tenero... potrebbe diventare il tuo nome indiano"
+            ],
+            "timestamp": "2019-09-25T07:46:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44602-le-ragazze-capitolo-14-33//?do=findComment&comment=789135"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«Non potevamo lasciare che il loro capriccio o la noia, o quello che era non lo so, esponesse tutte», prosegue Roberto senza aver mai cambiato tono di voce o espressione. «Siamo stati costretti a lasciare comunque il rifugio che non era più tale».",

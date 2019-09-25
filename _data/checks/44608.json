@@ -1,0 +1,122 @@
+{
+    "author": {
+        "author_id": 33359,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Francesco121",
+        "url": "https://www.writersdream.org/forum/profile/33359-francesco121/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5608602150537635,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5608602150537635
+            },
+            "text": [
+                [
+                    "Ciao ottimo lavoro mi è piaciuta la prosa ma soprattutto i lessico che hai scelto. molto semplice. Parole dirette.",
+                    "Faccio alcune considerazioni. Avrei evitato ( ma è solo un gusto mio ) tutta la spiegazione sulla prostituzione in Russia o in Ecuador secondo me toglie spazio a pensieri o emozioni della protagonista che avresti potuto aggiungere in quel punto. Anche se il tuo intento è chiaro. Lei riflette sulle varie condizioni di quelle ragazze per arrivar al punto che dovunque si trovino fanno una vita di m. leggendo mi è sembrata troppo dettagliata."
+                ],
+                [
+                    "Prova per un attimo a rileggere questa frase sostituendo i due punti con il punto interrogativo."
+                ],
+                [
+                    "questa te la rubo prima o poi"
+                ],
+                [
+                    "Non andare a capo non serve utilizzeresti uno stile diverso dal resto del testo per una sola parola non ha senso avrebbe un impatto fastidioso anche visivo. Piuttosto prova per un attimo a rileggere sostituendo i puntini di sospensione al punto quando scrivi Casa la seconda volta",
+                    "Qui giusta la ripetizione. Dà forza al pensiero e come è scritto non rallenta la lettura. Con la prima a prima frase interrogativa lei regala una speranza a se stessa. Con la seconda si autocondanna definitivamente. La prima rafforza la seconda. Brava"
+                ]
+            ],
+            "timestamp": "2019-09-24T21:17:03Z",
+            "title": "Le ragazze - Capitolo 1 - 2/2",
+            "url": "https://www.writersdream.org/forum/forums/topic/43808-le-ragazze-capitolo-1-22//?do=findComment&comment=789103",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 5315,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Fermi tutti",
+        "- Nessuno si muova! Se restate dove siete nessuno si farà male!",
+        "Io non avrei mai sparato, ma, di certo, i signori con la calzamaglia in testa che erano appena entrati la pensavano in tutt’altra maniera. Stava andando tutto liscio, ma la rapina era l’imprevisto che non avevo calcolato.",
+        "- Dai nasone, metti i soldi qui dentro e non fare stronzate, così ce ne andiamo presto e vaffanculo a tutti.",
+        "Poverino, lo notano tutti quel suo difetto!",
+        "- Paolo, cazzo, dai… hai una pistola, fai qualcosa, porca miseria…",
+        "- Sssh! Ma sei matta? Non farti sentire. Non sono mica Clint Eastwood!",
+        "- E allora a cosa ti serve la pistola?",
+        "- L’ho trovata ieri. L'ho portata con me perché ho pensato mi avrebbe dato più sicurezza, ma in realtà non ne ho mai vista una e non so neanche come si tolga la sicura! Vedi? Se muovo il grilletto non succede niente e…",
+        "BAAANG!",
+        "- Oddio, ho sparato! Porca puttana ho sparato! Santo Dio c’è una ragazza a terra!",
+        "- Dai Claudio, scappa! Vieni via! Dai dai dai, che qua finisce male! Lascia perdere i soldi! Dai, filiamo!",
+        "Mai avuta tanta paura.",
+        "- Oddio ho ucciso una ragazza! Oddio ho sparato! Oddio ho sparato! Oddio ho ucciso una ragazza! No no no, cazzo! Nooo!... - Oddio ho ucciso una ragazza! Oddio ho sparato! Oddio ho sparato! Oddio ho ucciso una ragazza...",
+        "Sono andato avanti per almeno due minuti con quella litania. Poi per fortuna la mano di Chiara sulla spalla.",
+        "- Paolo, calmati. Stai tranquillo è solo svenuta. Tu hai colpito il lampadario. Sei stato fantastico. Invece guarda quel coniglio di Marco, è ancora sotto il tavolo. Sono stata una stupida a scriverti quelle cose. Dai, vieni qui e dammi un bacio.",
+        "- Vai via. Vai via, cazzo! Tutto ’sto casino per colpa tua! Stammi lontano. A momenti ammazzo qualcuno!...",
+        "E adesso chi sono questi capelloni?",
+        "Porca miseria... Ancora lui!",
+        "- Fermi tutti! Polizia. Restate tutti calmi e fermi! Nessuno esca! Ehi tu, metti per terra quella pistola e vieni qui con le mani in alto!",
+        "- Ma io…",
+        "- Fai quello che ti ho detto, non costringermi a sparare!",
+        "- No no no! Ecco qui, l’ho fatto, l’ho fatto. L’ho messa qui. Metto le mani sulla testa, ok?",
+        "- Bravo, ora avvicinati. Ma... ma io... io ti conosco! Sei quello della metro. La prossima volta che trovi una pistola è meglio che la porti in Questura. Non è un giocattolo, potevi fare del male a qualcuno!",
+        "Era riapparso. Riapparso di nuovo. Dal nulla. Come le due volte precedenti. Il maestro si era manifestato per la terza volta. Come la Madonna nell’ultima puntata de “I segreti di Fatima”!",
+        "Bastardo di un pulotto infiltrato!",
+        "- Ha ragione agente, mi scusi…",
+        "- Ispettore, grazie.",
+        "- Scusi ispettore! Scusi, davvero!",
+        "Poi l’ispettore, appunto, si è girato con autorità verso i suoi cugini di campagna!",
+        "- Va bene Puglisi, non stare lì impalato a guardarmi, iniziamo a fare qualcosa, dai, su. Forza ragazzi, animo! Prendete le deposizioni delle due ragazze lì in fondo, del cameriere, del tipo con il naso grosso lì al bancone e di questo qui sotto il tavolo.",
+        "Mentre il finto punk-vero poliziotto veniva verso di me, ho ripensato ad un articolo, letto non so dove, in cui spiegavano che il novanta per cento dei poliziotti di Milano sono della provincia di Lecce. Il cognome di quell’agente, ora, era una piccola conferma di quella tesi, forse.",
+        "- Invece tu...Veniamo a noi. Della pistola mi spiegherai dopo. Iniziamo con le formalità: cognome?",
+        "- Martini.",
+        "- Nome?",
+        "- Paolo.",
+        "- Sai che devo portarti in questura, vero?",
+        "- In realtà no, ma se lo dice lei sarà vero!",
+        "- Cosa fai, Martini, mi prendi per il culo?",
+        "- In realtà no, ma visto che ieri pomeriggio mi ha raccontato tutte quelle cazzate, “la fretta, la calma, il suicidio… Non so dove volare” eccetera, che “sua moglie che è morta”…",
+        "- Mia moglie è morta davvero. Leucemia acuta. A Taranto si muore! Quella davvero non è una storia!",
+        "In effetti, la mia figura di merda quotidiana non l’avevo ancora fatta. Era lì in agguato. Aspettava solo il momento giusto. Complimenti! Bravo, bis!",
+        "Pronta! Volevo sprofondare!",
+        "- Mi scusi ma...",
+        "- Va be’, va be’. Adesso fai attenzione…",
+        "Lo ascoltavo assorto. Guardandolo fisso, manco fossero le tette di una pornostar.",
+        "- Il tuo culo è il seguente: se c’è una cosa che un poliziotto non vorrebbe mai fare è un rapporto sul furto della propria pistola; devo dare mille spiegazioni, compilare moduli, minchiate, eccetera. Ti gira bene. Sei fortunato perchè hai la faccia da bravo ragazzo, un po’da pirla forse, ma bravo! Anzi, senza forse, visto che sei andato in giro sparando qua e là. Rimane il fatto che denunciarti non mi conviene. Voglio seguire il mio istinto, oggi. Ma occhio, che la prossima volta... Ci siamo capiti, vero Martini?",
+        "- Certo certo, grazie ispettore.",
+        "E così, Zenigada e la sua band se ne sono andati, e con loro anch’io.",
+        "Chiara mi ha guardato negli occhi un’ultima volta. Ma io avevo progettato una rivincita. Ok, c’era stato qualche piccolissimo cambiamento di programma, ma avevo il dovere di portarla a termine. L’ho squadrata dall’alto in basso. Mi sono girato verso uno dei camerieri.",
+        "- Ciao, ci si vede.",
+        "E, ignorandola, sono andato via alla grande. Da vincente.",
+        "Tristezza",
+        "Milano, 20 Maggio 2010, h 22:30.",
+        "- Capito che giornatina, oggi? La pistola non ce l’ho più, ormai ho deciso di cambiare. Va bene la faccia da schiaffi, ma ora mi sento un figo a tutti gli effetti!",
+        "- Sì, ma a me che cazzo me ne frega! E’ un quarto d’ora che aspetto ’ste patatine!"
+    ],
+    "timestamp": "2019-09-24T21:45:08Z",
+    "title": "L' accessorio  ultimo capitolo",
+    "topic_id": 44608,
+    "url": "https://www.writersdream.org/forum/forums/topic/44608-l-accessorio-ultimo-capitolo/"
+}
