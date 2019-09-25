@@ -63,7 +63,7 @@
     },
     "num_chars": 1821,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 789073,
@@ -107,6 +107,19 @@
             ],
             "timestamp": "2019-09-25T06:27:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789127"
+        },
+        {
+            "post_id": 789247,
+            "text": [
+                "Hai ragione su quella frase, e avevo avuto un sentore retrospettivo che non andasse bene, ma poi l'ho lasciata così.",
+                "Ti ringrazio dei complimenti. Pensa che mi sono studiata bene i passaggi su un video a cartoni animati su Youtube che spiegava tutto il percorso a ostacoli.",
+                "Prendevo appunti e imparavo: poi ho riassunto e allungato i concetti, e, laddove la scienza aveva spiegato con le sue parole razionali e rigorose, io le ho spruzzate",
+                "di poesia.",
+                "Gli albori della vita partono da una \"situazione tremendamente concreta\" come dici tu, ma sono, allo stesso tempo, un incipit poetico che ci spinge verso l'avventura unica e insostituibile della nostra esistenza sulla Terra.",
+                "Grazie del passaggio e delle tue parole, caro"
+            ],
+            "timestamp": "2019-09-25T19:46:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789247"
         }
     ],
     "post_staff": [],

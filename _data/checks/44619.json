@@ -1,0 +1,59 @@
+{
+    "author": {
+        "author_id": 33905,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Bedi",
+        "url": "https://www.writersdream.org/forum/profile/33905-bedi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 860,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 789255,
+            "text": [
+                "non hai inserito il link al commento; ho controllato: un commento lo hai fatto, ma non è assolutamente sufficiente per postare un racconto. Ti invito a leggere bene il regolamento; quando avrai fatto un commento regolare manda il link a uno staffer che vedi online e questi provvederà a riaprire il racconto.",
+                "Chiudo."
+            ],
+            "timestamp": "2019-09-25T20:34:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44619-the-lifeless-guy-prologo//?do=findComment&comment=789255"
+        }
+    ],
+    "text": [
+        "Cinquant'anni fa in una regione pacifica al sud nel Grande Continente, un esploratore di rovine scomparso ormai da anni raccontò di aver trovato una torre piena di ricchezze.",
+        "Vennero denominato dungeon e da quel giorno apparirono in tutto il mondo, la fama e le ricchezze attirarono migliaia di mercenari ma solo i prescelti avevano il privilegio di entrare. Coloro che si cimentavano nell'esplorazione dentro queste torri immense vennero chiamati poi avventurieri.",
+        "Con il passare degli anni la brama delle ricchezze nei dungeon divenne così radicata che iniziò a mutare lo stile di vita delle persone.",
+        "La storia si incentra su un bambino speciale, Keijy, nato schiavo nel regno di Trash che travolto da questa nuova era viene forzato ad entrare in un dungeon insieme ad altri 700 schiavi.",
+        "Lui dovrà sopravvivere senza sprecare l'oppurtunità data dai sui genitori."
+    ],
+    "timestamp": "2019-09-25T20:10:21Z",
+    "title": "The lifeless guy - Prologo",
+    "topic_id": 44619,
+    "url": "https://www.writersdream.org/forum/forums/topic/44619-the-lifeless-guy-prologo/"
+}
