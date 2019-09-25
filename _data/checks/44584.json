@@ -48,7 +48,7 @@
     },
     "num_chars": 261,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 788988,
@@ -58,6 +58,17 @@
             ],
             "timestamp": "2019-09-24T06:33:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=788988"
+        },
+        {
+            "post_id": 789157,
+            "text": [
+                "Ciao, .",
+                "I tuoi commenti sono sempre preziosi. Sono gemme che illuminano il senso, anche quello nascosto allo stesso autore. Hai compreso appieno sia la motivazione contingente,",
+                "sia l'intenzione profonda che costantemente mi preme dentro, e che non sempre riesce a prendere forma:",
+                "Ti ringrazio moltissimo e ti saluto."
+            ],
+            "timestamp": "2019-09-25T10:41:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=789157"
         }
     ],
     "post_staff": [
