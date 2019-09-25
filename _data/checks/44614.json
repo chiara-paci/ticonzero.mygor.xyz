@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,26 @@
     },
     "num_chars": 4892,
     "num_commenti": 0,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6048,
+                "name": "Black",
+                "url": "https://www.writersdream.org/forum/profile/6048-black/"
+            },
+            "post_id": 789203,
+            "text": [
+                "Intervento di Moderazione:",
+                "Come ti ha già spiegato la sempre solerte , è necessario commentare un altro testo prima di poter postare il proprio. Inoltre, in questa sezione vanno inseriti soltanto testi di lunghezza massima pari a 3500 caratteri.",
+                "Dopo aver scritto un commento adeguato (rispettando il nostro regolamento), mandamene il link tramite MP e riaprirò il topic nella sezione corretta.",
+                "Chiudo."
+            ],
+            "timestamp": "2019-09-25T15:19:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44614-resto-muto//?do=findComment&comment=789203"
+        }
+    ],
     "text": [
         "Elaborato(fine corso scrittura creativa) avente soggetto ambientazione dell'Amercica degli anni 30",
         "********",

@@ -51,7 +51,7 @@
     },
     "num_chars": 1288,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 788018,
@@ -105,6 +105,18 @@
             ],
             "timestamp": "2019-09-24T11:20:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=789034"
+        },
+        {
+            "post_id": 789201,
+            "text": [
+                "ciao,",
+                "Ecco, questa soluzione mi pare si avvicini in modo ottimale a quello che avrei voluto scrivere e forse è più corretto e non cadiamo in contestazioni.Si.",
+                "Ah ah... questa mi pare non me l'abbia detta nessuno, però me la porto a casa come incoraggiamento",
+                "Sei sempre molto gentile e illuminante.",
+                "Un abbraccio"
+            ],
+            "timestamp": "2019-09-25T15:18:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44532-il-circense//?do=findComment&comment=789201"
         }
     ],
     "post_staff": [

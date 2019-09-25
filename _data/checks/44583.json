@@ -47,7 +47,7 @@
     },
     "num_chars": 5457,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 788832,
@@ -56,6 +56,14 @@
             ],
             "timestamp": "2019-09-22T22:11:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=788832"
+        },
+        {
+            "post_id": 789184,
+            "text": [
+                "che dire, , intanto grazie per il tuo commento! Sono trascorsi 41 anni e sembrano 100 per la tecnologia, ma pochissimi per la voglia di viaggiare mai spenta!"
+            ],
+            "timestamp": "2019-09-25T13:56:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=789184"
         }
     ],
     "post_staff": [],
