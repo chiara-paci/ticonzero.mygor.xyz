@@ -46,8 +46,27 @@
     },
     "num_chars": 4923,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789156,
+            "text": [
+                "Ciao !",
+                "Grazie per l'attenta lettura. Manco da un po' di mesi effettivamente: torno per essere maltrattato un po'' e verificare se ci sia, o meno, un processo di crescita.",
+                "Scherzi a parte, scrivo anche altrove ma qui trovo commenti abbastanza obiettivi, indispensabili per tornare sulla terra.",
+                "Infatti mi hai subito castigato... e di questo te ne sono grato.",
+                "Hai ragionissima!",
+                "Sto lavorando sui superlativi e sugli avverbi: questo racconto l'ho scritto in pochi minuti ma avrei dovuto rileggerlo ancora. E soprattutto ad alta voce, consiglio ottimo.",
+                "E' il punto di vista del ragazzino: strana per lui, perché non è che capiti tutti i giorni una storia del genere... E' una forzatura, lo riconosco.",
+                "Sì, meglio.",
+                "Qui sono d'accordo a metà: da una parte avrei potuto ampliare il periodo ma mi sembrava una ripetizione di quanto detto prima. Potrei sviluppare il punto di vista dei familiari in attesa, forse questa sarebbe una possibile soluzione.",
+                "Grazie ancora per l'attenta lettura e soprattutto per i preziosi consigli.",
+                "A presto."
+            ],
+            "timestamp": "2019-09-25T10:33:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789156"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Marco è finalmente in vacanza con tutta la sua famiglia: mamma, papà e sorellina. Un’attesa lunga un anno e finalmente la gioia di poter rivedere il suo amatissimo Mare: “il Mediterraneo filmato da Salvatores e cantato da Mango coinvolge tutti e cinque i sensi, forse anche mezzo in più” ripete sempre suo nonno.",
