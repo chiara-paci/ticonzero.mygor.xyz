@@ -62,7 +62,7 @@
     },
     "num_chars": 12225,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 789060,
@@ -88,6 +88,16 @@
             ],
             "timestamp": "2019-09-24T15:38:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44585-il-sorriso-degli-angeli//?do=findComment&comment=789064"
+        },
+        {
+            "post_id": 789171,
+            "text": [
+                "Non posso che essere d’accordo con te. L’equIlibrio è assai difficile da trovare, e non solo nella scrittura. Esserne consapevoli, però, ti mette già sulla buona strada...",
+                "Grazie ancora.",
+                "A presto!"
+            ],
+            "timestamp": "2019-09-25T12:47:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44585-il-sorriso-degli-angeli//?do=findComment&comment=789171"
         }
     ],
     "post_staff": [],

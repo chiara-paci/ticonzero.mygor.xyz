@@ -88,8 +88,34 @@
     },
     "num_chars": 10556,
     "num_commenti": 2,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 789164,
+            "text": [
+                "Ciao",
+                "Mi dispiace che non ti sia piaciuto nulla nel mio racconto. Comunque apprezzo ugualmente il tuo intervento, in fin dei conti, le critiche fanno crescere. Una chiarifica:",
+                "A cosa ti riferisci? Allo stile o alla storia.",
+                "A ogni modo, spero di strapparti qualche apprezzamento in futuro, sempre se mi vorrai leggere.",
+                "A presto."
+            ],
+            "timestamp": "2019-09-25T11:38:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44497-il-padrone-del-nulla-l%E2%80%99incontro//?do=findComment&comment=789164"
+        },
+        {
+            "post_id": 789165,
+            "text": [
+                "Ciao",
+                "Grazie per essere passata, le tue parole mi hanno lasciato un sorriso.",
+                "Vorrei solo precisare il tema musica.",
+                "La musica è mia compagna quando scrivo, (non ringrazierò mai abbastanza Einaudi per le sue opere) spesso e volentieri alcuni pezzi mi parlano più di altri. Il postare il link è solo la condivisione di quel momento.",
+                "Ps: anche per me, da topo di biblioteca quale sono, l’odore di carta è il mio formaggio ☺️ .",
+                "A risentirci."
+            ],
+            "timestamp": "2019-09-25T12:13:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44497-il-padrone-del-nulla-l%E2%80%99incontro//?do=findComment&comment=789165"
+        }
+    ],
     "post_staff": [
         {
             "author": {
