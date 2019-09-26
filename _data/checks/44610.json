@@ -57,7 +57,7 @@
     },
     "num_chars": 7888,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 789227,
@@ -112,6 +112,29 @@
             ],
             "timestamp": "2019-09-26T17:04:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789358"
+        },
+        {
+            "post_id": 789369,
+            "text": [
+                "Felice che ti sia piaciuto.",
+                "Carina questa. Che soddisfazione! Ciao, Adelaide."
+            ],
+            "timestamp": "2019-09-26T18:03:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789369"
+        },
+        {
+            "post_id": 789374,
+            "text": [
+                "Ciao Flo. Grazie del passaggio. Rispondo agli interrogativi.",
+                "Sì. Le frasi sono consecutive, non c'è accapo. E' sottinteso che vale sempre il soggetto della prima. Non ce ne sono altri, nelle vicinanze.",
+                "Tutta la disquisizione di Holmes sul tempo si basa sull'ipotesi che la nostra coscienza sia statica. Cioè, in ogni momento della nostra vita c'è la nostra coscienza che assimila informazioni ed evolve rimanendo immobile, perché sia il passato alle spalle sia il futuro davanti non sono reali, sono una proiezione della nostra mente. Per questo la discutibile teoria di Holmes afferma che il tempo non esiste.",
+                "In base alla suddetta teoria, il tempo non esiste, e quindi non scorre,e quindi se abbiamo l'impressione che lo faccia, vuol dire che (il tempo) è bravo a darci questa impressione",
+                "MJ non è sposata con Edgardo. La voce narrante parla del suo primo matrimonio, finito quando sua figlia (di MJ e dell'ex marito) è stata uccisa nell'eccidio della Columbine High School",
+                "A me piacciono e le uso spesso nel contesto pseudo americano. La pronuncia naturalmente non è Emmegei, ma Emgei, più morbida.",
+                "Grazie del tuo tempo e dell'apprezzamento, Flo. Bravo due volte, fiori due volte. Ciao!"
+            ],
+            "timestamp": "2019-09-26T18:31:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789374"
         }
     ],
     "post_staff": [],
