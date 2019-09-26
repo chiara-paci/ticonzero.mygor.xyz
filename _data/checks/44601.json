@@ -63,7 +63,7 @@
     },
     "num_chars": 1821,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 789073,
@@ -120,6 +120,16 @@
             ],
             "timestamp": "2019-09-25T19:46:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789247"
+        },
+        {
+            "post_id": 789309,
+            "text": [
+                "Veramente, ho voluto raccontare l'inizio della vita, con lo spermatozoo vincente, tra milioni di spermatozoi, che arriva a fecondare l'ovulo. La nascita dell'embrione,",
+                "della vita,",
+                "L'opposto di quello che hai interpretato tu, sul moribondo. Ma chissà, forse un giorno faremo un percorso simile al rovescio, alla fine della vita..."
+            ],
+            "timestamp": "2019-09-26T12:14:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44601-un-viaggio-determinante//?do=findComment&comment=789309"
         }
     ],
     "post_staff": [],

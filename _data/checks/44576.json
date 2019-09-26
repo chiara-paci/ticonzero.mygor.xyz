@@ -50,7 +50,7 @@
     },
     "num_chars": 7858,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 788672,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-09-26T04:48:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44576-addio-ragazzo-dimensionale//?do=findComment&comment=789271"
+        },
+        {
+            "post_id": 789357,
+            "text": [
+                "Ciao ti ringrazio per il passaggio. Sicuramente non avevo la pretesa di essere originale, parlando di supereroi di questi tempi, speravo solo fosse apprezzato il taglio ironico. Il dialogo della ragazza risulta un po' monco perché è un endecasillabo, ma è qualcosa che non farò mai più. I tuoi appunti sono sicuramente molto utili, grazie mille!"
+            ],
+            "timestamp": "2019-09-26T17:03:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44576-addio-ragazzo-dimensionale//?do=findComment&comment=789357"
         }
     ],
     "post_staff": [],

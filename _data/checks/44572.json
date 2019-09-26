@@ -64,7 +64,7 @@
     },
     "num_chars": 5953,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 788612,
@@ -96,6 +96,27 @@
             ],
             "timestamp": "2019-09-21T12:25:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=788613"
+        },
+        {
+            "post_id": 789353,
+            "text": [
+                "Ciao , grazie per la visita e grazie per il commento, ed è un grazie ancora più grosso visto che sei presa da cose molto più impegnative.",
+                "Davvero felice che ti sia piaciuto."
+            ],
+            "timestamp": "2019-09-26T16:48:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=789353"
+        },
+        {
+            "post_id": 789354,
+            "text": [
+                "Grazie per il tempo che mi hai dedicato e per il commento. Come a volte accade, i lettori - un certo tipo di lettori, in vero - vedono cose che l'autore non ha proprio visto. In effetti non mi ero chiesto se le voci fossero vere e reali, oppure se fossero voci partorite dalla mente del protagonista.",
+                "Per me era una storia nata e sviluppata sul confine tra sogno e realtà.",
+                "O forse ero troppo occupato a scrivere, per pensare?",
+                "Dunque un grazie di cuore per avermi fatto vedere qualcosa che non avevo visto.",
+                "Hai ragione. Ci casco sempre !"
+            ],
+            "timestamp": "2019-09-26T16:55:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=789354"
         }
     ],
     "post_staff": [],
