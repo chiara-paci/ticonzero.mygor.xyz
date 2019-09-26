@@ -50,7 +50,7 @@
     },
     "num_chars": 7858,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 788672,
@@ -68,6 +68,14 @@
             ],
             "timestamp": "2019-09-25T15:08:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44576-addio-ragazzo-dimensionale//?do=findComment&comment=789199"
+        },
+        {
+            "post_id": 789271,
+            "text": [
+                "Ciao, sono contento il racconto ti sia piaciuto. In così breve e spazio è difficile approfondire le relazioni fra i personaggi, ma cercherò di fare meglio. Un saluto."
+            ],
+            "timestamp": "2019-09-26T04:48:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44576-addio-ragazzo-dimensionale//?do=findComment&comment=789271"
         }
     ],
     "post_staff": [],
