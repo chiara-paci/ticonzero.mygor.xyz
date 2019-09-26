@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.5077777777777778,
+        "valid": 0.5113186813186813,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.5077777777777778
+                "valid": 0.5113186813186813
             },
             "text": [
                 [
@@ -29,6 +29,10 @@
                     "Per capirne il significato ho dovuto leggere sino al punto in cui \"perde la coda\": lì mi si è accesa la lampadina e ho capito che non si narrava di una strana gara di auto o di moto d'acqua, su qualche pianeta sconosciuto.",
                     "Originale come composizione e magistralmente condotta in porto.",
                     "Forse, ma dico forse, si sarebbe potuto giocare un po' di più e \"allungare\" il percorso approfittando della fluidità di scrittura. Ma è una mia opinione, resta la brillantezza di una poetica cronaca d'altri tempi."
+                ],
+                [
+                    "E' un piacere!",
+                    "Le cose belle durano poco e leggere (questo racconto) è una di quelle"
                 ]
             ],
             "timestamp": "2019-09-24T21:29:58Z",
@@ -46,7 +50,7 @@
     },
     "num_chars": 4923,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 789156,
@@ -65,6 +69,14 @@
             ],
             "timestamp": "2019-09-25T10:33:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789156"
+        },
+        {
+            "post_id": 789299,
+            "text": [
+                "Grazie ! Onorato di avere ricevuto la tua visita."
+            ],
+            "timestamp": "2019-09-26T10:32:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789299"
         }
     ],
     "post_staff": [],
