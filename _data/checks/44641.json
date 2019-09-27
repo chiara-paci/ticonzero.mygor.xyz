@@ -1,0 +1,63 @@
+{
+    "author": {
+        "author_id": 30219,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ali_spiegate",
+        "url": "https://www.writersdream.org/forum/profile/30219-ali_spiegate/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8911111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8911111111111111
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "mi ha incuriosito questa tua poesia, si intravedeva già dalla grafica che nascondeva un qualcosa di poco convenzionale. Sono ahimè abituato alla poesia molto forte che lascia scompensi di emozioni e raramente mi capita di avere la stessa sensazione per eccessiva dolcezza, ed è questo il caso. Non entro nel merito del testo, di suggerimenti o come io imposterei il discorso, per il semplice fatto che io non saprei proprio descrivere un clima di così candido amore materno. Vorrei sottolineare giusto due punti: 1) credo che in assoluto il verso più intenso sia ‘che seduta in salotto riposa coi ricordi a metà’ , qui davvero ho immaginato tutto finanche la poltrona su cui la bisnonna siede. 2) un mini suggerimento lo ho: nella conclusione quando si introduce la speranza per la vita che sarà della nuova arrivata modificherei in ‘finché posso le mostro il MIO mondo’",
+                    "un caro saluto e a presto!"
+                ]
+            ],
+            "timestamp": "2019-09-27T18:04:02Z",
+            "title": "Si affaccia",
+            "url": "https://www.writersdream.org/forum/forums/topic/44553-si-affaccia//?do=findComment&comment=789511",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 141,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Volti stanchi",
+        "restano a guardare chi siamo.",
+        "Carni coperte da fili di seta",
+        "si avvolgono nei sogni.",
+        "Resta nuda la coscienza",
+        "nel freddo della verità."
+    ],
+    "timestamp": "2019-09-27T18:05:26Z",
+    "title": "Notte",
+    "topic_id": 44641,
+    "url": "https://www.writersdream.org/forum/forums/topic/44641-notte/"
+}
