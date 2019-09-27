@@ -47,8 +47,23 @@
     },
     "num_chars": 1931,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789507,
+            "text": [
+                "ciao!",
+                "Come, chi era il protagonista? Non ricordi?",
+                "Ero io... 😄",
+                "È un frammento di un racconto: se ti incuriosisce puoi sempre andare nella sezione \"racconti lunghi\" e leggere La \"Novantite\".",
+                "Attenta agli attacchi di nostalgia.",
+                "Grazie!",
+                "A presto"
+            ],
+            "timestamp": "2019-09-27T17:12:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44630-italia-90//?do=findComment&comment=789507"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mancano undici minuti alla fine quando mi accorgo che il Mister lancia occhiate in panchina verso di me. Evito assolutamente di incrociare i suoi occhi per la stupida conclusione che, se si dovesse accorgere che lo guardo, non mi farebbe più entrare, ma soprattutto per il timore reverenziale che nutro nei confronti del Signor Azeglio Vicini, persona splendida prima che allenatore della Nazionale Italiana di calcio.",
