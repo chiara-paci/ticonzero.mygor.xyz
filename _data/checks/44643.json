@@ -1,0 +1,69 @@
+{
+    "author": {
+        "author_id": 33896,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kasimiro",
+        "url": "https://www.writersdream.org/forum/profile/33896-kasimiro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2530,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento MI 128] Storia del professor De Grandi, il più grande genio di tutti i tempi",
+        "Da Edu, 9 giugno in Racconti",
+        "La foglia",
+        "C'era una foglia sempreverde, attaccata al suo solido ramo.",
+        "Non c'era stagione che la scalfiva, né grandine o bufera. Era stabile, bella e lucida, sempre appesa.",
+        "Di fianco c'era un altro albero, lo avevano portato con un camion, tutto impacchettato. Avevano fatto una grande fossa ed eretto lì, vicino al sempreverde.",
+        "Le foglie dei due erano molto simili ma differivano sensibilmente dal tronco: uno più grosso e rugoso, l'altro esile e liscio.",
+        "I due alberi erano così vicini che le chiome si compenetravano. Era primavera, erano rigogliosi, molto simili tra loro, tanto che le loro foglie non si distinguevano le une dalle altre.",
+        "Sembravano della stessa specie. La foglia sempreverde era in ottima compagnia, amava stare insieme alle altre. Ce n'era una, che presa dallo slancio della crescita gli si era appoggiata sopra: “Oh! scusa l'invadenza” disse.",
+        "“No, anzi, mi piace il contatto, e poi... sei leggerissima!”",
+        "“Sono nata da pochi giorni.”",
+        "“Posso fare qualcosa per te?”",
+        "“Già sostenermi mi dà sicurezza, posso rimanere qui?”",
+        "“Certo, sono dura e coriacea e ho più di cinquantanni, ti proteggerò. Da queste parti l'inverno è molto rigido.”",
+        "La neonata foglia rimase in silenzio.",
+        "“Tutto bene? Ho detto qualcosa che non va?”",
+        "“Assolutamente no, sei molto gentile. E' che... d'inverno, io non ci sono più!”",
+        "“Come?”",
+        "“Mi stacco dal ramo e divento concime per la terra”.",
+        "“Oh!”",
+        "“Niente di male, ritorno in primavera più bella e più forte. Il nostro albero d'inverno soffre il freddo e la carenza di luce. Per non disperdere troppe energie nel dare nutrimento a tutte le foglie, va in una specie di letargo. Noi ci sacrifichiamo volentieri cedendo la nostra clorofilla, di cui ha bisogno per sopravvivere.",
+        "“Quante cose sai per essere appena nata!”",
+        "“Siamo un tutt'uno con la pianta, che ha molti, molti anni...”",
+        "Le due foglie passarono uno splendido periodo una vicina all'altra, fino a quando la leggera fronda iniziò a cambiare colore: un verde più spento per poi passare ad un giallo sempre più intenso.",
+        "“E' arrivata la mia ora!” disse la giovane foglia.",
+        "Un colpo di vento... e si staccò, cadendo dolcemente poco distante.",
+        "Lentamente tutte le altre la seguirono adagiandosi sul terreno.",
+        "La grande foglia sempreverde le osservava, cercando di scorgere la sua amica mimetizzata in un tappeto caldo di fogliame.",
+        "“Per una pianta longeva come me, un l'inverno non è poi così lungo!” Pensava.",
+        "E rimase tranquilla ad aspettare una nuova primavera."
+    ],
+    "timestamp": "2019-09-27T23:12:17Z",
+    "title": "La foglia",
+    "topic_id": 44643,
+    "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia/"
+}
