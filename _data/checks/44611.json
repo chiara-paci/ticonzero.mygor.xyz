@@ -59,7 +59,7 @@
     },
     "num_chars": 7984,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 789275,
@@ -68,6 +68,16 @@
             ],
             "timestamp": "2019-09-26T05:20:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=789275"
+        },
+        {
+            "post_id": 789483,
+            "text": [
+                "Toh, questo racconto ha scomodato anche la mia collega , (se ti becca lo staff che hai commentato senza presentarti in officina... ) . Grazie Simo, sei sempre un tesoro.",
+                ", ma non si può essere così gentili con il nemico . Mi sono sciolta al tuo commento, ma grazie.",
+                "Useppe è rimasto nel cuore anche a me. Qui Antò è come lui, un semplice bambino."
+            ],
+            "timestamp": "2019-09-27T15:33:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=789483"
         }
     ],
     "post_staff": [],
