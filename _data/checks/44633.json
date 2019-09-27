@@ -51,8 +51,20 @@
     },
     "num_chars": 6327,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789530,
+            "text": [
+                "grazie infinite per esserti fermato a commentare. Ho capito perfettamente i tuoi dubbi, compreso la questione dello stuccare . Toglierò la virgola dopo guerre.",
+                "Dai contadini allo spazio c'è tutta la conquista delle donne in un arco temporale molto ampio, che però si rivela una falsa conquista se si ritrova a perdere tutto il resto. Ero partita da una canzoncina ironica cantata un secolo fa da Ombretta Colli che qualche giorno addietro mi batteva in testa.",
+                "Adesso vado a leggere il tuo.",
+                "Grazie ancora e alla prossima."
+            ],
+            "timestamp": "2019-09-27T20:32:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44633-la-facola-%C3%A8-finita//?do=findComment&comment=789530"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La Regina aveva governato sempre con saggia intelligenza. Con il Re perennemente lontano a condurre le sue guerre, per garantire il benessere al popolo, si sobbarcava ogni incombenza; applicava le leggi, amministrava le casse reali, si prendeva cura personalmente di ogni singolo suddito.",
