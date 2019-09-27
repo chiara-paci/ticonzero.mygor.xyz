@@ -54,7 +54,7 @@
     },
     "num_chars": 98,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 787789,
@@ -71,6 +71,14 @@
             ],
             "timestamp": "2019-09-22T20:32:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44491-fiches//?do=findComment&comment=788819"
+        },
+        {
+            "post_id": 789522,
+            "text": [
+                "Grazie. Questa tua interpretazione mi porta a considerare di eliminare l'ultimo verso (e il mio pessimismo) e renderla così più neutra, a beneficio del pH sensoriale soggettivo."
+            ],
+            "timestamp": "2019-09-27T19:20:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44491-fiches//?do=findComment&comment=789522"
         }
     ],
     "post_staff": [],
