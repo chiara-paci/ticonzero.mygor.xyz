@@ -1,0 +1,62 @@
+{
+    "author": {
+        "author_id": 31680,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "DaniloV",
+        "url": "https://www.writersdream.org/forum/profile/31680-danilov/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.19,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.19
+            },
+            "text": [
+                [
+                    "Bello.",
+                    "Sembrerebbe già un racconto finito, già parecchio significativo.",
+                    "Il tema è abbastanza diffuso, personalmente ritengo sia una cosa positiva: ognuno ha il suo modo di approcciarsi e trattare l'argomento.",
+                    "Ti chiedo se ci sia uno scritto completo da poter leggere.",
+                    "Grazie."
+                ]
+            ],
+            "timestamp": "2019-09-27T08:06:28Z",
+            "title": "Sulla spiaggia d'autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/43945-sulla-spiaggia-dautunno//?do=findComment&comment=789421",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1931,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Mancano undici minuti alla fine quando mi accorgo che il Mister lancia occhiate in panchina verso di me. Evito assolutamente di incrociare i suoi occhi per la stupida conclusione che, se si dovesse accorgere che lo guardo, non mi farebbe più entrare, ma soprattutto per il timore reverenziale che nutro nei confronti del Signor Azeglio Vicini, persona splendida prima che allenatore della Nazionale Italiana di calcio.",
+        "Ho appena diciannove anni, sono stato convocato come una scommessa dal Mister, non senza polemiche; d’altronde in Italia le polemiche sul calcio sono all’ordine del giorno. In realtà, grazie all’esaltante finale di stagione col mio club, il Bari, che ho portato alla salvezza a suon di reti nelle ultime nove giornate, sono nel gruppo partecipante a questi Campionati Mondiali organizzati in Italia. Mister Vicini mi fa un cenno, mi avvicino, lui è teso, io più di lui moltiplicato un milione: “Scaldati” mi fa, ed io inizio a scaldare un motore che in realtà è già fuori giri.",
+        "Napoli, 3 luglio 1990, Stadio San Paolo, semifinale Italia – Argentina, siamo 1 – 1: pochi minuti ai supplementari e io faccio il mio esordio assoluto con la maglia azzurra addirittura contro Diego Armando Maradona, al posto di uno strepitoso Totò Schillaci che mi abbraccia e mi dice due parole che nemmeno sento. Non c’è tempo neanche per avere paura, Roberto (Donadoni ndr) mette un cross al bacio dalla fascia, ma io scivolo malamente a pochi millimetri dal colpo di testa vincente: le urla di disperazione della gente e dei miei compagni quasi mi sfondano il cranio. Passano due minuti e Roby (Baggio ndr) mi serve un assist dei suoi, magico. Devo solo spingere la palla in rete, addirittura dribblo Goycochea e segno il gol del 2 a 1 in un tripudio di gioia, fuochi d’artificio, abbracci e lacrime che ci portano verso la finale dei Mondiali a Roma contro Germania o Inghilterra, che se la stanno ancora giocando ai supplementari."
+    ],
+    "timestamp": "2019-09-27T08:15:25Z",
+    "title": "Italia 90",
+    "topic_id": 44630,
+    "url": "https://www.writersdream.org/forum/forums/topic/44630-italia-90/"
+}
