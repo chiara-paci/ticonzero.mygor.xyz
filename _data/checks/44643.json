@@ -12,13 +12,33 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.7811111111111111,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7811111111111111
+            },
+            "text": [
+                [
+                    "@edu Ho letto con piacere questo racconto, di fila, incuriosito, appassionato. Di solito faccio fatica ad andare avanti nelle letture; sarà perchè sono pigro, ignorante o abituato a leggere e scrivere solo per bambini. Ho riscontrato una passione cosmologica, di impronta scientifica abbinata ad una strampalata, surreale, improvvisata descrizione degli eventi.",
+                    "Credo che per poter stravolgere e giocare con un tema, bisogna conoscerlo bene. E' questa la sensazione che mi hai trasmesso.",
+                    "C'è anche un nostalgico rimando alle mie origini pugliesi che mi fanno ritornare i sapori delle inimitabili mozzarelle (Gioa del Colle) e della semplicità e sensibilità di quella terra.",
+                    "Noto una buona padronanza nella scrittura e la capacità di stupire il lettore, che credo sia una delle migliori qualità.",
+                    "Complimenti."
+                ]
+            ],
+            "timestamp": "2019-09-27T23:01:40Z",
+            "title": "[MI 128] Storia del professor De Grandi, il più grande genio di tutti i tempi",
+            "url": "https://www.writersdream.org/forum/forums/topic/43488-mi-128-storia-del-professor-de-grandi-il-pi%C3%B9-grande-genio-di-tutti-i-tempi//?do=findComment&comment=789542",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,8 +46,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 2530,
-    "num_commenti": 0,
-    "num_posts": 3,
+    "num_commenti": 1,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 789561,
@@ -38,7 +58,23 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia//?do=findComment&comment=789561"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 789580,
+            "text": [
+                "ciao, passo solo per farti notare che non hai inserito il link al commento, ma il titolo del testo commentato. La prossima volta controlla di aver inserito il collegamento, così ci mettiamo di meno a controllare.",
+                "Così:",
+                "Grazie, ciao."
+            ],
+            "timestamp": "2019-09-28T12:23:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia//?do=findComment&comment=789580"
+        }
+    ],
     "text": [
         "Commento MI 128] Storia del professor De Grandi, il più grande genio di tutti i tempi",
         "Da Edu, 9 giugno in Racconti",

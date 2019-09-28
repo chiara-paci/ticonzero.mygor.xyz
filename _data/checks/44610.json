@@ -57,7 +57,7 @@
     },
     "num_chars": 7888,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 789227,
@@ -135,6 +135,16 @@
             ],
             "timestamp": "2019-09-26T18:31:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789374"
+        },
+        {
+            "post_id": 789563,
+            "text": [
+                "Ciao Luigi. E' un po' enigmatico come commento o sono io che questo sabato mattina ancora non connetto a dovere? Il racconto ti è sembrato confuso? Nella mia testa ha un significato, ma si sa che io sono annebbiato di natura. Che altro ti puoi aspettare da uno che vive in Val Padana?",
+                "Cosa intendi per saldatura?",
+                "Ricambio. Ciao"
+            ],
+            "timestamp": "2019-09-28T09:49:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789563"
         }
     ],
     "post_staff": [],
