@@ -52,7 +52,7 @@
     },
     "num_chars": 8019,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 786755,
@@ -123,6 +123,17 @@
             ],
             "timestamp": "2019-09-12T11:52:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=787467"
+        },
+        {
+            "post_id": 789499,
+            "text": [
+                "Bene. Anche perché per Leonard, in teoria, dovrebbe essere lo stesso. Non razionalizza il dolore, lo sente.",
+                "Anche a me piacciono quando le trovo, nei libri che leggo",
+                "No, è vero. Me lo hanno già fatto notare. Tagliare, tagliare, tagliare!",
+                "Grazie, sono contento che sei passata. Spero di risentirti anche nei capitoli successivi. Ciao"
+            ],
+            "timestamp": "2019-09-27T16:53:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44424-on-writing-4//?do=findComment&comment=789499"
         }
     ],
     "post_staff": [],

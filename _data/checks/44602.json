@@ -64,7 +64,7 @@
     },
     "num_chars": 6004,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 789135,
@@ -78,6 +78,19 @@
             ],
             "timestamp": "2019-09-25T07:46:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44602-le-ragazze-capitolo-14-33//?do=findComment&comment=789135"
+        },
+        {
+            "post_id": 789545,
+            "text": [
+                "Buongiorno cara",
+                "qui è corretto lo perché si riferisce al fatto che Simona è agitata non all'agitazione in sé",
+                "sì",
+                "dici? Non ci so affatto fare con questo tipo di scene, volevo cercare di essere il più stringata possibile, ma forse non ci sono riuscita",
+                "ma lui perché tonto? Quindi ti ricorda qualcosa di infantile, bisogna proprio che faccia esperienza con la scrittura romantica...",
+                "Grazie cara Flor del commento, mi è come sempre fonte di riflessione"
+            ],
+            "timestamp": "2019-09-28T07:25:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44602-le-ragazze-capitolo-14-33//?do=findComment&comment=789545"
         }
     ],
     "post_staff": [],
