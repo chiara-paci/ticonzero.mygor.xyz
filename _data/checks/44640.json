@@ -43,9 +43,24 @@
     },
     "num_chars": 4079,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 789583,
+            "text": [
+                "Ciao, . Passo solo per ricordarti che per pubblicare un racconto è necessario commentarne un altro in modo approfondito. Il tuo (pasticcio con i quote a parte: può capitare) è piuttosto scarno. Non ti chiudo la discussione perché vedo che è la prima volta che entri in Officina, ma la prossima volta sforzati un po’ di più, per favore.",
+                "Ciao."
+            ],
+            "timestamp": "2019-09-28T12:34:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789583"
+        }
+    ],
     "text": [
         "Premessa",
         "Se cominciassi con “era una notte di tempesta” probabilmente verrei tacciato di infantilismo letterario o di sterilismo : quantunque un romanzo possa nascere da fondali pittoreschi, è poco saggio principiare una storia con luoghi comuni.",

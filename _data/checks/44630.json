@@ -16,7 +16,7 @@
         "valid": 0.19,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -47,7 +47,7 @@
     },
     "num_chars": 1931,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 789507,
@@ -64,7 +64,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44630-italia-90//?do=findComment&comment=789507"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 789593,
+            "text": [
+                "purtroppo devo chiudere. Il commento che hai usato per pubblicare è davvero troppo scarno. Puoi mandare un messaggio privato a uno staffer online quando ne avrai fatto uno più approfondito. Allora riapriremo la discussione."
+            ],
+            "timestamp": "2019-09-28T13:10:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44630-italia-90//?do=findComment&comment=789593"
+        }
+    ],
     "text": [
         "Mancano undici minuti alla fine quando mi accorgo che il Mister lancia occhiate in panchina verso di me. Evito assolutamente di incrociare i suoi occhi per la stupida conclusione che, se si dovesse accorgere che lo guardo, non mi farebbe più entrare, ma soprattutto per il timore reverenziale che nutro nei confronti del Signor Azeglio Vicini, persona splendida prima che allenatore della Nazionale Italiana di calcio.",
         "Ho appena diciannove anni, sono stato convocato come una scommessa dal Mister, non senza polemiche; d’altronde in Italia le polemiche sul calcio sono all’ordine del giorno. In realtà, grazie all’esaltante finale di stagione col mio club, il Bari, che ho portato alla salvezza a suon di reti nelle ultime nove giornate, sono nel gruppo partecipante a questi Campionati Mondiali organizzati in Italia. Mister Vicini mi fa un cenno, mi avvicino, lui è teso, io più di lui moltiplicato un milione: “Scaldati” mi fa, ed io inizio a scaldare un motore che in realtà è già fuori giri.",

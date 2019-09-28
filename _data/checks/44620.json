@@ -47,8 +47,19 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 789600,
+            "text": [
+                "Ciao, grazie per aver letto e commentato il racconto. Naturalmente la vita di Gesù non è comica, ma io trovo che la premessa del racconto (il protagonista deve riuscire in un'impresa in apparenza insormontabile) sia comica, per questo l'ho taggato così, ma devo aver sbagliato.",
+                "Ciao, sono contento che il racconto ti sia piaciuto. Anche secondo me Floriana è un personaggio un po' eccentrico, ma, per come la ho intesa io, in senso positivo. Spero questo sia arrivato.",
+                "Alla prossima!"
+            ],
+            "timestamp": "2019-09-28T13:56:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44620-come-ges%C3%B9//?do=findComment&comment=789600"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«Devi essere come Gesù.»",
