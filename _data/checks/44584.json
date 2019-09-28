@@ -48,7 +48,7 @@
     },
     "num_chars": 261,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 788988,
@@ -91,6 +91,14 @@
             ],
             "timestamp": "2019-09-27T13:47:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=789465"
+        },
+        {
+            "post_id": 789611,
+            "text": [
+                "Poeta che mi è caro, che posso dire di avere nel cuore ma non nelle orecchie, visto che delle sue poesie ne conosco a memoria solo una ( E se non puoi la vita che desideri ). Vorrei approfondire il Kavafis storico: il poeta dell'ellenismo, dei re bizantini, dei mercati di Antiochia. Grazie, ."
+            ],
+            "timestamp": "2019-09-28T15:33:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44584-feci-cenno-a-un-condomino//?do=findComment&comment=789611"
         }
     ],
     "post_staff": [

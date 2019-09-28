@@ -64,7 +64,7 @@
     },
     "num_chars": 5953,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 788612,
@@ -117,6 +117,31 @@
             ],
             "timestamp": "2019-09-26T16:55:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=789354"
+        },
+        {
+            "post_id": 789603,
+            "text": [
+                "Ciao",
+                "Grazie per il tempo (doppio, a causa della rilettura) e per il commento.",
+                "Hai ragione. Scusa. I refusi saltano fuori da dove meno te li aspetti... o... da dove meno li aspetti?",
+                "Sono lusingato per le belle parole che hai scritto."
+            ],
+            "timestamp": "2019-09-28T14:40:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=789603"
+        },
+        {
+            "post_id": 789605,
+            "text": [
+                "Ciao",
+                "Questa battuta di Carver non la ricordavo.",
+                "Devo avere quel libro da qualche parte, e condivido a pieno l'immagine e tutto quel che ci sta dietro, non scritto.",
+                "La battuta che mi viene spesso in mente è un'altra e non rammento se l'ho già citata. È di un grande giornalista. Ai giovani cronisti che andavano in cerca",
+                "di cose curiose e personaggi strani, diceva: «Dietro ogni portone c'è una storia che vale la pena di raccontare; a condizione di saperla trovare».",
+                "Sono felice che un mio pezzo ti sia rimasto in mente.",
+                "Grazie del pensiero e della citazione che ci hai regalato."
+            ],
+            "timestamp": "2019-09-28T14:54:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=789605"
         }
     ],
     "post_staff": [],
