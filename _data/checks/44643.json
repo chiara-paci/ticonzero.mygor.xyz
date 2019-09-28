@@ -27,8 +27,17 @@
     },
     "num_chars": 2530,
     "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 789561,
+            "text": [
+                "Grazie per le precise puntualizzazioni, devo prestare sicuramente più attenzione alla punteggiatura e ammetto che spesso abuso dei punti esclamativi. Vado subito ai ripari."
+            ],
+            "timestamp": "2019-09-28T09:34:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia//?do=findComment&comment=789561"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento MI 128] Storia del professor De Grandi, il più grande genio di tutti i tempi",
