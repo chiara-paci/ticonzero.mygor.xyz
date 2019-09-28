@@ -47,7 +47,7 @@
     },
     "num_chars": 5457,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 788832,
@@ -64,6 +64,14 @@
             ],
             "timestamp": "2019-09-25T13:56:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=789184"
+        },
+        {
+            "post_id": 789640,
+            "text": [
+                ", ti definisci scrittore maledetto, e pericoloso sovversivo, ma , leggendo il tuo gradito commento non mi sembra che tu sia nè l'uno, nè l'altro! Se poi in quei tempi essere sovversivi voleva dire usare un sano senso critico e immaginare un mondo diverso (ma senza bombe e gambizzazioni), allora ero, e sono, un po' sovversiva anch'io. Non so se è una minaccia o una promessa, ma in effetti ho intenzione di inviare altri racconti, e spero di leggerne presto di tuoi."
+            ],
+            "timestamp": "2019-09-28T18:00:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=789640"
         }
     ],
     "post_staff": [],
