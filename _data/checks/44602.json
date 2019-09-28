@@ -64,7 +64,7 @@
     },
     "num_chars": 6004,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 789135,
@@ -91,6 +91,16 @@
             ],
             "timestamp": "2019-09-28T07:25:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44602-le-ragazze-capitolo-14-33//?do=findComment&comment=789545"
+        },
+        {
+            "post_id": 789560,
+            "text": [
+                "Ciao cara",
+                "Grazie per i tuoi commenti e riflessioni!",
+                "sarebbe bellissimo, devo prima riuscire a completarne la stesura però"
+            ],
+            "timestamp": "2019-09-28T09:27:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44602-le-ragazze-capitolo-14-33//?do=findComment&comment=789560"
         }
     ],
     "post_staff": [],

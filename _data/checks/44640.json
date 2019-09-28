@@ -43,8 +43,18 @@
     },
     "num_chars": 4079,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 789656,
+            "text": [
+                "Ciao Kuno, grazie per la segnalazione e per la comprensione, in futuro starò sicuramente piu' accorto.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-09-28T19:21:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789656"
+        }
+    ],
     "post_staff": [
         {
             "author": {
