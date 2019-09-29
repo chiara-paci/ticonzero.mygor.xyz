@@ -1,0 +1,95 @@
+{
+    "author": {
+        "author_id": 33283,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Gianpaolo Tulli",
+        "url": "https://www.writersdream.org/forum/profile/33283-gianpaolo-tulli/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "L’isolamento﻿ è ﻿frigido di voce:",
+                    "ripudio i versi divelti dall’utero",
+                    "l’alfabeto sgozzato﻿ della carne",
+                    "e ciò che non sono stato﻿.﻿",
+                    "E cosa non sei stato ? Devo essere sincero,",
+                    "ciò che scrivi è una vera e propria stregoneria muta. La poesia è un'arte per pochi, tu hai scritto un enigma degno di merito, un'espressione elevata tutta farcita di belle parole. Perché non trovare il bello con versi più leggiadri, devi mettere in conto il fango in un fiume limpido. Odio la critica quanto la retorica,",
+                    "amo i poeti antichi e l'incarnazione del bello in tutte le sue forme.",
+                    "tra﻿ le sterpi dell’Io scopro chi sono:",
+                    "un ventre solitario che si svende",
+                    "per mendicare﻿ Amore e una preghiera",
+                    "al Dolore per fingere﻿ chiusura﻿.",
+                    "Spacchiamo ogni schema lirico, scriviamo al contrario. Facciamo della tua poesia un'enorme deformità di parole e di suoni gettati a caso: un disegno astruso senza artista. Io scopro chi sono ? Infatti; Io è un altro (Arthur Rimbaud) Quale essenza maligna deve far proprio un verso per una mera critica, inappagante, senza regole, rigetta il valore di oggi mi si dice.",
+                    "nel﻿﻿ riso divulgato all’universo",
+                    "nel grembo genuflesso alla catàbasi",
+                    "nei silenzi ﻿in﻿golfati di vertigini",
+                    "nelle perifrasi contratte.",
+                    "Non sarebbe stato meglio:",
+                    "Obliato silenzio",
+                    "vertigine del profondo universo",
+                    "che penetra l'aureo tempo.",
+                    "@EmperorOfDisaster ho letto molto senza scoprire il perché delle mie letture, quando scopri quello che leggi ti senti strano.",
+                    "Ciao Ciao",
+                    "Ps: Scusami per l'aspra critica",
+                    "﻿﻿"
+                ]
+            ],
+            "timestamp": "2019-09-29T10:58:23Z",
+            "title": "Non mi appartengo.",
+            "url": "https://www.writersdream.org/forum/forums/topic/44438-non-mi-appartengo//?do=findComment&comment=789733",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 753,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ti ho vista fanciulla dal greco viso,",
+        "ti ho vista lacrima di uno oceano",
+        "sperduto, sconfinato, inviolato.",
+        "Ti ho vista ninfa delle Amadriadi",
+        "sposa di tenebre sperdute,",
+        "sconfinate, inviolate,",
+        "ove l'occhio rifulge",
+        "al tuo seno così acerbo,",
+        "così giovane.",
+        "Tu bella, tu mortale",
+        "costretta ad appassire",
+        "purché la primavera",
+        "non desti il mio plumbeo ricordo.",
+        "In quel grigiore di fulmini",
+        "ti perdetti mia adorata,",
+        "fra gli spettri solo.",
+        "Driade della Tracia, sposatasi con Orfeo. Un giorno si trovava con le sue compagne in un prato allorché fu morsa da un serpente che ne provocò la morte. Orfeo la pianse disperatamente, e non esitò a scendere nell'oltretomba, dove le divinità infernali si commossero alla dolcezza del suo canto e gli permisero di ricondurre Euridice fra i vivi ..."
+    ],
+    "timestamp": "2019-09-29T11:14:01Z",
+    "title": "Euridice",
+    "topic_id": 44650,
+    "url": "https://www.writersdream.org/forum/forums/topic/44650-euridice/"
+}
