@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , girovagando in officina in cerca di una buona poesia da commentare, ho finalmente trovato la tua (che a sua volta ne commentava una mia, il caso). Discutevo in questi giorno con alcuni anonimi poeti, come me, sulla necessità di una poesia 'sociale'. Le opinioni erano assolutamente discordanti. La mia assolutamente a favore e, questo, nonostante io tenda a rifletterci il mio io. Questa la premessa.",
+                    "Passando a te, ho trovato nelle tue righe una semplicità che spesso manca a chi affronta un tema di questo tipo. Noto una certa ridondanza e uso di luoghi comuni, un tono descrittivo anziché emotivo, un loro anziché io. Non nella tua, in cui compare una voce chiara e un volere teso verso un'altra voce, la parola 'fratellanza'.",
+                    "Mi sembra possa darti pochi suggerimenti su come snellirla un po', personalmente ho masticato solo il 'salvifica', che forse da solo potrebbe starci bene, ma in quelle due righe appesantisce leggermente. Ti lascio allora le mie solite idee buone a niente, se non a stravolgerla qua e là, giusto per vedere come ti suona:",
+                    "I barbari attendevano senza pormi neppure un dito",
+                    "In quel sorso d'acqua salata",
+                    "già ululavano:",
+                    "Non valicare la terra salvifica!",
+                    "Eppure il mio cuore negro,",
+                    "voleva solo librarsi in aria,",
+                    "avvistare una Palestina italiana,",
+                    "vibrazione residua",
+                    "di quella che tu, misero!,",
+                    "un giorno chiamasti",
+                    "fratellanza."
+                ]
+            ],
+            "timestamp": "2019-09-29T20:45:36Z",
+            "title": "Fratellanza",
+            "url": "https://www.writersdream.org/forum/forums/topic/43759-fratellanza//?do=findComment&comment=789836",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 138,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Parlano di luoghi",
+        "estinti da tempo",
+        "con termini pascoliani.",
+        "Ma tra il fanciullino",
+        "e il deserto",
+        "ci sono cinque giorni",
+        "e vanno dal lunedì",
+        "al venerdì"
+    ],
+    "timestamp": "2019-09-29T20:46:40Z",
+    "title": "Io qui ci vivo",
+    "topic_id": 44658,
+    "url": "https://www.writersdream.org/forum/forums/topic/44658-io-qui-ci-vivo/"
+}
