@@ -48,9 +48,27 @@
             "title": "Mediterraneo!",
             "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789144",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0
+            },
+            "text": [
+                [
+                    "La traccia uscirà con le tenebre della notte? O dopo il cappuccino e il cornetto?"
+                ],
+                [
+                    "Ahahah, davvero? Ops"
+                ]
+            ],
+            "timestamp": "2019-10-20T15:17:55Z",
+            "title": "Contest di Halloween 2019 (by Edizioni del Becchino) - Off Topic",
+            "url": "https://www.writersdream.org/forum/forums/topic/44654-contest-di-halloween-2019-by-edizioni-del-becchino-topic-ufficiale//?do=findComment&comment=794234",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 79,
@@ -58,7 +76,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
     },
     "num_chars": 7984,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 20,
     "post_after": [
         {
@@ -148,6 +166,23 @@
             ],
             "timestamp": "2019-10-14T09:58:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=792667"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 793057,
+            "text": [
+                "Molto ben collocato storicamente: il prima e il dopo, con tutto il dipanarsi degli avvinimenti contingenmti, che resta sottinteso ma ben marcato temporalmente (la colonizzazione della Libia, la prima guerra mondiale, la seconda) inframmezzati dalla storia (i giochi dei due fratelli, la crisi di Caterì, lui che accudisce lei). E tutto, direi, ben intrecciato.",
+                "Sì: mi è proprio piaciuto quel tuo alternare il prima, il dopo, il ritorno all'ancor prima e il finale così privo di speranza, così intriso di umile saggezza. Facendo di ogni frammento un \"adesso\" molto vivido, sebbene essenziale.",
+                "È vero: forse un finale eccessivamente retorico e forzatamente moraleggiante, ma a me è risultato niente affatto sgradito.",
+                "Brava e complimenti per il titolo conservato!",
+                "Commento troppo benevolo inserito senza l'autorizzazione dello . Il messaggio potrebbe venir cancellato e l'autore privato delle dita che hanno digitato sulla tastiera."
+            ],
+            "timestamp": "2019-10-15T14:09:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=793057"
         }
     ],
     "text": [

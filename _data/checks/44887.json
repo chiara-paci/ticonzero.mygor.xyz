@@ -63,7 +63,23 @@
     "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 793444,
+            "text": [
+                "Ciao,",
+                "Il commento che hai utilizzato per pubblicare risale ad inizio ottobre, mentre dovrebbe essere fatto il giorno stesso della pubblicazione di questo tuo racconto.",
+                "Chiudo in attesa di un nuovo commento in questa sezione (oppure due in altra sezione dell'Officina), commento che potrei segnalare a me o a qualsiasi altro componente dello Staff che trovi online."
+            ],
+            "timestamp": "2019-10-17T06:02:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44887-il-padrone-del-nulla-l%E2%80%99indizio//?do=findComment&comment=793444"
+        }
+    ],
     "text": [
         "Publico in questa sezione il seguito del racconto. Ho le idee confuse, non so se posterò i capitoli che verrano.",
         "Nel frattempo aspetto i vostri commenti.",
