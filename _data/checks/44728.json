@@ -1,0 +1,163 @@
+{
+    "author": {
+        "author_id": 33283,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Gianpaolo Tulli",
+        "url": "https://www.writersdream.org/forum/profile/33283-gianpaolo-tulli/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Volti﻿ stanchi",
+                    "restano ﻿a guardare chi siamo.",
+                    "Carni coperte da fili di seta",
+                    "si avvolgono﻿ nei sogni.",
+                    "Resta nuda la coscienza",
+                    "nel freddo della verità.",
+                    "Vogliamo comporre versi per addentrarci nel più impenetrabile dei simboli. Tu scrivi versi per produrre un sogno, d'altronde questo sogno resta nudo nel freddo della verità. La coscienza,",
+                    "i fili di seta, i volti stanchi, lo stesso dettato di tanti poetucoli. Scriviamo poesie troppo incentrate sulla nostro essere, perché non scuotere il lettore ! Bisogna essere moderni, la poesia è defunta e quello che scriviamo annoia. Basta significati, siamo stremati dalle analogie, dalle anafore, dalle similitudinie e da tutto ciò che produce la metrica. È necessario comporre silenzi, non affidiamoci alle certezze ma alle totali sregolatezze. Fai del silenzio una sinfonia o del fragore una melodia. Non riesco a cogliere il vero, il bello, l'infinito, lo spleen, l'ideale. Poesia e prosa sono state definite: la poesia per la sua brevità, la prosa non è stata definita. L' inchiostro deve essere trattato come il sangue, una trasfusione fa meno male basta spargere un po' di versi e tutto finisce lì. Abbiamo scritto su tutto e tutti, su di noi e su gli altri (il pensare diventa per gli stupidi i cervelluti si aspirano all'ispirazione) questo mi ricorda arancia meccanica Si diventa prima assassini e poi critici, la poesia è un sogno senza frontiere e senza parole . I colori più belli sono i colori non ancora inventati, la poesia più bella è quella dei poeti alessandrini : Apollonio di Rodio, Callimaco, Teocrito; la bellezza classica, la bellezza suprema di Saffo . Bisogna tornare ai miti intramontabili della letteratura e unire antichità e modernità. Troppe virgole, troppi concetti, troppe congiunzioni, più pane per i poeti !"
+                ],
+                [
+                    "Tieniti i sogni: i saggi non ne hanno di così belli come i pazzi! (Charles Baudelaire)"
+                ]
+            ],
+            "timestamp": "2019-10-05T23:30:17Z",
+            "title": "Notte",
+            "url": "https://www.writersdream.org/forum/forums/topic/44641-notte//?do=findComment&comment=790927",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Volti﻿ stanchi",
+                    "restano ﻿a guardare chi siamo.",
+                    "Carni coperte da fili di seta",
+                    "si avvolgono﻿ nei sogni.",
+                    "Resta nuda la coscienza",
+                    "nel freddo della verità.",
+                    "Vogliamo comporre versi per addentrarci nel più impenetrabile dei simboli. Tu scrivi versi per produrre un sogno, d'altronde questo sogno resta nudo nel freddo della verità. La coscienza,",
+                    "i fili di seta, i volti stanchi, lo stesso dettato di tanti poetucoli. Scriviamo poesie troppo incentrate sulla nostro essere, perché non scuotere il lettore ! Bisogna essere moderni, la poesia è defunta e quello che scriviamo annoia. Basta significati, siamo stremati dalle analogie, dalle anafore, dalle similitudinie e da tutto ciò che produce la metrica. È necessario comporre silenzi, non affidiamoci alle certezze ma alle totali sregolatezze. Fai del silenzio una sinfonia o del fragore una melodia. Non riesco a cogliere il vero, il bello, l'infinito, lo spleen, l'ideale. Poesia e prosa sono state definite: la poesia per la sua brevità, la prosa non è stata definita. L' inchiostro deve essere trattato come il sangue, una trasfusione fa meno male basta spargere un po' di versi e tutto finisce lì. Abbiamo scritto su tutto e tutti, su di noi e su gli altri (il pensare diventa per gli stupidi i cervelluti si aspirano all'ispirazione) questo mi ricorda arancia meccanica Si diventa prima assassini e poi critici, la poesia è un sogno senza frontiere e senza parole . I colori più belli sono i colori non ancora inventati, la poesia più bella è quella dei poeti alessandrini : Apollonio di Rodio, Callimaco, Teocrito; la bellezza classica, la bellezza suprema di Saffo . Bisogna tornare ai miti intramontabili della letteratura e unire antichità e modernità. Troppe virgole, troppi concetti, troppe congiunzioni, più pane per i poeti !"
+                ],
+                [
+                    "Tieniti i sogni: i saggi non ne hanno di così belli come i pazzi! (Charles Baudelaire)"
+                ]
+            ],
+            "timestamp": "2019-10-05T23:30:17Z",
+            "title": "Notte",
+            "url": "https://www.writersdream.org/forum/forums/topic/44641-notte//?do=findComment&comment=790927",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 873,
+    "num_commenti": 2,
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 790929,
+            "text": [
+                "Titoli : Ad Elena, In fuggente attimo, Hélenē"
+            ],
+            "timestamp": "2019-10-05T23:38:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=790929"
+        },
+        {
+            "post_id": 790931,
+            "text": [
+                "Tieniti i sogni: i saggi non ne hanno di così belli come i pazzi! (Charles Baudelaire)"
+            ],
+            "timestamp": "2019-10-05T23:45:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=790931"
+        },
+        {
+            "post_id": 791247,
+            "text": [
+                "Ciao Lauram"
+            ],
+            "timestamp": "2019-10-07T16:58:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=791247"
+        },
+        {
+            "post_id": 791878,
+            "text": [],
+            "timestamp": "2019-10-10T09:03:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=791878"
+        },
+        {
+            "post_id": 791944,
+            "text": [
+                "commento esaustivo"
+            ],
+            "timestamp": "2019-10-10T14:20:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=791944"
+        },
+        {
+            "post_id": 793413,
+            "text": [
+                "Grazie per il commento"
+            ],
+            "timestamp": "2019-10-16T20:17:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=793413"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "In un fuggente attimo",
+        "mi persi nei tuoi verdissimi occhi",
+        "e fui innamorato;",
+        "uno sfarfallio di vivida",
+        "e tremolante luce",
+        "ti sfiorava appena,",
+        "tu timida sorridevi.",
+        "In un fuggente attimo",
+        "avevi scosso le mie febbrili visioni",
+        "e in tutte le membra sentivo sfiorire",
+        "il sogno di un eterno amore.",
+        "In un fuggente attimo",
+        "cadesti tra le mie braccia,",
+        "leggera e candida,",
+        "in viso pallida",
+        "ma bella e candida.",
+        "In un fuggente attimo",
+        "un vermiglio fiore fu strappato",
+        "al suo verdeggiante suolo",
+        "e la morte ci divise",
+        "per sempre.",
+        "In hashish lacero le mie notti,",
+        "stringo i nostri piccoli ricordi,",
+        "e tu sei al mio fianco",
+        "in un solo fuggente attimo.",
+        "Elena : Proviene dall'antico nome greco Ἑλένη (Hélenē), la cui origine non è certissima: generalmente viene ricondotto ad una gamma di termini correlati fra loro, come ἑλένη (helene, \"torcia\", \"fiaccola\"), helenos (\"luminoso\", \"brillante\") o hélē (\"splendore\", \"fulgore solare\")"
+    ],
+    "timestamp": "2019-10-05T23:36:15Z",
+    "title": "A Elena",
+    "topic_id": 44728,
+    "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena/"
+}

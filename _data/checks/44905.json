@@ -1,0 +1,166 @@
+{
+    "author": {
+        "author_id": 34274,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Giovanni Prete",
+        "url": "https://www.writersdream.org/forum/profile/34274-giovanni-prete/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0
+            },
+            "text": [
+                [
+                    "Scorrevole, nostalgico, fila via piuttosto bene. Bello anche il finale."
+                ]
+            ],
+            "timestamp": "2019-10-18T14:24:24Z",
+            "title": "A modo tuo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44854-a-modo-tuo//?do=findComment&comment=793813",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4477777777777778
+            },
+            "text": [
+                [
+                    "Ciao, stavolta provo a commentare in modo un po' più esaustitivo.",
+                    "Purtroppo da un punto di vista della forma non posso esprimermi più di tanto, posso solo notare che la grammatica è corretta ma non ho strumenti per fornire pareri tecnici.",
+                    "La storia non è niente male, così come il modo quasi in apnea con cui la racconti, mi piace come stile, i dettagli non appesantiscono il tutto ma, al contrario, contribuiscono a far saltare i personaggi fuori dalle pagine.",
+                    "Probabilmente cambierei qualche pausa, ecco."
+                ]
+            ],
+            "timestamp": "2019-10-18T15:58:09Z",
+            "title": "Una birra",
+            "url": "https://www.writersdream.org/forum/forums/topic/44758-una-birra//?do=findComment&comment=793841",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "L'incipit di questo tipo mi piace, \"spoilerare\" immediatamente cosa accade ad uno o più personaggi del racconto.",
+                    "Quest'ultimi mancano forse di un po' di spessore, trattandosi però di un racconto breve, ci sta il puntare tutto sulla storia nuda e cruda.",
+                    "Personalmente, avrei evitato qualche serie di puntini di sospensione ma, per il resto, credo sia tutto al suo posto.",
+                    "Venendo alla trama, leggo altri commenti di chi vorrebbe saperne di più, a me invece piace quella sensazione di sospeso, quel margine lasciato allo spettatore per fantasticare su cosa \"sarebbe successo se\", ad esempio, cosa sarebbe successo se uno o più personaggi si fossero voltati durante il rito? Mi piace pensare che, Laura, una sbirciatina l'abbia data e, proprio per questo motivo, sia stata la prima a morire. Non ho invece capito se è la loro prima evocazione o se, in quell'ultima eventuale circostanza, siano effettivamente andati un po' troppo oltre, in tal caso dev'essere accaduto qualcosa di realmente terrificante da indurre i protagonisti a voler dimenticare tutto.",
+                    "Bella anche la menzogna sul ricordo svanito del luogo e dell'ospitante.",
+                    "In conclusione, io ho apprezzato sicuramente, magari avrei fornito giusto un solo indizio in più ma funziona benissimo anche così. Bravo!"
+                ]
+            ],
+            "timestamp": "2019-10-19T16:31:44Z",
+            "title": "I demoni  meridiani",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=794108",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 3,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4325,
+    "num_commenti": 3,
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 793821,
+            "text": [
+                "È il mio primo racconto, scritto di getto. Basato su un sogno, l'idea è stata quella di romanzarlo. Tempo fa cominciai a scrivere un romanzo thriller/horror ma adesso è in stand-by."
+            ],
+            "timestamp": "2019-10-18T14:48:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=793821"
+        },
+        {
+            "post_id": 793843,
+            "text": [
+                "Ok, rimedio."
+            ],
+            "timestamp": "2019-10-18T16:01:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=793843"
+        },
+        {
+            "post_id": 793886,
+            "text": [
+                "Grazie Mario, in effetti non ho cercato di curarlo neanche un po', diciamo che è una versione nuda e cruda, così come mi è venuta. Proverò a sistemarlo un po'"
+            ],
+            "timestamp": "2019-10-18T18:23:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=793886"
+        },
+        {
+            "post_id": 793891,
+            "text": [
+                "Fantastico, più tardi, con calma, me lo leggo per bene."
+            ],
+            "timestamp": "2019-10-18T18:33:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=793891"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 793944,
+            "text": [
+                "è ancora troppo poco: tolte le formule di presentazione i saluti il commento si riduce a due righe.",
+                "Il regolamento al punto 2.4 prevede:",
+                "2.4",
+                "L’utente che desidera pubblicare un testo in OFFICINA è tenuto a commentarne un altro in maniera esaustiva e dettagliata, toccando molti o tutti i punti dello schema seguente:",
+                "2.4.1. Racconti: trama (intreccio, incipit, sviluppo e conclusione della storia, coerenza e originalità), personaggi (caratterizzazione, psicologia, incisività, originalità), contenuti (adeguatezza, plausibilità, messaggio trasmesso, empatia), stile (scorrevolezza, complessità, chiarezza, coerenza), grammatica e sintassi (refusi, errori grammaticali, frasi complesse, poco scorrevoli o sintatticamente errate), giudizio finale .",
+                "So che all'inizio non è facile, e per questo siamo tolleranti con i nuovi utenti, però così è davvero troppo poco.",
+                "Sforzati di fare un commento adeguato e invia il link tramite messaggio privato a un qualsiasi staffer che trovi on line, il quale provvederà a riaprire la discussione, se verificherà che il commento è conforme alla norma.",
+                "Grazie."
+            ],
+            "timestamp": "2019-10-18T22:34:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=793944"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 794112,
+            "text": [
+                "Situazione ."
+            ],
+            "timestamp": "2019-10-19T16:44:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0//?do=findComment&comment=794112"
+        }
+    ],
+    "text": [
+        "Eravamo morti. Io, mia madre e mia sorella. Non mi erano chiare le circostanze del trapasso ma ero di nuovo sulla terra, con le mie fattezze terrene. Io, che non credevo ad una vita dopo la morte, ero lì assieme a due dei miei famigliari. Eravamo in grado di spostarci anche volando sebbene io avessi qualche difficoltà in tal senso, loro due sembravano invece più a loro agio. Probabilmente era da imputare alla mia estrema razionalità mentre ero in vita, una situazione del genere era difficile da accettare per la mia ragione. L'avvenimento non sconvolse però le mie idee circa l'assenza di un essere superiore, onnipresente, creatore di mondi e universi. Nossignore, lì non c'era alcun dio. Era una nuova realtà, molto probabilmente, ciò che noi definiamo coscienza, riesce in qualche modo a superare la morte del corpo, quella che viene comunemente chiamata anima, poteva essere una conservazione dell'energia che non andava dispersa con la morte. Scoprimmo insieme di avere ancora desideri legati alla nostra precedente vita, il primo istinto fu di procurarsi del cibo. Ci trovavamo nel nostro paese di nascita e residenza, ci recammo così, in volo, al negozio di frutta e verdura. Con mio sommo stupore, il commerciante ci riconobbe, ma com'era possibile, chiesi a mia sorella? Mi rispose che, probabilmente, all'inizio la nostra nuova forma d'esistenza non accettava di cambiare subito il nuovo modo di vedere le cose. Perciò, convinti ancora di far parte della nostra vecchia dimensione, riuscivamo a trasmettere in qualche modo la nostra presenza, almeno per un periodo di tempo limitato. Pensai che, forse, la spiegazione di parecchi fenomeni sovrannaturali del mondo fisico, del mondo tangibile, erano da imputare a questa caratteristica, concentrando in modo automatico l'energia, allo stesso modo di come si respira, riuscivamo a mostrarci ai vivi, salvo perdere tale potere una volta accettata del tutto la nuova realtà. Capitava infatti di udire dei racconti agghiaccianti circa l'avvistamento di defunti, in taluni casi era possibile anche interagire con loro, come ad esempio parlarci. Ipotesi che avevo sempre associato alla malafede del narratore oppure ad un fattore suggestione estremamente marcato.",
+        "Continuavo a sentirmi smarrito in quella nuova forma di vita, pertanto mi limitavo a seguire mia madre e mia sorella. Fu così che mi ritrovai nel cimitero del nostro paese. Noi trapassati eravamo in grado di vedere sia i morti che i vivi, e non sapevo come distinguere gli uni dagli altri, a meno di non avere dei ricordi circa la dipartita di chi mi capitava a tiro.",
+        "Era anche il giorno dei morti, pertanto il cimitero era affollato sia dai vivi, sia dai defunti alle prese con la loro (e nostra) situazione.",
+        "Cercammo la cappella di nostro padre. Il corpo era stato trasferito in una bara di vetro trasparente, pertanto era nuovamente possibile soffermarsi sul suo temibile sguardo. Mi chiesi però, come mai, non avessi ancora avvistato la sua nuova forma d'esistenza, o la sua anima per rendere le cose più semplici. Da lì a poco, ci raggiunse a bordo della sua sedia a rotelle, si presentò così ai nostri occhi, evidentemente la sua energia aveva scelto di manifestarsi nella sua forma fisica finale.",
+        "Cominciò subito a lamentarsi ed inveire contro di noi, io cominciai a provare nuovamente rabbia finché, ad un certo punto, proposi una tregua definitiva. In fondo non aveva più senso traslare dal vecchio mondo al nuovo i rancori della passata esistenza. Ormai eravamo tutti forme d'energia, energia libera, svincolata da qualsiasi convenzione sociale e, pertanto, anche dai litigi feroci ai quali i vivi erano spesso soggetti. Tutto ciò continuava comunque a sembrarmi parecchio inquietante, sinistro, pericoloso. Che senso aveva vagare di continuo senza poter lasciare traccia, salvo casi eccezionali? Una volta presa facoltà del nuovo corpo immateriale, si poteva comunque riprendere ad usare oggetti fisici, appartenenti alla vecchia dimensione. Ma il bello della vita non era forse quello di sapere di avere un tempo limitato a disposizione, e pertanto i piaceri ad essa correlati cessavano di esistere nel momento in cui la nuova vita pareva essere eterna?",
+        "Cosa mi avrebbe riservato il futuro? Non ne avevo idea, nel frattempo sapevo solo che, adesso, ero soltanto una tra le infinite anime in pena."
+    ],
+    "timestamp": "2019-10-18T14:29:17Z",
+    "title": "Storie dall'aldilà",
+    "topic_id": 44905,
+    "url": "https://www.writersdream.org/forum/forums/topic/44905-storie-dallaldil%C3%A0/"
+}

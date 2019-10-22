@@ -1,0 +1,114 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno , sono prima andata a leggermi la prima parte per avere più chiara la tua storia, come mai non hai deciso di pubblicarla nei Racconti a Capitoli?",
+                    "Hai uno stile davvero particolare, in molte frasi ho notato il verbo alla fine e una scelta terminologica peculiare; direi che hai una netta preferenza per termini desueti. Il primo capitolo ho fatto fatica a seguirlo, non solo perché il testo è compatto e non c'è distinzione nei dialoghi, ma la trama mi è risultata alquanto fumosa.",
+                    "Questo capitolo ha sicuramente più aria, mi pare più curato nelle pause, ma i dialoghi rimangono nascosti dentro al testo; vado a leggere.",
+                    "che significa a molla sotto?",
+                    "tra le vene o nelle vene?",
+                    "di nuovo non mi convince il tra, direi nel quartiere. Tra presuppone che ci siano due cose: tra un quartiere e l'altro, per esempio",
+                    "ti è scappato un invio di troppo",
+                    "userei il presente: ti trovo diverso. Se vuoi mantenere il tempo verbale attenzione perché hai perso l'ausiliare",
+                    "avessi già preso",
+                    "questa è un'offerta che lui fa all'autista del casco, non una richiesta. Toglierei il punto interrogativo. Ho notato che lasci quasi sempre uno spazio dopo aver aperto le virgolette, non serve.",
+                    "come si fa a togliere la parola al mutismo? Il mutismo è già senza parola, magari potresti sostituire il mutismo con il chiacchiericcio",
+                    "forse meno al posto di memo?",
+                    "Userei: la sera precedente. Potresti usare Ieri sera se la tua narrazione fosse al presente, ma così non si accorda",
+                    "non capisco tossii",
+                    "questa espressione mi stona con tutto il resto. Hai usato e ricercato delle immagini bellissime e molto evocative anche se complicate e difficili da seguire, i pantaloni da figo li trovo una caduta di stile a parte che il termine figo non sia legato ad altro che mi è sfuggito",
+                    "manca qualcosa prima di racconto",
+                    "avevano con che cosa concorda?",
+                    "È davvero una lettura faticosa, serve molto impegno per seguire la trama e anche così ho delle difficoltà. Trovo pochissimi riferimenti a cui aggrapparmi, ci sono elementi che entrano nel narrato senza avere un supporto precedente. Trovo comunque il tuo stile molto affascinante, ma si perde nelle incongruenze e nella confusione a livello di punteggiatura e ordine del testo. Mi sembra che tu abbia in mano degli elementi davvero ottimi per poter costruire una storia originale, sia dal punto di vista narrativo che da quello stilistico. Perdonami se non arrivo alla fine del tuo racconto, ma è davvero faticoso, eppure mi piacerebbe continuare nella lettura perché sono rimasta affascinata dalle immagini che hai saputo creare."
+                ]
+            ],
+            "timestamp": "2019-10-22T06:35:57Z",
+            "title": "Il padrone del nulla. L’indizio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44919-il-padrone-del-nulla-l%E2%80%99indizio//?do=findComment&comment=794628",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 7886,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "A un certo punto devo essermi addormentata perché mi sveglio con il sole che entra dalla finestra. Davide non c’è già più, Jessy invece dorme ancora sul divano, immobile, come se non si fosse mai mossa. Mi alzo sui gomiti per assicurarmi che ci sia davvero anche lei sotto tanta coperta e distinguo subito la coda di treccine che penzola dal cuscino.",
+        "«Buongiorno». La voce di Jessy suona incerta mentre preparo il caffè. Mi volto a guardarla: è seduta sul divano e non sembra più riposata di ieri sera.",
+        "«Buongiorno, vuoi un caffè?»",
+        "«No, grazie. Davide dov’è?»",
+        "«È andato a lavorare».",
+        "Jessy si alza e si mette di fronte alla finestra da cui si scorgono i tetti e, in lontananza, i colli. Rimane immobile mentre mi siedo a tavola dopo aver tirato fuori tutto quello che ho da mangiare. Non conosco i gusti di Jessy e mi piacerebbe che si sentisse la benvenuta. Dopo un po’ mi raggiunge.",
+        "«Hai dormito bene?»",
+        "Lei annuisce senza proferire parola, osserva con attenzione tutto quello che ho disposto per la colazione. Alla fine prende un biscotto. Cerco di mettere a tacere la mia mente che lavora senza sosta dal momento in cui ho visto Jessy davanti al portone.",
+        "«Tra un’ora devo uscire, Jessy, devo andare a lavorare». Lei mi guarda, aspetta che io finisca di parlare forse. «Se preferisci posso rimanere con te».",
+        "«No, non c’è problema. Io non scappo senza dirtelo», mi sorride.",
+        "«Va bene. Torno presto, sto via solo poche ore».",
+        "Oggi sistemare i prodotti sugli scaffali non mi procura alcuna tranquillità, anzi, mi innervosisce: butterei tutto all’aria. Ho consegnato la lettera di licenziamento, ma l’unica cosa su cui riesco a concentrarmi è Jessy. Prima di uscire di casa le ho lasciato il numero di telefono di Rosa. Le ho spiegato chi è e le ho chiesto di chiamarla e parlarle. Jessy era reticente. Se almeno mi dicesse qual è il problema che dobbiamo risolvere potrei pensare con più chiarezza, ma così ho l’impressione di sbandare a destra e a sinistra senza meta.",
+        "«Jessy?» La mia minuscola piccionaia mi dà l’impressione di essere un maniero nella luce intensa del primo pomeriggio. I raggi obliqui del sole creano fasci pieni di minuscoli granelli di polvere che mi fanno sempre pensare alle spade laser dei film. Ci passo una mano in mezzo, per abitudine, per il gusto di vedere agitasi quella massa sospesa senza gravità apparente. C’è un odore nell’aria che il mio naso non riconosce, lo stomaco però risponde senza indugio, sempre curioso di fronte a una novità. Lascio cadere la borsa su una sedia, mi tolgo la giacca, sento il rumore dello sciacquone dal bagno e le mie spalle si rilassano senza che mi fossi accorta di quanto fossero in tensione.",
+        "«Ciao». Jessy esce dal bagno sorridente e fresca. Ora sì che sembra riposata. «Ho preparato qualcosa da mangiare con quello che ho trovato in casa, spero non ti dispiaccia».",
+        "«Ma certo che no, c’è un profumino!»",
+        "«Viene anche Davide? Lo aspettiamo per mangiare?»",
+        "Mi sorprende la sua domanda: per quanto la riguarda Davide vive qui.",
+        "«Ora lo chiamo».",
+        "«Hai parlato con Rosa?» chiedo mentre sparecchiamo. Durante il pasto abbiamo decretato una tregua dai discorsi seri senza nemmeno doverci accordare. Davide è arrivato di buon umore, ci ha persino portato una rosa per ciascuna. Jessy non ha raccontato niente di personale, non si è sbilanciata affatto, ma ha riso di gusto anche alle battute più stupide e questo mi ha fatto sentire leggera.",
+        "«No». Non posso evitare di girarmi di scatto a guardarla, lei mette avanti le mani, come se dovesse difendersi da un mio attacco. «Volevo aspettare voi per chiamare. Non guardarmi così, Erika».",
+        "«Scusa». Torno a occuparmi dei piatti ed evito di aggiungere altro.",
+        "«Va bene, Jessy. Ora siamo tutti qua. Sia io che Erika capiamo, o almeno proviamo a capire che tu non voglia raccontare niente. In questo modo però né io né lei sappiamo cosa possiamo o non possiamo fare per aiutarti». Davide è diretto e tranquillo, deve averci pensato tutto il giorno. «E noi vogliamo aiutarti, lo sai...»",
+        "«Lo so», lo interrompe Jessy. «Capisco tutte le vostre difficoltà, non vi sto mettendo in una situazione comoda: arrivo qui all’improvviso, non vi spiego niente, vi invado la casa e voglio anche che mi aiutiate senza sapere se correte dei rischi...»",
+        "«No, Jessy». La fermo prima che vada troppo oltre. «Tu puoi stare quanto vuoi e dire o non dire quello che pensi sia giusto. Il problema qui è che noi, da soli, non siamo in grado di fare niente. Abbiamo bisogno di aiuto per aiutarti. Sia da te che da altri che ne sanno più di noi. Siamo soli. Non c’è più un’associazione e comunque a te non interessava».",
+        "«È meglio così, sapete? Nessuno sa di voi, nessuno sa dove sono», esita prima di proseguire. «Ero a Roma prima, però non ci posso più stare. Forse devo andare via dall’Italia».",
+        "«Va bene, Jessy. Puoi dirci almeno cosa ti aspetti da noi? Perché sei venuta a casa di Erika se non vuoi raccontarci niente?»",
+        "Questa volta la vedo incerta, ancora più simile a una bambina di quanto non sia di solito. Abbassa lo sguardo, si torce le mani mentre tiene i gomiti appoggiati alle cosce e la coda scivola di lato coprendole una parte del volto. Poi alza le spalle.",
+        "«Perché non sapevo dove altro andare e so che di Erika posso fidarmi. Non sono venuta con un progetto in testa, avevo solo bisogno di un posto dove passare la notte prima di… prima di andare via».",
+        "«Puoi stare qui», dico in fretta, quasi che fosse già sulla porta. «Non devi andare via, ovunque sia che stai andando. Non avere fretta, pensaci bene, riposati e poi decidi».",
+        "Sento che Davide ingoia una sbuffata, ma se la dovrà far passare qualunque cosa sia che non lo soddisfa. Non ho intenzione di mettere fretta a Jessy e ributtarla in strada. Non riesco a pensarla come Osaro e non voglio immaginare quello che potrebbe succederle quando se ne andrà. Perché lo farà. A un certo punto uscirà dalla mia porta e, con tutte le probabilità, quella sarà l’ultima volta che ci incontreremo.",
+        "Alla fine andiamo a fare un giro in centro. La mia casa è davvero troppo piccola per starci dentro in tre con pensieri tanto ingombranti. Jessy non si sente a suo agio all’aperto, ha paura di venire riconosciuta, così ci infiliamo nei vicoli e nelle stradine più strette e deserte che troviamo, tanto per camminare. Prendiamo un gelato e lo mangiamo in silenzio seduti su un muretto. A cosa pensano gli altri? Davide è irritato, lo percepisco dagli sguardi insofferenti che mi lancia. Jessy non riesco a leggerla. Mi allontano con la scusa di dover fare una telefonata, evito le domande sul volto di Davide e anche il disinteresse su quello di Jessy. Tiro fuori il cellulare, seleziono la rubrica, scelgo il nome di Rosa e premo il pulsante di chiamata.",
+        "«Pronto?»",
+        "«Ciao, Rosa. Sono Erika dell’associazione di Bologna. Ci siamo conosciute tempo fa al seminario a Torino».",
+        "«Ciao, come stai?»",
+        "«Bene, scusa, è un brutto momento?» Lo chiedo sempre, voglio dare la possibilità al mio interlocutore di scegliere se parlare con me o no, sia che si tratti di mia nonna o di un emerito sconosciuto.",
+        "«Ma figurati, no! Dimmi tutto».",
+        "Considerando le informazioni in mio possesso, ci metto poco a raccontarle di Jessy e della sua apparizione misteriosa di ieri notte. Le spiego anche la situazione dell’associazione che ormai non esiste più, del caso archiviato di Roberto e della rottura tra noi volontari. Non era certo necessario, ma dopo le prime parole scopro di non potermi fermare.",
+        "«Oh, be’, ne sono successe di tutti i colori dall’ultima volta che ci siamo viste!» esclama Rosa.",
+        "«Avevi ragione tu quando a Torino dicevi che Jessy sarebbe tornata».",
+        "«Dicevo che c’era una possibilità», precisa Rosa. «Ma sono comunque molto contenta. Ora bisogna pensare come aiutarla e anche come aiutare voi, direi».",
+        "«Di noi non ti preoccupare, ma Jessy ha bisogno di qualcosa che non le possiamo offrire».",
+        "«Non so se nemmeno noi siamo in grado di fare qualcosa, bisognerebbe che almeno lei avesse chiaro quello che vuole»."
+    ],
+    "timestamp": "2019-10-22T06:42:29Z",
+    "title": "Le ragazze - Capitolo 20 - 2/4",
+    "topic_id": 44944,
+    "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-24/"
+}

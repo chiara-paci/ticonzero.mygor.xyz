@@ -54,9 +54,36 @@
     },
     "num_chars": 5315,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 789876,
+            "text": [
+                "Buongiorno , scusa il ritardo!",
+                "io toglierei la virgola dopo ma",
+                "bel colpo di scena!",
+                "parla del barista? Non ricordo più",
+                "metterei una virgola dopo Dai",
+                "metterei una virgola dopo ogni Oddio",
+                "non ho parole!",
+                "forse il punto esclamativo ti è scappato, non capisco la sua funzione in questa frase",
+                "Pronta a cosa si riferisce?",
+                "così sembra che lo dica al cameriere, aggiungerei qualcosa per dare più l'impressione di continuità tra le due azioni di squadrare lei e girarsi per ignorarla",
+                "È. Questo chi lo dice?",
+                "Mi dispiace che sia finita questa storia, mi è piaciuta la trama così come mi è piaciuto il tuo stile diretto e fluido. Trovo che questa ultima parte abbia meno mordente delle altre, come se volessi un po' arrivare alla fine. Sempre apprezzabile, però manca qualcosa, forse ci sono meno pensieri in diretta.",
+                "Grazie per questa lettura, l'ho davvero apprezzata",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-09-30T07:57:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44608-l-accessorio-ultimo-capitolo//?do=findComment&comment=789876"
+        }
+    ],
     "text": [
         "Fermi tutti",
         "- Nessuno si muova! Se restate dove siete nessuno si farà male!",

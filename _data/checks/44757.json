@@ -1,0 +1,130 @@
+{
+    "author": {
+        "author_id": 27743,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 2,
+            "poesia": 0
+        },
+        "name": "flambar",
+        "url": "https://www.writersdream.org/forum/profile/27743-flambar/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5066666666666667,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5066666666666667
+            },
+            "text": [
+                [
+                    "Ah ah ah ah ah sei un dio! questo racconto è cosi genuino e coinvolgente che sembra di stare a poca distanza di colui che lo scrive. Complimenti, mi è piaciuto molto, anche perchè è la prima volta che su WD mi schiatto dalle risate e il leggere non mi crea dei problemi di interpretazione, la sua lettura è fluida scorre veloce fino alla fine, di errori non ne ho visti, anche perchè non sono all'altezza di notarli, quello che più ho notato è stata la facilità di comprendere subito quello che c'era scritto. Grazie della lettura augurandoti tanta fortuna"
+                ]
+            ],
+            "timestamp": "2019-10-07T20:26:34Z",
+            "title": "[MI 129] Quasi innocente",
+            "url": "https://www.writersdream.org/forum/forums/topic/44735-mi-129-quasi-innocente//?do=findComment&comment=791297",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7909,
+    "num_commenti": 1,
+    "num_posts": 13,
+    "post_after": [
+        {
+            "post_id": 791605,
+            "text": [
+                "ah ah ah ah ah la stessa cosa capita a me quando vi vedo scrivere frasi che ne neanche mi sogno che esistono, non ho scritto frasi in gergo marinaresco che sono ancora più difficili da intuire. Il pilota di porto o locale rappresenta come un secondo ufficiale di coperta (copertura che chiude lo scafo dalla parte di sopra) Su di alcune navi è obbligatorio imbarcare il pilota dipende dalla stazza della nave, ma esso non comanda niente e nessuno tutto l'andazzo è sotto il comandante della nave. Se per puro caso la nave che ha l'oblico di prendere il pilota non lo prende e succede un danno le assicurazioni della nave si avvalgono per non pagare.Ti ringrazio del commento e della lezione augurandoti buona fortuna. Considerato che tu sei sempre stato generoso con me insegnarmi la buona grammatica, sono dispostissimo ad insegnarti i gerghi marinareschi"
+            ],
+            "timestamp": "2019-10-08T23:49:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=791605"
+        },
+        {
+            "post_id": 791630,
+            "text": [
+                "Dai non esageriamo mo! io un insegnante, sono solo un rozzo marinaio. Buona giornata"
+            ],
+            "timestamp": "2019-10-09T06:52:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=791630"
+        },
+        {
+            "post_id": 792167,
+            "text": [
+                "Buona sera Grazie del tuo commento. Hai ragione che mi esprimo elementarmente, difatti a malapena ho un istruzione elementare. Ma mi ha preso un forte desiderio di non trasportami nella tomba, il ricordo di una esistenza vissuta a gli estremi della realtà. Qualche anno fa, mi sono detto; devo scrivere tutto quello che ho nella testa, poi al ricordo che sono solamente un rozzo marinaio e certamente scrivo peggio di un cane. difatti come mi mettevo a scrivere, a ricordo delle mie limiti mi scoraggiavo e non scrivevo più.",
+                "Un giorno mi venne in mente una frase che mi ripeteva in continuazione mia madre: «chi va con lo zoppo impara a zoppicare» Ho pensato, ma allora se me la faccio con gli scrittori imparo a scrivere e cosi mi trovo su WD. Se sono di tuo gusto i miei racconti puoi trovarne quante ne vuoi, ti accorgerai che ci sto mettendo l'intera anima per migliorarmi, Ti auguro tanta fortuna"
+            ],
+            "timestamp": "2019-10-11T21:37:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=792167"
+        },
+        {
+            "post_id": 792170,
+            "text": [
+                "Alla prossima e non dimenticarti di darmi commenti e lezioni."
+            ],
+            "timestamp": "2019-10-11T21:52:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=792170"
+        },
+        {
+            "post_id": 792385,
+            "text": [
+                "cara normalmente le navi che sono scritte su registri di nazioni fasulle tipo; Liberia, Panama, Dakomey ecc... ecc... si dicono di \"bandiera ombra \"questo perchè hanno solo l'ombra della bandiera e nient'altro. Oh! nient'altro in tutti i sensi."
+            ],
+            "timestamp": "2019-10-12T23:25:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=792385"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "“ PIROSCAFO CLASKOW “",
+        "Ero al comando del piroscafo a vapore denominato “Claskow”",
+        "di bandiera ombra.",
+        "Lasciato il porto di Casablanca (Marocco) accostammo per il porto di Odessa nel mar Nero. In navigazione ad una manciata di miglia dall'isola di Malta, uno dei marinai accidentalmente scivolò lesionandosi la spina dorsale.",
+        "Chiesi via radio intervento immediato. Purtroppo l'isola di Malta non aveva mezzi di soccorso in mare, comunicandomi di entrare comunque in porto, all'entrata avrei trovato il pilota maltese.",
+        "Arrivato al punto prestabilito, una nave battente bandiera inglese, pur sapendo la situazione in cui mi trovavo, scorrettamente di prepotenza si interpose con manovra azzardata tra il bastimento al mio comando e la motovedetta del pilota, inducendo in errore il pilota stesso che invece di abbordare e dare priorità ad un natante in stato di emergenza, iniziò la manovra ad una nave che poteva benissimo attendere il proprio turno.",
+        "Divenni furioso, chiamavo il natante attraverso il canale 16 (frequenza riservata) non ebbi alcuna risposta. Gli inglesi se ne fottevano dell'urgenza che avevamo a bordo.",
+        "Ero oramai furibondo per questa loro negligenza mettevano in serio pericolo la vita dell'infortunato. I suoi lamenti di dolore mi facevano pena. Non c'era più tempo, non potevo ancora aspettare. Considerando la scorrettezza della nave inglese agii di conseguenza. Entrai in porto senza pilota. Misurando ad occhio lo spazio di prua alla nave in questione, calcolai che vi era area per ormeggiarmi. Ancora risentito dal comportamento scorretto del suo equipaggio. Durante la manovra diedi ordine di dare macchine indietro a tutta forza e con una tremenda poppata sfondai il mascone di dritta ( destra) del irrispettoso cargo che a sua volta riempendosi d'acqua all'istante si ingavonò.",
+        "Il personale di bordo intuendo che non era stato un incidente, scesero rabbiosi dal loro bastimento. Stava per scoppiare la terza guerra mondiale. Le sirene di un'ambulanza e della polizia locale li acquietarono. Dopodichè sbarcato il ferito uscimmo dal porto maltese continuando il viaggio per Odessa.",
+        "Rimasi molto sorpreso dal comportamento scorretto dei marinai inglesi, ho sempre avuto grande stima di questo eccellente popolo marinaresco, mi pareva inverosimile il loro agire, arrivai alla conclusione che la nave senza alcun dubbio era di nazionalità inglese ma il personale imbarcato no di certo, difatti i marinai inglesi non si comportano cosi malamente.",
+        "La navigazione nel mar Mediterraneo e nel canale dei Dardanelli si svolse con nulla da segnalare. Ma appena lasciato il Bosforo, un vigoroso ed improvviso vento proveniente da terra, causò al piroscafo un forte scarroccio che lo sospinse in mare aperto e fuori rotta. Per evitare l'inconveniente, fui costretto a tracciare una nuova rotta più sotto costa per far si che il vento non colpisca in pieno il l'imbarcazione. Purtroppo le carte nautiche in dotazione alla nave erano vecchie e scadute inconsapevolmente, entrai in una zona di mare interdetta alla navigazione.",
+        "Dal nulla sbucò una fregata lancia missili sovietica e la prima cosa che fece fu di sparare sul castelletto prodiero con un cannone, procurandoci dei buchi dal diametro di un pallone da calcio.",
+        "Truppe speciali provenienti da mare e da elicotteri ci abbordarono",
+        "colpendoci con durezza con il calcio delle loro pistole e dei loro fucili mitragliatori.",
+        "Per come erano crudeli, duri con la faccia pittata, pensavamo che fosse giunta la nostra ora.",
+        "Uno di loro, forse il comandante, tenendoci sotto minaccia del fucile mitragliatore, in perfetto inglese chiese: «chi era il comandante» in quell'istante non stavo attento a quello che dicevano, occupato a sorreggere il vecchio nostromo Nicola Boccadamo che sanguinava copiosamente dalla testa, essendo stato colpito dagli assalitori.",
+        "Prima ancora di rispondergli, senza ragione alcuna, il vecchio",
+        "nostromo ebbe un altro tremendo colpo sulla testa.",
+        "La squadra d'assalto sovietica era convinta di aver catturato il responsabile di tutto, cioè il nostromo.",
+        "Per non far passare altri guai all'anziano marittimo che oltre tutto non godeva di buona salute e non era di certo lui il colpevole.",
+        "Mi presentai dicendo: «sono io il comandante » ma data l'età non mi credettero e per risposta mi colpirono alle spalle col fucile mitragliatore. Il dolore mi fece reagire distinto, atterrai con un poderoso pugno in faccia colui che mi aveva colpito. I russi rimasero stupiti della mia reazione, un graduato fece cenno ad un altro di neutralizzarmi affrontandomi senza armi, me ne sbarazzai con estrema facilità, ne seguì un altro poi un altro ancora",
+        "rimasi sconcertato dalla loro sterile azione, intuii che erano delle reclute, osservandoli meglio mi accorsi che la maggior parte di loro erano giovanissimi.Appurando la situazione, rivolgendomi al più anziano di loro con quel po d'inglese che conoscevo esclamai:«Occhei! Siamo vostri prigionieri, dateci gli ordini per quello che dobbiamo fare e noi ubbidiremo».",
+        "Il più anziano degli incursori rispose: «restate calmi se facciamo scena da duri con voi, questo serve a convincere i nostri superiori che l'azione è andata a buon fine» scoppiammo tutti in una fragorosa risata brindando alla nostra neonata amicizia.",
+        "La Fregata lanciamissili che ci scortava, tramite VHF canale 16 ci comunicò la nuova rotta da seguire. Dopo un paio di ore di navigazione entrammo in una rada, con molte probabilità artificiale dato che non esisteva sulle carte nautiche.",
+        "Il porto di certo militare era stracolmo di navi da guerra e sommergibili, i sommergibili sovietici sono enormi posso raggiungere le centomila tonnellate di stazza. Tanto per paragonarli: «i due transatlantici italiani “Leonardo e Raffaello” hanno una stazza di circa quarantacinquemila tonnellate.",
+        "Il comandante delle truppe speciali che avevamo a bordo, indicò il molo dove ormeggiarci. Quasi implorando chiese di attuare la messinscena che avevamo accordato, gli risposi di stare tranquillo. In quell'istante da una grossa auto scese un uomo enorme con certezza più di due metri e molto corpulento.",
+        "Con voce baritonale diede ordine di fare scendere il comandante, cioè io, perciò come d'accordo sia io che l'ufficiale dei combattenti sovietici mettemmo in atto quello che avevamo brindato e stabilito. Alla presenza dell'alto ufficiale mi ordinò di mettermi in ginocchio dandomi un calcio in petto, nello stesso tempo avvisava l'imponente comandante di stare molto attento dato che mi ero sbarazzato con molta facilità di quattro dei suoi uomini. Si sentirono le finestre dalle auto tremare alla risata del gigantesco ufficiale che accennava di salire sull'auto, durante il tragitto ogni volta che incrociava il mio sguardo quasi scoppiava dal ridere.",
+        "Condotto alla presenza di una speciale corte marziale e servendosi di un interprete mi domandarono come mi chiamavo e quanti anni avevo. Erano convinti che l'inesperienza dovuta alla mia giovane età, era colpevole dell'errore di navigazione che avevo commesso.",
+        "Ancora risentito per tutto quello che era successo, risposi:",
+        "«voi non siete altro delle grandi teste di cazzo!» Alla traduzione dell'interprete mi beccai un altro calcio, stavolta alle spalle da parte del comandante che mi scortava facendomi cadere per terra, mi rialzai ed esclamai di nuovo:«Voi non siete altro che delle grosse teste di cazzo!» Spiegando che era stato il forte vento, lo scarroccio con la nave scarica a mure alte sulla linea di galleggiamento a costringermi di navigare sotto costa. Se ero al corrente che nella zona ci fossero delle teste di capra pronti a spararmi con dei cannoni sul castelletto prodiero che solo per una fatalità non vi era nessuno.",
+        "Sicuramente avrei scelto di passare il più allargo possibile.",
+        "Un attimo di esitazione la corte si alzò per consultarsi.",
+        "Una oretta dopo, i magistrati vennero a salutare stringendomi la mano, chiedendo scusa per l'increscioso episodio. Assicurando che avrebbero riparato il danno."
+    ],
+    "timestamp": "2019-10-07T20:35:01Z",
+    "title": "\" Piroscafo Claskow\"",
+    "topic_id": 44757,
+    "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow/"
+}

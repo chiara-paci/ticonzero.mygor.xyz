@@ -1,0 +1,92 @@
+{
+    "author": {
+        "author_id": 29185,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Alba360",
+        "url": "https://www.writersdream.org/forum/profile/29185-alba360/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao questa frase, non so perché, visto che a ben vedere non c'entra nulla, mi ha ricordato la scena finale di un film:(Profumo)",
+                    "L'attinenza, poi riflettendo, l'ho trovata. L'assassino nel film crea qualcosa che genera una reazione smodata nella massa di gente: il profumo perfetto nato da crimini da lui stesso commessi, sarà la causa della sua morte. Quasi allo stesso modo, Teodorv crea l'interpretazione perfetta di un personaggio crudele e spietato. Quello che genera la reazione del pubblico fino a spingerlo all'omicidio è la perfezione del prodotto dell'artista.",
+                    "Bene, considera le mie riflessioni solo un complimento al tuo racconto, che ho trovato molto originale e ben architettato. l'introduzione dell'omaggio a buzzati poi, è un'intuizione felice.",
+                    "Poche righe e hai descritto il personaggio, il luogo e l'azione in maniera convincente! Chi legge, ora non può più fermarsi.",
+                    "Questo contribuisce, secondo la mia idea, a affermare che lui è consapevole di aver prodotto la perfezione, e non aspetta altro che dimostrarlo. Anche chi legge non vede l'ora di andare avanti, quindi nella perfezione è coinvolto anche l'autore del brano: che poi sei tu! Vedi, non è per piaggeria che mi ripeto, ma è proprio perché quando leggo io divento esigente e vado a scavare nelle mie impressioni. Sono convinta fino ai nervi delle mie ossa, che non basta scrivere o raccontare una buona storia, ma è anche il contributo emotivo di chi la riceve nell'anima a farne un successo mondiale. Potremmo creare opere meravigliose, sconvolgenti, ma se non abbiamo il pubblico giusto, che sia all'altezza a portata di mano... L'artitista crea, quante più persone recepiscono le note, le sfumature nel modo giusto, tanto più è perfetta l'opera.",
+                    "Per esempio tanti non si soffermano a pensare sul perché di alcuni particolari, nei film, quadri, canzoni, libri...",
+                    "Questa frase è geniale, a leggerla attraverso le mere parole, scarcagnificando la frase, viene fuori che la perfezione del testo, della sua interpretazione, ha sbattuto in faccia alla gente la loro genetica imperfezione.",
+                    "E questa è il mio umile commento da aspiante raccontatrice di storie storte, ma da lettrice cazzuta.",
+                    "Ti auguro di scrivere sempre così in futuro. Alla prossima sfida"
+                ]
+            ],
+            "timestamp": "2019-10-13T10:41:10Z",
+            "title": "[MI 129] L'accusa",
+            "url": "https://www.writersdream.org/forum/forums/topic/44745-mi-129-laccusa//?do=findComment&comment=792442",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 179,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 792460,
+            "text": [
+                "Per tramonto intendevo quello della vita",
+                "Spero che comincerò a scottarmi a cento e passa anni, a quel punto me ne fregherà di meno",
+                "Grazie per il commento e per questo:"
+            ],
+            "timestamp": "2019-10-13T11:39:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44836-lp-5-fuori-concorso-vivo//?do=findComment&comment=792460"
+        },
+        {
+            "post_id": 792506,
+            "text": [
+                "Eh sì, l'ho scritta sul programma di scrittura che mi mette la maiuscola a ogni a capo. Riletta e non correta"
+            ],
+            "timestamp": "2019-10-13T13:55:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44836-lp-5-fuori-concorso-vivo//?do=findComment&comment=792506"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia 3",
+        "Vivo!",
+        "Di voci e di vento",
+        "Intreccio la vita",
+        "Di suoni e promesse",
+        "La trama e l’ordito",
+        "Di lampi e di perle",
+        "Di acqua salata e di fuoco",
+        "Ardono le idee",
+        "Che bruciano la pelle al tramonto"
+    ],
+    "timestamp": "2019-10-13T11:27:18Z",
+    "title": "[LP 5 fuori concorso] Vivo!",
+    "topic_id": 44836,
+    "url": "https://www.writersdream.org/forum/forums/topic/44836-lp-5-fuori-concorso-vivo/"
+}

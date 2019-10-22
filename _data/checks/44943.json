@@ -1,0 +1,109 @@
+{
+    "author": {
+        "author_id": 34311,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Antonio avallone",
+        "url": "https://www.writersdream.org/forum/profile/34311-antonio-avallone/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.06444444444444444,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.06444444444444444
+            },
+            "text": [
+                [
+                    "Bel racconto, mi ha colpito come l'amore materno cerchi di spiegare alla propria figlia temi così importanti con metafore così dolci e semplici da assimilare."
+                ]
+            ],
+            "timestamp": "2019-10-21T23:51:37Z",
+            "title": "Viaggio onirico di una bolla di sapone",
+            "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=794619",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6910,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 794635,
+            "text": [
+                "Ci troviamo costretti a chiudere il racconto per la mancanza di un commento approfondito.",
+                "Puoi trovare nel alcune linee guida per formulare un commento adeguato.",
+                "Segnalaci quando avrai provveduto a sanare la situazione (contatta pure me o qualunque membro dello staff), e il racconto verrà riaperto."
+            ],
+            "timestamp": "2019-10-22T07:37:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=794635"
+        }
+    ],
+    "text": [
+        "Alessio era un ragazzino come tantissimi altri. Aveva tredici anni da quasi un anno, amava giocare con il pallone, guardare la tv e leggere i fumetti, più che leggerli gli piaceva osservare i disegni colorati che invadevano le pagine, ma comunque li leggeva. I supereroi erano i suoi unici amici, purtroppo gli altri ragazzi della sua età avevano interessi diversi. Gli altri amavano la musica, andare a ballare, baciare sulla bocca le ragazze, lui no. Preferiva sfogliare quegli albi multicolore e ricopiare i disegni più facili sul quaderno a righe che gli aveva comprato sua mamma affinché facesse i compiti di italiano.",
+        "La madre lo aveva portato da diversi psicologi nell'arco degli anni, era profondamente preoccupata dall'alienazione che il figlio aveva subito dai suoi compagni di classe e dalle conseguenze che questa avrebbe potuto avere sul suo figlioletto. Il padre invece, un uomo d'altri tempi, cercava di tranquillizzare la moglie con le solite frasi che gli uscivano dalla bocca. Fino ai nove anni il piccolo Alessio era convinto che quelle fossero le uniche cose che suo padre sapesse pronunciare. \"E' un ragazzino\", \"Crescerà\", \"Sono cose che succedono\" \"Vedrai che starà bene\". Eppure sua mamma lo aveva trascinato da almeno sette dottori in tre anni.",
+        "- Mamma, basta portarmi dai dottori, non ho voglia di parlare con uno sconosciuto- si lamentava Alessio agitando per aria le mani, in una della quali teneva stretto un fumetto di Flash.",
+        "- Lo faccio per il tuo bene, voglio che tu abbia degli amici - rispondeva in maniera automatica la mamma ogni volta che sentiva quelle parole, ormai era diventata una routine.",
+        "Il dottore parlò per mezz'ora con Alessio. Il ragazzo gli aveva dato risposte casuali che non rispecchiavano i suoi veri pensieri, lo faceva per dare fastidio alla mamma.",
+        "Nel tragitto di ritorno verso casa nessuno dei due proferì parola. La mamma guidava fissando la strada attraverso le spesse lenti, rette da una montatura rossa cosa sottile che sembrava non riuscire a reggere i grossi vetri da vista. Il bambino invece faceva scattare i vivaci occhi color nocciola da una parte all'altra dell'albo di Flash, gli piaceva vedere l'effetto della corsa del supereroe in tutina rossa.",
+        "Una volta a casa il ragazzino corse al piano di sopra e si rifugiò in camera. I muri erano tappezzati di poster. Batman, Wonder Woman, Flash, Superman, Spiderman, I Fantastici Quattro. Ne aveva comprati molti altri ma lo spazio sui muri iniziava a scarseggiare, così li aveva riposti momentaneamente all'interno dell'armadio di camera sua. Per un attimo ebbe l'idea di essere osservato mentre sfogliava i poster che erano stati arrotolati e ordinati dalla mamma.",
+        "Si lanciò sul letto e lesse un fumetto di Superman. Era circa a metà dell'albo quando la mamma lo chiamò per cena.",
+        "- E' prontooooo.",
+        "Alessio corse giù per le scale immaginando che dietro di lui ci fosse una scia simile a quella che seguiva Flash.",
+        "A tavola la madre era visibilmente imbronciata. Il padre aveva ancora il giornale aperto sulle ginocchia, la mamma lo fulminò con lo sguardo e lui capì di dover riporre il giornale.",
+        "- Non sono felice Alessio.",
+        "Sembrava tanto l'inizio di un rimprovero.",
+        "- Io faccio tanto per cercare di aiutarti a crescere e tu mi ricambi il favore prendendo i giro gli esperti che pago.",
+        "Il dottore coi baffoni aveva sicuramente spifferato.",
+        "- Vorrei che provassi ad ascoltarmi, io e tuo padre teniamo a te.",
+        "Ora la mamma aveva allungato la mano per cercare quella del marito che, una volta accortosi della ricerca di sostegno della moglie, lasciò cadere la forchetta e gliela strinse distrattamente.",
+        "- Va bene mamma, prometto che cercherò di migliorare.",
+        "Una risposta completamente costruita, ma a sua mamma bastava. La donna sorrise e consumò la cena con un'espressione decisamente più rilassata.",
+        "Una volta terminata la cena Alessio si sentì stranamente stremato, si diresse in bagno e, dopo una breve doccia, infilò il pigiama e si appoggiò sul letto.",
+        "Le coperte di superman erano le sue preferite, gli davano sicurezza.",
+        "Chiuse gli occhi per sbadigliare e nel mentre la testa gli fece un male tremendo, come se qualcuno gliela scuotesse e gli facesse sbattere il cervello contro le pareti craniche.",
+        "Quando li riaprì si ritrovò nello studio del dottore.",
+        "Il tempo di lanciare un urlo terrificato e si ritrovò di nuovo nella sua cameretta, la testa gli aveva fatto nuovamente malissimo.",
+        "Dopo questo inusuale e strano evento Alessio crollò come svenuto per la stanchezza. Quando si svegliò dovette pensare che fosse un sogno perché non gli diede molta importanza.",
+        "Una volta a scuola, nella pausa tra una lezione ed un'altra, si diresse in bagno per svuotare la vescica. Abbassata la zip sentì nuovamente quel mal di testa del sogno, il cervello parve tremare e si ritrovò nella sua camera a fissare i poster sul muro. Corse in bagno per far fuoriuscire l'urina che aveva trattenuto durante il salto spaziale dalla scuola alla camera. Tornò nella stanza e si sedette sul letto. Dunque era vero, aveva i superpoteri.",
+        "Provò a tornare a scuola con il pensiero, ma ogni volta che apriva gli occhi vedeva sempre il poster di Batman, appeso davanti al letto, in camera sua.",
+        "Aspettò il ritorno a casa della mamma e le raccontò tutto. La madre lo fissò per un attimo per poi scoppiare a ridere. Lui cercò di farle capire che non stava mentendo in ogni modo.",
+        "- Chiama a scuola se non mi credi. Stamattina c'ero e al pomeriggio non c'ero più, il mio zaino è ancora lì.",
+        "Lo sguardo della madre mutò da divertito a preoccupato. Corse a comporre il numero della scuola con il telefono, quando ricette la risposta del preside scoppiò a piangere.",
+        "- Mamma perché piangi? Ho i superpoteri, non sei felice? Devo solamente imparare ad usarli e poi potrò salvare il mondo dai criminali. Dovresti sorridere!",
+        "- Si tesoro - la mamma lo guardò con le lacrime agli occhi, accarezzò le guance del figlio, allargate da un enorme sorriso- sono lacrime di gioia queste.",
+        "Quella notte Alessio andò a letto più felice che mai, dal giorno seguente avrebbe iniziato ad affinare le proprie tecniche di teletrasporto.",
+        "Il mattino dopo fu sorpreso dagli uomini vestiti di bianco che lo infilarono in un furgone chiedendogli di stare tranquillo.",
+        "Sentì da lontano la voce del padre alle sue spalle mentre abbracciava la mamma disperata \"Vedrai che starà bene\" disse.",
+        "Forse la mamma aveva fatto la spia e ora lo stavano portando nella casa in cui vivevano tutti i supereroi, così avrebbe imparato a gestire i suoi nuovi poteri..",
+        "L'ospedale era gremito di pazienti che andavano avanti inghiottendo medicine.",
+        "A distanza di anni luce un giovane essere, Xyblor, si divertiva a smanettare con la macchina del Trasporto Spaziale Veloce. Nei momenti in cui i suoi genitori erano assenti gli piaceva sconvolgere le vite degli umani, così patetici. Quando il padre arrivò lo rimproverò e lo mise in punizione. Non doveva più teletrasportare umani a caso, avrebbe creato problemi, non erano pronti."
+    ],
+    "timestamp": "2019-10-22T00:58:12Z",
+    "title": "Il teletrasporto",
+    "topic_id": 44943,
+    "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto/"
+}

@@ -1,0 +1,180 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno",
+                    "Il titolo mi piace molto e mi incuriosisce, mi fa pensare a Cuore d'inchiostro della Funke, lo conosci?",
+                    "Hai perso gli spazi prima e dopo i trattini",
+                    "capisco cosa vuoi dire con timbrarono, ma mi sembra un verbo così freddo e fuori luogo in un momento di emozione tanto intensa. Il primo bacio e addirittura con la ragazza a cui andava dietro da un anno credo meritino un verbo più evocativo",
+                    "senza la d: a una scarica elettrica. La d eufonica di solito entra in gioco di fronte alla stessa vocale",
+                    "lascerei una virgola al posto di punto e virgola",
+                    "c'è un doppio spazio dopo fuori. Cambierei corse che prevede spazio, invece da dentro l'armadio magari lei può balzare, buttarsi, o qualcosa di simile",
+                    "sei passato al presente: spegneva",
+                    "se usi i trattini, in questo caso non serve mettere quello di chiusura",
+                    "non c'è nessuna meraviglia da parte sua per il fatto che questa donna gli parli senza muovere le labbra? Magari lui ha sentito la voce, si è girato ha visto la donna e non si è accorto del movimento e gli è solo sembrato. Se non è così e lui la stava guardando mentre lei pronunciava il suo nome secondo me dovresti enfatizzare questo fatto per lo meno curioso",
+                    "terrei un semplice: nella stanza, sappiamo a quale ti riferisci",
+                    "come lo sa che i suoi occhi era diventati bianchi? Mi sembra di capire che questa fosse la sua prima crisi e, da quel che so, in crisi simili non c'è memoria di quello che accade. Se è importante che lui sappia com'era e cosa ha fatto il suo corpo durante la crisi, puoi mostrarcelo quando lui si sente allontanare dal proprio corpo all'inizio della crisi, se no evita o fallo esclamare ai compagni",
+                    "poveretto, non un gran ricordo",
+                    "Mi sembra un buon inizio, mi viene da chiedermi perché il protagonista abbia scelto proprio questo ricordo per cominciare a narrarci la sua storia. Secondo me le frasi sono un po' troppo corte e spezzate, forse avrei dato qualche riga in più alla fase iniziale con i compagni. Il finale in cui dici:",
+                    "mi colpisce perché sono elementi prettamente fisici. Credevo che avrebbe assunto un certo spessore l'incontro subacqueo con la donna che parlava senza muovere le labbra, mentre lei sembra dimenticata.",
+                    "Alla prossima"
+                ]
+            ],
+            "timestamp": "2019-10-09T06:10:08Z",
+            "title": "Prigioni di Carta. Prologo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44713-prigioni-di-carta-prologo//?do=findComment&comment=791622",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 5070,
+    "num_commenti": 1,
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 791850,
+            "text": [
+                "Buongiorno caro",
+                "ma dai! Pensa che io lo dico ogni tanto, non lo sento diverso da altre espressioni",
+                "sicuramente più scorrevole della mia frase",
+                "3 occhio di falco e memoria da elefante",
+                "Grazie mille",
+                "Buongiorno cara , grazie mille per continuare a leggere",
+                "In realtà ci stiamo avvicinando alla fine e devo dire che, per la prima vota da quando ho cominciato a scrivere questa storia, ho grossi dubbi sulla trama e su come concludere il tutto!"
+            ],
+            "timestamp": "2019-10-10T06:09:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=791850"
+        },
+        {
+            "post_id": 791856,
+            "text": [
+                "ci proverò!",
+                "Grazie mille"
+            ],
+            "timestamp": "2019-10-10T06:46:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=791856"
+        },
+        {
+            "post_id": 793224,
+            "text": [
+                "vittima riconosciuta. Perché spesso è difficile attribuire questo status alle ragazze che lavorano sulla strada e questa difficoltà fa perdere loro molti percorsi che potrebbero percorrere",
+                "era un richiamo a capitolo 3 quando Erika entra in sala, Davide è seduto sul divano e Roberto di fianco alla finestra parla al telefono con Adriana",
+                "le piaghe sono ferite, mentre le pieghe volevano solo essere un riferimento alle rughe di espressione, niente di cruento",
+                "te lo immaginavi che erano loro?",
+                "Grazie Flo"
+            ],
+            "timestamp": "2019-10-16T06:27:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=793224"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791850,
+            "text": [
+                "Buongiorno caro",
+                "ma dai! Pensa che io lo dico ogni tanto, non lo sento diverso da altre espressioni",
+                "sicuramente più scorrevole della mia frase",
+                "3 occhio di falco e memoria da elefante",
+                "Grazie mille",
+                "Buongiorno cara , grazie mille per continuare a leggere",
+                "In realtà ci stiamo avvicinando alla fine e devo dire che, per la prima vota da quando ho cominciato a scrivere questa storia, ho grossi dubbi sulla trama e su come concludere il tutto!"
+            ],
+            "timestamp": "2019-10-10T06:09:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=791850"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791856,
+            "text": [
+                "ci proverò!",
+                "Grazie mille"
+            ],
+            "timestamp": "2019-10-10T06:46:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=791856"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 793224,
+            "text": [
+                "vittima riconosciuta. Perché spesso è difficile attribuire questo status alle ragazze che lavorano sulla strada e questa difficoltà fa perdere loro molti percorsi che potrebbero percorrere",
+                "era un richiamo a capitolo 3 quando Erika entra in sala, Davide è seduto sul divano e Roberto di fianco alla finestra parla al telefono con Adriana",
+                "le piaghe sono ferite, mentre le pieghe volevano solo essere un riferimento alle rughe di espressione, niente di cruento",
+                "te lo immaginavi che erano loro?",
+                "Grazie Flo"
+            ],
+            "timestamp": "2019-10-16T06:27:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23//?do=findComment&comment=793224"
+        }
+    ],
+    "text": [
+        "«Non siamo amiche, non abbiamo niente a che fare l’una con l’altra, tu sei stata in associazione il doppio del tempo che ci ho trascorso io, per quale ragione ce l’hai con me? O con Davide? Pensa che credevo foste persino amici». Mentre le ultime parole mi scappano fuori dalla bocca mi rendo conto che forse Simona è gelosa, forse prova qualcosa per Davide e io non me ne sono mai accorta.",
+        "«Ti credi tanto importante perché parli tutte le tue lingue e riesci a parlare con le ragazze meglio di quanto facciano gli altri, ma non sai un cazzo».",
+        "«Dai, ragazze, fatela finita», intervengono Daniela e Marzia. «Smettetela prima di dire qualcosa di troppo grosso».",
+        "«No, ha ragione lei», ammetto e la mia voce è tornata tranquilla. Succede spesso quando litigo: da vera stronza porto l’altro all’esasperazione, dopodiché abbasso i toni e parlo con la voce della ragione. Non lo faccio a posta, funziono così. Mi pervade una calma glaciale. «Io non so un cazzo, è vero. Però voglio imparare, Simona ed è per questo che ho tanto insistito per andare a Torino, non puoi togliermi anche questo, non ho mai detto di...»",
+        "«Certo, per farti bella con Roberto».",
+        "«Credo che tu abbia bisogno di parlare con Roberto, Simo», dice Davide mentre si alza. «Chiarisciti con lui, c’è qualcosa di molto sbagliato nelle cose che dici, ma capisco che a te sembrino logiche. Adesso basta però, tutte e due. Entrambe tenete all’associazione e alle ragazze, questo a che cacchio serve?» Fa segno con le mani come se le nostre parole fossero tutte in fila sospese a mezz’aria e lui volesse spazzarle via con un po’ di vento.",
+        "Simona è impettita ed eretta sulla sedia, il suo viso è arrossato e mi chiedo come ho fatto a non vedere tutto questo astio. Sono davvero così concentrata solo su me stessa? «Mi dispiace, Simo, davvero; non volevo certo ferirti o irritarti».",
+        "Lei ci pensa un po’ su, ma è evidente che non le importa niente delle mie scuse o di avere un rapporto in futuro con me. Si alza, saluta tutti, senza alcuna menzione d’onore, poi se ne va.",
+        "Nessuno di noi ha più niente da dire, così lasciamo vuota l’anonima stanzetta sul retro del bar.",
+        "Io e Davide andiamo alla casa protetta, siamo d’accordo di vedere Roberto. Ci sono novità sulla denuncia; le altre non verranno, per loro la parola fine ha già tracciato il limite della collaborazione. E probabilmente loro hanno tutti i dettagli dopo la deposizione dall’avvocato.",
+        "Spero che Inna non sia in casa, per quanto sia felice perché lei sta bene, vederli insieme mi mette a disagio. La verità è che sono un po’ schifata da questa storia e ne vedo tutte le contraddizioni. Non posso fare a meno di pensare che in lei agisca qualcosa di simile alla sindrome del salvato e in lui quella del salvatore. Lui le dà sicurezza oltre che gli strumenti per muoversi in questo nuovo ruolo che ricopre come vittima di tratta riconosciuta. In ogni caso, Inna è finalmente padrona del proprio corpo ed è libera di farne quello che vuole.",
+        "«Ciao, ragazzi». Roberto sorride, ci fa passare nell’appartamento silenzioso mentre risponde al cellulare. «Entrate, andiamo in sala».",
+        "Davide si sistema sul divano, di fianco allo scatolone pronto per l’uscita serale. Uscita che faremo noi. Siamo rimasti solo io e lui.",
+        "Mi siedo al tavolo e sposto con il gomito un mucchio di carte per trovare un punto dove appoggiarmi.",
+        "Roberto entra in sala parlando al telefono con tono tranquillo, si avvicina alla finestra, scosta la tenda, guarda fuori. Saluta la persona con cui sta parlando, chiude la comunicazione e si volta verso di noi.",
+        "Ho l’impressione di aver già vissuto questa scena.",
+        "«Siamo rimasti soli, a quanto pare». Roberto infila il cellulare in tasca e incrocia le braccia sul ventre sporgente. «Ho parlato a lungo con Marzia, mi ha spiegato tutte le sue ragioni e anche quelle di Simona e Daniela. Avrei preferito che me lo dicessero di persona, dopo tanti anni insieme, ma va bene anche così, in fondo. Ragazzi, se non ve la sentite più, o se pensate che sia la cosa giusta da fare, io vi capisco».",
+        "Il silenzio che segue non depone a nostro favore o a nostro sfavore. Non riesco a distinguere tra le due cose, non mi piacciono queste situazioni di incertezza. Come mai la vita non può essere bianca o nera? Maledetto grigio!",
+        "Guardo Davide che ha dipinto nelle pieghe tra gli occhi le stesse sfumature cineree che mi offuscano il cervello. Siamo ancora grigi entrambi, nessuno dei due ha deciso da che parte andare.",
+        "«Che novità ci sono dall’avvocato?» È qualcosa che avrei chiesto comunque, adesso mi aiuta a spezzare l’immobilità. «C’è una data?»",
+        "«Sì, la data del processo è stata fissata, ma ho anche altre novità da raccontarvi».",
+        "Io e Davide raddrizziamo la schiena nello stesso momento.",
+        "«Domani uscirà un nuovo articolo: è la mia versione della storia. Volevo che sapeste in anticipo l’identità delle ragazze che hanno inoltrato la denuncia, non voglio lo scopriate dai giornali». Roberto cerca assenso e io e Davide non aspettiamo altro che un elemento decisivo verso il bianco o il nero. Non ha più importanza ormai quale sarà il colore vincente. «Sono Adriana e Maddalena»."
+    ],
+    "timestamp": "2019-10-09T06:31:07Z",
+    "title": "Le ragazze - Capitolo 17 - 2/3",
+    "topic_id": 44778,
+    "url": "https://www.writersdream.org/forum/forums/topic/44778-le-ragazze-capitolo-17-23/"
+}

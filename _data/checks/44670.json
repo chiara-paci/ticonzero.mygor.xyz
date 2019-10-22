@@ -1,0 +1,129 @@
+{
+    "author": {
+        "author_id": 7049,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Eudes",
+        "url": "https://www.writersdream.org/forum/profile/7049-eudes/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Credo che questa frase non renda. Sia perché forse ci può stare una frase come \"è un sogno che non mi ha mai sfiorato\" ma l'inverso \"io non ho mai sfiorato questo sogno\" lo trovo un po' ambiguo. Mentre nell'altro periodo c'è sicuramente un errore:",
+                    "sorrido all'idea di aver sviluppato nuovi sogni per la quale vivere -> Sogni è al plurale, quindi credo sia più corretto dire: sogni per i quali vivere",
+                    "E' una reazione un po' troppo \"tranquilla\" per chi ha subito ciò che descrivi. Già utilizzare un termine come bastardo al posto di quel colui renderebbe la frase più incisiva.",
+                    "Tuttavia non lo era, cosa? L'alba o la porta aperta? O entrambe le cose?",
+                    "Trasformerei quel \"non lo era\" specificando \"tuttavia era ancora notte\" oppure \"ma era ancora chiusa\".",
+                    "\"eppure\" dovrebbe lasciar pensare a una conseguenza opposta a ciò che lascia pensare la premessa, ma non è questo il caso. La premesse dice che nessuno sarebbe intervenuto per difenderla perché nessuno aveva voglio di ritrovarsi contro l'uomo che ha aggredito la protagonista. Così il fatto che essa si ritrovi a fuggire mi sembra una logica conseguenza.",
+                    "Insomma, cancellerei quell' \"eppure\" sostituendolo con qualcosa come \"così\", o \"quindi\".",
+                    "città, con l'accento.",
+                    "Il titolo è un po' equivoco. In questo frammento chi ha voglia di vendicarsi è la madre.",
+                    "\"Progenie\" significa stirpe (quindi il figlio o i figli, o comunque gli eredi, che in questo pezzo in quanto non ancora nati, possono essere ben poco vendicativi)",
+                    "Per tirare le somme, ammetto che il pezzo non mi ha convinto. La protagonista parla con un linguaggio fin troppo trattenuto considerando quel che gli è successo. Se ciò dipende dall'epoca o dalla condizione sociale in cui è ambientato il racconto, andrebbe specificato in qualche modo, altrimenti appare più che altro inverosimile.",
+                    "E credo che una maggior precisione di dettagli e ambientazione storica darebbe maggior spessore al racconto perché al momento tutto mi è sembrato troppo vago e, in un certo senso, anche meno coinvolgente.",
+                    "Diciamo che, secondo me, c'è ancora un po' di lavoro da fare su questo pezzo, ma niente che non si riesca a mettere a posto con un po' di impegno.",
+                    "Questa scena ricorda un po' troppo quella di Lestat in Intervista col vampiro, quando dice alle sue vittime agonizzanti \"darò a te quella scelta che a me non fu concessa\""
+                ]
+            ],
+            "timestamp": "2019-09-30T21:01:29Z",
+            "title": "Progenie vendicativa",
+            "url": "https://www.writersdream.org/forum/forums/topic/44644-progenie-vendicativa//?do=findComment&comment=790036",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7020,
+    "num_commenti": 1,
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 790155,
+            "text": [
+                "Ciao, Adelaide. In realtà questo è un racconto che avevo provato a sviluppare tempo fa ma non mi ha mai convinto troppo. Anch'io lo trovavo un po' slegato ma non riuscivo a trovare la soluzione per renderlo più coerente.",
+                "Mi sa che quella che proponi",
+                "può essere quella giusta. Qualora dovessi revisionarlo ci provo. Grazie del consiglio.",
+                "L'ho pensato anch'io, leggendo la tua di favola. Ma forse meglio così. Se non ricordo male, non è che le versioni originali dei fratelli Grimm o di Anderson fossero proprio a lieto fine."
+            ],
+            "timestamp": "2019-10-01T16:50:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44670-cera-una-volta//?do=findComment&comment=790155"
+        },
+        {
+            "post_id": 790594,
+            "text": [
+                "Ciao, Laura. Mi ha fatto sorridere questo suggerimento. Insomma, non mi dispiace affatto anche se, devo ammettere, tra le due parti del racconto preferisco la seconda, quindi sarei un po' restio a cancellarla del tutto. Ci rifletto."
+            ],
+            "timestamp": "2019-10-04T04:49:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44670-cera-una-volta//?do=findComment&comment=790594"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "«E vissero felici e contenti»",
+        "«...finché si incontrarono, andando ad aggiungersi al mare degli infelici e frustati»",
+        "«Ma no, incontrarono l'Amore!»",
+        "«Appunto.»",
+        "«Insomma!» ribatté lei con stizza «a chi tocca raccontare la storia?»",
+        "«A chi la conosce meglio.»",
+        "«Uff! E allora vai, dilla tu, vediamo quanto sei bravo» rispose piccata.",
+        "«E vissero felici e contenti, fino al giorno in cui scoprirono l'Amore e i suoi mille tormenti»",
+        "«Alt! Lo vedi che non sai raccontare?» disse lei mal celando un sorriso, soddisfatta per averlo già colto in fallo «come lo scoprirono? È importante. Se non spieghi quello non spieghi nulla!»",
+        "«È una storia che si perde nella notte dei tempi. Gli uomini, tanto tempo fa, si tramandavano le cose con la memoria. Se le ripetevano nella testa finché non le imparavano a menadito, andando in seguito in giro a insegnarle ad altri. Il metodo non era certo perfetto: c'era sempre chi manipolava qualcosa, nella convinzione di migliorare la narrazione; qualche altro vacillava con la memoria oppure moriva senza discepoli a cui tramandare la sua conoscenza. Per risolvere il problema si inventarono un metodo affinché le loro storie non venissero travisate o dimenticate. Trasformarono il loro linguaggio in simboli astrusi da scolpire su oggetti eterni come le pietre. Ma le pietre erano dure e si stancarono a lavorare su quelle. Quindi si ingegnarono per trovare qualcosa di più morbido.»",
+        "«Tipo?»",
+        "«Pergamene e carte, meno eterne, ma più gestibili»",
+        "«E poi che è successo?»",
+        "«Che hanno iniziato a non usarle più. La carta non era voluminosa ma gli uomini scrissero tanto, e tanto, e tanto, che era diventato faticoso dare spazio a tutta quella roba. E poi la carta a lungo andare si rovinava, tanto che periodicamente bisognava riscrivere tutto.»",
+        "«E questo che c'entra con l'Amore?»",
+        "«Ci sto arrivando. Gli uomini, che chiamavano libri quei mucchietti di carta, a un certo punto pensarono “se riuscissimo a immagazzinare il contenuto di milioni di libri, in qualcosa di più piccolo, grande come uno solo o poco più, guadagniamo spazio e sarà anche più facile ritrovarli, in quanto potremmo conservarli tutti da una parte solaˮ. Così fecero. Si inventarono dispositivi che chiamarono ebook, computer e una rete per comunicare e passarsi tutto questo materiale da posti lontani, chiamandola Internet.»",
+        "«Però! Si erano inventati il teletrasporto!»",
+        "«Uhm...no. Sapevano teletrasportare i segni, questo sì. Che fossero suoni e immagini. Ma, soprattutto, sapevano teletrasportare le parole. Gli uomini erano bravi con le parole, una volta»",
+        "«Già, una volta» disse lei con rammarico, «ma ancora non mi hai detto niente dell'Amore...»",
+        "«L'Amore si fa sempre attendere, non lo sapevi? E meno male che volevi raccontarla tu la storia»",
+        "«Ok, non ti interrompo più, vai avanti.»",
+        "«Così gli uomini avevano questi piccoli marchingegni in cui era contenuto tutto il loro sapere, i dubbi, le emozioni e tutto quello che erano riusciti a recuperare da quanto era iniziato il ciclo dell'universo. Erano pagine e pagine di cose. Tanta roba, talmente tanta che pensarono \"A nessuno di noi basterebbe un'intera vita per leggere tutto. Peccato che un piccolo oggetto inanimato possa contenere tutto ciò che gli uomini sono stati capaci di produrre e nessuno di noi, neanche il più dotato, possa fare altrettanto\"»",
+        "«Ma erano un'infinità di cose! A chi sarebbe servito impararle tutte?» chiese lei, già dimenticandosi della promessa di non interrompere «non sarebbe stato meglio imparare a scegliere?»",
+        "«Si può davvero scegliere nell'infinito? Forse avevano ragione loro, era più facile immagazzinarlo dentro di sé.»",
+        "«E ci sono riusciti?»",
+        "«Sì. Si dissero \"nei computer riusciamo a traferire tutto lo scibile umano perché hanno tanta memoria. Ma se noi impiantassimo nel nostro cervello memory card della stessa ampiezza potremmo fare altrettanto\". Così iniziarono ad essere meno uomini e più androidi, iniettando dentro di sé tutti gli strumenti che rendevano funzionanti i computer»",
+        "«E la cosa non funzionò?»",
+        "«Oh, per funzionare, funzionò. Solo che si impallarono. Avevano risparmiato sui costi di manutenzione e nessuno fu capace di sbloccarli. Persero tutto ciò che non avevano mai imparato davvero, abituati com'erano a trasferirseli su microchip impiantati nel cervello. Dimenticarono persino cosa fossero i sentimenti. Dimenticarono anche l'Amore. Ed è qui che inizia la storia».",
+        "«Tutta questa tiritera per raccontarmi come gli uomini dimenticarono l'Amore, io volevo sentire del contrario!» si lamentò lei.",
+        "«L'Amore se lo inventarono gli uomini, immaginandolo come un bambino alato dotato di arco e frecce che spesso scagliava a caso, tanto che qualcuno pensava fosse cieco. Invece era solo dispettoso. Disponeva sulla cuspide le emozioni che sapevano regalare le sue frecce e lungo l'asta i tormenti. Ecco che quindi, quando colpiva il cuore di qualcuno, per prima cosa arrivava la felicità e subito dopo, appena la freccia penetrava un po' più a fondo, arrivavano i tormenti. Dei quali, il preferito dall'arciere era la gelosia»",
+        "«Ma si potevano anche estrarre queste frecce?»",
+        "«Sì, ma era doloroso, molto più doloroso rispetto a quando penetravano»",
+        "«Davvero agli uomini bastava inventare personaggi affinché quelli esistessero?»",
+        "«Finché non si impallarono, sì. Il problema fu poi. Impallati loro, questi personaggi non seppero cosa fare. Certo, per un po' trovarono divertente sfuggire a qualsiasi controllo, cosa che peraltro riusciva loro abbondantemente anche prima, ma ben presto si annoiarono. I personaggi son marionette, non sanno condurre da soli i fili della loro esistenza. Molti, come l'Amore, si cercarono un posto per riposare tranquilli e dormire fin quando non tornasse qualcuno a risvegliarli.»",
+        "«Il resto della storia la so»",
+        "Adorava ascoltare le storie sugli uomini. Anche se era convinta arrivassero travisate. La Luna doveva essere quella a conoscerle meglio, erano stati loro stessi a cantargliele. Poi c'erano le stelle più vicine, un posto in prima fila sulle vicende umane. Le raccontavano alle altre, più lontane. L'epica umana e i suoi personaggi erano ancora in giro: parole, gesta e personaggi che riecheggiavano in tutto l'universo, di stella in stella, da pianeta a pianeta, finché anche lei, pur lontanissima, non ne sentì parlare. I corpi celesti, però, non sapevano scrivere e invecchiavano. Chissà quanto e cosa si perdeva fra tutti i vari passaggi. Forse quelle sugli uomini erano solo leggende. Ma le leggende hanno sempre fondi di verità.",
+        "«I Nostri sfidarono lo spazio per avventurarsi fin là, ma per gli uomini non c'era più nulla da fare: estinti. Però avevano lasciato tanto materiale. Lo analizzarono. Non ci capirono molto, ma fu li aiutò a scoprire l'esistenza dell'Amore. Capirono che gli uomini ne erano talmente affascinati, da ritenerlo quasi l'unica cosa per cui valesse la pena vivere. Così si decisero a cercarlo in tutto il pianeta, persuasi che qualcosa di così bello non dovesse disperdersi»",
+        "Lo pensava anche lei. E su quel pensiero si addormentò, sognando l'umanità.",
+        "Quella che c'era una volta.",
+        "Già",
+        "C'era una volta."
+    ],
+    "timestamp": "2019-09-30T21:14:35Z",
+    "title": "C'era una volta",
+    "topic_id": 44670,
+    "url": "https://www.writersdream.org/forum/forums/topic/44670-cera-una-volta/"
+}

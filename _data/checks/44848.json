@@ -1,0 +1,94 @@
+{
+    "author": {
+        "author_id": 34015,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Totem",
+        "url": "https://www.writersdream.org/forum/profile/34015-totem/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6120879120879121,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6120879120879121
+            },
+            "text": [
+                [
+                    "ciao Mi è piaciuta. Temi a me cari ed un modo di scrivere che ricorda molto le mie prime composizioni, quando anche io pensavo che potessero essere lette come testi di una canzone. Una mia personalissima opinione, è che omettendo i versi che cito, la poesia abbia più ritmo ed acquisisca maggior forza.",
+                    "Alle armi, soldato",
+                    "credici ancora,",
+                    "una guerra di stenti",
+                    "la speranza in ogni aurora.﻿",
+                    "Combattono le genti, combattono le genti.",
+                    "Eccessive e ridondanti le parole \"umorismo malsano\". Cerca se puoi qualcosa di alternativo.",
+                    "Al posto di \" le tue prigioni \" avrei scritto altro che renda egualmente la idea, ma di più simbolico.",
+                    "Comunque complimenti",
+                    "Un saluto"
+                ],
+                [
+                    "Anzi, sai che ti dico, mi hai fatto venire voglia di pubblicare una mia vecchia poesia su temi similari",
+                    "Vado..."
+                ]
+            ],
+            "timestamp": "2019-10-14T10:37:49Z",
+            "title": "soldato",
+            "url": "https://www.writersdream.org/forum/forums/topic/44473-soldato//?do=findComment&comment=792680",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 285,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 792826,
+            "text": [
+                "ciao benvenuto e grazie per aver commentato la poesia."
+            ],
+            "timestamp": "2019-10-14T18:43:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44848-branco-e-gregge//?do=findComment&comment=792826"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Branco e gregge",
+        "Per convenzione",
+        "lo riterrai giusto",
+        "Come consuetudine",
+        "agirai per il meglio",
+        "Ti sentirai diverso",
+        "ed orgoglioso",
+        "Solidale",
+        "e partecipe",
+        "Schemi come gabbie",
+        "rigurgitanti libertà",
+        "Comunque sia",
+        "ne sarai vittima",
+        "Vittima e carnefice,",
+        "volontario o inconsapevole",
+        "Due oscure facce",
+        "della stessa medaglia"
+    ],
+    "timestamp": "2019-10-14T10:42:05Z",
+    "title": "Branco e gregge",
+    "topic_id": 44848,
+    "url": "https://www.writersdream.org/forum/forums/topic/44848-branco-e-gregge/"
+}

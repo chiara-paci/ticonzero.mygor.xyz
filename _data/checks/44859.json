@@ -1,0 +1,113 @@
+{
+    "author": {
+        "author_id": 30650,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "davidep",
+        "url": "https://www.writersdream.org/forum/profile/30650-davidep/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "grazie per aver condiviso con noi questo testo. Mi ha fatto molto piacere imbattermi in un racconto che inizia in medias res e prosegue con un flashback. L'ho trovato naturale e abbastanza scorrevole.",
+                    "Due sono gli appunti che vorrei farti però e che cerco di approfondire qui con qualche esempio: i dialoghi potrebbero essere più ricchi e lo stile in generale potrebbe essere alleggerito, per lasciare lo spazio alla storia.",
+                    "Innanzitutto userei punti caporali o virgolettato per i dialoghi, aiuta la leggibilità. E, nello specifico, trovo questo incipit troppo complicato: l'ho dovuto leggere un paio di volte. Personalmente taglierei informazioni che non sono strettamente necessaria all'avanzare della trama. Ad esempio le cose che ho evidenziato in grassetto qui sono strettamente necessarie?",
+                    "Qui invece, la descrizione che dai mi pare credibile: non mi è difficile credere che tu conosca l'ambiente che racconti oppure lo hai studiato accuratamente:",
+                    "La parte in grassetto, però, mi sembra didascalica: potresti esplicitarla con un ricordo più specifico invece che semplicemente dirla al lettore (che difficilmente capirà cosa significa comprendersi interiormente).",
+                    "Questa descrizione:",
+                    "Contiene il giusto livello di dettaglio, secondo me. Ma la successiva:",
+                    "La trovo irrilevante. O mi descrivi meglio la sala d'aspetto: (chi altro c'e', che profumi ci sono eccetera) oppure non mi stai aggiungendo niente: quasi tutte le sale d'aspetto del mondo hanno dei giornali su un tavolinetto.",
+                    "Spero che gli esempi che ti ho dato possano aiutarti: ti esorto a continuare e a rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-10-14T21:14:04Z",
+            "title": "A modo tuo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44854-a-modo-tuo//?do=findComment&comment=792890",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5444,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 793486,
+            "text": [
+                "Care e ,",
+                "grazie per aver dedicato del tempo a questo mio testo e grazie per le correzioni e per commenti: sempre utili e preziosi.",
+                "Entrambe in qualche modo avete riconosciuto la mancanza di una \"storia\" in questo racconto: mi ci ritrovo in questa osservazione.",
+                "Il testo però è nato davvero come un tentativo di ricordare quella notte e di descriverla a distanza di 15 anni: forse per questo mi sono concentrato sull'ambientazione più che sui personaggi e la trama.",
+                "a presto!"
+            ],
+            "timestamp": "2019-10-17T09:23:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44859-28-settembre//?do=findComment&comment=793486"
+        },
+        {
+            "post_id": 793811,
+            "text": [
+                "Ciao e grazie molto per aver dedicato del tempo a questo raccontino: mi ritrovo in praticamente tutti gli appunti che mi hai fatto.",
+                "Ogni commento è utile e questo è il bello dell'officina del WD.",
+                "a presto!"
+            ],
+            "timestamp": "2019-10-18T13:58:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44859-28-settembre//?do=findComment&comment=793811"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "«Vieni, andiamo là sotto!», disse Maria prendendomi per mano mentre le prime pesanti gocce d’acqua scendevano dal cielo. Ci riparammo sotto il portico illuminato di un palazzo, insieme al resto della folla isterica che come uno sciame ci aveva presto raggiunto. Era notte fonda ormai, ma le strade del centro città straripavano ancora di persone accorse da ogni sobborgo che circondava la città.",
+        "Era la Notte Bianca: un evento atteso da mesi. Per ventiquattro ore continue tutti i musei, i negozi e i bar sarebbero stati aperti e ogni piazza del centro cittadino avrebbe ospitato spettacoli teatrali, mostre fotografiche, installazioni artistiche e concerti.",
+        "«E così finisce la serata», dissi guardando la strada di fronte a noi mentre la pioggia scendeva fitta. Il tintinnio delle miriadi di gocce che battevano sulle carrozzerie delle macchine ferme nel traffico sovrastava il chiasso della folla sotto il portico.",
+        "«Aspettiamo, magari dura poco. È il solito acquazzone di fine estate», rispose Maria senza distogliere lo guardo dalla strada.",
+        "Dall’altra parte della strada due ragazzi correvano curvi riparandosi dalla pioggia con uno scatolone sgangherato rimediato chissà dove. Ridevano. Intorno a noi gli spazi si ristringevano sempre di più mentre il fumo delle sigarette e la puzza di tessuto bagnato della folla ci avvolgeva inclemente.",
+        "Fu una frazione di secondo: le luci sotto il porticato si spensero, tutti i lampioni sulla strada si affievolirono e infine spirarono. La folla si destò con un unico schiamazzo di stupore.",
+        "Mi feci largo tra le persone e uscii dal portico per osservare meglio la strada. Anche i semafori erano spenti e dall’altra parte del fiume il muro di palazzi ottocenteschi, solitamente illuminati, erano neri come una lastra di ardesia. Mi voltai nella direzione da cui scorre il fiume sperando di scorgere Castel Sant’Angelo avvolto dalla luce di potenti fari alogeni. Al suo posto, invece, ne riconobbi i lineamenti tarchiati immersi nell’oscurità. Alle spalle del mausoleo, sul Monte Mario, anche i quartieri alti della città erano spenti: le solite luci fastoso delle ville dei ricchi ora tacevano impotenti.",
+        "«Non è solo l’isolato che è rimasto senza luce, è l’intera città», dissi a Maria una volta tornato sotto il portico.",
+        "«Allora andiamo a casa dai», rispose mentre mi asciugava la testa fradicia con un lembo della sua felpa.",
+        "Ci incamminammo verso la Stazione Termini da dove avremmo preso un treno regionale verso casa.",
+        "La pioggia si era affievolita e la città era pervasa dalla frenetica attività di una moltitudine stanca e con una gran fretta di tornare a casa, al coperto.",
+        "All’incrocio di Ponte Garibaldi un infernale groviglio di macchine si muoveva lento come una massa lavica incandescente da cui si irradiva l’unica luce disponibile. Un autobus arancione, con il motore spento e l’autista dalla faccia rassegnata appoggiato sul volante, straripava di persone il cui fiato aveva fatto appannare i vetri.",
+        "Attraversammo il Tevere e raggiungemmo Piazza Venezia. Salimmo sul Quirinale e da lì percorrendo Via Nazionale saremmo arrivati nei pressi della Stazione Termini. Con una piccola deviazione costeggiamo il Viminale.",
+        "«Guarda», dissi indicando l’inanimata facciata del palazzo, «anche il Ministero dell’Interno è al buio».",
+        "«Forse è meglio sbrigarsi», rispose Maria accellerando il passo.",
+        "Dopo una decina di minuti arrivammo in stazione. La pioggia era cessata e la cupa cappa di nuvole basse e pesanti cominciava a mostrare crepe nere da cui si intravedeva qualche rara stella. L’androne della biglietteria era invaso dalla folla urlante e da un forte odore di tessuto bagnato. Qualcuno rassegnato dormiva sul pavimento poggiando la testa su un cuscino fatto giacche arrotolate e umide. Altri, seduti per terra con le spalle al muro e le gambe piegate sul petto, sonnecchiavano sopraffatti dalla stanchezza. Anche la stazione era al buio più completo: il grande tabellone elettronico delle partenze e degli arrivi era ora come una lugubre ed inutile stele nera. Un uomo in livrea ufficiale, in piedi su un tavolo poggiato di fronte alla biglietteria, urlava con un megafono: «Tutti i treni in partenza fino a nuova disposizione».",
+        "Anche io, provato dalla lunga camminata, mi sedetti sul pavimento bagnato, tirai su le gambe su cui poggiai la testa e chiusi gli occhi.",
+        "Maria si chinò su di me.",
+        "«Senti, visto che non possiamo tornare a casa, ti va di andare da un altra parte?», sussurrò, «C’è una cosa che possiamo vedere solo oggi a Roma».",
+        "Annuii.",
+        "Maria, sorridendo compiaciuta, mi aiutò ad alzarmi. Fuori il cielo era ormai terso e un brivido mi percorse la schiena appena la maglietta bagnata toccò la pelle.",
+        "Percorremmo Via del Quirinale, a tratti rischiarati dalle luci rosse e bianche delle automobili che rimbalzavano sull’asfalto bagnato come riflesse da uno specchio e si infrangevano sui palazzi.",
+        "Al primo piano, una debole candela illuminava un soffitto finemente decorato sorretto da robuste travi in legno. Il bagliore fluttuò al piano superiore e infine si spense.",
+        "Arrivammo presto a Piazza del Quirinale. L’ampia piazza pedonale, delimitata da una bassa balaustra di travertino, si affacciava sul Rione Trevi completamente soffocato nel buio. Nell’oscurità impenetrabile vedevo i lineamenti di Maria irradiati da un debole bagliore blu intenta a guardare il cielo col naso all’insù.",
+        "«Guarda», mi disse indicando il cielo.",
+        "Sopra di noi la Via Lattea esplodeva infinita come un fuoco d’artificio millenario."
+    ],
+    "timestamp": "2019-10-14T21:17:13Z",
+    "title": "28 Settembre",
+    "topic_id": 44859,
+    "url": "https://www.writersdream.org/forum/forums/topic/44859-28-settembre/"
+}

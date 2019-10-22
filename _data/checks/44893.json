@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 29855,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Per aspera ad astra",
+        "url": "https://www.writersdream.org/forum/profile/29855-per-aspera-ad-astra/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ho letto con interesse il tuo frammento.",
+                    "Trovo l'ambientazione molto suggestiva, capace di generare curiosità e \"ansia di voler aprire quella porta\" nel lettore.",
+                    "Inoltre, credo che riesci a invogliare chi ti legge a capire di più: chi sono le creature? Perché Ynea sta fuggendo da loro? Cosa vogliono da Ynea? In che mondo ci troviamo? Cosa ci fa Ynea nel deserto? Tutte domande a cui si vuole avidamente trovare una risposta, continuando nella lettura. Sicuramente ci sono diversi potenziali sviluppi, partendo da questo incipit/frammento.",
+                    "Ora passiamo a quelle che, secondo la mia opinione personale, sono invece debolezze e i refusi:",
+                    "Tempio.",
+                    "Punteggiatura. Secondo me, funziona meglio con i due punti (:) dopo \"indietro\", con il punto (.) dopo \"ovunque\", e di conseguenza togliendo la \"e\" prima di \"dal rumore\".",
+                    "Sostituirei con \"giusta\".",
+                    "Riformulerei con: Preso in mano il mazzo di chiavi, (virgola) non rimaneva che cercarla. Sì (\"ì\" accentata), ma quale? Preso dalla paura, (virgola) Ynea provò tra le centinaia: (due punti) una, due, tre... nessuna funzionò, e le creature nere erano sempre più vicine. La tensione era palpabile.",
+                    "Eliminerei \"velocissimo\".",
+                    "Concentrazione.",
+                    "O erano a un passo, oppure erano a poche decine di metri.",
+                    "Qui specificherei se \"urlavano\" o \"mormoravano\" o \"gridavano di rabbia\".",
+                    "Sarebbe stato la loro preda.",
+                    "Chiavi.",
+                    "Fece un passo all'interno.",
+                    "La paura era insostenibile. Ho notato che tendi ad utilizzare i superlativi assoluti (tantissima, altissima, velocissimo, fortissima). Prova a trovare dei sinonimi.",
+                    "e dopo un passo al'interno della porta, (virgola) di colpo si chiuse.",
+                    "Questo è tutto, spero di esserti stato utile e di leggerti ancora!"
+                ]
+            ],
+            "timestamp": "2019-10-17T07:27:59Z",
+            "title": "La porta nel deserto",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=793462",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2604,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Testo sperimentale, sto provando qualcosa di nuovo: questo è un pezzetto.",
+        "Mentre Sam lavorava al quinto album da solista, la sua tazza del cesso decise di schiodarsi dal pavimento e andarsene. Fu un gesto inaspettato, senza alcun preavviso, e che causò inevitabilmente il disappunto del cantante-chitarrista. Sam non aveva la minima idea dove il gabinetto potesse essere finito, né tantomeno di come convincerlo a tornare da lui. L’unico indizio era rappresentato dalle chiazze d’acqua sparse qua e là nell’appartamento, sulle scale del condominio e sui marciapiedi del quartiere.",
+        "Disperato, l’artista si mise all’inseguimento del suo pezzo di ceramica preferito – in bagno era stato illuminato dalle sue idee più brillanti – e similmente a Pollicino fece scorrere una a una le piccole tracce acquose, iniziando ben presto a correre trafelato tra i passanti che lo guardavano confusi. Una signora anziana, urtata dall’uomo in preda alla foga, gli lanciò i migliori insulti della sua epoca, mentre tre adolescenti scoppiarono a ridere dandosi delle pacche di intesa, «è scappato dal manicomio!» lo canzonavano tra loro.",
+        "Sam proseguiva velocemente e non si curava degli sguardi accusatori e delle urla della gente, gli importava solo ritrovare il suo beneamato WC. Temeva che non avrebbe mai più composto un album decente, o peggio: forse non sarebbe stato in grado di cantare o di suonare del tutto! Credeva che la sfortuna si fosse avventata su di lui, il falco del destino che si lancia in picchiata per afferrare il topo grasso e lento del proprio talento. Chissà dove potesse trovarsi a quest’ora la tazza delle rivelazioni!",
+        "Raggiunto l’ingresso di un vicolo, le uniche, poche chiazze a cui si era aggrappato morbosamente cominciarono a farsi più rade e poco consistenti. Come se non bastasse, una nuvola nera spezzò di colpo il pomeriggio e sequestrò il sole, minacciando di cancellare anche quelle fioche speranze che nutriva di ritrovare il prezioso tesoro. Paonazzo e sudato, svoltò nella via di periferia indicata dalle ormai minuscole tracce, che divennero irriconoscibili quando la minaccia della nuvola sequestratrice si tramutò in abbondante scroscio di tarda primavera: quella stronza aveva letteralmente pisciato sugli unici indizi di Sam.",
+        "Gli occhi del povero artista sciolsero le briglie alle lacrime, che andarono a mischiarsi alla pioggia e alle imprecazioni urlate di quelle corde vocali abituate ad assestarsi su note basse. Tutto il corpo scolpito dalle sessioni di palestra consigliate dal suo agente si riversò al suolo, come un ammasso di spazzatura gettato da un netturbino distratto."
+    ],
+    "timestamp": "2019-10-17T07:58:50Z",
+    "title": "La rivolta dei WC.",
+    "topic_id": 44893,
+    "url": "https://www.writersdream.org/forum/forums/topic/44893-la-rivolta-dei-wc/"
+}

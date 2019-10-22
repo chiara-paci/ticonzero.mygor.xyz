@@ -1,0 +1,66 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "C'è tanta dolcezza in questi versi. Mi arriva limpido un sentimento di vicinanza affettiva. Di calore. Una parola donata col cuore, quasi a sussurrare al destinatario “io per te ci sono”. L'intera composizione, non a caso, ha il tono delicato di un sussurro. Bella l'immagine di queste parole da sfregare lentamente. La parola “lentamente”, a cui hai dato un'appropriata veste grafica per accentuarne il significato, mi rimanda all'idea del gesto di prendere un bel respiro profondo, fare spazio nel proprio cuore liberandolo con calma da tutto ciò che lo opprime, e riempirlo, dì lì in avanti, con tutto il buono che verrà.",
+                    "Bella anche la metafora nella chiusa: il conforto ritrovato che assume i contorni di una profumata foglia di tè.",
+                    "Quell'aroma fresco e forte della sera nascosta giù in giardino mi rimanda a tutte le cose belle e semplici che abbiamo davanti ai nostri occhi, ma di cui spesso non ci accorgiamo. Ci sembrano nascoste chissà dove, invece sono proprio lì, a portata di mano. Proprio come in un giardino.",
+                    "Lo stile è pulito e cristallino. Semplice. In linea con la bellezza delle cose semplici."
+                ]
+            ],
+            "timestamp": "2019-10-21T11:59:53Z",
+            "title": "Prove di magia",
+            "url": "https://www.writersdream.org/forum/forums/topic/44876-prove-di-magia//?do=findComment&comment=794395",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 142,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento a un'altra poesia:",
+        "Alla parete",
+        "è appeso un violino",
+        "con le corde spezzate.",
+        "Di tutta la casa lo specchio",
+        "che meglio riflette",
+        "la mia immagine."
+    ],
+    "timestamp": "2019-10-21T12:02:50Z",
+    "title": "Specchio",
+    "topic_id": 44933,
+    "url": "https://www.writersdream.org/forum/forums/topic/44933-specchio/"
+}

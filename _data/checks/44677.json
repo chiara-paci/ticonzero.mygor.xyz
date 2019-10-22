@@ -1,0 +1,67 @@
+{
+    "author": {
+        "author_id": 34015,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Totem",
+        "url": "https://www.writersdream.org/forum/profile/34015-totem/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.3622222222222222,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.3622222222222222
+            },
+            "text": [
+                [
+                    "Ciao Veri, adoro le poesie brevi. Le tue Strade disegnano concetti in modo troppo chiaro e condivisibile per ravvisare originalità e/o un più profondo coinvolgimento emotivo. Mi sembra inoltre in antitesi l'immagine di serenità con quella di passi incerti e sguardi veloci. Difficile incorrere in errori di forma o metrica in tre righe. Eppure un articolo ed una congiunzione si potevano anche omettere. Tutto ciò sempre imho."
+                ]
+            ],
+            "timestamp": "2019-10-01T18:28:11Z",
+            "title": "Strade",
+            "url": "https://www.writersdream.org/forum/forums/topic/44676-strade//?do=findComment&comment=790180",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 196,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Breve",
+        "Brevi l’amore",
+        "e tutte le paure",
+        "I pianti disperati",
+        "ed ogni godimento",
+        "Breve il respiro,",
+        "breve la fantasia",
+        "e breve anche la malattia",
+        "Breve la vita",
+        "Breve anche lei",
+        "Che se non fosse tale",
+        "ne parlerei con dio"
+    ],
+    "timestamp": "2019-10-01T19:16:53Z",
+    "title": "Breve",
+    "topic_id": 44677,
+    "url": "https://www.writersdream.org/forum/forums/topic/44677-breve/"
+}

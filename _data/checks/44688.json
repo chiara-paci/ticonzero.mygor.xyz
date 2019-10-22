@@ -1,0 +1,82 @@
+{
+    "author": {
+        "author_id": 34015,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Totem",
+        "url": "https://www.writersdream.org/forum/profile/34015-totem/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8089130434782609,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8089130434782609
+            },
+            "text": [
+                [
+                    "Ciao @ La*cla, la tua poesia non mi sconfinfera. Ho apprezzato la facile comprensione dei temi trattati nonostante alcuni passaggi necessitino in prima battuta di una rapida rilettura. Quello che non mi convince è la scarsa musicalità e scorrevolezza complessiva, data proprio a mio avviso da una scarsa ricercatezza delle \"parole\". Sembra una poesia (correggimi se sbaglio) scritta di getto, ma a mio avviso, trattando un tema banale (la routine giornaliera ed i viaggi della mente), andava alleggerita nel ritmo. E ciò sarebbe stato possibile solo con una piccola revisione successiva alla prima stesura.",
+                    "Il verso finale ad esempio lo avrei scritto così.",
+                    "Notte,",
+                    "mi rigiro nel letto",
+                    "e sento le onde",
+                    "infrangersi quiete.",
+                    "Tutto ciò sempre imho"
+                ],
+                [
+                    "Ciao La*cla, proprio perché meritevole gli ho dedicato qualche minuto.Mi auguro che in questo spazio nessuno si senta obbligato a dover impiegare controvoglia il proprio tempo per lasciare un commento. La routine è quella di una vita di corsa dove il tempo sembra non bastare mai (ecco perché viaggio in preferenziale). La banalità consiste nel fatto che tutti noi ci dobbiamo conformare a stili di vita schematici. La banalità risiede quindi nella ordinarietà. Ho inteso che la prima parte della poesia si svolge durante il giorno mentre gli ultimi versi durante la notte. Il \"poi\" mi lascia intendere una azione che avviene immediatamente dopo le precedenti, e cioè ancora durante il giorno. Introducendo i versi finali con la parola \"notte\", la collocazione temporale è inequivocabile e secondo me, la poesia ne guadagna anche in forza e musicalità.",
+                    "Mi auguro di essere stato esaustivo.",
+                    "Un caro saluto"
+                ],
+                [
+                    "Si, infatti sono punti di vista. Ritengo però, che se il poeta lascia aperte tutte le chiavi di lettura non riuscirà mai a trovare le parole adeguate. Ma questa è solo la mia opinione. ciao!"
+                ]
+            ],
+            "timestamp": "2019-10-02T21:01:24Z",
+            "title": "Viaggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44527-viaggio//?do=findComment&comment=790376",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 220,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Flow",
+        "Siamo solo tempo,",
+        "successioni di tempo",
+        "dimensione dopo dimensione",
+        "Tempo a tempo",
+        "che si avvicenderà,",
+        "dimensione dopo dimensione",
+        "Sequenze di vite,",
+        "infinite come",
+        "ricordi dimenticati",
+        "All’ultimo rintocco,",
+        "di cicliche",
+        "sconfinate vite"
+    ],
+    "timestamp": "2019-10-02T21:08:09Z",
+    "title": "Flow",
+    "topic_id": 44688,
+    "url": "https://www.writersdream.org/forum/forums/topic/44688-flow/"
+}

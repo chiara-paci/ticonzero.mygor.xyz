@@ -1,0 +1,58 @@
+{
+    "author": {
+        "author_id": 34024,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Veri_",
+        "url": "https://www.writersdream.org/forum/profile/34024-veri_/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 96,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 790184,
+            "text": [
+                "benvenuto nel WD.",
+                "Per postare un proprio testo in Officina occorre commentarne un altro nella stessa giornata. Inoltre invitiamo i nuovi iscritti a presentarsi nella sezione d'ingresso.",
+                "Devo chiudere. Per riaprire la discussione dovrai inviare a uno staffer tramite messaggio privato il link di un commento."
+            ],
+            "timestamp": "2019-10-01T18:46:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44676-strade//?do=findComment&comment=790184"
+        }
+    ],
+    "text": [
+        "Sereno, come le strade sterrate,",
+        "Passi incerti e sguardi veloci.",
+        "Polvere e sudore, sapori sinceri."
+    ],
+    "timestamp": "2019-10-01T17:12:03Z",
+    "title": "Strade",
+    "topic_id": 44676,
+    "url": "https://www.writersdream.org/forum/forums/topic/44676-strade/"
+}

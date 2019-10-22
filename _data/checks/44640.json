@@ -43,7 +43,7 @@
     },
     "num_chars": 4079,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 789656,
@@ -53,6 +53,27 @@
             ],
             "timestamp": "2019-09-28T19:21:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789656"
+        },
+        {
+            "post_id": 789838,
+            "text": [
+                "Grazie, lo considero molto incoraggiante",
+                "Si, è così, ma devo comunque dare un occhiata ai tempi in generale, mi piace molto usare il presente storico, ma non dovrei abusarne per non rischiare minestroni temporali"
+            ],
+            "timestamp": "2019-09-29T21:27:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789838"
+        },
+        {
+            "post_id": 789839,
+            "text": [],
+            "timestamp": "2019-09-29T21:41:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789839"
+        },
+        {
+            "post_id": 789844,
+            "text": [],
+            "timestamp": "2019-09-29T21:57:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=789844"
         }
     ],
     "post_staff": [

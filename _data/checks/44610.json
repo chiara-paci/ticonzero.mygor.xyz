@@ -57,7 +57,7 @@
     },
     "num_chars": 7888,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 789227,
@@ -145,6 +145,14 @@
             ],
             "timestamp": "2019-09-28T09:49:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=789563"
+        },
+        {
+            "post_id": 794595,
+            "text": [
+                "Se dici così poi mi luccicano gli occhi anche a me, eh . Grazie di cuore dell'apprezzamento, Emy. Ciao."
+            ],
+            "timestamp": "2019-10-21T20:37:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=794595"
         }
     ],
     "post_staff": [],

@@ -1,0 +1,152 @@
+{
+    "author": {
+        "author_id": 34081,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Marcopatico",
+        "url": "https://www.writersdream.org/forum/profile/34081-marcopatico/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Visto che è stato più che esaustivo, ti darò una mia opinione meno tecnica ma più logico/emotiva (passatemi la definizione).",
+                    "In questa parte il tuo personaggio si è appena svegliato, e in una frazione di secondo passa dal non capire la situazione (giustamente) a realizzare l'accaduto in un modo meccanico. Secondo me ma manca di dettagli, anche brevi, che facciano capire quanto tempo e cosa ha scaturito quella rabbia, in modo da rendere più immersiva ed empatica la scena",
+                    "Anche qui, mancano forse dei dettagli che creano un'immagine verosimile ed empatica con il lettore. In una frase dove si descrive una violenza sessuale non mi vedrei bene un termine del tipo \"come per magia\" a meno che, appunto il contesto del racconto non lo giustifichi. Ma in questo caso abbassa il livello di empatia con la vittima, quasi sminuendo una situazione pesante e grave come la violenza sessuale.",
+                    "In questo passaggio ci sono due salti temporali non ben specificati. Da che prima lei si trova ancora nel vicolo in difficoltà si passa all'accusa in pubblico, però non si capisce quando è accaduto e in che contesto. E successivamente la protagonista si ritrova incinta, quindi sono passati dei mesi. Ma ripeto, questa parte non è chiarissima al lettore.",
+                    "Anche questa parte, un incipit di una mitologia, città Fantasy e leggende poco rassicuranti. Il tutto non spiegato, hai dato al lettore delle informazioni di cui non se ne fa molto.",
+                    "Per l'ultima parte del racconto non ho nessun commento, ci può anche stare.",
+                    "Tirando del somme ti dico che l'incipit non è male, la violenza sessuale è un tema forte e di impatto, quindi il lettore ha bisogno di essere immerso nella tematica maniera molto empatica.",
+                    "Tutto quello che ho detto (specifico) è un opinione personale, non sono qui per insegnare niente a nessuno, la mia è un opinione sul tuo racconto dal mio punto di vista di lettore per il resto sono curioso di leggere altro di tuo.",
+                    "Buona scrittura"
+                ]
+            ],
+            "timestamp": "2019-10-06T08:41:06Z",
+            "title": "Progenie vendicativa",
+            "url": "https://www.writersdream.org/forum/forums/topic/44644-progenie-vendicativa//?do=findComment&comment=790953",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2117,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 790987,
+            "text": [
+                "assolutamente! Ti ringrazio tantissimo per esserti preso la briga di farmi notare tutti gli errori e le disattenzioni! È stato tutto utilissimo.",
+                "So di avere delle lacune su cui devo lavorare, e questa ne è la prova. Spero che la prossima volta che pubblicherò qualcosa potrai trovare meno errori",
+                "Grazie ancora degli spunti di riflessione",
+                "Ciao, alla prossima"
+            ],
+            "timestamp": "2019-10-06T12:14:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=790987"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 790963,
+            "text": [
+                "Ciao e benvenuto.",
+                "Ho letto il tuo frammento e devo dirti che hai grossi problemi nella coniugazione verbale, sia per quanto riguarda i modi sia per i tempi.",
+                "da come ne parlarono significa: da come ne parlarono in seguito ai fatti che sto raccontando, ma non è ciò che intendevi.",
+                "Puoi scrivere:",
+                "da come ne parlavano , che sta per: ne parlavano prima di questi fatti e ancora ne parlano",
+                "oppure:",
+                "da come ne avevano parlato , che sta per: ne parlavano prima di questi fatti e ora non ne parlano più",
+                "tempio",
+                "la si sarebbe potuta immaginare",
+                "si sarebbe detto che non mancasse",
+                "punto e virgola dopo chiavi",
+                "Scusa, ho dovuto lasciare il commento a metà per un impegno improvviso. Riprendo tra poco."
+            ],
+            "timestamp": "2019-10-06T09:42:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=790963"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 790983,
+            "text": [
+                "non insistere troppo sullo stesso concetto...",
+                "provò tra le centinaia di chiavi del mazzo, ma nessuna funzionò... è sufficiente",
+                "questo invece è un consiglio di scrittura creativa: evita frasi come la tensione era altissima (o Mario era davvero arrabbiato ... Luigi era spaventato a morte ... la mamma era indispettita per quello che avevo combinato ...).",
+                "Cerca di esprimere sentimenti e sensazioni attraverso i gesti e le parole dei personaggi. Fai agire quelle creature nere, falle sbavare, ghignare, ululare... Fammi vedere che lui si volta e distingue le fauci aperte di quella più vicina (improvviso, non so se siano animali o altro), gli occhi gialli nel buio (se è buio...), fammi sentire la paura di Ynea, il sudore che gli bagna il colletto della camicia, i denti che battono...",
+                "Tutto ciò che vuoi, ma non la tensione era altissima .",
+                "troppe ripetizioni: chiavi, fissare, fretta, metri...",
+                "ecco, qui hai cercato di fare ciò che dicevo sopra. Più snello però, abbiamo capito che sono vicine: non c'è bisogno di ripetere che pochi metri ancora e sarebbe loro preda. Fai fare loro un gesto, uno solo: al lettore basta per capire che stanno arrivando. Un latrato alle sue spalle, uno scalpiccio di passi, un grido...",
+                "come lentamente ? Ha le creature alle calcagna e apre lentamente? La spalancherà, ci si butterà di peso...",
+                "la porta emana la luce? Sarà ciò che vi si trova dietro a emanare la luce, non la porta: se no l'avrebbe vista anche prima di aprirla...",
+                "luce lo hai detto tre o quattro volte di seguito...",
+                "Le creature possono fuggire, la porta no.",
+                "all'interno/all'interno",
+                "la paura era tantissima , vale ciò che si diceva prima per la tensione",
+                "in tre righe... A questo punto il lettore inizia a sospettare che ci sia una luce potente...",
+                "non si può camminare dentro una porta, perlomeno le persone normali non lo fanno.",
+                "Ci sono due azioni e due soggetti distinti che le compiono: a entrare all'interno (non si sa ancora di che cosa, dopo tre volte che dici \"all'interno\") è Ynea, a chiudersi invece è la porta; alla lettera invece tu hai scritto che Ynea cammina dentro la porta e poi si chiude (Ynea, non la porta).",
+                "Ynea fece un passo all'interno e la porta si chiuse alle sue spalle o simili",
+                "Ti ho lasciato un po' di suggerimenti su cui riflettere, spero che non mi odierai per questo.",
+                "Hai bisogno di lavorare con impegno su tutti gli elementi della lingua: grammatica, lessico e sintassi; forza e coraggio: con impegno e umiltà si arriva ovunque.",
+                "Buon proseguimento"
+            ],
+            "timestamp": "2019-10-06T11:25:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=790983"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 791012,
+            "text": [
+                "Felice di esserti stato utile ."
+            ],
+            "timestamp": "2019-10-06T14:18:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=791012"
+        }
+    ],
+    "text": [
+        "Dopo giorni e giorni in fuga nel deserto Ynea trovò finalmente la porta. Da come ne parlarono i grandi saggi del templio la si potrebbe immaginare di colori sgargianti, ricoperta di diamanti e pietre di ogni tipo, con la maniglia e la serratura d'oro. Nulla di tutto ciò. Una comune porta bianca nel deserto.",
+        "Con il fiatone e in un bagno di sudore si guardò indietro; le creature nere lo avrebbero fiutato ovunque, e dal rumore dei passi si direbbe che al loro arrivo non sarebbe mancato molto. Dopo qualche passo a stento per la fatica, Ynea era lí, di fronte alla porta. Provó nervosamente ad aprirla ma nulla, era chiusa. Ovviamente serviva la sua chiave.",
+        "Preso in mano il mazzo di chiavi non rimaneva che cercare quella giusta: si, ma quale? Preso dalla paura Ynea provò tra le centinaia. Una, due, tre, quattro ma niente; nessuna chiave era quella giusta, e le creature nere erano sempre più vicine. La tensione era altissima.",
+        "Si guardò attorno e subito fissò velocissimo ogni angolo della porta, in cerca di qualche indizio, dato che non gli era stata data alcuna indicazione dall' ex proprietario delle chiavi. Prese un respiro profondo e con concentarzione si mise a fissare con occhi fini il mazzo di chiavi. Le creature erano a un passo da lui, forse poche decine di metri. Urlavano versi incomprensibili e mormoravano frasi pesanti, insulti e grida di rabbia. Pochi metri e sarebbe stato loro preda. Voltandosi di scatto verso il mazzo di chivi e osservandolo bene vide che una era più piccola delle altre, semplice e arrugginita. Infilata con fretta, mezzo giro e la porta si aprì.",
+        "Si aprì lentamente emanando una luce fortissima. Le creature si fermarono spaventate e attonite. A quel punto, incantato dalla luce, Ynea fece un passo dentro La porta e le creature fuggirono via, scomparendo come fantasmi colpiti da quella luce fortissima e celestiale.",
+        "A quel punto non restò altro che proseguire all'interno. La paura era tantissima, quasi quanto lo stupore di quella luce accecante, e sapendo che nulla sarebbe più stato come prima, prese coraggio, e dopo un passo all'interno della porta di colpo si chiuse."
+    ],
+    "timestamp": "2019-10-06T09:04:13Z",
+    "title": "La porta nel deserto",
+    "topic_id": 44731,
+    "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto/"
+}

@@ -1,0 +1,134 @@
+{
+    "author": {
+        "author_id": 22545,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Max Friedmon",
+        "url": "https://www.writersdream.org/forum/profile/22545-max-friedmon/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Complimenti, un ottimo racconto. il testo procede con una progressione ferrea, inesorabile, verso la catastrofe. Catastrofe che, la drammaturgia greca insegna, è il punto culminante, la fine della parabola (del percorso) del protagonista.",
+                    "Lo stile procede parattatico, creando la giusta tensione angosciosa. L'uso della seconda persona singolare è la chiave del testo: la voce narrante descrive l'avventura del protagonista (da giornata-tipo routinaria a incubo) con un tono in apparenza asettico, scienfico (ti alzi, vai, fai questo fai quello etc), ma in realtà spietato, da occhio che giudica (e condanna, forse).",
+                    "Se fosse un film, diremmo che la macchina da presa non s'identifica mai con il protagonista (non c'è mai una soggettiva), ma sta sempre o al suo livello o sopra di lui, comunque distante, non partecipe.",
+                    "Qual è la colpa dell'anonimo protagonista? Giustamente non ci viene detto. Giustamente perché come diceva Alberto Savinio \"ogni rivelazione del mistero è inferiore al mistero stesso\" e perché in questo racconto che echeggia Kafka e Buzzati la Colpa viene svelata alla fine al protagonista, ma la si cela ai lettori.",
+                    "PS complimenti anche per aver creato uno scenario fantascientfico senza eccedere in prolisse descrizioni. Lo stridore tra l'anomima vita grigia, da travet, del protagonista e il mondo tecnologico che lo circonda è ancora più forte",
+                    "PPS Il titolo... A dire \"Giochiamo\" è probabilmente è la voce narrrante. E chi è la voce narrante? Dio? il Destino? Lo scrittore crudele?"
+                ],
+                []
+            ],
+            "timestamp": "2019-10-20T19:58:27Z",
+            "title": "[MI129] Giochiamo: tu fai la vittima",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=794278",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7573,
+    "num_commenti": 1,
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 794491,
+            "text": [
+                "grazie :-)",
+                "Il nostro sfortunato eroe è di sicuro perseguitato dalle Tenebre (infatti chiama sempre al femminile le sue inseguitrici). Forse, come nel mito greco, queste Tenebre sono le Erinni e il nostro amico ha commesso qualche delitto, qualche brutta azione a Frisco... In realtà solo Fritz potrebbe rispondere ai nostri dubbi, ma temo non sia più in grado di farlo..."
+            ],
+            "timestamp": "2019-10-21T15:26:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794491"
+        },
+        {
+            "post_id": 794652,
+            "text": [
+                "grazie per i complimenti",
+                "il nocciolo del testo è proprio la mancanza di spiegazioni, tranne il finale. Cosa ha fatto Fritz a San Francisco? Da chi/cosa scappa? Non \"ha pestato i piedi\" a nessuno, è una bugia che racconta al direttore del D.E. per darsi un tono: il direttore subodora che è una bugia, ma lo assume lo stesso perché intuisce che è un bravo reporter. Per Fritz il giornale è come la Legione Straniera: un refugium peccatorum in cui rifarsi una vita",
+                "Mi ripugna essere maestrino didascalico, ma nel testo la parola-chiave \"tenebre\" compare solo nella citazione iniziale e alla fine (per il resto solo sinonimi : buio etc) e non è un caso"
+            ],
+            "timestamp": "2019-10-22T09:28:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794652"
+        },
+        {
+            "post_id": 794656,
+            "text": [
+                "prima volta? meglio, hai uno sguardo libero da pre-giudizi",
+                "no, il titolo è un frammento della citazione iniziale",
+                "Incipit interessante, molto curioso. Vedo l'immagine.",
+                "Pezzo molto scorrevole ma per curiosità che cosa significa: malcelato?",
+                "Malcelato = nascosto a malapena - \"Ti tratta con malcelato disprezzo\" = \"Ti tratta con disprezzo e fa giusto uno sforzo per nasconderlo\"",
+                "Insolito ma personalmente avrei scritto un posto di lavoro tranquillo .",
+                "Qui indicherei che sono colleghe.",
+                "Colleghe? Il racconto è ambientato in un'epoca in cui nei giornali, specie di provincia, i giornalisti erano tutti maschi",
+                "Due osservazioni: Da loro =loro chi?",
+                "Spiegherei meglio l'ultima frase: O forse si erano divertite a lasciare che si crogiolasse nell'illusione e poi, quando si erano stufate del gioco, avevano fatto il gatto col topo e gli avevano dato una zampata.",
+                "Qui modificherei la struttura dei dialoghi. Quando il protagonista dice, è meglio utilizzare i punti caporali, quando invece pensa, io utilizzo i trattini.",
+                "Al posto di proprietà metterei società",
+                "In genere i piccoli giornali erano (sono) di proprietà dell'editore-direttore, quindi società sarebbe stato troppo enfatico e tecnico - era il Daily Examinar di Roccacannuccia, non il Corriere della Sera ;-)",
+                "Non mi piace: Parole che suonavano false nella sua stessa bocca",
+                "Refuso: ripendersi manca una R",
+                "Una partenza misteriosa, non sono d'accordo che ti rivolgi al direttore con: vecchio",
+                "nel gergo giornalistico, specie dell'epoca, è corretto",
+                "Bella descrizione.",
+                "Mi vengono in mente le ragazze \"occhi di gatto\"",
+                "il cartone animato?",
+                "Finale sospeso.",
+                "Conclusione: il tuo stile mi piace, è fluido, ben curato e possiede molte descrizioni belle e curiose. L''aspettativa del lettore è alta. Mi ha soddisfatto solo in parte, opterei per un racconto a capitoli. Mi ha dato fastidio il modo in cui ho interpretato \"loro\". Descriverei meglio loro e renderei più accattivante la loro origine.",
+                "A rileggerti.",
+                "Floriana",
+                "grazie!"
+            ],
+            "timestamp": "2019-10-22T09:39:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794656"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Io e le tenebre. E tutto il resto se n'era andato (Jim Thompson)",
+        "Appoggiato allo stipite della porta a vetri, Fritz Reuter lanciò il mozzicone ancora acceso nella strada. La sigaretta tracciò una breve parabola luminosa prima di essere inghiottita dall'oscurità. Fritz non la vide toccare terra e si sarebbe stupito del contrario. Sapeva che quel buio là fuori avrebbe fatto sparire tutto ciò che sarebbe uscito dall'ufficio del Daily Examiner.",
+        "Fritz era arrivato laggiù quasi un anno prima prima. Il “Pulitzer mancato”, come si divertivano a prenderlo in giro i colleghi, con malcelato disprezzo, si era presentato al direttore del giornale locale chiedendo lavoro. Senza scendere troppo nei particolari, gli aveva detto che aveva dovuto lasciare San Francisco in fretta e furia... aveva pestato i piedi a troppe persone importanti, con i suoi articoli, per potersi permettere di percorrere ancora i marciapiedi di “Frisco” a cuor leggero...",
+        "Quello che cercava, Fritz, era un tranquillo posto di lavoro. Lo stipendio era l'ultimo dei problemi, ma aveva bisogno di picchiare suii tasti della macchina da scrivere, un bisogno fisico.",
+        "Il direttore lo aveva fissato per un lungo istante, gli occhi che scavalcano la montatura delle lenti. Probabilmente aveva capito che Fritz gli stava raccontando una bugia, o più di una, ma sapeva giudicare di primo acchito un giornalista e l'aveva assunto.",
+        "Per un bel po' tutto era filato liscio. Non aveva legato granché con i colleghi, a parte qualche birra dopo la chiusura, ma a lui andava bene così. Era vivo e a quanto pare loro si erano dimenticate di lui o forse era stato bravo a far perdere le sue tracce e poi... “Fritz, mi ascolti? Dove sei?”. Si scosse, interrompendo il flusso dei ricordi. Jane era in piedi di fronte alla sua scrivania al giornale e lo fissava con un misto di rimprovero e preoccupazione.",
+        "Jane Hopley-Woolrich. Alta, bionda, lineamenti regolari e un delizioso nasino alla francese. Una ragazza cresciuta a sani pasti e sani principi nel cui destino c'era di sicuro un rispettabile poliziotto o un ancor più rispettabile avvocato. Invece quel giorno Cupido si era divertito a farli incontrare in una gelateria.",
+        "Lei era con un'amica, lui aveva appena finito di dettare un pezzo ai dimafoni del Daily e uscendo dalla cabina aveva urtato la borsetta di miss Hopley-Woolrich, appoggiata sul bordo del tavolo. Scuse, battutine argute, presentazioni... dopo un po' l'amica, capita l'antifona, aveva lasciato il campo con una scusa e Fritz e miss Hopley-Woolrich avevano approfondito la conoscenza. Lui aveva giocato a fare il cinico cronista, lei la ragazza che gli teneva testa... “Clark Gable e Carole Lombard o Jean Harlow” pensava ora Fritz, squadrando Jane.",
+        "Cupido era uno strumento nelle loro mani? Perché da quando aveva cominciato a vedersi con Jane le cose erano cambiate. Camminava per le strade e si sentiva osservato. Era al lavoro e si sentiva osservato. Faceva una passeggiata con Jane e si sentiva osservato. Ovunque, si sentiva osservato. Da loro. L'avevano trovato. O forse si erano divertite a lasciare che si crogiolasse nell'illusione e poi, quando si erano stufate del gioco, avevano fatto il gatto col topo e gli avevano dato una zampata.",
+        "“Posso andare ovunque, anche all'Inferno, ma loro non mi lasceranno mai stare” pensò Fritz mentre Jane gli diceva qualcosa. Cosa? Le parole gli arrivavano attutite. Si scosse. “Come dici scusa?”. Jane lo guardò indispettita “Ti sto dicendo che sono stanca”. In maniera meccanica, Friz si alzò “Scusa baby, ti prendo subito una sedia”, ma Jane sbuffò “Non prendermi in giro, Fritz Reuter, non me lo merito... Sono stanca di te, dei tuoi segreti, dei tuoi silenzi... Tu non ci sei, Fritz”.",
+        "Fece uno sforzo per concentrarsi su quella conversazione, mentre con la coda dell'occhio si accorgeva che la redazione era vuota: il giornale era in stampa e tutti se n'erano andati a casa. Non era la prima volta che succedeva, ormai la proprietà si fidava di lui e gli lasciava le chiavi dell'ufficio. Ma quella sera c'era un'atmosfera strana.",
+        "“Ecco vedi... sei ovunque, chissà dove, ma non qui, con me”. Jane Hopley-Woolrich aveva ragione. Fritz non era lì. Non con lei. C'era con il corpo, ma la sua mente era tornata a Frisco, in quel cinema vicino a Lafayette Park... Lì era cominciata la faccenda e ora loro erano tornate per presentargli il conto.",
+        "“Hai ragione, baby, perdonami... è stato un periodo massacrante... tonnellate di articoli e...”. Parole che suonavano false nella sua stessa bocca e infatti Jane non fece neanche finta di abboccare. “È finita Fritz.. sono venuta a dirtelo di persona.. Che poi non sono nemmeno cos'è finita, visto che non è mai cominciata... sul serio...”. Jane fece un respiro. Era una donna forte, non avrebbe pianto. Non per lui. E Fritz non poteva che darle ragione. “Hai ragione, baby... perdonami, se puoi” disse chinando la testa. “Non so cosa tu abbia fatto laggiù a San Francisco, Fritz, e non voglio saperlo ormai.. ma certo non sono io quella che deve perdonarti... Addio Fritz”. Jane si voltò di scatto. Stava per scoppiare a piangere, ma non l'avrebbe mai fatto davanti a lui.",
+        "Fritz si accosciò sulla sedia, la testa reclinata sul petto. Sentì il ticchettio dei tacchi di Jane che percorrevano la redazione vuota e il rumore secco della porta a vetri, quella con impresso in caratteri dorati “Daily Examiner. Il VOSTRO giornale”, che si chiudeva.",
+        "Gli ci volle un minuto buono per ripendersi da quel k.o. Si alzò, andò in bagno, si lavò il viso con l'acqua fredda. Guardandosi allo specchio riacquistò sangue freddo. “Senti bello, qui è tempo di sgommare... Lascerò una lettera al vecchio dicendogli che sono sulle piste di una grossa inchiesta... che tenga in caldo scrivania e liquidazione... Un salto a casa, il tempo di mettere in valigia le mie quattro carabattole e via di corsa.. Con un po' di fortuna troverò un altro posto dove nascondermi... Fino alla prossima zampata...” disse alla sua immagine riflessa.",
+        "Ringalluzzito, tornò alla scrivania, si mise la giacca e alzò lo sguardo. Fu allora che lo notò. Il buio. La sede del Daily era a livello strada, con le vetrate sulle vie cittadine, tipo quei western in cui Thomas Mitchell faceva il coraggioso direttore di giornale in una sperduta cittadina di frontiera... Erano circa le dieci di sera eppure c'era un buio fitto, profondo. E un silenzio altrettanto profondo. Non una luce o un suono bucavano quell'oscurità densa, catramosa.",
+        "“Un fulmine a ciel sereno” era una frase che Fritz odiava, cercava sempre di evitare di usarla, ma in quel caso, dovette ammetterlo, calzava a pennello. La consapevolezza lo colpì... come un fulmine a ciel sereno: non c'era più di niente da fare, il gatto l'aveva afferrato e non l'avrebbe più lasciato andare.",
+        "Loro avevano sempre saputo dov'era. Capricciose e crudeli, gli avevano fatto credere di esserselo fatto sfuggire, ma non era vero. Non era mai sgusciato dalle loro grinfie. “Perché ora e non prima?” avrebbe voluto chiedere, ma sapeva che sarebbe stato fiato sprecato. Loro non rispondono.",
+        "Decise che sarebbe uscito di scena con una certa dignità. Non avrebbe tentato la fuga o chiesto pietà. Tanto era inutile. Alla James Cagney, doveva affrontare il destino a testa alta. Si accese una sigaretta.",
+        "Appoggiato alla colonna della porta a vetri, lanciò il mozzicone nella strada. Una breve parabola luminosa, prima di essere inghiottito dall'oscurità.",
+        "Spense le luci della redazione, chiuse la porta a chiave e s'infilò il mazzo in tasca. Un sospiro e mosse qualche basso nel buio. Lui e le tenebre. E tutto il resto se n'era andato."
+    ],
+    "timestamp": "2019-10-20T20:14:20Z",
+    "title": "E tutto il resto se n'era andato",
+    "topic_id": 44927,
+    "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato/"
+}

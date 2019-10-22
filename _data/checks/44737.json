@@ -1,0 +1,110 @@
+{
+    "author": {
+        "author_id": 11320,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "mina99",
+        "url": "https://www.writersdream.org/forum/profile/11320-mina99/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7810,
+    "num_commenti": 0,
+    "num_posts": 20,
+    "post_after": [
+        {
+            "post_id": 791852,
+            "text": [
+                "grazie mille dei commenti vi ringrazio per gli ottimi consigli e correzioni, e per le interpretazioni. Provo a rispondere più o meno punto per punto",
+                "In effetti sono d'accordo; ho cercato di trasmettere l'immagine di un futuro sì tecnologizzato ma ancora molto molto vicino a noi come stile di vita e circa anche come società. Però sì, hai ragione",
+                "Bell'idea Il concetto che ho voluto esprimere era una sorta di sfarfallamento della realtà tra tu (protagonista) e tu (lettore)",
+                "Invece hai colto in pieno una delle mie intenzioni",
+                "Che ansia Mi spiace, io penso sarei morto dalla paura"
+            ],
+            "timestamp": "2019-10-10T06:33:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=791852"
+        },
+        {
+            "post_id": 792415,
+            "text": [
+                "Ciao",
+                "Grazie mille del passaggio. I tuoi interventi sono sempre graditissimi e lasciano spazio a riflessioni. Grazie anche dei complimenti e delle tue interpretazioni a presto!"
+            ],
+            "timestamp": "2019-10-13T08:26:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=792415"
+        },
+        {
+            "post_id": 794248,
+            "text": [
+                "grazie mille del passaggio, sono lusingato e grazie anche degli ottimi consigli",
+                "hai ragione; ti do la stessa motivazione che ho dato all'abbonamento a internet non pagato:"
+            ],
+            "timestamp": "2019-10-20T17:00:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=794248"
+        },
+        {
+            "post_id": 794292,
+            "text": [
+                "Grazie mille delle bellissime parole, questo commento lo incornicio e grazie del tuo prezioso punto di vista"
+            ],
+            "timestamp": "2019-10-21T05:04:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=794292"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791143,
+            "text": [
+                "Che inquietante l'ho letto viaggiando in treno. Forse guardano anche me?",
+                "Il finale mi piace, ma mi frustra, vorrei saperlo anche io cosa capisce.",
+                "Bel racconto ansiogeno"
+            ],
+            "timestamp": "2019-10-07T07:36:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima//?do=findComment&comment=791143"
+        }
+    ],
+    "text": [
+        "commento",
+        "Traccia di mezzogiorno",
+        "Senti la sveglia suonare e con un gesto della mano la fai smettere, poi sbuffi e ti alzi a sedere. Ordini alle luci di accendersi. Esci dalla camera e vai in cucina. Prendi una tazza, la riempi d’acqua al rubinetto e la metti nel forno microonde. Intanto afferri una scatola di biscotti, la apri e la posi sul tavolo. Quando il microonde suona, recuperi la tazza e ci butti dentro una zolletta di zucchero e una busta di tè da discount. Ti siedi e mangi in silenzio, fissando il vuoto. Vai in bagno, dove ti lavi denti e viso. Ti guardi allo specchio, il viso gocciolante, gli occhi vitrei. Torni in camera e ti vesti. Spente le luci, passi in salotto dove recuperi la valigetta e il cappotto, poi esci di casa.",
+        "Chiusa la porta alle spalle, prosegui a testa bassa verso la stazione. Attorno a te si stagliano palazzi ricoperti di insegne al neon. Fumo nero sale da alcune torri, offuscando il sole. Le auto sfrecciano rapidamente in cielo su strade invisibili. Ti stringi nella giacca e tiri dritto. Arrivi cinque minuti in anticipo, e il treno fa dieci minuti di ritardo. Una volta su ti siedi in un angolino tranquillo, la valigetta in grembo, e sospiri. Prendi il cellulare olografico e lo accendi.",
+        "Non è connesso alla rete. Forse hai dimenticato di pagare l’abbonamento nella convinzione di averlo già fatto, ti dici. Strano. Niente musica, niente social, niente giornale, niente libri. Si prospetta un viaggio noioso. Sospiri e vaghi con lo sguardo nella cabina. È colma di gente, impegnata coi loro telefoni. I soliti viaggiatori che si trovano la mattina presto: lavoratori, studenti e qualche anziano. Di fronte a te una coppia di vecchietti sta guardando qualcosa sullo stesso schermo, sorridendo. Per un istante l’anziano alza lo sguardo su di te. Ti senti a disagio. Che sguardo strano, quasi accusatorio. Cerchi di scacciare il pensiero.",
+        "Per un po’ rivolgi l’attenzione all’esterno, oltre i vetri sporchi. Vedi scorrere palazzi grigi, cartelloni pubblicitari, robot spazzini e auto di lusso lassù in alto, irraggiungibili. Cerchi di perderti nei tuoi pensieri, ma hai una sensazione fastidiosa. Ti volti all’interno della cabina e scorgi molte persone abbassare lo sguardo ai propri cellulari. Il tuo cuore manca un battito. Che significa? Apri la bocca come a voler dire qualcosa. Te lo sei immaginato? Sembrano tutti presi dai propri affari. Magari hai qualcosa fuori posto. Ti studi il giubbotto, la valigetta, i pantaloni, le scarpe. Tutto nella norma. Ti convinci che nessuno ti stava fissando. Perché dovrebbero? Sei una persona qualunque, mica il protagonista di un racconto o cos’altro.",
+        "In fondo alla carrozza una ragazzina ti sta guardando negli occhi. È seduta con la cartella ai piedi, il telefono mollemente in mano, mentre un ragazzo accanto le sonnecchia su una spalla. Lo sguardo è rivolto direttamente a te. Con sorpresa ti guardi attorno, chiedendoti cosa abbia attirato la sua attenzione. Non c’è niente di interessante. La sbirci: ti sta ancora fissando intensamente, un’espressione truce. Non reggi lo sguardo e lo abbassi. Cosa c’è di interessante in te? Cerchi di rilassarti con respiri profondi. Niente. Probabilmente è solo imbambolata su un punto a caso. Capita anche a te, quando fai le ore piccole. Non sta guardando te, no, no di certo.",
+        "Però ti rendi conta che ora anche un anziano, una donna elegante e un omone, sparsi per la carrozza, ti stanno fissando. Che sta succedendo? Senti l’angoscia bloccarti sul sedile e inizi a sudare freddo. La tua immaginazione vaga: forse hai fatto qualcosa che non avresti dovuto? No, sei innocente. Una fantasia alla Dr Jekyll e Mr Hyde ti attraversa la mente: forse di notte compi crimini atroci di cui la mattina non hai memoria, e ora l’hanno scoperto.",
+        "Che sciocchezze. Ti perdi spesso in film mentali, la tua vita non è molto avventurosa. Se solo avessi accesso alla rete! Ci metteresti un secondo a controllare i giornali. O meglio, pensi, ci metteresti un secondo a spegnere ogni dubbio su questa stupidaggine, verificando che nessuno sa di te. Sapere cosa, poi? Non hai fatto niente. Non hai nessuna assurda confessione da fare. Però essere tagliati fuori dalla rete è una sensazione orribile, ti fa sentire un’illusione.",
+        "Hai la tentazione di chiedere ai signori di fronte il telefono in prestito, ma ti trattieni per non fare una strana impressione. E poi ti stanno fissando. Devi resistere solo fino alla tua meta, lì ogni dubbio sarà fugato. Di una cosa hai la certezza: sei innocente. Dev’essere solo la suggestione che collega nella tua testa elementi casuali, nessuno ti sta guardando, sono allucinazioni dettate dal tuo disperato bisogno di attenzioni. Altra gente però ti fissa ora. Stai forse sognando? Sì, dev’essere un incubo, ora ti sveglierai e…",
+        "Il treno si arresta e le porte si aprono. Scatti in piedi in modo automatico. Gli altri passeggeri restarono seduti, la schiena dritta e gli occhi puntati su di te, in un silenzio tombale. Ti senti le gambe molli. Come negli incubi, il primo passo è quello più difficile. Ci metti un’eternità, ma infine metti un piede dopo l’altro e corri fuori. Rabbrividendo al vento gelido della città, senti ancora quegli sguardi alla schiena. Ti confondi tra la ressa di viandanti e ti dirigi verso la metropolitana.",
+        "Cos’è appena successo? Ti senti preda di un terrore irrazionale e non riesci a realizzare che tutto questo sta accadendo proprio a te. Ti sembra di starti guardando dall’esterno, dall’alto. Sai però che quella figura spaventata sei tu, e ti senti terribilmente in pericolo. Qualcuno dei passanti ti lancia rapide occhiate, per poi andarsene. Arrivato il treno metropolitano, ti butti nella calca per entrare. Ancora poco per scoprire la verità, pensi tremando.",
+        "Cosa vogliono da te? Sei innocente, ti ripeti, sei innocente, e se necessario lo proverai… La tua esistenza ne è una prova. Sei una persona qualunque, insignificante, come altri miliardi al mondo. Ma qualcosa è successo. Forse, forse, forse non sei innocente come credi. Forse sei colpevole. Criminale. No! Ti conosci, hai vissuto al tuo fianco sin dalla tua nascita, sei innocente, eppure…",
+        "D’un tratto ti sorge la domanda più ardita di tutte: perché ci sono delle scritte che descrivono tutto quello che fai e pensi? Ora le scritte stanno descrivendo come pensi a come stanno descrivendo i tuoi pensieri, pensi. E mentre pensi ti sembra quasi di trovarti dove ti trovi, a leggere una semplice storia, ma è una sensazione che dura un attimo, perché poi sei di nuovo in metropolitana, tra decine di altre valigette, cappotti, braccia allungate a reggersi, con un odore stagnante di persone. Stai impazzendo. Il treno fila via rapido.",
+        "Calmi il respiro, controlli il cellulare – ancora sconnesso – e infine alzi lo sguardo. Tutti gli occhi sono puntati su di te. Ti lasci sfuggire un mugolio dalle labbra. Borbotti un paio di saluti a chi ti guarda, sperando di spingerli a risponderti o almeno distogliere lo sguardo. Al contrario, iniziano a bisbigliare tra loro. Sei un fantasma forse?",
+        "Accogli la fermata successiva come una benedizione: ti fai strada a gomitate tra la gente immobile e corri fuori, su per le scale, verso l’aria aperta e la libertà. Fossi anche colpevole – ma no, sei innocente! – hai bisogno di capire cosa sta succedendo. Esci in strada e tutti si voltano di scatto a guardarti, un’espressione indecifrabile in volto. Ansimante, corri verso la piazza. Un anziano ti passa accanto, guardandoti triste, e se ne va sospirando e scuotendo la testa. Provi a chiamarlo, ma è inutile. Ti trascini fino alla piazza, e lo vedi. Su un cartellone elettrico di un grattacielo c’è il tuo volto. Cadi in ginocchio, piangendo senza ritegno. Le persone si chiudono a cerchio attorno a te, impassibili, e tu finalmente capisci. Tiri su col naso e alzi lo sguardo. La gente avanza."
+    ],
+    "timestamp": "2019-10-06T19:30:54Z",
+    "title": "[MI129] Giochiamo: tu fai la vittima",
+    "topic_id": 44737,
+    "url": "https://www.writersdream.org/forum/forums/topic/44737-mi129-giochiamo-tu-fai-la-vittima/"
+}

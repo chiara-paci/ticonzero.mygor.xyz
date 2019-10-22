@@ -1,0 +1,123 @@
+{
+    "author": {
+        "author_id": 22545,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Max Friedmon",
+        "url": "https://www.writersdream.org/forum/profile/22545-max-friedmon/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Complimenti, un bel racconto. il climax è costruito con acutezza: dal momento iniziale, di mormalità e routine (T che si prepara a entrare in scena) al culmine finale, con quella folla che fiuisce come immaginiamo sia de-fluito tra le assi del palcoscenico il corpo e il sangue di T., dissolto.",
+                    "Mi rende perplesso il passaggio “Che succede?” pensò, “che sia successo qualcosa da qualche parte là fuori e se ne stia diffondendo la notizia in questo momento, come nel bel racconto di Buzzati?”. Se fossimo in un film, diremmo che è una \"citazione\", ma nel cinema è più facile. Mi spiego. Se un attore dice una certa battuta prresa di peso da un altro film, la colonna sonora contiene un brano di un altro score, una inquadratura o una sequenza sono uguali a una inquadratura o a una sequenza celebri parliamo di \"citazione\". Lo spettatore cinefilo la colgie, il non cinefilo no, ma va bene lo stesso. Se in sovraimpressione sullo schermo comparisse la scritta \"Questa è una citazione da Ombre rosse, Psyco o L'esorcista\" sarebbe quantomeno fastidioso, se non ridicolo. Nel tuo testo, il passaggio incriminato, a mio parere, stona. Suona come una \"zeppa\", un'aggiunta superflua che s'incunea nel flusso del racconto e lo rovina, sia pure per poco.",
+                    "Pià che a Buzzati, leggendo il raxcconto ho pensato a Kafka: T. è colpevole, non sa di cosa né perché, ma alla fine lo accetta e questo, paradossalmente, lo condanna. Cpme Josepk K nel Processo, T. cade vittima dei suoi carnefici quando accetta e proclama di essere colpevole. “Cos’è che volete, per lasciarmi stare, una confessione? Benissimo. Sono colpevole. Colpevole! Di tutto quello che volete! Sono stato io! Ma per l’amor di dio…”: ecco il momento in cui il Destino fa scattare la trappola",
+                    "Un'ultima glossa. All'inizio (“Una bella giornata, nevvero, signor Pavlov?” disse a voce alta e con fare beffardo, camminando verso un uomo che, legato, giaceva in un angolo del palcoscenico. La sua comparsa fu accompagnata da un applauso convinto dal quale Teodorov fu ringalluzzito) ho pensato che lo spettacolo fosse una specie di Grand Guignol, con una variante importante; come in Intervista con il vampiro (film, non libro) il Pavlov del testo non è un attore, ma una vitima reale e le torture sarebbero state vere, non fittizie. Per quello poi T. è linciato dalla folla, come mostro. Invece rispetto alla mia impressione iniziale il testo prende una strada diversa, metafisica, che lo fa volare verso altre sfere."
+                ]
+            ],
+            "timestamp": "2019-10-13T15:46:02Z",
+            "title": "[MI 129] L'accusa",
+            "url": "https://www.writersdream.org/forum/forums/topic/44745-mi-129-laccusa//?do=findComment&comment=792529",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3878,
+    "num_commenti": 1,
+    "num_posts": 14,
+    "post_after": [
+        {
+            "post_id": 792899,
+            "text": [
+                "e grazie per i vostri apprezzamenti, sono contento il racconto abbia suscitato il vostro interesse. So bene che il testo lascia domande senza risposte, ma l'effetto di indefinito, di sfumato era proprio quello che volevo ottenere. Volevo instillare nel lettore l'inquietudine del non detto, del non svelato: i quattro aspiranti (sprovveduti?) Faust cosa hanno evocato che li ha spaventati al punto di evitarsi per sempre? c'erano veramente quelle \"ombre\" oppure erano frutto di fantasie sovraeccitate o magari di un banale colpo di sole? di cosa è morta Laura? e perché l'io narrante non ha nome? etc etc",
+                "PS qual è la canzone in cui compare l'espressione \"bagnati dal sole\"? non hai scritto il nome del cantante"
+            ],
+            "timestamp": "2019-10-14T21:31:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=792899"
+        },
+        {
+            "post_id": 793184,
+            "text": [],
+            "timestamp": "2019-10-15T20:43:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=793184"
+        },
+        {
+            "post_id": 793187,
+            "text": [
+                "grazie per l'apprezzamento. Pensare che detesto le ripetizioni e ovviamente il Diavolo ci ha messo la coda: non mi ero accorto di aver usato due volte il termine \"alla spicciolata\"..."
+            ],
+            "timestamp": "2019-10-15T20:48:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=793187"
+        },
+        {
+            "post_id": 793932,
+            "text": [
+                "grazie!"
+            ],
+            "timestamp": "2019-10-18T21:31:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=793932"
+        },
+        {
+            "post_id": 793933,
+            "text": [
+                "grazie!"
+            ],
+            "timestamp": "2019-10-18T21:32:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=793933"
+        },
+        {
+            "post_id": 794197,
+            "text": [
+                "grazie!",
+                "credo che per gli aspiranti Faust quella sia stata la prima e ultima evocazione, ma bisognerebbe chiederlo all'io narrante"
+            ],
+            "timestamp": "2019-10-20T11:05:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=794197"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "[ ]",
+        "Laura è morta. Non andrò al suo funerale. E credo non ci andranno nemmeno gli altri. Sono vent'anni, più o meno, che facciamo di tutto per evitarci e nessuno di noi, ne sono certo, ha intenzione di rompere il trattato silenzioso che abbiamo stretto quel giorno di luglio.",
+        "Eravamo quattro. Laura, Giorgio, Cristina e io. Eravamo insperabili. Amici davvero, nessuna complicazione sentimentale. Trentenni, ci sentivamo sull'orlo di grandi conquiste. Non quello, ma l'anno prossimo avremmo spaccato il mondo. E così via.",
+        "Era una domenica di luglio. Una festa in una casa di campagna. In un paese di cui ho dimenticato il nome ospiti di un tizio di cui non ricordo nulla.",
+        "Non è vero. Ricordo bene il luogo e l'ospite. E il giorno e l'ora. Faceva caldo. Un caldo soffocante. Le cicale frinivano nei campi bagnati dal sole. Era più o meno mezzogiorno. L'idea era che ciascuno arrivasse alla spicciolata, quando voleva portando ciò che voleva. Noi quattro eravamo arrivati la mattina e dopo un paio d'ore Laura ebbe un'idea. L'Idea. Quattro sdraio disposte in circolo nel retro della casa, dove cominciava un prato. “Un posto isolato e tranquillo” come voleva lei.",
+        "Oggi sarebbe facile dire che io o Giorgio oppure Cristina eravamo nervosi, contrari, che almeno uno di noi aveva cercato di opporsi, di far cambiare parere agli altri adeguandosi poi per mero spirito di gruppo... Sarebbe facile, ma falso. Laura o Giorgio o Cristina o io... chiunque di noi avesse lanciato l'Idea gli altri non avrebbero avuto obiezioni. Fu un caso che la pagliuzza più corta, per così dire, toccasse a Laura.",
+        "Recuperammo le sdraio senza problemi e ci mettemmo in circolo. In senso orario. Io, Laura, Giorgio e Cristina. “Uomo-donna-uomo-donna... un vero galateo” scherzò Cristina, ma era nervosa. Lo eravamo tutti. Ci stavamo imbarcando con leggerezza verso un viaggio che non sapevamo bene dove ci avrebbe condotti. Ma eravamo decisi. Non l'anno prossimo o quello dopo ancora. Era quello il momento. L'Idea serviva a quello.",
+        "Laura, la capitana della nave, diede ordine di mollare le ancore e la navigazione iniziò. Tutti dicemmo le parole e compimmo i gesti.",
+        "Il gelo. Le cicale frinivano impazzite, il sole era nel cielo, a misurarla la temperatura sarebbe stata da piena estate. Ma tra noi c'era il gelo. Un freddo profondo, che ci era sceso nelle ossa.",
+        "E poi quella sensazione. Se mi fossi voltato, le avrei viste. Creature nere come l'abisso, abominevoli, sorte dalla terra e assise dietro ciascuna sdraio. Io, Laura, Giorgio e Cristina: ciascuno aveva le sue. Nessuno poteva vedere quelle delle altre. Ciascuno poteva sentire le sue. Tutti resistemmo alla tentazione di voltarci.",
+        "Le cicale tacquero. All'improvviso. Quasi un segnale. Ci scuotemmo da una specie di trance, ci alzammo in piedi storditi, come reduci da un incidente o da un trauma collettivo. Eravamo segnati. Dannati.",
+        "Non riuscivamo a guardarci in faccia né a parlarci. E nemmeno lo volevamo. Ci mescolammo agli altri invitati man mano che arrivavano, poi, alla spicciolata, ciascuno di noi se andò. Eravamo venuti con la macchina di Giorgio, ma ognuno trovò il modo di farsi dare un passaggio fino in città.",
+        "Dire che da quel giorno ci perdemmo di vista sarebbe dire poco. Ognuno cancellò l'esistenza dell'altro. E-mail, messaggi, numeri di cellulare... tutto finì nella spazzatura.",
+        "Non fu una decisione che prendemmo di comune accordo. Niente patti firmati con il sangue, strette di mano, solenni giuramenti o roba simile. Un'intesa silenziosa, cementata dalla paura, dal gelo e dal ricordo di quello che avevamo vissuto.",
+        "Alla notizia della morte di Laura ho provato dispiacere. Immagino Giorgio e Cristina abbiano provato lo stesso. Ma non andremo al suo funerale, lo sento. Come Laura non sarebbe venuta a nessuno dei nostri.",
+        "Ce ne andremo così, prima o poi, uno alla volta. E nessuno di noi avrà spaccato il mondo, né l'anno prossimo né mai."
+    ],
+    "timestamp": "2019-10-13T15:49:44Z",
+    "title": "I demoni  meridiani",
+    "topic_id": 44839,
+    "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani/"
+}

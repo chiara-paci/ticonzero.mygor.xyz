@@ -1,0 +1,143 @@
+{
+    "author": {
+        "author_id": 33896,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kasimiro",
+        "url": "https://www.writersdream.org/forum/profile/33896-kasimiro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao trovo molto poetico l'incipit iniziale, una bella apertura...alla vita.",
+                    "Mi sembra che nel testo ci sia una marcata distinzione tra i ricordi infantili e il pensiero dell'adulta.",
+                    "Questa parte dei ricordi da bambina è molto tenera, nella delicatezza di come porsi di fronte ad una nuova situazione, anche se questo dubbio sul saluto, non lo trovo particolarmente realistico come pensiero da parte di un bambino, che spesso non gliene frega niente di salutare chicchessia, ma non è questo il punto. Lo scombussolamento ormonale, lo avrei interpretato con più irrazionalità: un miscuglio di rabbia, sfogo, tenerezza e sensibilità. Una difficoltà nel gestire le emozioni e una sorta di cinismo preadolescenziale. (Scusa l'irruenza, ma attualmente ne ho una in casa di quell'età più o meno così).",
+                    "Questa accortezza nel chiedersi come affrontare un saluto, rivela una sensibilità interiore del bambino, che oggi mi sembra sempre meno esternata.",
+                    "La frase finale che chiude questa parte è molto bella.",
+                    "A parte le raccomandazioni della maestra che mi urtano un pò, revisionate per fortuna dall'adulta. La seconda parte ha uno slancio forte, un crescendo che si libera della timidezza della bambina. Parte in tutte le direzioni. Quasi quasi si potrebbero invertire le parti. La bambina me la immagino interpretare bene il pensiero finale. In fondo, più passa il tempo e più viene fuori il bambino che è in noi.",
+                    "Mi piace molto la scrittura soprattutto in questa seconda parte, dove i pensieri prendono forma liberamente, non necessariamente collegati l'uno all'altro e la chiusa finale la trovo bellissima."
+                ]
+            ],
+            "timestamp": "2019-10-11T22:44:25Z",
+            "title": "Parentesi [racconto di 2500 battute]",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=792171",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6671,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 792207,
+            "text": [
+                "Grazie per il commento; è proprio vero che ricorda un calare fumettistico, ho voluto cavarmela in modo sbrigativo, dovrò porre più attenzione. E pensare che nel tempo sto eliminando gli esclamativi! Orca! Forse c'è la posso fare, devo fare meditazione. Il grassetto lo risolvo subito: è giunto il momento di passare dalle lenti 0,75 a +1,00 o 1,50. Grazie alla prossima"
+            ],
+            "timestamp": "2019-10-12T10:17:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44813-newton-e-kant-si-presero-per-mano//?do=findComment&comment=792207"
+        },
+        {
+            "post_id": 792360,
+            "text": [
+                "Grazie per il commento e le puntualizzazioni. Per me è un gran piacere che la lettura sia stata gradevole. Grazie anche per la segnalazione della favola di José Eduardo Agualusa, che non conosco. Sarà un piacere leggerla."
+            ],
+            "timestamp": "2019-10-12T21:10:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44813-newton-e-kant-si-presero-per-mano//?do=findComment&comment=792360"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Leggeva il libro di scienze, nella biblioteca comunale. Capitolo dodicesimo: “Newton e la legge di gravitazione universale.”",
+        "Ma il suo pensiero era rivolto altrove.",
+        "Il libro era sempre aperto, alla stessa pagina da una settimana, come il suo sguardo, rivolto nella stessa direzione: Marta, intenta a studiare filosofia.",
+        "Provava un'attrazione speciale e la guardava stando attento a non farsi sorprendere.",
+        "Poi, distrattamente, un occhio ritornava sul libro di scienze:",
+        "“...mentre riposava ai piedi di un albero, vide cadere una mela sopra la sua testa. Il signor Newton, persona intelligente e colta, si chiese il perché di quella discesa, e dopo studi e formule matematiche elaborò la legge di gravitazione universale. Correva l'anno 1687.”",
+        "Sviluppò la teoria secondo la quale: un corpo cade perché viene attratto dalla terra da una forza, chiamata gravitazionale; maggiore è la massa dell'oggetto e più forte sarà l'attrazione e cadrà più velocemente.",
+        "“E se esiste una forza gravitazionale anche fra persone? - Pensava - Una forza che mi attrae verso Marta! Sembra che più mi avvicini e maggiore sia l'attrazione, come formulava Newton. Oppure ha a che fare con la chimica?”",
+        "Aveva letto che ogni cosa presente in questo mondo è formata da legami chimici: Noi, le rocce, l'acqua, il gatto, il trenino telecomandato, i biscotti per la colazione. Stessi atomi, legati fra loro in forme diverse.",
+        "Prometteva bene il ragazzo, appassionato di scienze, matematica, chimica, ma completamente disorientato di fronte a quell'interesse verso la ragazza.",
+        "“Quale legame ci sarà tra me e lei? Forse siamo due nuclei di un atomo, con gli elettroni intorno che passano a velocità supersonica: ci attraversano, ci compenetrano e si portano una parte di noi che viene condivisa. Dev'essere così!”",
+        "In alcuni momenti, Giacomo sentiva come un brivido che lo attraversava, un flusso che partiva dalla testa e arrivava alla punta delle dita: “Ecco l'elettrone!”",
+        "Marta era sempre intenta a studiare il suo manuale di filosofia moderna; sul tavolo, sparpagliati, fogli con appunti, scarabocchi, evidenziatori. Giacomo fu colpito da un disegno, una specie di cavalluccio marino formato da una serie di figure tondeggianti concentriche accostate, disegnate con la biro.",
+        "Ebbe un sussulto: “Lo sapevo che c'era qualcosa in comune!”",
+        "Era sempre stato affascinato dal cavalluccio marino; la prima volta che ne aveva sentito parlare, fu da bambino; lo aveva visto disegnato in alcuni racconti di mitologia greca: animale metà cavallo e metà pesce che traina il carro di Poseidone, dio del mare.",
+        "Poi la scoperta: un pesce di pochi centimetri.",
+        "Fu durante la visita ad un acquario, in una sala semibuia, che notò la piccola teca a forma di parallelepipedo posta in direzione verticale: una quindicina di esemplari dalla sagoma inconfondibile. Lentamente salivano e scendevano aiutati dalla piccola pinna dorsale che oscillava ad alta frequenza, quasi come un battito d'ali messo in moto da una carica a manovella di quei giochi di latta di una volta.",
+        "In mezzo alla vasca si ergeva verticalmente, partendo dal fondo sabbioso, una roccia esile con tanti spunzoni ai quali erano ancorati alcuni coralli, anemoni di mare, piante acquatiche con foglie lunghe e sottili. Gli ippocampi si muovevano lentamente, sfiorandosi e aggrappandosi con la loro coda prensile ad ogni appiglio.",
+        "Giacomo riviveva quella scena, con lo sguardo perso in direzione della ragazza: un'ora estasiato ad osservare quelle bizzarre creature, interrotto dalla guardiana che dovette far presente l'imminente chiusura.",
+        "Stava per chiudere anche la biblioteca.",
+        "Ordinatamente ognuno sistemò i propri libri.",
+        "Il ragazzo calibrava ogni azione per rendere contemporanea l'uscita con lei.",
+        "Appena ebbe superata la soglia... un altro brivido, più intenso.",
+        "Ruppe gli indugi:",
+        "“Lo sai che di tutte le specie animali, il cavalluccio marino è l'unico maschio che partorisce?” Gli si rivolse nudo e crudo senza preavviso.",
+        "Lei rimase un attimo sospesa, poi dal volto si delineò un sorriso: “Davvero?”",
+        "Anch'egli rimase in sospeso, non aveva pensato ad una possibile risposta, perché, non aveva pensato alla domanda.",
+        "“Ehm...sì, la femmina depone le uova in una specie di marsupio presente sul ventre del maschio; lui le fertilizza, le accudisce e quando avviene la schiusa le partorisce e i genitori rimarranno uniti per tutta la vita!”",
+        "“Sembra una bella favola.”",
+        "“Una stupenda favola che realizza la natura!”",
+        "“Veramente succede questo?”",
+        "“Certo! Non è bellissimo? Un' equa suddivisione dei ruoli!”",
+        "“Mi sembra stupendo! La realtà supera la fantasia! Come va con Newton?",
+        "Rimase sorpreso, non si aspettava quella domanda: “Ehm...abbastanza bene.”",
+        "“Scusa, non volevo metterti in imbarazzo; avevo notato che da alcuni giorni sei fermo sulla stessa pagina.”",
+        "“Mmmm...mi piace approfondire l'argomento.”",
+        "“Beh, anch'io sono ferma da diversi giorni: questo Kant è davvero incomprensibile, non riesco ad andare avanti, lo avevi notato?”",
+        "“Mah...no, ero attratto da altro...da quell'ippocampo stilizzato, bellissimo!”",
+        "“Cosa?”",
+        "“Il cavalluccio marino, che hai disegnato sul foglio. Un extra terrestre piombato in mare: muso da cavallo, coda prensile, pinne bizzarre, punte che sbucano dal corpo. Non ha niente del comune pesce.”",
+        "“Ah...sì, mi piace fare scarabocchi sovra pensiero. Non avevo nessun particolare interesse verso il cavalluccio: me lo stai facendo scoprire ora tu.”",
+        "“Dev'essere quell'elettrone...”",
+        "“Che cosa?”",
+        "“Oh scusa, una mia fantasia... immaginavo che eravamo due atomi con un elettrone in comune che girava e ad ogni passaggio scambiava qualcosa di noi.”",
+        "“Che idea romantica.”",
+        "“Ci vediamo domani?”",
+        "“Stessa sala, stesso libro?”",
+        "“Potremmo anche cambiare posto...mi piacerebbe farti ascoltare una cantante. Una passeggiata al parco?”",
+        "“Oh sì, mi piace la natura e la musica.”",
+        "Giacomo passò le cuffiette a Marta che rimase concentrata ad ascoltare.",
+        "“Che voce struggente!”",
+        "“Eh sì, come la sua vita.”",
+        "“Come si chiama?”",
+        "“Billie Holiday!”",
+        "Dopo qualche pezzo...",
+        "“Ora ti faccio ascoltare qualcosa di più allegro!”",
+        "Marta riconsegnò le cuffiette a Giacomo che rimase sbalordito.",
+        "“Senti che ritmo!” -Esclamò la ragazza mentre muoveva dei passi- Dai, seguimi: Uno, dos, tres, cuatro...”",
+        "Prese per mano Giacomo, che a fatica e in modo impacciato, provava a seguire.",
+        "“Credo che l'elettrone si sia spostato da te, ed è molto salterino!” Commentò il ragazzo.",
+        "L'indomani...",
+        "Di nuovo insieme in biblioteca: Marta di fronte alla pagina del capitolo su Newton e Giacomo a leggere Kant.",
+        "“Così potremo confrontarci e dare la nostra opinione su entrambi!” Concluse Giacomo.",
+        "“Ma la mela che è caduta, se la sarà mangiata?” Chiese Marta.",
+        "“Secondo me, sì. Le vitamine aiutano a sviluppare il cervello, anche se lui, non credo che ne avesse bisogno.”"
+    ],
+    "timestamp": "2019-10-11T23:03:20Z",
+    "title": "Newton e Kant  (si presero per mano)",
+    "topic_id": 44813,
+    "url": "https://www.writersdream.org/forum/forums/topic/44813-newton-e-kant-si-presero-per-mano/"
+}

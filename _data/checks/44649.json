@@ -43,9 +43,58 @@
     },
     "num_chars": 6675,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 790340,
+            "text": [
+                "Ciao Kikki. No, il paragrafo riguarda (come avrai capito leggendo) proprio il sapore delle chele, della sfida per Forbice. Ti ringrazio per il tuo commento. Si, è strano che un pescatore venga definito \"signore\", ma ha le sue ragioni. Spero che il racconto ti abbia intrigato e che ti sia piaciuto. In fase di revisione utilizzerò i tuoi \"occhi\" per fare qualche modifica stilistica. A presto."
+            ],
+            "timestamp": "2019-10-02T16:57:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44649-il-cappello-del-signor-meliner-1-sapore-di-chele-prima-parte//?do=findComment&comment=790340"
+        },
+        {
+            "post_id": 790341,
+            "text": [
+                "Ah, il proverbio è \"chi nasce nel mare muore nel mare\". Non vi è alcun errore"
+            ],
+            "timestamp": "2019-10-02T16:59:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44649-il-cappello-del-signor-meliner-1-sapore-di-chele-prima-parte//?do=findComment&comment=790341"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 790071,
+            "text": [
+                "Buongiorno",
+                "Il sottotitolo mi fa pensare a Sapore di mare, era tua intenzione? Il titolo invece mi intriga. Vado a leggerti.",
+                "terrei più lunga l'introduzione generale, magari contrapponendo anche una parte negativa o comunque spingendo di più sul concetto. Quando inizi a parlare del signor Meliner andrei a capo per dare l'idea che la storia in sé sta iniziando",
+                "non ripeterei il verbo guardare che hai usato poco prima",
+                "preferirei qualcosa di più specifico, magari faceva finta di osservare altro",
+                "toglierei tutte le virgole fino ad ammesso",
+                "cercherei un'alternativa per non ripetere mio-mia",
+                "sicuro nel? Nel mi fa pensare a dentro il mare, che nascono tra i flutti, magari sul?",
+                "userei lungo al posto di per",
+                "eliminerei la d eufonica che fa inciampare la lettura",
+                "non l'avevo mai sentito, dove si usa questo termine?",
+                "sento molto pesante questa costruzione, sia quel che il turbato prima di ragazzino rendono difficoltosa la lettura a mio parere",
+                "proverei così: a nulla, avevamo un solo desiderio: porre le nostre mani...",
+                "al cielo",
+                "hai usato gli scogli nella frase precedente, cercherei un sinonimo",
+                "come mai qui ripeti di nome Forbice? Sappiamo chi stanno cercando e come si chiama, l'hai detto altre volte nel testo, secondo me qui non serve ripeterlo",
+                "Bello il finale, chi lo acchiappa?",
+                "Hai una scrittura densa e dal gusto vagamente classico, le tue frasi sono lunghe e complesse, non lo dico come un aspetto negativo, è solo una constatazione. Sia il titolo che il primo focus si incentrano non solo sul signor Meliner, ma sul suo cappello, di lui però vediamo e sappiamo quasi niente. Una curiosità è chiamare signore un pescatore, è una cosa insolita che mi fa domandare cosa si nasconda dietro a questo personaggio che si occupa delle sue reti.",
+                "Alla prossima , grazie della lettura"
+            ],
+            "timestamp": "2019-10-01T08:31:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44649-il-cappello-del-signor-meliner-1-sapore-di-chele-prima-parte//?do=findComment&comment=790071"
+        }
+    ],
     "text": [
         "IL CAPPELLO DEL SIGNOR MELINER.",
         "1. Sapore di chele.",

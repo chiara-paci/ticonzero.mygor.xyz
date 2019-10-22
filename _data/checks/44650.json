@@ -49,6 +49,12 @@
                     "Ciao Ciao",
                     "Ps: Scusami per l'aspra critica",
                     "﻿﻿"
+                ],
+                [
+                    "@EmperorOfDisaster sei un maestro per me"
+                ],
+                [
+                    "@EmperorOfDisaster il tuo dire mi infiamma"
                 ]
             ],
             "timestamp": "2019-09-29T10:58:23Z",
@@ -66,8 +72,25 @@
     },
     "num_chars": 753,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 790906,
+            "text": [
+                "Ti ringrazio"
+            ],
+            "timestamp": "2019-10-05T18:06:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44650-euridice//?do=findComment&comment=790906"
+        },
+        {
+            "post_id": 793415,
+            "text": [
+                "Mi sono ispirato all'opera di Rilke per il mito di Orfeo e Euridice"
+            ],
+            "timestamp": "2019-10-16T20:20:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44650-euridice//?do=findComment&comment=793415"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ti ho vista fanciulla dal greco viso,",

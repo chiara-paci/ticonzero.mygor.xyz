@@ -1,0 +1,189 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao davvero molto divertente, una favola dalla favola.",
+                    "bellissima questa descrizione. Nocchiuto sono andata a cercarmelo, fantastico!",
+                    "avrei subito messo Baba al posto di nonna",
+                    "farei finire la frase a io. La piscologa ancora non sa niente di Baba Yaga, questa è la risposta alla richiesta di spiegazioni della dottoressa, quindi non puà dire se sia vero o no",
+                    "toglierei tutti i che, alleggerirebbe la frase senza portare via niente",
+                    "se vuoi tenere il punto di domanda metterei due punti dopo me",
+                    "modificherei un po': E chi non ci penserebbe, vivendo da sola...",
+                    "hai perso uno spazio dopo i punti di sospensione",
+                    "metterei un al posto di il perché non sappiamo di che clacson si tratti, immagino sia uno a caso che passa per la strada e suona. Se invece dici il clacson dai per scontato che sia un clacson che dovremmo conoscere",
+                    "Davvero un bel racconto! Sei riuscita a costruire una atmosfera fiabesca e a farci dare per scontato che tutti i personaggi siano bel reali. Baba Yaga è davvero fantastica.",
+                    "Grazie per la bella fiaba"
+                ]
+            ],
+            "timestamp": "2019-10-08T08:41:26Z",
+            "title": "[MI 129] Baba Yaga",
+            "url": "https://www.writersdream.org/forum/forums/topic/44739-mi-129-baba-yaga//?do=findComment&comment=791378",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 7779,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 791625,
+            "text": [
+                "giusto! Con il fatto di aver inserito gli altri volontari pochi capitoli fa, la questione mi è ancora poco chiara, ma in revisione tutto tornerà a posto",
+                "non trovi che sarebbe meglio inserire una scena, da qualche parte nei capitoli precedenti, in cui Erika capisce che i due condividono la stessa stanza? Mi sembra un fatto troppo grosso per comparire in questo modo, cioé solo riportato dopo che è già avvenuto",
+                "parlo proprio di donne che decidono di prostituirsi e lo fanno in casa, nella loro casa, non parlo di case chiuse",
+                "qui non capisco bene perché la frase ti questa impressione, ma ci ragiono",
+                "Grazie mille, caro"
+            ],
+            "timestamp": "2019-10-09T06:25:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=791625"
+        },
+        {
+            "post_id": 791780,
+            "text": [
+                "Ho capito, sì, hai ragione. Credo che il problema scompaia nel momento in cui il testo non si frammenta, ma rileggerò facendo attenzione, grazie",
+                "super"
+            ],
+            "timestamp": "2019-10-09T17:21:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=791780"
+        },
+        {
+            "post_id": 793223,
+            "text": [
+                "Buongiorno cara",
+                "tutta la faccenda Roberto non è nociva solo per Roberto come persona, ma anche per tutta l'associazione che è legata a lui",
+                "sapevo che saresti stata d'accordo con lei",
+                "lo dice Erika, si capisce poco perché ho diviso il testo molto male per riuscire a postarlo. Colpa mia",
+                "non lo dico mai come si chiama, l'ho lasciata senza nome a posta",
+                "Grazie mille cara Flo, sei sempre molto gentile con me"
+            ],
+            "timestamp": "2019-10-16T06:22:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=793223"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791625,
+            "text": [
+                "giusto! Con il fatto di aver inserito gli altri volontari pochi capitoli fa, la questione mi è ancora poco chiara, ma in revisione tutto tornerà a posto",
+                "non trovi che sarebbe meglio inserire una scena, da qualche parte nei capitoli precedenti, in cui Erika capisce che i due condividono la stessa stanza? Mi sembra un fatto troppo grosso per comparire in questo modo, cioé solo riportato dopo che è già avvenuto",
+                "parlo proprio di donne che decidono di prostituirsi e lo fanno in casa, nella loro casa, non parlo di case chiuse",
+                "qui non capisco bene perché la frase ti questa impressione, ma ci ragiono",
+                "Grazie mille, caro"
+            ],
+            "timestamp": "2019-10-09T06:25:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=791625"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791780,
+            "text": [
+                "Ho capito, sì, hai ragione. Credo che il problema scompaia nel momento in cui il testo non si frammenta, ma rileggerò facendo attenzione, grazie",
+                "super"
+            ],
+            "timestamp": "2019-10-09T17:21:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=791780"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 793223,
+            "text": [
+                "Buongiorno cara",
+                "tutta la faccenda Roberto non è nociva solo per Roberto come persona, ma anche per tutta l'associazione che è legata a lui",
+                "sapevo che saresti stata d'accordo con lei",
+                "lo dice Erika, si capisce poco perché ho diviso il testo molto male per riuscire a postarlo. Colpa mia",
+                "non lo dico mai come si chiama, l'ho lasciata senza nome a posta",
+                "Grazie mille cara Flo, sei sempre molto gentile con me"
+            ],
+            "timestamp": "2019-10-16T06:22:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13//?do=findComment&comment=793223"
+        }
+    ],
+    "text": [
+        "È la fine, lo so. Lo sento.",
+        "Ci incontriamo alle sei in un bar anonimo e fuori zona che ha il grande vantaggio di avere una saletta sul retro. Siamo cinque, tutti quelli che sono rimasti a comporre l’associazione.",
+        "Quando ho cominciato a lavorare sulla strada con la macchina di pattuglia c’erano almeno un’altra decina di volontari attivi; sono scomparsi senza clamore, tanto che ci ho messo un po’ a realizzarlo. Negli ultimi tempi anche Inna è uscita a portare tè e preservativi, ma non l’abbiamo coinvolta in questa riunione.",
+        "Le altre sono già sedute, quando entro e saluto si zittiscono. Marzia volta lo sguardo verso una finestra che non ha niente da mostrare, Simona mi fissa dritto negli occhi senza un sorriso e Daniela si alza per venirmi incontro e baciarmi su entrambe le guance. Personalità diverse o attitudini alternative nell’affrontare un discorso? Non so rispondermi.",
+        "Davide è in ritardo, comincio a pensare che faccia parte del suo essere. Non che gli piaccia farsi aspettare, ma è una di quelle persone che non riesce in nessun modo a rispettare un orario. Per quanto si sforzi.",
+        "Quando arriva saluta tutti con un sorriso, a me riserva una carezza. Ci sediamo vicini, siamo consapevoli di essere finiti sul banco degli accusati, per una qualche ragione che non riesco affatto a spiegarmi.",
+        "«Siete già stati dall’avvocato?» chiede Simona mettendo in chiaro che sarà lei a determinare il tono di questa riunione.",
+        "«No, ci andiamo domani tutti e due». Sempre in ritardo, ma di sicuro Davide sa essere più diplomatico di me. Io sono già arrabbiata, lui sembra tranquillo. Prendo qualche bel respiro e cerco di rasserenarmi; non può uscire niente di buono da una conversazione tra persone che vedono rosso prima ancora di aprire la bocca.",
+        "Tutti i volontari devono passare dall’avvocato che difende il caso di Roberto per raccontare la nostra versione dei fatti, tutto quello che sappiamo di queste voci che circolano su di lui.",
+        "«Credo sia meglio dire le cose come stanno senza farla troppo lunga». Il tono di Daniela è gentile mentre nasconde le mani tra le gambe. «Noi tre abbiamo parlato e ce ne andiamo. Lasciamo l’associazione».",
+        "«Nessuna di noi se la sente di rimanere a queste condizioni», spiega Marzia. «Roberto conosce già la mia posizione sull’argomento: mi sembrava più corretto parlarne prima con lui».",
+        "«Gli avete già parlato anche voi?» chiedo a Simona e Daniela. «Avete già deciso di lasciare l’associazione?»",
+        "«Sì, sa anche di noi. È meglio così», dice Daniela.",
+        "«Non c’è niente da salvare in questa situazione, dovreste rendervene conto anche voi. Ora che siete rimasti soli», precisa Simona. «Roberto ci ha rovinati tutti e non finirà qui considerando il suo rapporto con Inna...»",
+        "«Non c’è niente di male in questo, si piacciono e si vogliono bene. Perché non puoi essere contenta per loro e basta?» chiede Davide con un tono che non mi aspettavo da lui.",
+        "«Perché devi ammettere che non depone a suo favore e nemmeno a quello dell’associazione».",
+        "Simona ha ragione, non c’è niente da dire. Quando ho realizzato che Roberto e Inna condividevano la stessa camera da letto ho avuto l’impressione di perdere ogni punto di riferimento. La prima cosa che ho pensato è che le voci erano vere. Non ho mai affrontato l’argomento con nessuno dei due anche se ho cercato di osservare lei con attenzione. Quando nel suo sguardo ho visto amore mi sono tappata la bocca.",
+        "«Io sono felice per loro, credo che se lo meritino entrambi. Ma hai ragione Simona: hanno avuto un tempismo davvero perfetto».",
+        "«Anche io sono felice per loro, Erika, ma che c’entra? Qui stiamo parlando di un’associazione che lavora con le prostitute, in cui il presidente viene denunciato per molestie sessuali e ha una relazione con una ex prostituta che ha aiutato a lasciare la strada».",
+        "«Non sono prostitute, sono vittime di tratta», puntualizzo senza riuscire a trattenermi e provocando Simona senza volerlo del tutto, ma anche senza essermi troppo sforzata per non farlo. Non si gioca con le parole!",
+        "Ho controllato sul dizionario le definizioni perché volevo avere qualcosa di concreto, di difficile da confutare: una prostituta è una donna che decide liberamente di fare commercio del proprio corpo. Alla voce “tratta” invece c’è scritto: anche chiamato traffico di esseri umani per diversi scopi, quali lo sfruttamento sessuale, la schiavitù e la compravendita di organi.",
+        "La prostituzione non costituisce reato, ognuno di noi è libero di vendere il proprio corpo in cambio di soldi. Le prostitute sono ben organizzate, lavorano nelle loro case, climatizzate e al sicuro. Decidono da sole clienti e tariffe, pubblicizzano le loro prestazioni e i servizi offerti su internet e sui giornali. Sono imprenditrici di se stesse.",
+        "È reato invece guadagnare sul corpo di altre persone che non si prostituiscono liberamente. Costituisce reato sfruttare sessualmente una persona per arricchirsi e tenerla in schiavitù.",
+        "Sono pedante, lo so.",
+        "«Hai ragione, Erika», concorda conciliante Daniela. «Ma non è questo il punto».",
+        "«No, infatti. Sappiamo di essere tutti dalla stessa parte...» inizia Marzia.",
+        "«Che è sempre e solo quella delle ragazze, non esiste la parte di nessun altro». Devo per forza concordare con Simona.",
+        "«Esatto», riprende la parola Marzia. «Noi vogliamo continuare a lavorare, ma non in queste condizioni. Per questa ragione vogliamo aprire una nuova associazione, da zero, senza voci poco chiare che ne compromettano l’attività».",
+        "«E Roberto? L’avete già giudicato colpevole?» chiede Davide ed è chiaramente amareggiato. «Capisco il vostro ragionamento e credo sia giusto, ma Roberto non significa niente per voi?»",
+        "«La questione non è se Roberto sia colpevole o innocente e nemmeno i nostri sentimenti nei suoi confronti», dice Daniela. «Io posso anche credere alla sua innocenza, il problema è che non sono disposta a mettere la faccia in una situazione del genere».",
+        "«A proposito di metterci la faccia: ieri ho accompagnato una ragazza al Sant Orsola e ho incontrato le operatrici di un’altra associazione...», racconta Simona. «Abbiamo perso credibilità. Queste operatrici me l’hanno detto chiaramente. Mi hanno persino proposto di spostarmi a lavorare da loro».",
+        "Mi lascio prendere dallo sconforto e guardo Davide che mi sembra in preda ai miei stessi sentimenti. Io non devo niente a Roberto, non è un mio amico, ma è pur sempre un essere umano con cui ho condiviso situazioni e lacrime. Emozioni forti. Mi ha aiutato e da lui ho imparato tante cose, non so come voltargli le spalle nel momento in cui ha bisogno di supporto.",
+        "«Io non riesco a farlo, ragazze, mi dispiace», ammetto alla fine e Davide annuisce subito. «Se lo abbandoniamo tutti, che messaggio lanciamo all’esterno? Che è colpevole, senza ombra di dubbio. E io non sono affatto sicura che lui lo sia; non sono pronta a dichiarare una cosa del genere».",
+        "«Ma non sei nemmeno sicura del contrario. Questa situazione non ti aiuta a lavorare in strada e ad aiutare le ragazze».",
+        "«Ha ragione Simona, Erika, non puoi dire di no. Anche se Roberto dovesse venire scagionato, pensi forse che le voci si volatilizzeranno e nessuno se ne ricorderà più?» chiede Marzia.",
+        "«Gli rimangono di sicuro appiccicate addosso. Non c’è più speranza per Roberto, ha chiuso». Simona rincara la dose.",
+        "«Venite con noi, facciamolo insieme», Daniela ci invita entrambi e per un momento ci fissano tutte e tre con speranza mentre il silenzio della stanzetta viene coperto in fretta dal vociare degli avventori del bar e dal tono concitato di qualcuno che parla alla radio.",
+        "«Ma figurati se questi due lasciano il comando!» sbotta Simona. «Rimanete pure a dirigere la vostra grande associazione… ah, no, dimenticavo, non c’è rimasto più nessuno!»",
+        "«Mi vuoi spiegare che problema hai?» Le parole di entrambe sembrano grossi iceberg che cozzano nel centro della stanza schizzando frammenti sugli altri."
+    ],
+    "timestamp": "2019-10-08T10:30:04Z",
+    "title": "Le ragazze - Capitolo 17 - 1/3",
+    "topic_id": 44763,
+    "url": "https://www.writersdream.org/forum/forums/topic/44763-le-ragazze-capitolo-17-13/"
+}

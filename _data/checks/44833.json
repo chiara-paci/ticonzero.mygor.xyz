@@ -1,0 +1,111 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Fa caldo come non si può immaginare che faccia caldo:",
+                    "Potrebbe bastare, a mio avviso: Fa caldo come non si può immaginare",
+                    "i finestrini abbassati non portano ventate rinfrescanti, ma polvere e smog, e il climatizzatore sarebbe diventato un lusso accessibile dopo circa 20 anni. Ma siamo nel 1978 e tre persone sudate in una vetturetta soffocata di bagagli stanno guardando con un misto di stanchezza ed eccitazione la strada traboccante di automobili molto più grandi e ancora più cariche della nostra.",
+                    "Zagabria – Belgrado: definirla “autostrada” sembra una di quelle descrizioni ispirate e convinte che l’amico artista vi dà dell'abbraccio di linee e macchie presentato come il frutto della sua ricerca creativa. Lo sforzo c’è, l’ambizione pure, ma in entrambi i casi mancano le parole per esprimere il leggero sgomento di fronte alla realtà:",
+                    "lo \"sgomento\" significa un forte turbamento e quindi stona quel \"leggero\" che gli si para dinanzi. Suggerirei anzi, alla luce di quel che segue, le parole \"leggero malessere\" o qualcosa del genere.",
+                    "in un caso",
+                    "per riagganciarti alla similitudine delle opere dell'artista, vedrei meglio \"nel primo caso\"",
+                    "sapete che sarete invitati a vedere tutta la galleria fotografica del percorso artistico, consistente in tre punti e due linee che si contorceranno con colori e forme diverse per almeno 180 scatti, e nonostante tutto gli vorrete sempre bene; nell’altro, vi sarete tolti l’illusione che si riesca ad arrivare entro sera al campeggio individuato sulla cartina stradale che ha pretese di carta turistica, perché in queste due corsie striminzite che portano a Est le automobili non procedono in coda: semplicemente non procedono, ma il viaggio è sempre viaggio, anche da fermi..",
+                    "Ho parlato con nonchalance di mappe stradali, ma in un’epoca di navigatori ipersatellitari e app che indicano anche le specialità senza glutine del più vicino autogrill, pensare di pianificare un viaggio Istanbul con il solo ausilio di cartine mi riporta echi di peace and love and rock and roll,",
+                    "le parole straniere meglio scriverle in carattere diverso dal testo",
+                    "benzina poco cara, occhi attenti alle strade, e orecchie consacrate agli Eagles e ai Pink Floyd. Sulla cartina la linea verde accostata alle strade per segnalarne la bellezza era un richiamo irresistibile, degno di tutte le deviazioni necessarie. I chilometri erano una sfida e non una fatica.",
+                    "Una sera di luglio, con gli amici, avevamo dispiegato la carta sul tavolo e avevamo deciso che Massimo, Renzo e io avremmo prima puntato su Istanbul, per poi ricongiungerci con il resto del gruppo in Grecia, a Platamon. Perché proprio lì? Semplice, ci piaceva il nome del paese. Poi saremmo tornati, solamente via terra, aggirando l’Albania e risalendo la Jugoslavia.",
+                    "Che cosa si porta in un viaggio simile? Il meno possibile per l’apparenza, e il massimo possibile per la sopravvivenza. Trolley? Termine noto per tram e filobus, ma allora sconosciuto per i bagagli. Piuttosto borse e zaini per la vita che ci aspetta nei prossimi 15 giorni: tanti chilometri, camminate sotto il sole, campeggi. Io sono l’incaricata alle provviste, quelle razioni “K” per le emergenze che diventano frequenti quando gli orari dei pasti non sono decisi dallo stomaco, ma, per esempio, dalle code come questa o dall’assoluta mancanza di posti che vendano qualche alimento.",
+                    "L’eccitazione per questo viaggio è grande, ho preso fornello, crackers, tonno, biscotti e latte condensato ma, mezz’ora prima della partenza mi ricordo di non aver comprato il caffè. Poco male, mentre i ragazzi sistemano i bagagli e fanno benzina, io mi precipito al negozio e afferro la prima lattina di caffè che vedo. Devo all’innamoramento cieco di Massimo nei primi giorni del nostro rapporto il fatto che non abbia protestato, né mi abbia preso in giro per non essermi accorta di aver comprato il caffè in grani, cosa che comporta qualche difficoltà quando si desidera prepararlo nella piccola moka portata per l’occasione. Ma ormai i negozi sono chiusi,",
+                    "ho notato passaggi disinvolti da tempi passati al tempo presente, senza la dovuta linearità. Ma forse è solo una mia impressione.",
+                    "Mi piace il tuo stile e la sintassi corretta. Buono il contenuto di questo viaggio all'estero in cui non si vuole rinunciare a un accessorio nazionale che per noi è un nostro modo di vivere meglio. Ben delineata la storia e il personaggio voce narrante. Complimenti"
+                ]
+            ],
+            "timestamp": "2019-10-13T09:08:36Z",
+            "title": "Un caffè",
+            "url": "https://www.writersdream.org/forum/forums/topic/44583-un-caff%C3%A8//?do=findComment&comment=792426",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 339,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 792727,
+            "text": [
+                "Cara Alba,",
+                "nella ricerca del ritmo, io do molta importanza alla metrica, ma non nel senso che i versi, in una poesia sciolta come questa, debbano essere tutti dello stesso metro, no.",
+                "Però io questa poesia la sento \"cantare\" come voglio io se i primi due versi e l'ultimo sono endecasillabi.",
+                "Così:",
+                "La vita in sottofondo traccia note",
+                "e le voci la intonano espansive.",
+                "(ricorda che, per il conteggio metrico delle sillabe, le vocali di parole adiacenti si legano, esempio: e-le-vo-ci-lain-to-na-noe-span-si-ve.)",
+                "Se io prendessi il tuo verso cambiato, quello dei \"folli\" avrei un decasillabo. Si sente che manca un colpo, e non so spiegartelo meglio.Anche se poi gli altri versi sono più corti,",
+                "la cadenza \"premia\" quella lunghezza.",
+                "Ho cercato altri aggettivi ma espansivo mi ha soddisfatto per il suo significato:",
+                "Capace di diffondersi o dilatarsi.",
+                "Ho pensato: cosa c'è di più bello, per la voce di ciascuno di noi, che intona la vita, di essere capace di diffondersi o di dilatarsi?",
+                "Tu che sei più ferrata di me in questo campo cosa pensi della mia riflessione?",
+                "Te lo chiedo non soltanto riguardo alla tua poesia, ma perché ogni volta che scrivo qualcosa, il problema del termine giusto mi rallenta molto.﻿﻿﻿",
+                "È un doppio problema: sposare il termine migliore che possa esprimere il nostro pensiero alla lunghezza giusta del verso.",
+                "A me, dopo tanto tempo, viene spontaneamente. Se non mi arriva subito, perlomeno avverto lo stridio, il non ritmo, l'allungamento.",
+                "Spero di esserti stata utile, cara",
+                "P.S.: La poesia, che mi è stata ispirata dai suoni della voce infantile della Traccia 3, tra le voci adulte, è dedicata alla mia nipotina."
+            ],
+            "timestamp": "2019-10-14T12:06:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44833-lp-5-fuori-concorso-la-vita-in-sottofondo//?do=findComment&comment=792727"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia 3",
+        "La vita in sottofondo",
+        "La vita in sottofondo traccia note",
+        "e le voci la intonano espansive.",
+        "Tu che inizi gli accordi",
+        "e sei piccina",
+        "tu stai provando il ritmo",
+        "che innato ti travolge",
+        "e che pulsa nei suoni",
+        "del tuo mondo.",
+        "Ce l'hai dentro alla voce",
+        "ce l'hai dentro",
+        "a questa voce che sfoga",
+        "il suo pensiero.",
+        "E ha un nome anche il tuo suono ed è armonia."
+    ],
+    "timestamp": "2019-10-13T09:28:31Z",
+    "title": "[LP 5 fuori concorso] La vita in sottofondo",
+    "topic_id": 44833,
+    "url": "https://www.writersdream.org/forum/forums/topic/44833-lp-5-fuori-concorso-la-vita-in-sottofondo/"
+}

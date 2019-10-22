@@ -47,7 +47,7 @@
     },
     "num_chars": 2530,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 789561,
@@ -56,6 +56,14 @@
             ],
             "timestamp": "2019-09-28T09:34:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia//?do=findComment&comment=789561"
+        },
+        {
+            "post_id": 789852,
+            "text": [
+                "Grazie per i consigli. Ho sempre degli interrogativi su quale possa essere il migliore approccio verso i bambini. Sono sempre molto attenti alle parole che diciamo e pongono molti perché. Fanno domande che neanche riusciamo a immaginare, come mia figlia, che a sei anni, dopo avergli letto storie di mitologia greca un giorno mi chiede: \"Papà, ma è nato prima Zeus o Dio?\" E' passato un anno e devo ancora rispondergli."
+            ],
+            "timestamp": "2019-09-29T23:27:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44643-la-foglia//?do=findComment&comment=789852"
         }
     ],
     "post_staff": [

@@ -59,7 +59,7 @@
     },
     "num_chars": 7984,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 789275,
@@ -78,9 +78,78 @@
             ],
             "timestamp": "2019-09-27T15:33:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=789483"
+        },
+        {
+            "post_id": 790118,
+            "text": [
+                "il tuo commento mi piace un casino, sai perché? Anche io commento per immagini quanto un racconto mi trasmette emozioni, voglio pensare lo stesso di te.",
+                "grazie, sono contenta che il racconto ti sia piaciuto.",
+                "Non sai quanti finali avevo in mente, mi ha sfiorato anche l'idea di terminarlo con \"nun ce pensa'\", ma il cerchio così non si sarebbe chiuso: avevo voglia di Anto', di mostrarlo uomo.",
+                "La traccia è: prima e dopo.",
+                "La boa è: equità tra le parti, (non solo tutto prima, non solo tutto dopo. Le sequenze tra presente e passato potevano essere diverse, almeno così credo di aver capito.)",
+                "Grazie mille per le note sulla punteggiatura, sempre un valido aiuto."
+            ],
+            "timestamp": "2019-10-01T13:45:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=790118"
+        },
+        {
+            "post_id": 790675,
+            "text": [
+                ", i vostri commenti mi fanno capire che avete visto quello che vedevo io.",
+                "Davo vita al mio film scrivendolo, essere riuscita a mostrarvelo mi rende davvero felice.",
+                "il tuo commento mi rende davvero felice, ma grazie . Hai elencato le parti del testo che anche a me è piaciuto scrivere, il piccolo Antò e il suo egoismo di bambino, e il grande Antò che il tempo ha reso uomo."
+            ],
+            "timestamp": "2019-10-04T11:05:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=790675"
+        },
+        {
+            "post_id": 791838,
+            "text": [
+                "Grazie un bel commento",
+                "Il difficile in questo racconto è stato tagliare, far rientrare tutto nelle 8000 battute. Cateri' è nelle grida e nelle orecchie tappate, lei gli è dentro ma da adulto ormai.",
+                "Potevano essere diversi prima e dopo non uno solo separato da uno spazio.",
+                "Grazie"
+            ],
+            "timestamp": "2019-10-10T04:29:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=791838"
+        },
+        {
+            "post_id": 792825,
+            "text": [
+                "il tuo commento mi ha fatto molto piacere, il voto pure",
+                "Grazie"
+            ],
+            "timestamp": "2019-10-14T18:39:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=792825"
+        },
+        {
+            "post_id": 793167,
+            "text": [
+                "Ma che bel commento , (shhh, non dirò niente allo Stregone )",
+                "Grazie :), non sai quanti finali ho cambiato: lui in mezzo a un plotone d'esecuzione, oppure Anto' che vede gli animali ma solo in un miraggio. Ma poi è arrivato il finale che ho scritto e non ho avuto dubbi.",
+                "Le metto nella zuppa insieme alle dita di (che taggo e saluto :))",
+                "Grazie ancora per il tempo impiegato in questa sfida."
+            ],
+            "timestamp": "2019-10-15T19:23:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=793167"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 792667,
+            "text": [
+                "Molto bello, . Ho trovato delle immagini che mi sono piaciute tanto. Se proprio devo trovare un piccolo difetto, ti dico che forse per rientrare nel limite hai tagliato un paio di frasi di troppo dal finale, dalla guerra di Anto’ adulto. Esclusivamente per una questione di ritmo, eh, non perché credo che manchi qualche informazione essenziale.",
+                "Complimenti!"
+            ],
+            "timestamp": "2019-10-14T09:58:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44611-sfida-24-cater%C3%AC//?do=findComment&comment=792667"
+        }
+    ],
     "text": [
         "Il giorno che al circo Caterì ebbe le crisi, mamma piangeva.",
         "Era il 1914 e avevo cinque anni.",

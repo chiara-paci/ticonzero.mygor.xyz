@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.19,
+        "valid": 0.19054945054945052,
         "weight": true
     },
     "closed": true,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.19
+                "valid": 0.19054945054945052
             },
             "text": [
                 [
@@ -30,6 +30,9 @@
                     "Il tema è abbastanza diffuso, personalmente ritengo sia una cosa positiva: ognuno ha il suo modo di approcciarsi e trattare l'argomento.",
                     "Ti chiedo se ci sia uno scritto completo da poter leggere.",
                     "Grazie."
+                ],
+                [
+                    "Grazie ! Ne terrò conto."
                 ]
             ],
             "timestamp": "2019-09-27T08:06:28Z",

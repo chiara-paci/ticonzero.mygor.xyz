@@ -75,8 +75,37 @@
     },
     "num_chars": 686,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 790939,
+            "text": [
+                "Grazie del tuo passaggio dal mio albero,"
+            ],
+            "timestamp": "2019-10-06T06:33:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44652-la-prova-di-coraggio//?do=findComment&comment=790939"
+        },
+        {
+            "post_id": 793029,
+            "text": [
+                "Grazie del bel commento,",
+                "Benvenuta in Officina! Lieta che tu abbia esordito qui, arrampicandoti con me sul pino basso. Che basso non è..."
+            ],
+            "timestamp": "2019-10-15T12:16:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44652-la-prova-di-coraggio//?do=findComment&comment=793029"
+        },
+        {
+            "post_id": 793320,
+            "text": [
+                "Grazie, del tuo apprezzato intervento. Sai che ci speravo e ti aspettavo sull'albero?",
+                "Magari potresti modificare il titolo ne 'la carezza del vento' se vuoi riportare la sensazione espressa nell'ultimo verso, in fondo 'la prova di coraggio' compare già e suona più come una ripetizione (a volte nel titolo si può fare poesia, non credi?).",
+                "Sai che scrivo anche racconti e ce ne sono diversi con un verso per titolo? In un caso, c'è stato anche un haiku!",
+                "Molto bella, veramente."
+            ],
+            "timestamp": "2019-10-16T13:59:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44652-la-prova-di-coraggio//?do=findComment&comment=793320"
+        }
+    ],
     "post_staff": [],
     "text": [
         "La prova di coraggio",

@@ -1,0 +1,123 @@
+{
+    "author": {
+        "author_id": 33905,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Bedi",
+        "url": "https://www.writersdream.org/forum/profile/33905-bedi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6111111111111112,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6111111111111112
+            },
+            "text": [
+                [
+                    "Salve, allora inizio dicendoti che mi hai incuriosito un sacco e che sicuramente leggerò i prossimi capitoli.",
+                    "All'inizio ci fai capire subito in che situazione siamo descrivendo tutte le sensazioni e le sfumature dell'ambiente incuriosendoci sempre di più da ciò che prova la protagonista.",
+                    "Molto bello l'utilizzo femminile della parola eco(molte volte intesa solo come parola maschile)",
+                    "Non mi convince la parola palpitare",
+                    "Qua ti consiglio di ridurre la descrizione a 2 righe se no é troppo",
+                    "Molto bella la frase ed hai perfettamente ragione",
+                    "Per concludere bellissimo capitolo mi hai messo un sacco di curiosità e leggerò i prossimi sicuramente",
+                    "Buona giornata"
+                ]
+            ],
+            "timestamp": "2019-10-09T09:58:45Z",
+            "title": "Le ragazze - Capitolo 1 - 1/2",
+            "url": "https://www.writersdream.org/forum/forums/topic/43786-le-ragazze-capitolo-1-12//?do=findComment&comment=791664",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 4577,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 791906,
+            "text": [
+                "Ciao ,",
+                "Si hai ragione ho messo poche descrizioni e dovrò aggiungerle, magari rifarò il prologo semplicemente descrivendo il mondo in cui siamo e questa storia del primo avventuriero la farai raccontare nel corso della storia attraverso dei dialoghi.",
+                "Per tutte le correzioni ti ringrazio sopratutto su punteggiatura e verbi.",
+                "Vero anche che non ho spiegato alcune terminologia tipo \"mana\" che sarebbe il massimo scritto in un numero della quantità di magia che puoi usare ogni magia ha un costo diverso.",
+                "Spiegherò anche questo",
+                "All'era di prosperità",
+                "Sisi lo hanno",
+                "Il tempo in cui i mostri rinascono",
+                "Mi farò sicuramente uno schema e lo riscriveró...",
+                "Grazie di tutto"
+            ],
+            "timestamp": "2019-10-10T12:22:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44781-the-lifeless-guy-prologo-22//?do=findComment&comment=791906"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791855,
+            "text": [
+                "Buongiorno",
+                "Vedo che il tuo prologo è lievitato dall'ultima volta che l'ho letto. Ho letto anche la prima parte e vedo che hai aggiunto molte informazioni, ma senza troppe descrizioni. Essendo un prologo, si tratta, in sostanza, della presentazione del mondo in cui si svilupperà la tua storia. Presenti un antefatto per fare capire al lettore i perché e i percome del mondo in cui si immergerà cominciando il primo capitolo e la storia.",
+                "In generale credo dovresti fare più attenzione alla punteggiattura e alla costruzione delle frasi che, ogni tanto, sono confuse e soggetti e verbi non hanno un collegamento tra loro.",
+                "completare il dungeon mi fa pensare a un gioco, a un video game o a un gioco di ruolo",
+                "modificherei questa frase, ti faccio un esempio: Ora che era stato dimostrato che entrare nella torre e uscirne vivi era possibile, e attirati dalle ricchezze, i mercanti più ricchi e gli uomini che sapevano combattere si precipitarono alla conquista dei dungeon.",
+                "ti faccio un altro esempio: Con il passare del tempo i dungeon vennero classificati in base alla loro difficoltà. Il re decise di istituire delle basi in prossimità di ogni torre e agli avventurieri venne attribuito un grado a seconda della loro forza, analizzata dalla stessa magia che aveva mostrato a tutti il primo conquistatore.",
+                "Questo termine, il primo conquistatore, immagino sia quello a cui prima ti riferisci come cavaliere. Aggiungi l'informazione nella frase seguente, in modo che il lettore sappia di cosa stai parlando senza dover tornare indietro a cercare.",
+                "che cosa significa mana?",
+                "le magie originali quali sono? In questo mondo gli elementi sono gli stessi che valgono anche qui sulla Terra?",
+                "prosperità e pace",
+                "mi sembra che sia la prima volta che veniamo a sapere il nome del regno. Forse mi sbaglio e sono io che l'ho scordato. Nel caso non mi sbagliassi e questa fosse davvero la prima volta che lo dici, metterei questa informazione in principio, la prima volta che parli di regno.",
+                "questi altri regno non hanno nome? I numeri è meglio scriverli in lettere",
+                "non capisco a quale situazione ti riferisci",
+                "cosa sarebbe il tempo di spawn dei mostri?",
+                "via gli",
+                "Allora, secondo me devi dare una riordinata a tutte le informazioni che vuoi dare al lettore. Fatti proprio uno schema e decidi cosa è fondamentale sapere per poter continuare a leggere e cosa no. Le cose non basilari toglile, il resto lascialo. Cerca anche di pensare che vuoi scrivere un romanzo, non un manuale di istruzioni per giocare a un gioco di ruolo. Questo significa che ci saranno lettori totalmente all'oscuro di regole e terminologie abituali nei giochi di ruolo e che non capiranno nessuno dei tuoi riferimenti. Non vedo il lato positivo dell'essere così attinente ai giochi di ruolo. Questa è la tua storia, scrivila tu, inventati i tuoi mostri, magie e ambientazioni. Certo, nulla toglie che tu possa prendere ispirazione e anche molto altro, da ambientazioni che già conosci e che ti piacciono, ma deve solo trattarsi di ispirazione secondo me.",
+                "Buon lavoro"
+            ],
+            "timestamp": "2019-10-10T06:45:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44781-the-lifeless-guy-prologo-22//?do=findComment&comment=791855"
+        }
+    ],
+    "text": [
+        "Il cavaliere rivelò pubblicamente tutto quello appreso e spiegò che per completare il dungeon bisognava superare ogni piano uccidendo tutti i padroni.",
+        "Superando tutte le prove si poteva ottenere un tesoro immenso con oro, armi di ogni tipo e armature mai viste. Lui divenne famoso in tutti i regni e fu il primo dei tanti guerrieri che affrontarono la morte. Furono chiamati avventurieri e divenne una vera e propria professione.",
+        "Attirati tutti dalle ricchezze e ora che si era dimostrato che si poteva arrivare in cima alla torre e uscirne vivi; i mercanti più ricchi e gli uomini che sapevano combattere si precipitarono alla conquista.",
+        "Con il passare del tempo si classificarono i dungeon per la loro difficoltà e il re decise di istituire delle basi in prossimità di ogni dungeon, agli avventurieri venne dato un grado in base alla loro forza, analizzata con una magia che aveva mostrato a tutti il primo conquistatore. I gradi degli avventurieri si dividevano in: le classi inferiori che comprendevano i gradi legno, rame e bronzo poi le intermedie che comprendevano argento e oro infine le superiori di cui diamante e master. La magia rendeva visibile le statistiche divise in varie categorie: forza fisica, intelligenza, magia, mana, agilità e vitalità poi esistevano le abilità che variavano da avventuriero ad avventuriero che potevano essere come affinità ad alcuni elementi oppure magie originali.",
+        "Il vero potere che rendeva un avventuriero speciale erano le unicità chiamate One, solo alcuni eletti le possedevano e potevano essere qualsiasi cosa, come la possibilità di modificare il proprio corpo o caratteristiche speciali.",
+        "Iniziò cosi l'età d'oro dei dungeon, gli avventurieri avevano compreso che i dungeon più bassi erano relativamente semplici e consapevoli delle loro abilità riuscirono ad utilizzare poteri mai visti e completare i dungeon facilmente.",
+        "Questa Era di prosperazione e pace durò per dieci anni ma il re del regno di Diamond avido di potere decise di monopolizzare tutti i dungeon e costrinse tutti gli avventurieri ad unirsi alla gilda reale. In poco tempo erano rimasti pochi quelli che non avevano aderito alla gilda reale, infatti il re concedeva notevoli vantaggi e ricompense ai propi membri, invece impose alle altre gilde un pagamento per l'entrata nei dungeon che divenne così alto da essere impagabile.",
+        "Le varie gilde si arrendevano al potere del re ma c'era un avventuriero, il conquistatore, colui che aveva completato il primo dungeon, visto da tutti come una leggenda. Decise di intervenire in questa situazione su richiesta del popolo chiedendo udienza al re, gli propose un accordo chiedendo di essere mandato nel dungeon dove il re aveva fallito perdendo migliaia di uomini e se lo avesse completato avrebbe dovuto lasciare liberi tutti i dungeon eliminando tutte le tasse imposte.",
+        "Il sovrano accettò ma alla condizione che una squadre scelta sarebbe entrata con lui, dopo pochi giorni entrarono ma non uscì più nessuno da quel dungeon e l'ultima speranza delle persone si spense con il fallimento di quella missione.",
+        "Per motivi sconosciuti a tutti gli strateghi la maggior parte dei dungeon erano concentrati nel regno di Diamond e il re ormai possedendo un potere immenso e affamato di gloria in pochi mesi riunì sotto la sua tirannia tutti e 5 i regni e unificò il Grande continente. La povertà e la fame erano radicate in ogni regno e il più povero,il regno di Trash, venne schiavizzato.",
+        "Il re ormai era riuscito a conquistare ogni dungeon più semplice e infatti quella situazione non sarebbe potuta durare per sempre i rimanenti erano di livello alto e le perdite per conquistarli erano molteplici. Decise comunque di iniziare la conquista sapendo che dalla grande scoperta in dieci anni ne erano stati conquistati appena una dozzina, questo era dovuto dalla posizione sconosciuta delle trappole e dei tempi di spawn dei mostri.",
+        "La differenza da quelli semplici era un abisso ma non fermò un mercante a cui gli venne la brillante idea di utilizzare i propi schiavi per eliminare le trappole e poi mandare una squadra scelta per completarlo. Ottenne un enorme successo in quella spedizione non ci furono perdite tra gli avventurieri e quella notizia si diffuse in tutto il regno sopratutto arrivò al Re che prendendo gli schiavi dal regno di Trash continuò ad accrescere il propio potere.",
+        "Siamo nel 1083 oggi a cinquant'anni dalla scoperta dei dungeon e il famoso commerciante Crisas noto per le varie conquiste dei dungeon sia semplici che intermedie partì alla volta della conquista con un carico di moltissimi schiavi tra cui Keijy."
+    ],
+    "timestamp": "2019-10-09T10:26:19Z",
+    "title": "The lifeless guy - Prologo 2/2",
+    "topic_id": 44781,
+    "url": "https://www.writersdream.org/forum/forums/topic/44781-the-lifeless-guy-prologo-22/"
+}

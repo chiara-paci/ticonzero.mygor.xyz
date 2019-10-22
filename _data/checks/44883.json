@@ -1,0 +1,105 @@
+{
+    "author": {
+        "author_id": 34224,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "teotode",
+        "url": "https://www.writersdream.org/forum/profile/34224-teotode/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, la poesia mi è piaciuta molto perché tratta di una tematica apparentemente semplice e lineare, direi quasi fanciullesca, riferita al poter cancellare le nuvole, ma che nasconde dietro una negatività che pervade mano mano che si procede nella lettura.",
+                    "Ho apprezzato il linguaggio semplice e quotidiano, che dà l'idea non di un eroico atto da tragedia elevata, ma di quasi come se fosse un'abitudine dell'io lirico che tenta tutti i giorni di gettarsi giù dal balcone.",
+                    "Mi è piaciuto come ai toni bonari della gomma e delle nuvole hai accostato una tematica molto profonda come quella del suicidio, parlandone allo stesso tempo con una tale leggerezza e profondità che ti porta ad immedesimarti in questo ragazzo o in questa ragazza che tutti i giorni tenta il suicidio, ma è costantemente bloccato dall'impatto che la sua azione avrà sulla vita della madre che è vista dal/dalla protagonista perennemente nelle nuvole e qui può alludere al fatto che la madre potrebbe essere sempre distratta, come nel detto \"star sulle nuvole\" oppure potrebbe essere una figura importante positivamente nella suo vita, e che perciò ha paura di essere sempre guardato e di arrecare un dispiacere.",
+                    "In ogni caso ho apprezzato la conclusione tragica, cioè la morte del protagonista, ma presentata sotto una luce quasi comica, come se non tu non stessi descrivendo una scena di morte, che quindi porta dietro di sé dolore e dispiacere, ma la morte viene qui vista come un fatto naturale e spontaneo, come se fosse soltanto la conseguenza di una presa di coraggio dell'io lirico e ciò fosse qualcosa di inevitabile e molto semplice da realizzarsi.",
+                    "Un saluto",
+                    "teotode"
+                ]
+            ],
+            "timestamp": "2019-10-15T12:35:23Z",
+            "title": "Nuvole",
+            "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=793031",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1014,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 793814,
+            "text": [
+                "Ciao , grazie infinitamente per aver commentato. Questa poesia per me ha un valore speciale, perché l'ho composto con un'amica per un concorso letterario e perché è stato il mio primo componimento che si può definire veramente tale.",
+                "Per quanto riguarda i troncamenti, siamo ricorsi a questo espediente in parte perché era l'unica soluzione che, dopo prove e prove, ci consentisse di \"mangiare\" qualche sillaba per rientrare negli endecasillabi del sonetto ed in parte perché dava alla prima epistola un tono oscuro e poco comprensibile, che richiamava un po' la difficoltà di espressione che una persona che cerca di esternare un problema.",
+                "La parte di Federica, invece, abbiamo voluto renderla più limpida, sia nello stile delle frasi sia nelle immagini che dà, come la merenda, la tenda, proprio per dare un contrasto più netto tra il pessimismo iniziale l'ottimismo finale.",
+                "Ti ringrazio ancora tantissimo per essere passato!",
+                "teotode"
+            ],
+            "timestamp": "2019-10-18T14:25:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44883-ci%C3%B2-che-non-dico//?do=findComment&comment=793814"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "17 Febbraio 2017",
+        "Cara Federica, fedel mia amica,",
+        "questa turbata carta ti indirizzo",
+        "ché il mio smarrimento canalizzo",
+        "e ti rivelo la cagiòn nemica.",
+        "A rapportarsi in classe si fatica,",
+        "del finger lor più non mi scandalizzo:",
+        "turpi o limpidi i volti ne analizzo,",
+        "ma il loro far la pelle mi ortica.",
+        "Arduo è dal passato separarmi,",
+        "seppur di quegli amici sol rottami",
+        "restin, senza il cantar de le armi.",
+        "Non sentir appena, ma ascoltami;",
+        "fermati un solo attimo, non lasciarmi;",
+        "se comprendi, te ne prego, aiutami!",
+        "Oscar",
+        "08 Marzo 2017",
+        "Caro Oscar, fai attenzione ai tuoi pari:",
+        "chi ti donerebbe la sua merenda?",
+        "Tanti spariscono dietro a una tenda",
+        "quando dichiari i tuoi problemi amari.",
+        "Non implorarli innanzi ai loro altari,",
+        "cerca un alleato che ti sorprenda,",
+        "che ti regali un'amicizia stupenda,",
+        "faccia a faccia come dai cellulari.",
+        "Prima di far la tua mossa fai i conti:",
+        "non eclissarti deluso da tutti,",
+        "salva almeno alcuni vitali ponti.",
+        "Se la giostra della vita tu sfrutti,",
+        "dei vecchi amici non vedrai i tramonti:",
+        "torneràn, come in primavera i frutti.",
+        "Federica"
+    ],
+    "timestamp": "2019-10-15T20:15:24Z",
+    "title": "Ciò che non dico",
+    "topic_id": 44883,
+    "url": "https://www.writersdream.org/forum/forums/topic/44883-ci%C3%B2-che-non-dico/"
+}

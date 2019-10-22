@@ -1,0 +1,149 @@
+{
+    "author": {
+        "author_id": 34117,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Gio971",
+        "url": "https://www.writersdream.org/forum/profile/34117-gio971/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Mariner P",
+                    "sono appena arrivato da queste parti e leggendo vari racconti, o parti di racconto, mi sono soffermato sul tuo.",
+                    "Mi ha colpito il tuo stile diretto, anche se all'inizio mi sono trovato spaesato da quanto andavo leggendo. Non ti nascondo che dopo le prime righe volevo lasciare e passare oltre. Poi, per curiosità, ho dato una sbarciata alle risposte che hai fornito ad altri utenti e ho cominciato a capire.",
+                    "Il lessico che utilizzi a volte mi è sembrato un poco ridondante, ma non conoscendo il tuo stile, ho pensato semplicemente a una tua scelta mirata per il tipo di racconto. Anche il modo che hai di utilizzare i verbi rende il ritmo dei pensieri e il dialogo molto sostenuto. Di contro gli incisi a volte sembrano degli ostacoli alla lettura. Alcuni sono in linea con il resto, altri sembrano più slanci poetici fini a se stessi.",
+                    "Non ho trovato errori di grammatica e la costruzione delle frasi, a mente della tipologia di racconto (tra l'onirico e il fantastico a mio parere), è ben strutturata.",
+                    "Il racconto in sè è gradevole, ma ho dovuto rileggerlo almeno una volta per apprezzarene il senso. Sembra un quadro astratto, di grande impatto a prima vista, ma come tale c'è bisogno di interpretarlo per comprendere il significato.",
+                    "un saluto"
+                ]
+            ],
+            "timestamp": "2019-10-07T17:58:32Z",
+            "title": "Pioveva",
+            "url": "https://www.writersdream.org/forum/forums/topic/44572-pioveva//?do=findComment&comment=791253",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 7790,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 792424,
+            "text": [
+                "Grazie Kikki di tutti i consiglie e le correzioni. Provvederò a revisionare il capitolo non appena avrò un poi' di tempo.",
+                "Se riesco oggi posto il secondo capitolo e mi aspetto lo stesso trattamento :)))).",
+                "un saluto",
+                "Giò."
+            ],
+            "timestamp": "2019-10-13T08:59:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44761-gamma-ray-burst-capitolo-1//?do=findComment&comment=792424"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 792395,
+            "text": [
+                "Buongiorno , il tuo titolo mi fa pensare alla fantascienza.",
+                "Vado a leggerti.",
+                "manca lo spazio dopo i punti di sospensione",
+                "questo non dovrebbe avere delle maiuscole?",
+                "invertirei appannando leggermente, questione di gusti immagino, mi suona più italiano",
+                "ti è scappato uno spazio prima dei due punti. Perché la maiuscola? Non serve dopo i due punti.",
+                "metterei due punti dopo testa",
+                "proposta: Lo stritolatore",
+                "sostituirei questo nervosamente con qualcosa di più leggero, hai già usato altri avverbi in mente, ce n'è uno anche nella frase successiva. Secondo me ce ne sono troppi, va bene uno ogni tanto, ma se sono tanti diventano difficili da leggere",
+                "refuso: possono",
+                "bella questa frase, mi piace il riferimento fisico, insieme alla palla per pesci appannata è più o meno l'unico riferimento fisico che fai. Non capisco: di contro, che significa in questo contesto?",
+                "metterei un semplice: riflette per alleggerire",
+                "di nuovo invertirei l'ordine: sguardo insistente",
+                "spazio perduto dopo i punti di sospensione",
+                "fino ad ora non era silenziosa, c'era la voce gracchiante del centro almeno. Se la capsula è silenziosa lo direi prima, a me per esempio, è giunta come un'informazione inaspettata",
+                "refuso: moto",
+                "Toglierei la prima parte della frase: l'abbiamo di sicuro già capito che è agitato, non serve dirlo, sei stato bravissimo secondo me a rendere il suo stato psicofisico senza dargli un nome. Di sicuro, se proprio ci tieni a lasciare l'informazione, toglierei super che rende la frase troppo colloquiale e fuori dal registro che hai usato fino ad ora.",
+                "perché maiuscola?",
+                "anche qui mi chiedo perché la maiuscola",
+                "toglierei nella mia testa, si capisce anche senza dirlo e allungando la frase le togli tensione",
+                "lo spazio dopo i puntini di sospensione ci va sempre",
+                "proposta: e, pesanti come una montagna, iniziamo a salire.",
+                "toglierei e",
+                "ti è scappato uno spazio dopo h",
+                "spazio scappato dopo G",
+                "bisogna che giustifichi questa frase, lui come lo sa? Dal momento che si trova all'interno della capsula non può vedere la sua traiettoria, puoi dire che la ricordi da altri lanci o simulazioni o la immagina",
+                "dà",
+                "toglierei la virgola e sostituirei facendomi vedere con il verbo mostrare",
+                "Molto bello, l'ansia e la tensione crescono bene. Aggiungerei dettagli fisici che rendono il tutto più reale per chi legge e non ha mai partecipato a un lancio Farei attenzione ai molti gerundi e molti avverbi in mente che appesantiscono la lettura, rallentano, se ci fai attenzione spesso non servono e si possono sostituire. Più ci avviciniamo al lancio e più accorcerei le frasi per sottolineare ancora di più la paura e l'ansia del narratore.",
+                "Mi sembra un gran buon capitolo, di sicuro mi hai incuriosita"
+            ],
+            "timestamp": "2019-10-13T06:15:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44761-gamma-ray-burst-capitolo-1//?do=findComment&comment=792395"
+        }
+    ],
+    "text": [
+        "Cap. 1. Il Lancio.",
+        "Maledizione, questo sedile è davvero scomodo, mi sta spaccando la schiena. Le cinture, poi, mi stringono il torace in modo asfissiante... quasi non respiro.",
+        "Per far terminare questo supplizio, intanto, faccio cenno con il pollice all'insù all'indirizzo del tecnico in tuta bianca che mi sta sdraiato sopra. Lui non fa caso al mio gesto, continuando a testare la tenuta dell'imbracatura. Adesso sta tirando con le mani le cinte all'altezza delle cosce, ma non convinto, riprende a stringere.",
+        "Faccio una smorfia di dolore che il tale non vede.",
+        "Amico mi stai uccidendo ancor prima di partire...uh! Poi smetti di tirare quella cinghia, dove cavolo vuoi che vada: non vedi che sono inchiodato a questo stramaledetto sedile.",
+        "Di fianco a me il pilota continua a scambiare informazioni con il centro di controllo missione. Il susseguirsi di “roger e passo”, unito a quel rumore gracchiante di sottofondo, mi sta urtando il sistema nervoso.",
+        "Sono insofferente. Intanto il mio respiro affannato sta leggermente appannando la visiera di questa palla per i pesci avvitata sulla mia testa. Vorrei sollevarla un po' per pulirla, ma non posso a causa del protocollo di lancio.",
+        "Allungo il collo nell'elmetto, cercando di intravedere attraverso la macchia di umidità formatasi sul vetro : Ancora Nove minuti... un'eternità.",
+        "Continuo a ripetermi nella testa“calma e respira”.",
+        "Cerco di rilassarmi tornando a fissare l'interno del casco, ma è inutile : in questa posizione, quasi sprofondato nella tuta, ho una visuale limitata, tanto che la mentoniera si trova all'altezza delle mie sopracciglia. Chiudo gli occhi per tranquillizzarmi, ma, inaspettato, arriva uno scossone. Sono spaventato a morte: hanno sganciato qualcosa dal razzo vettore. Mi guardo intorno in cerca di conferme, ma vedo solo una parte della plancia comandi con l'orologio e un cavo elicoidale che dondola.",
+        "Nervosamente guardo di nuovo l'orologio: mancano ancora sei minuti.",
+        "Ricado automaticamente nel mantra “calma e respira”",
+        "Il tizio stritolatore, nel frattempo, si è alzato da sopra di me. Subito dopo mi da un buffetto sulla spalla: sorride, mentre cerca di farmi capire che è tutto a posto. Da dentro il casco tento di muovere il capo in segno di assenso e ringraziamento, ma ottengo solo l'effetto di apparire come una di quelle bamboline che agitano la grossa testa infilzata in una molla.",
+        "Tornato alle mie preoccupazioni, mi chiedo quante cose posso andare storte nei prossimi cinque minuti scarsi che restano... tante mi rispondo, troppe mi correggo.",
+        "Intanto ho la sensazione di avere un macigno sul cuore, di contro, ho l'assoluta certezza di avere il sedere paralizzato.",
+        "Cerco una posizione migliore, ma non ci riesco: il mio destino per i prossimi venti minuti è saldato a questo scomodo sedile, sempre che non esploda tutto prima.",
+        "Inizio a sudare. Di sicuro al centro di controllo i medici staranno valutando i miei parametri vitali; forse qualcuno sta ridendo delle mie continue aritmie e dei miei respiri concitati. Saranno anche partite le scommesse sul un possibile arresto cardiaco o sull'insorgere di una crisi respiratoria.",
+        "Ancora quattro minuti al lancio... calma e respira.",
+        "Un'improvvisa voce nel casco mi fa sobbalzare: il Controllo sta gracchiando qualcosa che non capisco. Mi volto verso il pilota in cerca di certezze. In realtà non vedo il suo viso né la sua espressione perchè ogni cosa è celata dietro la visiera scura che, proprio ora, sta riflettendo un'infinità di luci intermittenti. Dai suoi movimenti misurati mi sembra tutto tranquillo. D'un tratto distoglie la sua attenzione dagli interruttori e si volta. Si è accorto che lo sto fissando e in risposta al mio insistente sguardo mi mostra il pugno stretto. Sta cercando di infondermi coraggio: è come se mi stesse dicendo: forza, si parte! . Vorrei dirgli che per me è il primo lancio e che sono teso come la catena di un'ancora che trattiene un mercantile controcorrente, ma suppongo che abbia intuito entrambe le cose. Gli rispondo con un misero pollice all'insù, seguito da un sorriso ebete, che spero non possa vedere.",
+        "Tre minuti. Calma e respira...voglio vomitare.",
+        "Siamo rimasti solo noi due in questa capsula silenziosa. Da quando gli addetti hanno chiuso dall'esterno il portellone, ho iniziato a sentire lo stomaco sottosopra. Davvero ho qualche conato di vomito, ma devo trattenermi, non posso mandare a puttane tutta la missione perché sono troppo emotivo. Faccio un paio di smorfie per rimettere in morto i muscoli facciali: sono rimasto statico ed inespressivo troppo a lungo, non sento più le labbra.",
+        "Intanto arriva violento un nuovo uno scossone. Sono super agitato, guardo di nuovo verso il pilota: sembra concentrato e pronto. Confido nella sua esperienza, mi convinco che Lui è il migliore. Ho avuto modo di scambiarci poche parole prima di adesso e mi è sembrato uno tutto d'un pezzo, uno di quelli che sa sempre cosa fare.",
+        "Due minuti... calma e respira. Non ne posso più.",
+        "Allungo istintivamente una mano cercando un contatto fisico con il Comandante: sono terrorizzato.",
+        "Cominciano le vibrazioni che in pochi secondi salgono d'intensità. Lo scafo viene scosso e Io, che sono praticamente tutt'uno con il sedile, mi scuoto con esso. Boccheggio e comprimo istintivamente i muscoli addominali. I denti sono serrati, mentre le mani sudate sono aggrappate alla struttura metallica di appoggio. Provo a razionalizzare: ancora un istante e il propellente attraverserà la camera di combustione esplodendo: le vibrazioni aumenteranno tra variazioni di pressione e reazioni chimiche violente. Il mio ragionare viene subito interrotto dal terremoto in atto: proprio ora le membrane degli ugelli di uscita si stanno dilatando al massimo della loro estensione, spingendo i gas di scarico in espansione contro la base di cemento della struttura di lancio.",
+        "L'inferno sotto di me. Manca solo un minuto.",
+        "Parte il conto alla rovescia scandito dalla voce del Controllo Missione e Io mi sento come un blocco di marmo, incapace di muovermi e di respirare. Vado in apnea, mentre chiudo gli occhi così violentemente che inizio a vedere le stelle nella mia testa.",
+        "...2...1...go!",
+        "Eccola arrivare l'accelerazione: il sedile mi sta spingendo verso l'alto, sento la pressione del sangue aumentare nel cervello. Ci stiamo staccando dalla rampa e pesanti come una montagna iniziamo la salita.",
+        "Il razzo oscilla lievemente, e io sono sempre più affossato nel sedile. Sento il cuore battere all'impazzata e la testa rimbalzare dentro al casco. La spinta è potentissima, la sento dentro ogni atomo del mio corpo.",
+        "Inizia una lieve rotazione e subito il mio stomaco ne risente. L'accelerazione gravitazionale mi comprime sempre più il petto. Cerco di contare i secondi ma mi raggelo pensando che siamo già a 11 km di altezza e viaggiamo a 1600 km\\h . Le cose peggiorano nella mia testa quando realizzo che tra circa due minuti saremo a quasi 50 km di altezza e l'accelerazione raggiungerà i 3,5 G .",
+        "In attesa che passi il minuto rimanente, respiro profondamente cercando di regolarizzare il ritmo cardiaco per prepararmi alla prossima scossa. I numeri rossi dei secondi corrono velocissimi sullo sfondo nero dell'orologio digitale posto sopra la mia testa. Non faccio in tempo a tornare a fissare la mentoniera del mio casco, che arriva un'altra spinta ed un'altra violenta accelerazione: i due buster primari si sono sganciati e ora tocca al secondo stadio. La vibrazione è tremenda, stiamo letteralmente strappando il cielo, lasciandoci dietro una profonda ferita bianca che sembra curvare verso destra.",
+        "Mi sento svenire. Riapro gli occhi solo quando il pilota mi da un colpo sul gomito, facendomi vedere la sua esultanza con i pugni alzati. Io, come una tartaruga spaurita, riemergo dal casco con circospezione: dai vetri della navicella filtra una luce splendente... siamo fuori."
+    ],
+    "timestamp": "2019-10-08T08:05:39Z",
+    "title": "Gamma Ray Burst.  Capitolo  1",
+    "topic_id": 44761,
+    "url": "https://www.writersdream.org/forum/forums/topic/44761-gamma-ray-burst-capitolo-1/"
+}

@@ -1,0 +1,75 @@
+{
+    "author": {
+        "author_id": 27397,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Miriana",
+        "url": "https://www.writersdream.org/forum/profile/27397-miriana/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9966666666666667,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9966666666666667
+            },
+            "text": [
+                [
+                    "Ciao! Mi è piaciuto molto questo inizio, è scorrevole e sembra interessante. Penso sia importante catturare subito il lettore attraverso le prime righe di una storia e tu ci sei riuscito abbastanza bene, senza renderla noiosa o pesante. Mi è piaciuta la descrizione iniziale dell'ambiente che evoca subito l'atmosfera del mare e mi sono sentita all'interno della storia, come se potessi avvertire anch'io la brezza notturna e la sabbia sotto i piedi. Ci sono alcuni errori grammaticali (ad esempio \"ne\") e sei andato troppe volte da capo secondo me, il testo è già scorrevole quindi non c'era bisogno di staccare così tanto le frasi l'una dall'altra. Alcune descrizioni le ho trovate scritte in modo troppo \"complesso\", cioè avresti potuto semplificare ed evitare di creare periodi lunghi per esprimere concetti semplici.",
+                    "Avrei approfondito di più la parte del dialogo, che sembra troppo veloce e fa perdere un po' l'atmosfera che si era creata all'inizio. Per il resto mi è piaciuto, continua così"
+                ]
+            ],
+            "timestamp": "2019-10-08T19:01:18Z",
+            "title": "Un tuffo nel passato",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=791547",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 3435,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 791557,
+            "text": [],
+            "timestamp": "2019-10-08T19:22:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44774-lamore-perduto//?do=findComment&comment=791557"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "La guardò. Gli occhi verde chiaro del fantasma dell'amore della sua vita si specchiarono nei suoi, di un verde più spento. Le labbra di Lei, solitamente carnose e piene di rossetto rosso, erano secche e screpolate, labbra che erano state baciate solo dalla morte. I capelli biondi e ricci in cui Isaac amava passare le mani e accarezzarli tanto che erano morbidi, le incorniciavano il viso piccolo. Il suo corpo era pallido, coperto soltanto dalla camicia da notte bianca, che le lasciava scoperte le braccia e le gambe esili. Sembrava ancor più fragile di quando era in vita, come se bastasse una folata di vento a farla sgretolare. Si avvicinò a lui fino a stargli di fronte.",
+        "« Sei reale? » mormorò Isaac a mezza voce.",
+        "« Solo se vuoi che lo sia. »",
+        "La sua voce era sempre la stessa, docile e calma, avrebbe potuto dire anche la cosa più volgare del mondo ma nulla dalla sua bocca suonava come un rimprovero o un insulto. Questo era un vantaggio durante i rari litigi di coppia, Lei era sempre in grado di fare un passo indietro, di disinnescare ed evitare che tutto si trasformasse in una discussione futile.",
+        "« Certo che lo voglio » disse Isaac mentre gli occhi gli si riempivano di lacrime.",
+        "« Ti ho aspettato per tutto questo tempo » disse Lei posando una mano sulla sua guancia per asciugargli le lacrime come aveva sempre fatto, era sempre stata quella con il carattere più forte tra i due. Isaac rabbrividì a quel contatto. Avrebbe voluto baciarla e stringerla a sé ma era così sconvolto da non riuscire a muovere un solo muscolo del corpo.",
+        "« Non ho mai smesso di amarti. » Isaac le sfiorò la mano che aveva sulla sua guancia tremando, avvertendo la pelle fredda di un'anima rimasta per troppo tempo da sola. Intrecciò le dita alle sue, sottili e pallide. « Non sono riuscito ad amare nessuna nel modo in cui ho amato te. » Non riuscì a nascondere il tono di disperazione che aveva nella voce, cacciando fuori quel pensiero che lo aveva tormentato per anni, quella dura verità che spesso non riusciva ad ammettere neanche con sé stesso, fingendo che andasse tutto bene e che quel lutto non avesse chiuso per sempre il suo cuore.",
+        "Lei lo stava guardando con l'ombra di un sorriso sulle labbra e con lo stesso sguardo di un tempo, così intenso come se riuscisse a leggergli dentro soltanto attraverso gli occhi, come se sapesse quello che stava provando e lo capiva, non c'era mai bisogno di usare troppe parole con Lei ma sapeva già tutto. « Resti con me? » chiese, guardandolo con occhi speranzosi e quasi imploranti.",
+        "La porta della stanza sbatté violentemente spinta da un improvviso soffio di vento, accompagnata dal rumore della serratura che si chiudeva a chiave. Il pavimento sotto i piedi di Isaac cominciò a tremare come scosso da un terremoto, le tende della stanza oscillarono, le pareti divennero distanti rispetto a loro. Erano immobili al centro della stanza mentre il mondo intorno a loro sembrava dissolversi. Isaac si chiese se fosse la presenza di Lei a provocare tutto questo.",
+        "« Possiamo avere tutto quello che non abbiamo avuto » proseguì Lei. « Non hai niente da perdere. Quello che hai perso è tutto qui dentro, non ho fatto altro che mostrartelo da quando sei arrivato. »",
+        "Il suo sguardo era ammaliante, sembrava incantarlo con i suoi occhi e spingerlo ad avvicinarsi, senza possibilità di fuga.",
+        "Era l'unica possibilità che aveva per ricongiungersi a Lei, non ne avrebbe avute altre. Ma ricongiungersi a Lei significava..."
+    ],
+    "timestamp": "2019-10-08T19:13:49Z",
+    "title": "L'amore perduto",
+    "topic_id": 44774,
+    "url": "https://www.writersdream.org/forum/forums/topic/44774-lamore-perduto/"
+}

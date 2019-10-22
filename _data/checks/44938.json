@@ -1,0 +1,60 @@
+{
+    "author": {
+        "author_id": 16950,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "DomMai92",
+        "url": "https://www.writersdream.org/forum/profile/16950-dommai92/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 224,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "qfwfq",
+                "url": "https://www.writersdream.org/forum/profile/6051-qfwfq/"
+            },
+            "post_id": 794551,
+            "text": [
+                "Manca il link al commento a un altro brano dell'Officina, obbligatorio per pubblicare un proprio lavoro. Ti chiedo di fare una tua breve presentazione in ingresso e di leggere il regolamento. Grazie."
+            ],
+            "timestamp": "2019-10-21T18:34:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44938-sally//?do=findComment&comment=794551"
+        }
+    ],
+    "text": [
+        "Lei veniva a scuola dove andavo io",
+        "e la vedevo tutte le mattine,",
+        "io la guardavo e lei se ne accorse subito,",
+        "tra noi nacque una sorta di complicità.",
+        "Ora il destino ci ha divisi,",
+        "lei è lontana.",
+        "Ma io la vedo ancora tutte le mattine."
+    ],
+    "timestamp": "2019-10-21T18:31:03Z",
+    "title": "Sally",
+    "topic_id": 44938,
+    "url": "https://www.writersdream.org/forum/forums/topic/44938-sally/"
+}

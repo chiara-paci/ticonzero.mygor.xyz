@@ -1,0 +1,89 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "ciao Questa poesia mi trasmette un senso di nostalgia per i ricordi d'infanzia, il tempo che fu. Viene delineato il ricordo di un gioco fatto in gioventù, metafora della crescita che hai trattato con delicatezza. Il sorriso della protagonista arrivata fino in cima, e quindi cresciuta, anche se non c'è più nessuno ad ammirare la sua impresa, può essere interpretato come il fatto che andando avanti con gli anni, e diventando adulti, molte persone che ci facevano compagnia durante l'infanzia, amici o cari, si perdono... Tuttavia rimane intatto il gusto di quel gioco e della spensieratezza vissuta con loro, come sottolineato dalla chiusa. La carezza del vento sugli occhi conclude con stile morbido una composizione altrettanto morbida.",
+                    "Sembra proprio di vederlo, quel pino basso. In tutte le sue fronde. In una giornata col sole che bacia la fronte e la carezza del vento. L'atmosfera è descritta in modo limpido e suggestivo; allo stesso modo le sensazioni della protagonista e l'incoscienza tipica di chi si inoltra piano piano dall'infanzia a un'età più matura."
+                ]
+            ],
+            "timestamp": "2019-10-15T10:31:33Z",
+            "title": "La prova di coraggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44652-la-prova-di-coraggio//?do=findComment&comment=793003",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 686,
+    "num_commenti": 1,
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 793364,
+            "text": [
+                "Grazie a chi mi ha commentato finora.",
+                "Concordo con te per quanto riguarda il verso che mi hai fatto notare. \"Se avanzassi di un altro passo\" mi piace, però vorrei spezzare un po' le assonanze con la \"o\". Se lo sostituissi con \"se mi spingessi di un altro passo in avanti\" come ti suonerebbe?",
+                "P:s. Peccato non ci sia la possibilità di modificare. Grande pecca di questo sito."
+            ],
+            "timestamp": "2019-10-16T17:27:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=793364"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Commento a un'altra poesia",
+        "Prestatemi una gomma.",
+        "Devo cancellare dal cielo tutte le nuvole",
+        "perché ogni volta che le guardo",
+        "sporgendomi oltre il cornicione",
+        "riconosco nel loro tratto il volto di mia madre.",
+        "E immancabilmente penso",
+        "che anche la sua vita -",
+        "non soltanto la mia -",
+        "andrebbe in frantumi",
+        "se mi protendessi di un altro passo in avanti.",
+        "Allora desisto. Per lei soltanto.",
+        "Ma il male che sento",
+        "mi riporta ogni giorno nello stesso punto,",
+        "dove ora, con mezzo piede fuori dal bordo,",
+        "non chiedo altro che una gomma in prestito.",
+        "La potrete recuperare",
+        "cinque piani più in basso",
+        "sopra l'asfalto,",
+        "poco distante dal mio palmo immobile,",
+        "non appena avrò trovato la freddezza",
+        "di cancellare dal cielo tutte le nuvole."
+    ],
+    "timestamp": "2019-10-15T10:36:34Z",
+    "title": "Nuvole",
+    "topic_id": 44872,
+    "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole/"
+}

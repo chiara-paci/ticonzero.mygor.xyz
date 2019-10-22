@@ -45,8 +45,28 @@
     },
     "num_chars": 141,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 790864,
+            "text": [
+                "Grazie ,",
+                "hai perfettamente colto l’atmosfera: la poesia nasce proprio dal vedermi in uno specchio. Lo faccio spesso, mi scruto. Cerco quel particolare che tanto fece impazzire il pirandelliano Vitangelo Moscarda. Ho paura ogni volta di trovarmi invecchiato. Mi racconta il volto che vedo delle giornate passate, della stanchezza accumulata, delle soddisfazioni avute. Mi scopro estraniandomi da me stesso.",
+                "Poi la poesia procede a descrivere che si va a letto e ci si copre di un pigiama comodo che possa assecondare i migliori sogni, un ipotetico mondo non reale di speranza. La coscienza invece è realtà, rimane nuda, non si può coprire, non si può corrompere, è vera, rimane coerente con ciò che siamo, sempre.",
+                "Grazie ancora per esserti soffermata, spero ci ritroveremo presto!"
+            ],
+            "timestamp": "2019-10-05T13:16:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44641-notte//?do=findComment&comment=790864"
+        },
+        {
+            "post_id": 794676,
+            "text": [
+                "Ciao , grazie per esserti soffermato anche se ad onor del vero non mi è chiaro se il tuo intervento volesse essere di commento al mio testo o una generica riflessione. Alla prossima!"
+            ],
+            "timestamp": "2019-10-22T10:15:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44641-notte//?do=findComment&comment=794676"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Volti stanchi",

@@ -12,33 +12,13 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 1.0,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao, commento il racconto usando la griglia di Writer's Dream, nella speranza di esserti di qualche utilità. Per qualche motivo, il mio browser non mi fa andare a capo nella scrittura. Forse sto espiando i peccati di una vita passata? Non so, comunque, chiedo venia. Userò il grassetto per facilitare la lettura. Trama . La trama è semplice, però avvincente. A parte l'intreccio in sé, penso che la qualità del racconti sia che è ben narrato. Mi spiego: ogni parte dura il giusto ed arriva dove deve arrivare, non ci sono sbavature particolari, se non una: io avrei chiarito dall'inizio che il padre del protagonista è un politico anti-immigrazione. Magari avrei anche un po' approfondito la figura. Non so, potevi mettere un dialogo fra lui e il figlio dove lo catechizza contro gli immigrati o, che so, riportare uno di quei post di Facebook che questa gente usa postare. L'informazione arrivando così, alla fine, è un po' gratuita, quasi a voler forzare il colpo di scena. Alla fine il limite di ottomila caratteri può diventare di sedicimila... o infinito, quando uno si sbizzarrisce nel raccontare. Pensaci su. Personaggi . Mi è piaciuto il protagonista, lo rendi molto bene, il senso di frustrazione delle piscine piemontesi rispetto alla libertà del mare della Puglia (a proposito, io sono pugliese e vivo vicino al mare, perciò con questo racconto sfondi una porta aperta...), le corse, le mangiate. Magari avrei, come detto, approfondito la figura del padre e forse avrei dato qualche dettaglio in più sul ragazzino migrante. Stile . Mi è piaciuta molto la descrizione iniziale delle vacanze. Il racconto scorre sereno, non ho particolari note da farti sullo stile, è chiaro e lineare al punto giusto. Magari potresti provare a scrivere un po' di poesia per rendere più rotonde le tue frasi, io trovo sia utile. Magari lo fai già, non so. Originalità . Non posso dire che sia veramente originale perché di recente ho scritto un romanzo molto simile sullo stesso tema, però non mi importa particolarmente. Alla fine, narriamo la realtà che ci circonda. Per me va benissimo così. Grammatica e sintass i. Non ho trovato particolari refusi, però io leggo in fretta e non ho l'occhio clinico, qualche altro utente d questo forum ti può essere più utile. Giudizio finale: al netto delle mie piccole critiche, il racconto mi è piaciuto, continua così!",
-                    "A rileggersi, Domenico"
-                ],
-                [
-                    "Dimenticavo una cosa: forse cambierei il titolo, qualcosa di meno generico e già sentito e più accattivante, secondo me puoi trovare di meglio! Alla fine sottovalutiamo il titolo, ma è la prima cosa che legge il lettore."
-                ]
-            ],
-            "timestamp": "2019-09-26T05:11:51Z",
-            "title": "Mediterraneo!",
-            "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789272",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -46,8 +26,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 7976,
-    "num_commenti": 1,
-    "num_posts": 4,
+    "num_commenti": 0,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 789600,
@@ -58,6 +38,22 @@
             ],
             "timestamp": "2019-09-28T13:56:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44620-come-ges%C3%B9//?do=findComment&comment=789600"
+        },
+        {
+            "post_id": 790237,
+            "text": [
+                "Ciao grazie per il passaggio. Mi spiace il racconto non ti abbia convinto del tutto. Ci tengo a precisare che non voleva essere dissacrante. Floriana chiede a Ettore, fondamentalmente, di essere se stesso. Secondo la dottrina dell'anima trinitaria di s.Agostino, Gesù è il nostro lume interiore. SeguirLo non significa necessariamente un rispetto pedissequo dei precetti religiosi (non che sia sbagliato) o donarsi corpo e anima agli altri (non che sia sbagliato), ma dare il meglio delle proprie potenzialità. Essere se stessi, insomma. Questo è quello che Floriana, forse un po' crudelmente, cerca di far capire a Ettore, ma si sa che le donne (ma anche gli uomini) possono essere fatti così. Se qualcuno ha letto un intento dissacrante da parte mia nei confronti della figura del Cristo, sicuramente ho sbagliato intento e me ne scuso."
+            ],
+            "timestamp": "2019-10-02T03:23:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44620-come-ges%C3%B9//?do=findComment&comment=790237"
+        },
+        {
+            "post_id": 790247,
+            "text": [
+                "Ciao sono contento il racconto ti sia piaciuto. Quanto ai motivi per cui Floriana cambia idea su Ettore, ti rimando al mio commento precedente. Un saluto."
+            ],
+            "timestamp": "2019-10-02T06:37:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44620-come-ges%C3%B9//?do=findComment&comment=790247"
         }
     ],
     "post_staff": [],

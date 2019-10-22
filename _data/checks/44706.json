@@ -1,0 +1,154 @@
+{
+    "author": {
+        "author_id": 33428,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Anastassiya",
+        "url": "https://www.writersdream.org/forum/profile/33428-anastassiya/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ho appena letto con piacere il tuo racconto. Ritrovare uno stile ricercato ed elaborato mi ha fatto provare una certa nostalgia, facendomi tornare agli anni di me adolescente che sprofondava nella lettura dei classici ottocenteschi. Apprezzo i virtuosismi del linguaggio, hanno su di me un certo fascino.",
+                    "L'unico difetto, almeno al mio orecchio, è stato l'uso delle virgole: le ho trovate eccessive. Qui di seguito te ne segnalo giusto alcune che (sempre secondo me) si possono direttamente eliminare, per altre si dovrebbero riformulare un po' le frasi.",
+                    "Ad esempio qui non penso sia necessaria",
+                    "Idem",
+                    "Dei \"che\" troppo ravvicinati, in particolare i primi due, gli altri saltano all'occhio di conseguenza",
+                    "Un po' troppo articolata la frase, ho dovuto rileggerla due volte per capirla",
+                    "Qui al contrario manca il \"che\"",
+                    "Capisco che l'intento probabilmente era quello di creare un gioco di parole con le tre \"onni-caratterizzazioni\" della moglie, ma c'è un raggruppamento di troppe parole \"imponenti\" in poco spazio. Si perde l'effetto desiderato, almeno così è stato per me",
+                    "Direi che anche qui la virgola si possa togliere",
+                    "Refuso",
+                    "Sempre prima virgola non necessaria",
+                    "Interessante giudizio finale, mi verrebbe da chiedere: cosa intendi per coscienziosi? Nella storia che hai raccontato, ti riferisci a tutte le persone con cui Isabella è entrata in contatto nella sua vita e che non l'hanno aiutata, preferendo non vedere?",
+                    "In generale è molto interessante il tema del racconto, c'è stato un periodo in cui mi ero appassionata (per così dire) alle psicosi e ai tratti di personalità, e in particolare ai motivi che li generano. Hai descritto in maniera molto sottile e, ahimè, verosimile proprio uno di questi casi. Sarebbe interessante andare a scavare oltre, andare a capire cosa ha reso la madre di Isabella quello che è: sicuramente scopriremmo una storia altrettanto amara. Ma ovviamente sarebbe un racconto a parte.",
+                    "Comunque mi ha incuriosito la consapevolezza con cui fai agire la madre di Isabella, come se sia estremamente consapevole dell'effetto che le sue azioni hanno sulla figlia: soprattutto nell'episodio della festa scolastica sembra calcolare tutto con freddezza. Più che ragionamenti a freddo, io forse ci vedrei un'ulteriore difficoltà emotiva... proprio per questo mi piacerebbe sapere se hai fatto questa scelta per un motivo specifico.",
+                    "Triste è anche l'epilogo della storia, con la penosa fine di Isabella. Eppure è un finale in linea con tutto il resto, bello nella sua amarezza"
+                ]
+            ],
+            "timestamp": "2019-10-03T22:20:33Z",
+            "title": "La sindrome di Stoccolma in Isabella",
+            "url": "https://www.writersdream.org/forum/forums/topic/44671-la-sindrome-di-stoccolma-in-isabella//?do=findComment&comment=790566",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 8138,
+    "num_commenti": 1,
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 790825,
+            "text": [
+                "grazie infinite per tutte le correzioni, alcune cose non le avevo neppure notate ma dette da te saltano subito all'occhio, penso che seguirò praticamente tutti i consigli.",
+                "Mi fa piacere che l'abbiate letta, tu e , grazie per il passaggio"
+            ],
+            "timestamp": "2019-10-05T08:23:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44706-una-bambina-e-una-molletta//?do=findComment&comment=790825"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 790812,
+            "text": [
+                "Ma che delicata e graziosa (scusa se lo ripeto anche io ma il tuo termine è proprio adatto ) la tua favola , malinconica e allo stesso tempo leggera. Secondo me ha bisogno di pochi piccoli accorgimenti per essere perfetta.",
+                "Ti segnalo le cose che ho notato.",
+                "metterei andare al posto di venire. Stai parlando di un posto lontano, freddo e soprattutto anonimo, quindi andare. Se tu dicessi: aveva lasciato la sua casa per venire nel paese dove vivevo io... allora sì. Ma se no andare è più corretto",
+                "trovo fantastica questa frase, ma non ripeterei il verbo",
+                "al posto di partire, userei ripartire, o lasciarla... secondo me se no ci si inganna con la partenza che mette in moto il racconto invece qui la mamma la sta lasciando a casa della nonna, no? Sostituirei farle mozzare con mozzarle",
+                "perché piccola? Le parlava come se fosse adulta... sappiamo che lei è bassa e piccolina perché è una bambina, ma in queste occasioni è diversa perché la mamma le parla con un tono da adulta che si differenzia da tutte le altre volte",
+                "userei così al posto di e",
+                "invece che usare Fu il turno della bambina, userei la stessa formula di prima che hai usato per Molly con il cuscino sotto al letto, questo tipo di ripetizioni sono molto importanti nelle favole, aiutano i bambini a tenere il ritmo e a ricordare meglio la storia",
+                "non ripeterei il verbo guardare, si può trovare di meglio. Mi suona strano \"guardare il televisore\", direi guardare la televisione, il televisore il lo capisco come oggetto e mi dà l'idea della nonna in poltrona che fissa il televisore spento. Forse questo è un problema mio o addirittura è una questione regionale, meglio apsettare di sentire anche altri",
+                "qui direi: aveva rischiato di fare un disastro, se ti riferisci a Molly. Avevano rischiato il disastro se vuoi riferirti in generale alle due",
+                "qui chi è il soggetto? Secondo me hai bisogno di un solo soggetto per entrambe le frasi che quindi devono concordare: maschile o femminile? La situazione? Quindi tutto al femminile. Andrei a capo dopo la seconda frase",
+                "metterei: carica di borse e con una valigia ai piedi. Borse in mano suona strano, come se le borse fossero sulla sua mano. Se ci tieni alle mani potresti mettere: con le braccia/mani cariche di borse",
+                "metterei questa frase a capo",
+                "metterei un punto al posto della virgola, serve una pausa più lunga",
+                "c'erano una volta, come hai messo all'inizio",
+                "Davvero molto molto bello, grazie mille di questa lettura"
+            ],
+            "timestamp": "2019-10-05T07:14:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44706-una-bambina-e-una-molletta//?do=findComment&comment=790812"
+        }
+    ],
+    "text": [
+        "C'erano una volta, in un paese freddo e lontano, una bambina e un cane.",
+        "La bambina era piccola e triste. Aveva appena lasciato la sua casa per venire a vivere in un posto sconosciuto e non era sicura che la cosa le piacesse.",
+        "Anche il cane - una cagnolina per la precisione - era piccola e triste. Non era chiaro se avesse mai avuto una casa, ma per quel che la riguardava era sicura che la cosa non le piacesse affatto.",
+        "Andarono subito d’accordo.",
+        "La bambina non aveva fratelli o sorelle, aveva solo una mamma e da pochi giorni aveva anche una nonna. Era emersa dall'autostrada come un mammut che emerge da un ghiacciaio. Doveva essere rimasta congelata per anni: era sicuramente quello il motivo per cui non l'aveva mai vista.",
+        "Prima di partire, la mamma l'aveva abbracciata così forte da farle mozzare il respiro.",
+        "- Sono così disperata, - disse, - da averti portata fino a qua. Sono così disperata, - ripeté, - da doverti lasciare alla nonna. Tornerò presto, il prima possibile. Tornerò appena la vita me lo permetterà di nuovo.",
+        "A volte la mamma le parlava come se fosse una piccola adulta. Non sapeva mai cosa rispondere.",
+        "Ebbene, se la mamma era talmente disperata da lasciarla alla nonna, lei poteva essere talmente disperata da prendere Molly con sé, decise mentre dava un nome al cane. Alla cagnolina, per la precisione.",
+        "Piacque subito ad entrambe.",
+        "La bambina sapeva di non poter portare Molly a casa come se nulla fosse. Sua madre non aveva mai voluto cani e non riusciva ad immaginare perché la nonna-mammut dovesse fare eccezione. Perciò nascose Molly in uno zaino, aprì la porta con la sua chiave personale, percorse il lungo, lunghissimo corridoio fino alla camera e sistemò un cuscino sotto il letto. Molly apprezzò l'ingegno della bambina e si acciambellò soddisfatta su se stessa. Dopotutto, c’era un motivo se andavano d’accordo.",
+        "La camera della bambina era l’unica stanza in fondo a quel lungo, lunghissimo corridoio. Il corridoio era intasato da tanti, tantissimi scatoloni. Molti erano suoi e della mamma e racchiudevano tutte le cose che si erano portate dietro dalla vecchia vita. Certo, la mamma li avrebbe aperti e sarebbe entrata in camera per sistemare, ma la nonna aveva male alla schiena e le scatole rimasero lì dov'erano.",
+        "Il vero problema cominciò quando la bambina dovette tornare a scuola. A scuola non c’erano corridoi intasati e stanze poco raggiungibili, o almeno lei non li conosceva ancora. Stava giusto affrontando l’argomento con Molly, quando la cagnolina attraversò la strada a coda alta, andando ad annusare la vetrina di un negozio per animali. Fu il turno della bambina di apprezzare l'ingegno della cagnolina. Entrò, facendo tintinnare la campanella sopra il portone.",
+        "- Non ho molto tempo, - decise di essere diretta, perché di tempo ne aveva effettivamente poco, - dovete tenere Molletta fino alle 13.40. 13.50, se mi trattiene la maestra. Sa, è il mio primo giorno in questa scuola.",
+        "- Perché dovremmo tenere una molletta? - non capì la commessa del negozio.",
+        "- Non una molletta, dovete tenere Molletta, - si corrucciò la bambina. Poi, rendendosi conto di avere a che fare con un’adulta triste, decise di specificare:",
+        "- Molly.",
+        "- E perché dovremmo tenere Molly?",
+        "Stavolta fu la bambina a non capire:",
+        "- Perché volete bene agli animali e io e Molletta abbiamo bisogno di aiuto. Sa, lei odia non avere una casa, perciò per favore, faccia finta che questa sia la sua casa della mattina. Tornerò per le 13.40. Se non mi trattiene l’insegnante.",
+        "E così iniziò la loro piccola routine. Appena sveglia, la bambina dava a Molly due carezze e altrettanti biscotti, poi andava a fare colazione con la nonna. A volte la cagnolina si spazientiva e lo dichiarava con un abbaio, ma la nonna era dura d’orecchi e non sentiva mai niente.",
+        "Finita la colazione, Molly entrava nello zaino e attraversavano il lungo, lunghissimo corridoio stringendosi l’una all'altra. All'aria aperta giocavano con la neve fino al negozio per animali, dove la bambina prima di andare a scuola tirava fuori un ultimo biscotto dalla tasca.",
+        "- Ieri un signore mi ha chiesto quanto costava, - diceva ogni tanto la commessa, - uno di questi giorni te lo vendo, il tuo cane.",
+        "- Lei è il mio cuore. Davvero si prenderebbe la responsabilità di vendere il mio cuore? - rispondeva la bambina. A volte parlava come una piccola adulta. La commessa non sapeva mai cosa rispondere.",
+        "Un giorno Molly le fece prendere un vero spavento. Se ne stava acciambellata sul suo cuscino, sbadigliando sonoramente alla fiaba che la bambina leggeva ad alta voce.",
+        "- Guarda che è una storia bellissima, - la rimproverò la bambina, - parla di una fanciulla molto coraggiosa che si perde nel bosco, ma poi grazie ad un coniglio riesce a ritrovare la strada di casa e riabbraccia la mamma. Ma tu che ne sai, - si spazientì per lo scarso interesse, - tu magari una mamma non ce l’hai nemmeno avuta.",
+        "Molly si offese molto per questa dichiarazione. Si scrollò dalla punta del naso alla punta della coda e uscì a testa alta dalla stanza. Prima che la bambina potesse richiamarla, stava già correndo per il lungo, lunghissimo corridoio verso il salotto dove la nonna stava guardando il televisore. A quell'ora la nonna guardava sempre il televisore: c’era il suo telefilm preferito.",
+        "La bambina corse dietro a Molly, invocando il suo perdono. Le buttò addosso uno scialle a fiori rossi e la strinse forte forte a sé.",
+        "- Non lo dirò mai più, - sussurrò al suo orecchio, - non ti serve una mamma. Sarò io la tua famiglia. Non andartene, va bene?",
+        "La cagnolina la perdonò e, sempre stretta tra le sue braccia, accettò di tornare in camera. Aveva rischiato di essere un disastro, ma la nonna era senza occhiali e non vide né Molly né lo scialle.",
+        "Forse sarebbe potuto continuare così a lungo. Forse sarebbe potuta andare diversamente. Fatto sta che nella vita le disgrazie spuntano dietro agli angoli quando meno te lo aspetti. Dietro all'angolo, nella fattispecie, spuntò la mamma, carica di borse in mano e una valigia ai piedi. Le borse le fece cadere e la valigia sbatté contro il muro, quando si precipitò ad abbracciare la bambina.",
+        "- Santo cielo, quanto mi sei mancata! - le alitò sulla guancia, prima di staccarsi. Le lisciò i capelli e solo allora aggiunse, a labbra strette:",
+        "- Come stai?",
+        "La bambina non rispose nulla. Guardava la donna con gli occhi spalancati, persi fuori dalle orbite. Dalla camera da letto si sentì un abbaio.",
+        "La nonna non attraversava il lungo, lunghissimo corridoio, ma la mamma lo attraversò. La nonna non sentiva abbaiare in fondo all'appartamento, ma la mamma lo sentì. La nonna non vedeva la cagnolina nascosta in camera, ma la mamma la vide. E la buttò fuori di casa.",
+        "Perlomeno cercò di farlo. La nonna risalì le scale con in testa lo scialle a fiori rossi e Molly nascosta dietro le sue pesanti gambe pachidermiche.",
+        "- Mamma… - disse la mamma, perché così funzionavano le cose: una catena infinita di eventi, - mamma, lo sai che non possiamo tenerla.",
+        "- Molletta è il suo cuore, - rispose la nonna, facendo un lento occhiolino alla nipote, - davvero ti prenderesti la responsabilità di buttare via il suo cuore?",
+        "Dall'angolo in cui si era rifugiata, la bambina smise di respirare. Le labbra della mamma si fecero ancora più strette:",
+        "- Tu l’hai fatto con il mio. Tanto tempo fa.",
+        "- Lo so.",
+        "Dal vecchio petto uscì un vecchio sospiro, come se fosse rimasto incastrato lì per secoli. Un ingranaggio alla volta, la mano si abbassò per dare una carezza a Molly:",
+        "- Lo so.",
+        "Ed è qui che successe una cosa incomprensibile: la bambina scoppiò a piangere, la mamma scoppiò a piangere e scoppiò a piangere pure la nonna. Molly si scosse dalla punta del naso alla punta della coda e guidò tutte e tre le donne in salotto. Saltò sul divano e si acciambellò tra i cuscini, invitandole a fare altrettanto. Non per nulla era una cagnolina molto intelligente.",
+        "Fu così che arrivò la sera in cui la nonna smise di essere un mammut e la mamma smise di odiare i cani. Da dietro l’angolo, quando meno te l’aspetti, spunta anche la buona sorte.",
+        "Per cui sappiate che in un paese freddo e lontano, c’era una volta una bambina e una molletta. Non confondetevi: Molletta era il nome del cane. Della cagnolina, per la precisione."
+    ],
+    "timestamp": "2019-10-03T22:27:57Z",
+    "title": "Una bambina e una molletta",
+    "topic_id": 44706,
+    "url": "https://www.writersdream.org/forum/forums/topic/44706-una-bambina-e-una-molletta/"
+}

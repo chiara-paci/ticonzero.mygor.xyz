@@ -65,9 +65,86 @@
     },
     "num_chars": 6145,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 789881,
+            "text": [
+                "Buongiorno caro",
+                "lei è sparita. La mia idea era non dare troppe informazioni su questa storia d'amore perché non voglio che prenda spazio, ma che rimanga solo un condimento leggero alla storia, ma come hai ben notato non le so gestire tanto bene queste cose. Non credo corrano e non vivono insieme, guardano un film e fanno tutte quelle cose che si faanno con qualcuno che desideri e vuoi conoscere. Poi ognuno la interpreta a modo suo. Ma cosa gli potevo far fare? Erika ha pure l'influenza, mica potevano andare al cinema! Spero in revisione di avere un'idea più chiara su questo aspetto",
+                "avevo paura fosse fuori luogo invece!",
+                "non l'aveva deciso però, ci era finita in mezzo senza sentirsi adeguata, mentre questa volta vuole farlo (cioé io, o lei )",
+                "Grazie"
+            ],
+            "timestamp": "2019-09-30T08:08:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=789881"
+        },
+        {
+            "post_id": 790246,
+            "text": [
+                "Buongiorno cara",
+                "Grazie mille dei tuoi suggerimenti sempre attenti"
+            ],
+            "timestamp": "2019-10-02T06:32:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=790246"
+        },
+        {
+            "post_id": 790306,
+            "text": [
+                "immagino tu abbia ragione , rimedierò Devo dire che mi piace anche la tua proposto per risolvere il problema: concisa e chiara.",
+                "Grazie per aver letto e per le tue parole"
+            ],
+            "timestamp": "2019-10-02T13:19:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=790306"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 789881,
+            "text": [
+                "Buongiorno caro",
+                "lei è sparita. La mia idea era non dare troppe informazioni su questa storia d'amore perché non voglio che prenda spazio, ma che rimanga solo un condimento leggero alla storia, ma come hai ben notato non le so gestire tanto bene queste cose. Non credo corrano e non vivono insieme, guardano un film e fanno tutte quelle cose che si faanno con qualcuno che desideri e vuoi conoscere. Poi ognuno la interpreta a modo suo. Ma cosa gli potevo far fare? Erika ha pure l'influenza, mica potevano andare al cinema! Spero in revisione di avere un'idea più chiara su questo aspetto",
+                "avevo paura fosse fuori luogo invece!",
+                "non l'aveva deciso però, ci era finita in mezzo senza sentirsi adeguata, mentre questa volta vuole farlo (cioé io, o lei )",
+                "Grazie"
+            ],
+            "timestamp": "2019-09-30T08:08:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=789881"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 790246,
+            "text": [
+                "Buongiorno cara",
+                "Grazie mille dei tuoi suggerimenti sempre attenti"
+            ],
+            "timestamp": "2019-10-02T06:32:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=790246"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 790306,
+            "text": [
+                "immagino tu abbia ragione , rimedierò Devo dire che mi piace anche la tua proposto per risolvere il problema: concisa e chiara.",
+                "Grazie per aver letto e per le tue parole"
+            ],
+            "timestamp": "2019-10-02T13:19:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44651-le-ragazze-capitolo-15-13//?do=findComment&comment=790306"
+        }
+    ],
     "text": [
         "«Sono Inna».",
         "È stato solo un sussurro, ma sono riuscita a captare il tremito nella voce della ragazza nonostante il telefono si trovi a quasi dieci centimetri da me tra le mani di Davide.",

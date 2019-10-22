@@ -1,0 +1,214 @@
+{
+    "author": {
+        "author_id": 28718,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Lauram",
+        "url": "https://www.writersdream.org/forum/profile/28718-lauram/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , è il secondo brano che posti in officina, non hai avuto ancora un commento e mi faccio avanti; non potrò dire, scusa se mi ripeto",
+                    "Come ho notato nel racconto \"le foglie,\" anche qui il linguaggio che usi non mi pare molto semplice. Il tag è \"ragazzi\", ma credo che il tuo intento è rivolgerti a un pubblico più giovane, la trama me lo lascia pensare.",
+                    "La frese così risulta complessa. E' bene insegnare i congiuntivi, ma per portare il tuo target di riferimento a comprendere la storia, credo che il semplice discorso diretto sia più che sufficiente.",
+                    "si domandava: a che pensi? A cosa farai da grande? io vorrei essere un alieno per vivere in un altro pianeta, pensava Marcello.",
+                    "Stesso discorso vale per il passaggio dopo. O pensi a cosa farai domani o a cosa mangerai per cena? eviteresti la consecutio dei verbi, che messa così, stride un pò sulla fluidità.",
+                    "Chi guarda il cielo dei due. Chi compie l'azione è Piero, se vuoi indicare Marcello potresti dire : \"che ha lo sguardo rivolto al cielo\". Oppure: \"che come lui, assorto dai pensieri ha lo sguardo rivolto al cielo.\"",
+                    "Non so se l'intento dei due pensieri è quello di parlare come bambini, i bambini parlerebbero così, ma la voce narrante prima ha dimostrato altro. Sistemerei questa frase.",
+                    "Gli spunteranno le gambe se vorrà camminare. Se vorrà volare? Due ali. E perchè no, anche due pinne se desidera nuotare.",
+                    "Questa parte è molto tenera.",
+                    "Bella anche la chiusa. I protagonisti sono adulti? Forse. Un insieme di attimi che ha dato vita alla fantasia, riportato fanciulli anche i grandi. Domani dicono, già, ora è complicato. Ma sognamo ancora."
+                ]
+            ],
+            "timestamp": "2019-10-06T14:17:53Z",
+            "title": "I due pensieri",
+            "url": "https://www.writersdream.org/forum/forums/topic/44678-i-due-pensieri//?do=findComment&comment=791011",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5335,
+    "num_commenti": 1,
+    "num_posts": 21,
+    "post_after": [
+        {
+            "post_id": 791113,
+            "text": [
+                "Credevo di aver messo il link al commento, scusate."
+            ],
+            "timestamp": "2019-10-06T21:46:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791113"
+        },
+        {
+            "post_id": 791156,
+            "text": [
+                "buongiorno, grazie per essere passata. Alla canzone degli Stadio ho aggiunto l'interrogativo: perchè agli uomini piace fare bricolage? Ed è nato il mio racconto. Ho scelto la lavatrice per caso, mentre scrivevo, i collegamenti con l'elettrodomestico e le vite dei protagonisti si sono formati quasi da soli. Il pezzo quotato, è allegoria senza allegria. :)",
+                "Grazie mille per questo."
+            ],
+            "timestamp": "2019-10-07T08:40:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791156"
+        },
+        {
+            "post_id": 791209,
+            "text": [
+                "in questo racconto soffrono tutti o soffrirebbero tutti. Le interpretazioni sono libere, io ho la mia. Nella mia versione i due amanti (nel vero senso della parola) hanno deciso di non vivesi, per evitare sofferenze agli altri. Ma cosa resta? Tutto o un po' meno di tutto, non saprei. Grazie per gli apprezzamenti cara."
+            ],
+            "timestamp": "2019-10-07T13:19:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791209"
+        },
+        {
+            "post_id": 791228,
+            "text": [
+                "Sì, come hai ragione, in realtà stonava anche a me il passato remoto, mi serviva un tempo passato ma recente, forse meglio un passato prossimo o continuare con il presente. Ho scritto il racconto in un paio d'ore prima di andare a lavoro, gli errorini si notano tutti. Sono contenta che la storia comunque ti sia piaciuta.",
+                "Grazie :)"
+            ],
+            "timestamp": "2019-10-07T15:32:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791228"
+        },
+        {
+            "post_id": 791315,
+            "text": [
+                "cara, se ti dico che m'imbarazza spiegarlo, forse ti diventa più chiaro. Come dire... mi hai capita dai",
+                "Colpa di whatsapp",
+                "Grazie infinite"
+            ],
+            "timestamp": "2019-10-07T21:50:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791315"
+        },
+        {
+            "post_id": 791380,
+            "text": [
+                "Esatto, è lei che soffre ripensando a lui che ha amato una volta sola.",
+                "Grazie, proprio perché delicato non ho voluto specificare il passaggio del pelo sputato... spero ora di essere stata più chiara, altrimenti non importa, è un passaggio che se detto, a mio avviso ridurrebbe il pezzo alla sola materialità, e no, non vorrei proprio.",
+                "Grazie , sei sempre tanto dolce."
+            ],
+            "timestamp": "2019-10-08T08:43:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791380"
+        },
+        {
+            "post_id": 791553,
+            "text": [
+                "Che bel commento, grazie.",
+                "Mi fa piacere che si siano sentiti gli stati d'animo"
+            ],
+            "timestamp": "2019-10-08T19:13:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791553"
+        },
+        {
+            "post_id": 791584,
+            "text": [
+                "Ma lo sai che quando ho letto il tuo racconto mi è preso un colpo al pezzo della lavatrice?",
+                "Sì, ma solo nella vita di coppia. Con Elena no, non ha avuto il tempo di scegliere il programma (mi sembra di stare sul vocabolario fantastico).",
+                "Ciao"
+            ],
+            "timestamp": "2019-10-08T20:49:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791584"
+        },
+        {
+            "post_id": 791711,
+            "text": [
+                "Esatto, mi piace che il lettore si tiri le sue somme. Di risultati ne vedo molteplici. Ho raccontato solo due momenti del loro dopo.",
+                "Grazie",
+                "Per chi lavora la domenica poi.",
+                "Grazie ancora, oh tra poco Halloween eh! Daje"
+            ],
+            "timestamp": "2019-10-09T13:18:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791711"
+        },
+        {
+            "post_id": 792017,
+            "text": [
+                "Grazie mi fa sempre piacere ricevere i tuoi commenti."
+            ],
+            "timestamp": "2019-10-10T19:11:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=792017"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791355,
+            "text": [
+                "mi piace moltissimo questa parte, davvero visiva",
+                "molto bella anche questa",
+                "questa invece continuo a leggerla, ma non ci arrivo, che non guardava cosa?",
+                "bellissima anche questa",
+                "anche questa!",
+                "La prima parte è lineare e chiarissima, molto concreta. La seconda parte invece mi ha creato qualche problema a livello temporale. Quella sera che ripeti e non specifichi, non riesco a posizionarla, e forse non ha nessuna importanza. Poi ripeti una sera, quando lei decide di lavare la maglia di Andrea, e questo contribuisce a confondermi le idee.",
+                "Il presente del racconto di Elena è l'inizio della seconda parte, giusto? Tutto il resto è digressione e ricordo, o sbaglio?",
+                "Grazie , molto bello, delicato e straziante"
+            ],
+            "timestamp": "2019-10-08T07:43:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai//?do=findComment&comment=791355"
+        }
+    ],
+    "text": [
+        "Andrea",
+        "Per terra, su una mattonella trenta per quaranta c’è lui, su quella a fianco c’è il suo cellulare.",
+        "«Si è rotta la lavatrice» disse la moglie ad Andrea appena tornato dal lavoro.",
+        "«Provo ad aggiustarla io»",
+        "«Tu?» rispose Sara prendendogli la giacca.",
+        "«Sì, perché no?» ribadì Andrea consapevole di potercela fare.",
+        "«Ti do tempo fino a domani. Non posso starne senza.»",
+        "E così dopo cena, ancora in camicia, dopo aver aiutato la moglie a sparecchiare, controllato i compiti del figlio più grande, raccontato la favola al più piccolo, Andrea si è messo a fotografare il filtro della lavatrice. Domani appena mi sveglio vado a comprarlo nuovo. È di certo questo il problema, pensa dopo aver smontato alcuni pezzi dell’elettrodomestico, seguendo i passaggi che Google gli ha indicato.",
+        "«Ho trovato due calzini in un tubo. Vieni a prenderli?» chiede a Sara, intanto che separa il groviglio dei capelli dagli indumenti ripescati.",
+        "«Sì, grazie amore, tra un po’. Sto a un momento clou della serie tv» risponde la moglie dal salotto.",
+        "Andrea, sorride. Momento clou pensa, mentre passa lo straccio per asciugare il pavimento in bagno. I bambini dormono, questo sì che è un buon momento.",
+        "Decide di posare lo spazzolone e raggiungere la moglie, ma poi ci ripensa. Sta vedendo la puntata, si dice, quando mai dirà di sì. Ritorna a guardare l’oblò sperando che l’indomani, col filtro cambiato, riprenda a girare. Pochi metri più in là, invece, Sara spera che il commissario incastri l’assassino.",
+        "Si erano conosciuti a 17 anni, un bravo ragazzo Andrea, una brava ragazza Sara, simpatici entrambi e senza grilli per la testa. Un lavoro ciascuno dopo l’università, una casa lasciata in eredità da una nonna e due soldi da parte per mettere su famiglia. Dopo il viaggio di nozze, il primo bambino e poi il secondo. A quarant’anni avevano fatto tutto quello che altri iniziavano a fare solo in quel momento. Mentre i coetanei fuori stendevano i panni spargendo chimica e fragranza, loro si erano rinchiusi nel cestello, girati, strizzati, scolati, stesi e ripiegati, e ancora, e ancora. Tanto che la pelle dopo i continui lavaggi si era sbiadita, e lo sbattersi per conciliare impegno e lavoro provocava il mal di testa, ma solo a Sara. Il letto che la sera si usava sempre di più per dormire, aveva dimenticato i combattimenti dell’inizio.",
+        "Elena",
+        "Cammina tra la gente respirando a pieni polmoni, davanti ai sacchi della spazzatura, in ascensore o sull’autobus. Istanti d’innamoramento verso l’estraneo che indossa lo stesso profumo che si spruzzava Andrea.",
+        "«Dobbiamo farla finita. Non possiamo» si erano detti al telefono quella sera. Lui le parlava e ogni tanto tirava su col naso, lo stesso faceva lei. Con le narici assaporavano negli indumenti i resti del loro incontro.",
+        "«Sarà dura ma è la cosa migliore da fare.»",
+        "«Sì» avevano convenuto entrambi.",
+        "Faceva ancora così male che Elena decise una sera di lavare la maglietta che Andrea le aveva visto indosso solo per pochi minuti, in quella occasione. Ripiegata tra i capi nell’armadio aveva preso l’odore di lavanda. Se gli faccio fare un giro per rinfrescarla, forse si raffredderà il ricordo che ho di lui e magari lo odierò. Così sarà tutto più semplice, pensava. Ma Elena usò l’ammorbidente e ogni cosa ritornò come prima, difficile. E in uno di quei momenti in cui il dolore la rigava come una costa di sedano, andò a frugare nella tasca dei jeans. Aveva messo lì un pezzo di Andrea: il suo pelo. Il ricordo di lui che si era portato via, non potendosi portare via lui.",
+        "Non era quello che sputava per andare avanti, che l’infastidiva nel lavoro e non guardava. Era il pelo del dopo.",
+        "Una volta finito non finiva ancora. Erano materia vibrante oltre il respiro. Gli occhi guardavano il corpo che toccava, il caldo tra i colli e i reticoli di pelle su pelle. Rinchiusi in una coppa, nella scolatura che altri avrebbero versato nel lavandino, brindavano ai loro momenti.",
+        "Senti quello che provo io? si chiedeva Elena, e nella sofferenza di chi ama e vorrebbe essere amata allo stesso modo, lo faceva.",
+        "«Ahi.»",
+        "«Me lo porto con me.»",
+        "«Ma ti pare una cosa normale?»",
+        "«Sì, certo, è mio.»",
+        "E Andrea rideva, felice del suo gesto inaspettato. Felice di sentirsi così desiderato. Mentre lei con le mani distendeva il pelo che gli aveva staccato dalla spalla e tastava il bulbo cicciotto, lui l’avvicinava a sé. Le sue mani grandi sui suoi fianchi stretti. Elena a cavalcioni su di lui si abbandonava, rovesciandogli i capelli sulle labbra che Andrea non scansava.",
+        "Mi vuole, pensava Elena. Come lo voglio io? pensava subito dopo.",
+        "E si faceva lumaca per appiccicargli ogni parte di sé addosso. Nessun ago sarebbe potuto passare tra i corpi eppure sentiva gli spifferi pungolarla dal freddo. Dimmi le parole che riempiono gli spazi. Ti prego.",
+        "Con le mani gli accarezzava gli altri peli, soffici. Su e giù, di lato e a destra. tesseva sulle dita il ricordo, nelle cui maglie avrebbe potuto aggrapparsi per far fronte ai momenti del lungo domani.",
+        "- È ora di andare.",
+        "Aspetta. E se dovessi morire? Soffriresti? pensava Elena.",
+        "E Andrea si staccava da lei, ma non con gli occhi.",
+        "Descrivimi il mio sguardo, gli diceva senza parlare, se è come il tuo allora sto apposto…",
+        "Poi ognuno si allacciava i propri jeans.",
+        "Nella tasca dei Levis all’angolino in fondo, Elena non trova il pelo. Solo frantumi di un biglietto dell’autobus messo in lavatrice chissà quante volte."
+    ],
+    "timestamp": "2019-10-06T21:43:56Z",
+    "title": "[MI 129] Un giorno mi dirai",
+    "topic_id": 44746,
+    "url": "https://www.writersdream.org/forum/forums/topic/44746-mi-129-un-giorno-mi-dirai/"
+}

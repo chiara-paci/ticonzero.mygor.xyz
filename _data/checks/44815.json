@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 11320,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "mina99",
+        "url": "https://www.writersdream.org/forum/profile/11320-mina99/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 338,
+    "num_commenti": 0,
+    "num_posts": 14,
+    "post_after": [
+        {
+            "post_id": 793110,
+            "text": [
+                "Grazie mille dei complimenti e dei consigli",
+                "I versi sono liberi, non rispettano uno schema di sillabazione. Se sono venuti simil-haiku non me ne sono accorto, ma probabilmente è perché sono le poesie che leggo e apprezzo di più in teoria, comunque, un haiku propriamente detto ha tre versi~",
+                "Sì, ho voluto ambientarlo in un passato non ben definito, seguendo l'ispirazione datami dalla musica^^",
+                "Grazie grazie grazie ancora a tutti i commenti"
+            ],
+            "timestamp": "2019-10-15T16:22:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44815-lp-5-vuoto//?do=findComment&comment=793110"
+        },
+        {
+            "post_id": 793209,
+            "text": [
+                "In revisione ci provo^^ grazie mille!"
+            ],
+            "timestamp": "2019-10-16T04:27:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44815-lp-5-vuoto//?do=findComment&comment=793209"
+        },
+        {
+            "post_id": 793314,
+            "text": [
+                "Ciao , grazie mille del passaggio sì, sulla perdita del compagno hai interpretato bene^^",
+                "Tendo a ragionare al di là di concetti di identità di genere; a parte questo, cerco di impersonificarmi il più possibile in ogni situazione, per tenermi allenato come scrittore di narrativa, quindi questo tuo commento mi fa molto piacere"
+            ],
+            "timestamp": "2019-10-16T13:46:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44815-lp-5-vuoto//?do=findComment&comment=793314"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "commento",
+        "Traccia 1",
+        "Sola si distende",
+        "Sul giaciglio",
+        "La donna",
+        "Sfinita.",
+        "Il vortice di emozioni",
+        "Spento",
+        "Come un focolare",
+        "Di una casa abbandonata.",
+        "L'ultimo seme",
+        "Dell'uomo",
+        "È perso",
+        "Per sempre.",
+        "La promessa di un futuro",
+        "Il ponte per il passato",
+        "Distrutto dal suo stesso corpo",
+        "Senza sapere perché.",
+        "Il vento ulula",
+        "Nella capanna:",
+        "Sul volto della donna",
+        "Un urlo di dolore",
+        "Muto."
+    ],
+    "timestamp": "2019-10-12T13:42:35Z",
+    "title": "[LP 5] Vuoto",
+    "topic_id": 44815,
+    "url": "https://www.writersdream.org/forum/forums/topic/44815-lp-5-vuoto/"
+}

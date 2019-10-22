@@ -1,0 +1,216 @@
+{
+    "author": {
+        "author_id": 32275,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Giulia Consiglio",
+        "url": "https://www.writersdream.org/forum/profile/32275-giulia-consiglio/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Una perfetta espressione dell'inquietudine e della disperazione, che tocca la morte e tocca le piu' alte turbolenze di un cuore",
+                    "che a modesto parer mio non e' corrisposto. Educato, mai violento.",
+                    "Nato in daltonico mondo",
+                    "vengo dai profondi blu",
+                    "e vago agli alti rossi,",
+                    "ma senza resa muore",
+                    "quell'angolo di cuore",
+                    "assediato da ignavi Dei.",
+                    "Come albero,",
+                    "tra nero e bianco,",
+                    "radica la terra",
+                    "e per l’aere si serra",
+                    "se verso Dio s’alberga.",
+                    "Bellissima l'immagine dell'albero, che rappresenta la stabilita' , la forza della vita!",
+                    "Ora paion gelide",
+                    "le chiome d’Alba",
+                    "quando notte s’unisce al giorno",
+                    "e attendo da un falò",
+                    "su alto monte di mare",
+                    "dove pensieri son vele e,",
+                    "gonfie d’un vento di memorie,",
+                    "scruto rotta tra le tempeste.",
+                    "Ed questo altro cuore senza anima e senza amore, che con la sua freddezza non puo' ricambiare nulla, c'e' solo tempesta e disperazione. Rendi molto bene l'idea.",
+                    "Linguaggio molto azzeccato, appropriato, ed assonanze e ritmo giusto.",
+                    "Erano giorni per falchi.",
+                    "﻿",
+                    "Vola rossa chioma",
+                    "della mia gelida Alba",
+                    "al suo Dio, ed io",
+                    "sfido il mio!",
+                    "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
+                ]
+            ],
+            "timestamp": "2019-10-14T22:44:35Z",
+            "title": "Ultima Alba",
+            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=792912",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Una perfetta espressione dell'inquietudine e della disperazione, che tocca la morte e tocca le piu' alte turbolenze di un cuore",
+                    "che a modesto parer mio non e' corrisposto. Educato, mai violento.",
+                    "Nato in daltonico mondo",
+                    "vengo dai profondi blu",
+                    "e vago agli alti rossi,",
+                    "ma senza resa muore",
+                    "quell'angolo di cuore",
+                    "assediato da ignavi Dei.",
+                    "Come albero,",
+                    "tra nero e bianco,",
+                    "radica la terra",
+                    "e per l’aere si serra",
+                    "se verso Dio s’alberga.",
+                    "Bellissima l'immagine dell'albero, che rappresenta la stabilita' , la forza della vita!",
+                    "Ora paion gelide",
+                    "le chiome d’Alba",
+                    "quando notte s’unisce al giorno",
+                    "e attendo da un falò",
+                    "su alto monte di mare",
+                    "dove pensieri son vele e,",
+                    "gonfie d’un vento di memorie,",
+                    "scruto rotta tra le tempeste.",
+                    "Ed questo altro cuore senza anima e senza amore, che con la sua freddezza non puo' ricambiare nulla, c'e' solo tempesta e disperazione. Rendi molto bene l'idea.",
+                    "Linguaggio molto azzeccato, appropriato, ed assonanze e ritmo giusto.",
+                    "Erano giorni per falchi.",
+                    "﻿",
+                    "Vola rossa chioma",
+                    "della mia gelida Alba",
+                    "al suo Dio, ed io",
+                    "sfido il mio!",
+                    "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
+                ]
+            ],
+            "timestamp": "2019-10-14T22:44:35Z",
+            "title": "Ultima Alba",
+            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=792912",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 2322,
+    "num_commenti": 2,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 793181,
+            "text": [
+                "si perdonami anglares, hai perfettamente ragione, non mi ricordavo piu' come dovevo fare con il link. non scrivevo qui da giugno!"
+            ],
+            "timestamp": "2019-10-15T20:40:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44861-il-colore-del-mare//?do=findComment&comment=793181"
+        },
+        {
+            "post_id": 793393,
+            "text": [],
+            "timestamp": "2019-10-16T19:19:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44861-il-colore-del-mare//?do=findComment&comment=793393"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 792918,
+            "text": [
+                "non occorre riportare tutto il commento, basta il ."
+            ],
+            "timestamp": "2019-10-15T03:18:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44861-il-colore-del-mare//?do=findComment&comment=792918"
+        }
+    ],
+    "text": [
+        "Il colore del mare",
+        "Azzurrino tenue,",
+        "Si sprigiona all'orizzonte",
+        "Mi fa volare la mente.",
+        "Mi accarezza la guancia,",
+        "Quell'impertinente",
+        "Che da uno scoglio",
+        "Mi schizza sul bel costume",
+        "Tutta la sua forza.",
+        "Mi aiuta a far chiarezza",
+        "nella mia caotica esistenza.",
+        "Mi fa tornare bambina,",
+        "Con quell'acqua cristallina.",
+        "Quanti estati ho passato",
+        "Ad ammirarti innamorata,",
+        "Ma allo stesso tempo impaurita",
+        "Dal profondo blu al lago",
+        "Che mai tranquilla mi lasciava.",
+        "Non appartengo al mare,",
+        "Non appartengo alla terra,",
+        "Ma di certo senza questi due elementi,",
+        "La mia esistenza non avrebbe senso.",
+        "Viva il colore del mare,",
+        "Viva la vita ed il suo candore!",
+        "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "mio commento a ULTIMO ALBA",
+        "Una perfetta espressione dell'inquietudine e della disperazione, che tocca la morte e tocca le piu' alte turbolenze di un cuore",
+        "che a m﻿odesto parer mio non e' corrisposto. Educato, mai violento.",
+        "Nato in daltonico mondo",
+        "vengo dai profondi blu",
+        "e vago agli alti rossi,",
+        "ma senza resa muore",
+        "quell'angolo di cuore",
+        "assediato da ignavi Dei.",
+        "Come albero,",
+        "tra nero e bianco,",
+        "radica la terra",
+        "e per l’aere si serra",
+        "se verso Dio s’alberga.",
+        "Bellissima l'immagine dell'albero, che rappresenta la stabilita' , la forza della vita!",
+        "Ora paion gelide",
+        "le chiome d’Alba",
+        "quando notte s’unisce al giorno",
+        "e attendo da un falò",
+        "su alto monte di mare",
+        "dove pensieri son vele e,",
+        "gonfie d’un vento di memorie,",
+        "scruto rotta tra le tempeste.",
+        "Ed questo altro cuore senza anima e senza amore, che con la sua freddezza non puo' ricambiare nulla, c'e' solo tempesta e disperazione. Rendi molto bene l'idea.",
+        "Linguaggio molto azzeccato, appropriato, ed assonanze e ritmo giusto.",
+        "Erano giorni per falchi.",
+        "﻿",
+        "Vola rossa chioma",
+        "della mia gelida Alba",
+        "al suo Dio, ed io",
+        "sfido il mio!",
+        "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
+    ],
+    "timestamp": "2019-10-14T22:54:30Z",
+    "title": "Il colore del mare",
+    "topic_id": 44861,
+    "url": "https://www.writersdream.org/forum/forums/topic/44861-il-colore-del-mare/"
+}

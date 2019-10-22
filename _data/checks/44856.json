@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 34224,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "teotode",
+        "url": "https://www.writersdream.org/forum/profile/34224-teotode/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "è il mio primo commento, quindi non sono esattamente esperto su cosa scrivere.",
+                    "La tua poesia mi è piaciuta perchè tratta una tematica molto tagliente e molto sentita, quella del seguire gli altri gli altri come se facessimo parte di un grande gregge e della soddisfazione che si prova quando seguiamo la massa, senza però chiederci se quello che stiamo per fare abbia veramente un senso o se porti vantaggio o se sia giusto moralmente.",
+                    "A mio parere, trovo la forma di questo componimento molto funzionale all'argomento che si sta trattando perchè i versi brevi ti obbligano a fare delle pause nella lettura, forzandoti a soffermati su ogni parola, anche se non sono presenti segni di punteggiatura.",
+                    "Il continuo riproporsi di una coppia di elementi fa' sì che venga valorizzata la connessione tra i due, come se potessi dividere la poesia in coppie di versi, in ognuno dei quali si ha all'inizio il presentarsi di un elemento, mentre l 'immagine che si proprone nel secondo verso tende a rafforzare o a spiegare il primo, ma creando così una sfumatura negativa e di critica, che è in linea con il tema generale del componimento.",
+                    "Trovo infine profondo il significato negativo che si attribuisce al gregge, che viene spesso riproposto in vari componimenti, ma trovo che, grazie ai versi brevi e taglienti, la tua poesia offra delle immagini forti e significative.",
+                    "In ogni caso, complimenti!",
+                    "teotode"
+                ]
+            ],
+            "timestamp": "2019-10-14T18:14:09Z",
+            "title": "Branco e gregge",
+            "url": "https://www.writersdream.org/forum/forums/topic/44848-branco-e-gregge//?do=findComment&comment=792813",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 474,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 792836,
+            "text": [
+                "benvenuto nel WD.",
+                "Invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso:"
+            ],
+            "timestamp": "2019-10-14T19:18:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44856-monologo-allo-sconosciuto//?do=findComment&comment=792836"
+        }
+    ],
+    "text": [
+        "Non ti dedicherò una canzone,",
+        "nè un'ode elevata, Sconosciuto:",
+        "ti getto solo quel che ti è dovuto,",
+        "queste lame colme di delusione.",
+        "Chè io trasgredisco la devozione",
+        "richiesta alla setta che hai mietuto,",
+        "ogni arma tu per vedermi abbattuto,",
+        "ogni parola imbracci, ogni illusione.",
+        "Credi di avere me in pugno, Tiranno?",
+        "Il Re dovrebbe temer la rivolta",
+        "quando perde dai sudditi la stima.",
+        "Prego Mnemosine dal suo alto scranno",
+        "che la memoria di lui mi sia tolta",
+        "perché Sconosciuto non lo era prima."
+    ],
+    "timestamp": "2019-10-14T19:09:36Z",
+    "title": "Monologo allo Sconosciuto",
+    "topic_id": 44856,
+    "url": "https://www.writersdream.org/forum/forums/topic/44856-monologo-allo-sconosciuto/"
+}

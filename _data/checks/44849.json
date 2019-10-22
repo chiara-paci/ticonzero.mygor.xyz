@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 34216,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Regina D'Autunno",
+        "url": "https://www.writersdream.org/forum/profile/34216-regina-dautunno/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 618,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 792743,
+            "text": [
+                "purtroppo devo chiudere. Ti invito a leggere attentamente e di presentarti in Ingresso. Ciao."
+            ],
+            "timestamp": "2019-10-14T13:20:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44849-la-bellezza-delle-stagioni//?do=findComment&comment=792743"
+        }
+    ],
+    "text": [
+        "La primavera è la stagione del risveglio,",
+        "risveglio dal torpore invernale,",
+        "risveglio della natura",
+        "che generosa sboccia in scenari meravigliosi.",
+        "L'estate scoppia dopo la primavera",
+        "come uno scintillio di stelle.",
+        "E' la stagione del divertimento,",
+        "dove il caldo e il mare si abbracciano",
+        "in un divertente vento che dà solo calore.",
+        "L'autunno viene dopo l'estate,",
+        "lasciando un pò di malinconia",
+        "della stagione della spensieratezza",
+        "è il periodo dei ricordi",
+        "che nessuno potrà mai cancellare...",
+        "L'inverno è come il suo gelo:",
+        "freddo e pungente,",
+        "copre tutto con il suo manto bianco.",
+        "Eppure è il periodo per riflettere",
+        "sulla nascita di un Dio Bambino."
+    ],
+    "timestamp": "2019-10-14T12:00:36Z",
+    "title": "La bellezza delle stagioni",
+    "topic_id": 44849,
+    "url": "https://www.writersdream.org/forum/forums/topic/44849-la-bellezza-delle-stagioni/"
+}

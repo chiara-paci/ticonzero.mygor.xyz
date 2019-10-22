@@ -1,0 +1,126 @@
+{
+    "author": {
+        "author_id": 33896,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kasimiro",
+        "url": "https://www.writersdream.org/forum/profile/33896-kasimiro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao . Per me sono i primi commenti. Mi ha incuriosito molto il titolo e l'orientamento comico e sono passato subito alla lettura.",
+                    "Essendo un estimatore dei Monty Python, ritengo che una figura come Gesù possa ispirare situazioni comiche, come hanno fatto loro in maniera sarcastica e dissacrante con il loro \"Brian di Nazareth\". L'ironia, credo sia un valore sublime, ciò non toglie che la vita di Gesù è stata molto drammatica, soprattutto nell'epilogo. Ricordo ancora con cruenza, quando vidi da bambino il film di Zeffirelli: i chiodi piantati nelle mani durante la crocifissione.",
+                    "Ritornando al testo, trovo molto interessante come ti districhi con disinvoltura, tra Gesù, innamoramento e informatica.",
+                    "Floriana non è per niente simpatica, (ma è quello che volevi far trasparire). Chiamare in causa Gesù per conquistare una donna può essere interessante, ma forse poteva essere sviluppato in modo più creativo. Avrei visto il ragazzo, invece che perdersi nei meandri del volontariato, fare qualcosa di eclatante.",
+                    "Non mi sembra una bella risposta, ma se è quello che volevi trasmettere da parte di lui, un pò succube, ci sei riuscito",
+                    "Non è una risposta molto saggia, quella del prete.",
+                    "Mi piacciono i dialoghi stringati, efficaci, anche se a volte mi sembrano scollegati fra loro. Non mi sono chiarissime le tue intenzioni su quello che volevi trasmettere, anche se nel finale si può intuire.",
+                    "E' un racconto coraggioso e forse si poteva osare un poco di più.",
+                    "Lo ho apprezzato e letto tutto di un fiato.",
+                    "Buon proseguimento"
+                ]
+            ],
+            "timestamp": "2019-10-01T21:32:23Z",
+            "title": "Come Gesù",
+            "url": "https://www.writersdream.org/forum/forums/topic/44620-come-ges%C3%B9//?do=findComment&comment=790229",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2472,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 791093,
+            "text": [
+                "Grazie , perfettamente d'accordo con le tue riflessione. Il commento finale ha colto quelle che erano le mie intenzioni; piacevolmente sorpreso."
+            ],
+            "timestamp": "2019-10-06T20:39:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44678-i-due-pensieri//?do=findComment&comment=791093"
+        },
+        {
+            "post_id": 791099,
+            "text": [
+                "Grazie , quanti spunti possono venire fuori da semplici frasi. Concordo che lo stile è da sistemare e questo breve racconto, mi rendo conto che non è immediato alla comprensione di bambini. Più di altri, è il frutto di un'ispirazione immediata, un'atmosfera sospesa a me cara. Mi è molto utile avere questi commenti, grazie."
+            ],
+            "timestamp": "2019-10-06T21:02:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44678-i-due-pensieri//?do=findComment&comment=791099"
+        },
+        {
+            "post_id": 791122,
+            "text": [
+                "Grazie , mi piace rivolgermi ai bambini perché, come sappiamo, non sono ancora troppo influenzati dalla realtà. Possono credere verosimile veder volare un elefante...",
+                "Penso che i maestri che dicono a un bambino di colorare il tronco di un albero di marrone e le foglie di verde, partono già con una rigidità che non si accomuna con il loro mondo. Per questo mi piace l'idea di rivolgermi allo stesso modo agli adulti. Questo breve brano, concordo che sia più in linea verso questi ultimi.",
+                "All'inizio, i due protagonisti uno di fronte all'altro, non me li ero immaginati in un luogo concreto, forse perché non mi era venuto in mente, o non era per me rilevante. Nel mio sentire potevano essere seduti in un prato, nella natura. luoghi in cui la mente può vagare con più disinvoltura. Ma in effetti, anche una sala d'attesa, può stimolare l'evasione. e dare un senso al prosieguo della storia, come mi hai fatto notare. Grazie per le puntuali correzioni."
+            ],
+            "timestamp": "2019-10-06T22:12:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44678-i-due-pensieri//?do=findComment&comment=791122"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "I due pensieri",
+        "Marcello e Piero stavano uno di fronte all'altro, ognuno assorto nei propri pensieri.",
+        "Ogni tanto i loro sguardi si incrociavano e Marcello, incuriosito, si domandava a cosa pensasse il suo amico: “Magari pensa a cosa farà da grande.” -si chiese- “Io vorrei essere un alieno. Sì, una creatura di un altro pianeta!” Continuava tra sé Marcello.",
+        "Magari, Piero, pensava a cosa avrebbe voluto mangiare stasera, oppure al papà che non vedeva da tanto.",
+        "Alle vacanze al mare o al Natale.",
+        "Forse pensava a cosa lo aspettava domani o a quello che aveva fatto ieri.",
+        "Al dente che gli faceva male o al gelato alla fragola.",
+        "Alla solitudine o alla partita di pallone.",
+        "Alla chitarra senza corde o ai brufoli in fronte.",
+        "Oppure, non pensava a niente.",
+        "Anche Piero, assorbito dalle sue riflessioni, con la mano che reggeva il mento, osservava Marcello e il suo silenzio con lo sguardo rivolto al cielo.",
+        "Sentiva che c'era un'affinità tra loro.",
+        "Fu in quel momento che le loro attività mentali si incontrarono: desiderare di essere extraterrestri.",
+        "Aleggiavano nell'aria, i due pensieri, si sfioravano e ogni tanto si incrociavano.",
+        "“Come vorresti essere come alieno?” Chiedeva il pensiero di Piero a quello di Marcello.",
+        "“Non saprei...ma molto diverso da un umano: una forma informe, che sta sempre ferma e quando ha bisogno di camminare gli spuntano due gambe, di volare due ali e di nuotare due pinne; oppure...un mix dei miei animali preferiti: gufo, geco e canguro! E tu?” Chiese il pensiero di Marcello",
+        "“Una violetta azzurra!”",
+        "“Ma che alieno sarebbe?”",
+        "“Un fiore marziano! che colonizza tutto il pianeta, te lo immagini?” Ribatté il pensiero di Piero.",
+        "“Non saprei...diventerebbe nauseante un profumo perenne di violetta! E poi, perché azzurra? La violetta è violetta!”",
+        "“Perché è una violetta marziana! E l'azzurro è il mio colore preferito, e sarebbe bello profumasse anche di rosa!”",
+        "“Non riesco a comprenderti!”",
+        "“I marziani possono fare o essere qualunque cosa!”",
+        "“Anche i pensieri!”",
+        "“E allora andiamo!” lo incitò il pensiero di Piero.",
+        "“Sono stanco.”",
+        "“Ma come!”",
+        "“Sono stanco.”",
+        "“Anch'io sono stanco, ma lo vogliamo colonizzare il mondo con le violette?”",
+        "“Sono stanco.” Proseguì il pensiero di Marcello.",
+        "“Ho capito, va bene, lo colonizziamo domani.” Rispose il pensiero di Piero.",
+        "“Sì, domani.”",
+        "E così dopo quell'incontro fortuito, i due pensieri si allontanarono e continuarono a fluttuare ognuno per conto proprio.",
+        "I due rimasero lì, uno di fronte all'altro...",
+        "… e Marcello non si domandò più a cosa pensasse Piero."
+    ],
+    "timestamp": "2019-10-01T21:39:30Z",
+    "title": "I due pensieri",
+    "topic_id": 44678,
+    "url": "https://www.writersdream.org/forum/forums/topic/44678-i-due-pensieri/"
+}

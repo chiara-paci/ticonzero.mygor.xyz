@@ -50,7 +50,7 @@
     },
     "num_chars": 4923,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 789156,
@@ -94,6 +94,22 @@
             ],
             "timestamp": "2019-09-27T07:41:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=789418"
+        },
+        {
+            "post_id": 792130,
+            "text": [
+                "grazie di cuore per il commento! Perdona il ritardo nel risponderti ma ho avuto giorni pieni.",
+                "Cerco di commentare la tua recensione di seguito...",
+                "Quando scrivo tolgo il guinzaglio alla fantasia...altrimenti che scrivo a fare? Comunque ho visto bambini molto più piccoli \"perdersi\"",
+                "La risposta è \"sì\" e la speranza è sempre questa!",
+                "Hai ragione! Grazie.",
+                "Evidentemente non hai mai letto Dylan Dog, il nonno ne è un lettore accanito! Ti conviene rimediare...",
+                "Lui no, ma la mamma sì....E le mamme (come i papà) ripetono spesso le stesse cose...",
+                "Hai ragione! Grazie",
+                "Grazie a te per il tempo dedicato!"
+            ],
+            "timestamp": "2019-10-11T14:26:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44609-mediterraneo//?do=findComment&comment=792130"
         }
     ],
     "post_staff": [],

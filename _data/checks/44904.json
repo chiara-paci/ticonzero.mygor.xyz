@@ -1,0 +1,148 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao è la prima volta che ti leggo.",
+                    "Il tuo racconto mi ha colpito molto, l'ho trovato intenso e molto ben scritto. La storia è semplice senza troppi colpi di scena a parte sul finale, ma trovo che tu abbia un vero talento nel dipingere i tuoi personaggi che non solo vedo molto chiaramente, ma di cui riesco a sentire pensieri e male ai piedi.",
+                    "Ho apprezzato anche la scelta della tematica che hai affrontato, l'ho trovata particolare, solo per quanto riguarda le scarpe; molto coinvolgente per tutto quello che è l'aspetto femminile e femminista della storia",
+                    "Mi sono chiesta più volte perché tu abbia scelto questo titolo; trovo riferimenti nel testo, ma non abbastanza da giustificare il plurale delle stazioni di servizio, il singolare di un'aranciata, le due cose insieme e le due cose nel titolo. Insomma: il titolo mi spiazza",
+                    "Ti metto qui sotto alcuni dettagli che ho notato leggendo:",
+                    "sostituirei per con a causa",
+                    "terrei i due punti qui, ma li eliminerei dalla frase iniziale",
+                    "da qui insomma. Un po' perché questi due due punti sono molto vicini e poi perché rileggendo sinceramente non li capisco nella prima frase che credo andrebbe riformulata",
+                    "qui la virgola si potrebbe eliminare",
+                    "hai perso uno spazio: e un",
+                    "inserirei il nome del capo la prima volta che lo nomini perché in poche righe hai tanti nomi che creano confusione",
+                    "trovo questo pezzo molto naturale e realistico",
+                    "qui non capisco bene cosa vuoi dire; anche se lui avesse saputo quanto impegno aveva messo lei nel prepararsi, cosa sarebbe cambiato? Non le avrebbe più rivolto uno sguardo Tac? E perché poveretto? Qui tu stai semplicemente descrivendo lo sguardo di un uomo a una donna, non certo uno sguardo di lavoro, ma uno sguardo da maschio a femmina che, arrivato alle scarpe si tramuta in sguardo di lavoro.",
+                    "da qui in poi parte un pezzo quasi esclusivamente raccontato dal punto di vista di Fantini, il che spiazza, dal momento che niente lasciava prevedere nel tuo racconto che la narrazione sarebbe stata condivisa. Io credo che si tratti più che altro di una svista e che non sia stato fatto di proposito. Terrei il punto di vista di lei che ha uno sguardo sensibile e arguto.",
+                    "qui con riesco a cogliere bene il tono di Erminia. Da dopo occupato eliminerei, perché lei dovrebbe dire una cosa che sanno già entrambi?",
+                    "appuntameno è maschile: e per l'ultimo impiegò",
+                    "questa frase va un po' ampliata perché poi prosegui e Marcella è in autogrill, quindi le domande al marito come le ha rivolte?",
+                    "Grazie per la lettura , mi sono proprio divertita"
+                ]
+            ],
+            "timestamp": "2019-10-18T09:05:43Z",
+            "title": "Stazioni di servizio: un'aranciata",
+            "url": "https://www.writersdream.org/forum/forums/topic/44879-stazioni-di-servizio-unaranciata//?do=findComment&comment=793698",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 7661,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 793957,
+            "text": [
+                "Buongiorno",
+                "perché epicurea? Sono andata a cercare il termine perché non ero sicura del suo significato e dice: edonista, gaudente, materialista",
+                "bruciano anche gli occhi, immagino dipenda da quanto è salata l'acqua, volevo passarci sopra e soffermarmi di più sulla vista annebbiata e confusa, ma forse faccio solo sorgere la domanda che è venuta spintanea a te",
+                "qui mi metti il dubbio: pensavo che il capitolo della riunione fosse abbastanza per capire che l'associazione non esiste più. Sono rimasti solo Erika e Davide visto che tutte le altre hanno lasciato e hanno espresso la volontà di aprire un'altra associazione, mentre Roberto ha dichiarato di voler cambiare vita e dedicarsi ad altro. Dici che devo specificarlo di più?",
+                "Buon fine settimana caro bw e grazie sempre"
+            ],
+            "timestamp": "2019-10-19T06:57:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=793957"
+        },
+        {
+            "post_id": 794064,
+            "text": [
+                "capito!",
+                "Sei una fonte inesauribile di sapere , buon fine settimana anche a te!"
+            ],
+            "timestamp": "2019-10-19T14:05:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794064"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 793957,
+            "text": [
+                "Buongiorno",
+                "perché epicurea? Sono andata a cercare il termine perché non ero sicura del suo significato e dice: edonista, gaudente, materialista",
+                "bruciano anche gli occhi, immagino dipenda da quanto è salata l'acqua, volevo passarci sopra e soffermarmi di più sulla vista annebbiata e confusa, ma forse faccio solo sorgere la domanda che è venuta spintanea a te",
+                "qui mi metti il dubbio: pensavo che il capitolo della riunione fosse abbastanza per capire che l'associazione non esiste più. Sono rimasti solo Erika e Davide visto che tutte le altre hanno lasciato e hanno espresso la volontà di aprire un'altra associazione, mentre Roberto ha dichiarato di voler cambiare vita e dedicarsi ad altro. Dici che devo specificarlo di più?",
+                "Buon fine settimana caro bw e grazie sempre"
+            ],
+            "timestamp": "2019-10-19T06:57:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=793957"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 794064,
+            "text": [
+                "capito!",
+                "Sei una fonte inesauribile di sapere , buon fine settimana anche a te!"
+            ],
+            "timestamp": "2019-10-19T14:05:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794064"
+        }
+    ],
+    "text": [
+        "Non riesco a togliermi dalla testa che il lavoro di volontariato serva più a me che alle vittime di tratta con cui parlo. Vittime di tratta? O vittime di vita? Cerco sempre di essere molto precisa con le definizioni che riguardano le ragazze, anche se sto solo parlando con me stessa. Una buona parte delle ragazze che ho conosciuto sapeva a cosa andava incontro quando è partita, e non l'avrebbe scelto mai se avesse avuto un'opzione diversa. La questione non è quella di aver imboccato la strada più comoda e diretta, ma di essersi avviate lungo l'unica via che promettesse un minimo di sopravvivenza. Le ragazze mi fanno sentire utile, viva e fortunata. Riportano la mia vita alle giuste proporzioni. È anche vero che, allo stesso tempo, ho dovuto combattere con la sensazione di essere inutile, inadeguata, viziata, cieca e vigliacca.",
+        "Quante volta negli ultimi anni ho sentito che stavo percorrendo l'unica via disponibile? Quella giusta, benché non fosse né quella che avevo sognato, né quella che desideravo. La risposta precisa non la conosco, ma ho ben presente la sensazione.",
+        "Non so se diamo davvero qualcosa alle ragazze che incontriamo sulla strada; anzi, sono quasi sicura che siamo noi a ricevere aiuto. Noi, che ci costringiamo a tenere gli occhi ben aperti, e continuiamo a guardare senza andare troppo oltre. Adesso vedo. Ho l'impressione di aver vissuto con le palpebre abbassate fino a oggi.",
+        "Gina e le altre mi hanno rimesso in piedi. Non avevo mai pensato di fare volontariato prima di cominciare in associazione, ma devo ammettere che concentrarmi sui bisogni delle ragazze mi ha costretta a ridimensionare i miei problemi. So chi sono adesso, chi ero prima. So dove voglio andare.",
+        "Le ho usate. Non credo di essere pronta ad ammetterlo ad alta voce; forse potrei spiegare questo ragionamento a Davide, sono certa che capirebbe. Non mi giudicherebbe. All'inizio non lo sapevo, non l’ho fatto di proposito. Me ne sono resa conto dopo: forse è un pensiero che è arrivato a maturazione piena negli ultimi giorni, sul confine tra Bulgaria e Grecia. Quando ormai le ragazze stagliate nella notte sono solo un ricordo.",
+        "Mi stiracchio e una pietra si pianta sotto la scapola destra. Cerco di ritrovare una posizione comoda senza aprire gli occhi e senza perdere il filo delle mie riflessioni. Ma sono tornata nel mondo reale, non che mi dispiaccia dopotutto, poteva andarmi molto peggio.",
+        "Qualche volta mi perdo nei pensieri e tutto quello che è fuori di me scompare. Ora torna quasi con violenza. La pelle scotta, le pietre piantate nella mia schiena sono diventate due. Cerco di concentrarmi sul rumore delle onde che scompaiono tra i sassolini della riva. Mi ricorda il palo de lluvia. Oltre alla risacca e ai richiami dei gabbiani non riesco a identificare altri suoni. Mi alzo a sedere e il libro che avevo appoggiato sulla pancia cade al mio fianco perdendo il segno. Davide non c’è. Mi sono addormentata? Lascio vagare lo sguardo sulla spiaggia e sulle rocce circostanti. Ci siamo solo noi qui. Mi sembra incredibile che posti del genere esistano ancora. Dopo aver passato il confine con la Grecia abbiamo seguito la strada diretta verso la penisola Calcidica e siamo scesi lungo il secondo dito, quello centrale. C’era traffico e sembrava davvero che i turisti fossero ovunque. Lungo la costa abbiamo attraversato tanti paesini traboccanti di gonfiabili, creme solari e gente in costume. Dopo qualche ora di delusione e di nervoso latente, una sterrata ha attirato la nostra attenzione. Caldo, pietre bianche, polvere, cicale e sterpi secchi, ma dall’odore pungente e selvatico. Siamo arrivati fino in fondo nonostante le buche e siamo stati premiati. Si è aperto di fronte a noi un mare immenso, blu e turchese che s’infilava dentro improbabili calette, scoscese e molto affascinanti. Non abbiamo nemmeno dovuto parlarne. Non ci siamo fermati alla prima spiaggia, abbia scelto l’ultima, la più difficile da raggiungere. Alla fine, scendere fino al mare non è stato nemmeno tanto complicato, così abbiamo scoperto in un posto da film dove, a parte pesci e gabbiani, non c’è nessun altro. Niente musica, gente, gonfiabili, creme. Solo noi.",
+        "Mi alzo in piedi per osservare la costa sopra di me: scorgo Davide in lontananza, cammina avanti e indietro. Dalla posizione delle braccia e della testa mi sembra che parli al cellulare. Gli faccio segno con la mano, ma non mi vede.",
+        "Copro il metro scarso che mi separa dal mare e mi tuffo senza alcuna esitazione, esaltata dalla sensazione quasi dolorosa di fresco sulla pelle incandescente. Sento i brividi e la pelle d’oca e ne gioisco. Mi immergo tenendo gli occhi aperti. Non mi disturba, forse perché sono miope e senza occhiali ci vedo più o meno come sott’acqua. Mi piace da impazzire il silenzio sottomarino. Non è completo, ma è profondo. Quando i polmoni non ne possono più riemergo e mi lascio galleggiare.",
+        "Il pensiero dell’associazione e di Bologna sboccia un po’ timido. Lo scaccio e mi immergo di nuovo. Poco dopo Jessy e le altre tornano a pretendere attenzione, così ripesco le immagini sfilacciate che ho allontanato e le lascio fluire.",
+        "Tra pochi giorni saremo di nuovo in città e la vita normale riprenderà il suo corso. Quale vita normale però? L’associazione non esiste più e durante l’ultimo anno ha occupato tanto del mio tempo e del mio cuore. Non so come riempire adesso questo vuoto che rimane dove prima erano le ragazze.",
+        "Simona, Daniela e Marzia, penso. L’ultima volta che ci siamo viste la loro idea era di aprire una nuova associazione, continuare il lavoro iniziato con Roberto e rimanere in strada. Si può lavorare con persone che ti disprezzano? L’idea di unirmi a loro non mi porta nessuna sensazione positiva, così la escludo senza preoccuparmi e mi congratulo con me stessa. Brava, Erika.",
+        "Durante quest’anno e poco più ho scoperto l’acqua calda, come direbbe mia nonna. La vita non è fatta per vivere come si deve, ma per stare bene, per seguire le proprie attitudini e aspirazioni. La vita è fatta per rischiare e per provarci. E il gioco vale la candela. È così per tutti? Non lo so. Però è quello di cui ho bisogno io. Sono viva. Per qualche tempo ho avuto bisogno di sicurezza e di stabilità esterne a me, perché avevo davvero perso la mia bussola interiore.",
+        "Nessuna delle ragazze che ho conosciuto si è data per vinta. Hanno deciso tutte di rischiare per poter vivere e perché le loro famiglie potessero avere una possibilità di andare oltre. Quello che fanno richiede coraggio. Sono rimaste fedeli al loro desiderio, basilare e unico: vivere, con tutte le sfaccettature che comporta. Non importa il prezzo da pagare.",
+        "Non sento più vergogna per la mia scelta di lavorare al supermercato, mi è servito per arrivare fino qui. In questa baietta, con Davide, il sole che mi scalda da sopra e il mare che mi rinfresca da sotto. Mi sento viva.",
+        "«Tutto bene?» chiedo a Davide mentre mi sdraio sul suo corpo abbronzato gocciolando acqua salata. «Dov’eri finito?»",
+        "Apre gli occhi e mi sposta le ciocche bagnate dal viso. Non sembra affatto disturbato della mia pelle fredda sulla sua.",
+        "«Mi ha chiamato Roberto, è stato prosciolto dalle accuse».",
+        "«Quindi è davvero innocente». Non capisco bene se il mio tono è sollevato o deluso, mi sorprende cogliere le stesse sfumature anche nella voce di Davide.",
+        "«È stato prosciolto per insufficienza di prove», precisa lui. «Tecnicamente non è stato trovato né innocente né colpevole perché nessuno è riuscito a provare né l’una né l’altra cosa».",
+        "«Ma scusa, la denuncia di Maddalena e Adriana non vale come prova schiacciante?»",
+        "«Ho fatto la stessa domanda». Davide si muove sotto di me, così mi sposto a sedere di fianco a lui. «Torno subito, ho troppo caldo»."
+    ],
+    "timestamp": "2019-10-18T09:12:35Z",
+    "title": "Le ragazze - Capitolo 19 - 1/2",
+    "topic_id": 44904,
+    "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12/"
+}

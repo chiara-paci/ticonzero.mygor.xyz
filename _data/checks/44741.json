@@ -1,0 +1,329 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Un giorno, però, accadde qualcosa d’inaspettato. Al Re, in partenza per una nuova guerra, difficile da vincere, chiese se poteva accompagnarlo.",
+                    "Un po' contorta. Ti suggerisco di riformularla: Lei chiese al Re eccetera",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Dopo una notte insonne e agitata, con il cuore in astio",
+                    "bella espressione, mai letta e molto indicativa!",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "si affacciò dal loggiato gettando l’occhio là dove la vista spaziava tra campi coltivati e orizzonti lontani.",
+                    "Vide dei contadini chini a raccogliere i frutti generati dall’orto e si chiese: “Forse non sarei capace di fare anche il loro mestiere?”",
+                    "Questa domanda la modificherei così (se ne ho capito bene il senso): \"Non sarei forse capace di fare anche il loro, di mestiere?\"",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Si convinse che il suo lavoro di Regina era inutile, non valeva niente.",
+                    "che non valesse niente.",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Vivere del suo lavoro fu un’esperienza magnifica, respirare gli odori dell’alba, osservare la schiusa di boccioli e ortaggi le valse una nuova visione di sé.",
+                    "aggiungerei \"come\" prima di \"respirare gli odori dell'alba\"",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Disporre del suo tempo a piacimento le fece scoprire mille altri aspetti di una vita fuori da quei − seppur regali − miseri confini. Fu per questo che",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "poco tempo dopo",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "passando sopra un ponte dalla campata lunghissima, rimanendo stupita dalla pregevole struttura, decise di imparare a costruirne anche lei, riuscendo a progettarne un numero incalcolabile; tutti bellissimi, da fare impallidire i migliori architetti.",
+                    "La frase di cui sopra è troppo lunga, a mio avviso dovresti dividerla almeno in due periodi.",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "La sua intelligenza, adesso più che mai, risplendeva come oro estratto da una miniera, e a lavorarci ancora un po’, ne fu certa,",
+                    "ne era certa",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "avrebbe cambiato e stupito il mondo intero.",
+                    "Da lì a poco",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "guardando le stelle, ritenne che fosse suo preciso dovere osservare il regno da lassù; indubbiamente",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "Il suo popolo",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "vedendo la sovrana guidare il razzo con la stessa sicurezza di quando teneva le redini al suo cavallo",
+                    "virgola",
+                    "La Regina, felice come non mai, lassù comprese quanto e cosa fosse stata capace di fare.",
+                    "Orgogliosa oltre ogni misura",
+                    "virgola",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "disse a se stessa che aveva fatto bene a gettarsi in quelle avventure,",
+                    "due punti",
+                    "Il 27/9/2019 alle 13:14, Adelaide J. Pellitteri ha scritto:",
+                    "La favola è finita.",
+                    "La favola era finita.",
+                    "(Trovo preferibile il punto di vista temporale della regina disillusa che il semplice dichiarare finita la favola da parte della voce narrante, ma è solo la mia modesta opinione, una mia preferenza).",
+                    "Ho letto con piacere e compreso il messaggio, la morale di questa favola-metafora ad uso e consumo anche nell'attuale nostra civiltà."
+                ]
+            ],
+            "timestamp": "2019-10-06T06:51:29Z",
+            "title": "La favola è finita",
+            "url": "https://www.writersdream.org/forum/forums/topic/44633-la-favola-%C3%A8-finita//?do=findComment&comment=790940",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7936,
+    "num_commenti": 1,
+    "num_posts": 26,
+    "post_after": [
+        {
+            "post_id": 791140,
+            "text": [
+                "Bentornato! Grazie per il passaggio e l'attenta lettura. Farò tesoro delle tue segnalazioni.",
+                "Palmira ha dato troppo zucchero ad Agata? Ricevuto"
+            ],
+            "timestamp": "2019-10-07T07:01:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791140"
+        },
+        {
+            "post_id": 791285,
+            "text": [
+                "La frase cui ti riferisci è questa:",
+                "Amava il piacere delle piccole cose, il cercare fitte di gioia in ritagli di bellezza e di sintonia con gli altri.",
+                "Il suo significato l'ho spiegato con questi versi:",
+                "Se rifletti la bellezza, le appartieni,",
+                "ne fai parte",
+                "come una pennellata a un quadro.",
+                "I ritagli di bellezza e di sintonia con gli altri sono analoghi alle pennellate di un quadro d'insieme.",
+                "a me piace usarla (e a suo tempo così mi hanno insegnato) quando la \"e\" non è una semplice congiunzione ma il periodo cambia di scenario (non so se mi spiego bene)",
+                "questo cambio di scena non l'ho capito, cosa vuol dire questa battuta?",
+                "La battuta sul significato dell'applauso segue quelle citate nella trovata dell'usufruire dei bagni di un hotel di lusso.",
+                "Facevano parte, nel mio intento, delle stesse risate e conversazioni, un po' sopra o sotto le righe.",
+                "Servivano, i due episodi, a far capire la leggerezza, il divertimento, ma anche le riflessioni fatte in compagnia. Il piacere di stare insieme.",
+                "Qui mi sono totalmente persa, non ho capito la scena.",
+                "Quello dell'applauso era uno tra i tanti refrain usati per confondere i portieri di mostre nel fingere di uscire invece che entrare.",
+                "Se tu ti mostri disinvolta e in conversazione con altri, attira di più l'attenzione di qualcuno che ti osserva quello che dici, piuttosto di quello che fai (provare per credere ).",
+                "questo inciso mi suona male e non ne ho colto il senso o l'utilità in questa scena.",
+                "volevo dire:",
+                "Agata, la disinvolta, la sicura di sé, sempre a posto e brillante, in quel momento era sconfortata, sull'orlo del tracollo. Mi sono espressa male.",
+                "cos'è?",
+                "Ti riferisci al ./.",
+                "Questo \"punto barra punto\" io lo uso per \"staccare\" una narrazione al passato remoto o all'impefetto da una al presente.",
+                "Prima di quel segno, se vai a vedere, c'erano altri tempi verbali.",
+                "Ho spostato l'azione al momento presente, nel momento in cui scrivo:",
+                "Adesso sarebbe passata a chiedere dello zucchero, per sondare l’orario di visita all’Enrica.",
+                "Ho apprezzato la parte iniziale mentre da metà in poi ho avuto la sensazione che fosse tutto poco curato e molto telegrafico e affrettato. E non capisco perchè visto che lo spazio per scrivere tutto con calma c'era.",
+                "Lo stile secondo me si può migliorare: all'inizio alcune frasi sono troppo ricercate e complesse, in contrasto con la seconda metà in cui sembra una telecronaca sportiva.",
+                "I personaggi hanno tutti un grande potenziale pronto ad esplodere se gliene lasci il tempo (ovvero i caratteri) necessario.",
+                "La storia anche è molto simpatica e dolce. Curerei di più lo stile per tirare fuori la bellezza del racconto.",
+                "Spero di non essere stata troppo cattiva.",
+                "Un abbraccio.",
+                "Volevo questo da te, . Il tuo punto di vista. Grazie"
+            ],
+            "timestamp": "2019-10-07T19:53:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791285"
+        },
+        {
+            "post_id": 791296,
+            "text": [
+                "Sono molto contenta del tuo apprezzamento.",
+                "Forse era preferibile, ma ho fatto la scelta di privilegiare la prima parte per mettere in risalto la loro amicizia, pensando che fosse più un dettaglio spiegare il motivo per cui Palmira è andata a ricontare il suo tesoro per l'acquisto dell'auto al figlio."
+            ],
+            "timestamp": "2019-10-07T20:25:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791296"
+        },
+        {
+            "post_id": 791389,
+            "text": [
+                "Ti ringrazio per il passaggio e per le tue giuste considerazioni,"
+            ],
+            "timestamp": "2019-10-08T09:16:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791389"
+        },
+        {
+            "post_id": 791437,
+            "text": [
+                "Grazie del tuo passaggio e delle tue parole, cara"
+            ],
+            "timestamp": "2019-10-08T12:43:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791437"
+        },
+        {
+            "post_id": 791443,
+            "text": [
+                "Grazie, cara . Mi fa piacere il tuo passaggio e il tuo positivo riscontro.",
+                "Palmira ha dato troppo zucchero del suo ad Agata? Lo so, me l'hanno già fatto notare."
+            ],
+            "timestamp": "2019-10-08T13:06:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791443"
+        },
+        {
+            "post_id": 791448,
+            "text": [
+                "Che piacere, cara",
+                "Tutte le osservazioni e i consigli che mi hai dato, che in parte ricalcano i consigli degli altri intervenuti, sono giusti e, con un po' più di attenzione, avrei evitato di ripetere parole simili e in più ravvicinate.",
+                "Ti sono grata per avere letto il mio racconto. Non so se ti ricordi della Signora Palmira di un altro MI, quella che abitava ancora col figlio Giorgio.",
+                "Lui era quello che aveva cambiato gli zerbini ai vicini del terzo piano, e così aveva fatto incontrare e conoscere meglio le quattro amiche.",
+                "ti aspetto al prossimo MI, cara Adelaide."
+            ],
+            "timestamp": "2019-10-08T13:16:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791448"
+        },
+        {
+            "post_id": 791506,
+            "text": [
+                "Capisco cosa intendi e ti ringrazio, cara"
+            ],
+            "timestamp": "2019-10-08T16:36:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791506"
+        },
+        {
+            "post_id": 791535,
+            "text": [
+                "È un onore per me averti come assiduo lettore, che piacere!",
+                "Mi piace come hai suddiviso la storia, quasi come delle piccole scene teatrali, piccoli quadretti dove accadono piccoli grandi drammi epocali, da strapaese, come negli indimenticabili romanzi di Guareschi su don Camillo e Peppone, un piccolo mondo antico perso per sempre, purtroppo.",
+                "Ho visto che qua e la hai inserito nel racconto alcune massime, penso siano tue, come poesie appese a quadretti, citazioni…",
+                "sì, Alberto, sono miei i versi e gli aforismi.",
+                "e il richiamo della poesia sembra accompagnare le scene e le protagoniste, quasi come se fossero dei buoni comandamenti laici, dei proverbi che si citavano un tempo a significare le nostre azioni, i nostri pensieri.",
+                "Una piacevole, serena e rassicurante lettura. Mi ha dato una sorta di sensazione di sicurezza. Bastano poche, semplici e sincere pennellate come le tue.",
+                "Ciao, a rileggerti con piacere.",
+                "Grazie mille, caro"
+            ],
+            "timestamp": "2019-10-08T18:27:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791535"
+        },
+        {
+            "post_id": 791867,
+            "text": [
+                "Mi associo"
+            ],
+            "timestamp": "2019-10-10T08:15:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791867"
+        },
+        {
+            "post_id": 792025,
+            "text": [
+                "Wow,",
+                "Mi lasci senza parole, felice e con una bella botta di autostima. Grazie!"
+            ],
+            "timestamp": "2019-10-10T19:24:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=792025"
+        },
+        {
+            "post_id": 792096,
+            "text": [
+                "grazie degli apprezzamenti, caro",
+                "Solo una cosa, ma questo lo sai perché te lo dico ogni tanto : tu sai costruire belle storie ed hai una fantasia non comune, ma mentre disegni quadretti dalla bellezza semplice e rinascimentale passi nel barocco per poi terminare con il minimalismo.",
+                "Sarà perché non mi faccio mancare niente?",
+                "Cioè, nelle tue descrizioni inizi con un bel ritmo scorrevole e leggibile, poi lo interrompi con qualche descrizione un po' ricca di particolari, ridondante che rallenta la lettura e poi termini con un finale velocissimo.",
+                "A parte i caratteri contati (che volendo avrei potuto ridistribuire tra prima e seconda parte), io temo sempre le insidie della retorica e del sentimentalismo, per cui ho pensato che la concisione al momento della confessione della rea scoperta e del perdono dell'amica fossero preferibili.",
+                "Tutto qui.",
+                "P.S.:",
+                "Com'è che alle tre di notte sei ancora sveglio? Non va bene, eh!"
+            ],
+            "timestamp": "2019-10-11T09:20:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=792096"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 791386,
+            "text": [
+                "Ciao che titolo curioso!",
+                "Molto dolce il tuo racconto, anche io vorrei vivere su un pianerottolo del genere. Agata e Plamira si vedono bene, le altre due rimangono nell'ombra. Avrei voluto più finale che mi lascia un po' a bocca asciutta e con l'impressione che ti fossi stancata e avessi voglia di chiudere. Credo che qui ci sia materiale per una storia più lunga. Grazie per la lettura , vado a proporre alle mie amiche un pianerottolo in comune"
+            ],
+            "timestamp": "2019-10-08T09:04:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani//?do=findComment&comment=791386"
+        }
+    ],
+    "text": [
+        "Traccia di mezzanotte",
+        "Per scaldare i gerani",
+        "Casa di Palmira",
+        "Palmira aveva messo l’acqua a scaldare sul fornello per i suoi vasi di gerani, che quella notte sembravano avere sofferto il freddo. Li aveva portati dentro anche per dargli il tocco di un’innaffiatura tiepida.",
+        "Amava il piacere delle piccole cose, il cercare fitte di gioia in ritagli di bellezza e di sintonia con gli altri.",
+        "Se rifletti la bellezza, le appartieni,",
+        "ne fai parte",
+        "come una pennellata a un quadro.",
+        "Questa era la scritta su un quadretto di ceramica appeso in salotto, e che aveva regalato, identico, alle sue amiche.",
+        "Coltivava con affettuoso riguardo le sue amicizie, e cercava di riempire la giornata di passi all’aria aperta e del profumo della natura, fosse anche solo in un parco cittadino, nel desiderio di non perdersi un giorno di sole, o una fitta di gioia, di condivisione. E amava il figlio, Giorgio, che viveva a pochi isolati da lei, e lavorava come impiegato.",
+        "Quella settimana, toccava a lei il carico in lavatrice dei capi di vestiario scuri del gruppo del pianerottolo: le amiche del terzo piano. Non avendone, ciascuna, abbastanza a settimana per fare un carico di lavatrice, una di loro, a turno, avviava la sua per tutte e quattro. Lo stiro restava individuale. Pulizie di primavera? Tutte per una, una per tutte. Insieme è molto più divertente. E si risparmia.",
+        "Si facevano tanta buona compagnia, due single e due vedove, e matte risate nelle loro sortite in gite o escursioni nei dintorni.",
+        "Agata, la leader del gruppo, aveva una soluzione per tutto. Una volta che si erano trovate in un momento di imbarazzo per una del gruppo che doveva andare subito in bagno e nessun bar nelle vicinanze, le aveva fatte entrare tutte con lei in un albergo quattro stelle nei paraggi: (“Disinvolte, mi raccomando, puntiamo in fondo a destra: è sempre lì.”) Lei chiacchierava nel tragitto: “… E ci sono andata anche a quella rosso Valentino. Un po’ di abbaglio ma no, non ho comprato perché non sono mora, e mi smorzava!”",
+        "E all’uscita: “Presto presto, devo averlo lasciato dall’orefice mentre provavo il bracciale…”",
+        "“Qual è il significato dell’applauso?” e giù risate complici, mentre una di loro concionava, compunta: “Essere appagati e appagare” (Enrica). Era uno tra i tanti refrain usati per confondere i portieri di mostre nel fingere di uscire invece che entrare.",
+        "Quel giorno, sapendo che l’amica confinante col suo alloggio, la Berta, era malata, e non volendo disturbarla, Palmira teneva la TV accesa su un film coi sottotitoli. Era una persona gentile e premurosa, si trattasse di amiche o di gerani. E aveva abbassato anche la suoneria del cellulare.",
+        "Quel pomeriggio aveva promesso all’Enrica di insegnarle a preparare l’anatra all’arancia.",
+        "Sentì il suono, attutito, del campanello alla porta. Non aspettava nessuno a quell’ora, quindi guardò dallo spioncino. Era Agata.",
+        "Casa di Agata",
+        "La cartella delle imposte le scottava tra le mani, anche adesso che era saldata. Da lì avevano avuto inizio i suoi guai, mesi prima. A causa di rate di imposte dimenticate dal marito (che a suo tempo si faceva carico dell’amministrazione familiare), per non dovere allo Stato ulteriori oneri per sovrattasse, aveva dovuto impegnare al Banco dei pegni i gioielli che aveva ereditato dalla madre.",
+        "Ecco la bolla di pegno. Aveva tempo tre giorni per il riscatto, al prezzo di tre mesi dello stipendio di cui aveva già sfruttato la “cessione del quinto”. Lei, disinvolta e con un bel guardaroba e un bel fisico all’attivo, pensava sconfortata all’unica via di uscita che le restava: chiedere alle amiche del terzo piano.",
+        "C’era un bellissimo rapporto tra loro, ma non era mai successo che si toccasse l’argomento prestiti. Nessuna della quattro era proprietaria dell’alloggio in cui viveva, e le entrate da stipendio o pensione bastavano ma non avanzavano mai, questo si era capito. Quando mangiavano fuori, o andavano in giro, ognuna pagava per sé.",
+        "Erano un gruppo ben assortito. A lei piaceva soprattutto la saggezza di Palmira, che compensava la sua irruente spensieratezza. Le era piaciuta l’osservazione che le aveva fatto il giorno prima, facendole posare lo sguardo sul vecchio platano spoglio che si stagliava, al di là della strada, a guardia della villa di un famoso notabile del luogo. Palmira le aveva fatto notare che la bella dimora era più chiara e visibile attraverso i rami nudi che con la bella stagione e le fronde cariche.",
+        "“Come le persone”, aveva continuato: “In gioventù è più evidente l’apparenza piena e esuberante, il suo rigoglio\". \"Ma è con l’inizio e il prosieguo della maturità che si scorge con chiarezza l’animo, la personalità formata dalle traversie come dalle gioie, dalle conquiste come dalle perdite, l’indole e lo spirito messi in chiaro nella maturità e nella vecchiaia.\"",
+        "La saggezza la dà la vita intera, come conosci il giorno solo a sera.",
+        "Era l’aforisma preferito di Palmira.",
+        "Dato il rapporto di fiducia, ogni amica del piano aveva una copia della chiave di casa delle altre tre, per ogni evenienza. Inoltre, nel corso degli anni, Agata aveva visto casualmente dove Palmira teneva i suoi risparmi. Non fidandosi delle banche, quella ritirava la discreta pensione di reversibilità del marito alla Posta e la metteva nella sua “cassaforte”: un doppio fondo nel trumeau in salotto. La parte più consistente restava in una busta azzurrina, mentre la quota spesa mensile era in una busta rossa. Lei era l’unica del gruppo che si poteva permettere dei risparmi, secondo Agata. Con la tredicesima appena incassata e un fondo cassa, c’era di che riscattare i suoi gioielli di famiglia.",
+        "Chiederglieli direttamente? Sarebbe stato un no, perché non avrebbe avuto modo di restituirglieli.",
+        "Perdere i gioielli della madre, in famiglia da generazioni, o perdere l’amicizia di Palmira?",
+        "Oppure, c’era un modo per tenersi tutti e due?",
+        "La sua strategia era semplice. Sapeva che l’amica sarebbe andata nel primo pomeriggio a casa di Enrica,",
+        "per insegnarle a preparare la famosa anatra al’arancia di cui parlavano da giorni.",
+        "Appena lei fosse uscita (avrebbe guardato dallo spioncino il tempo necessario), sarebbe entrata, avrebbe preso quanto le serviva dalla busta azzurrina e rimesso tutto a posto. Per ameno un mese, il furto non sarebbe stato scoperto. E intanto, avrebbe pensato al da farsi per sistemare le cose.",
+        "./:",
+        "Adesso sarebbe passata a chiedere dello zucchero, per sondare l’orario di visita all’Enrica.",
+        "Casa di Palmira",
+        "“Ciao Agata, entra cara.”",
+        "“Solo per chiederti un po’ di zucchero. Ho voglia di una torta e non mi basta.”",
+        "“Certo cara, mi hai preso per un pelo, alle tre vado dall’Enrica per l’anatra all’arancia. Eccoti”.",
+        "“Grazie, a buon rendere.”",
+        "Corridoio esterno",
+        "Agata ha il cuore in gola mentre gira con cautela la chiave dell’alloggio dell’amica. L’ha appena vista uscire ed entrare da Enrica. Entra e chiude dietro di sé. Fa quello che vuole fare, mette a posto ed esce.",
+        "Tre giorni dopo, davanti al Banco dei pegni",
+        "Agata ha appena recuperato i suoi gioielli, e s’imbatte in Palmira che sta per entrare. Si fermano entrambe:",
+        "una con le guance in fiamme e l’altra con gli occhi rossi.",
+        "Agata d’impulso valuta la necessità dell’amica (che non aveva previsto) e l’enormità del male fattole.",
+        "“Vieni prima a casa mia. Ti prego, ho da parlarti.”",
+        "Casa di Agata",
+        "“Con questo ti ho detto tutto, Palmira. Sono inqualificabile e ingrata.",
+        "Posso fare due cose perché tu possa perdonarmi e rimanermi amica.",
+        "Tu dici che quei soldi li mettevi da parte per aiutare il tuo Giorgio a comprarsi la nuova auto per Natale.",
+        "Un buon usato, dici. Senti la mia idea. Gli cedo la mia, seminuova, al prezzo che hai già pagato. Se no,",
+        "impegno di nuovo i miei gioielli e ti do la cifra ottenuta. Non voglio cose che mi ricorderanno per sempre",
+        "il peggior errore della mia vita.”",
+        "Piange Agata, disperata, perché sa che lei non si perdonerebbe. Ma Palmira lo fa, accogliendola nel suo abbraccio.",
+        "Sulla parete, leggono insieme la scritta:",
+        "Se rifletti la bellezza, le appartieni,",
+        "ne fai parte",
+        "come una pennellata a un quadro."
+    ],
+    "timestamp": "2019-10-06T20:36:31Z",
+    "title": "[MI 129]  Per scaldare i gerani",
+    "topic_id": 44741,
+    "url": "https://www.writersdream.org/forum/forums/topic/44741-mi-129-per-scaldare-i-gerani/"
+}

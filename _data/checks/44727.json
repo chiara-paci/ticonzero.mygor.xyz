@@ -1,0 +1,156 @@
+{
+    "author": {
+        "author_id": 33905,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Bedi",
+        "url": "https://www.writersdream.org/forum/profile/33905-bedi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5733333333333334,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5733333333333334
+            },
+            "text": [
+                [
+                    "salve, daccordissimo sugli inizi, è veramente difficile cominciare un racconto nel migliore dei modi e secondo me la tua scelta era più che azzeccata",
+                    "inizi descrivendo tutto l'ambiente e riesci a far capire dove ci troviamo e in che situazione siamo però secondo e l'hai fatta troppo lunga sopratutto nei racconti brevi 7/8 righe di descrizione sono troppe per iniziare",
+                    "non mi piace alitava",
+                    "come mai hai scelto di andare sempre a capo?",
+                    "qui rendi l'idea che ci tenga molto all'idea di parlarci.... mi piace",
+                    "prima fai capire che è molto interessata, ora scrivi il contrario come mai?",
+                    "comunque ottimo testo leggerò i prossimi"
+                ]
+            ],
+            "timestamp": "2019-10-05T20:30:52Z",
+            "title": "Un tuffo nel passato",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=790919",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5733333333333334
+            },
+            "text": [
+                [
+                    "salve, daccordissimo sugli inizi, è veramente difficile cominciare un racconto nel migliore dei modi e secondo me la tua scelta era più che azzeccata",
+                    "inizi descrivendo tutto l'ambiente e riesci a far capire dove ci troviamo e in che situazione siamo però secondo e l'hai fatta troppo lunga sopratutto nei racconti brevi 7/8 righe di descrizione sono troppe per iniziare",
+                    "non mi piace alitava",
+                    "come mai hai scelto di andare sempre a capo?",
+                    "qui rendi l'idea che ci tenga molto all'idea di parlarci.... mi piace",
+                    "prima fai capire che è molto interessata, ora scrivi il contrario come mai?",
+                    "comunque ottimo testo leggerò i prossimi"
+                ]
+            ],
+            "timestamp": "2019-10-05T20:30:52Z",
+            "title": "Un tuffo nel passato",
+            "url": "https://www.writersdream.org/forum/forums/topic/44640-un-tuffo-nel-passato//?do=findComment&comment=790919",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 4029,
+    "num_commenti": 2,
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 790923,
+            "text": [
+                "Il commento l'ho effettuato ma dove sarebbe l'editor di testo (scusa l'ignoranza)"
+            ],
+            "timestamp": "2019-10-05T21:17:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12//?do=findComment&comment=790923"
+        },
+        {
+            "post_id": 790926,
+            "text": [
+                "Ho capito grazie a tutti"
+            ],
+            "timestamp": "2019-10-05T21:34:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12//?do=findComment&comment=790926"
+        },
+        {
+            "post_id": 791796,
+            "text": [
+                "Hai ragione nel prologo non ho descritto praticamente niente ma ho cercato di far capire in che mondo fossimo e ho cercato di presentare un po tutto l'ambiente (non so se ci sono riuscito al meglio), con la punteggiatura ci devo lavorare 😂 continua a darmi consigli",
+                "Non ho ancora neanche presentato il protagonista e non ho fatto molte descrizioni ( tu mi consigli di farle? ) e la mia seconda scelta era presentare questa parte attraverso i dialoghi in futuro (tipo che il protagonista se lo faceva raccontare) ma alla fine ho deciso di scriverlo così perché non sapevo cosa mettere nel prologo, ho sbagliato?",
+                "Aspetto i tuoi consigli che mi aiutano visto che sono alle prime armi...",
+                "Grazie"
+            ],
+            "timestamp": "2019-10-09T18:55:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12//?do=findComment&comment=791796"
+        },
+        {
+            "post_id": 791811,
+            "text": [
+                "Ok grazie di tutto.",
+                "Lo riscriverò..."
+            ],
+            "timestamp": "2019-10-09T19:54:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12//?do=findComment&comment=791811"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 790925,
+            "text": [
+                "Così",
+                "oppure così:",
+                "leggi le F.A.Q. su in alto, nella barra arancione: ci sono le risposte a tutte le domande che ti possono venire in mente, o quasi..."
+            ],
+            "timestamp": "2019-10-05T21:30:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12//?do=findComment&comment=790925"
+        }
+    ],
+    "text": [
+        "Qui il .",
+        "Cinquant'anni fa in una pacifica regione nel sud del Gran Continente un esploratore di rovine scomparso ormai da anni raccontò di aver trovato una torre piena di ricchezze, da quel giorno iniziarono ad comparire molteplici dungeon in tutto il mondo che crearono molta confusione.",
+        "Tutte le guerre e i conflitti cessarono e i regni fecero fronte comune. I dungeon, delle torri divise in diversi piani su cui aleggia un grande mistero, molti credono che siano dei doni di dio altri che siano stati mandati per sterminare l'umanità.",
+        "I più gli alti comandi e migliori strateghi si riunirono in una assemblea nella capitale e dopo aver analizzato i dungeon dall'esterno decisero di inviare delle squadre di mercenari all'interno, su 1000 scelti ne poterono entrare solo 100, i restanti vennero bloccati da una barriera di energia invisibile.",
+        "I prescelti, che erano convinti di essere stati fortunati, vennero acclamati dalla folla ma l'euforia finì nell'istante in cui varcarono il portone del dungeon ed esso si chiuse dietro di loro, si trovarono davanti creature spaventose che non sarebbero dovute esistere.",
+        "Raccolte e riordinate le idee in pochi secondi alcuni si lanciarono all'attacco altri provarono a scappare altri ancora imploravano di non morire, i fortunati che erano tornati alla porta di ingresso, che si era sbarrata appena entrati, provarono a forzarla con tutte le loro forze.",
+        "In un istante le urla si erano spente, un silenzio agghiacciante e sotto la porta si aprì una botola dove sparirono tutti.",
+        "Dopo un mese dall'inizio della missione i mercenari furono dati per dispersi e quindi i vari capi decisero di distruggere tutti i dungeon.",
+        "Utilizzando qualsiasi mezzo e risorse fecero arrivare maghi da ogni dove e in pochi giorni di preparativi cominciarono l'operazione.",
+        "Iniziarono i primi attacchi, i maghi erano tutti molto spavaldi e increduli che le maggiori forze di ogni regno erano state riunite in un unico posto solo per delle semplici torri.",
+        "La tensione era alle stelle c’era il rischio che uno scontro si sarebbe scatenato da un momento all’altro, tutti risparmiavano mana e seguivano gli ordini con sufficienza.",
+        "I maghi erano divisi in squadre e gli sguardi pieni di disprezzo non mancavano, infatti ogni regno avevo intrinso nei propi soldati l’idea di essere superiori.",
+        "Tutte le squadre si considerevano nemiche giurate ma quello che non avevano realizzato era che il vero nemico era propio davanti a loro.",
+        "Era quella torre immensa, il dungeon.",
+        "Come successo con i mercenari le magie vennero respinte e assorbite da una barriera invisibile, le varie squadre iniziarono a prendere la situazione più seriamente e utilizzando la combinazione di diverse magie sferrarono il loro attacco.",
+        "La barriera bloccò l'attacco più potente senza mostrare un minimo di cedimento lasciando spiazzati tutti maghi.",
+        "Nell'istante successivo il dungeon iniziò a tremare e il portone si aprì misteriosamente, ormai nessuno sapeva più cosa aspettarsi, la cosa che uscì gli annebbiò la vista e tutti rimasero paralizzati, uscì un goblin verde alto tre metri e molto grasso con uno spadone nero.",
+        "Con un balzo attraversò la barriera come se non esistesse e si trovò davanti alla prima squadra di maghi che senza la possibilità di muoversi venne spazzata via, gli unici che riuscivano a muoversi erano quelli con il sangue freddo che usando tutta la magia che gli era rimasta uccisero quella creatura che si era lasciata alle spalle una scia di morti incalcolabile.",
+        "Dopo quella sconfitta e quelle perdite i regni decisero di riorganizzarsi, l'operazione venne dichiarata un fallimento e i dungeon dichiarati indistruttibili dall'esterno.",
+        "La notizia aveva fatto scalpore in tutto il continente e la paura si era diffusa ma dei guerrieri decisero comunque di mettere piede in quelle torri infernali affrontando la morte.",
+        "Tutti i tentativi fallirono infatti delle persone che entravano non ne si sapeva più niente, fino a che dopo un anno dalla grande scoperta dei dungeon un cavaliere riuscì nella grande impresa di completarne uno di 5 piani."
+    ],
+    "timestamp": "2019-10-05T20:49:33Z",
+    "title": "The lifeless guy - Prologo parte 1/2",
+    "topic_id": 44727,
+    "url": "https://www.writersdream.org/forum/forums/topic/44727-the-lifeless-guy-prologo-parte-12/"
+}

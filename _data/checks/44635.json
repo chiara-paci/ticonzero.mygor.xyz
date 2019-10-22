@@ -51,8 +51,18 @@
     },
     "num_chars": 7724,
     "num_commenti": 1,
-    "num_posts": 6,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 790270,
+            "text": [
+                "grazie mille per il vostro gentile passaggio e le annotazioni.",
+                "È vero, nel testo ci sono molte ripetizioni, per fortuna è una cosa facilmente ovviabile. Sul fatto che in alcuni punti abbia risparmiato sulle virgole è vero anche quello ma lì è stata una scelta ponderata. Grazie ancora."
+            ],
+            "timestamp": "2019-10-02T10:16:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44635-pino//?do=findComment&comment=790270"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Era un gentile pomeriggio d'ottobre.",
