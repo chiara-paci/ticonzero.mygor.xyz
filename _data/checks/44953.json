@@ -1,0 +1,50 @@
+{
+    "author": {
+        "author_id": 33359,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Francesco121",
+        "url": "https://www.writersdream.org/forum/profile/33359-francesco121/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3037,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 794849,
+            "text": [
+                "vorrei subito auto commentarmi chiedendo l'aiuto da casa. Ho scritto liberi 10 volte e libero 11 più o meno qualcuno mi aiuta a cercare una soluzione?",
+                "ciao"
+            ],
+            "timestamp": "2019-10-22T22:00:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44953-il-rondone//?do=findComment&comment=794849"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "È una strana storia. Anzi no. Meglio dire sono strani istanti di una storia. La mia. Strani istanti di una storia che ha tutto il sapore di libertà. Tutto si può dire di me tranne che io non sia libero. O si certo, libero. Eppure… per quanto mi fossi convinto che quello spazio fosse tutto mio. Quello spazio che ai miei occhi non aveva confini. Per quanto, appunto, pensavo che fosse tutto mio e di quelli liberi come me, beh mi sbagliavo. E in quei momenti capii che, qualsiasi cosa avrei fatto in vita dovevo prestare attenzione. Allora forse tanto libero non ero. Beh comunque molto più di molti altri. Impossibile dimenticare quel giorno. La prima volta non si scorda mai. Vale anche per noi. C’erano tutte le condizioni ideali. Tutto combaciava alla perfezione. Il sole era ancora alto e un vento leggero soffiava da nord est. Era il vento giusto. Non so perché lo sapevo ma era così. Lo sapevo e basta. Forse qualcuno me lo aveva detto in qualche modo. E così, lo presi. Presi quel vento. Quel vento leggero. Quello da est. Ed è vero che è proprio quello giusto visto che, pochi metri dopo, me ne stavo perfettamente sospeso in aria come lo avessi già fatto mille volte. Funzionava. Funzionava davvero. Un mistero. Un mistero come quella forza invisibile mi spingesse in alto nonostante i miei movimenti fossero minimi. Quasi nulli. L’aria. Il vento. Galleggiare nel niente. Un mistero. Salivo. Salivo in alto. Forse troppo. Qualcosa mi diceva che stavo sbagliando, ma continuai. Sopra di me, solo il sole. Un immenso spazio senza soluzione di continuità mi divideva dalla grande stella che tutto muove. Poi ad un certo punto , l’istinto? la fortuna ? Non lo so... decisi di fermarmi. Mi opposi al vento dell’est. Spostai le mie ali in avanti, senza chiuderle del tutto. E’ fu un bene. Riuscii a stare fermo. Sospeso. E sentii un sibilo. Un fischio. Il grido di un aquila impazzita. Ma non c’era nessuna aquila. Mi girai di colpo e lo vidi. Vidi quella cosa strana. Piccola. Sottile. Brillante. Una minuscola freccia dorata che rifletteva la luce in ogni direzione. Inizialmente fui felice. Alla mia prima uscita, già un incontro emozionante. Ma poi vidi la piccola freccia dorata scontrarsi contro una delle finestre giù in basso. Vedere i mille pezzi in cui ridusse quel vetro, mi fece capire che la piccola freccia dal grido aquilino doveva essere dura come una pietra . Se non mi fossi fermato. Beh... se non mi fossi fermato, avrebbe potuto uccidermi e così riflettei sul fatto che forse non sono così libero come vogliono farmi credere di essere e che tutto quello spazio che ho a disposizione è pieno di insidie e che basta una scelta, giusta o sbagliata, e la vita può cambiare. Per sempre. Solo molto tempo dopo imparai che quegli esseri volanti non sono creature di Dio. Oh... di sicuro non lo sono. Potete giurarci. Non fanno parte della mia specie. Anzi non fanno parte di nessuna specie. Quelle frecce dorate si chiamano proiettili e uccidono gli uomini e quelli che come me hanno sempre pensato di vivere in libertà."
+    ],
+    "timestamp": "2019-10-22T21:58:44Z",
+    "title": "Il rondone",
+    "topic_id": 44953,
+    "url": "https://www.writersdream.org/forum/forums/topic/44953-il-rondone/"
+}

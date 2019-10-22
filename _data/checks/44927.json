@@ -49,7 +49,7 @@
     },
     "num_chars": 7573,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 794491,
@@ -101,6 +101,12 @@
             ],
             "timestamp": "2019-10-22T09:39:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794656"
+        },
+        {
+            "post_id": 794862,
+            "text": [],
+            "timestamp": "2019-10-22T22:32:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794862"
         }
     ],
     "post_staff": [],
