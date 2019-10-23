@@ -55,7 +55,7 @@
     },
     "num_chars": 270,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 793604,
@@ -96,6 +96,15 @@
             ],
             "timestamp": "2019-10-21T15:38:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44876-prove-di-magia//?do=findComment&comment=794496"
+        },
+        {
+            "post_id": 795073,
+            "text": [
+                "Ciao carissime, ho poi seguito il vostro consiglio e sono andata a modificare quell'ultima parte, così:",
+                "mi pare meglio: anche a voi? Grazie mille, intanto, per il suggerimento utilissimo"
+            ],
+            "timestamp": "2019-10-23T22:13:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44876-prove-di-magia//?do=findComment&comment=795073"
         }
     ],
     "post_staff": [],
