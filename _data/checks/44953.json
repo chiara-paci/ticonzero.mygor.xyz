@@ -12,13 +12,36 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "ciao finalmente ho trovato il tempo di leggere .",
+                    "Non sono certo io a doverti ricordare che hai un ottima tecnica ed una prosa invidiabile. Brava! Non c'è nemmeno gusto a controllare se ci sono dei refusi e questo mi conforta perché non è il mio campo per quello c'è . Però stasera la lettura non mi è piaciuta. Come al solito tocca precisare che il commento, o comunque la critica sono figli di un gusto personale e detto questo vengo al punto. Sei stata macchinosa. la lettura in alcuni punti si incastra. le descrizioni mi sembrano più che altro delle precisazioni fini a se stesse che non cambiano l'immagine nella testa del Francesco lettore ( cioè io adesso )",
+                    "Maddalena è seduta sul muretto vicino al cespuglio sempreverde fuori dal distributore e dalla luce accecante dei neon ..",
+                    "nell'ordine ... muretto... cespuglio ( pure sempreverde -non si sa mai ci sia sfuggito- )... distributore... luce del neon: per dirci cosa ? che si alza sorride e saluta? Non so...",
+                    "Tolgo la cuffia rossa di lana e sento i ricci che si allargano e riprendono la loro forma naturale solleticandomi le orecchie... M..Qui ho inchiodato lasciando la striscia sull'asfalto della mia lettura.",
+                    "Ragazzi!» esclama appoggiandosi allo sportello dell'auto. «Sono felice che siete venuti, ho finito i preservativi .. esclama non ti serve secondo me. C'è la frase di un dialogo è chiaro che sta parlando. Se volevi dirci qualcosa sul suo timbro di voce non è questo il modo migliore. ne ho visti alcune di queste frenate 'Roberto rispose... Davide disse'.. cose così. a me non piace tanto.",
+                    "Poi.... Sta succedendo qualcosa.. Si capiva che stava per succedere qualcosa.. C'era un aria elettrica... Non è una situazione normale... Io non so ancora cosa succederà nel prossimo capitolo, ma ho la sensazione che succederà qualcosa... Magari poi non è così ma se lo fosse mi hai un po' anticipato la lettura. Non serve. Serve, e credimi ci sei riuscita benissimo, far percepire il nervosismo dei personaggi e elle ragazze per strada.",
+                    "Ciao Alla prossima."
+                ]
+            ],
+            "timestamp": "2019-10-22T21:45:32Z",
+            "title": "Le ragazze - Capitolo 3 - 1/4",
+            "url": "https://www.writersdream.org/forum/forums/topic/43961-le-ragazze-capitolo-3-14//?do=findComment&comment=794845",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,7 +49,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 3037,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [
         {
