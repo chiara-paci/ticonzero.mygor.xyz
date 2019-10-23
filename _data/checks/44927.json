@@ -49,7 +49,7 @@
     },
     "num_chars": 7573,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 794491,
@@ -117,9 +117,41 @@
             ],
             "timestamp": "2019-10-22T22:42:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794865"
+        },
+        {
+            "post_id": 795043,
+            "text": [
+                "grazie delle osservazioni"
+            ],
+            "timestamp": "2019-10-23T19:09:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=795043"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 794997,
+            "text": [
+                "La scrittura, come altri hanno notato, è di buon livello. Ci sono sbavature e imprecisioni, ma non mi sento di attribuirle ai mezzi espressivi di cui disponi, , e sarà sufficiente una revisione per dare una ripulita.",
+                "Vorrei concentrarmi con te sul racconto nella struttura e nei contenuti, in questa sede. In quattro cartelle editoriali e spicci è necessario dosare al milligrammo cosa includere nel perimetro narrativo; in aggiunta, sulle distanze brevi è più difficile individuare il perimetro narrativo, tanto che questo — per come la vedo io — va a intersecarsi con il concetto di \"inquadratura\", ossia cosa mettere in scena.",
+                "In questa stesura trovo che hai voluto parlare di questi elementi:",
+                "Protagonista e suo background lavorativo",
+                "Protagonista e suo rapporto con Jane, dall'inizio alla conclusione (con la rottura come unica scena tra personaggi drammatizzata)",
+                "Protagonista e la sua ossessione per le ombre",
+                "Hai un incipit dal finale, per poi ripercorrere il passato fino a tornare alla scena di partenza. L'effetto ottenuto, però, è quello di una sinossi racchiusa in una sorta di cornice narrativa, perché hai scelto di parlare di molto mettendo in scena poco. L'effetto paradossale è che chi legge troverà che manca qualcosa , come puoi vedere dai feedback ricevuti.",
+                "Ti ribalto l'ottica, invece: c'è troppo.",
+                "Il racconto sarebbe stato efficace se avesse scelto un elemento, o al massimo due, su cui concentrarsi nella drammatizzazione, lasciando gli altri sullo sfondo o come premessa. Un'idea, per esempio, potrebbe essere quella di mettere in scena Fritz e Jane nel loro rapporto personale, magari nell'ultimo incontro prima di lasciarsi — una scena viva e realistica, eh, non quel cliché che sei stato costretto ad adottare per non dilungarti; una scena ben congegnata in cui dare al lettore ciò di cui necessita: contesto, caratterizzazione dei personaggi, problema di fondo delle ombre che perseguitano Fritz. Magari lasciando quest'ultima cosa sul piano dell'inquietudine, senza entrare troppo nel merito, cosa che hai già scelto di fare.",
+                "L'essere voluto partire dal parlarci del passato del protagonista, ridurre il rapporto con Jane a un riassunto, menzionare solo di contorno l'ossessione principale di Fritz, alla fine ha impedito alla scrittura valida di confezionare una storia robusta, che riesce a coinvolgere il lettore.",
+                "Vedi tu se questi suggerimenti possono tornarti utili. Seleziona ciò che deve andare in scena e drammatizzalo. Il lettore, anche per via dei mezzi espressivi in tuo possesso, non mancherà di apprezzarlo."
+            ],
+            "timestamp": "2019-10-23T16:16:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794997"
+        }
+    ],
     "text": [
         "Io e le tenebre. E tutto il resto se n'era andato (Jim Thompson)",
         "Appoggiato allo stipite della porta a vetri, Fritz Reuter lanciò il mozzicone ancora acceso nella strada. La sigaretta tracciò una breve parabola luminosa prima di essere inghiottita dall'oscurità. Fritz non la vide toccare terra e si sarebbe stupito del contrario. Sapeva che quel buio là fuori avrebbe fatto sparire tutto ciò che sarebbe uscito dall'ufficio del Daily Examiner.",

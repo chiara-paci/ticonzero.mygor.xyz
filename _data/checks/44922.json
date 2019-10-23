@@ -60,7 +60,7 @@
     },
     "num_chars": 4263,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 794259,
@@ -72,6 +72,14 @@
             ],
             "timestamp": "2019-10-20T18:28:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=794259"
+        },
+        {
+            "post_id": 795057,
+            "text": [
+                "Ciao grazie per la lettura e le belle parole"
+            ],
+            "timestamp": "2019-10-23T20:31:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=795057"
         }
     ],
     "post_staff": [],
