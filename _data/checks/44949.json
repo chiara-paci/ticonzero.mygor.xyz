@@ -105,8 +105,28 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 794946,
+            "text": [
+                "grazie",
+                "Interessanti i due punti di vista dei personaggi che, nelle loro rispettive esperienze, cercano di sopravvivere tra le bassezze umane e le trasformazioni del corpo.",
+                "Non capisco, , perché due punti di vista? Trattasi di un unico punto di vista, del protagonista (non diciamo chi è, per la suspense ) che è anche la voce narrante.",
+                "Mi spieghi? Grazie"
+            ],
+            "timestamp": "2019-10-23T12:43:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=794946"
+        },
+        {
+            "post_id": 794952,
+            "text": [
+                "Succede, , non preoccuparti. Anzi, sai che ti dico? Che lo vedo come un complimento il fatto che non hai \"visto\" bene la cosa. Doppio grazie!"
+            ],
+            "timestamp": "2019-10-23T12:56:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=794952"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia nr. 5: Una voce nel buio.",
