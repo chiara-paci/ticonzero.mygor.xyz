@@ -12,11 +12,11 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.06444444444444444,
+        "timestamp": true,
+        "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -32,9 +32,26 @@
             "title": "Viaggio onirico di una bolla di sapone",
             "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=794619",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi sembrava di essere lì ad osservare questa scena tristissima. Molto bello il racconto, quasi un peccato che dovesse finire.",
+                    "Ci sono un paio di ripetizioni, un refuso (il \"mi\" che ti hanno segnalato ormai tutti) e forse giusto momenti in cui avrei usato diversamente la punteggiatura, per il resto è una storia molto triste che al contempo ti fa venire voglia di leggere ancora. Commovente il momento in cui la figliar ringrazia la madre con l'unico strumento che ha per comunicare, lo sguardo. Entrambi i personaggi sono descritti in maniera profonda seppure senza essere approfonditi direttamente. Il momento finale in cui la madre raggiunge la porta mi ha colpito particolarmente, non ci sono già flussi di coscienza, solo descrizioni oggettive del luogo, come se il gesto che aveva appena commesso l'avesse privata del suo essere una persona. Il ritmo è abbastanza serrato, come se tutto avvenisse in pochi secondi, forse l'obbligo dei caratteri ha fatto in modo che sembrasse così. Un racconto storico che vira sui sentimenti di un Nessuno dal punto di vista degli eventi.",
+                    "Il testo è molto chiaro e scorre, come ho detto, veloce. L'empatia nei confronti della donna protagonista è ciò che più fa male al lettore quando arriva al finale, magari avrebbe potuto offrire un futuro migliore alla figlia con l'arrivo dei Lanzichenecchi. Sebbene non sia un tema orginale l'ho comunque apprezzato molto. Davvero bello, complimenti!"
+                ]
+            ],
+            "timestamp": "2019-10-22T23:54:15Z",
+            "title": "[MI129] Nuova Sion",
+            "url": "https://www.writersdream.org/forum/forums/topic/44742-mi129-nuova-sion//?do=findComment&comment=794869",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -42,8 +59,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 6910,
-    "num_commenti": 1,
-    "num_posts": 4,
+    "num_commenti": 2,
+    "num_posts": 5,
     "post_after": [],
     "post_staff": [
         {
@@ -60,6 +77,19 @@
             ],
             "timestamp": "2019-10-22T07:37:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=794635"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 794909,
+            "text": [
+                "Situazione regolarizzata."
+            ],
+            "timestamp": "2019-10-23T10:08:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=794909"
         }
     ],
     "text": [

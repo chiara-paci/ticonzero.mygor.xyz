@@ -49,7 +49,7 @@
     },
     "num_chars": 7573,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 794491,
@@ -107,6 +107,16 @@
             "text": [],
             "timestamp": "2019-10-22T22:32:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794862"
+        },
+        {
+            "post_id": 794865,
+            "text": [
+                "il racconto si svolge grosso modo negli anni Trenta del '900 negli Stati Uniti, da qui l'uso dei nomi inglesi. penso che una collocazione italiana avrebbe avuto meno mordente",
+                "un nasino alla francese è un naso piccolo e leggermente all'insù",
+                "grazie per il gradimento"
+            ],
+            "timestamp": "2019-10-22T22:42:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794865"
         }
     ],
     "post_staff": [],
