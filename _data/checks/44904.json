@@ -60,7 +60,7 @@
     },
     "num_chars": 7661,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 793957,
@@ -82,6 +82,19 @@
             ],
             "timestamp": "2019-10-19T14:05:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794064"
+        },
+        {
+            "post_id": 794942,
+            "text": [
+                "Ciao cara Flo",
+                "lo sapevo ti saresti arrabbiata, scusa",
+                "Erika è ancora nell'acqua: mare sotto, sole sopra. Il concetto del sentirsi viva l'ho ripetuto tanto a posta, volevo proprio batterlo e ribatterlo",
+                "anche io ho avuto questa sensazione di già visto, in effetti non è certo un concetto nuovo... ci penso Flo, grazie!",
+                "perché il portafoglio è stato rubato mentre dormivano in casa di Vera e l'hanno scoperto quando si sono fermati dal benzinaio. Magari metto una frase in più all'inizio di questo capitolo.",
+                "Grazie della lettura Flo, buona giornata"
+            ],
+            "timestamp": "2019-10-23T12:31:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794942"
         }
     ],
     "post_staff": [
@@ -115,6 +128,24 @@
             ],
             "timestamp": "2019-10-19T14:05:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794064"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 794942,
+            "text": [
+                "Ciao cara Flo",
+                "lo sapevo ti saresti arrabbiata, scusa",
+                "Erika è ancora nell'acqua: mare sotto, sole sopra. Il concetto del sentirsi viva l'ho ripetuto tanto a posta, volevo proprio batterlo e ribatterlo",
+                "anche io ho avuto questa sensazione di già visto, in effetti non è certo un concetto nuovo... ci penso Flo, grazie!",
+                "perché il portafoglio è stato rubato mentre dormivano in casa di Vera e l'hanno scoperto quando si sono fermati dal benzinaio. Magari metto una frase in più all'inizio di questo capitolo.",
+                "Grazie della lettura Flo, buona giornata"
+            ],
+            "timestamp": "2019-10-23T12:31:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44904-le-ragazze-capitolo-19-12//?do=findComment&comment=794942"
         }
     ],
     "text": [
