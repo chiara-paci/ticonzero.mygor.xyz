@@ -60,8 +60,20 @@
     },
     "num_chars": 15673,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795010,
+            "text": [
+                "Ciao",
+                "Ti ringrazio davvero tanto per aver letto questo racconto e per averlo apprezzato.",
+                "Hai ragione circa le notazioni sui puntini di sospensione, tendo a metterne molti talvolta, mi piace fare il drammatico, sospendere a metà, trattenere il fiato, singhiozzare... qualcosa che si presta di più forse a teatro, con tutto che non mi intendo di teatro; certo ogni cosa vuole la sua misura. Condivido anche su qualche sfoltimento e sull'uso di alcuni tempi verbali. Meno si dice e più si dice. Ho la tendenza a dilungarmi.",
+                "Grazie ancora, ciao e a risentirci."
+            ],
+            "timestamp": "2019-10-23T16:42:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44939-non-avere-paura//?do=findComment&comment=795010"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mi chiamo Fabrizio. Ricordo che ero in seconda al liceo Artistico in quell’autunno di tanti anni fa. Mi piaceva disegnare, ma confrontandomi con gli altri mi ero reso conto di avere molte lacune, e non solo scolastiche. Una timidezza al limite della follia a pensarci oggi: avevo paura anche della mia ombra, non riuscivo a legare con nessuno, non un amico e di ragazze nemmeno a parlarne. Finché ero alle medie me l’ero cavata, ma ora non ce la facevo.",
