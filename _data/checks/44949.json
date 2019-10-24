@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 794946,
@@ -125,6 +125,15 @@
             ],
             "timestamp": "2019-10-23T12:56:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=794952"
+        },
+        {
+            "post_id": 795090,
+            "text": [
+                "Qualcosa di imprevedibile ce l'ho messo, anche se capisco che non cambi l'atmosfera nel modo che tu esponi...",
+                "Grazie dell'istruttivo passaggio, caro"
+            ],
+            "timestamp": "2019-10-24T06:59:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795090"
         }
     ],
     "post_staff": [],
