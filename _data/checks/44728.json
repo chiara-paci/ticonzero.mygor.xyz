@@ -84,7 +84,7 @@
     },
     "num_chars": 873,
     "num_commenti": 2,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 790929,
@@ -131,6 +131,14 @@
             ],
             "timestamp": "2019-10-16T20:17:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=793413"
+        },
+        {
+            "post_id": 795248,
+            "text": [
+                "La morte di una bella ragazza è l'argomento più poetico. La bellezza che muore dovrebbe essere il tema principale di tutti i poeti, solo i pessimi poeti sono ciechi davanti al pesante fardello della morte."
+            ],
+            "timestamp": "2019-10-24T19:33:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44728-a-elena//?do=findComment&comment=795248"
         }
     ],
     "post_staff": [],

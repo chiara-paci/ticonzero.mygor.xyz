@@ -56,8 +56,19 @@
     },
     "num_chars": 8009,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 795261,
+            "text": [
+                "Grazie per essere passate e per i vostri complimenti.",
+                "Mi fa piacere tu l'abbia interpretato in modo corretto.",
+                "Vi ringrazio ancora, e alla prossima!"
+            ],
+            "timestamp": "2019-10-24T20:33:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795261"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia n.3: Veleno",
