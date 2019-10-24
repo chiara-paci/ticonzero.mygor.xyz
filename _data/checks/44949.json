@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 794946,
@@ -134,6 +134,16 @@
             ],
             "timestamp": "2019-10-24T06:59:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795090"
+        },
+        {
+            "post_id": 795141,
+            "text": [
+                "Ti ringrazio, cara",
+                "per il tuo passaggio, la segnalazioni dei refusi e di quell'incongruenza.",
+                "Ho piacere che ti sia piaciuto e che tu abbia trovato lo scenario del mio racconto \"apocalittico e plausibile, ottimo per l'immedesimazione\"."
+            ],
+            "timestamp": "2019-10-24T12:03:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795141"
         }
     ],
     "post_staff": [],
