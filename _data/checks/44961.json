@@ -56,8 +56,18 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795150,
+            "text": [
+                "Grazie di aver letto il racconto e di avermi espresso il tuo parere. A dirti la verità nel genere horror mi sono letteralmente lanciata senza salvagente. Non ho né modelli di riferimento né una conoscenza specifica del genere. Di solito leggo e scrivo altro, e non pensavo mai anche solo di potermi cimentare in un genere così distante da me. Eppure stavolta ho voluto provarci, per sfidare me stessa, più che gli altri, approfittando del Contest e senza rimuginarci troppo su. Anche per questo ho postato presto, per non dovermi pentire e ritornare sui miei passi. E così mi sono buttata. Lo so che probabilmente sono tante le cose che non vanno, e mi fa piacere che tu me ne abbia fatto notare alcune, ne terrò conto... se un giorno dovessi decidere di dedicarmi all’horror 😊 (o anche solo ripetere l’esperienza qui sul WD).",
+                "A risentirci."
+            ],
+            "timestamp": "2019-10-24T13:18:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=795150"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia n. 7: Incubi",
