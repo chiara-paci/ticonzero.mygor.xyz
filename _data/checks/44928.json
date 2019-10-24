@@ -56,9 +56,38 @@
     },
     "num_chars": 7629,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 795085,
+            "text": [
+                "in questo caso direi che hai ragione invece",
+                "bolognesità?",
+                "in realtà si è trasformato nel penultimo",
+                "Grazie caro"
+            ],
+            "timestamp": "2019-10-24T06:48:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44928-le-ragazze-capitolo-20-13//?do=findComment&comment=795085"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795085,
+            "text": [
+                "in questo caso direi che hai ragione invece",
+                "bolognesità?",
+                "in realtà si è trasformato nel penultimo",
+                "Grazie caro"
+            ],
+            "timestamp": "2019-10-24T06:48:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44928-le-ragazze-capitolo-20-13//?do=findComment&comment=795085"
+        }
+    ],
     "text": [
         "«Secondo me, il punto, è che c’è bisogno di più leggerezza sotto tutti gli aspetti, voglio divertirmi». Io e Davide stiamo tornando dal cinema, abbiamo visto un film che definirei impegnato, sia dal punto di vista sociale che politico. Ben fatto e molto oggettivo devo ammettere, ma sto davvero considerando di darmi alle commedie. «Voglio ridere, non piangere».",
         "Davide mi mette un braccio sulle spalle e il suo viso si avvicina al mio. Così distratta non mi accorgo dell’altra mano che scatta e comincia a farmi il solletico.",
