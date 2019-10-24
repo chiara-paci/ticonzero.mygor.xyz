@@ -1,0 +1,117 @@
+{
+    "author": {
+        "author_id": 26593,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "RedInferno",
+        "url": "https://www.writersdream.org/forum/profile/26593-redinferno/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Più che \"gettare\", userei \"lanciare un'occhiata\".",
+                    "Al posto della virgola, forse è preferibile un punto dopo i caporali.",
+                    "\"Le chiedo\". Si tratta di una domanda .",
+                    "In questo caso, aggiungerei una virgola dopo i caporali.",
+                    "Bella frase, ma dopo \"coscia\" avrei messo un punto e virgola. Il cambio dei soggetti e la pausa che sembra intercorrere tra le due proposizioni, secondo me, giustifica la preferenza di un diverso segno di interpunzione.",
+                    "Anche qui si tratta di una domanda. Noto che a volte separi il discorso diretto dalla narrazione ricorrendo a una virgola, ma altre volte no . Secondo me, è giusto ricorrere a uno stesso stile, senza contare che l'utilizzo della virgola meglio specificherebbe il cambio di intonazione nella frase.",
+                    "Qui separerei il discorso diretto dalla narrazione con un punto.",
+                    "E' preferibile specificare l'azione espressa nel discorso diretto. Non si tratta di un semplice \"dire\", ma è una vera e propria domanda. Inoltre, noto che abusi un po' di questo verbo dopo i discorsi diretti, rendendo un po' ridondante la lettura.",
+                    "Qui avrei scritto \"ordino\".",
+                    "Anche qui, come prima, è preferibile l'utilizzo del punto e virgola.",
+                    "Aggiungerei un punto dopo \"rumore\".",
+                    "\"Annuisce e si fionda sui cassetti in cucina\".",
+                    "Qui rimuoverei \"sta\" e ricorrerei a un inciso:",
+                    "\"Anna ci osserva con occhi terrorizzati, supina sul letto, mentre con le mani straccia con forza il lenzuolo\".",
+                    "\"e lungo i polsi\".",
+                    "Bene, a parte queste piccole precisazioni, il testo scorre molto chiaramente. Il suo intento è naturalmente macabro e di evince chiaramente nella lettura e nella visione del protagonista che è avvelenato da questa sua passione morbosa verso la necrofilia.",
+                    "Interessante la descrizione del tatuaggio a forma di Y, che è chiaramente un riferimento al taglio chirurgico operato lungo lo sterno dei cadaveri.",
+                    "Convincenti i personaggi principali, soprattutto se raffrontati alla bambina che, impotente, è costretta a prendere parte a questo gioco perverso.",
+                    "Ti devo dire che la lettura mi ha ampiamente disgustato e, in questo caso, è un vero e proprio complimento.",
+                    "Molto bravo"
+                ]
+            ],
+            "timestamp": "2019-10-24T19:02:54Z",
+            "title": "[H2019] Interitus",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795242",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7952,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia n.4: Turno di notte all’obitorio",
+        "Appuntamento con la morte",
+        "Quella notte, non avevo voglia di recarmi al lavoro. Avevo dormito a malapena e pioveva a dirotto, inoltre avevo addosso una sensazione che non riuscivo a spiegare: era una sorta di angoscia che non mi permetteva di pensare lucidamente e di prendere parte alla mia quotidianità, per quanto monotona e abitudinaria fosse. Il pronto soccorso pullulava di gente circospetta e infastidita dall’attesa. La dottoressa Schirinzi mi fece chiamare per dirmi che uno dei ricoverati era morto da un paio d’ore: nessuno dei suoi familiari o conoscenti si era degnato di far visita al defunto prima che venisse trasferito in obitorio e a me toccò l’ingrato compito di affiancare una novellina, Amanda, nella lavatura e vestizione della salma.",
+        "Entrai nella camera mortuaria. Il neon sfarfallava ormai esausto e l’aria era satura, così aprii una finestra e attesi che la ragazza arrivasse. Non mi sentivo particolarmente a mio agio; al centro della sala, sulla barella, il cadavere di un anziano in pieno livor mortis.",
+        "Per qualche motivo, avevo sempre nutrito un certo timore verso i cadaveri e la morte stessa, l’incognita per eccellenza della natura umana. Non riuscivo a capacitarmi di come una persona potesse passare da uno stato di animazione a uno di immobilità, di staticità, e di come la morte rapisse il soffio vitale, trasformando gli individui in grottesche statue di fredda carne e spegnendo per sempre le memorie di una vita intera.",
+        "«Sono in ritardo?», parlò una voce esuberante alle mie spalle mentre quel neon sfarfallava nuovamente, spaurendomi.",
+        "«No», dissi all’eccentrica ragazza, Amanda, che quella notte avrebbe condiviso con me quel tetro rituale: un compito ingrato, sì, ma necessario.",
+        "«Sembra un ammasso di cera pongo», affermò con un macabro senso dell’umorismo che riuscì a disgustarmi.",
+        "«Attenta a quello che dici. Da dove provengo io, i morti non sono un argomento da prendere alla leggera», l’avvisai.",
+        "«Perché, che cosa ho detto di male? Non può mica sentirci e poi è quello che pensi anche tu: ce l’hai scritto in faccia», mi provocò.",
+        "Giusto. Non poteva sentirci, non con i suoi sensi mortali, ma non pensavo che quella persona fosse assimilabile a un ammasso di maledetta cera pongo. «Passami una spugna e non toccare nulla senza il mio permesso», iniziai.",
+        "Presi così a lavare il cadavere, facendole vedere come svolgere quella lugubre mansione, ma lei sembrava rapita da pensieri che non riuscivo a comprendere. Pareva nata in un obitorio, completamente a suo agio in quello scenario di tomba con vista.",
+        "«Fa freddo in questa stanza», realizzò all’improvviso nella sua inesperienza e portò lo sguardo sulla finestra semiaperta. «Meglio chiudere», disse.",
+        "«No, non farlo!», l’ammonii in fretta.",
+        "Lei mi guardò come inebetita. Un tuono frenò i suoi passi. «E perché no, hai paura del silenzio?», mi schernì. «Ti senti claustrofobico?».",
+        "«Nessuna di queste ipotesi. Sai, c’è sempre stata la credenza che il corpo non sia altro che la dimora dell’anima», spiegai in termini civili. «Perciò è buona norma lasciare porte e finestre aperte quando muore qualcuno, così che le anime di chi conosceva il defunto vengano a fargli visita e portino il suo spirito via con sé».",
+        "«Sciocchezze!», mi contraddisse. «Credi sul serio che un’anima, qualcosa di extracorporeo, di immateriale, abbia bisogno di finestre e porte aperte per entrare?».",
+        "La natura della sua obiezione mi inquietò, ma ci pensai su ed effettivamente quello che avevo affermato non aveva senso. In realtà, non ero mai stato credente, né superstizioso o spiritualista, eppure mi veniva quasi spontaneo pensare a un aldilà popolato solo da morti. Mi resi conto di quanto le tradizioni con cui ero cresciuto fossero radicate nel mio modo di approcciarmi alle cose. Quello che avevo riferito non era altro che un mucchio di credenze a cui ero abituato dalla nascita, poco importava che ci credessi sul serio oppure no. La maggior parte della gente vi prestava fede e quindi tendeva a vivere queste convinzioni come se avessero un loro accreditato fondamento. Allo stesso modo, pensavo fosse giusto adeguarsi a quelle usanze per non fare qualcosa che gli altri, piuttosto che me, avrebbero reputato sconveniente o sbagliato.",
+        "«Pensa», iniziai, «a proposito di porte aperte, si parla sempre e solo di morti che tornano nel mondo dei vivi e mai del contrario», dissi per esternare e razionalizzare le mie perplessità. «Non credo sia possibile. Come controprova, ai vivi non è mai stato concesso di visitare il regno dei morti».",
+        "«Perché i morti sono appartenuti alla vita, ma i vivi non sono mai appartenuti alla morte», spiegò con saccenteria.",
+        "Iniziai a provare insofferenza riguardo al suo atteggiamento arrogante. «Ascolta, sto solo cercando di…».",
+        "«Di auto-incoraggiarti?», tirò a indovinare. «Forse quei morti sono proprio qui in questo momento».",
+        "La fissai senza dire niente.",
+        "«Andiamo, ti stavo solo prendendo in giro», continuò con la stessa leggerezza di prima. «Non puoi vederli. Non è consentito ai vivi avere contatti con i morti, a meno che…».",
+        "«A meno che?».",
+        "«A meno che quel vivo non stia per morire», dichiarò. «E morirebbe di certo di paura nel ritrovarsi circondato da entità che non dovrebbero camminare sulla terra!», concluse con quel suo dannato cinismo.",
+        "«In realtà, morirebbe entro un anno», la corressi, rifacendomi ancora alle dicerie di paese. Chiunque avesse visto o sentito qualcuno appartenere alla morte, allora quello sarebbe stato un segnale inequivocabile, un presagio, una chiamata a cui non si sarebbe potuto sottrarre: erano le regole della natura mortale in fondo, tutti andavamo incontro a una data di scadenza, a una sorta di obsolescenza programmata a livello genetico su cui la morte era sempre aggiornata.",
+        "« Un anno », ripeté sorridendomi. «Lo terrò in mente».",
+        "«Ora, ti dispiace se continuiamo?».",
+        "«Affatto», rispose con una docilità imbarazzante.",
+        "«Bene, una volta lavato il cadavere…», iniziai e mi resi conto che si era già distratta. Giocherellava con un arnese affilato e appuntito e lo guardava come rapita.",
+        "Chiusi gli occhi e mi sentii sopraffare dalla rabbia. «Dammi quell’affare!», urlai e glielo strappai dalle mani.",
+        "Un fulmine interruppe l’erogazione della corrente e rimanemmo al buio. Simultaneamente, una raffica di vento aprì di colpo la finestra, facendola infrangere contro la parete adiacente, mentre un tuono si mescolava al suono dei frammenti di vetro che si riversavano sul pavimento.",
+        "«Dannazione». Fu un solo attimo. Il neon si riaccese, traballando in quelle mura grigie e anguste, e, dolorante, notai che, nel toglierle quello strumento dalle mani, mi ero provocato un taglio sull’anulare sinistro. «Ti avevo detto di non toccare nulla!», gridai. «Passami un cerotto e presta attenzione».",
+        "«Va bene», rispose con la stessa accondiscendenza di prima, minimamente turbata dal mio rimprovero. «Mi sembri nervoso».",
+        "«Non sono nervoso, è che riesci a mettermi in soggezione», risi. «Dio, l’ho detto davvero?».",
+        "«Lo so, faccio quest’effetto a tutti».",
+        "Tirai un sospiro e sentii bussare alla porta dell’obitorio. Subito dopo, la dottoressa Schirinzi vi entrò. «Oh, vedo che si è già portato avanti con il lavoro, dottor Fanelli», disse, «il che è un bene. La giovane Amanda non sarà con noi stasera», annunciò mentre si guardava attorno circospetta. «Ma con chi è che parlava per tutto il tempo?».",
+        "«Sta scherzando?», risi mentre indicavo la ragazza accanto a me. «Non vede che…».",
+        "«Che cos’è tutto quel sangue?», continuò la dottoressa.",
+        "«Non è nulla, è solo un taglio». Le mostrai la mano sotto quella luce instabile e notai che mi mancava una falange.",
+        "La dottoressa mi fissò allarmata. «Non si muova, vado a chiamare aiuto», disse e corse via.",
+        "All’improvviso, mi sentii impietrire dalla paura. Timidamente tornai a fissare la ragazza accanto a me e ne vidi un pallido essere con due orbite ricolme di grosse larve. Mi si avvicinò e mi accarezzò in viso; la sua mano, gelida come la morte. «Un anno», disse. «O forse meno»."
+    ],
+    "timestamp": "2019-10-24T19:06:38Z",
+    "title": "[H2019] Appuntamento con la morte",
+    "topic_id": 44971,
+    "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte/"
+}
