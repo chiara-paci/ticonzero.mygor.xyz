@@ -54,8 +54,26 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 795196,
+            "text": [
+                "Ciao e grazie.",
+                "Allora ti dico solo \"eccome\". La situazione è alquanto inquietante, così come l'infingardaggine e la sbruffoneria del protagonista (perlomeno, a me inquietano). Una storia tra il serio della morte e il faceto del protagonista."
+            ],
+            "timestamp": "2019-10-24T16:17:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795196"
+        },
+        {
+            "post_id": 795200,
+            "text": [
+                "Me ne sono accorto. Capita, quando uno rilegge dopo aver pubblicato. Anche il successivo scorrere non è che sia molto aderente alla puzza. Quando la senti aleggiare (la puzza) era più meglio"
+            ],
+            "timestamp": "2019-10-24T16:27:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795200"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 4: Turno di notte all'obitorio",
