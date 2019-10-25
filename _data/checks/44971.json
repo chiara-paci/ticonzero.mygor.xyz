@@ -62,8 +62,18 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 795417,
+            "text": [
+                "Ringrazio tutti per il vostro passaggio e i vostri preziosi consigli e accorgimenti. Scrivo un messaggio veloce perché al momento sono fuori per il weekend e non posso usufruire del mio pc. Ritornerò per rispondere a tutti voi con la giusta calma e accortezza che voi stessi mi avete riservato, intanto riporto il testo nella discussione ufficiale .",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2019-10-25T15:32:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte//?do=findComment&comment=795417"
+        }
+    ],
     "post_staff": [
         {
             "author": {
