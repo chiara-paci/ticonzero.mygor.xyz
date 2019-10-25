@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 24463,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Adelaide J. Pellitteri",
+        "url": "https://www.writersdream.org/forum/profile/24463-adelaide-j-pellitteri/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "una madre che ha perso un figlio è disposta a credere che la morte e la vita possano avvicinarsi fino ad abbracciarsi ancora. Ma se la morte chiede di poterlo fare è solo per prenderti la vita. Mi è piaciuto molto il tuo procedere. La storia si può leggere per intero tra i pochi elementi. Il pigiama che ci mostra la tenera età in cui è morto il figlio, ad esempio, poi quel ripetersi delle \"apparizioni\" che sembrano concretizzarsi notte dopo notte, con la donna che riesce a percepire la presenza anche con gli occhi, vedendolo materializzarsi poco alla volta. Un processo che hai reso bene, con la giusta lentezza e una buona tensione.",
+                    "Si perde la razionalità quando è la personata amata ad attrarci, sono sue le sembianze? E allora non ci sono domande porsi o dubbi da farsi venire, tutto è un procedere verso il baratro dal quale non si potrà tornare indietro. In un racconto, sia pure un horror studiato a tavolino, è sempre la storia che deve convincermi, ho bisogno di vedere combaciare la psicologia dei personaggi che, di fatto, sviluppano gli eventi e in questo racconto hai usato le giuste leve: l'amore indiscusso di una madre per un figlio morto. Poi... quale incubo peggiore se non morire per mano del proprio \"figlio\"?",
+                    "Non ho trovato refusi, la scrittura scorre con grande naturalezza, hai saputo tenere alta la mia concentrazione.",
+                    "Ottimo lavoro"
+                ]
+            ],
+            "timestamp": "2019-10-25T06:57:04Z",
+            "title": "[H2019] La vecchia poltrona",
+            "url": "https://www.writersdream.org/forum/forums/topic/44972-h2019-la-vecchia-poltrona//?do=findComment&comment=795300",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7997,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "H2019",
+        "Traccia: Il pozzo",
+        "Si sentiva un po’ in colpa, aveva ereditato la casa di nonna Matilda e sapeva di non meritarla.",
+        "A chi le era stato vicino fino alla fine, la vecchia signora, aveva lasciato l’antico corredo (lenzuola di lino e asciugamani di fiandra) e i vassoietti d’argento, a lui un appartamento in pieno centro storico con sedici camere, balconcini in stile barocco e un terrazzo di ottantasei metri quadrati che dava sul chiostro di un antico convento.",
+        "Dieci anni addietro, prima di partire in tutta fretta per New York, Filippo aveva rapinato la donna per circa cinquantamila euro; era sua la seconda firma sul libretto, e ciò lo aveva agevolato nel furto.",
+        "Si era detto “È solo un acconto sulla mia eredità, nonna, capiscimi.” In verità, intendeva “Visto che non mi lascerai un bel nulla almeno prendo questo” . Così, senza rimorso, benché ne avesse anche un altro dal quale stava realmente fuggendo, se n’era andato senza chiamarla mai più.",
+        "Sorpreso, e costretto a tornare dopo la telefonata del Notaio, adesso si aggirava per la nobile casa. Giusto il tempo di stimare quanto avrebbe ricavato dalla vendita, stemma con corona compreso, e poi sarebbe tornato a New York ad aspettare il bonifico con le gambe incrociate sulla sua scrivania.",
+        "Vendeva automobili sulla Fifth Avenue.",
+        "Nella casa tutto era come lo aveva lasciato, e gli imponenti armadi in pesce pagno, le consolle in ebano e le grandi specchiere dorate appese alle pareti, lo circondavano di nuovo con asfissiante severità. Sbuffando era uscito sul terrazzo.",
+        "Affacciatosi sul chiostro per respirare un po’, l’occhio gli era finito giù nel giardino, curato come solo mani di donne pazienti, meglio se suore, sono capaci di fare. Lì, al centro il pozzo ormai secco faceva ancora bella mostra di sé. Dalla ghirlanda in ferro battuto pendeva il catino traboccante di fiori. Filippo non poté reggere la vista, e rapido come una lepre si tirò indietro. La Madre Badessa uscita in quell’istante sul chiostro, aveva colto il movimento rapido e scaltro.",
+        "Anche lei aveva fissato quel pozzo, sospirando e scuotendo il capo.",
+        "Dal ritratto che campeggiava sopra il camino nel salone delle feste, la nonna – ingioiellata e raffigurata in un abito da sera in velluto color rubino – lo fissava con un’espressione ambigua, inquietante. Due ombre sul viso scavavano eccessivamente le gote mentre gli occhi, non suoi, erano di un verde traslucido; con una scossa violenta, ricordarono a Filippo una sua scelleratezza. Notò anche le mani – le ricordava bene – tanto candide e affusolate da suggerirne il tocco aristocratico, adesso erano adunche, più simili agli artigli di un’aquila che a mani di donna.",
+        "No, non era possibile! Il dipinto doveva essere stato ritoccato da qualcuno in vena di fargli un pessimo scherzo.",
+        "Per accertarsene prese una scala e risalì i gradini con l’agilità di un gatto e dei suoi quarant’anni, ma appena fu ad un palmo dalla tela un odore nauseabondo lo afferrò alla gola. Provò a tapparsi il naso e la bocca per non inspirare quel lezzo malvagio, ma ebbe un capogiro e rovinò giù dalla scala. L’urlo scosse il convento e le venti monache, svolazzanti e compatte come uno stormo di rondini, in un batter d’occhio gli furono intorno.",
+        "Non appena Filippo sentì quelle braccia guantate di nero sollevarlo senza attenzione e riguardo, appena si vide accerchiato da tutti quegli sguardi satanici e udì quelle risate maligne, atterrito comprese! Sarebbe voluto spirare in quel medesimo istante.",
+        "La Madre Badessa che tanto aveva beneficiato della generosità della defunta Contessa Matilda decisa a sopperire alla malafatta del nipote, possedeva le chiavi dell’attico sovrastante il convento.",
+        "Alla fine erano state loro a ereditare lenzuola di lino e asciugamani di fiandra, ed era stata proprio la Madre Badessa a suggerire il lascito al cattivo nipote. Il perdono, si sa, rende l’anima leggera, “libera di raggiungere le mete più alte” , le aveva detto.",
+        "Ora una ricompensa da parte di Filippo, le suore la meritavano, eccome! Tutte s’erano avvicendate al capezzale della nobildonna e non lo avevano fatto certo per niente. Uccellini con le bocche spalancate erano gli orfanelli, e – con il legato – avrebbero ricevuto il giusto sostentamento.",
+        "Filippo vorrebbe solo tornare a New York, mandando al diavolo suore, stemmi e corone, ma ormai è troppo tardi, lo sa.",
+        "Gli curano la frattura alla gamba con un impiastro di erbe selvatiche e uova di struzzo fatte marcire al sole di luglio, lo stesso usato per impregnare il quadro sopra il camino, il groviglio intestinale che ne consegue, con un po’ di marsala e molto aceto di uva spina; per molti mesi lo costringono a ingurgitare trecento grammi di miele al giorno, presi al cucchiaio; ai denti che a mano a mano marciscono provvedono con un’estrazione all’antica. La tenaglia è sempre a vista, sul comodino.",
+        "Per dipiù proprio quando Filippo sente l’anima tentare il distacco dal corpo e contrapporre la pace al calvario, la Madre Badessa gli inietta del Toradol insieme a del Cortisone. Lui, sentendo attutiti i dolori atroci, si rianima un po’ ma solo per meglio comprendere l’orrore dal quale non può liberarsi.",
+        "Con la falsa promessa del rilascio, Filippo firma il suo testamento. Lo stesso Notaio che lo ha rintracciato a New York, lo prende in custodia; mentre la Madre Badessa ha già pronta la richiesta da avanzare al Comune: un benefattore come il Conte Filippo merita degna sepoltura nella nostra Cappella.",
+        "Eleonora sarebbe ancora bella se non avesse quegli occhi spiritati. È Madre Badessa, e ora osserva il sudore malato sulla fronte dell’infermo, gli asciuga le gocce sospirando: «Le stesse del mio travaglio» dice, mentre al contorcersi di Filippo, ripiegato sul ventre, asserisce: «Oh, sì ti capisco, furono uguali pure le mie doglie».",
+        "L’uomo fissa smarrito il viso della suora, gli occhi sono verdi e taglienti come quelli del quadro, un demone gli è proprio davanti, le mani non gli dispensano consolazioni e carezze piuttosto graffi e torture.",
+        "«Il pozzo, il pozzo» gli sibila Eleonora con voce di strega. La donna ricorda il sangue in mezzo alle cosce quando – le suore rapite dal sonno e lei dimentica per un’ora dell’amore di Dio – s’era fidata delle lusinghe di Filippo. Seppure sgomenta per il sangue fuoriuscito dalla sua “voragine”, in quella notte di stelle lucenti, all’ombra del pozzo, tra i suoi “No” sussurrati con la paura di svegliare le altre, il suo corpo aveva accolto la vita.",
+        "Da allora, infranto il sogno di ogni beatitudine, Eleonora ha pianificato ogni cosa.",
+        "Filippo aveva osato l’ardua conquista, convinto che ogni suora avesse indossato l’abito nero per sfuggire alla carne, conosciuta e rifiutata. Come chi scopre la propria natura omosessuale, ognuna di loro doveva aver confrontato e scoperto la propria: mistica, affatto carnale.",
+        "Ma lui, che si credeva capace di farle provare un piacere sublime da invalidare così la sua aspirazione, alla vista del sangue, strappatole il velo, era rimasto sgomento, quasi avesse ucciso un corpo, un’anima e pure se stesso.",
+        "Aveva capito cosa può il diavolo, e ladro e assassino era fuggito.",
+        "Filippo è già preda di forti tremori per la febbre e per la paura. «Ricordi quel pozzo? – dice la Madre Badessa – Per giorni ho sentito l’odore nauseabondo e mi ci sono voluti mesi e mesi per ricomporlo identico, meritavi anche tu di sentirlo. Ho accoppiato erbe e carni di animali selvatici, sterco di bestie e frutti di mare, ho provato di tutto, poi, finalmente la putrida essenza è venuta fuori, identica. È la stessa che da giorni non ti lascia, la senti?» Lo dice, mentre gli tiene una garza imbevuta schiacciata sul naso, Filippo si contorce in un’espressione atterrita, il suo corpo è scosso da sussulti epilettici. «Un aborto identico a un parto, tutto è finito nel pozzo». recita ancora. «Le mie consorelle, testimoni… e consolatrici».",
+        "Filippo non ha più dubbi, le suore si occuperanno di lui fino all’ultimo istante, fino alla veglia, alle esequie, alla lettura del suo testamento.",
+        "Le sue spoglie sui resti del figlio.",
+        "Ma quando?"
+    ],
+    "timestamp": "2019-10-25T07:14:53Z",
+    "title": "[H2019] Il Conte Filippo",
+    "topic_id": 44974,
+    "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo/"
+}
