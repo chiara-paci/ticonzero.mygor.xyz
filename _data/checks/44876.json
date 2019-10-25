@@ -7,46 +7,18 @@
             "narrativa": 0,
             "poesia": 1
         },
-        "name": "irene m",
-        "url": "https://www.writersdream.org/forum/profile/30024-irene-m/"
+        "name": "iemme",
+        "url": "https://www.writersdream.org/forum/profile/30024-iemme/"
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 1.0,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao , e benvenuta (o benvenuto) in questo forum!",
-                    "Anch'io ho apprezzato molto il contrasto tra il tono colloquiale che hai usato e il tema profondamente drammatico: in questo modo non appesantisci di orpelli o retorica l'espressione di un malessere che così raggiunge in modo diretto e più incisivo chi legge.",
-                    "Non cambierei nulla della struttura trenne il verso che ho riportato sopra: protendersi in avanti la sento come una piccola ripetizione, inoltre protendersi mi pare troppo tecnico come verbo, quindi io scriverei una cosa tipo: se avanzassi di un altro passo , o qualcosa di simile, per mantenere comunque un po' di indeterminatezza.",
-                    "Nella drammaticità del tema risalta in modo luminoso il pensiero verso la figura della madre che, unica e sola, impedisce di fare quel passo in avanti nel vuoto. Questo verso:",
-                    "porta secondo me, il peso fortissimo di tutta la poesia (e di quello che esprime): perfetto il punto fisso messo lì.",
-                    "Molto bella poi l'immagine poetica di cancellare le nuvole, ancora più bella per quella sfumatura concreta - l'idea di chiedere imprestito qualcosa di fisico e reale.",
-                    "Bella poesia @Iochemimanco (anche un bel nickname!), originale e toccante, a rileggerti presto, ciao! (P.S. io non gliela presterò però la gomma per cancellare, al protagonista, piuttosto due parole:-) ) ."
-                ],
-                [
-                    "*scusami ho scritto imprestito al posto di in prestito ma come sempre non vedo i refusi se non dopo che ho pubblicato"
-                ],
-                [
-                    "Ciao☺, mmmh non lo so, mi pare sempre troppo \"faticosa\" come costruzione: seguendo il mio personalissimo gusto, se posso dire la stessa cosa con 6 o con 4 parole, sceglierei sempre le 4. Qui il senso è già chiaro e quindi (ma è sempre un modestissimo parere personale) userei un verbo più \"leggero\" che non necessita di preposizioni, qualcosa che renda l'idea dell'attimo breve che potrebbe cambiare irrimediabilmente la vita di due persone. Ciao, buona scrittura!"
-                ]
-            ],
-            "timestamp": "2019-10-15T14:30:11Z",
-            "title": "Nuvole",
-            "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=793063",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -54,8 +26,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 270,
-    "num_commenti": 1,
-    "num_posts": 11,
+    "num_commenti": 0,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 793604,
@@ -105,6 +77,15 @@
             ],
             "timestamp": "2019-10-23T22:13:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44876-prove-di-magia//?do=findComment&comment=795073"
+        },
+        {
+            "post_id": 795454,
+            "text": [
+                "Grazie mille , sai che anch'io avevo lo stesso dubbio/pensiero? (anche se impulsivamente - a proposito! - ho già cambiato nell'altra sede che conosci quel verso): ci ri-penso ancora un po' (anche perché in fondo vera era l'intenzione che sta alla base della poesia, l'importante è quello, poi la realtà tangibile a volte fa solo male), un veromavero abbraccio!",
+                "(P.S. bellissima l'intervista ad Ungaretti che mi hai segnalato! )"
+            ],
+            "timestamp": "2019-10-25T17:16:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44876-prove-di-magia//?do=findComment&comment=795454"
         }
     ],
     "post_staff": [],
