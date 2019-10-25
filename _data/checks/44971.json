@@ -62,7 +62,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [],
     "post_staff": [
         {
@@ -99,6 +99,19 @@
             ],
             "timestamp": "2019-10-25T10:09:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte//?do=findComment&comment=795346"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 795366,
+            "text": [
+                "dovresti inserire il link al racconto nel topic ufficiale (vedi come hanno fatto gli altri), grazie"
+            ],
+            "timestamp": "2019-10-25T12:10:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte//?do=findComment&comment=795366"
         }
     ],
     "text": [
