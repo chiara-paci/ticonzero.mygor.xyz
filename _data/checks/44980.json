@@ -1,0 +1,62 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 857,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "commento",
+        "HAMELIN",
+        "Tristezza è frutto di passione",
+        "matura amara e dolce, e canta",
+        "un giorno, a voce alta, bianca",
+        "Lanterne cinesi in volo cambiano direzione",
+        "ma un pianeta freddo no, non cambia sotto i piedi",
+        "e una stella calda non lo brucia, un aquilone",
+        "troppo lontana, anzi, agisce la luce, unisce",
+        "il filo dell’andata al ritorno, e l’alba sull’erba",
+        "al mare, al giorno. E noi aspettiamo, cartoline",
+        "di luoghi in cui non essere mai rimpianto",
+        "ma affetto, piuttosto, di ciò che non sei, disincanto",
+        "Cadono arance e limoni, il silenzio pesa",
+        "e qui, nella neve, i bambini migrano verso casa",
+        "I pifferai se la cantano e se la suonano, in coro",
+        "e tu ai bambini non far credere mai, ma credi in loro",
+        "Io non credo l’inverno finirà tanto presto",
+        "ma se bambini siamo, davvero",
+        "avremo tempo, voglia e pensiero",
+        "Tu non fidarti delle dissolvenze,",
+        "ma tra le partenze e gli arrivi",
+        "se ti ricordi di me, scrivi."
+    ],
+    "timestamp": "2019-10-25T14:58:35Z",
+    "title": "Hamelin",
+    "topic_id": 44980,
+    "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin/"
+}
