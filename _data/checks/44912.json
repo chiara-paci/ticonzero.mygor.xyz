@@ -81,7 +81,7 @@
     },
     "num_chars": 4633,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 794067,
@@ -92,6 +92,16 @@
             ],
             "timestamp": "2019-10-19T14:09:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44912-le-ragazze-capitolo-19-22//?do=findComment&comment=794067"
+        },
+        {
+            "post_id": 795290,
+            "text": [
+                "Buongiorno cara Flo",
+                "un pochino va meglio secondo me, non credi? Metto meno che... o forse solo nella mia testa",
+                "Grazie Flo, sempre preziosa"
+            ],
+            "timestamp": "2019-10-25T05:03:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44912-le-ragazze-capitolo-19-22//?do=findComment&comment=795290"
         }
     ],
     "post_staff": [
@@ -109,6 +119,21 @@
             ],
             "timestamp": "2019-10-19T14:09:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44912-le-ragazze-capitolo-19-22//?do=findComment&comment=794067"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795290,
+            "text": [
+                "Buongiorno cara Flo",
+                "un pochino va meglio secondo me, non credi? Metto meno che... o forse solo nella mia testa",
+                "Grazie Flo, sempre preziosa"
+            ],
+            "timestamp": "2019-10-25T05:03:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44912-le-ragazze-capitolo-19-22//?do=findComment&comment=795290"
         }
     ],
     "text": [

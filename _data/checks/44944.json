@@ -60,9 +60,38 @@
     },
     "num_chars": 7886,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795292,
+            "text": [
+                "Buongiorno",
+                "giusto!",
+                "mi piace questo! Spero tu non rimanga troppo deluso",
+                "Buona giornata e grazie mille"
+            ],
+            "timestamp": "2019-10-25T05:10:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=795292"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795292,
+            "text": [
+                "Buongiorno",
+                "giusto!",
+                "mi piace questo! Spero tu non rimanga troppo deluso",
+                "Buona giornata e grazie mille"
+            ],
+            "timestamp": "2019-10-25T05:10:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=795292"
+        }
+    ],
     "text": [
         "A un certo punto devo essermi addormentata perché mi sveglio con il sole che entra dalla finestra. Davide non c’è già più, Jessy invece dorme ancora sul divano, immobile, come se non si fosse mai mossa. Mi alzo sui gomiti per assicurarmi che ci sia davvero anche lei sotto tanta coperta e distinguo subito la coda di treccine che penzola dal cuscino.",
         "«Buongiorno». La voce di Jessy suona incerta mentre preparo il caffè. Mi volto a guardarla: è seduta sul divano e non sembra più riposata di ieri sera.",

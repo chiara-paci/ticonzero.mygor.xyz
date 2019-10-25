@@ -62,9 +62,45 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 795346,
+            "text": [
+                "Ciao",
+                "Credo proprio sia la prima volta che ti leggo.",
+                "Allora, non me ne volere, ma ho trovato un po' di cose su cui ci sarebbe da rimettere mano, nel testo. Segnalo e spiego, così che tu possa migliorare la prossima volta",
+                "Un po' desueto. Non che non vada bene, a me piacciono le parole di questo tipo, ma nel caso specifico l'ho trovato non troppo azzeccato: sei in prima persona, punto di vista interno, epoca moderna e tutto il racconto dà proprio l'idea che il protagonista sia seduto a raccontare quel che è successo. Il verbo \"recarsi\", pertanto, trovo che stoni con tutte queste premesse. Meglio optare per qualcosa di più colloquiale.",
+                "Ma non era morto da un paio d'ore? Il livor inizia dopo un'oretta circa, in casi particolari anticipa e inizia dopo una mezz'ora, ma per avere un livor completo bisogna che siano trascorse dalle otto alle dieci ore. La dicitura pieno livor mi fa pensare a quattro, cinque ore trascorse almeno.",
+                "C'è il punto di domanda, la virgola non ci vuole.",
+                "Già detto poco sopra: lo sappiamo già chi è Amanda, non c'è bisogno di ripeterlo con questo \"spieghino\"",
+                "Me lo sono immaginato saponificato",
+                "Secondo me è la peggiore delle \"putrefazioni\", ma appunto non può essere già a quello stadio, e soprattutto in un ospedale non ci sono le condizioni per una saponificazione del cadavere (spero, altrimenti oddio, ospedale da evitare). Se invece ti riferisci al colore caratteristico del livor, allora comunque non ci siamo con l'orario.",
+                "Anche qui, c'è il punto esclamativo, quindi niente virgola.",
+                "Idem. L'errore è ripetuto in tutto il racconto: se si usano punti interrogativi o esclamativi, non vanno usati altri segni di interpunzione a corredo, in quanto sono già contenuti nel punto di domanda o esclamativo. (Non ti segnalo più gli altri a venire)",
+                "Un po' troppo spiegato anche questo passaggio. Bastavano le prime affermazioni: \"La natura della sua obiezione mi inquietò, ma ci pensai su ed effettivamente quello che avevo affermato non aveva senso. In realtà, non ero mai stato credente, né superstizioso o spiritualista, eppure mi veniva quasi spontaneo pensare a un aldilà popolato solo da morti.\"",
+                "Ecco, con questo hai già detto tutto, il resto è un di più di cui si può fare a meno o, comunque, se vuoi renderlo ancora più calcato, cerca altre strade che diano modo al lettore di accorgersi da sé di tutto ciò, attraverso le azioni o le parole dirette del personaggio. La narrazione ne giova di sicuro.",
+                "Qui non capisco la motivazione dell'inciso \"piuttosto che me\". La frase funziona benissimo senza: \"Allo stesso modo, pensavo fosse giusto adeguarsi a quelle usanze per non fare qualcosa che gli altri avrebbero reputato sconveniente o sbagliato.\" È già implicito che lui non è d'accordo con quelle usanze: l'hai detto prima che non è mai stato credente",
+                "Vale anche per i tre puntini di sospensione la stessa regola del punto esclamativo e interrogativo. Il punto, quindi, non ci vuole.",
+                "Anche qui, come sopra, non è necessario inserire tutte queste informazioni. Appesantisci la narrazione con spiegazioni che potresti rendere molto meglio in altri modi, e qui l'hai già fatto. Il protagonista ha appena detto che si rifà alle dicerie di paese, basta quello. Non sono necessari questi piccoli infodump .",
+                "Si può togliere. Per rendere l'effetto, basta il punto e le frasi ravvicinate, corte. Usando l'avverbio, invece, crei l'effetto opposto, in quanto allunghi il tempo tra un'azione e l'altra, che non danno l'idea di essere frenetiche e consecutive. Il lettore sa che lo sono, perché glielo hai detto tu in modo esplicito, ma rende molto meglio se giochi con frasi e punteggiatura, perché se ne accorga in modo implicito, guidato dalla resa narrativa.",
+                "Il \"vi\" è superfluo. Siamo già all'interno dell'obitorio, per cui se la dottoressa entra, entra per forza di cose nel luogo dove siamo (secondo la specificità del contesto)",
+                "Idem come per \"simultaneamente\". È più improvviso leggere direttamente quel che accade, che spiegare che tutto ciò avviene all'improvviso.",
+                "Accarezzare il viso: si accarezza qualcosa, non dove",
+                "Riguardo la trama, invece: ho trovato un po' di cliché, come la luce sfarfallante, la tempesta esterna, il \"morto\" (ossia Amanda), però sono stati ben gestiti nell'atmosfera che hai voluto creare. Quindi, non originale ma ben calibrato.",
+                "Il taglio della falange è schifosissimo, quindi bene così. Trovo che sia il dettaglio più orrorifico di tutti, almeno dal mio punto di vista percettivo. Sempre per quel che mi riguarda, a parte quest'ultimo dettaglio, non ho trovato null'altro di disturbante, ma sono di gusti difficili.",
+                "Spero di esserti stata utile"
+            ],
+            "timestamp": "2019-10-25T10:09:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte//?do=findComment&comment=795346"
+        }
+    ],
     "text": [
         "Traccia n.4: Turno di notte all’obitorio",
         "Appuntamento con la morte",
