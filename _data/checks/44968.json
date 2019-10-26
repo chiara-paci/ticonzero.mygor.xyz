@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 795196,
@@ -72,6 +72,23 @@
             ],
             "timestamp": "2019-10-24T16:27:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795200"
+        },
+        {
+            "post_id": 795506,
+            "text": [
+                "grazie"
+            ],
+            "timestamp": "2019-10-26T07:01:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795506"
+        },
+        {
+            "post_id": 795508,
+            "text": [
+                "Scopro a mia insaputa di aver scritto una commedia. Se al posto delle cispole l'avrei farcito di cazzi allora era un erotico? Come si vede che non frequento corsi di scrittura. Mi sono perso la lezione: quando l'intercalare definisce il genere.",
+                "stando così le cose forse sarebbe il caso di cacciarmi a calci in culo dall'horrorfest."
+            ],
+            "timestamp": "2019-10-26T07:08:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795508"
         }
     ],
     "post_staff": [],
