@@ -1,0 +1,80 @@
+{
+    "author": {
+        "author_id": 28093,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Il fantasma di Cjan",
+        "url": "https://www.writersdream.org/forum/profile/28093-il-fantasma-di-cjan/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "a me il racconto è piaciuto. è condito da un atmosfera credo davvero appropriata al genere (dico credo perché del genere non sono affatto un cultore). L'inquietudine c'è tutta... forse lo spavento no... ma poco mi interessa, francamente, mi interessa più l'inquietudine.",
+                    "Se devo individuare un difetto, forse è nella frammentarietà degli elementi che dissemini a profusione senza troppo tornarci su: l'insofferenza dei personaggi per i rumori e per le luci, la ragione del tatuaggio a Y, l'accenno al fatto che hanno provato con altri elettrodomestici e non ha funzionato, che lascia intuire l'intenzione di provare a \"normalizzarsi\" più che tendere all'epilogo che hai dato alla storia. Ecco, questa frammentarietà è un po' un'arma a doppio taglio, perché se è vero che è anche suggestivo che la narrazione proceda per pennellate, è anche vero che un senso di incompletezza un po' lo lascia.",
+                    "Comunque, ripeto, nel complesso mi sembra una prova riuscita",
+                    "Pulci livello rompiscatole",
+                    "Questa frase mi ha stonato per diversi motivi. Penso che \"Attorno a noi\" possa andare via: è superfluo e spiazza un po', perché poi dai anche un altra indicazione circa la posizione dicendo \"davanti\". Il senso è chiarissimo, ma visto che cambia poco toglierei. E poi quell'\"Intenti\": a voler essere pignoli, nel momento in cui vi passano avanti, non sono ancora intenti, ma stanno per esserlo.... scriverei più semplicemente così: dei clienti ci passano davanti per gettare un'occhiata al prodotto esposto",
+                    "solo lei? Non si faceva prima a scrivere \"[...] troppo piccolo, irradiati﻿ dai colori [...]\"",
+                    "anche \"accorrere\" mi stona, un po' per lo stesso motivo di cui sopra, l'accostamento dell'indicazione dietro di me. Forse \"accorre a me\" mi avrebbe stonato meno, ma comunque mi avrebbe stonato. Penso che sia più naturale optare per il semplice verbo correre, in questo contesto accorrere mi sembra un po' forzato",
+                    "rovesciandosi? rovinando? Potrei sbagliarmi, ma riversare in genere indica il fuoriuscire da qualcosa, e in genere si dice di liquidi, della folla... di un televisore non lo direi... ma, ripeto, magari mi sbaglio io eh",
+                    "Ecco! Qui sì che riversare mi sembra appropriato",
+                    "Altri refusi non ne ho trovati, o mi sono sfuggiti.",
+                    "A rileggerci presto"
+                ]
+            ],
+            "timestamp": "2019-10-26T15:56:37Z",
+            "title": "[H2019] Interitus",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795695",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 4658,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia: incubi",
+        "La scena che, vissuta al momento, mi sembrava intollerabile e drammatica, è grosso modo questa, al netto delle falsificazioni del ricordo: io al tavolino di un bar, uno di quei tavolini di plastica dura, quadrangolare, con due sedie disposte l’una di fronte all’altra, l’una occupata da me, l’altra vuota. Alla mia destra, una pianta ad arbusto, posta in un grosso vaso di pietra, delimita lo spazio privato da quello pubblico e mi copre quasi del tutto la vista del parco detto “degli aquiloni” (seppure, a mia memoria, nessun aquilone abbia mai solcato i suoi cieli). In ciò la pianta mi è di conforto, perché non ho in animo di sopportare la vista dei bambini che si agitano. Ma è anche un richiamo per le zanzare che mi danno il tormento. Se alla mia destra la visuale è in parte ostacolata, di fronte a me è del tutto chiusa: ciò che vedo, oltre la sedia vuota posta lì a mo’ di punto di domanda, è un enorme pilastro che fa da portante all’edificio sovrastante. Alla mia sinistra, l’ingresso del bar, privo finanche di insegna, e altri due tavolini. Quello in direzione del mio sguardo è occupato da due signore di mezza età, presumo ucraine (presumo badanti), i cui discorsi non comprendo. L’altro è leggermente dietro, e guarda me; è occupato da un uomo grossomodo della mia età, anche lui solo, anche lui munito di null’altro che di una Tennent’s e del suo sguardo, che poggia un po’ nel vuoto un po’ su di me.",
+        "Era la presenza di quest’uomo, più ancora delle zanzare, che mi risultava un supplizio e mi impediva di rilassarmi. Di certo, si stava chiedendo, di me, ciò che io mi chiedevo di lui: perché siede da solo a un tavolo che può ospitarne due, tre, sino a quattro? perché non è altrove a rimediare al numero che non torna?",
+        "Desideravo che lo sconosciuto si alzasse e andasse via. Del resto è così che funziona: quanto più si soffre della propria solitudine, tanto più si mal tollera quella altrui. Mi sembrava che quell’uomo mi frugasse nelle sinapsi del cervello, che potesse vedere le nude ragioni della mia tristezza. Si faceva largo con gli occhi, così mi sembrava, cercando un passaggio, un poro, dietro la nuca, per piazzarsi tra i due emisferi del mio cervello. Non gli poteva sfuggire di Milena… del suo tradimento… del suo abbandono.",
+        "Ci ripenso adesso e ho compassione per la persona che ero appena pochi mesi addietro: tanta pena per cose talmente ordinarie…",
+        "Lo sguardo dell’uomo era ancora lì, e mi innervosiva. Non ero ubriaco al punto tale da attaccar briga. Volevo ancora dell’alcol. Mi alzai per varcare la soglia priva di insegna del bar e procurarmene. È allora che è successo.",
+        "È stato un attimo.",
+        "La siepe oscurava la vista dei bambini del parco, ma evidentemente non ne cancellava l’esistenza. Levandomi, urtai il manubrio della bicicletta di un ragazzino di otto anni (Marco si chiamava, appresi poi). Il bambino sbandò e perse l’equilibrio. Mentre la bici gli scivolava da sotto le gambe, schizzando verso il tavolo delle ucraine, lui cadde ginocchia a terra. La testa, spinta dall’inerzia – nella scena che mi passa e ripassa davanti agli occhi sembrava il capo di un pupazzo a molla – andò a cozzare giusto sullo spigolo del pilastro portante.",
+        "L’uomo non guardava più me, ma il bambino. Per alcuni secondi – cinque? dieci? quindici? – rimanemmo tutti immobili: io, le badanti, l’uomo, il bambino col volto riverso sul marciapiedi che si andava macchiando di sangue. Poi mi mossi io: mi accovacciai, accarezzai la spalla del piccolo e gli dissi: «Tutto bene? Su, non è niente».",
+        "Da quel momento in poi il ricordo si fa ancora più confuso. Avrei voluto inveire contro l’uomo della Tennent’s, che mi aveva strattonato e fatto da parte, mentre le ucraine urlavano, ma fui investito da un volto di donna. Urlava anche lei. O forse no, non ricordo. Rincorreva l’uomo, che adesso portava in braccio il bambino. Era la Madre di Marco.",
+        "«Ferma», provai a dirle, o almeno credo che lo feci. Ma lei era come se fosse Milena: andava via, senza capire che se c’era un colpevole quello non ero io, ma il maledetto caso, che così mi avrebbe lasciato solo per sempre, e per sempre dannato.",
+        "Ogni notte ho lo stesso incubo. La madre di Marco mi dà dell’assassino, e lo fa mentre il corpo inanimato del figlio è affidato alle braccia dell’uomo della Tennent’s. Getta su me la sua rabbia, e per farlo, mi parla a lungo. Ha il volto di Milena e la sua voce. La testa del bambino, dalle braccia dell’uomo, pende. È attaccata al tronco con una molla da pupazzo.",
+        "Poi, purtroppo, mi sveglio. E mi ritrovo qui, dove il buio della notte è buio vero, con fantasmi veri.",
+        "Loro non parlano e non ascoltano: lasciano invisibili graffi lungo le costole."
+    ],
+    "timestamp": "2019-10-26T15:58:54Z",
+    "title": "[H2019] Incubo a occhi aperti",
+    "topic_id": 44993,
+    "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti/"
+}
