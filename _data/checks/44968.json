@@ -16,7 +16,7 @@
         "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 795196,
@@ -107,6 +107,48 @@
             ],
             "timestamp": "2019-10-26T09:12:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795550"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 795581,
+            "text": [
+                "Allora, da quanto ci è stato dato di capire, dopo avere anche sentito Vincenzo in privato, il messaggio non aveva intenti polemici, ma una sorta di richiesta specifica sull'attinenza del racconto al tema del Contest.",
+                "Il tag è mio, rispondo io, cercando di fare anche un discorso più ampio.",
+                "Per quanto mi riguarda (e badate bene, io non sono un'enciclopedia, o un docente di letterature comparate o quel che volete... sono uno che - come voi - scrive, e sono uno che - come voi - legge) il concetto è: il macrogenere Horror c'è, ovviamente. Poi l'approccio dell'autore è decisamente votato a restituire un registro scanzonato e non a mettere paura. E questo credo sia ovvio a tutti, autore compreso. Ora, pensate all'Armata delle Tenebre, al protagonista e alle sue battute ecc... il “Non sono dell'umore giusto, stasera baby” del protagonista di questo racconto lo ricorda molto. Ecco: la collocazione di questo racconto va in quella specifica tipologia di horror.",
+                "E no, per quanto mi riguarda non c'entrano niente cispole o cazzi: il registro non lo fanno le parole, lo fa il tono... ecco, la battuta di cui sopra è per me sintomatica.",
+                "Per quanto riguarda i giudici di questo Contest",
+                "I giudici controllano due parametri: attinenza al tema in genere e attinenza alla traccia.",
+                "Non ci interessa (e non deve interessarci) il registro usato.",
+                "Poi, che genericamente si preferisca un horror classico che possa inquietare a uno contaminato è genericamente vero... vero è anche che si possono scrivere racconti godibilissimi partendo da quel tema e discostandosene (altro esempio tv che mi viene in mente: la famiglia Addams).",
+                "Fatta questa premessa, è pacifico che quando ci si discosta dal registro canonico il lettore possa dire: \"a me tra ridere e paura ha fatto più ridere che paura\".",
+                "Poi sta a me autore interpretare: se 9 su 10 hanno questa reazione e volevo ottenere questa reazione ok, ci ho preso. Volevo invece far paura pur usando un registro diverso (sempre sia possibile)? Ok uguale, non ci ho preso e lo so."
+            ],
+            "timestamp": "2019-10-26T10:54:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795581"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 795584,
+            "text": [
+                "Intervento di moderazione",
+                "Quella sopra era la risposta \"tecnica\" alla domanda.",
+                "La divido da questo che è l'intervento di moderazione vero e proprio.",
+                ", ora riapro il racconto. Ovviamente non c'è nessun motivo per cui il tuo racconto debba essere escluso dal contest.",
+                "Ti prego solo, genericamente, di fare un pizzico più di attenzione alle risposte... cerchiamo di mantenere i toni amichevoli e di divertirci tutti quanti.",
+                "Abbiamo capito che i tuoi intenti non erano polemici... ma le parole e le frasi che hai usato potevano far ipotizzare il contrario... evitiamo.",
+                "Vale per tutti quanti, questa faccenda si chiude qui.",
+                "Poi se volete discutere di temi e registri si apre una discussione in Scrivere e ne parliamo quanto volete"
+            ],
+            "timestamp": "2019-10-26T10:59:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795584"
         }
     ],
     "text": [

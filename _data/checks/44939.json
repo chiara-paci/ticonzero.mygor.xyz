@@ -60,7 +60,7 @@
     },
     "num_chars": 15673,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 795010,
@@ -74,7 +74,28 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44939-non-avere-paura//?do=findComment&comment=795010"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 795587,
+            "text": [
+                "È un racconto meno riuscito di quello che speravo, . Le buone premesse erano senz'altro dovute alla scrittura calibrata a cui ci hai abituato, così come a un'ambientazione ruvida e densa di sentimento – seppure in modo intimo, mai sbandierato, come si confà a un sentimento di questo tipo.",
+                "Il primo sentimento, quello più in superficie, è naturalmente l'amore che il protagonista non ammette nei confronti di Gavino. Reso, a mio parere, con una delicatezza ammirevole. Il secondo sentimento che ci vedo, sotto la superficie (e che quindi in realtà fa da fondamenta per il racconto), è il bisogno di attaccamento. Che è simile al bisogno di accettazione, ma non uguale. Credo che presupponga motivazioni interiori più vivide. Fabrizio ha bisogno di appartenere al suo contesto, sente un attaccamento che gli è negato dalla repulsione dei coetanei, e ciò lo porta a distanziarsi anche dalle tematiche care alla sua generazione.",
+                "Il \"non avere paura\" traccia un confine: varcato quello, Fabrizio entra nel mondo. E con il bacio finale, nonché con il lascito morale di Gavino, soddisfa anche il suo bisogno di attenzioni da lui.",
+                "Il racconto, però, a mio parere soffre di due problemi di realizzazione che lo rendono meno efficace di quanto potrebbe: l'incipit e l'incoerenza di Fabrizio fra motivazioni e azioni (incoerenza narrativa, intendo).",
+                "L'incipit è senz'altro il problema più grande, una lunga premessa atta a definire il disagio di Fabrizio e introdurre il corteo. Tutto questo, secondo me, avrebbe potuto essere evitato. Due parole iniziali su chi è il protagonista ci stanno, è un racconto in prima persona; però partire direttamente dalla manifestazione avrebbe giovato alla riuscita del racconto. In fondo ci dà le informazioni due volte: prima nomina e descrive la manifestazione, poi ci mostra Fabrizio al suo interno (descrivendocela di nuovo, di conseguenza, ma senza l'impatto che potrebbe avere per via delle parole già spese in precedenza); prima nomina e descrive il disagio di Fabrizio con i coetanei, poi ce lo mostra nel flashback in cui ricorda l'intervento di Gavino in sua difesa. Il mio consiglio, quindi, è di incorporare nella misura strettamente necessaria le descrizioni all'interno delle scene mostrate, andando a evitare così un cappello introduttivo ridondante e che toglie potenza a quanto segue.",
+                "L'altro aspetto che rivedrei riguarda la coerenza interna di Fabrizio. All'inizio lo descrivi come uno che non gliene importa nulla della manifestazione, così incurante da dire:",
+                "Se, al contrario, Fabrizio non fosse così avulso dal contesto nel profondo del suo animo, se nutrisse il suo bisogno di appartenenza anche su quel fronte, ecco che si otterrebbe un personaggio più tridimensionale e coerente. Il fatto che venga trascinato in una manifestazione di cui non gliene fregava nulla mosso dalla sola vista di Gavino, a mio avviso, non è abbastanza. Un protagonista che non vede l'ora di essere coinvolto nel contesto dei suoi coetanei, e a prescindere dalle conseguenze, è un tema narrativo forte, e si sposa benissimo con la tua storia, con i tuoi intenti e con il subplot emotivo tra Fabrizio e Gavino.",
+                "Vedi un po' cosa ne pensi. Per me vale la pena di rimetterci le mani."
+            ],
+            "timestamp": "2019-10-26T11:08:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44939-non-avere-paura//?do=findComment&comment=795587"
+        }
+    ],
     "text": [
         "Mi chiamo Fabrizio. Ricordo che ero in seconda al liceo Artistico in quell’autunno di tanti anni fa. Mi piaceva disegnare, ma confrontandomi con gli altri mi ero reso conto di avere molte lacune, e non solo scolastiche. Una timidezza al limite della follia a pensarci oggi: avevo paura anche della mia ombra, non riuscivo a legare con nessuno, non un amico e di ragazze nemmeno a parlarne. Finché ero alle medie me l’ero cavata, ma ora non ce la facevo.",
         "Ero uscito di casa come al solito, se avessi saputo che quel giorno ci sarebbe stata una manifestazione non sarei andato a scuola. Non mi importava niente di cortei e politica, ero troppo impegnato a risolvere i miei problemi, che non erano pochi. Il dramma iniziava già durante il tragitto sul tram. Era facile per un gruppo unito trovare una vittima isolata con cui divertirsi e sentirsi forti. Pregavo sempre che continuassero a fare gli scemi con le ragazze, così passava il tempo, ma proprio per far vedere alle ragazze quanto valevano era diventato un rito che se la prendessero con me. Io cercavo di andare più avanti verso l’autista, per evitare di essere martoriato; ancora mi fidavo degli adulti come nelle favole, ma nessun autista, per quanto gli andassi vicino, prese mai le mie difese. Perché avrebbe dovuto farlo?",
