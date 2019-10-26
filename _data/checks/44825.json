@@ -46,7 +46,7 @@
     },
     "num_chars": 833,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 792364,
@@ -88,6 +88,22 @@
             ],
             "timestamp": "2019-10-17T20:52:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44825-lp-5-il-jazz-club//?do=findComment&comment=793628"
+        },
+        {
+            "post_id": 795621,
+            "text": [
+                "Ciao , non piace neanche a me"
+            ],
+            "timestamp": "2019-10-26T12:53:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44825-lp-5-il-jazz-club//?do=findComment&comment=795621"
+        },
+        {
+            "post_id": 795638,
+            "text": [
+                ", quando scrivo cose buone, di solito è per via un bisogno impellente, che mormora per giorni, si ferma in un'immagine, due parole e a un tratto esce. Poi, magari la sistemo, riscrivendola un paio di volte, subito dopo, togliendo per lo più. Qui l'affare era diverso. C'era un contest e io, certo, nella traccia ho rivisto un jazz club e una figura e l'ho scritta in poco tempo, ma era affare passato, un'immagine vecchia di qualche anno, un paio forse, ormai aveva perso necessità. Non credo la sistemerò, tutt'al più ne riscriverò un'altra."
+            ],
+            "timestamp": "2019-10-26T13:34:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44825-lp-5-il-jazz-club//?do=findComment&comment=795638"
         }
     ],
     "post_staff": [],

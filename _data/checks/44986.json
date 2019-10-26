@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.4533333333333333,
+        "valid": 0.46637362637362634,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.4533333333333333
+                "valid": 0.46637362637362634
             },
             "text": [
                 [
@@ -34,6 +34,10 @@
                     "5) Diverse parti su cui poter lavorare per rendere più scorrevole il tutto",
                     "6) Interessante infine il tema scelto",
                     "Alla prossima!"
+                ],
+                [
+                    "Ma no dai ! Se l'hai scritta di getto ha solo bisogno di un poco di editing che potrai maturare ed elaborare con il tempo. Il tema trattato è interessante.",
+                    "Un saluto"
                 ]
             ],
             "timestamp": "2019-10-26T08:54:28Z",
