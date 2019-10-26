@@ -63,9 +63,40 @@
     },
     "num_chars": 4535,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795500,
+            "text": [
+                "la bolognesità ha colpito ancora?",
+                "in questo capitolo intendi, giusto?",
+                "sono sicura di averlo usato almeno una volta ncora, credo nei primi capitoli, in un discorso sulle ragazze che decidono di tornare nei loro paesi dove tutti le guardano come puttane perché sanno cosa facevano in Italia. In una frase di non riscatto insomma.",
+                "be', Jessy ha promesso a Erika di chiamare Rosa in fondo, si può sospettare che Jessy sia andata da Rosa da sola, o no?",
+                "Grazie caro"
+            ],
+            "timestamp": "2019-10-26T05:15:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=795500"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795500,
+            "text": [
+                "la bolognesità ha colpito ancora?",
+                "in questo capitolo intendi, giusto?",
+                "sono sicura di averlo usato almeno una volta ncora, credo nei primi capitoli, in un discorso sulle ragazze che decidono di tornare nei loro paesi dove tutti le guardano come puttane perché sanno cosa facevano in Italia. In una frase di non riscatto insomma.",
+                "be', Jessy ha promesso a Erika di chiamare Rosa in fondo, si può sospettare che Jessy sia andata da Rosa da sola, o no?",
+                "Grazie caro"
+            ],
+            "timestamp": "2019-10-26T05:15:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=795500"
+        }
+    ],
     "text": [
         "«Io credo che lei sappia benissimo da cosa scappa e verso cosa si dirige. Per una qualche ragione non è un argomento che può affrontare con noi; magari con te sì».",
         "«Se solo riuscissimo a trovare la maniera di indurla a chiamarmi», dice Rosa pensierosa. «Fammi parlare con gli altri volontari e con Betty, magari ci viene un’idea».",
