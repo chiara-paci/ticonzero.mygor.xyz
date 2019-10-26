@@ -12,12 +12,86 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.5,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "spulcio per pubblicare!",
+                    "Non so, ma lei non fa domande...",
+                    "C’è una finestra sola, davanti al letto. Le stecche delle persiane lasciano filtrare un po’ di luce, poca. Il volto di MJ è proprio davanti al suo, ma non distingue i particolari. Solo il respiro sulla pelle e il profilo crespo dei capelli. Può immaginare i suoi occhi intenti a scrutarlo dall’ombra, fino a che avanza e ci sta dentro anche lui.",
+                    "Forse puoi togliere \"stecche\" Dalle persiane suggerisce la stessa immagine e toglie la durezza della parole \"stecche\", che poco sposa il resto. Vedi tu.",
+                    "«Cos’è che volevi fermare?» le chiede più tardi, quando è uscita dal letto.",
+                    "«Il tempo, stupido» risponde brusca, rivestendosi in fretta. Per quanto MJ si sia ammorbidita un bel po’, a volte recupera in parte lo sprezzante individualismo molto americano che le è stato inculcato durante l’infanzia, nel Colorado. «Intendevo il tempo, ma tu sei andato avanti, come al solito.»",
+                    "Lo hanno fatto insieme, ma è una colpa che Edgardo si prende volentieri, come tutti gli uomini.",
+                    "Non capisco a cosa si riferisce \"sei andato avanti come al solito\".",
+                    "Fermare il tempo …Edgardo ci pensa ancora, all’aeroporto.",
+                    "Refuso dopo i puntini",
+                    "Fermarlo dove, Mary Jane?",
+                    "Fra i tuoi capelli più giovani, di bambina, di ragazza? E i baci di oggi, dove li mettiamo?»",
+                    "Fermarlo fra i miei capelli, di adulto? No, scivolerebbe via dato che sono sempre più radi.",
+                    "«Fermarlo dove, quindi?»",
+                    "«Fermare cosa?» gli chiede la donna anziana di colore con la bandana, seduta al suo fianco, e lui si rende conto di aver dato voce ai pensieri.",
+                    "«Mi scusi.»",
+                    "Guarda, io toglierei giovani, perché si capisce bene dalle parole seguenti. E taglierei quello che ho grassettato. Vedi tu.",
+                    "«Dica pure, sono curiosa.»",
+                    "«Intendevo il tempo.»",
+                    "«Ah. Non so risponderle, allora. Io vengo qui a vedere gli aerei e la gente che li prende, tutti i giorni. I miei sono tutti uguali, quindi in un certo senso è come io se lo avessi già fermato, il tempo.»",
+                    "Bello.",
+                    "Fermare il tempo…",
+                    "Edgardo sta scrivendo un romanzo. Ora che ha cominciato non può fermarsi. Semmai quando lo avrà finito, ma in genere si sente di merda quando lo ha finito. Dopo aver realizzato quello che per quasi due anni è stato il suo obiettivo di vita, nel momento in cui quell’obiettivo si esaurisce sente un grande vuoto dentro di sé. Non è proprio il caso di fermare il tempo in quel momento. Meglio aspettare che ne abbia cominciato un altro, di romanzo, e che il suo umore sia di nuovo migliorato. A quel punto, però, siamo d’accapo.",
+                    "Edgardo sospira e spegne il computer. Non è un giorno per scrivere, quello. È un giorno di riflessioni, per giunta baciato dal sole. Dopo sei ore di pioggia, il piccolo terrazzo fiorito dell’attico in affitto a Des Moines, Iowa, è un tripudio di luce, colore e calore. Gli mancherà quel piccolo monolocale e quel quartiere tranquillo, quando si ricongiungerà a MJ, nel suo appartamento di New York, alla scadenza dell’anno di docenza universitaria. Esce sul terrazzo e siede fra gli oleandri e il rosmarino, con un libro accanto sul quale i pensieri, quel giorno, hanno la precedenza.",
+                    "«Che domande ti fai, Edgardo?» gli ha detto il collega in sala docenti, con un tono di rimprovero. «Non te l’avevo forse già spiegato poco tempo fa?»",
+                    "«Non credo.»",
+                    "Holmes ha settant’anni e soffre di una disfunzione della memoria al contrario: invece di dimenticare le cose, ne ricorda più di quelle che sono realmente accadute. Insegna filosofia da quando Edgardo giocava ancora con i soldatini. Ha sangue irlandese nelle vene - oltre a un bel po’ di birra di cui fa rifornimento ogni sera, al pub – ed è piuttosto collerico. Meglio non contraddirlo, soprattutto quando si infervora su di una qualche teoria.",
+                    "«Il futuro esiste?» gli ha chiesto",
+                    "«Direi di no.»",
+                    "«Diresti bene, perché è soltanto una proiezione della nostra mente. È il passato, esiste?»",
+                    "«Be’, parliamo di cose accadute, reali.»",
+                    "«Che però non esistono più, o perlomeno soltanto qui dentro» ha detto, indicando con un dito l’interno del proprio cranio. «Un’altra proiezione. Ci siamo, fin qui?»",
+                    "«Credo di sì.»",
+                    "«Se il futuro non esiste e nemmeno il passato, non ha molto senso parlare di presente, non trovi?»",
+                    "«In effetti.»",
+                    "«Cosa ti avevo detto? Il tempo non esiste!»",
+                    "Forse, dico forse, aiuterei a individuare in qualche passaggio le voci del dialogo.",
+                    "Mi hai fatto pensare a La vida es sueno , di Calderón de la Barca",
+                    "Ethel è la sua prima figlia. Una delle vittime della strage di Columbine, nel Colorado. Il preludio della fine del suo primo e ultimo matrimonio, parole sue.",
+                    "Perché il presente e non \"era\"?",
+                    "«Ti credo, MJ.»",
+                    "«Ma tu sei d’accordo con lui?»",
+                    "«È una teoria affascinante, tutto qua.»",
+                    "Mentre la tiene accanto a sé – più tardi, nel motel, con addosso ancora i cappotti pieni di sale - Edgardo pensa che sì, forse Holmes ha ragione, forse il tempo non esiste. È solo un fantasma capace di apparire in mezzo alle conversazioni più stupide, quando meno te l’aspetti. MJ si è addormentata con le dita sulla barba, vicino alla bocca, come uccellini in cerca del calore del suo respiro.",
+                    "Se l'uccellino è MJ, allora c'è un refuso: come un uccellino.",
+                    "Se uccellini si riferisce alle dita, come io credo, allora dovresti rivedere la frase, perché il soggetto non sono le dita, ma MJ. Mi sembra che qualcosa strida nella frase... Vedi tu.",
+                    "«Non lo possiamo fermare il tempo…» Le parole si intrufolano lente come bruchi, fra i peli del petto, e poi spariscono.",
+                    "Molto bella la frase, toglierei la virgola dopo \"bruchi\".",
+                    "«Non possiamo lasciarle accese, tesoro. Si consumano, per niente.»",
+                    "Per niente? A lui piacciono, non è per niente.",
+                    "Bello.",
+                    "«Lo so…» la coscienza di Edgardo si affaccia sul sogno e la sua voce, nel silenzio della camera, nei primi minuti dell’alba, sembra venire da un altro mondo.",
+                    "«…ti riferivi ai compleanni, e fu inutile, non smisi di piangere…» mormora, gli occhi ancora chiusi. «Avresti dovuto…»",
+                    "«…parlarmi d’amore» sussurra MJ.",
+                    "Non è stato facile trovare qualcosa da spulciare.",
+                    "Mi è piaciuto il tuo racconto. È soffiato. Mi è piaciuto molto il finale e la sospensione che regna nel testo. Ho trovato qualche passaggio lungo, qualche frase anche, ma neanche te l'ho evidenziato.",
+                    "Prendi quello che ti serve e butta il resto.",
+                    "Grazie per averlo condiviso.",
+                    "Due fiori."
+                ]
+            ],
+            "timestamp": "2019-10-26T14:52:09Z",
+            "title": "È solo il giorno del tuo compleanno",
+            "url": "https://www.writersdream.org/forum/forums/topic/44610-%C3%A8-solo-il-giorno-del-tuo-compleanno//?do=findComment&comment=795671",
+            "weight": 1
+        },
         {
             "checks": {
                 "timestamp": true,
@@ -91,7 +165,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -99,7 +173,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 15774,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 3,
     "post_after": [
         {
