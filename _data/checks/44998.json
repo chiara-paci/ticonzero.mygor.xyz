@@ -1,0 +1,115 @@
+{
+    "author": {
+        "author_id": 9678,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "M.T.",
+        "url": "https://www.writersdream.org/forum/profile/9678-mt/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "toglierei la virgola",
+                    "Avevo dormito a malapena e pioveva a dirotto; inoltre, avevo addosso una sensazione che non riuscivo a spiegare: una sorta di angoscia che non mi permetteva di pensare lucidamente e di prendere parte alla mia quotidianità, per quanto monotona e abitudinaria fosse.",
+                    "non è un po' presto visto che è morto da poco?",
+                    "più che incognita, la morte è una certezza: tocca a tutti.",
+                    "«Sono in ritardo?» domandò una voce esuberante alle mie spalle mentre il neon sfarfallava nuovamente, spaurendomi",
+                    "«No», dissi ad Amanda, apprestandomi a compiere l'ingrato e tetro, ma necessario, rituale.",
+                    "Mi sembra esagerata come descrizione, visto che è morto da poco. A meno che non ci sia altro per giustificare la sua condizione.",
+                    "«Perché, che cosa ho detto di male? Non può mica sentirci. E poi è quello che pensi anche tu: ce l’hai scritto in faccia» mi provocò.",
+                    "Dopo la chiusura delle virgolette non ci va la virgola; va messo a posto anche in altre parti del testo.",
+                    "Questa parte è spiegata e mi sembra d'immissione forzata.",
+                    "Infodump.",
+                    "il viso",
+                    "L'idea che sta alla base della storia mi è piaciuta. La prima parte e il finale vanno bene, mentre porrei maggiore attenzione sulla parte centrale, che spezza la tensione, soprattutto con gli infodump; rivedrei anche i dialoghi che non aiutano a creare atmosfera."
+                ]
+            ],
+            "timestamp": "2019-10-26T15:02:56Z",
+            "title": "[H2019] Appuntamento con la morte",
+            "url": "https://www.writersdream.org/forum/forums/topic/44971-h2019-appuntamento-con-la-morte//?do=findComment&comment=795674",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 8000,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795725,
+            "text": [
+                "Titolo modificato su richiesta dell'autore."
+            ],
+            "timestamp": "2019-10-26T17:37:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795725"
+        }
+    ],
+    "text": [
+        "T﻿raccia n.2: Il pozzo﻿",
+        "Ero ritornato nella valle del Canto del Diavolo perché avevo sentito dire che in fondo a un pozzo, che conoscevo, c’erano delle grotte stupende da esplorare. Un tempo vi scorreva un fiume sotterraneo ma, dopo il terremoto di trenta anni fa, il suo corso era stato deviato, lasciando libero accesso a meraviglie inesplorate.",
+        "Non capivo come si potesse sapere che ci fossero meraviglie se non erano state esplorate. Non mi ricordavo nemmeno chi me lo disse; forse era stata una voce sentita per strada. Tutto quello che per me contava, appassionato di speleologia, era poter vedere quelle grotte.",
+        "Così, una domenica, raggiunsi il pozzo di quella casa nel bosco che da bambini spaventava i miei amici. Era soltanto un vecchio podere abbandonato da decenni, ma la sua aria decrepita faceva galoppare la fantasia. “Non aprite quella porta” sussurravano con voce roca i miei amici, ridendo e dandosi delle spinte per esorcizzare la paura che non volevano ammettere di avere. “Il poltergeist ci sta guardando” sghignazzavano lanciando veloci occhiate alle finestre dell’edificio da oltre lo steccato. Non ho mai capito perché non l’hanno mai superato; forse era perché erano suggestionati dalle pellicole di mostri e compagnia brutta che avevamo visto; forse perché non volevano che la casa andasse a perseguitarli dal profondo della notte nei loro incubi se si fossero avvicinati troppo. A me quel posto non faceva paura, forse perché ho sempre creduto che i mostri fossero altri.",
+        "Sorrisi ripensando al passato mentre sistemavo l’attrezzatura per scendere nel pozzo. La discesa fu semplice. Arrivato sul fondo, sganciai la corda dall’imbracatura, accesi la torcia e cominciai a esplorare i dintorni.",
+        "Seguii quello che era stato il letto del fiume per forse mezzo chilometro prima d’incontrare le grotte. Mossi la luce tutt’intorno, ma non c’era nulla di meraviglioso: tutto era di un grigio plumbeo e sembrava di essere all’interno di un gigantesco alveare.",
+        "Continuai la discesa nelle tenebre anche se c’era qualcosa che mi diceva di stare allerta.",
+        "E poi, all’improvviso, furono attorno a me.",
+        "L’istinto prese il sopravvento. Provai a scappare, ma scivolai e finii lungo disteso per terra.",
+        "Mi aspettai che decine di loro calassero su di me staccandomi la carne dalle ossa.",
+        "Invece rimasero fermi a fissarmi; uno di loro si diresse un paio di metri davanti a me, prendendo lo smartphone che era uscito dalle mie tasche. Lo vidi prendere contro il tasto d’accensione e la luce dello schermo riflettersi sul suo corpo; gli altri gli si fecero vicini.",
+        "Quando si rispense, presero a borbottare tra loro. Pensai che fosse finita, che non avrei più rivisto Annabelle e sarei incorso nello stesso destino di Chucky.",
+        "Poi, quello che teneva in mano lo smartphone si voltò verso di me, porgendomelo e facendo dei cenni; capii che voleva che lo facessi ripartire.",
+        "Tutti mi si assieparono attorno. Sentii il loro odore di terra bagnata, il loro fiato che sembrava il respiro del diavolo. Feci vedere tutti i video che avevo; feci ascoltare le canzoni scaricate. Sapevo di star posticipando la mia fine, ma una parte di me voleva aggrapparsi all’illusione che sarei riuscito a venirne fuori.",
+        "Poi la batteria si scaricò e lo schermo si fece buio. Il silenzio calò come se fossi in un cimitero vivente.",
+        "Una vocina nella mia mente prese a cantare “Riesci a sentire la paura? Riesci a sentire la paura?”. Ma in quel momento non provavo niente.",
+        "Nell’aria risuonò un gorgoglio che si faceva sempre più insistente. Poi uno di loro mi toccò.",
+        "“Ecco, è la fine” pensai.",
+        "Ma visto che la fine non giungeva, alzai lo sguardo. Quello che aveva raccolto lo smartphone lo indicava, poi indicava me, passando a fare cenni prima verso la direzione dalla quale ero arrivato e poi verso di loro. Non faceva che ripetere quei gesti.",
+        "Capii che voleva che portassi altri smartphone da loro.",
+        "Incredulo dall’inaspettata piega presa degli eventi, feci cenno di sì. Ritornai alla corda senza che nessuno mi seguisse; risalii il pozzo, felice di sfuggire a quel mondo di tenebre, promettendomi di non mettere più piede in una grotta.",
+        "Ventotto giorni dopo ero ancora intento ad accontentare i loro desideri, portandogli quanto volevano. Forse era stata riconoscenza per avermi risparmiato, forse perché li vedevo come una specie desiderosa di scoprire un mondo così diverso dal loro, privo di qualsiasi sfumatura e divertimento. Anche se gli artigli dei piedi e i pungiglioni che uscivano dalle mani facevano intendere che erano predatori temibili, non li avvertivo come una minaccia.",
+        "Solo una volta, quando uno di loro mi si avventò contro, provai paura; ma gli altri gli furono addosso prima che mi toccasse, facendolo a pezzi.",
+        "Da allora, furono ancora più gentili con me, specialmente quello che per difendermi aveva perso un occhio; da quel momento ebbi sempre una scorta che teneva lontano i membri della specie che non mi conoscevano. Anche se delle grotte avevo esplorato solo la parte iniziale, supposi che dovevano essercene decine, forse centinaia, di quelle creature dai corpi biancastri che potevano cambiare dimensione, adattandosi allo spazio che avevano a disposizione. Erano però i loro occhi a esercitare il fascino maggiore su di me: c’era un’intelligenza che si faceva umana ogni giorno di più. E poi in quelle pupille c’era una luccicanza che mi ricordava qualcosa, ma che non riuscivo a focalizzare: quando le fissavo, avvertivo una strana pace, non mi sentivo fuori posto come in quel villaggio dei dannati che era il paese in cui abitavo.",
+        "Fu proprio quella luccicanza che un giorno cambiò tutto.",
+        "Stavo camminando per andare al lavoro quando urtai un uomo. Subito mi scusai, ma l’altro mi fece l’occhiolino con l’occhio cieco, mentre la pupilla dell’altro luccicò in maniera inconfondibile. Poi sorrise e si allontanò, lasciandomi di sasso in mezzo al marciapiede.",
+        "Feci per seguirlo ma una fitta al braccio mi costrinse ad abbassare lo sguardo: sulla mano avevo un bozzo, segno di qualcosa di grosso che mi aveva punto. Un lieve capogiro mi fece ondeggiare; ci fu un lampo e mi rividi bambino in una grotta. Quando mi ripresi, era sparito nella folla.",
+        "Colto da angoscia, tornai a casa, presi auto, attrezzatura e andai al pozzo. Una volta sottoterra non potei che costatare la realtà: non c’era più nessuno. La scoperta più sconvolgente però fu che in una delle grotte più profonde c’era un gigantesco cumulo di corpi umani completamente scuoiati; un altro lampo mi fece vedere come si erano vestiti di quelle pelli.",
+        "Tutto mi fu chiaro: mi avevano usato per sapere come muoversi tra la gente, così da mescolarsi in mezzo a essa senza destare sospetti e colpirla quando meno se lo aspettava. Lupi travestiti da pecora che restavano in fremente attesa per ghermire la preda. Inconsapevolmente, avevo condannato la nostra razza a una fine brutale. Dovevano essere fermati, ma non sapevo come fare, né come avvertire le persone del pericolo che correvano.",
+        "Impotente, tornai a casa. La testa aveva ripreso a girare. Ebbi un altro lampo: vidi me stesso bimbo urlare mentre dita bianche mi afferravano. Guardai la mano: il bozzo era sparito. Mi diressi in bagno. Riempii il lavandino d’acqua e fissai lo specchio. Un baluginio familiare corse nelle mie pupille.",
+        "Allora ricordai tutto. Di come da cucciolo fui fatto vivere assieme a un piccolo umano perché imparassi a comportarmi come lui in tutto e per tutto; di come fu scuoiato perché potessi indossare la sua pelle e occupare il suo posto nella società umana. Di come i ricordi sulla mia natura fossero cancellati prima di essere mandato in mezzo agli uomini per apprendere i loro costumi, con l’ordine inconscio immesso nel mio cervello di ricordarmi delle grotte sotto il pozzo al mio trentacinquesimo anno di età, quando sarei dovuto ritornare per insegnare agli altri.",
+        "Alzai la mano e mi strappai la faccia, guardando per la prima volta il mio vero volto.",
+        "Sentii al pianterreno la porta dell’ingresso aprirsi. «Caro, sono tornata.» Uscii dal bagno e scesi di sotto.",
+        "Le urla cominciarono."
+    ],
+    "timestamp": "2019-10-26T17:01:59Z",
+    "title": "[H2019] Ciò che viene dal profondo",
+    "topic_id": 44998,
+    "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo/"
+}
