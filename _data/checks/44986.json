@@ -1,0 +1,75 @@
+{
+    "author": {
+        "author_id": 34015,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Totem",
+        "url": "https://www.writersdream.org/forum/profile/34015-totem/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.4533333333333333,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4533333333333333
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Commento da amante e frequentatore da circa 40 anni di locali dove si suona jazz :",
+                    "1) Non mi sono ritrovato immerso in atmosfere a me familiari",
+                    "2) Una poesia in prosa di scarso livello estetico",
+                    "3) Assolutamente priva di ritmo",
+                    "4) Bella l'intuizione della vecchia signora. anche se nella sua descrizione si percepisce una immagine costruita partendo da \"Crudelia Demon\" e non viceversa",
+                    "5) Diverse parti su cui poter lavorare per rendere più scorrevole il tutto",
+                    "6) Interessante infine il tema scelto",
+                    "Alla prossima!"
+                ]
+            ],
+            "timestamp": "2019-10-26T08:54:28Z",
+            "title": "[LP 5] Il Jazz Club",
+            "url": "https://www.writersdream.org/forum/forums/topic/44825-lp-5-il-jazz-club//?do=findComment&comment=795535",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 237,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Festa",
+        "Pletora umana",
+        "in abiti desueti",
+        "Occhi stanchi, conditi",
+        "da sorrisi di cromatina",
+        "Discorsi pleonastici",
+        "su irrilevanti argomenti",
+        "Sfoggio strategico",
+        "da rintuzzare",
+        "--------------------------",
+        "Si insinua un dubbio:",
+        "“cosa cazzo avranno da festeggiare?”"
+    ],
+    "timestamp": "2019-10-26T09:35:11Z",
+    "title": "Festa",
+    "topic_id": 44986,
+    "url": "https://www.writersdream.org/forum/forums/topic/44986-festa/"
+}

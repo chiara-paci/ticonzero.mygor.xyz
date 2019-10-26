@@ -16,7 +16,7 @@
         "valid": 1.0,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 795196,
@@ -91,7 +91,24 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795508"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 795550,
+            "text": [
+                "Intervento di moderazione",
+                "Conoscete tutti il regolamento e lo spirito dell'officina dove va evitato qualsiasi atteggiamento polemico. Stiamo valutando la richiesta di .",
+                "Intanto invito tutti a non replicare pubblicamente e a limitarsi a fare dei commenti secondo il regolamento.",
+                "Per il momento chiudo questa discussione."
+            ],
+            "timestamp": "2019-10-26T09:12:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795550"
+        }
+    ],
     "text": [
         "Traccia 4: Turno di notte all'obitorio",
         "Turno di notte",
