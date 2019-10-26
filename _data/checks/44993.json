@@ -54,8 +54,19 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795747,
+            "text": [
+                "grazie",
+                "Sì, ultimamente bisticcio coi titoli",
+                "P.s. direi che la tua interpretazione è azzeccata"
+            ],
+            "timestamp": "2019-10-26T19:41:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795747"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia: incubi",
