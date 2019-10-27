@@ -48,7 +48,7 @@
     },
     "num_chars": 5569,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 795574,
@@ -60,6 +60,14 @@
             ],
             "timestamp": "2019-10-26T10:27:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=795574"
+        },
+        {
+            "post_id": 795808,
+            "text": [
+                "ciao e grazie per il tuo commento. Il mio intento nel finale era ironico-macabro nel far reagire la moglie del protagonista come se niente fosse alla strage compiuta dal marito, dato che la sua unica reazione è stata quella di consigliare al malcapitato protagonista di cambiare genere letterario. Mi dispiace se ho in qualche maniera disatteso le tue aspettative finali."
+            ],
+            "timestamp": "2019-10-27T10:03:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=795808"
         }
     ],
     "post_staff": [],
