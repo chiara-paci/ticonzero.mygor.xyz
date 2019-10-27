@@ -56,6 +56,9 @@
                     "al suo Dio, ed io",
                     "sfido il mio!",
                     "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
+                ],
+                [
+                    "Grazie per la tua esaustiva spiegazione, e' bellissimo fare parte di voi, spero di leggerti ancora"
                 ]
             ],
             "timestamp": "2019-10-14T22:44:35Z",
@@ -101,6 +104,9 @@
                     "al suo Dio, ed io",
                     "sfido il mio!",
                     "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
+                ],
+                [
+                    "Grazie per la tua esaustiva spiegazione, e' bellissimo fare parte di voi, spero di leggerti ancora"
                 ]
             ],
             "timestamp": "2019-10-14T22:44:35Z",
@@ -118,8 +124,17 @@
     },
     "num_chars": 605,
     "num_commenti": 2,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 795834,
+            "text": [
+                "Ti ringrazio per i tuoi bei commenti, spero di scrivere presto qualcosa di nuovo ed altrettanto fresco, vado fra 4 gg ad ispirarmi al mare e farmi passare una bruttissima bronchite e vedo di produrre. Amo troppo la poesia e la scrittura, non riesco piu' a farne a meno come l'aria, grazie di cuore!"
+            ],
+            "timestamp": "2019-10-27T13:49:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44890-il-colore-del-mare-nuova-versione//?do=findComment&comment=795834"
+        }
+    ],
     "post_staff": [
         {
             "author": {
