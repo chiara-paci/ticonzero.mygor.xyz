@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 794946,
@@ -184,6 +184,32 @@
             ],
             "timestamp": "2019-10-27T09:07:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795796"
+        },
+        {
+            "post_id": 795917,
+            "text": [
+                "Già, ma non si tratta di una persona,",
+                "Il racconto è buono, ma per essere horror ha bisogno di un altro approccio.",
+                "Ti ringrazio comunque per i suggerimenti e consigli che ho apprezzato."
+            ],
+            "timestamp": "2019-10-27T18:09:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795917"
+        },
+        {
+            "post_id": 795919,
+            "text": [
+                "ah, mi pareva strano..."
+            ],
+            "timestamp": "2019-10-27T18:12:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795919"
+        },
+        {
+            "post_id": 795921,
+            "text": [
+                "Per me è un piacere scrivere e i Contest mi piacciono perché mi lanciano tracce che riescono sempre a ispirarmi. E per me esserci è un successo!"
+            ],
+            "timestamp": "2019-10-27T18:14:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=795921"
         }
     ],
     "post_staff": [],

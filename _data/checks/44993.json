@@ -54,7 +54,7 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 795747,
@@ -65,6 +65,15 @@
             ],
             "timestamp": "2019-10-26T19:41:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795747"
+        },
+        {
+            "post_id": 795910,
+            "text": [
+                "grazie, e a presto.",
+                "Sì forse il genere esige un tocco fantastico che porti al di fuori dalla realtà, ma mi ritrovo molto in quello che dici, ovvero che le paure vere sono quelle reali. Ho sempre immaginato l'eventualità, che ne so, di investire per sbaglio qualcuno come un vero un incubo"
+            ],
+            "timestamp": "2019-10-27T17:50:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795910"
         }
     ],
     "post_staff": [],
