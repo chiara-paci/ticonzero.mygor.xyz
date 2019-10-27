@@ -55,8 +55,20 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 795830,
+            "text": [
+                "se non ricordo male, ne ho messe quattordici. Chissà se anche altri le individueranno",
+                "Anche secondo me. Però poi c'è sempre quello che salta fuori e chiede perché i corpi sono stati scuoiati, perché hanno usato la pelle, perché si mimetizzano. Chi ha letto e visto horror lo capisce subito; per altri, non è così scontato. O ci si becca del criptico o che si spiega troppo; insomma, non si fa mai bene per tutti.",
+                "Perché può utilizzare qualsiasi pelle: il suo corpo può adattarsi a qualsiasi \"contenitore\" umano.",
+                "Se non avessi messo questa scena, qualcuno poteva obiettare che poteva essere sotto l'effetto della puntura, che fosse un'allucinazione quella che stava vivendo, mentre volevo che non ci fossero dubbi su questo."
+            ],
+            "timestamp": "2019-10-27T12:59:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795830"
+        }
+    ],
     "post_staff": [
         {
             "author": {
