@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 795830,
@@ -94,6 +94,14 @@
             ],
             "timestamp": "2019-10-27T19:27:22Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795949"
+        },
+        {
+            "post_id": 795953,
+            "text": [
+                "Esatto! 9/14"
+            ],
+            "timestamp": "2019-10-27T20:04:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795953"
         }
     ],
     "post_staff": [

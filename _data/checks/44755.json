@@ -58,7 +58,7 @@
     },
     "num_chars": 2983,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 791353,
@@ -125,6 +125,19 @@
             "text": [],
             "timestamp": "2019-10-10T20:46:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44755-intanto-nascondo-i-nomi-e-poi%E2%80%A6//?do=findComment&comment=792049"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 795954,
+            "text": [
+                "In effetti abbiamo trovato diversi post in officina contenenti dei punti reputazione. Ricordo a tutti che non si possono in questa sezione."
+            ],
+            "timestamp": "2019-10-27T20:09:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44755-intanto-nascondo-i-nomi-e-poi%E2%80%A6//?do=findComment&comment=795954"
         }
     ],
     "text": [
