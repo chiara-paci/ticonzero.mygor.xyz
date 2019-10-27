@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 795830,
@@ -67,6 +67,33 @@
             ],
             "timestamp": "2019-10-27T12:59:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795830"
+        },
+        {
+            "post_id": 795943,
+            "text": [
+                "non ti do torto, lo dicevo in chat nei giorni scorsi; la nota simpatica del racconto è aver reso omaggio al genere citando pellicole di genere. Sarebbe interessante vedere quante vengono trovate da chi legge."
+            ],
+            "timestamp": "2019-10-27T19:10:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795943"
+        },
+        {
+            "post_id": 795947,
+            "text": [
+                "Mi auto cito e quasi quasi mi vien da aprire un mini contest nel contest: individuare quali film ho citato.",
+                "Cosa si vince?",
+                "Un caz. Tradotto dal dialetto: un bel niente. Ma l'importante è divertirsi, no? ( )"
+            ],
+            "timestamp": "2019-10-27T19:25:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795947"
+        },
+        {
+            "post_id": 795949,
+            "text": [
+                "mi hai preceduto di pochi secondi nel fare l'annuncio",
+                "Non male per una non appassionata del genere: ne hai individuati la metà"
+            ],
+            "timestamp": "2019-10-27T19:27:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=795949"
         }
     ],
     "post_staff": [
