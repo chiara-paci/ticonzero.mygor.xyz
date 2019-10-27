@@ -74,9 +74,38 @@
     },
     "num_chars": 7918,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 795726,
+            "text": [
+                "giusto! Pure io facevo avanti e indietro, ma mi è sfuggito",
+                "Rileggendo mi rendo conto che invece ci sono delle incongruenze, tipo: prima Jessy dice che voleva aspettare Erika per chiamare Rosa, poi invece in una frase scrivo esplicitamente che evidentemente non aspettava altro che essere da sola per chiamarla... bo, mi sa che ci devo lavorare meglio. Scrivere il capitolo conclusivo è difficilissimo, mi sembra di scrivere sciocchezze e ovvietà",
+                "questo mi risolleva lo spirito!",
+                "Buona serata caro , grazie mille"
+            ],
+            "timestamp": "2019-10-26T17:47:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44985-le-ragazze-capitolo-21-12//?do=findComment&comment=795726"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 795726,
+            "text": [
+                "giusto! Pure io facevo avanti e indietro, ma mi è sfuggito",
+                "Rileggendo mi rendo conto che invece ci sono delle incongruenze, tipo: prima Jessy dice che voleva aspettare Erika per chiamare Rosa, poi invece in una frase scrivo esplicitamente che evidentemente non aspettava altro che essere da sola per chiamarla... bo, mi sa che ci devo lavorare meglio. Scrivere il capitolo conclusivo è difficilissimo, mi sembra di scrivere sciocchezze e ovvietà",
+                "questo mi risolleva lo spirito!",
+                "Buona serata caro , grazie mille"
+            ],
+            "timestamp": "2019-10-26T17:47:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44985-le-ragazze-capitolo-21-12//?do=findComment&comment=795726"
+        }
+    ],
     "text": [
         "«Lasciamo la macchina in quattro frecce e speriamo che non ce la portino via, ok?»",
         "«Va bene», concordo con Davide mentre controllo il sito di Treni Italia sul suo cellulare. Mi ostino a non volere internet quando sono fuori casa, ma devo ammettere che in questo caso è utile. «Binario 1, siamo fortunatissimi».",
