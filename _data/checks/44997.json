@@ -174,7 +174,7 @@
     },
     "num_chars": 15774,
     "num_commenti": 2,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 795707,
@@ -268,6 +268,15 @@
             ],
             "timestamp": "2019-10-27T15:03:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44997-il-ginnasta-lepilogo//?do=findComment&comment=795852"
+        },
+        {
+            "post_id": 795895,
+            "text": [
+                "Ti sei fatto capire benissimo. Non so se mi sono spiegata.",
+                "Ciao bello, grazie grazie!"
+            ],
+            "timestamp": "2019-10-27T17:28:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44997-il-ginnasta-lepilogo//?do=findComment&comment=795895"
         }
     ],
     "post_staff": [],

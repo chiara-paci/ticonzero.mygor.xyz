@@ -1,0 +1,59 @@
+{
+    "author": {
+        "author_id": 22545,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Max Friedmon",
+        "url": "https://www.writersdream.org/forum/profile/22545-max-friedmon/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Un bel racconto che ricorda Fahrenheit 451 : un futuro distopico in cui il Potere cerca di sradicare i piaceri della vita (qui il ridere, nel romanzo di Bradbury i libri), ma per fortuna qualcuno resiste... Trovo molto interessante il titolo: leggendo l'incipit ci si aspetta che il protagonista sia l'ultimo testimone di un mondo morente, devastato, appunto, da una pandemia. Invece, e qui è il guizzo originale, la pandemia è qualcosa di positivo, di benefico, che scaturisce alla fine e salva il mondo anziché distruggerlo.",
+                    "Sono perplesso invece sull'uso di un personaggio reale per identficare il Grande Dittatore. Considerando che la storia si svolge in un luogo senza nome, collocarla quasi a forza nella Corea del Nord a parer mio toglie forza al suo valore di apologo, di racconto morale. Meglio sarebbe usare un appellativo generico e far dire al bambino \"Stavo leggendo una biografia del Caro Leader/Grande Leader/Supremo Leader etc\". I protagonisti sanno benissimo di chi stanno parlando e un nome \"vero\" (Kim Jong-Un invece che Bonito Napoloni) direbbe poco al lettore.",
+                    "Come altri ti hanno fatto notare, ci sono diversi problemi con stile e sintassi. Qualche suggerimento: Un Nuovo Ordine, portatore di pace e sicurezza aveva messo al bando la felicità: vietato giocare nelle strade, proibite le sagre, feste e giostre, bandita ogni attività ludica, proibito perfino ridere in pubblico tanto che alla fine, per non sbagliare, si cominciò a non ridere nemmeno fra le mura delle proprie case . E comunque chi avrebbe avuto voglia di ridere, quando la tirannia fa la legge e la paura dilaga ?"
+                ]
+            ],
+            "timestamp": "2019-10-27T16:56:33Z",
+            "title": "Pandemia",
+            "url": "https://www.writersdream.org/forum/forums/topic/40828-pandemia//?do=findComment&comment=795871",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 1177,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Io vagabondo che son io. Una canzone che mi rappresenta perfettamente. Non l'avesse scritta qualcun altro, avrei potuta scriverla io e semplicemente basandomi sulla mia vita, la vita reale quella che morde e ti fa sputare sangue, non quella che trovi sui libri. Che poi chi scrive libri quasi sempre, al novanta per cento diciamo, non sa di cosa parla. Per fortuna che or leggerete il mio, di libro, che parla della vita perché è tratto dalla vita, la mia vita. Io o affrontato la vita a pugni chiusi e l'ho messa al tappeto almeno tante volte quante lei a messo al tappeto me, ma ogni volta mi sono rialzato, come è vero che il sole sorge e tramonta.. e anche lei, la vita intendo, si è sempre rialzata, dopo che l'avevo messo al tappeto, lo ammetto, glielo riconosco: è una brava combattente, la vita intendo, ma io lo sono di più, lo ammetterete quando avrete finito di leggere questo libro. Un libro vero, come la vita, non un libro fatto di libri come ne scrivono tanti, a quello sono buon tutti.",
+        "Comando+W. La stagista chiuse il file di testo, lo trascinò nella cartella “ASSOLUTAMENTE NO” e sospirando un “Che Dio me la mandi buona” si accinse ad aprire un nuovo inedito."
+    ],
+    "timestamp": "2019-10-27T17:24:34Z",
+    "title": "Io vagabondo che son io",
+    "topic_id": 45007,
+    "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io/"
+}
