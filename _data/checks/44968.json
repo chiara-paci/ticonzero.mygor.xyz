@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 795196,
@@ -89,6 +89,14 @@
             ],
             "timestamp": "2019-10-26T07:08:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795508"
+        },
+        {
+            "post_id": 795996,
+            "text": [
+                "Grazie. No, il film non l'ho visto. In questi giorni ho letto una raccolta di racconti di Joe Lansdale e forse questa commistione tra horror e humor è scaturita da alcuni suoi racconti più bizzarri. Ma più che modelli di ispirazione mi intrigava contrapporre al macabro della situazione la strafottenza del narratore."
+            ],
+            "timestamp": "2019-10-28T08:30:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795996"
         }
     ],
     "post_staff": [
