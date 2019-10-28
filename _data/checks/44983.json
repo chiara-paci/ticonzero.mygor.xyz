@@ -48,7 +48,7 @@
     },
     "num_chars": 5569,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 795574,
@@ -68,6 +68,14 @@
             ],
             "timestamp": "2019-10-27T10:03:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=795808"
+        },
+        {
+            "post_id": 796021,
+            "text": [
+                "grazie del tuo commento e di aver apprezzato l'idea del racconto nel racconto. Mi dispiace che il finale non ti sia piaciuto, mi era sembrata una buona idea per dargli un taglio ironico-macabro. Ci rifletterò."
+            ],
+            "timestamp": "2019-10-28T10:13:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=796021"
         }
     ],
     "post_staff": [],
