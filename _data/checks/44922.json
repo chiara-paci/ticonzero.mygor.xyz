@@ -60,7 +60,7 @@
     },
     "num_chars": 4263,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 794259,
@@ -82,7 +82,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=795057"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 796147,
+            "text": [
+                "Ciao tutti, vi rammento che in Officina non è possibile assegnare reazioni e punti reputazione ai commenti."
+            ],
+            "timestamp": "2019-10-28T16:46:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44922-viaggio-onirico-di-una-bolla-di-sapone//?do=findComment&comment=796147"
+        }
+    ],
     "text": [
         "A Caterina piacevano le bolle di sapone. Soffiava nell'anello immerso nel liquido e le osservava mentre volavano in cielo.",
         "Si divertiva molto, rideva saltellando e battendo i denti.",

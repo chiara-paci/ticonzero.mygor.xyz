@@ -12,13 +12,58 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "Non credo di aver mai letto qualcosa di tuo, ma il racconto nel complesso mi è piaciuto.",
+                    "Adesso ti segnalo qualche cosina che mi è sembrata migliorabile, vedi tu se ti può essere utile.",
+                    "Tieni conto che le mie non sono correzioni (non sono in grado di \"correggere\") bensì osservazioni da lettrice, che, seguendo l'orecchio, ti segnalo in modo tu possa riflettere su alcuni passaggi e, se ritieni opportuno, migliorarli.",
+                    "L'incipit di un racconto dovrebbe acchiappare il lettore e incuriosito, così che continui la lettura. Se tu cominci dicendo che il protagonista non ha niente di speciale, non ottieni molto questo effetto.",
+                    "Comunque in generale ho trovato tutto questo paragrafo iniziale un po' \"confusionario\", nel senso sembra che tu non abbia amalgamato le informazioni che volevi passare. Di seguito ti segnalo pezzo pezzo cosa ho trovato meno scorrevole e alla fine del paragrafo ti fornisco una possibile alternativa secondo i miei gusti, per cui dimmi tu se ti può piacere o meno la mia proposta.",
+                    "Perché lo dici in questo modo strano? Basta dire che ha quasi quattordici anni.",
+                    "Io eliminerei il giocare a pallone, che di solito è un'attività che si fa in gruppo e smentirebbe poi il seguito della descrizione. Io mi focalizzarei solo sul discorso fumetti.",
+                    "Quel \"purtroppo\" ha il sapore di un giudizio dell'autore, io lo leverei e rivedrei la punteggiatura di questa frase che segue usando i due punti (vedi più sotto la mia proposta)",
+                    "Questa frase è troppo lunga, dici cose perfettamente comprensibili al lettore. Bastava dire che la madre era preoccupata, il perché è chiaro senza bisogno di spiegarlo.",
+                    "Anche qui si possono omettere le parti selezionate, sono un di più che rendono la lettura un po' troppo \"faticosa\", perché ridondante di soliti concetti.",
+                    "Se dici \"automatica\" la frase che ti ho barrato diventa superflua, è già chiaro al lettore che quella conversazione è una routine.",
+                    "Refuso: così.",
+                    "Inoltre \"rette\" e \"reggere\" sono un'assonanza molto forte, cambierei uno dei due termini.",
+                    "Ecco il riepilogo del paragrafo, secondo le mie osservazioni:",
+                    "Alessio﻿ amava I fumetti; più che leggerli gli piaceva osservare i disegni colorati che invadevano le pagine, ma comunque li leggeva. I supereroi erano i suoi unici amici: gli altri ragazzi della sua età avevano interessi diversi. Ascoltavano la musica, andavano a ballare e baciavano sulla bocca le ragazze; lui no. Preferiva sfogliare quegli albi multicolore e ricopiare i disegni più facili sul quaderno a righe che gli﻿ aveva comprato sua mamma per i compiti di italiano.",
+                    "La madre lo aveva portato da diversi psicologi. Il padre, invece, cercava di tranquillizzare la moglie con le solite frasi: \"E' un ragazzino\", \"Crescerà\". Eppure sua mamma lo aveva trascinato da almeno sette dottori in tre anni.",
+                    "- Mamma, basta portarmi dai dottori, non ho voglia di parlare con uno sconosciuto- si lamentava Alessio agitando per aria le mani, in una della quali teneva stretto un fumetto di Flash.",
+                    "- Lo faccio per il tuo bene, voglio che tu abbia degli amici - rispondeva in maniera automatica la mamma ogni volta che sentiva quelle parole.",
+                    "Il dottore parlò per mezz'ora con Alessio. Il ragazzo gli aveva dato risposte casuali che non rispecchiavano i suoi veri pensieri, lo faceva per dare fastidio alla mamma.",
+                    "Nel tragitto di ritorno verso casa nessuno dei due proferì parola. La mamma guidava fissando la strada attraverso le spesse lenti, rette da una montatura rossa così sottile che sembrava﻿﻿﻿﻿ non riuscire a sopportare i grossi vetri da vista. Il﻿ bambino invece faceva scattare i vivaci occhi color nocciola da una parte all'altra dell'albo di Flash, gli piaceva vedere l'effetto della corsa del supereroe in tutina rossa.",
+                    "Dove ho messo la X, secondo me non ci va la riga bianca, siamo sempre nella stessa scena e prosegue la conversazione.",
+                    "\"Tuo padre ed io\", mi suona meglio.",
+                    "Rovescerei la frase, per renderla più \"snella\" :",
+                    "Quando﻿ si svegliò non diede molta importanza all'accaduto, pensando che fosse un sogno.",
+                    "In questa frase fai un brusco cambio di focalizzazione. Per tutto il racconto, pur usando la terza persona, ci racconti i fatti dal punto di vista di Alessio. Adesso esci \"dalla sua testa\" per spiegare al lettore che lo hanno internato in manicomio. Ora, dato che da quando parli di uomini vestiti di bianco, ma forse già dalle lacrime della madre, si può intuire l'esito della storia, non userei una frase così chiara. Magari direi qualcosa del tipo:",
+                    "Nella casa speciale era pieno di supereroi che prendevano medicine per controllare i loro poteri.",
+                    "Per concludere, il racconto è carino e, dopo l'inizio un po' faticoso, prende il via e scorre piacevolmente. Mi è piaciuto come hai dipinto il carattere dei genitori. Essi, sopratutto il padre, emergono in poche scene ma ti sono bastate per caratterizzarli. Hai reso molto bene anche la mania di Alessio per i superoi. Il finale fantascientifico forse non è necessario, in quanto il racconto è già divertente e gradevole così, ma capisco la necessità di \"salvare\" Alessio dalla follia , è simpatico fin dalle prime righe.",
+                    "Spero di esserti stata utile e ti ringrazio per la lettura.",
+                    "Talia"
+                ]
+            ],
+            "timestamp": "2019-10-28T13:33:25Z",
+            "title": "Il teletrasporto",
+            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=796079",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +71,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7879,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [],
     "post_staff": [],

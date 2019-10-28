@@ -16,7 +16,7 @@
         "valid": 0.7644444444444445,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -46,9 +46,25 @@
     },
     "num_chars": 7730,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 796158,
+            "text": [
+                "ciao, purtroppo il commento che hai allegato non è sufficiente per postare un racconto; anche nella sezione Contest Aperti valgono le stesse regole per postare in Officina, per cui si chiede da parte dell'autore un commento più approfondito.",
+                "Puoi provare a seguire lo schema guida inserito nel regolamento, ti lascio il .",
+                "Per ora chiudo la discussione, appena avrai provveduto a un commento valido per postare, mandane il link per MP a me o a un altro staffer."
+            ],
+            "timestamp": "2019-10-28T17:09:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=796158"
+        }
+    ],
     "text": [
         "Traccia﻿ n.5﻿: Una voce nel buio",
         "Il cigolio del chiavistello attirò l’attenzione degli astanti che si voltarono verso il proprietario della baita.",

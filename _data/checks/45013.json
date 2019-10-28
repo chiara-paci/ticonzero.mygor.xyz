@@ -16,7 +16,7 @@
         "valid": 0.46,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -49,9 +49,25 @@
     },
     "num_chars": 3014,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 796012,
+            "text": [
+                "Hai allegato al racconto quello che qui chiamiamo \"commento lampo\", che non riteniamo sufficiente per abilitare alla pubblicazione di un proprio testo in officina.",
+                "Ti chiediamo, quindi, di fare un commento approfondito e inviarci il link quando lo avrai fatto; provvederemo così alla riapertura del racconto.",
+                "Sul regolamento della sezione Racconti trovi alcune linee guida per un commento adeguato alla pubblicazione."
+            ],
+            "timestamp": "2019-10-28T09:45:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45013-chiedi-alla-notte//?do=findComment&comment=796012"
+        }
+    ],
     "text": [
         "CHIEDI ALLA NOTTE",
         "\"Eccola sta arrivando...\"",

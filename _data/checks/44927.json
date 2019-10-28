@@ -49,7 +49,7 @@
     },
     "num_chars": 7573,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 794491,
@@ -150,6 +150,19 @@
             ],
             "timestamp": "2019-10-23T16:16:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=794997"
+        },
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 796148,
+            "text": [
+                "Ciao tutti, vi rammento che in Officina non è possibile assegnare reazioni e punti reputazione ai commenti."
+            ],
+            "timestamp": "2019-10-28T16:46:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=796148"
         }
     ],
     "text": [
