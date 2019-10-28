@@ -1,0 +1,110 @@
+{
+    "author": {
+        "author_id": 14049,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Emy",
+        "url": "https://www.writersdream.org/forum/profile/14049-emy/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ! Bentrovata. Contenta di farmi da cavia per postare? Certo che sì! Il titolo è favoloso, mi ha incuriosito subito.",
+                    "Interessante incipit, ci catapulta sin da subito nella storia. Non andrei però a capo dopo la prima frase, in quando si tratta sempre della stessa scena e il lettore è già focalizzato sul vecchio. A volte le ripetizioni sono necessarie, per rafforzare un concetto, qui però vedrei meglio un: Il suo sorriso è così ecc. Per me rende meglio il ritmo, poi vedi tu.",
+                    "Non mi convince quel \"dapprima\". Meglio usare un semplice: Prima vomita ecc.",
+                    "Anche qui, come nell'incipit, sei andata a capo. Per me si tratta sempre della stessa scena e quindi dello stesso paragrafo. Unirei.",
+                    "L'animale e il topo sono sinonimi, ma a parte questo, leggendo ho la sensazione che cambi l'oggetto, come se vi fossero un altro animale e un topo. Se posso permettermi, ti suggerirei una piccola modifica (poi vedi tu): L'animale continua a fissarlo dritto negli occhi e un attimo prima di spegnersi per sempre, al vecchio pare di scorgere in lui (oppure nel suo cipiglio, così si mantiene la tua forma) una luce diversa, severa e profonda: ammonitrice.",
+                    "Questi sono i dettagli che vedrebbe una persona esterna. Stai raccontando dal punto di vista del vecchio, per me stona un po' che si autodescriva così. Inoltre, c'è qualcosa che non mi convince nel modo in cui è stata formulata la frase. La modificherei leggermente in: Si dimentica presto del piccolo mistero e percorrendo il vialetto, fiero di se stesso (o qualcos'altro che rende la tua descrizione, il mio è un esempio banale), ripensa alla morte del topo.",
+                    "Mi sembra che manchi qualcosa. Forse il pronome. Io direi: Il vecchio sente il sudore ghiacciarglisi addosso per un'improvvisa ventata gelida.",
+                    "Qui succedono cose un po' troppo in fretta e ho trovato il passaggio leggermente confuso. Sposti all'improvviso l'attenzione del lettore dal vecchio al bambino (nella frase sottolineata) e mi disorienti. Io avevo immaginato che il vecchio, affrettando il passo, lo avesse superato e quindi, come fa, in quel frangente dell'attimo, riuscire a vedere lo sguardo maligno del bambino? Poi con la frase \"Qualcuno te la farà pagare\", sento una certa, come dire, ambiguità. Razionalmente so che si tratta del bambino, è lui che la pronuncia, ma in fin dei conti potrebbe essere, messa così, anche una frase detta dal vecchio. E infine (scusa per la pignoleria eccessiva), mi sembra brusco il passaggio dall'esterno all'interno. Quel \"si fionda sotto la doccia\" per me presuppone che il vecchio sia in prossimità della doccia, non sul vialetto che porta a casa.",
+                    "Vedrei meglio la frase con una piccola modifica: Corre e corre su e giù per tutta la casa finché, esausto, non si trova in cucina.",
+                    "Un racconto dal ritmo serrato, di quelli che piacciono a me. Hai gestito bene le scene (solo eviterei di andare a capo quando non serve), introducendo i personaggi un po' alla volta, ma mantenendo sempre alto il focus sul vecchio. Hai reso bene la sua malvagità e i rapporti che tiene con il vicinato. Ho provato davvero l'ansia nella parte finale, in cui cerca di trovare il veleno. Hai giocato bene sul dualismo presunta senilità/effetto collaterale delle sue stesse azioni. Mi hai fregato alla grande nel finale, ma ho trovato anche una certa, piccola discrepanza tra il modo di presentare la ragazza prima o dopo (insomma mi sembra troppo agile per fare quel tipo di trappola per il vecchio). Mi aspettavo una svolta paranormale diciamo, ma la vendetta ci stava tutta e tutto sommato vi ho trovato anche una morale: chi di spada ferisce, di spada ferisce. Lo stile si conforma al tipo di storia raccontata. A parte quel passaggio confuso e qualche frase che secondo i miei gusti personali si potrebbe modificare, hai fatto una prova niente male anche da quel punto di vista. Non so quanto è horror, non è proprio il mio genere, ma mi ha dato parecchi brividi, quindi promossa! Azzeccata in pieno anche la traccia. Brava."
+                ]
+            ],
+            "timestamp": "2019-10-28T15:32:37Z",
+            "title": "[H2019] Trentasei ore da topicida",
+            "url": "https://www.writersdream.org/forum/forums/topic/45019-h2019-trentasei-ore-da-topicida//?do=findComment&comment=796123",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7690,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 6: Blackout",
+        "Anna",
+        "Mi chiamo Anna. Ho 25 anni. Sono 155 giorni che non esco da casa.",
+        "Per inerzia? Per abitudine? Per paura? Con cavolo! Io non so cosa siano tremolii, né il battito accelerato del cuore. Il sudore? Che sarà mai! E i passi? Affrettati e corti, oppure strascicati quando la terra sotto i piedi comincia a sussultare e ti senti mancare le forze?",
+        "Paura al buio. Su in alto. Sola e sotto di me il vuoto. Sopra e intorno? Sempre il vuoto. Anche le sedie sono vuote. Così come le pareti. Spoglie. Anonime. Tristi. Proprio come me.",
+        "Dicono che sia depressa e che abbia subito un trauma. La dottoressa insiste nel dover tenere il diario. Se potesse veramente aiutare, tutti scriverebbero. E cosa poi? Oggi splende il sole. Oggi piove. Un ananas a colazione. Una pastasciutta scotta a pranzo. A cena solo acqua: fa bene alla pelle . Cazzate, appunto.",
+        "Pietro",
+        "Mi chiamo Pietro. Ho 32 anni. Non vedo la luce del sole da 22 settimane e un giorno.",
+        "Mi è bastata una sera per chiudere la porta in faccia al mondo. La mia non è paura, è il terrore allo stato puro. Lo provereste anche voi sulla pelle, se lo avreste visto. Ma Lui è bravo, tanto bravo, a nascondere la propria faccia. Riesce a mimetizzarsi con tutto: con la gente, con i suoni, con i colori. Ti si insinua nella mente: ti controlla, ti manipola. E, prima che te ne accorga, diventi il Suo schiavo.",
+        "La dottoressa sostiene che non esiste, che mi sia inventato tutto. Con cavolo! Esiste eccome. Mi ha teso una trappola e ci sono cascato con tutte le scarpe. E pensare che non volevo nemmeno uscire. Tutti però ne parlavano con grande entusiasmo, dovevo vedere con i miei occhi. Non c'era nessuno ad accompagnarmi, — ero sempre l'ultimo a scoprire le novità — così ci sono andato da solo.",
+        "Non l'avessi mai fatto!",
+        "Anna",
+        "Mi chiamo Anna. Ho 25 anni. Sono 156 giorni che non esco da casa.",
+        "L'ultima volta che mi sono affacciata al mondo è stata quella sera. Non ricordo se fu la noia a spingermi fuori o un semplice desiderio di capire cosa vi era di così speciale. La sala era deserta: a parte me, un solo spettatore. Il sacchetto di popcorn in una mano, la bibita nell'altra, ho raggiunto il mio posto in sesta fila. Sullo schermo un tizio stava picchiando un altro tizio sul tetto di un grattacielo.",
+        "Dopo al massimo venti minuti, la vista mi si è annebbiata. Ho incollato le mani alla sedia e la stringevo così forte che le nocche erano diventate bordeaux. Che cosa ci facevo lì? Mi sembrava di sprofondare, e non tanto dalla paura quanto dalla vergogna. Ho chiuso gli occhi. I suoni intorno a me erano attutiti.",
+        "È stata tutta colpa Sua. Sa che sono come una fiammella al vento: basta un sussurro per spegnermi.",
+        "Pietro",
+        "Mi chiamo Pietro. Ho 32 anni. Non vedo la luce del sole da 22 settimane, 1 giorno, 23 ore e 59 minuti.",
+        "Quella sera c'era il diluvio universale. Forse per questo che nessuno si è presentato alla proiezione, solo io e un'altra folle. La prima parte del film non era male. Non avrei certo gridato al capolavoro ma l'azione, tutto sommato, era passabile.",
+        "Stavo sgranocchiando i popcorn quando, durante una scena ad alta tensione, lo schermo si oscurò. Sul momento non ci feci caso, convinto che fossimo all'intervallo, ma presto un buio fitto invase tutta la sala, inghiottendoci in un solo boccone. Da lassù echeggiavano le grida d'aiuto.",
+        "Cercai di mantenere la calma, e forse ci sarei riuscito se non avessi sentito quella voce. La Sua voce. Mi trafisse il cranio come fosse la punta di un trapano. Il mondo, prima chiassoso e a colori, non divenne solo nero, ma anche sordo. Mi aggrappai alla sedia e attesi la fine, certo che sarebbe presto arrivata.",
+        "Fu, però, solo l'inizio.",
+        "Anna",
+        "Mi chiamo Anna. Ho 25 anni. Sono 157 giorni che non esco da casa.",
+        "Non sono mai stata brava a dominare l'ansia. Quando le luci si erano spente ho gridato subito, prima impercettibilmente poi con tutta la voce in gola. Udivo l'eco delle mie parole, ma nessuno mi accorreva in aiuto. Del mio compagno di disavventura, alcune file più sotto, nemmeno un accenno.",
+        "Fu allora che sentii sul tallone sinistro un formicolio. Saliva pian piano alla caviglia e da lì fino al ginocchio, passando per lo stomaco e poi sempre più su. Trattenni il fiato. Delle mani, le Sue mani, intorno al mio collo. Un filo invisibile che stringeva, e stringeva, e stringeva. Gli occhi si colmarono di lacrime. Pensai di morire, all'istante.",
+        "E invece…",
+        "Pietro",
+        "Mi chiamo Pietro. Ho 32 anni. Non vedo la luce del sole da 22 settimane, 2 giorni, 23 ore e 55 minuti.",
+        "Ho atteso a lungo che cessasse quel rumore. Non saprei descriverlo, ma era peggio di quello di un muro del suono rotto. Ancora più forte. Ancora più fastidioso. Intorno a me l'aria si smuoveva velocemente, sospinta dalle ali di un pipistrello dagli occhi fiammanti che mi puntava addosso. Non so come mai riuscivo a vederlo, e in tutta chiarezza. Avevo la sensazione che volesse schiaffeggiarmi. Alzai d'istinto le mani e mi coprii la testa.",
+        "Le mura del cinema vibravano di una risata sonora, alquanto diabolica. Esclusi la ragazza, il cui terrore era ben marcato in quelle urla continue. Per quel che mi riguardava, la situazione non era per nulla divertente. Oltre a noi doveva esserci un terzo incomodo, ma non si trattava del pipistrello.",
+        "Questo, però, l'avrei capito solo dopo.",
+        "Anna",
+        "Mi chiamo Anna. Ho 25 anni. Sono 158 giorni che non esco da casa.",
+        "Ho provato a dimenticare. Ad andare avanti. Lui non me l'ha permesso. Si ostina ancora a tenermi prigioniera contro la mia volontà. Mi muove le mani, il corpo, come fossi una marionetta. Non sono più padrona della mia vita. Mi sono rintanata a casa e ho smesso di frequentare amici e parenti. Non vado nemmeno al lavoro, sempre se non mi hanno già licenziato.",
+        "La dottoressa dice che devo rompere le catene. Ha detto proprio così. È facile parlare quando non si è vissuto l'inferno. E Lui, credetemi, è molto peggio. Non riesci a reagire all'oscurità che è già dentro di te. Si ramifica come una pianta velenosa: parte dal petto per arrivare al naso e alle orecchie; ti stritola le guance, la testa, le ossa. Puoi provare a gridare, a liberarti. Peccato che nessuno possa sentirti. Sei sola lassù, al buio, e sotto solo il vuoto.",
+        "Pietro",
+        "Mi chiamo Pietro. Ho 32 anni. Non vedo la luce del sole da 22 settimane, 3 giorni, 23 ore e 45 minuti.",
+        "Credevo che fosse un incubo, da cui mi sarei svegliato da un momento all'altro, una volta sparito il pipistrello. Non immaginavo che Lui fosse sempre in agguato. Speravo che si fosse scordato di me. Di noi. Ma lì, tra i miei pochi capelli, aveva già trovato il Suo nido.",
+        "Scivolò giù, agitando la coda viscida, e mi accarezzò il collo. Il sibilo era costante. La mia fronte, le ascelle, le mani: l'acqua pura. Provai a dimenarmi, a scappare. Udii di nuovo quella risata e quel rumore infernale che mi spaccò il cranio in due. Una parte abbandonò il corpo e rotolò via, lontano. L'altra… non c'è più.",
+        "Come me.",
+        "Anna",
+        "Mi chiamo Anna. Ho 25 anni. Sono 159 giorni che non esco da casa.",
+        "Ogni tanto i ricordi di quella sera mi riaffiorano alla mente. Sento ancora le Sue mani serrarsi intorno al collo. Una, due, diverse volte. Peccato che non si trattasse di dita, ma di coda: fredda, viscida. E il formicolio? Un semplice solletico. Quanto si divertiva a farmi piangere! Almeno finché avevo ancora la voce. Mi ha tolto anche quella, a furia di stringere.",
+        "E che dire del sibilo, fastidioso e ricorrente? Nell'oscurità più totale faceva una maggiore impressione. Bastava udirlo appena perché il corpo si contorcesse dal terrore. Prima che mi accorgessi ero in balia del panico che mi toglieva fino all'ultimo barlume di raziocinio e speranza. Più tempo passava, più forte era il mio desiderio di morire.",
+        "Non è che stia meglio ora. Ho voglia di farla finita."
+    ],
+    "timestamp": "2019-10-28T18:01:01Z",
+    "title": "[H2019] Una proiezione per due... anzi, tre!",
+    "topic_id": 45023,
+    "url": "https://www.writersdream.org/forum/forums/topic/45023-h2019-una-proiezione-per-due-anzi-tre/"
+}
