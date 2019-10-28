@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.7644444444444445,
+        "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -35,9 +35,30 @@
             "title": "[H2019] Ciò che viene dal profondo",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=796127",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao 😁",
+                    "Trama: trama simmetrica inizia con una morte per avvelenamento descritta nei minimi dettagli che trasmette il godimento del vecchio dato dal momento e termina allo stesso modo, con la morte del vecchio colto dalle convulsioni.",
+                    "Personaggi: classico vecchio rancoroso, più che un uomo incattivito dalla vita, sembra un uomo cattivo per indole, per cui nessuna pietà per lui e per la sua fine",
+                    "Contenuti: lo definirlo horror secondo me manca un elemento fondamentale, la vittima innocente (il bambino indifeso, il debole), il trionfo del male. Leggendo il tuo racconto ho solo provato godimento nel finale 😁",
+                    "Stile: scorrevole come in tutti i tuoi racconti. Non si avverte mai la necessità di rileggere qualche frase. Inoltre le descrizioni sono molto vivide (es. Morte del topo) e sempre funzionali alla visualizzazione/immedesimazione della scena.",
+                    "Grammatica: non ho notato errori grammaticali o refusi.",
+                    "Giudizio finale: per quanto non si senta l'atmosfera horror, mi è piaciuto davvero tanto il tuo testo, sia per trama, che per lo stile"
+                ]
+            ],
+            "timestamp": "2019-10-28T18:42:23Z",
+            "title": "[H2019] Trentasei ore da topicida",
+            "url": "https://www.writersdream.org/forum/forums/topic/45019-h2019-trentasei-ore-da-topicida//?do=findComment&comment=796180",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -45,8 +66,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7730,
-    "num_commenti": 1,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -63,6 +84,19 @@
             ],
             "timestamp": "2019-10-28T17:09:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=796158"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 796188,
+            "text": [
+                "."
+            ],
+            "timestamp": "2019-10-28T19:48:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=796188"
         }
     ],
     "text": [
