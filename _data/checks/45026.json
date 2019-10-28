@@ -1,0 +1,163 @@
+{
+    "author": {
+        "author_id": 27585,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "no mercy",
+        "url": "https://www.writersdream.org/forum/profile/27585-no-mercy/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.7422222222222222,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, ,",
+                    "ti lascio subito un paio di annotazioni tecniche, così mi tolgo il pensiero. Tieni conto del fatto che io non ho le competenze per correggere alcunché, e che quindi le mie osservazioni sono strettamente personali.",
+                    "\"Signori\" è il vocativo con cui il proprietario della baita si rivolge ai presenti e i vocativi andrebbero sempre individuati da virgole. Leggendo a voce alta, poi, si mette una piccola pausa prima e dopo, così:",
+                    "Mi dispiace, signori, ma la tempesta di neve non accenna a placarsi, temo ...",
+                    "Io direi la Smorfiosa , e userei la maiuscola per i soprannomi di tutti gli altri personaggi (lo Snob, il Fratello...)",
+                    "Ah, mi piace l'idea di chiamarli a seconda del loro carattere e continuerei a chiamarli semplicemente così, senza ribadire (come fai in un paio di occasioni) che si tratta di soprannomi.",
+                    "La maiuscola non serve, come nel caso degli altri tag che reggono i dialoghi. come sotto:",
+                    "Eccetera.",
+                    "Ho notato che usi alcuni termini un po' desueti: \"reclamare\", \"improrogabile\", \"gagliardo\", \"protrudere\". Roba così.",
+                    "Io non sono contraria all'uso di un linguaggio ricercato, anzi. Solo, mi chiedo se sia adatto a questo racconto particolare: parliamo di un gruppo di persone chiuse in una baita che bevono birra, si corteggiano, si accoppiano, litigano... si uccidono. Molto lontani da un seminario, per intenderci. Ci vedrei bene un linguaggio un po' più ruvido.",
+                    "La trama forse non è molto originale ma, per quello che ne capisco di horror, questo non è importante - molto più importante è creare condizioni per lo sviluppo della tensione e poi svilupparla in modo efficace. La bella e la bestia in un unico personaggio, e va bene così.",
+                    "Al netto di questi piccoli appunti, quindi, il racconto mi è piaciuto. Mi era piaciuto anche quello per il FdI \"Come una goccia d'acqua su una piastra incandescente\", così ho confermato le mie impressioni.",
+                    "Buon contest!"
+                ]
+            ],
+            "timestamp": "2019-10-28T21:08:08Z",
+            "title": "[H2019] La bufera",
+            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=796208",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.48444444444444446
+            },
+            "text": [
+                [
+                    "Ciao , benvenuto!",
+                    "Dato che non l'hai ancora fatto, ti dispiacerebbe aprire una nuova discussione nella sezione \"Ingresso\" e raccontarci qualcosa di te, come da regolamento?",
+                    "Per pubblicare i propri racconti sarebbe inoltre necessario commentare in modo approfondito un altro racconto e temo che il tuo commento sia troppo scarno.",
+                    "Segnalo allo Staff, che probabilmente chiuderà temporaneamente il tuo racconto. Potrai farlo riaprire facendo un commento più completo e inviandone il link a un membro dello Staff.",
+                    "Poi magari passo a commentare."
+                ]
+            ],
+            "timestamp": "2019-10-22T07:25:03Z",
+            "title": "Il teletrasporto",
+            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=794633",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 9927,
+    "num_commenti": 2,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "e",
+        "traccia n.2: il pozzo.",
+        "Bzzzz .",
+        "L’appuntato scelto Giovanni Scognamiglio saltò a sedere sulla poltrona della guardiola. Sotto le luci al neon, l’atrio del comando di Maggese del Friuli riluceva solido e tranquillo e l’orologio a parete sosteneva mancasse qualche minuto alle quattro. Lui sentiva una fastidiosa tachicardia e un saporaccio impastato nella bocca asciutta. Clack , disse l’orologio e il citofono della caserma ronzò di nuovo. Giovanni sistemò in fretta i risvolti della divisa e lisciò i capelli, prima di far scattare l’apertura del portone blindato. Come emergendo dal buio, entrò una donna esile e bruna che teneva una bimba per mano: la piccola veniva avanti trascinando i piedi in un paio di pantofole di panno, il visetto congestionato da un pianto recente; la donna sorrise a Giovanni, un sorriso tirato e stanco.",
+        "«Ci dispiace disturbarla a quest’ora» disse.",
+        "«Si figuri, signora, dovere. Di cosa si tratta?»",
+        "Lei spinse con dolcezza la bambina verso la guardiola: «Mia figlia ha commesso un reato, così è venuta a costituirsi.»",
+        "Nel silenzio della notte tiepida, la lancetta dei secondi scattò in avanti. Clack . Clack . La bimba fissava il pavimento.",
+        "«Avanti, Marina. Di’ al carabiniere quello che hai detto a me.»",
+        "Clack .",
+        "«Sono…» disse lei con voce incerta. «Sono un’assassina.»",
+        "E scoppiò in singhiozzi: «Ho ucciso Flo… ieri ho ucciso Flo e l’ho buttato…»",
+        "Un brivido contrasse il corpo dell’appuntato: «Cosa ca…?»",
+        "Ma la donna scuoteva la testa, ammiccando: «Ha ucciso il suo pesce rosso. Voleva portarlo con noi in vacanza quest’estate e, per abituarlo al mare, ha aggiunto sale nella boccia. Non sapeva di fargli male.»",
+        "Incredulo, per un attimo Giovanni desiderò saltare fuori dalla guardiola e schiaffeggiarla, ma si trattenne.",
+        "«Io starei lavorando, signora» brontolò. «E sono in servizio da diciotto ore. Tornate a ca…»",
+        "Clack .",
+        "«Marina temeva di essere arrestata, non sono riuscita a calmarla. Allora le ho detto che saremmo venute a confessare, perché è sempre meglio dire la verità.»",
+        "Giovanni si vergognava. Raggiunse la bambina e si accucciò accanto a lei: «La mamma ha ragione, Marina.»",
+        "«Andrò in prigione?»",
+        "«No, certo che no. Ma anche se si fa male a qualcuno per sbaglio bisogna chiedere scusa. Mi prometti di obbedire ai tuoi genitori e alla maestra?»",
+        "Marina annuiva, asciugandosi gli occhi con la manica del pigiama. Lui le diede un colpetto sulla spalla, poi si rivolse alla donna: «Avete un’automobile in cui passare la notte, signora? Non è sicuro rientrare in casa, ma…»",
+        "«La macchina l’ha presa mio marito per andare a vedere come stanno i suoi genitori. Sembra sia stato terribile da quelle parti, sopra Udine.»",
+        "«Non abbiamo più coperte, ma posso farle un caffè e magari cercare…»",
+        "Bzzzz. Bzzzz. Bzzzz .",
+        "«Scusi un attimo.»",
+        "Entrò a precipizio il proprietario dell’emporio, il signor Zuliani, che stringeva un plico di fogli stropicciati.",
+        "«Il maressial!» esclamò. «Indulà che al è il maressial?»",
+        "(«Il maresciallo!» esclamò. «Dov’è il maresciallo?»)",
+        "Allarmata, Marina si aggrappò alle gambe della madre. L’uomo però non se ne accorse nemmeno: si piazzò davanti all’appuntato, ripetendo: «O ai di tabaiâ cu il maressial!»",
+        "(«Devo parlare con il maresciallo!»)",
+        "«Si calmi» gli intimò Giovanni, infastidito dall’odore di alcol nel suo fiato. «Cosa succede?»",
+        "«La fin dal mont, al è il dì dal judizi…»",
+        "(«La fine del mondo, è il giorno del giudizio…»)",
+        "Giovanni lanciò uno sguardo alla donna e accennò al portone.",
+        "«Noi torniamo in piazza. I Vigili del Fuoco hanno radunato lì tutto il paese e stanno distribuendo cibo e coperte» disse lei. «Sono sicura che ce la caveremo. Grazie, e buon lavoro.»",
+        "Le guardò uscire, poi e fece cenno al signor Zuliani di avvicinarsi alla guardiola. ‘ sti ‘mbriachi , pensò.",
+        "Giovanni chiuse gli occhi e si strofinò le palpebre con le dita.",
+        "«Vediamo se ho capito, signor Zuliani. Suo padre Antonio, deceduto nel settembre scorso, le avrebbe dettato sul letto di morte una sorta di testamento in cui chiedeva che metà dei suoi beni fossero lasciati a un figlio che non aveva mai riconosciuto, frutto di una relazione extraconiugale. Lei ha promesso che avrebbe fatto autenticare il documento, invece non ne ha parlato con nessuno e lo ha gettato nel pozzo.»",
+        "Clack , commentò l’orologio.",
+        "«Adesso sostiene che il pozzo abbia ehm… “risputato” questo testamento e che il diavolo in persona stia arrivando a Maggese… Lei non ha bisogno di parlare con il maresciallo, ma con un dottore o, se preferisce, con don Luciano.»",
+        "Matteo Zuliani si era calmato abbastanza da sostituire il dialetto con un italiano saltellante: «Non sono pazzo» disse, e colpì con il grosso indice il plico che teneva sulle ginocchia «E nancje cjoc. Legga qui.»",
+        "(«E neanche ubriaco. Legga qui.»)",
+        "Giovanni considerò i fogli umidi e consunti che venivano fatti scivolare attraverso lo sportellino: «Cosa dovrei leggere? Sono solo macchie d’inchiostro sbiadite.»",
+        "«Lui è forest, ma il maressial sa. Il maressial sa che siamo…»",
+        "(«Lei è straniero, ma il maresciallo sa. Il maresciallo sa che siamo…»)",
+        "Bzzzz .",
+        "«Aspetti.»",
+        "Una donna che Giovanni conosceva di vista: forse quarant'anni, nubile, impiegata alle Poste. Dietro di lei entrò un giovane reggendo una bicicletta arrugginita con il cerchione anteriore accartocciato. La donna fece un cenno di saluto e andò a sedersi sulla panca lungo la parete, in attesa del suo turno; il ragazzo invece si avvicinò alla guardiola, lasciando che la bicicletta gocciolasse lungo il pavimento.",
+        "«Voglio denunciare un furto» disse.",
+        "«Qualcuno ha approfittato del terremoto per introdursi in casa sua?» Giovanni afferrò la radio. «Qual è l’indirizzo? Avviso subito i miei colleghi di pat…»",
+        "«Cosa? No. Voglio denunciare il furto di una bicicletta.»",
+        "Bzzzz .",
+        "Nell'atrio del comando uomini, donne e ragazzi tacevano fissando il pavimento, imbarazzati gli uni dagli altri. Si agitavano sulla panca, sospiravano, misuravano la stanza con passi nervosi. La signorina Edvige, l’impiegata delle poste, mormorava attraverso il vetro della guardiola: «Non potevo sopportarlo, capisce? Non che sposasse mia sorella! Dio mi perdoni, ero così giovane… Così innamorata…»",
+        "La donna piangeva piano; Giovanni si rigirava tra le mani un cerchietto d’oro con un piccolo diamante e si chiedeva se fosse umido d’acqua o di lacrime.",
+        "«Le ho portato via l’anello, l’ho gettato nel pozzo… Lui se n’è andato dal paese un mese prima del matrimonio perché…»",
+        "Bzzzz .",
+        "Entrò la vedova Degrassi, la padrona di casa di Giovanni. Fece un cenno di saluto ai presenti e si avvicinò alla guardiola.",
+        "«Al è miôr che tu tornis al sud, fantat» disse, materna. «O vin di lâ usgnot.»",
+        "(«È meglio che torni a sud, ragazzo mio» disse, materna. «Noi ce ne andiamo questa notte.»)",
+        "«Signora Emma, cosa dice? Dove vorreste andare?»",
+        "«O ai di incuintrâ il gno omp. Al è daûr a tornâ dal poç.»",
+        "(«Io devo incontrare mio marito. Sta per tornare dal pozzo.»)",
+        "«Signora, per favore…»",
+        "Ma lei annuiva, le cocche del fazzoletto nero che si agitavano sul petto. L’impiegata delle poste singhiozzava, e sui volti da cui avrebbe dovuto cogliere sguardi di compassione per la vedova, Giovanni leggeva un assenso rassegnato.",
+        "«Basta! Fuori, tutti fuori!»",
+        "Una manciata di condomini e negozietti lungo una strada a due corsie, una piazza e una chiesa di mattoni in mezzo alle colline. Era stato trasferito lì quasi cinque anni prima, eppure Giovanni non riconosceva più Maggese. Uscì nell’oscurità immobile e fu investito dall’umidità della notte, pregna di fumo e polvere. Attraversò il Corso, dove le sagome dei palazzi si alternavano a cumuli scomposti di cemento, mattoni e staffe di ferro contorte. Sul limitare della piazza, i fanali di un’ambulanza e del furgone dei pompieri illuminavano il campanile ridotto in macerie, il tetto sfondato del municipio, i muri percorsi larghe crepe. Dall’ambulanza una radio gracchiava inascoltata: nessuno si aggirava tra gli edifici crollati, nessuno scavava. Gli abitanti di Maggese erano riuniti intorno al pozzo, silenziosi e curvi come un corteo di penitenti. Oltre a don Luciano e al dottore, Giovanni riconobbe la direttrice della scuola elementare. E c’erano contadini con il cappello in mano, donne e bambini avvolti in coperte. E accanto al sindaco, vecchio soldato e eroe della Resistenza, il maresciallo piangeva come un bambino.",
+        "«Maresciallo, signor sindaco! Cos’è questa follia? Bisogna fare il censimento dei presenti, portar via i feriti, cercare tra le macerie!»",
+        "«Vattene, Giovanni, vattene. Stanno per arrivare. Salvati, tu che puoi…»",
+        "«Ma cosa dice? Chi, chi sta arrivando?»",
+        "L’acciottolato della piazza prese a tremare, poi il pozzo tossì e rigurgitò un fiotto di acqua fangosa, un vecchio fucile da caccia e il cadavere di un cane cui mancava la metà destra del cranio. Tra i presenti la voce del signor Luigi gemette: «Signôr benedet, Biagio! Ce ti o ai fat?»",
+        "(«Signore benedetto, Biagio! Cosa ti ho fatto?»)",
+        "L’animale si sollevò sulle zampe scheletrite e si scrollò per asciugarsi, spargendo intorno grumi di pelo e brandelli di carne. Trotterellò in mezzo alla folla che sia apriva. Giovanni era sicuro si trattasse di un incubo, ma la sua mano corse d’istinto alla fondina, estrasse la Beretta e la puntò sul cane.",
+        "L’unico effetto dell’esplosione fu un contraccolpo lungo le braccia e il familiare odore della polvere da sparo: il proiettile si insaccò sulla schiena del cane che continuò a saltare e abbaiare intorno al signor Luigi.",
+        "«Vattene, ho detto! Non capisci? Questo è solo l’inizio… Non possiamo cancellare i nostri peccati… non di nuovo» il maresciallo si premeva sul volto le palme bagnate di lacrime, mentre il cane tirava una manica del suo assassino verso il pozzo, giocosamente ringhiando.",
+        "«Odiavamo i tedeschi quasi quanto i fascisti. Ma quelli erano solo dei ragazzi spaventati che si ritiravano…» mormorava il sindaco. «C’era stato l’armistizio… Aspettavamo gli Alleati da un giorno all’altro…»",
+        "Giovanni vacillò… o forse era la terra che aveva ricominciato a tremare perché, ecco!, dal pozzo già si alzava come il rombo di un fiume in piena."
+    ],
+    "timestamp": "2019-10-28T21:30:36Z",
+    "title": "[H2019 - troppo lungo per il concorso] Il poç",
+    "topic_id": 45026,
+    "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7/"
+}
