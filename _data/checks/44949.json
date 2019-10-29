@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 794946,
@@ -266,6 +266,14 @@
             ],
             "timestamp": "2019-10-29T17:37:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796435"
+        },
+        {
+            "post_id": 796484,
+            "text": [
+                "Accostamento per la scelta dei soggetti eh! E nient'altro, lo so."
+            ],
+            "timestamp": "2019-10-29T19:48:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796484"
         }
     ],
     "post_staff": [],
