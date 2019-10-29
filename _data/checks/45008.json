@@ -79,9 +79,50 @@
     },
     "num_chars": 7320,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 796317,
+            "text": [
+                "Siamo alla fine e il tuo commento è bellissimo, grazie Mi emoziona molto ricevere un commento su tutta la storia, che scema",
+                "non ci avevo proprio pensato",
+                "e si sente in colpa per la vita che ha benché ne sia felice e si sente in colpa per questa felicità che ha solo lei mentre le ragazze no... chiaro, no?",
+                "esatto, questo è il fulcro secondo me",
+                "lo è sempre e non sono mai scemenze",
+                "bravo, non l'avevo vista da questa prospettiva, ma è proprio così",
+                "infatti sì",
+                "non ha motivo logico, ma credo che sia una reazione umana. L'ho incontrata tante volte tra i volontari",
+                "dai, ma non è stato a cuor leggero! In fondo lui per un periodo ha evitato Erika, le parlava pochissimo... devo spingere di più su quell'aspetto?",
+                "Grazie a te per essere arrivato fino in fondo caro"
+            ],
+            "timestamp": "2019-10-29T11:09:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=796317"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 796317,
+            "text": [
+                "Siamo alla fine e il tuo commento è bellissimo, grazie Mi emoziona molto ricevere un commento su tutta la storia, che scema",
+                "non ci avevo proprio pensato",
+                "e si sente in colpa per la vita che ha benché ne sia felice e si sente in colpa per questa felicità che ha solo lei mentre le ragazze no... chiaro, no?",
+                "esatto, questo è il fulcro secondo me",
+                "lo è sempre e non sono mai scemenze",
+                "bravo, non l'avevo vista da questa prospettiva, ma è proprio così",
+                "infatti sì",
+                "non ha motivo logico, ma credo che sia una reazione umana. L'ho incontrata tante volte tra i volontari",
+                "dai, ma non è stato a cuor leggero! In fondo lui per un periodo ha evitato Erika, le parlava pochissimo... devo spingere di più su quell'aspetto?",
+                "Grazie a te per essere arrivato fino in fondo caro"
+            ],
+            "timestamp": "2019-10-29T11:09:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=796317"
+        }
+    ],
     "text": [
         "«I vostri ospiti dove vivono?» chiede Davide.",
         "«Qui, in associazione. Venite che vi facciamo vedere».",
