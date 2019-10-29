@@ -54,7 +54,7 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 795747,
@@ -74,6 +74,14 @@
             ],
             "timestamp": "2019-10-27T17:50:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795910"
+        },
+        {
+            "post_id": 796426,
+            "text": [
+                "Grazie"
+            ],
+            "timestamp": "2019-10-29T17:12:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=796426"
         }
     ],
     "post_staff": [],
