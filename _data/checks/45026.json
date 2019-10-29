@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.7422222222222222,
+        "valid": 0.8661538461538462,
         "weight": true
     },
     "closed": false,
@@ -48,7 +48,7 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 0.48444444444444446
+                "valid": 0.7323076923076923
             },
             "text": [
                 [
@@ -57,6 +57,24 @@
                     "Per pubblicare i propri racconti sarebbe inoltre necessario commentare in modo approfondito un altro racconto e temo che il tuo commento sia troppo scarno.",
                     "Segnalo allo Staff, che probabilmente chiuderà temporaneamente il tuo racconto. Potrai farlo riaprire facendo un commento più completo e inviandone il link a un membro dello Staff.",
                     "Poi magari passo a commentare."
+                ],
+                [
+                    "Ciao, , benvenuto in Officina.",
+                    "Ti lascio qualche appunto, tu tieni conto del fatto che si tratta di osservazioni soggettive: prendi quello che ti sembra utile e butta via il resto.",
+                    "La punteggiatura in questa frase non mi convince molto: ti suggerisco di inserire una pausa più lunga dove ho segnato in grassetto: puntini di sospensione, oppure il punto fermo.",
+                    "Ah, mi piace molto \"aveva tredici anni da quasi un anno\" per dire che stava per compierne quattordici: è come se strizzassi l'occhio al lettore, anticipandogli che succederà qualcosa di particolare.",
+                    "Qui metterei una pausa più lunga, dato anche che cambi soggetto.",
+                    "- da quando sono qui ho imparato che gli aggettivi possessivi vanno usati con parsimonia, solo quando sono necessari. La \"mamma\" non può che essere \"mamma di Alessio\": puoi riferirti a lei come a \"la mamma\" o anche semplicemente come a \"mamma\".",
+                    "- \"alienazione\", oltre a sembrarmi una parola un po' forte per descrivere l'isolamento sociale, è un termine tecnico da manuale di psicologia: secondo me stona nel racconto.",
+                    "- \"sul figlioletto\" è ridondante, puoi toglierlo perché il senso è chiaro.",
+                    "- secondo me il congiuntivo imperfetto \"sapessi\" qui può essere sostituito con un indicativo, dato che \"era convinto\" regge già \"fosse\" (ma è solo una mia impressione. a volte con i congiuntivi mi incasino)",
+                    "- È E'",
+                    "La ripetizione di \"giornale\" stride un po'. La eviterei.",
+                    "I vocativi (\"Alessio\" e \"mamma\") andrebbero sempre individuati dalle virgole.",
+                    "Le due espressioni che usi per indicare la minzione non sono certo scorrette, ma secondo me stridono con il registro del racconto che è semplice e colloquiale (oltre a riguardare un ragazzino). Direi che \"fare pipì\", in questo caso, va bene lo stesso.",
+                    "Cose più importanti. Il risvolto drammatico (Alessio viene ricoverato) mi ha un po' spiazzata, giunge completamente inatteso. Soprattutto non trovo credibile che una madre faccia portare via il figlio da \"uomini che lo infilano in un furgone\" - come fosse criminale pericoloso. Per fortuna i ricoveri (anche quelli psichiatrici) non funzionano così.",
+                    "Mi ha poi spiazzato di nuovo scoprire che Alessio sia stato vittima di un alieno capriccioso e un po' sadico, rende il finale ancor più drammatico.",
+                    "L'idea è molto carina, ma merita di essere gestita con più attenzione soprattutto nei passaggi finali."
                 ]
             ],
             "timestamp": "2019-10-22T07:25:03Z",

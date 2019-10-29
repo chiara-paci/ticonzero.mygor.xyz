@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.46,
+        "valid": 0.5502197802197802,
         "weight": true
     },
     "closed": true,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.46
+                "valid": 0.5502197802197802
             },
             "text": [
                 [
@@ -32,6 +32,17 @@
                     "In gara un atleta non si accorge molto del sudore, della canottiera e degli abiti inzuppati a meno che non siano una cosa clamorosa.",
                     "Sente la fatica, sente il dolore della fatica.",
                     "E' l'unico piccolo appunto per il resto mi e' piaciuto molto."
+                ],
+                [
+                    "Scusami",
+                    "Devo rifare il commento ( per il mio racconto)e quindi seguo la scheda.",
+                    "La trama credo sia abbastanza originale e allo stesso tempo molto veritiera.",
+                    "Originale perché ci sono poche storie sui corridori, veritiera perché l'atletica e' uno sport talmente duro che devi avere delle motivazioni incredibili per fare risultati, tipo quelli elencati dal protagonista.",
+                    "I genitori disinteressati, la ragazza che non se lo fila, l'allenatore che gli preferisce un altro. Perfetto.",
+                    "Come plausibilità ci siamo.",
+                    "La trama scorre abbastanza bene anche se in alcuni punti faccio fatica, forse la lettura della poesia toglie un po' di ritmo al racconto.",
+                    "Non ho notato errori di grammatica, l'unica cosa stonata del racconto e' l'eccessiva attenzione del corridore a dettagli quali sudorazione ecc ecc",
+                    "Per il resto racconto molto bello, altrimenti non l'avrei commentato due volte. :-)"
                 ]
             ],
             "timestamp": "2019-10-28T02:52:11Z",

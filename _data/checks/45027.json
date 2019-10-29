@@ -12,13 +12,50 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao il tuo è un racconto che mi ha colpito moltissimo. È molto difficile da comprendere ma voglio provarci. Scusami fin d'ora se ti farò domande sciocche.",
+                    "Mi piace molto questa frase: penso che non tutti gli adulti si rapportano ai bambini con armonia. Eppure a guardarle, queste creature sono vita appena sbocciata.",
+                    "la frase tutta è opinione elevata. La diversità rende ci rende unici, ma E’ sempre difficile scegliere che cosa non l'ho capito.",
+                    "è anche bella questa frase che fa da metafora, secondo le mie sensazioni, della vita della protagonista. Mi piace il lampo che colto, io leggo e commento per sensazione ricevuta, poi non è importante se l'autore voleva o meno provocare in me certe cose, ogni lettore è diverso e recepisce in manera diversa.",
+                    "A perte che scrivi benissimo e le tue frasi raggiungono il cuore, ma la frase sottolineata mi colpisce molto, ho immaginato te Floriana seduta sulla tua sedia mentre sogni i sogni di Edoardo, che ti sfreccia a fianco, ti sorride e ci vedo un incontro d'anime. Qualcosa che supera la razionalità accade in quel momento. Quindi forse un punto interrogativo dopo più Ho già l’età per non sognare più? lascia al lettore la speranza, che un ignoto barlume di di felicità in più arrivi da chissà quale posto nascosto.",
+                    "Chi non ha mete da conquistare ha solo da perdere!",
+                    "Molto carina la visione plastificata della malattia",
+                    "Chi vede questo in un bambino ha occhi per vedere oltre tutto il male che può esistere. Rendersene conto è già moltissimo, Complimenti per questa tua riflessione.",
+                    "Bellissima immagine! più vado avanti più mi convinco che quello che scrivi viene da una esperienza personale vissuta. Se è vero trovo tutto ciò di una sensibiltà straordinaria.",
+                    "La sua luce brilla più della mia",
+                    "La sua scia dorata lascia un segno immediato.",
+                    "Sembra un angelo ma non lo è",
+                    "Le ho lette come fossero una poesia, queste parole cantano insieme per la scelta dei termini. non so se te ne eri accorta da sola, ho voluto dirtelo, bravissima!",
+                    "un refuso solo soletto",
+                    "Che dire! percepire l'aroma dell'impegno! bisogna inventarsi un nuovo senso, andare oltre i cinque che usiamo naturalmente. Ho stretta in me la sensazione che mi da questa frase. è bella.",
+                    "Anche questa! mi ricorda la mia percezione temporale degli anni scolasti, è proprio cosi, sembrano anni infiniti.",
+                    "Tutti danno e ricevono, siamo stoire che s'intrecciano ? è questo il senso che volevi comunicare?",
+                    "Un racconto denso, volutamente fumoso ma non del tutto incomprensibile.",
+                    "il tuo stile è eccellente, almeno secondo me che alla fine ancora sto cercando il mio.",
+                    "La grammatica è perfetta ce l'ho messa tutta per scovare qualcosa ma oltre un paio di refusi non mi pare ci sia altro da segnalarti.",
+                    "Moltissime grazie per aver condiviso con noi le tue parole",
+                    "Alla prossima lettura."
+                ]
+            ],
+            "timestamp": "2019-10-28T22:13:52Z",
+            "title": "Edoardo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44976-edoardo//?do=findComment&comment=796217",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +63,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7994,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],
