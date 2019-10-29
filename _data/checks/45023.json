@@ -52,7 +52,7 @@
     },
     "num_chars": 7690,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 796227,
@@ -77,7 +77,32 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45023-h2019-una-proiezione-per-due-anzi-tre//?do=findComment&comment=796227"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 796262,
+            "text": [
+                "Ciao",
+                "Niente male il racconto, al netto di qualche piccolo errore grammaticale che ti è già stato segnalato. Tra quelli sfuggiti in precedenza c'è questo:",
+                "\"Lo provereste anche voi sulla pelle, se lo aveste visto.\"",
+                "L'intreccio è gestito abbastanza bene: abbiamo la medesima storia vissuta da due punti di vista differenti. Si comincia dalla fine, con i due personaggi che hanno già subito il trauma del blackout al cinema, con tanto di creatura orrorifica che li ha fatti uscire di senno; poi si torna indietro, entrambi i personaggi ripercorrono gli eventi di pari passo tranne che alla fine, dove si sganciano da questo parallelismo. Ecco, secondo me la pecca nell'intreccio sta proprio qui, sul finale. Anna chiude a cerchio la sua storia, tornando in maniera netta al \"dopo\", anticipando Pietro nel percorso narrativo degli eventi. Pietro si ferma prima, delega a due frasette concise il suo ritorno al \"dopo\", che però sono insufficienti a rendere l'effetto forte e chiaro come è per Anna.",
+                "Insomma, questo distacco finale tra le due parti, secondo me, lede un pochino la percezione di unità e solidità riscontrata durante tutto il resto della storia. Si tratta proprio degli ultimi tre paragrafi (Anna, Pietro, Anna) che disertano dalla linearità che avevi costruito, ed è un peccato, perché funzionava molto bene.",
+                "L'altro punto a sfavore del racconto è: \"chi è il mostro?\"",
+                "Descrivi qualche dettaglio, ma non si capisce chi è Lui. Questa entità rimane del tutto oscura al lettore, che si chiede chi sia costui, che cosa faccia, perché lo faccia. Vuole semplicemente mangiarli? No, sono ancora vivi. Vuole impossessarsi dei loro corpi? Non sembrerebbe, sono ancora padroni delle loro facoltà, seppure con la paura di uscire di casa.",
+                "I due personaggi sono sconvolti da questa presenza, ma non se ne capisce il motivo. Si evince che è una creatura schifosa, dotata di coda, che ha tentato di uccidere Anna e Pietro, ma a parte questo non se ne sa nulla. Non è descritta né nel com'è fatta, né nei suoi intenti.",
+                "In più: perché i due personaggi si sono salvati? Non capendo lo scopo della creatura e del suo attacco, non si capisce nemmeno il motivo per cui i due siano sopravvissuti. Tutto ciò lede l'efficacia del racconto, in quanto il lettore resta con più interrogativi irrisolti che risposte.",
+                "Per riepilogare: l'intreccio e l'atmosfera che hai creato vanno benissimo, ma il primo non l'hai portato avanti fino alla fine per come l'avevi strutturato, per cui si perde efficacia narrativa; la seconda lascia l'amaro in bocca per gli interrogativi che si porta dietro, andando a ledere la percezione orrorifica finale e scontentando il lettore.",
+                "Secondo me, il racconto sarebbe stato meglio se diluito su più caratteri (cosa che non avevi a disposizione). Come idea, però, merita. Ti consiglierei di provare a riscriverlo ampliandolo nelle parti mancanti e correggendo la struttura finale.",
+                "Spero di esserti stata utile"
+            ],
+            "timestamp": "2019-10-29T09:34:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45023-h2019-una-proiezione-per-due-anzi-tre//?do=findComment&comment=796262"
+        }
+    ],
     "text": [
         "Traccia 6: Blackout",
         "Anna",
