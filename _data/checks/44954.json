@@ -56,7 +56,7 @@
     },
     "num_chars": 8009,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 795261,
@@ -79,6 +79,26 @@
             ],
             "timestamp": "2019-10-26T17:10:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795716"
+        },
+        {
+            "post_id": 796266,
+            "text": [
+                "un grazie a voi tutti per essere passati e aver lasciato un commento.",
+                "Lo so, lo so... mi sa che ho esagerato ( :",
+                "Allora, proverò a fare un po' di chiarezza... Per quanto riguarda il \"fastidio\" è più da associare al rumore e alla luce che, come hai ben intuito, si rifà soprattutto agli strumenti elettronici.",
+                "Per quanto riguarda il tatuaggio a Y si tratta di un riferimento al taglio a Y adoperato nelle autopsie; volevo un simbolo che, in qualche modo, rappresentasse la morte e che venisse tributato dalla donna (mentre prima del paragrafo finale simboleggia la parola epilogo).",
+                "Per quanto riguarda il resto: i soldi, le bambole, il vomito... beh, questa storia fondamentalemente narra del disfacimento di una famiglia, della totale distruzione di ogni cosa che la dovrebbe rappresentare, il tutto perpretato da due genitori che non hanno nulla per cui vivere e, nella loro follia, arrivano a odiarla al punto da fare quello che hanno fatto. Come ho già detto in altri commenti l'idea mi è venuta da un film (lì una famiglia, senza alcun motivo logico, finiva per distruggere mobili, vestiti, ecc, per poi suicidarsi uno dopo l'altro)... Ecco, spesso le cronache riportano tragedie assurde, inconcepibili (uomini e donne che sterminano le loro famiglie, uccidono i figli e si suicidano ecc), ed è una cosa terrificante. Un po' questa storia parla di ciò, tutto qui. Per quanto riguarda il vomito nero... beh, chissà, potrebbe essere un semplice veleno, o qualcosa che non appartiene a questo mondo, pensala come vuoi. ( :"
+            ],
+            "timestamp": "2019-10-29T09:47:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=796266"
+        },
+        {
+            "post_id": 796268,
+            "text": [
+                "perpetrato*"
+            ],
+            "timestamp": "2019-10-29T09:48:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=796268"
         }
     ],
     "post_staff": [],

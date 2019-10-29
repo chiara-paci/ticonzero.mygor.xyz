@@ -60,7 +60,7 @@
     },
     "num_chars": 7886,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 795292,
@@ -72,6 +72,21 @@
             ],
             "timestamp": "2019-10-25T05:10:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=795292"
+        },
+        {
+            "post_id": 796293,
+            "text": [
+                "Buongiorno cara Flo",
+                "Erika entra e non vede subito Jessy, quelo vuoto le dà l'impressione che ingrandisca la sua minuscola casa. L'unica cosa che la riempie in quel momento è la polvere che si vede nella luce solare che entra dalla finestra",
+                "appena tornata",
+                "dell'associazione che avevano incontrato al seminario a Torino",
+                "hai ragione, potevo esprimermi in un'altra maniera",
+                "hai ragione anche qui",
+                "le prendo a braccia aperte",
+                "Grazie cara Flo"
+            ],
+            "timestamp": "2019-10-29T10:17:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=796293"
         }
     ],
     "post_staff": [
@@ -90,6 +105,26 @@
             ],
             "timestamp": "2019-10-25T05:10:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=795292"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 796293,
+            "text": [
+                "Buongiorno cara Flo",
+                "Erika entra e non vede subito Jessy, quelo vuoto le dà l'impressione che ingrandisca la sua minuscola casa. L'unica cosa che la riempie in quel momento è la polvere che si vede nella luce solare che entra dalla finestra",
+                "appena tornata",
+                "dell'associazione che avevano incontrato al seminario a Torino",
+                "hai ragione, potevo esprimermi in un'altra maniera",
+                "hai ragione anche qui",
+                "le prendo a braccia aperte",
+                "Grazie cara Flo"
+            ],
+            "timestamp": "2019-10-29T10:17:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44944-le-ragazze-capitolo-20-23//?do=findComment&comment=796293"
         }
     ],
     "text": [
