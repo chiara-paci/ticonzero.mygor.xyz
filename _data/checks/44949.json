@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 794946,
@@ -225,6 +225,26 @@
             ],
             "timestamp": "2019-10-28T12:29:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796055"
+        },
+        {
+            "post_id": 796246,
+            "text": [
+                "Cara Talia, sai che mi hai dato un'idea fantastica? Avrei dovuto ambientare l'horror in un paese tutto di gatti!",
+                "Ma così non è: il protagonista Cielo (e ti ricordi che il sindaco gli dava contro come causa del flagello?) è l'unico gatto, nero e con gli occhi azzurri.",
+                "Le altre sono persone, come la sua padrona Nina.",
+                "Del \"gastronomo\" non capisco, Cielo era amico del macellaio.",
+                "Ti ringrazio per la tua positiva disanima, cara"
+            ],
+            "timestamp": "2019-10-29T07:54:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796246"
+        },
+        {
+            "post_id": 796247,
+            "text": [
+                "Di nuovo... volevo dire disamina ... . (Sono senza speranza...)"
+            ],
+            "timestamp": "2019-10-29T07:57:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796247"
         }
     ],
     "post_staff": [],
