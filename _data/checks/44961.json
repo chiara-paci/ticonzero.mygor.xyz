@@ -59,7 +59,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 795150,
@@ -142,6 +142,15 @@
             ],
             "timestamp": "2019-10-28T20:39:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=796203"
+        },
+        {
+            "post_id": 796387,
+            "text": [
+                "Grazie della lettura e dei consigli.",
+                "Buon contest!"
+            ],
+            "timestamp": "2019-10-29T15:27:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=796387"
         }
     ],
     "post_staff": [],

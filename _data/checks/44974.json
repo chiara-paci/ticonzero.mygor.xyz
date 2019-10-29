@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 795492,
@@ -113,6 +113,14 @@
             ],
             "timestamp": "2019-10-29T10:32:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796303"
+        },
+        {
+            "post_id": 796385,
+            "text": [
+                "Sì, me lo hanno già fatto notare e vi ringrazio. Libera dal limite di 8000 battute, ci lavorerò. Grazie infinite per il tuo commento, e l'apprezzamento."
+            ],
+            "timestamp": "2019-10-29T15:23:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796385"
         }
     ],
     "post_staff": [],
