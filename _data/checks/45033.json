@@ -54,9 +54,42 @@
     },
     "num_chars": 7912,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 796438,
+            "text": [
+                "grazie per essere passati e del tempo che mi avete dedicato! Vi ringrazio della lettura e dei commenti",
+                "Le critiche sono sempre bene accette, aiutano a migliorare.",
+                "Qui, riguardo la musicalità, ho potuto e voluto fare ben poco: ero al limite dei caratteri e il racconto mi sembrava funzionasse bene così, quindi non ho lavorato per aggiungere \"secondarietà\" a discapito della comprensione del testo",
+                "Cercherò di dosare meglio gli ingredienti la prossima volta",
+                "è riferito al coltello: lei denomina il coltello chiamandolo con il nome \"Paolo\". Non credo ci siano possibili altre interpretazioni e non capisco che cosa tu possa aver pensato di diverso...",
+                "Potrebbe funzionare, però con un altro personaggio. Se Laura avesse capito da subito che era lei stessa a \"stuprarsi\" di notte mentre era sonnambula, avrebbe chiamato immediatamente l'ospedale. I soprusi, invece, continuano proprio perché lei crede che il tutto sia opera del cugino e l'amore per lui la fa desistere dal chiedere aiuto. Insomma, Laura è una maniaca ossessiva–compulsiva (è per questo che prende il Prozac ), ma non è così pazza da non fare nulla se si dovesse trovare nella condizione di capire che si sta autolesionando. Quindi sì, con un personaggio ancora più malato, secondo me, la tua idea sarebbe attuabile e potrebbe venirne un buon racconto. Grazie dello spunto!"
+            ],
+            "timestamp": "2019-10-29T17:41:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=796438"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 796438,
+            "text": [
+                "grazie per essere passati e del tempo che mi avete dedicato! Vi ringrazio della lettura e dei commenti",
+                "Le critiche sono sempre bene accette, aiutano a migliorare.",
+                "Qui, riguardo la musicalità, ho potuto e voluto fare ben poco: ero al limite dei caratteri e il racconto mi sembrava funzionasse bene così, quindi non ho lavorato per aggiungere \"secondarietà\" a discapito della comprensione del testo",
+                "Cercherò di dosare meglio gli ingredienti la prossima volta",
+                "è riferito al coltello: lei denomina il coltello chiamandolo con il nome \"Paolo\". Non credo ci siano possibili altre interpretazioni e non capisco che cosa tu possa aver pensato di diverso...",
+                "Potrebbe funzionare, però con un altro personaggio. Se Laura avesse capito da subito che era lei stessa a \"stuprarsi\" di notte mentre era sonnambula, avrebbe chiamato immediatamente l'ospedale. I soprusi, invece, continuano proprio perché lei crede che il tutto sia opera del cugino e l'amore per lui la fa desistere dal chiedere aiuto. Insomma, Laura è una maniaca ossessiva–compulsiva (è per questo che prende il Prozac ), ma non è così pazza da non fare nulla se si dovesse trovare nella condizione di capire che si sta autolesionando. Quindi sì, con un personaggio ancora più malato, secondo me, la tua idea sarebbe attuabile e potrebbe venirne un buon racconto. Grazie dello spunto!"
+            ],
+            "timestamp": "2019-10-29T17:41:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=796438"
+        }
+    ],
     "text": [
         "Traccia n.8: Sonnambulismo",
         "Laura",
