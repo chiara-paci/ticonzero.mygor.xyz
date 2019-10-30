@@ -59,7 +59,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 795150,
@@ -151,6 +151,15 @@
             ],
             "timestamp": "2019-10-29T15:27:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=796387"
+        },
+        {
+            "post_id": 796757,
+            "text": [
+                "Grazie di aver letto e di aver apprezzato. La tua interpretazione del racconto ha colto in pieno le mie intenzioni, e non posso che esserne lieta. È vero, ho esagerato con la connotazione, ma ognuno ha i suoi punti deboli... E poi, il timore di non caratterizzare adeguatamente il testo nell’ambito del genere, a causa dell’inesperienza, mi ha fatto incorrere nell’errore contrario. Come in tutte le cose, è necessario invece sempre trovare un equilibrio. Me ne ricorderò.",
+                "Alla prossima!"
+            ],
+            "timestamp": "2019-10-30T19:48:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=796757"
         }
     ],
     "post_staff": [],
