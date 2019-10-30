@@ -60,7 +60,7 @@
     },
     "num_chars": 7916,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 796561,
@@ -74,6 +74,14 @@
             ],
             "timestamp": "2019-10-30T09:15:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45041-h2019-chiudo-gli-occhi-e-colpevole-attendo//?do=findComment&comment=796561"
+        },
+        {
+            "post_id": 796712,
+            "text": [
+                "Grazie per avere lasciato le tue impressioni. Annotate. Buona serata!"
+            ],
+            "timestamp": "2019-10-30T17:21:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45041-h2019-chiudo-gli-occhi-e-colpevole-attendo//?do=findComment&comment=796712"
         }
     ],
     "post_staff": [],
