@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 795492,
@@ -132,6 +132,15 @@
             ],
             "timestamp": "2019-10-30T09:35:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796567"
+        },
+        {
+            "post_id": 796569,
+            "text": [
+                "Dimenticavo il mio grazie va anche a , sistemata altra punteggiatura. Grazie",
+                "E mo' un per tutti."
+            ],
+            "timestamp": "2019-10-30T09:42:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796569"
         }
     ],
     "post_staff": [],
