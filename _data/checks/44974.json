@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 27,
+    "num_posts": 28,
     "post_after": [
         {
             "post_id": 795492,
@@ -152,6 +152,17 @@
             ],
             "timestamp": "2019-10-30T14:14:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796654"
+        },
+        {
+            "post_id": 796731,
+            "text": [
+                "E da questo si capisce che non sono ma stata a New York!",
+                "Lui però odia quel genere di mobili",
+                "Quindi meglio che venda macchine.",
+                "Grazie infinte per il commento e il suggerimento, cambio subito nome alla via."
+            ],
+            "timestamp": "2019-10-30T18:05:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796731"
         }
     ],
     "post_staff": [],
