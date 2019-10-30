@@ -60,8 +60,18 @@
     },
     "num_chars": 6910,
     "num_commenti": 2,
-    "num_posts": 9,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 796520,
+            "text": [
+                "ciao",
+                "ho pensato di scrivere questo perché la madre aveva pensato che il bambino, in preda a quello che per lei è un attacco di fantasia, quasi schizofrenia, fosse tornato a casa dopo aver effettivamente raggiunto la scuola solo per convincere i genitori che era veramente dotato di superpoteri. Sarebbe poi quindi tornato a casa a piedi con la convinzione di essersi teletrasportato, lasciando lo zaino a scuola come prova. Non se se mi sono spiegato."
+            ],
+            "timestamp": "2019-10-29T23:46:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=796520"
+        }
+    ],
     "post_staff": [
         {
             "author": {

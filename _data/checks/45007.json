@@ -48,7 +48,7 @@
     },
     "num_chars": 1177,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 796509,
@@ -60,6 +60,12 @@
             ],
             "timestamp": "2019-10-29T21:44:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=796509"
+        },
+        {
+            "post_id": 796748,
+            "text": [],
+            "timestamp": "2019-10-30T18:58:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=796748"
         }
     ],
     "post_staff": [],

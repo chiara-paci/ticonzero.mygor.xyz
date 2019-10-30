@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 18725,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Befana Profana",
+        "url": "https://www.writersdream.org/forum/profile/18725-befana-profana/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , mi è piaciuto questo tuo nerissimo racconto \"di famiglia\", così tanto che mi chiedo se abbia senso pubblicare il mio coso, ma tant'è.",
+                    "la storia con l'incomprensione della bambina e i due orribili genitori l'ho trovata ottima. Forse avrei trovato più d'effetto se di fosse chiusa al momento della \"rivelazione\", dell'uccisione di Agnès, quando si scopre l'orrendo mistero. La parte successiva, con la \"punizione\" dei due e la pace ritrovata delle anime dei bambini ci sta, ma l'ho trovata meno d'impatto. Però è solo un punto di vista.",
+                    "Provo a farti le pulci sulle cose che ho visto migliorabili o quelle che non ho capito.",
+                    "questa è bellissima, volevo dirtelo",
+                    "mi sembra ridondante specificarlo, abbiamo capito. Sua madre l'accusa di essere la causa",
+                    "anche questa è magnifica (cioè, un'immagine orrenda ma resa benissimo )",
+                    "io metterei un'altra virgola, tra Agnès e seduta",
+                    "il dettaglio del bambino che sembra tremare sembra un indizio terribile di quello che si scoprirà dopo",
+                    "credo che sia una svista: ci vuole il futuro, come nel resto del periodo, non il condizionale",
+                    "la virgola è di troppo. O allora ne aggiungi una prima, per chiudere \"da quella notte\" in un inciso",
+                    "così la virgola è tra il soggetto e il verbo, io sposterei Agnès: \"in attesa dell'esito del parto, nello studio del padre, Agnès posa gli occhi\"",
+                    "come insulto creda che vada scritto tutt'attaccato: pisciasotto",
+                    "non ho capito cosa significhi \"finché ne entra\"?",
+                    "anche qui mi suona strana la virgola. Rigirerei in \"Immobili per il padre, i piccoli cadaveri si muovono invece per Agnès\"",
+                    "da morta starai ferma, come i tuoi fratelli",
+                    "è un'immagine ad effetto, certo, ma non riesco a figurarmela, a parte una cosa da film horror, con la pelle svuotata per magia. Boh",
+                    "Per il resto, te l'ho detto, il paragrafo finale con la \"punizione morale\" secondo me spiega un po' troppo. Senza volerlo eliminare, lo vedrei meglio snellito un po' e meno esplicativo. Ma resto impressionata, tanto dall'idea di fondo che dalla realizzazione. Un racconto da brividi."
+                ]
+            ],
+            "timestamp": "2019-10-30T18:05:20Z",
+            "title": "[H2019] I fratellini",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=796730",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7521,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "È il freddo a svegliarla. Un freddo affilato che s’insinua attraverso la pelle fino a grattarle le ossa e farla tremare. Strofina le braccia con le mani, cercando di scaldarle, inutilmente. Si guarda intorno, ma non può distinguere nulla, vede soltanto buio; le occorrono alcuni attimi per abituarsi alla penombra e scoprire una strada che non conosce.",
+        "Dei tre lampioni che riesce a vedere due sono spenti, il terzo, il più lontano, alita una luce giallastra e fioca. Cerca l’orologio, ma ha il polso nudo, e non solo quello, ha addosso soltanto la camicia da notte con cui si è coricata. Ha i piedi gelati, o forse peggio, perché le fanno davvero male.",
+        "Si china ad osservarli nella luce asfittica: sono bagnati, sporchi, le piante arrossate e gonfie presentano diverse lacerazioni, alcune sembrano profonde. Come se avessero camminato a lungo, come se… è evidente che ha camminato a lungo scalza, l’ultima cosa che ricorda è di essersi stesa nel letto, verso mezzanotte, nel suo appartamento pulito e riscaldato. E ora ? Dove cazzo si trova ora ? Come può esserci arrivata se non camminando? Avrei potuto almeno infilare le pantofole , riflette pur sapendo che è un pensiero idiota.",
+        "Credeva che il sonnambulismo fosse un problema ormai dimenticato, non aveva fatto più crisi da… da quando ? Dai diciotto anni almeno. Quand’era bambina, rappresentava un vero dramma per tutta la famiglia: i suoi genitori non sapevano più cosa fare, chiudere la camera a chiave non bastava, più di una volta si era calata dalla finestra, sempre senza svegliarsi. Ma crescendo le cose sono migliorate, pensava essersene liberata per sempre. Almeno fino al mese scorso, quando ha ricominciato a fare sogni bizzarri e svegliarsi talvolta fuori dal letto, con segni o indizi inesplicati addosso. Una mattina, un vicino che partiva al lavoro l’ha trovata addormentata in cortile. Ma questa volta… dove diavolo è finita?",
+        "Non importa. Le importa solo trovare il modo di rientrare, prima di prendersi un malanno; fa freddo e l’aria è gonfia di umidità. Di più, la strada è costellata di pozzanghere. La cosa la sorprende perché non pioveva quando si è coricata, non si vedevano nuvole da giorni. Scuote le spalle con un brivido: non è certo la cosa più strana della situazione.",
+        "A guardare bene le pozze, non è nemmeno sicura che sia acqua, o almeno non solo. Emanano un odore forte, pungente. Tanto da farle pizzicare la gola e gli occhi. Un odore che le sembra stia già impregnando la camicia da notte e anche la pelle. Puzza di morte , è la sola immagine che le venga in mente. Come nella baita di nonna, il giorno in cui riaprendola per l’estate avevano trovato i resti putrescenti di un tasso entrato e rimasto prigioniero chissà come e chissà quando. L’odore aveva infestato i luoghi per settimane. Non riuscivano nemmeno a mangiare senza essere presi dalla nausea.",
+        "Solo a ripensarci, sente di nuovo lo stomaco risalirle in gola. O forse è a causa dell’odore che sta respirando. Deve andarsene. Si puntella con le mani per rialzarsi. Anche il suolo su cui è seduta è umido, realizza ora che lo tocca con le dita. Si alza e si massaggia il corpo, nel tentativo ridicolo di strapparsi di dosso l’umidità e l’odore. Ha le mani sporche, di terra, ma non solo. Alza la destra in direzione dell’unico lampione per osservarla meglio. Quello sotto le unghie sembra sangue rappreso. Ne ha anche l’odore, dolciastro e stomachevole. Sfrega le mani tra loro, le strofina sulla camicia da notte rosa, tracciando strane linee brunastre. Esamina le braccia, le gambe, il torso: nessuna ferita, a parte quelle sotto i piedi.",
+        "Con un gesto consueto, un tic confortante venuto dall’infanzia, si passa le dita tra i capelli per spostarli dietro le orecchie. Sono bagnati, non ci aveva fatto caso prima. Ritira la mano lucida del fluido viscoso che le impregna i capelli. Lo stesso sangue che aveva sotto le unghie e che ristagna nelle pozzanghere ai suoi piedi. Il sangue di chi? Sa che dovrebbe conoscere la risposta, ma non la trova.",
+        "Un urlo le invade la gola, incapace di uscirne.",
+        "Deve andarsene, vuole rientrare a casa, chiudersi dentro a chiave, lavarsi sotto un getto d’acqua bollente e buttarsi nel letto. Vorrebbe chiudere gli occhi e scoprire che è un sogno, ma per quanto serri e riapra le palpebre, non succede nulla, è sempre lì, in quella strada buia e nauseabonda.",
+        "Deve scuotersi, prima che il freddo e la paura abbiano la meglio. Rifiuta di lasciarsi andare alla disperazione, deve camminare fino a incontrare qualcuno, o almeno un luogo noto per orientarsi, ritrovare la direzione di casa. Anche soltanto un segno di vita. Non ci sono case lungo la via in cui si trova: da un lato il lungo muro di quella che sembra una fabbrica abbandonata, dall’altro una sorta di campo incolto, erbe alte, sporcizia, tutto fuorché invitante, tanto più in quella penombra inquietante e fetida. Può andare solo dritto davanti a sé o nella direzione opposta. Non sa come decidere, la visibilità si limita a pochi metri in un senso come nell'altro.",
+        "S’incammina in direzione del lampadario acceso, tenendosi il più lontano possibile dal campo. Il muro alla sua destra le offre una parvenza di protezione nella solida vicinanza del cemento. Deve solo sforzarsi di ignorare le finestre dai vetri rotti che la fissano a meno di un metro dalla sua testa.",
+        "Cammina veloce, anche se i piedi le fanno male e si chiede per quanto ancora la porteranno. Sta quasi per crollare, quando intravede un incrocio, una via d’uscita da quella strada interminabile; accelera il passo. Più avanza e più le pozze sul terreno aumentano, è ormai impossibile non camminarci dentro. Più numerose e più profonde: il liquido le lambisce le caviglie. Avanza sforzandosi di non pensare alla sostanza viscosa in cui i suoi piedi si muovono con un orrendo rumore di risucchio. A ogni passo la melma si ispessisce intralciandole sempre più i movimenti.",
+        "D’un tratto si trova incapace d’alzare il piede sinistro e perde l’equilibrio, cadendo in avanti. Tende le mani per non finire lunga distesa, le ginocchia urtano con violenza il suolo, ma evita il peggio. Ha le mani e le gambe immerse in una vasta pozza, ancora più profonda di quanto le fosse sembrata camminando. Spinge sulle ginocchia e tira con forza indietro le braccia, per liberare le mani. La fanghiglia resiste. Strattona con tutte le sue forze, le spalle le fanno male quando infine riesce a estrarre le mani da quella colla scura. Vorrebbe rimettersi in piedi, ma non ne ha più la forza e si accorge con terrore che il livello della pozza sta salendo.",
+        "O forse è lei che scende, sprofonda, come se non ci fosse più l’asfalto solido sotto la pozza, o se quell’asfalto si fosse dissolto. Incapace di resistere, si sente risucchiata in quel fango, sempre più denso, profondo, abissale, che vuole aspirarla a sé. Nello stesso istante, il lampione si spegne senza un suono, lasciandola nel buio.",
+        "Vorrebbe urlare, chiamare aiuto, anche se non ha incontrato nemmeno un ratto da quando ha aperto gli occhi in quella strada. Vorrebbe urlare ma il fango le arriva ormai all’altezza della gola, le entra nel naso e nella bocca, con il suo sapore dolciastro, ferroso e insopportabile, le ricopre gli occhi. Non vede più nulla, non sente più nulla.",
+        "È il freddo a svegliarla. Un freddo affilato che s’insinua attraverso la pelle fino a grattarle le ossa e farla tremare. Strofina le braccia con le mani, cercando di scaldarle, inutilmente. Si guarda intorno, ma non può distinguere nulla, vede soltanto buio; le occorrono alcuni attimi per abituarsi alla penombra."
+    ],
+    "timestamp": "2019-10-30T19:03:01Z",
+    "title": "[H2019] Risvegli",
+    "topic_id": 45052,
+    "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli/"
+}
