@@ -59,8 +59,17 @@
     },
     "num_chars": 7521,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 796914,
+            "text": [
+                "Argh! Orrore! Ora non ho tempo e tornerò poi per rispondere ai vostri commenti, ma visto che me l’hai fatto notare, metto un gran disclaimer per tutti: alla fine non è « lampadario » ma lampione. Mannaggia a me che penso mezzo in franciliano e mezzo in Italiese, ho fatto confusione con « lampadaire » che significa lampione. Ho riletto decine di volte, ma non me ne sono accorta. Eppure all’inizio ho scritto giusto, lampioni. Che rincitrullita! Scusate tutti"
+            ],
+            "timestamp": "2019-10-31T14:33:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli//?do=findComment&comment=796914"
+        }
+    ],
     "post_staff": [],
     "text": [
         "È il freddo a svegliarla. Un freddo affilato che s’insinua attraverso la pelle fino a grattarle le ossa e farla tremare. Strofina le braccia con le mani, cercando di scaldarle, inutilmente. Si guarda intorno, ma non può distinguere nulla, vede soltanto buio; le occorrono alcuni attimi per abituarsi alla penombra e scoprire una strada che non conosce.",
