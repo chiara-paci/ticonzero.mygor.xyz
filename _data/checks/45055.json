@@ -16,7 +16,7 @@
         "valid": 1.0,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -64,9 +64,24 @@
     },
     "num_chars": 6862,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 796854,
+            "text": [
+                "Caipi, devo chiuderti il racconto. Il commento che hai allegato risale a cinque giorni prima della data in cui hai postato.",
+                "Me ne mandi un altro via mp? Così ti sblocco tutto."
+            ],
+            "timestamp": "2019-10-31T11:02:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=796854"
+        }
+    ],
     "text": [
         "Tema: Incubo",
         "Lunedì",
