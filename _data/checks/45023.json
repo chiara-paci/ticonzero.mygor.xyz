@@ -52,7 +52,7 @@
     },
     "num_chars": 7690,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 796227,
@@ -118,6 +118,21 @@
             ],
             "timestamp": "2019-10-29T09:34:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45023-h2019-una-proiezione-per-due-anzi-tre//?do=findComment&comment=796262"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 796815,
+            "text": [
+                "Provo a spiegarti meglio che cosa intendevo con il mio commento riguardo questo punto. L'intreccio del tuo racconto segue uno schema ben preciso, almeno da come lo interpreto io, che si interrompe alla fine. Prendo in prestito dalla poesia gli schemi delle rime e li adatto al contesto.",
+                "Il tuo intreccio segue lo schema (Anna–Pietro): AA BB CC DA A. Quindi Anna e Pietro seguono lo stesso andamento fino a quando Anna a un certo punto segue l'andare avanti, mentre Pietro già si ferma. Anna si ferma dopo Pietro, quando lui, invece, è sempre venuto dopo. Rompendo lo schema alla fine, mi sono trovata un attimino spiazzata: mi aspettavo che la struttura lineare continuasse, invece no...",
+                "Non so se sono riuscita a chiarire meglio il dubbio. O magari ho creato ancora più confusione"
+            ],
+            "timestamp": "2019-10-31T09:21:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45023-h2019-una-proiezione-per-due-anzi-tre//?do=findComment&comment=796815"
         }
     ],
     "text": [
