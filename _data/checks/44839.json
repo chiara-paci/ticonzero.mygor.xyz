@@ -46,7 +46,7 @@
     },
     "num_chars": 3878,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 792899,
@@ -95,6 +95,14 @@
             ],
             "timestamp": "2019-10-20T11:05:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=794197"
+        },
+        {
+            "post_id": 796970,
+            "text": [
+                "grazie"
+            ],
+            "timestamp": "2019-10-31T18:10:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=796970"
         }
     ],
     "post_staff": [],
