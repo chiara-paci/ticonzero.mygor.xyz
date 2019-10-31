@@ -12,13 +12,36 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.9066666666666666,
+        "weight": true
     },
-    "closed": true,
-    "commenti": [],
-    "commenti_weight": 0,
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9066666666666666
+            },
+            "text": [
+                [
+                    "- trama (intreccio, incipit, sviluppo e conclusione della storia, coerenza e originalità)",
+                    "L'andamento mi piace: partire dalla fine con l'annuncio immediato , non esplicitati, di qualcosa di quantomeno strano successo ai quattro amici, crea attesa.",
+                    "L'attesa è ben coltivata dalle descrizione degli incontri, della preparazione dello scenario di qualcosa di ancora indeterminato.",
+                    "Poi, quando \"il fatto\" avviene, a me è arrivato come una soluzione facile (facile intendo che poteva essere qualsiasi altro \"fatto\"), non preparata nemmeno con qualche piccolo indizio, qualche precedente. Insomma arriva un po' gratuito.",
+                    "Mi sarei anche aspettato una minima caratterizzazione - a volte basta una sfumatura, un tic - dei quattro personaggi , così sarebbero potuti essere cinque o sette e niente sarebbe cambiato.",
+                    "Lo stile a periodi brevi mi piace molto e mi pare sia adatto al contenuto.",
+                    "Un racconto gradevole, complimenti.",
+                    "Stefano"
+                ]
+            ],
+            "timestamp": "2019-10-31T17:38:29Z",
+            "title": "I demoni  meridiani",
+            "url": "https://www.writersdream.org/forum/forums/topic/44839-i-demoni-meridiani//?do=findComment&comment=796966",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,8 +49,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 672,
-    "num_commenti": 0,
-    "num_posts": 2,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -45,6 +68,19 @@
             ],
             "timestamp": "2019-10-31T13:22:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=796886"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "qfwfq",
+                "url": "https://www.writersdream.org/forum/profile/6051-qfwfq/"
+            },
+            "post_id": 797002,
+            "text": [
+                "Situazione ."
+            ],
+            "timestamp": "2019-10-31T20:58:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=797002"
         }
     ],
     "text": [

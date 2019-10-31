@@ -56,8 +56,23 @@
     },
     "num_chars": 8088,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 797011,
+            "text": [
+                "Credo che sono rimasto colpito spesso dal personaggio di Marzia che ha a che fare con il (povero) protagonista dei tuoi racconti. Stamattina, quando ho letto la tua risposta, mi è tornato in mente \"you make me feel a real woman\" e altri racconti che hai postato ad agosto.",
+                "Sono ancora lontano dal grottesco, ma cercherò di applicarmi quando avrò l'idea giusta.",
+                "Sono comunque felice che ti sia piaciuto, , visto che sono stato ispirato da alcuni tuoi racconti.",
+                "Mi sono divertito molto a leggere tanti tuoi racconti.",
+                "Buon fine settimana e grazie per il passaggio.",
+                "EDIT. Dimenticavo una cosa",
+                "L'ho capita solo stasera..."
+            ],
+            "timestamp": "2019-10-31T21:31:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=797011"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento:",
