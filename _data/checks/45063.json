@@ -12,13 +12,30 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ! È la prima volta che mi trovo nei panni di \"critico\", cercherò di fare del mio meglio!",
+                    "Ho scelto di commentare il tuo racconto perché l'ho trovato uno dei migliori. La narrazione è fluida, molto ben bilanciata tra \"dialogo\" (il virgolettato è d'obbligo ) e descrizione. La psiche della protagonista è ben visibile in filigrana fin dall'incipit e questo contribuisce a rendere la sua discesa dolorosa agli occhi del lettore. Molto coraggioso il tema, il mix tra eros e thanatos funziona in letteratura fin dall'antichità, ma sbandare lungo le sue cime scoscese è molto facile. Tu non l'hai fatto, restituendo una scena finale sobria nel suo orrore e dal ritmo impeccabile, a livello visivo decisamente la parte più riuscita del racconto. Parlando della protagonista, vero che il deus ex machina finale passa dal sonnambulismo, ma è interessante riflettere su cosa possa averla portata a simili fantasie, quale patologia o semplice rimosso quotidiano. In altre parole si intuisce una profondità maggiore della semplice risoluzione orrorifica, cosa che considero un ulteriore punto in più. Vuoi per gusto personale, ma ho sempre apprezzato i personaggi che avvolgono la storia intera sulle loro fragilità mentali, è una tridimensionalità che mi aiuta a riflettere. Per cui il mio giudizio finale non può che essere molto positivo, è vero, da una parte, che l'orrore che evochi è molto diverso dal \"classico\", ma è altrettanto vero che in questo contesto non posso che considerarlo un pregio."
+                ]
+            ],
+            "timestamp": "2019-10-31T16:12:38Z",
+            "title": "[H2019] Laura",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=796944",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,9 +43,33 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7976,
-    "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 796956,
+            "text": [
+                "Cavolo, sono alla mia primissima pubblicazione, ho tentato di seguire ogni punto del regolamento, ma evidentemente ho sbagliato!",
+                "Grazie della segnalazione, ora giusto il tempo di capire come fare per rimediare"
+            ],
+            "timestamp": "2019-10-31T17:14:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=796956"
+        },
+        {
+            "post_id": 796961,
+            "text": [
+                "Grazie infinite ! Provvedo subito!"
+            ],
+            "timestamp": "2019-10-31T17:24:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=796961"
+        },
+        {
+            "post_id": 796962,
+            "text": [],
+            "timestamp": "2019-10-31T17:27:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=796962"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia n.2: Il pozzo",
