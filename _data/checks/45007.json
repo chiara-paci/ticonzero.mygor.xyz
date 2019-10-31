@@ -48,7 +48,7 @@
     },
     "num_chars": 1177,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 796509,
@@ -66,6 +66,14 @@
             "text": [],
             "timestamp": "2019-10-30T18:58:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=796748"
+        },
+        {
+            "post_id": 796884,
+            "text": [
+                "ciao detto seriamente, non ho capito la tua obiezione"
+            ],
+            "timestamp": "2019-10-31T12:56:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=796884"
         }
     ],
     "post_staff": [],

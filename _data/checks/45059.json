@@ -1,0 +1,71 @@
+{
+    "author": {
+        "author_id": 30926,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Stevesteve",
+        "url": "https://www.writersdream.org/forum/profile/30926-stevesteve/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 672,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "qfwfq",
+                "url": "https://www.writersdream.org/forum/profile/6051-qfwfq/"
+            },
+            "post_id": 796886,
+            "text": [
+                "Hai sbagliato il link al commento (perché rimanda a questa stessa pagina).",
+                "L'unico tuo commento che ho trovato, fatto entro un'ora prima dalla pubblicazione di questo, è troppo breve e non è valido per pubblicare.",
+                "Ti rimando al regolamento di sezione, dove se vuoi troverai una traccia su come fare un comento valido.",
+                "Chiudo in attesa di un tuo nuovo commento, che vorrai segnalare via MP a me o a qualsiasi altro componente dello Staff che troverai online."
+            ],
+            "timestamp": "2019-10-31T13:22:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=796886"
+        }
+    ],
+    "text": [
+        "____________________________________________________",
+        "Giuditta lucida il piatto d’argento. Affila la lama.",
+        "Si è ben esercitata.",
+        "È pronta.",
+        "Un colpo solo: deciso, preciso, netto.",
+        "Si china a poggiare la spada.",
+        "Dal basso coglie l’ultimo sguardo di Oloferne.",
+        "Si rialza. Oloferne non capisce perché non riesce più a muoversi.",
+        "Giuditta afferra i capelli di Oloferne con la mano sinistra, con la destra il piatto d’argento.",
+        "Poggia la testa di Oloferne sul piatto.",
+        "Va verso lo specchio.",
+        "È un finto specchio. Dietro, per questo turno, ci sono Artemisia, Botticelli, Klimt, Caravaggio.",
+        "Giuditta dice spero che sia venuta bene, stavolta.",
+        "____________________________________________________",
+        "commento"
+    ],
+    "timestamp": "2019-10-31T12:38:10Z",
+    "title": "Giuditta e Oloferne",
+    "topic_id": 45059,
+    "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne/"
+}
