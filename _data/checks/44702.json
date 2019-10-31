@@ -71,7 +71,7 @@
     },
     "num_chars": 7940,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 790767,
@@ -113,6 +113,15 @@
             ],
             "timestamp": "2019-10-28T14:03:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44702-on-writing-7-riepilogo//?do=findComment&comment=796093"
+        },
+        {
+            "post_id": 796796,
+            "text": [
+                "No, certo, è sottinteso. Però se posto i racconti qui è proprio per avere una reazione a caldo. Quindi magari modificarla non sempre (qualche volta sì) ma rivalutarla sì, sempre.",
+                "In secondo luogo, credo che se vogliamo farci leggere abbiamo bisogno soprattutto dei pareri non tecnici, che dici?"
+            ],
+            "timestamp": "2019-10-31T07:15:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44702-on-writing-7-riepilogo//?do=findComment&comment=796796"
         }
     ],
     "post_staff": [

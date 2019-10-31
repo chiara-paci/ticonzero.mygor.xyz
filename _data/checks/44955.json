@@ -63,7 +63,7 @@
     },
     "num_chars": 4535,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 795500,
@@ -76,6 +76,20 @@
             ],
             "timestamp": "2019-10-26T05:15:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=795500"
+        },
+        {
+            "post_id": 796785,
+            "text": [
+                "Buongiorno cara Flo",
+                "Erika",
+                "giusto!",
+                "oh, cavolo!",
+                "se scappa o non scappa lo scoprirai",
+                "Erika chiama Rosa per vedere se lei sa qualcosa di Jessy; Rosa risponde entusiasta senza lasciar parlare Erika e le dice che ha parlato con Jessy che è disposta ad andare da lei; Erika le dice che Jessy è scappata via senza salutare, ma che se per davvero sta andando da Rosa riusciranno a trovarla e ad accompagnarla da lei... spero sia più chiaro Flo, mi sono incartata anche io a spiegarlo!",
+                "Grazie delle tue riflessioni"
+            ],
+            "timestamp": "2019-10-31T04:24:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=796785"
         }
     ],
     "post_staff": [
@@ -95,6 +109,25 @@
             ],
             "timestamp": "2019-10-26T05:15:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=795500"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 796785,
+            "text": [
+                "Buongiorno cara Flo",
+                "Erika",
+                "giusto!",
+                "oh, cavolo!",
+                "se scappa o non scappa lo scoprirai",
+                "Erika chiama Rosa per vedere se lei sa qualcosa di Jessy; Rosa risponde entusiasta senza lasciar parlare Erika e le dice che ha parlato con Jessy che è disposta ad andare da lei; Erika le dice che Jessy è scappata via senza salutare, ma che se per davvero sta andando da Rosa riusciranno a trovarla e ad accompagnarla da lei... spero sia più chiaro Flo, mi sono incartata anche io a spiegarlo!",
+                "Grazie delle tue riflessioni"
+            ],
+            "timestamp": "2019-10-31T04:24:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44955-le-ragazze-capitolo-20-33//?do=findComment&comment=796785"
         }
     ],
     "text": [
