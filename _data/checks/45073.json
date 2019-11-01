@@ -68,9 +68,38 @@
     },
     "num_chars": 5624,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 797153,
+            "text": [
+                "ciao , sì, mi ero un po' fossilizzata negli ultimi tempi",
+                "cavolo, non c'è una virgola Per fortuna che ho riletto!",
+                "Anche io sentivo olto le ripetizioni, ma le ho lasciate, come mi capita quasi sempre Dopo vado a eliminarle!",
+                "Grazie Emy, anche per aiutarmi con il titolo"
+            ],
+            "timestamp": "2019-11-01T15:33:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=797153"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797153,
+            "text": [
+                "ciao , sì, mi ero un po' fossilizzata negli ultimi tempi",
+                "cavolo, non c'è una virgola Per fortuna che ho riletto!",
+                "Anche io sentivo olto le ripetizioni, ma le ho lasciate, come mi capita quasi sempre Dopo vado a eliminarle!",
+                "Grazie Emy, anche per aiutarmi con il titolo"
+            ],
+            "timestamp": "2019-11-01T15:33:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=797153"
+        }
+    ],
     "text": [
         "«Guarda come sei conciato!»",
         "Fabio china la testa e sbircia la sua maglia sudicia: è stato un pomeriggio fantastico! Lui e gli altri hanno combattuto la battaglia di fango più spettacolare dell’estate.",

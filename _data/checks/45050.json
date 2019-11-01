@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 797009,
@@ -73,6 +73,18 @@
             ],
             "timestamp": "2019-10-31T21:26:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=797009"
+        },
+        {
+            "post_id": 797173,
+            "text": [
+                "Grazie per le belle parole @ Roberto Ballardini.",
+                "Il tre mi serviva per fare avere ad Agnes due lapidi su cui piangere, e poi tre bambini nel letto",
+                "Nella prima scena la donna sta per partorire il quinto fratellino.",
+                "Agnes va nella stanza del padre a pregare per il bimbo in arrivo e vede le lapidi, nel giardino sono 4...dall'episodio dell'accusa all'ultimo parto è passato del tempo",
+                "Grazie"
+            ],
+            "timestamp": "2019-11-01T16:27:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=797173"
         }
     ],
     "post_staff": [],
