@@ -59,7 +59,7 @@
     },
     "num_chars": 7912,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 796438,
@@ -86,6 +86,17 @@
             ],
             "timestamp": "2019-10-31T08:57:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=796811"
+        },
+        {
+            "post_id": 797177,
+            "text": [
+                "grazie per la lettura e il tempo che avete dedicato al racconto, mi fa molto piacere, e sono felice che l'abbiate gradito, ognuno a modo suo. Fiori per tutti",
+                "Come mai parli di deus ex machina? Il sonnambulismo è il principio fondante del racconto, se lei non fosse sonnambula non si sarebbe fatta del male da sé e quindi non si sarebbe uccisa. Non capisco l'attribuzione del termine: il sonnambulismo non è l'espediente che porta alla risoluzione, ma è la causa su cui si basa il tutto...",
+                "Sono d'accordo. A parte che mi sono dimenticata un \"a-capo\" per staccare i due punti di vista (ossia quando finisce quello di Laura e si passa a quello della videocamera), ma vabbè... correggibile",
+                "Avevo provato a scrivere il ritrovamento delle immagini, ma era poco efficace, ho preferito fare il cambio. Riguardo l'eccesso informativo della frase con i mezzi di tortura sì, avrei dovuto scrivere solo del coltello e basta, la precisazione su che cosa ha usato prima è di troppo. Grazie per le critiche"
+            ],
+            "timestamp": "2019-11-01T16:52:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797177"
         }
     ],
     "post_staff": [
@@ -124,6 +135,22 @@
             ],
             "timestamp": "2019-10-31T08:57:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=796811"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 797177,
+            "text": [
+                "grazie per la lettura e il tempo che avete dedicato al racconto, mi fa molto piacere, e sono felice che l'abbiate gradito, ognuno a modo suo. Fiori per tutti",
+                "Come mai parli di deus ex machina? Il sonnambulismo è il principio fondante del racconto, se lei non fosse sonnambula non si sarebbe fatta del male da sé e quindi non si sarebbe uccisa. Non capisco l'attribuzione del termine: il sonnambulismo non è l'espediente che porta alla risoluzione, ma è la causa su cui si basa il tutto...",
+                "Sono d'accordo. A parte che mi sono dimenticata un \"a-capo\" per staccare i due punti di vista (ossia quando finisce quello di Laura e si passa a quello della videocamera), ma vabbè... correggibile",
+                "Avevo provato a scrivere il ritrovamento delle immagini, ma era poco efficace, ho preferito fare il cambio. Riguardo l'eccesso informativo della frase con i mezzi di tortura sì, avrei dovuto scrivere solo del coltello e basta, la precisazione su che cosa ha usato prima è di troppo. Grazie per le critiche"
+            ],
+            "timestamp": "2019-11-01T16:52:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797177"
         }
     ],
     "text": [
