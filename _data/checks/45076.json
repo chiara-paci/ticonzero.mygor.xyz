@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ci sono delle perle nella tua poesia, sai? Che reggono anche da sole, tanto solo belle. Ti faccio alcune proposte, da prendere come al solito con le pinze.",
+                    "Nella prima parte",
+                    "ci sono moltissime immagini. Nonostante siano semplici, l'attenzione è un po' difficile da tenere e inizialmente ho pensato: forse andrebbe eliminata? Poi mi sono detta no, forse bisognerebbe solo dare alle immagini un po' di respiro, togliere compattezza. Aggiungere degli accapo e modulare la punteggiatura, che in genere non ritengo necessaria in poesia, ma qui ci sta. Dopo 'un aquilone' un punto potrebbe aiutare chi legge a recuperare il soggetto di 'troppo lontana'. Toglierei anche 'in volo' perché è ridondante, le lanterne cinesi richiamano subito l'immagine del volo, dirlo appesantisce un po'. Ho pensato a un'alternativa, ma sarebbe la mia modalità espressiva e non ha senso, credo che la tua vada rispettata, anche perché contiene delle idee assolutamente interessanti.",
+                    "Qui inizia la seconda parte, con quel 'e noi aspettiamo' che mi piace molto, mentre la parte successiva l'ho trovata un po' ostica alla lettura, da ricostruire:",
+                    "E qui torna l'immagine dei bambini che ti ho visto usare molte volte e credo, ormai, sia parte della tua voce poetica:",
+                    "Ed eccomi alla parte migliore, quella che sarei stata tentata di lasciare da sola, senza capo né coda, perché ha un suo peso e ha bisogno, forse di un suo spazio:",
+                    "Bella l'immagine dei pifferai, dei suonatori di 'storie' beffarde (quelli della vita reale) e della forza dell'infanzia. Nell'inverno ho visto la vita stessa, che da un certo punto in poi diventa per forza di cose difficoltà e sofferenza, fa parte della quotidianità di un adulto e della non brevità che, invece, è propria dell'infanzia. Ma se vogliamo possiamo trovare luce ancora, bellezza, rarità e avere di nuovo quella sensazione di non finito, di desiderio e di motore.",
+                    "E qui mi hai sorpreso.",
+                    "Rinunciare alla nostalgia, alle partenze e agli arrivi (alla saudade) è duro per me, ma mi chiedo se sia chiaro il nesso con il resto o se, appunto, nel dare spazio al tutto, la tua poesia possa acquisire quella potenza che merita.",
+                    "Buona giornata, Roberto."
+                ]
+            ],
+            "timestamp": "2019-11-01T14:38:24Z",
+            "title": "Hamelin",
+            "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin//?do=findComment&comment=797139",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 389,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ci stavamo affaccendando",
+        "perché non ti accorgessi",
+        "del furto.",
+        "Mantenevamo il silenzio",
+        "contando sul tuo rapido",
+        "declino.",
+        "E ha funzionato.",
+        "Per più di un anno",
+        "hai ridotto in pezzi",
+        "minuscoli pezzi",
+        "senza vedere",
+        "la tua",
+        "mano.",
+        "Ma questa sera",
+        "a letto",
+        "eri il solito bruco disperso",
+        "solo più stanco",
+        "solo più spossato.",
+        "E mentre ti parlavamo attorno",
+        "hai fermato le dita",
+        "dal tremore costante",
+        "e hai detto:",
+        "però mi piaceva,",
+        "averla."
+    ],
+    "timestamp": "2019-11-01T14:44:25Z",
+    "title": "La fede smarrita",
+    "topic_id": 45076,
+    "url": "https://www.writersdream.org/forum/forums/topic/45076-la-fede-smarrita/"
+}
