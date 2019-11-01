@@ -16,7 +16,7 @@
         "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -53,9 +53,34 @@
             "title": "[H2019] La bestia",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=795283",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "complimenti per questo racconto angosciante!",
+                    "Bella e originale la trama, orribile il contesto.",
+                    "In alcuni punti avrei evidenziato meglio i pensieri della bambina, usando il corsivo come hai fatto ogni tanto, per renderli uniformi e facilmente identificabili.",
+                    "La storia presenta diversi salti temporali: in alcuni punti mi sono sentita confusa non capendo subito se si narrava i fatti presenti o si parlava di quelli passati.",
+                    "La narrazione a tratti è molto secca e sbrigativa: le atmosfere sono appena accennate; le suggestioni arrivano solo dai fatti e dai dialoghi. A mio avviso questa narrazione \"asciutta\" toglie qualcosa al testo, lo frena, non lo aiuta a esplodere in tutto il suo potenziale.",
+                    "Alcuni tempi verbali mi suonano un pò \"ballerini\"... qui, per esempio, non era più adatto scrivere addormentava?",
+                    "La, refuso.",
+                    "Indelebili i neonati morti che gattonano sotto il lenzuolo!",
+                    "Il finale mi convince a metà: buona l'intuizione di accennare a un possibile seguito della storia, ma il modo sbrigativo con cui liquidi la questione mi lascia un pò insoddisfatta.",
+                    "E poi si accenna a una specie di vendetta trasversale che vorrebbe portare giustizia e bilanciare un certo tipo di equilibrio: un horror non è detto che debba finire con il lettore rincuorato. Anzi..."
+                ]
+            ],
+            "timestamp": "2019-10-31T00:03:12Z",
+            "title": "[H2019] I fratellini",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=796784",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -63,8 +88,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 6862,
-    "num_commenti": 1,
-    "num_posts": 3,
+    "num_commenti": 2,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -80,6 +105,17 @@
             ],
             "timestamp": "2019-10-31T11:02:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=796854"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797083,
+            "text": [],
+            "timestamp": "2019-11-01T11:14:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=797083"
         }
     ],
     "text": [

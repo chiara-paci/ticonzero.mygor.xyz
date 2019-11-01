@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,24 @@
     },
     "num_chars": 90,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 797075,
+            "text": [
+                "per postare un proprio testo occorre allegare il link a un commento approfondito fatto nella stessa giornata. Ho visto due tuoi commenti di oggi, ma entrambi troppo brevi.",
+                "Devo chiudere questa discussione, per riaprirla dovrai inviare a uno staffer tramite MP il link di un commento più approfondito."
+            ],
+            "timestamp": "2019-11-01T10:48:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45072-libert%C3%A0-in-attesa-una-sentenza//?do=findComment&comment=797075"
+        }
+    ],
     "text": [
         "Richiesta libertà, una sentenza",
         "raggiunta la parola conferma",
