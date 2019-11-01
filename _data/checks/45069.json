@@ -2,9 +2,9 @@
     "author": {
         "author_id": 22607,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
-            "narrativa": 0,
+            "narrativa": 1,
             "poesia": 0
         },
         "name": "quandechesimangia",
@@ -49,9 +49,9 @@
     "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 3528,
     "num_commenti": 1,
@@ -94,7 +94,7 @@
         "Ordinato e impietoso, dotato di avvocato, giudice e... BOIA."
     ],
     "timestamp": "2019-11-01T01:23:33Z",
-    "title": "[H2019] Lei sulle tue dita",
+    "title": "[H2019 - Fuori concorso] Lei sulle tue dita",
     "topic_id": 45069,
-    "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-lei-sulle-tue-dita/"
+    "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-fuori-concorso-lei-sulle-tue-dita/"
 }
