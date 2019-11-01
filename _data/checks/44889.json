@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.19673992673992674,
+        "valid": 0.19833333333333333,
         "weight": true
     },
     "closed": true,
@@ -21,14 +21,13 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.2868131868131868
+                "valid": 0.29
             },
             "text": [
                 [
                     "La figura della mamma, soprattutto quando ci lascia per sempre è senza dubbio un tema delicato...",
                     "E bisogna trattarlo con sentimento e anche con un pò di malinconia, perchè la mamma di ognuno di noi è sempre stata una figura unica e speciale. L'hai tracciata con un pò di pessimismo cancellandone le nuvole, ma la mamma è sempre lì anche se noi non la vediamo..."
-                ],
-                []
+                ]
             ],
             "timestamp": "2019-10-16T18:46:58Z",
             "title": "Nuvole",
