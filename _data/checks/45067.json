@@ -55,7 +55,7 @@
     },
     "num_chars": 7972,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 797108,
@@ -81,7 +81,26 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797225"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797249,
+            "text": [
+                "Vabbè. So morto.",
+                "Mai capito se la parodia di un horror può essere considerata un horror a sua volta. Netflix mi infila Scary Movie tra Shining e Scream, per esempio, e la cosa mi lascia abbastanza confuso. Ma comunque, sti discorsi sui generi mi hanno sempre fatto venire il mal di testa, quindi lasciamo perdere.",
+                "Più che altro, penso che con questa idea di Pierynowise avresti potuto spingere più sull’acceleratore. Non starò qui a darti consigli, perché se c’è uno capace di pensare a cafonate assurde metà divertenti, metà disgustose, metà terrificanti (cos) quello sei tu.",
+                "È una parodia, in una parodia si gioca con scene e personaggi rubati ad altri libri/film, e qui forse ti sei trattenuto, hai giocato pochino. Mi aspettavo qualche trovata volponiana più d’impatto, da risata e vomitata di budella simultanee.",
+                "Vabbè, facile parlare.",
+                "Vado a commentare gli altri, ciao"
+            ],
+            "timestamp": "2019-11-01T21:18:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797249"
+        }
+    ],
     "text": [
         "Traccia 5: una voce nel buio.",
         "Era una notte buia e tempestosa. Non cominciano così le migliori storie dell’orrore?",

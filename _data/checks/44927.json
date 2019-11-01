@@ -49,7 +49,7 @@
     },
     "num_chars": 7573,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 794491,
@@ -125,6 +125,14 @@
             ],
             "timestamp": "2019-10-23T19:09:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=795043"
+        },
+        {
+            "post_id": 797250,
+            "text": [
+                "ciao grazie per le belle parole. Il testo va sicuramente riscritto, anche grazie alle osservazioni (non tutte) di alcuni lettori di Officina. Così com'è, è volutamente innervato di citazioni e stereotipi, soprattutto del cinema noir americano \"classico\" (dagli anni Trenta agli Cinquanta del secolo scorso, per intenderci)"
+            ],
+            "timestamp": "2019-11-01T21:19:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44927-e-tutto-il-resto-se-nera-andato//?do=findComment&comment=797250"
         }
     ],
     "post_staff": [

@@ -1,0 +1,70 @@
+{
+    "author": {
+        "author_id": 22545,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Max Friedmon",
+        "url": "https://www.writersdream.org/forum/profile/22545-max-friedmon/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "meglio Avea sognato e si era realizzato , perché poi l'azione si sposta al tempo presente",
+                    "un abbigliamento fantozziano per un ex professore di liceo diventato docente universitario",
+                    "quindi il dialogo si svolge in un ristorante, forse all'aperto, visto che la ragazza fila via in skate lungo l'avenida. tuttavia dal contesto sembrava che i due fossero in un'aula universitaria",
+                    "paura di cosa?",
+                    "chi lo dice?",
+                    "quindi Carlos può parlare o no? perché a sua madre non riesce a replicare, se non con un sussurro rauco, invece con l'infermiera interloquisce in maniera fluida",
+                    "avrà anche pubblicato due romanzi e una silloge, ma questo prof, oltre a essere succube delle donne autoritarie, sembra anche un gran trombone pieno di pregiudizi",
+                    "il tuo testo, , non fa scattre empatia con il personaggio principale: non suscita simpatia, semmai antipatia e appare come un frustrato e un represso. Aneta e l'infemiera invece sono tratteggiate bene, con pochi tratti decisivi: lei è una specie di Lolita che neanche ci prova a fingere di flirtare con Humbert Humbert/Carlos, l'infermiera una donna pratica che sa mettere a posto i pazienti (e forse anche i medici) con poche parole",
+                    "il problema maggiore, a parer mio, è il quid del racconto, la sua reason why: è la tragedia di un uomo ridicolo? cosa ci comunica il testo, al di là di poche superficiali impressioni?"
+                ]
+            ],
+            "timestamp": "2019-11-01T20:25:11Z",
+            "title": "Editor's crisis",
+            "url": "https://www.writersdream.org/forum/forums/topic/45077-editors-crisis//?do=findComment&comment=797235",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3008,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Cosa dice sempre un ascensore? Tutto procede secondo i piani... La freddura gli torna in mente ogni volta che prende un ascensore. Gli piacciono gli ascensori: filano verso la meta senza perdere tempo, sono asettici e impersonali, non gli interessa chi sei, da dove vieni, cosa pensi del mondo... a loro basta che schiacci il pulsante e aspetti. Lui lavora così: non gl'interessa se la persona che lo paga sia bianca o nera, alta o bassa, uomo o donna. Basta che paghi e lui procede con il piano. Va dove deve andare, ammazza chi deve ammazzare e se ne torna a casa. Asettico e impersonale, come un ascensore.",
+        "Dicono che fare le scale faccia bene alla salute e probabilmente è vero, ma nel suo lavoro è il contrario: se incontri una persona sulle scale del palazzo dove vivi la guardi con più attenzione che in ascensore. Di solito solo chi abita nel condominio fa le scale; conosce il territorio, lo attraversa senza remore. Chi non è indigeno prende l'ascensore: magari ti saluta con educazione ma senza sbottonarsi, difficilmente ti resta impresso. Ed essere anonimi è una delle regole basilari del suo lavoro.",
+        "Quel palazzo poi è l'ideale: non ha portineria, non ha telecamere di sicurezza, ha sia uffici sia abitazioni quindi può essere percorso da chiunque, condomino, lavoratore, cliente, fattorino... Otto piani di varia umanità.",
+        "Il tizio al settimo ha appena lasciato questa valle di lacrime senza troppe resistenze (non è un sadico, gli spiace sbrigare il lavoro in maniera rapida e pulita) e ora l'ascensore lo sta portando al piano terra. È un modello antico, solido, senza orride musichette di sottofondo. Uno specchio a muro, tracce di cicche sul pavimento, una porta a soffietto che si chiude quando parte e si apre quando arriva.",
+        "Si accorge subito che qualcosa non va. L'ascensore si è fermato, ma la porta non si apre. Il cerchietto metallico del bottone del terzo piano è illuminato di rosso, ma lui è sicuro di aver schiacciato T. Prova a forzare la porta di cabina, ma non succede niente. Si è guastato. L'ascensore si è guastato. Forse è al terzo piano o forse quella luce non significa niente ed è fermo chissà dove. Inutile riprovarci: anche se riuscisse ad aprire la porta si troverebbe davanti un muro di cemento.",
+        "Un altro schiaccerebbe il pulsante giallo di allarme o chiamerebbe il numero dell'assistenza con il cellulare, ma lui non può. A parte che quando lavora non porta con sé il cellulare (il telefonino lascia tracce come una lumaca con la sua bava), non può nemmeno schiacciare quel lurido tasto. E se mentre aspetta il tecnico qualcuno scopre il cadavere al settimo piano? Mettiamo anche che lo liberino prima della “macabra scoperta”, come dicono i cattivi giornalisti. Sarebbe costretto a uccidere il tecnico e anche altri eventuali testimoni... complicazioni, quelle che lui odia.",
+        "A quanto pare c'è poco da fare: è prigioniero di quel cubicolo scalcinato. Si appoggia a una parete, sospira e gli viene in mente il titolo di un vecchio film francese, Ascensore per il patibolo."
+    ],
+    "timestamp": "2019-11-01T21:13:03Z",
+    "title": "Tutto procede secondo i piani",
+    "topic_id": 45079,
+    "url": "https://www.writersdream.org/forum/forums/topic/45079-tutto-procede-secondo-i-piani/"
+}
