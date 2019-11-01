@@ -1,0 +1,83 @@
+{
+    "author": {
+        "author_id": 31560,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "INTES MK-69",
+        "url": "https://www.writersdream.org/forum/profile/31560-intes-mk-69/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , io invece trovo ottimo questo tuo componimento. Credo che a volte, i gioiellini più riusciti vengano fuori dalla penna dell'autore/autrice in modo inconsapevole. Se una poesia la si lavora troppo può capitare che alla fine risulti artificiosa (almeno questo è il mio modo di vedere le cose ed è per questo che trovo lodevole l'iniziativa dei lampi). In questa tua descrivendo una vecchia in un jazz club hai detto molto di più di quello che forse volevi dire ed è questa la meraviglia della poesia.",
+                    "Con questo semplice verso",
+                    "\"su un calice sgombro di compagnia\"",
+                    "Hai impietosamente spogliato questa vecchia nobile mostrandola per quello che realmente è: una donna sola. A nulla vale il suo potere e il suo rango che diventano solo una patetica messinscena con la quale inganna anche se stessa.",
+                    "Ci sono inoltre altri temi introdotti negli arguti versi finali dove la strafottenza della nobile donna diventa mano a mano sempre più sfacciata fino a giungere agli ultimi splendidi versi",
+                    "\"e quanti avrebbe potuto trovarne",
+                    "sulla strada,",
+                    "gratis e a disposizione \"",
+                    "rivelatrici a dire il vero di una animo ben poco nobile",
+                    "Un'ottima prova, secondo me.",
+                    "Saluti,",
+                    "Mirko"
+                ]
+            ],
+            "timestamp": "2019-11-01T23:01:46Z",
+            "title": "[LP 5] Il Jazz Club",
+            "url": "https://www.writersdream.org/forum/forums/topic/44825-lp-5-il-jazz-club//?do=findComment&comment=797279",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 459,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "M'incontro di giorno con una signora",
+        "di nascosto, nel parco, è la mia amante.",
+        "La gente passa, distratta, non vede",
+        "quelle parole riflesse negli occhi",
+        "lo sguardo perso, in un vuoto d'amore.",
+        "E lei, con passo lieve m'incanta",
+        "m'inchioda",
+        "sulla sua croce",
+        "con gioia",
+        "è folle, è folle!",
+        "La vedo assente, fra sbarre di giada",
+        "nel silenzio, li sento",
+        "li sento quei passi veloci",
+        "quella flebo, che le penetra dentro.",
+        "Questo canto malato che anche oggi recita",
+        "forse è solo",
+        "la nostra preghiera."
+    ],
+    "timestamp": "2019-11-01T23:14:29Z",
+    "title": "Il canto di una pazza",
+    "topic_id": 45081,
+    "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza/"
+}
