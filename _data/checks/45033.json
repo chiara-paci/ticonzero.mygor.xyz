@@ -59,7 +59,7 @@
     },
     "num_chars": 7912,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 796438,
@@ -97,6 +97,17 @@
             ],
             "timestamp": "2019-11-01T16:52:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797177"
+        },
+        {
+            "post_id": 797208,
+            "text": [
+                "grazie per la lettura e il giudizio",
+                "No. Secco, proprio: mi fa piuttosto schifo",
+                "Nella frase che mi hai citato, le parole di Paolo sono sequenziali e strettamente legate al suo annuire, quindi i due punti sono la soluzione più logica per esprimere il rapporto tra i due pezzi di frase. Questo il mio metodo di scelta della puntaggiatura e degli a-capo nei dialoghi, vado di logica seguendo la regola",
+                "grazie mille per il chiarimento, adesso ho capito meglio il tuo punto di vista. Mi fa molto piacere che tu abbia apprezzato il tutto"
+            ],
+            "timestamp": "2019-11-01T18:09:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797208"
         }
     ],
     "post_staff": [
@@ -151,6 +162,22 @@
             ],
             "timestamp": "2019-11-01T16:52:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797177"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 797208,
+            "text": [
+                "grazie per la lettura e il giudizio",
+                "No. Secco, proprio: mi fa piuttosto schifo",
+                "Nella frase che mi hai citato, le parole di Paolo sono sequenziali e strettamente legate al suo annuire, quindi i due punti sono la soluzione più logica per esprimere il rapporto tra i due pezzi di frase. Questo il mio metodo di scelta della puntaggiatura e degli a-capo nei dialoghi, vado di logica seguendo la regola",
+                "grazie mille per il chiarimento, adesso ho capito meglio il tuo punto di vista. Mi fa molto piacere che tu abbia apprezzato il tutto"
+            ],
+            "timestamp": "2019-11-01T18:09:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797208"
         }
     ],
     "text": [
