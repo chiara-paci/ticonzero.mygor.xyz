@@ -89,8 +89,21 @@
     },
     "num_chars": 6862,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 797255,
+            "text": [
+                "Ciao ,",
+                "ah, queste malefiche descrizioni che mi prendono la mano e se la portano via!",
+                "Una curiosità:",
+                "Sigh… E pensare che avevo giocato tutto il racconto sulle ultime tre righe...",
+                "Grazie del passaggio!"
+            ],
+            "timestamp": "2019-11-01T21:42:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=797255"
+        }
+    ],
     "post_staff": [
         {
             "author": {

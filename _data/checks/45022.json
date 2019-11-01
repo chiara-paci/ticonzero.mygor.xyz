@@ -67,8 +67,17 @@
     },
     "num_chars": 7730,
     "num_commenti": 2,
-    "num_posts": 10,
-    "post_after": [],
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 797263,
+            "text": [
+                "Grazie a tutti per i feedback e i suggerimenti 🙏"
+            ],
+            "timestamp": "2019-11-01T21:59:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=797263"
+        }
+    ],
     "post_staff": [
         {
             "author": {

@@ -54,7 +54,7 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 795747,
@@ -94,7 +94,25 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=796554"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797259,
+            "text": [
+                "mi ha distratto e anche molto la strana lingua che hai scelto di usare per questo racconto. Pensa che dopo le prime frasi credevo si trattasse di una parodia.",
+                "Diciamo che secondo me non è riuscitissimo il tentativo di usare un italiano alto e arcaico. Cioè, credo proprio che non ti sia venuto bene, come a un mio amico pugliese non riesce bene di imitare il dialetto della mia città. Non gli viene naturale, si capisce che non è di qui. Allo stesso modo anche il tuo testo mi sembra forzato e... poco convincente. Si sente che hai cercato in tutti i modi di appesantire la lingua (e ci sta anche) ma forse il risultato non è dei migliori. Ripeto, pensavo fosse una presa per il ciulo dello stile di Poe e simili.",
+                "Non sono riuscito a godermi la storia, devo essere sincero. Io proverei a riscrivere il racconto in un comunissimo italiano del 21esimo secolo, che invece maneggi molto bene.",
+                "Poi ho letto gli altri commenti e ho visto che nessuno ti ha detto nulla al riguardo, quindi...",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-01T21:54:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=797259"
+        }
+    ],
     "text": [
         "Traccia: incubi",
         "La scena che, vissuta al momento, mi sembrava intollerabile e drammatica, è grosso modo questa, al netto delle falsificazioni del ricordo: io al tavolino di un bar, uno di quei tavolini di plastica dura, quadrangolare, con due sedie disposte l’una di fronte all’altra, l’una occupata da me, l’altra vuota. Alla mia destra, una pianta ad arbusto, posta in un grosso vaso di pietra, delimita lo spazio privato da quello pubblico e mi copre quasi del tutto la vista del parco detto “degli aquiloni” (seppure, a mia memoria, nessun aquilone abbia mai solcato i suoi cieli). In ciò la pianta mi è di conforto, perché non ho in animo di sopportare la vista dei bambini che si agitano. Ma è anche un richiamo per le zanzare che mi danno il tormento. Se alla mia destra la visuale è in parte ostacolata, di fronte a me è del tutto chiusa: ciò che vedo, oltre la sedia vuota posta lì a mo’ di punto di domanda, è un enorme pilastro che fa da portante all’edificio sovrastante. Alla mia sinistra, l’ingresso del bar, privo finanche di insegna, e altri due tavolini. Quello in direzione del mio sguardo è occupato da due signore di mezza età, presumo ucraine (presumo badanti), i cui discorsi non comprendo. L’altro è leggermente dietro, e guarda me; è occupato da un uomo grossomodo della mia età, anche lui solo, anche lui munito di null’altro che di una Tennent’s e del suo sguardo, che poggia un po’ nel vuoto un po’ su di me.",

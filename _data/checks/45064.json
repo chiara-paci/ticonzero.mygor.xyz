@@ -27,9 +27,25 @@
     },
     "num_chars": 7917,
     "num_commenti": 0,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797273,
+            "text": [
+                "ti hanno già segnalati gli errori. Ti hanno anche già detto che la storia è piuttosto confusa e purtroppo sono d’accordo. Magari c’è un filo conduttore che non colgo o qualche riferimento a non so che, ma così come mi è arrivato il racconto è un bel casino di tantaroba che boh. Ammetto di non averci capito un tubo e mi sono sentito più spaesato che terrorizzato.",
+                "Comunque faccio incubi così quando mangio pesante. Ho sempre fatto sogni molto... slegati.",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-01T22:24:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45064-h2019-prison-blackout-il-labirinto-della-realt%C3%A0//?do=findComment&comment=797273"
+        }
+    ],
     "text": [
         "commento",
         "Traccia 6",

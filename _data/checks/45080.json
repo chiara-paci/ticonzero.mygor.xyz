@@ -1,0 +1,99 @@
+{
+    "author": {
+        "author_id": 33896,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kasimiro",
+        "url": "https://www.writersdream.org/forum/profile/33896-kasimiro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao il tuo racconto è molto intenso, con una scrittura elevata ricca di metafore incisive. Non so se dei ragazzi riescano a comprenderne il testo, non so se anch'io ci sia riuscito, ma è apprezzabile il coraggio di proporlo, con tematiche forti che è doveroso affrontare e comunicare a dei ragazzi.",
+                    "Dalla prima frase si capisce il tipo di linguaggio che adotti, non facile da cogliere, anche se si percepisce che dentro di te è tutto chiaro. E' come se descrivi una fotografia stampata nella tua mente e vuoi comunicarla altrettanto con le immagini.",
+                    "Quello che ho percepito io è la distinzione, il varco che separa le due vite: quella di Edoardo, fanciullesca, spensierata, innocente, incontaminata, dove ogni gesto o azione è pura, non condizionata dalla società. E quella dell'adulta, che rivive lo splendore del ragazzo, la voglia di combattere e l'amore che lo circonda. Un'amara rassegnazione la pervade;",
+                    "una disillusione che cerca di contrastare e che trova in Edoardo la linfa per affrontarla.",
+                    "Sono tante le frasi che mi hanno colpito, dovrei citare integralmente tutto il testo. Questa la trovo molto bella.",
+                    "Il messaggio che mi è giunto è quello di due destini uniti dallo stesso corpo, la volontà del giovane che riesce a dare uno slancio alla vita. Non a caso ripeti due volte, all'inizio e alla fine: \"Chi conosce Edoardo entra in sintonia con la vita\"",
+                    "E l'amore, che può far superare ogni cosa.",
+                    "Il ragazzo fa semplicemente quello che sente di fare: segue un istinto, mi viene da dire animalesco, nel senso che la sua condizione è ininfluente alla scopo che vuole raggiungere.",
+                    "Un testo potente, scritto in modo eccellente, che bisogna leggere più volte per apprezzarne il valore.",
+                    "Complimenti"
+                ]
+            ],
+            "timestamp": "2019-11-01T20:20:45Z",
+            "title": "Edoardo",
+            "url": "https://www.writersdream.org/forum/forums/topic/44976-edoardo//?do=findComment&comment=797232",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3903,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Paolino aveva una dote.",
+        "Era veloce.",
+        "Era così rapido nel fare le cose che a volte versava l'olio nel latte o il sale nel tè, la maionese sullo spazzolino da denti, infilava la scarpa blu nel piede destro e quella rossa nel sinistro.",
+        "“Paolino, le scarpe!” Esclamò sconsolata la mamma.",
+        "“Beh! Che c'è di strano, vanno di moda.”",
+        "“Devi stare più tranquillo. Non c'è bisogno che tu faccia le cose sempre di fretta.”",
+        "“Non sono io che sono veloce, siete voi che siete troppo lenti.”",
+        "“Non è questione solo di velocità. È che non riesci a star fermo più di un minuto!”",
+        "“Non è vero! Quando dormo sto fermo anche per otto ore!”",
+        "La mamma decise di iscriverlo a un corso di yoga per bambini.",
+        "L'istruttrice dava le indicazioni: “Respirate profondamente, tenete le braccia in alto per alcuni secondi, poi abbassatele lentamen...” Ma Paolino le agitava senza interruzione rotolandosi sul pavimento da una parte all'altra.",
+        "Si fermò, guardò l'istruttrice e disse: “Così va bene?”",
+        "I genitori provarono a pensare ad altre soluzioni per rallentarlo o cercare di farlo meditare.",
+        "Tentarono con un corso di scacchi.",
+        "Ma Paolino, oltre che essere veloce, era anche molto intelligente e dava scacco matto a chiunque in poche mosse.",
+        "“Chissà! Forse avrà un futuro da matematico!” Pensò la mamma.",
+        "Alla mattina e alla sera provarono con infusi di valeriana e camomilla che non avevano molto effetto. Torturava anche la sorellina Katrina non lasciandola mai in pace; per fortuna aveva una pazienza infinita e sopportava amorevolmente il suo fratellone.",
+        "Una sera, mentre guardava la tv insieme alla famiglia, evento raro, rimase incuriosito da un documentario sugli animali della foresta amazzonica. In particolare destò la sua attenzione la descrizione e le immagini del Bradipo.",
+        "Paolino rimase per un attimo con gli occhi sgranati sentendo il commentatore che parlava di questo particolare animale:",
+        "“...possono dormire fino a 20 ore al giorno, vivono esclusivamente sugli alberi e sono lentissimi, spesso rimangono fermi per molte ore confondendosi tra le foglie, sfuggendo così ai predatori. Scendono dall'albero solo per fare i propri bisogni una volta ogni 10 giorni circa...”",
+        "“Mamma! Papà! Questo animale sta decisamente male, bisogna far qualcosa per aiutarlo!”",
+        "“Non sta affatto male! E' proprio fatto così! La natura gli ha dato queste caratteristiche.”",
+        "Paolino rimase perplesso a pensare: “Come è possibile vivere così?”",
+        "Quella notte non riusciva a prendere sonno, la mente tornava di continuo a quel lento animale.",
+        "Alla fine si addormentò ed iniziò a sognare",
+        "...vestiva i panni di una piccola scimmia che saltava da un ramo all'altro finché si ritrovò di fronte, faccia a faccia, il bradipo, che naturalmente rimase immobile. Questi lo fissò mentre lentamente si portava alla bocca una foglia, iniziando a masticare. Paolino rimase come ipnotizzato dallo sguardo dell'animale ed iniziò a seguirlo lentamente masticando anch'egli una foglia...",
+        "Quella mattina si svegliò con le mandibole in movimento, quasi stesse ruminando ancora le foglie. Si alzò, allungò lentamente lo sguardo verso lo specchio, temendo di non rivedere la propria faccia ma quella di un bradipo.",
+        "Invece...",
+        "Ritrovò proprio Paolino, anzi, Speedy Paolino.",
+        "Si lavò il viso, le ascelle e contemporaneamente i denti, mentre faceva la pipì da seduto. Si infilo due calzini diversi, la maglia al contrario e i pantaloni senza mutande.",
+        "Bevve il tè coi biscotti, anche se in realtà era brodo di gallina preparato la sera prima dalla mamma, ma lui non se ne accorse, anzi lo apprezzò molto. Si infilò le scarpe, prese lo zaino ed entrò nella camera dei genitori dicendo: “Sono pronto per andare a scuola.”",
+        "La mamma alzò lo sguardo e disse: “Paolino! Sono le quattro e mezza. Torna a letto a dormire.”",
+        "“Neanche per sogno! - rispose - Aspetto buono buono sul divano che arrivi l'ora.”",
+        "Dopo un po' guardò fuori dalla finestra e osservò qualcosa che non aveva mai visto prima: L'alba.",
+        "E rimase lì, immobile."
+    ],
+    "timestamp": "2019-11-01T22:36:47Z",
+    "title": "Speedy Paolino",
+    "topic_id": 45080,
+    "url": "https://www.writersdream.org/forum/forums/topic/45080-speedy-paolino/"
+}
