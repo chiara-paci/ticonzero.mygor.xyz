@@ -45,9 +45,26 @@
             "title": "Il mio amico Rib",
             "url": "https://www.writersdream.org/forum/forums/topic/44809-il-mio-amico-rib//?do=findComment&comment=792932",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0
+            },
+            "text": [
+                [
+                    "Ciao, , grazie per il commento!",
+                    "Mi piace molto il tuo",
+                    "Ti contatto in privato."
+                ]
+            ],
+            "timestamp": "2019-11-01T01:35:48Z",
+            "title": "Adele in ascensore",
+            "url": "https://www.writersdream.org/forum/forums/topic/37757-adele-in-ascensore//?do=findComment&comment=797042",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 25,
@@ -55,7 +72,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
     },
     "num_chars": 1938,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 7,
     "post_after": [
         {

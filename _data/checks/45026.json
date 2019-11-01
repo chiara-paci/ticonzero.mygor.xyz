@@ -92,8 +92,17 @@
     },
     "num_chars": 9927,
     "num_commenti": 2,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 797036,
+            "text": [
+                "Grazie per il passaggio , e grazie dei complimenti, ."
+            ],
+            "timestamp": "2019-10-31T23:52:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=797036"
+        }
+    ],
     "post_staff": [],
     "text": [
         "e",

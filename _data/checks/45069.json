@@ -12,13 +12,41 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , vengo dal futuro, ovvero da \"Adele di nuovo in ascensore\". Sono qui perché preferisco questa versione.",
+                    "La prima parte è fluida, morbida e si lascia leggere volentieri, senza scossoni e traumi. L'unica perplessità che ho è sul \"Tossicchiò\", così simile al \"ticchettio\" e al \"tic, tic, tic\".",
+                    "E' divertente la relazione tra i due e promette impennate.",
+                    "Ecco, forse qui manca qualcosa che ci faccia capire il suo essere un maschio: le guarda il deretano, se la immagina svestita, ipotizza di farle un cappottino di saliva, si riassesta sulla sedia, eccetera eccetera.",
+                    "Fino a \"chiaro\" non mi è stato chiaro (appunto) il soggetto.",
+                    "Dunque, le grinze sono tipiche in prossimità di arricciature, il lino si stropiccia. Vediamo bene come si comorta questo tessuto con un seno abbondante: a camicia infilata (gonna o pantalone, la cosa non cambia) rimane disteso, proprio grazie alla trazione creata dal seno; a camicia non infilata potrebbe esserci una stropicciatura dovuta a qualche movimento o postura precedenti l'azione in corso (come si è spiegazzato il tessuto e perché?).",
+                    "Per quanto si rischi in continuazione la caduta in luoghi comuni, ciò non avviene. La caratterizzazione dei personaggi e la descrizione delle relazioni ci permette di accomodarci nella storia, facendoci dimenticare di essere davanti a due classici: il portinaio impiccione e la biondona sexy.",
+                    "Le descrizioni portano proprio lì e sono confortevoli. La curiosità è stimolata dalla presenza del conflitto e dal voler verificare se i due si comporteranno come da copione.",
+                    "Si può leggere il seguito? :-)",
+                    "Ciao!"
+                ],
+                [
+                    "Ok!"
+                ]
+            ],
+            "timestamp": "2019-11-01T00:40:42Z",
+            "title": "Adele in ascensore",
+            "url": "https://www.writersdream.org/forum/forums/topic/37757-adele-in-ascensore//?do=findComment&comment=797039",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +54,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 3528,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
