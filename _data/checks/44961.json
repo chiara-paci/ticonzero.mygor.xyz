@@ -59,7 +59,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 795150,
@@ -160,6 +160,23 @@
             ],
             "timestamp": "2019-10-30T19:48:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=796757"
+        },
+        {
+            "post_id": 797054,
+            "text": [
+                "Ciao grazie della lettura.",
+                "Quale banchetto?"
+            ],
+            "timestamp": "2019-11-01T08:12:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=797054"
+        },
+        {
+            "post_id": 797056,
+            "text": [
+                "il baccanale è tutto nella mente del protagonista. La marmaglia, come la chiami tu, è proiezione esterna della sua follia, quelle creature non sono reali, anche se lui le percepisce come tali. È la follia che lo porterà a sterminare la famiglia."
+            ],
+            "timestamp": "2019-11-01T08:26:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=797056"
         }
     ],
     "post_staff": [],
