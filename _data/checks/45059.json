@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.9066666666666666,
+        "valid": 0.8077777777777778,
         "weight": true
     },
     "closed": false,
@@ -21,11 +21,10 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.9066666666666666
+                "valid": 0.8077777777777778
             },
             "text": [
                 [
-                    "- trama (intreccio, incipit, sviluppo e conclusione della storia, coerenza e originalità)",
                     "L'andamento mi piace: partire dalla fine con l'annuncio immediato , non esplicitati, di qualcosa di quantomeno strano successo ai quattro amici, crea attesa.",
                     "L'attesa è ben coltivata dalle descrizione degli incontri, della preparazione dello scenario di qualcosa di ancora indeterminato.",
                     "Poi, quando \"il fatto\" avviene, a me è arrivato come una soluzione facile (facile intendo che poteva essere qualsiasi altro \"fatto\"), non preparata nemmeno con qualche piccolo indizio, qualche precedente. Insomma arriva un po' gratuito.",

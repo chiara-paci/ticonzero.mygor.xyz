@@ -48,7 +48,7 @@
     },
     "num_chars": 1177,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 796509,
@@ -74,6 +74,23 @@
             ],
             "timestamp": "2019-10-31T12:56:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=796884"
+        },
+        {
+            "post_id": 797217,
+            "text": [],
+            "timestamp": "2019-11-01T19:02:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=797217"
+        },
+        {
+            "post_id": 797218,
+            "text": [
+                "ciao",
+                "non è un articolo... è un racconto",
+                "il titolo non è originale, è quello di una canzone (riga 1 del testo)",
+                "buona fortuna per il tuo viaggio e salutaci Rose De Witt Bukater"
+            ],
+            "timestamp": "2019-11-01T19:06:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45007-io-vagabondo-che-son-io//?do=findComment&comment=797218"
         }
     ],
     "post_staff": [],
