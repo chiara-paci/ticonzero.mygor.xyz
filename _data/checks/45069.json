@@ -55,8 +55,30 @@
     },
     "num_chars": 3528,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 797097,
+            "text": [
+                "Ciao , grazie mille!",
+                "L'horror non è il mio genere, è evidente, ma non ho resistito al vascello",
+                "Finale: lei lo ammazza. Devo lavorarci però, se non si capisce deve essere esplicitato.",
+                "Ciao ancora e grazie"
+            ],
+            "timestamp": "2019-11-01T11:54:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-fuori-concorso-lei-sulle-tue-dita//?do=findComment&comment=797097"
+        },
+        {
+            "post_id": 797100,
+            "text": [
+                "grazie!",
+                "Come ho scritto sopra il genere non mi appartiene (e si vede). Studierò",
+                "Ti ringrazio ancora per il commento. Ciao!"
+            ],
+            "timestamp": "2019-11-01T11:56:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-fuori-concorso-lei-sulle-tue-dita//?do=findComment&comment=797100"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sono fuori orario! Niente gara, amen.",
