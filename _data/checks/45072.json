@@ -1,0 +1,42 @@
+{
+    "author": {
+        "author_id": 34475,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Moth&Rust",
+        "url": "https://www.writersdream.org/forum/profile/34475-mothrust/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 90,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Richiesta libertà, una sentenza",
+        "raggiunta la parola conferma",
+        "il tempo una resa equidistante."
+    ],
+    "timestamp": "2019-11-01T10:10:55Z",
+    "title": "Libertà in attesa, una sentenza",
+    "topic_id": 45072,
+    "url": "https://www.writersdream.org/forum/forums/topic/45072-libert%C3%A0-in-attesa-una-sentenza/"
+}

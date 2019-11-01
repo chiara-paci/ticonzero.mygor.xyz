@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 13892,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Cerusico",
+        "url": "https://www.writersdream.org/forum/profile/13892-cerusico/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, .",
+                    "Ho trovato nel tuo testo diversi elementi che hanno reso la lettura piacevole. Partiamo dal più banale, ma senza il quale avrebbe poco senso parlare d'altro: la scrittura. Hai uno stile limpido in grado di restituire immagini chiare e a fuoco, le frasi sono composte in una maniera lineare che predilige sempre la netta esposizione, e questo fa sì che il testo risulti fruibile e scorrevole, punto di forza non da poco.",
+                    "Il crescendo è interessante: se la storia sembra partire quasi come un racconto di costume, uno di quei testi nazional-popolari di ambientazione simile a quelli che avrei potuto aspettarmi da un autore italiano del secondo dopoguerra, nell'ultimo paio di paragrafi il testo vira verso atmosfere più cupe, offre suggestioni a mio avviso affascinanti, in particolare nella connessione tra disastro ambientale e riemersione delle colpe personali e collettive. Anche qui sta un elemento che mi ha convinto, ovvero questo dramma collettivo e condiviso: A maggior ragione, ciò emerge grazie alla scelta del punto di vista, quello di un forestiero.",
+                    "Bene anche il finale, grazie all'ultima battuta di dialogo che lascia intendere in maniera chiara cosa accadrà, lasciando una gustosa sensazione nel lettore.",
+                    "Passando a qualche possibile spazio di miglioramento, invece, ti direi che le traduzioni dei dialoghi in dialetto sono didascaliche, non le immaginerei mai in un testo \"finito\". Credo che ci siano modi eleganti per utilizzare il dialetto senza il bisogno della traduzione, né in nota né tra parentesi. Per esempio, sarebbe sufficiente che dopo una battuta dialettale tu inserisca nella risposta in italiano di un altro personaggio un elemento contestuale in grado di chiarire cosa sia stato detto. Il contesto, inoltre, quasi sempre già offre sufficienti appigli per farsi una idea tutto sommato esaustiva, o almeno, abbastanza discernibile da non rendere necessario molto altro.",
+                    "Provo con un esempio:",
+                    "«O ai di tabaiâ cu il maressial!»",
+                    "«Si calmi» gli intimò Giovanni, infastidito dall’odore di alcol nel suo fiato. «Il maresciallo non c'è, può parlare con me.»",
+                    "Da questo scambio ritengo emerga il necessario per decodificare anche il termine più oscuro della battuta in dialetto.",
+                    "Infine, forse ho trovato il primo episodio meno a fuoco, nell'escalation che hai costruito. Non ho ben capito come si collochi in relazione al senso complessivo che mi è parso di cogliere nel testo.",
+                    "Comunque, per quanto mi riguarda è un buon racconto, centrato e condotto con sicurezza.",
+                    "A rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-11-01T10:14:48Z",
+            "title": "[H2019 - troppo lungo per il concorso] Il poç",
+            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=797070",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 9340,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Tutto quel buio",
+        "Conserva due sensazioni materiche della notte dopo il Disastro: non aveva mai sentito così netta, nel petto, la lacerazione indotta dalla perdita, e le fu chiaro, senza apparente ragione e senza possibilità di smentita, che nel grembo portava il figlio dell’uomo che aveva seppellito.",
+        "Dalle pareti, dai comodini, dal tavolino in soggiorno sono sparite le foto di Guido: Guido che mostra la medaglia, Guido con la cuffia, Guido col braccio che mulina e fende l’acqua, Guido che sorride, Guido che la abbraccia, ride, nuota, la bacia, ride, ride, ride e lei non sopporta di vederlo ridere per casa, di vederlo esultare per una vittoria ormai priva di senso, proprio non ne ha, lei è senza di lui ma allo stesso tempo ha un bimbo che le ricorda ogni giorno chi era Guido, glielo ricorda mentre lei vorrebbe dimenticare, dimenticare tutto, dimenticare Guido, e se ci fosse un sistema, qualsiasi sistema, vorrebbe dimenticare anche se stessa, dormire per ingannare la realtà e indurla a fare a meno di lei, per tutto il resto del tempo, dormire per tutto il resto del tempo.",
+        "Non dorme in camera da letto dalla prima notte dopo il Disastro, passa la serata in soggiorno, davanti alla tv. La sera diventa notte senza che lei abbia modo di sganciarsi da se stessa, chiude gli occhi e la mente si apre, esplora abissi da cui vuole tenersi distante, ed è allora che ingurgita due pillole, neanche sa più di cosa si tratti, il ricordo è sfumato e cominciano a essere sfumate anche le voci provenienti dal televisore, quella di Guido però no, la sente ancora nelle orecchie, la sente, anche mentre le pillole fanno effetto, chiude gli occhi, la voce di lui nelle orecchie, e le sembra di muoversi, di camminare senza sfiorare il pavimento, di raggiungere un luogo in cui può ancora toccare Guido, può sentire la sua voce da vicino, da così vicino.",
+        "Non si sveglia fino al primo mattino. Alessandro non piange, quando va in camera lo trova sorridente, le braccia protese per farsi prendere, desideroso di diventare parte del mondo. Lo fa mangiare, il bambino gongola nella stretta materna, sbrodola appena un po’, lei vorrebbe piangere ma si trattiene, poi lo rimette nel box e va in bagno, una nausea nervosa, vomita, sa che non va bene ma la consapevolezza non basta, non sa che fare, non vuole parlarne a nessuno, magari le toglierebbero anche le pillole, le direbbero di fare esami e lei non vuole, non ora, non più.",
+        "Controlla l’applicazione con cui tiene traccia del sonno. Ha iniziato ad avere paura, paura di sé durante il sonno, di notte le sembra di allontanarsi così tanto da sé che a volte crede di poter smarrire la strada del ritorno, una notte senza stelle la inghiottirebbe senza restituirla più, e lei lo desidera, lo desidera al punto di temerlo, è ossessionata dalla possibilità che non si svegli più o che si svegli chissà dove, e allora controlla, controlla ogni suono che emette. Stanotte ne ha emessi tanti, lo vede dal grafico, dalle onde, dal resoconto che indica un sonno agitato.",
+        "Sposta il cursore sui primi rumori, preme play, si sente un fruscio costante, una base, come se lo spazio emettesse un rumore preciso, sibilante; qualcosa sbatte, forse una finestra, uno scricchiolio della struttura, o semplicemente la notte, perché il buio ha una sua base ritmica, e non corrisponde a quella della luce. Alessandro, un verso del bambino, il telefono ha registrato i suoni del baby monitor, un fruscio, un respiro pesante, il respiro di lei che dorme grazie alle pillole, il respiro cresce, cresce anche il fruscio, un lieve scatto, un cane che abbaia sulle note di una canzoncina infantile, poi si sente una voce distorta, una voce che sembra un tessuto bucherellato, pronuncia parole inintelligibili, e il suono sembra così vicino, così vicino che potrebbe afferrarlo, il suono, e farlo diventare materia, spalmarselo addosso, ingurgitarlo e poi vomitarlo, vomitare ancora, invece continua ad ascoltare, il bambino ride, è divertito, un fruscio, un altro scatto, come di serratura, e i rumori registrati finiscono, torna il respiro di lei che dorme, le pillole, l’attesa del mattino, lo schermo del telefono si spegne e le restituisce il riflesso del suo volto scavato, le borse sotto gli occhi, la bocca aperta, un’espressione di confusione che fa presto a diventare paura.",
+        "Cena presto, consuma un pasto leggero, Alessandro gioca con la poltrona giocattolo che sembra un cagnolino, con la mano preme un pulsante, la musica della notte, un cane allegro abbaia e Alessandro ride, cerca la mamma, lei rifugge gli occhi di Guido che non sono incastrati nel volto di Guido, porta il bambino in camera e manda giù due pillole per addormentarsi il prima possibile, per sfuggire a tutto quel buio.",
+        "Sente una musica, le note ossessive della canzone infantile che ha ancora nelle orecchie, fin dalla mattina, da quando l’ha sentita nelle registrazioni sul telefono. Si diffonde come in stereofonia, dall’altoparlante del baby monitor poggiato sul tavolino invaso da piatti di plastica e bicchieri rovesciati, ma stavolta è diverso, è ancora notte, il suono non è una registrazione, proviene dalla stanza da letto, accompagnato dai mugolii divertiti di Alessandro, da una voce adulta, graffiata, che sembra di un altro mondo, sembra che da un altro mondo stia provando a comunicare con questo.",
+        "Si sveglia, si sveglia davvero, il cagnolino giocattolo abbaia. Si accorge solo in quell’istante di essere in piedi, come se non potesse disporre di percezioni sensoriali prima che gli occhi si aprano. La musica non proviene dal baby monitor, è lì, ce l’ha di fronte, nel box, il bambino se ne sta a braccia protese, sempre, sempre protese, in attesa di lei, e lei non ce la fa più a vederlo così, a guardarlo vivere e muoversi e volerla, a guardarlo avere bisogno di lei, non fa in tempo nemmeno a pensare che non dovrebbe trovarsi lì, non ricorda di esserci arrivata, quella consapevolezza silente le fa cacciare un urlo isterico, il bambino la guarda e il viso gli si contrae, gli occhi si incurvano, la fronte si ridisegna e, quando la canzone finisce, inizia a piangere.",
+        "Lei torna in soggiorno e afferra il cellulare, ringrazia il dio in cui ha smesso di credere per aver avviato l’applicazione, non ricorda quando, torna indietro di qualche minuto e sente tutto, sente i movimenti, la voce, si lacera il velo che ha usato per rapportarsi col mondo fin dal giorno del Disastro, il velo che l’ha protetta dal buio, da tutto quel buio che cerca di entrare, che alla fine è riuscito a entrare. Nella registrazione si sentono i rumori del suo riposo inquieto, una sofferenza sommessa che si manifesta attraverso fruscii di lenzuola e lamenti, si interrompono quando si alza, lo capisce perché sente un rumore attutito che conosce bene, il telecomando che scivola e cade sul tappeto, e poi i passi, i talloni sul pavimento freddo, passi nervosi che si allontanano. Viene invasa dal terrore di assistere a qualcosa che non dovrebbe conoscere, nessuno dovrebbe sapere cosa fa nel sonno, il sonno è l’assenza dell’io razionale, l’abbandono di sé, lei invece è lì, testimone della sua stessa coscienza che percorre il corridoio, entra nella camera da letto e lei lo sa, lo sa perché il telefono ha registrato i suoni del baby monitor, sibilanti passi di piedi nudi, un verso allegro di bambino e poi la sua voce, Smettila , Alessandro sorride, le sembra di vederlo mentre si porta la manina alla bocca, ride e lei gli dice Smettila di tormentarmi, smettila, smettila, smettila! , lo dice al bambino che ride, ride ancora, si sente un colpo, lei sobbalza ma poi parte la canzoncina, la solita canzoncina. Non lo ha toccato, non gli ha fatto pagare la colpa di avere nel suo stesso respiro l’essenza di Guido, Guido che ha smesso di nuotare, gli occhi di Guido che ora sono di Alessandro, gli occhi che hanno visto arrivare l’auto contromano, troppo vicina, troppo vicina, il Disastro, non ha potuto neanche provare a sterzare, andava così veloce ed era così tanto vicina, l’attimo del Disastro, chi ce l’aveva il tempo, ha potuto solo protendersi su di lei, un gesto istintivo, un corpo che sceglie di proteggere e non proteggersi, un atto conclusivo che delinea una vita intera.",
+        "Le è morto in grembo, lo vede ora, le sembra di risvegliarsi ancora una volta, di farlo con un dolore insopportabile alle tempie, col cranio fracassato di Guido poggiato sulle sue gambe, nella posizione di molte serate in cui lo ha tenuto tra le braccia, e da allora ha iniziato a piangere, poi ha messo un velo che nessuno può vedere, ha scelto di non guardare più nel buio, il buio di quella sera, il buio da cui è emerso Alessandro, e ci pensa mentre si avvicina al box, interrompe la registrazione, fa partire tutti i giochi musicali, la giostra-carillon, Alessandro la guarda, gli occhi ancora umidi del pianto, lei non lo sa, non sa cos’ha in faccia, quale sia la sua espressione, in mano stringe le forbici, le stesse che ha usato per i ritagli dei giornali, quelli in cui Guido nuotava, Guido esultava sul podio, Guido mostrava la medaglia, Guido con gli occhi che lei continua a vedere tutti i giorni, i ritagli finiti in un cassetto chiuso a chiave, assieme alle foto. Gli occhi di Alessandro la perseguitano, sorridenti, vivi, occhi zombi, e lei non ce la fa più, non ce la fa proprio, gli si mette di fronte e sa che è giunto il momento di farla finita."
+    ],
+    "timestamp": "2019-11-01T10:32:50Z",
+    "title": "Tutto quel buio",
+    "topic_id": 45074,
+    "url": "https://www.writersdream.org/forum/forums/topic/45074-tutto-quel-buio/"
+}
