@@ -1,0 +1,124 @@
+{
+    "author": {
+        "author_id": 30926,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Stevesteve",
+        "url": "https://www.writersdream.org/forum/profile/30926-stevesteve/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.85,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.85
+            },
+            "text": [
+                [
+                    "Carino, mi piacciono i racconti con finale acido.",
+                    "In generale ben scritto, alcune osservazioni:",
+                    "- invece di \"brutta donna\" direi \"donna brutta\": la prima espressione ha un sottinteso di malvagità, come \"una brutta persona\", mentre la seconda si riferisce chiaramente all'aspetto fisico. Perchè ti riferivi all'aspetto fisico, giusto? O volevi anticipare il comportamento finale? Ma quando si incontrano il tipo non sa ancora...",
+                    "- Il sogno mi sembra un po' appiccicato, se lo togli che cosa cambia nel significato del racconto? Secondo ma stai un pò ingannando il lettore, al quale stai anticipando \"il tipo conosce una tipa disperata\" però poi niente del racconto va in quella direzione.",
+                    "- \"mi ero sentito incapace di proseguire con la mia vita\" sembra eccessivo: non c'è niente prima - \"m'era rimasto solo il cane dopo aver perso....\" - che lo renda plausibile.",
+                    "Stefano"
+                ]
+            ],
+            "timestamp": "2019-11-02T17:11:42Z",
+            "title": "Sfinge",
+            "url": "https://www.writersdream.org/forum/forums/topic/45085-sfinge//?do=findComment&comment=797423",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.3177659574468085
+            },
+            "text": [
+                [
+                    "mi sembrava invece interessante, forse sopratutto per chi ha postato critiche e/o suggerimenti, poter leggere nello stesso thread il risultato finale.",
+                    "Comunque se questa è la regola ovviamente la rispetterò, grazie comunque.",
+                    "\"Se invierai a uno staffer qualsiasi il link a un commento valido,\": qui proprio non ho capito",
+                    "Stefano"
+                ],
+                [
+                    "(grazie)"
+                ],
+                [
+                    "Mi piace l'idea dei piani diversi... però però... poi si perde il dubbio circa l'uscita insieme allo stesso piano.",
+                    "A volte tocchi una virgola da una parte e devi ritarare. Ma è pure questo il divertente.",
+                    "Nella versione revisionata ho aggiunto, alla fine, \": assente\"."
+                ],
+                [
+                    "Grazie del commento. La mia intenzione era dare l'idea del tipo come di uno interessato al colloquio ma non tanto da non essere disponibile ad andare dietro a un nuovo interesse.",
+                    "Si tratta comunque più di un'atmosfera che di una storia chiusa.",
+                    "Ne ho scritta una versione revisionata che però non posso pubblicare qui. Appena sarò riuscito a scrivere una nuova recensione la pubblicherò e metterò qui il link."
+                ],
+                [
+                    "ho fatto io, spero di aver fatto bene. Il racconto [revisionato] sta"
+                ]
+            ],
+            "timestamp": "2019-10-31T11:29:47Z",
+            "title": "In ascensore",
+            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=796868",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3478,
+    "num_commenti": 2,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "______________________________________________________________________",
+        "Salgono insieme sull’ascensore.",
+        "Lui va al venticinquesimo piano.",
+        "Anche lei.",
+        "Lui è di media statura, media corporatura, media età. Appena stempiato. Sudato. Ha parcheggiato con difficoltà lasciando l’auto un po’ di traverso. Ha percorso sotto il sole il tratto di marciapiede lungo l’edificio dentro al quale è poi entrato. È un po’ teso perché deve avere un colloquio per un posto di lavoro importante. Non ne sa molto ma ha deciso di tentare. In verità non gliene frega niente: ha già un lavoro soddisfacente. Ci va per mettersi alla prova, per vedere se vale.",
+        "Lei è giovane, spigliata. L’aria condizionata dell’ingresso le ha gelato la camicetta di seta sulla schiena. Viene direttamente dal parrucchiere all’angolo. Torna a casa, dove finirà di prepararsi per la serata. Si osserva uno sbaffo scuro sulla scarpa sinistra di camoscio tortora. Resta indecisa se provare a pulirlo: sarebbe un movimento poco elegante. Lo fa, poi sorride di sghimbescio al compagno di ascensore, per scusarsi.",
+        "Lui lo prende per un vero sorriso. Si è accorto della manovra con la scarpa, ma magari era un pretesto, pensa. Sorride a sua volta ma lei ha già voltato lo sguardo.",
+        "Ora guardano entrambi la bottoniera. Poi l’indicatore dei piani. Il pavimento.",
+        "Lui pensa che potrebbe mettersi alla prova anche conquistando questa donna.",
+        "Lei si sente osservata: le capita spesso.",
+        "Venticinque piani sono tanti e questo ascensore è lento.",
+        "Le fa piacere essere guardata. Fingendo di aggiustare un ciuffo di capelli si gira fuggevolmente: lui la sta fissando. Ora è infastidita.",
+        "Lui si aggiusta la camicia, si schiarisce la voce, si dondola da un piede all’altro. E se la violentasse? Perché no? Poco tempo. Ma no, mica è necessario proprio venirle dentro. Potrebbe violentarla pizzicandole un capezzolo. Oppure, strappandole i vestiti. Urlerebbe. Potrebbe minacciarla per farla stare zitta. Non lo farò, ma potrei farlo.",
+        "Sembra carino, pensa lei. È così impacciato che le viene voglia di parlare per prima. Intanto giocherella con la collana. Lo sbaffo sulla scarpa è rimasto tale e quale. Sorride a sé stessa e pensa che potrebbe farne qualsiasi cosa, di quel tipo. Potrebbe farlo innamorare. Oppure solo eccitarlo, provocarlo. Farsi invitare a cena e non andarci. O andarci: potrebbe anche essere piacevole. Lo sente plasmabile.",
+        "Potrebbe gratificarsi uccidendola, pensa lui. Se la strozza lei si divincola e restano tracce. Un colpo alla carotide con taglio della mano: lei resta senza fiato a occhi sbarrati e lui la uccide con calma.",
+        "Lei sta sbirciando il giornale che l’uomo tiene in mano.",
+        "Lui se ne accorge e coglie l’occasione per attaccare discorso chiedendole se vuole leggerlo. Glielo porge.",
+        "Lei lo guarda un attimo, ringrazia e glielo restituisce con un commento su uno dei titoli della prima pagina.",
+        "Lui risponde con un’osservazione sul caldo di quei giorni.",
+        "Lei sta per replicare ma le porte automatiche dell’ascensore si aprono.",
+        "È il venticinquesimo piano.",
+        "Lei si avvia verso la porta di fronte con la chiave in mano.",
+        "Lui apre la bocca senza emettere suono. Fa un passo verso di lei.",
+        "Dieci minuti dopo lo cancellano dalla lista degli appuntamenti: assente.",
+        "______________________________________________________________________",
+        "La prima versione sta .",
+        "Le modifiche sono poche: qualche parola, qualche espressione, punteggiatura, variazione di alcuni \"a capo\".",
+        "L'ultima frase.",
+        "Grazie a tutti coloro che hanno fatto critiche e dato suggerimenti.",
+        "Stefano"
+    ],
+    "timestamp": "2019-11-02T17:29:56Z",
+    "title": "In ascensore [revisionato]",
+    "topic_id": 45090,
+    "url": "https://www.writersdream.org/forum/forums/topic/45090-in-ascensore-revisionato/"
+}
