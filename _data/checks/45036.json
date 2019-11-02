@@ -53,7 +53,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 796490,
@@ -72,6 +72,19 @@
             ],
             "timestamp": "2019-10-29T20:15:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=796490"
+        },
+        {
+            "post_id": 797308,
+            "text": [
+                "Garzie e grazie per essere passati e per i commenti.",
+                "Un chiarimento.",
+                "Ho preferito l'indicativo al congiuntivo per dare al concetto un maggior senso di certezza.",
+                "\"Pareva una cosa solida che ci accompagnava\". Se avessi scritto \"Pareva una cosa solida che ci accompagnava come un'ombra\" il congiuntivo sarebbe stato un errore. Quel \"che\" non crea una subordinata, ma va inteso nel senso di \"la quale\".",
+                "È un piacere avere uno scambio di opinioni con te, .",
+                "Grazie ancora per il tempo e per i giudizi."
+            ],
+            "timestamp": "2019-11-02T08:39:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=797308"
         }
     ],
     "post_staff": [],
