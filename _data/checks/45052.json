@@ -59,7 +59,7 @@
     },
     "num_chars": 7521,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 796914,
@@ -94,7 +94,28 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli//?do=findComment&comment=796969"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 797353,
+            "text": [
+                "Ciao",
+                "Vedo nel tuo racconto del potenziale, che però è rimasto un po' sopito all'interno della narrazione.",
+                "Ho capito fin da subito che stavo leggendo di un incubo per via delle atmosfere, ma, nonostante ciò, la sostanza della storia mi è rimasta un po' oscura: non trovo movente né contestualizzazione di ciò che accade. Questi elementi non emergono dalla figura della protagonista e nemmeno trovano una risoluzione nel finale, dove il risveglio è appena accennato nella ricerca della chiusura a cerchio.",
+                "Perché lei si trova a sognare qualcosa di simile? Da che cosa è provocato l'incubo? È ricorrente? E, soprattutto, chi è costei?",
+                "Della protagonista si sa solo che è sonnambula, ma il dato arriva al lettore tramite uno spiegone un po' fuori contesto. A parte questo, non si trova risposta alle domande formulate, perciò il racconto risulta più una sequenza di immagini, descritte molto bene, ma prive di sostanza. Quel che viene a mancare qui è la ciccia, l'arrosto. Hai servito un contorno spettacolare su un gran bel piatto, ma senza presentare la portata principale. Questa la mia sensazione.",
+                "Con molta probabilità, questo racconto avrebbe trovato una connotazione e un livello di espressione migliore se ampliato. Consiglio di provare a dargli più corpo, estenderlo su più caratteri per illustrare meglio la base su cui poggia l'incubo.",
+                "Ultimo consiglio: inserire la traccia sotto spoiler non è il metodo più efficace di nasconderla, in quanto la barra identificativa è un gran bel pugno nell'occhio e attira l'attenzione di chi si trova a scorrere il racconto per vederne la lunghezza, prima di cominciare la lettura.",
+                "L'occhio umano segue lo schermo leggendo con andamento a F, per cui se vuoi che qualcosa si noti meno, o comunque l'occhio ci presti poca attenzione perché fuori dal focus principale della fovea, inserisci in basso a destra ciò che vuoi \"nascondere\": l'occhio dei 3/4 dei lettori non lo vedrà a un primo sguardo, non presterà la minima attenzione all'informazione piazzata lì. In alternativa, avendo un blocco testo parecchio consistente, anche in alto a destra può andare bene, poiché il lettore sarà attirato dal titolo e dal blocco testo più ampio, dando a quelle righe sparse, e poco convincenti a livello visivo, l'etichetta di \"informazione secondaria\""
+            ],
+            "timestamp": "2019-11-02T11:05:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli//?do=findComment&comment=797353"
+        }
+    ],
     "text": [
         "È il freddo a svegliarla. Un freddo affilato che s’insinua attraverso la pelle fino a grattarle le ossa e farla tremare. Strofina le braccia con le mani, cercando di scaldarle, inutilmente. Si guarda intorno, ma non può distinguere nulla, vede soltanto buio; le occorrono alcuni attimi per abituarsi alla penombra e scoprire una strada che non conosce.",
         "Dei tre lampioni che riesce a vedere due sono spenti, il terzo, il più lontano, alita una luce giallastra e fioca. Cerca l’orologio, ma ha il polso nudo, e non solo quello, ha addosso soltanto la camicia da notte con cui si è coricata. Ha i piedi gelati, o forse peggio, perché le fanno davvero male.",
