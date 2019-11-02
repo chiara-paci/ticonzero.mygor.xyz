@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 39,
+    "num_posts": 40,
     "post_after": [
         {
             "post_id": 794946,
@@ -289,6 +289,14 @@
             ],
             "timestamp": "2019-10-30T13:05:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=796613"
+        },
+        {
+            "post_id": 797452,
+            "text": [
+                "miao miao miao... miaoooooooo"
+            ],
+            "timestamp": "2019-11-02T19:30:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797452"
         }
     ],
     "post_staff": [],

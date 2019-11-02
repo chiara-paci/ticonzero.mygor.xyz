@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 795492,
@@ -163,6 +163,14 @@
             ],
             "timestamp": "2019-10-30T18:05:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=796731"
+        },
+        {
+            "post_id": 797459,
+            "text": [
+                "scusa il ritardo mi sono accorta solo adesso di non averti ringraziato, grazie per l'apprezzamento."
+            ],
+            "timestamp": "2019-11-02T20:08:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=797459"
         }
     ],
     "post_staff": [],
