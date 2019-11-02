@@ -52,8 +52,21 @@
     },
     "num_chars": 3903,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 797441,
+            "text": [
+                "Grazie per le letture e le giuste osservazioni. Hai ragione sul fatto di non capire l'età a cui mi rivolgo, perché anch'io non l'ho bene focalizzata. Diciamo che idealmente mi piacerebbe rivolgermi a un lettore dai 6 ai 99 anni, come certi giochi di società; oppure semplicemente dai sei.",
+                "Mi piace il linguaggio semplice e immediato ma allo stesso tempo introdurre spunti di riflessione che il bambino potrebbe non cogliere da solo (o forse sì). Credo che il ruolo dell'adulto sia importante nell'accompagnare la lettura e trovare le risposte o i dubbi che il bambino ti pone (compito difficilissimo).",
+                "Paolino me lo ero immaginato come un bambino con un leggero disturbo di ipercinesia, molto frequente oggi, che rimane colpito e sorpreso da eventi non comprensibili che lo fanno riflettere verso un altro punto di vista e un'altra visione della realtà.",
+                "Sono d'accordo che un bambino sia attratto dalla ripetizione di parole o da un ritornello, come la tradizione popolare dimostra. A me non mi viene istintivo questo meccanismo, ma posso lavorarci.",
+                "Grazie ancora"
+            ],
+            "timestamp": "2019-11-02T18:21:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45080-speedy-paolino//?do=findComment&comment=797441"
+        }
+    ],
     "post_staff": [
         {
             "author": {
