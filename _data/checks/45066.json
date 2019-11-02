@@ -51,8 +51,21 @@
     },
     "num_chars": 7899,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 797394,
+            "text": [
+                "Ciao e grazie per aver letto e apprezzato questo racconto, mi ha fatto davvero piacere.",
+                "Mi rendo conto che è un testo piuttosto \"crudele\", non ho voluto descrivere tutto quello che è successo e per come è successo, ogni volta che sono venuto a conoscenza di fatti del genere nei particolari o che ho dovuto scriverne, poi non ho dormito per giorni... ma anche così fa pensare.",
+                "Si vorrebbe che fosse tutto falso e inventato di sana pianta, ma chi ha vissuto un po', girato il mondo e conosciuto altri uomini, senza essere un grande studioso da tavolino, laureato nei massimi sistemi, sa che atti del genere sono avvenuti e avvengono in continuazione sulla nuda terra, che sta cominciando a stancarsi di essere bagnata del sangue delle creature di Dio.",
+                "Purtroppo gli uomini non lo vogliono capire.",
+                "Un cordiale saluto e a risentirci."
+            ],
+            "timestamp": "2019-11-02T14:53:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45066-ram%C3%B2n//?do=findComment&comment=797394"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Lo chiamavano padre Ramòn.",
