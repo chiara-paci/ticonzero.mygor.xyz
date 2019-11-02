@@ -52,9 +52,39 @@
     },
     "num_chars": 3903,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797292,
+            "text": [
+                "Buongiorno non è la prima volta che ti leggo, ma credo sia la prima che ti lascio un commento.",
+                "più che rapido a me qui dà l'idea di essere distratto e perso nel suo mondo. Aggiungerei una frase per dire che la sua super velocità lo porta a non dare importanza a niente altro eccetto il fare tutto in fretta. Non credo sia così ovvio, o magari puoi far dire a qualcuno: Presto e bene non stanno insieme.",
+                "qui puoi lasciare la minuscola in esclamò; quando usi i verbi attributivi (disse, sussurò, mormorò, esclamò e via dicendo) vanno con la minuscola",
+                "se dici non avevano molto effetto, annulli il significato della frase. O non avevano effetto e quindi Paolino continuava a comportarsi come prima di bere infusi, oppure avevano poco effetto, tanto che Paolino ci metteva due secondi invece che uno per fare colazione (solo un esempio)",
+                "qui metterei qualcosa in più, dare qualche esempio di tortura alla sorellina per renderlo più visivo, come hai fatto nella frase che ti riporto sotto che, secondo me, funziona molto bene",
+                "la trovo molto divertente e ricca di quelle contraddizioni che fanno ridere i bambini",
+                "qui serve un lei, insomma, serve un soggetto",
+                "perché evento raro? Preferiva fare altro oppure perché guardare la tv richiedeva troppa immobilità troppo a lungo? Lo specificherei perché è un dettaglio divertente",
+                "direi venne incuriosito, rimanere incuriosito mi sembra più una deriva dialettale. Nelle frasi seguenti usi il verbo rimanere almeno altre due volte, mi sembra questo il punto migliore per sostituirlo",
+                "qui, per esempio, potresti dire: Paolino sgranò gli occhi sentendo...",
+                "È serve l'accento, non l'apostrofo",
+                "qui, sempre per sostituire il verbo rimanere, potresti dire: Paolino era perplesso e pensava:",
+                "via la d da ed; usa la d eufonica solo quando la parola che segue inizia con la stessa vocale. Hai dimenticato forse i due punti dopo sognare",
+                "ti è scappata una maiuscola",
+                "Una bella storia, una buona idea secondo me, ma non riesco a capire bene a che età ti rivolgi. Le tue frasi hanno una costruzione semplice che mi fa pensare a un'età compresa tra i 5 e i 7 anni, ma poi usi parole complesse, tipo apprezzare, perplesso, anch'egli.",
+                "Usi tantissimi avverbi in mente, troppi a mio parere; potresti provare a sostituirne almeno alcuni. Attenzione al verbo rimanere, non so se sia una tua caratteristica in generale, ma in questo racconto è un vero protagonista. Troverei una formula o una frase o anche solo una parola da ripetere dall'inizio alla fine, come un ritornello. Soprattutto se questo è un racconto rivolto a bambini che iniziano a leggere, devi fare attenzione a rendere loro la vita facile, ma interessante: le parole devono essere non troppo lunghe e non troppo complesse, in modo che non si perda la voglia di proseguire. Oppure ogni tanto potresti dare un premio, un ritornello appunto o qualcosa di sonoro e ripetitivo da leggere con facilità.",
+                "Grazie della lettura"
+            ],
+            "timestamp": "2019-11-02T05:43:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45080-speedy-paolino//?do=findComment&comment=797292"
+        }
+    ],
     "text": [
         "Paolino aveva una dote.",
         "Era veloce.",

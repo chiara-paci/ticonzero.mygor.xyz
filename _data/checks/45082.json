@@ -1,0 +1,104 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno non è la prima volta che ti leggo, ma credo sia la prima che ti lascio un commento.",
+                    "più che rapido a me qui dà l'idea di essere distratto e perso nel suo mondo. Aggiungerei una frase per dire che la sua super velocità lo porta a non dare importanza a niente altro eccetto il fare tutto in fretta. Non credo sia così ovvio, o magari puoi far dire a qualcuno: Presto e bene non stanno insieme.",
+                    "qui puoi lasciare la minuscola in esclamò; quando usi i verbi attributivi (disse, sussurò, mormorò, esclamò e via dicendo) vanno con la minuscola",
+                    "se dici non avevano molto effetto, annulli il significato della frase. O non avevano effetto e quindi Paolino continuava a comportarsi come prima di bere infusi, oppure avevano poco effetto, tanto che Paolino ci metteva due secondi invece che uno per fare colazione (solo un esempio)",
+                    "qui metterei qualcosa in più, dare qualche esempio di tortura alla sorellina per renderlo più visivo, come hai fatto nella frase che ti riporto sotto che, secondo me, funziona molto bene",
+                    "la trovo molto divertente e ricca di quelle contraddizioni che fanno ridere i bambini",
+                    "qui serve un lei, insomma, serve un soggetto",
+                    "perché evento raro? Preferiva fare altro oppure perché guardare la tv richiedeva troppa immobilità troppo a lungo? Lo specificherei perché è un dettaglio divertente",
+                    "direi venne incuriosito, rimanere incuriosito mi sembra più una deriva dialettale. Nelle frasi seguenti usi il verbo rimanere almeno altre due volte, mi sembra questo il punto migliore per sostituirlo",
+                    "qui, per esempio, potresti dire: Paolino sgranò gli occhi sentendo...",
+                    "È serve l'accento, non l'apostrofo",
+                    "qui, sempre per sostituire il verbo rimanere, potresti dire: Paolino era perplesso e pensava:",
+                    "via la d da ed; usa la d eufonica solo quando la parola che segue inizia con la stessa vocale. Hai dimenticato forse i due punti dopo sognare",
+                    "ti è scappata una maiuscola",
+                    "Una bella storia, una buona idea secondo me, ma non riesco a capire bene a che età ti rivolgi. Le tue frasi hanno una costruzione semplice che mi fa pensare a un'età compresa tra i 5 e i 7 anni, ma poi usi parole complesse, tipo apprezzare, perplesso, anch'egli.",
+                    "Usi tantissimi avverbi in mente, troppi a mio parere; potresti provare a sostituirne almeno alcuni. Attenzione al verbo rimanere, non so se sia una tua caratteristica in generale, ma in questo racconto è un vero protagonista. Troverei una formula o una frase o anche solo una parola da ripetere dall'inizio alla fine, come un ritornello. Soprattutto se questo è un racconto rivolto a bambini che iniziano a leggere, devi fare attenzione a rendere loro la vita facile, ma interessante: le parole devono essere non troppo lunghe e non troppo complesse, in modo che non si perda la voglia di proseguire. Oppure ogni tanto potresti dare un premio, un ritornello appunto o qualcosa di sonoro e ripetitivo da leggere con facilità.",
+                    "Grazie della lettura"
+                ]
+            ],
+            "timestamp": "2019-11-02T05:43:18Z",
+            "title": "Speedy Paolino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45080-speedy-paolino//?do=findComment&comment=797292",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3056,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "«Sono io il capitano dei pirati!» urla Greta puntando la spada verso il lampadario. «Tu devi ubbidire, perché sei piccolo! Fulmini e saette!»",
+        "«Anche io voglio comandare, uffa, mi fai sempre pulire il ponte della nave! Non è giusto!»",
+        "A Leo trema il mento, è pronto a piangere e ad abbandonare spade e tesori nascosti.",
+        "«Aspetta» Greta raddrizza il cappellaccio nero e solleva la benda dall’occhio. «Sento qualcosa... Di vedetta, nostromo!»",
+        "«Cos’è un mostrono?» chiede Leo alzando la sua benda per sentirci meglio.",
+        "«Mettiti di vedetta, mozzo! Niente domande o ti butto in mare e ti mangiano gli squali!»",
+        "«Io voglio essere il capitano, non il trostrono e neanche uno zozzo. Io voglio...»",
+        "«Sono a casa». Bum, la porta d’entrata si chiude al piano di sotto.",
+        "Greta e Leo, immobili come gatti, si fissano con gli occhi spalancati.",
+        "«C’è nessuno?» chiama di nuovo papà.",
+        "«Corri, Leo. Fulmini e saette!»",
+        "I bambini sfrecciano lungo il corridoio e poi balzano di scalino in scalino. Però Leo ha le gambe corte e perde terreno. Prova ad accelerare, ma quando arriva in fondo alle scale, Greta sta già balzando tra le braccia di papà.",
+        "«Anche io, papà, prendi anche me». Leo tira i pantaloni di papà, barcollando e con le guance rosse.",
+        "«No, sono arrivata prima io! Devi correre più veloce, Leo».",
+        "«Ma tu hai le gambe più lunghe! Non è giusto» punta i piedi Leo, ma sua sorella è un capitano severo. Con lei le scuse non attaccano mai. Ha sempre ragione. Ma papà è un comandante più importante di Greta: sarà lui a decidere. «E allora facciamo di nuovo la gara. Possiamo papà?»",
+        "«Certo!»",
+        "I bambini si precipitano al piano di sopra, spingendosi e scivolando: Greta davanti, Leo dietro.",
+        "«Questa volta sono io il primo» Leo è deciso a vincere e sgomita per far spostare sua sorella.",
+        "«Se mi superi puoi essere il primo», ride Greta sistemando la benda da pirata sull’occhio.",
+        "Concentrati, come in una gara vera, i bambini corrono verso il traguardo.",
+        "«Bambini, andate piano» avverte la mamma che li sente arrivare dalla cucina. «Papà prende in braccio tutti e due».",
+        "Ma Leo e Greta sono troppo attenti alla gara per ascoltarla. Vogliono arrivare primi, e saltano gli scalini come conigli.",
+        "All’ultimo gradino Leo inciampa e cade lungo disteso sul tappeto; subito dopo scoppia a piangere e a battere i piedi per terra.",
+        "«Fulmini e saette!» Greta frena, guarda papà che ormai è a portata di mano, poi sbuffa, si gira e torna dal fratello.",
+        "«Non piangere, Leo», dice Greta. «Dai, alzati, ci riproviamo insieme».",
+        "Leo tira su col naso e sbircia sua sorella da sotto in su; Greta gli fa una linguaccia.",
+        "«I nostromi non piangono!»",
+        "«Ma tu hai detto che sono il tozzo non il tronomono».",
+        "Leo si alza senza voglia, ma afferra la mano di sua sorella che lo trascina su per i primi scalini.",
+        "«Partiamo da qua», decide Greta. «Non mi lasciare mai la mano. Insieme siamo più veloci!»",
+        "Pronti, ai posti, via!",
+        "Greta è ancora prima, ma Leo è subito dietro di lei appeso al suo braccio. A due passi da papà, Greta rallenta, Leo arriva di fianco a lei, papà si abbassa e apre le braccia.",
+        "Questa volta nessuno arriva primo, ma vincono tutti."
+    ],
+    "timestamp": "2019-11-02T07:30:39Z",
+    "title": "La gara",
+    "topic_id": 45082,
+    "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara/"
+}
