@@ -43,8 +43,33 @@
     },
     "num_chars": 7146,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 797445,
+            "text": [
+                "Buona sera caro spero di ricordare che quando il correttore grammaticale mi segnala un errore devo correggere e non passare avanti. Ti ringrazio del passaggio a rileggerci."
+            ],
+            "timestamp": "2019-11-02T18:41:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45086-motopesca-oceanico-tortorelli//?do=findComment&comment=797445"
+        },
+        {
+            "post_id": 797446,
+            "text": [
+                "Buona sera caro un tuo parere è per me un elisir, una bevanda energetica. Quest'ultimo racconto, ha radici su di una tua risposta ad un mio commento, mi consigliavi di entrare più nei particolari. e cosi ho fatto. Sono lieto che sia stato di tuo gradimento. A rileggerci"
+            ],
+            "timestamp": "2019-11-02T18:55:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45086-motopesca-oceanico-tortorelli//?do=findComment&comment=797446"
+        },
+        {
+            "post_id": 797447,
+            "text": [
+                "@bwv582 (evolvere) Ti giuro, non sapevo neanche che esistesse questa frase, da quando frequento Il forum spesso tiro fuori certi argomenti che non so neanche dove le vado a pescare, in oltre la gente che mi conosce sente che sono cambiato. Insomma sono diventato un intellettuale."
+            ],
+            "timestamp": "2019-11-02T19:08:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45086-motopesca-oceanico-tortorelli//?do=findComment&comment=797447"
+        }
+    ],
     "post_staff": [],
     "text": [
         "MOTOPESCA OCEANICO",
