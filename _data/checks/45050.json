@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 797009,
@@ -85,6 +85,14 @@
             ],
             "timestamp": "2019-11-01T16:27:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=797173"
+        },
+        {
+            "post_id": 797477,
+            "text": [
+                "Grazie"
+            ],
+            "timestamp": "2019-11-02T21:53:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=797477"
         }
     ],
     "post_staff": [],
