@@ -55,7 +55,7 @@
     },
     "num_chars": 7972,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 797108,
@@ -99,6 +99,40 @@
             ],
             "timestamp": "2019-11-01T21:18:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797249"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797406,
+            "text": [
+                "ciao. Io ho già fatto il mio commento e ho detto quello che avevo da dire all’autore.",
+                "Credo che volesse solo giocare con il lettore, infilando un personaggio comico italiano nella trama di uno dei libri più famosi e citati di sempre.",
+                "Però io sono solo un lettore, come te.",
+                "Se il racconto ti confonde, puoi anche tu lasciare un commento rivolgendoti direttamente all’autore, per esprimere i tuoi dubbi ed evidenziare quelli che per te sono i punti di debolezza del testo.",
+                "Per discussioni di carattere generale (cos’è una parodia?, ecc) abbiamo altre sezioni più adatte, qui sul forum.",
+                "Qui restiamo sul testo e cerchiamo di comunicare direttamente con l’autore."
+            ],
+            "timestamp": "2019-11-02T15:49:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797406"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 797413,
+            "text": [
+                "Intervento di moderazione",
+                "Evitiamo di trasformare questa discussione in una conversazione tra i commentatori.",
+                "come ti ha suggerito , se non hai qualcosa da aggiungere alla tua analisi del testo non è il caso di aggiungere altri post a questa discussione.",
+                "Questo intervento vale per tutti. Evitiamo di replicare ad altri commentatori. Potete scambiarvi opinioni tramite MP o aprendo delle discussioni in altre sezioni del forum più adatte."
+            ],
+            "timestamp": "2019-11-02T16:18:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797413"
         }
     ],
     "text": [
