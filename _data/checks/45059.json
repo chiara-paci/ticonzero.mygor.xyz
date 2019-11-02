@@ -49,8 +49,17 @@
     },
     "num_chars": 672,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 797323,
+            "text": [
+                "Il mio l'ho da poco ripulito, ha un'età 😊 . Mi farebbe piacere leggere il tuo, come lo trovo?"
+            ],
+            "timestamp": "2019-11-02T09:32:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=797323"
+        }
+    ],
     "post_staff": [
         {
             "author": {
