@@ -1,0 +1,99 @@
+{
+    "author": {
+        "author_id": 34051,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Freedom Writer",
+        "url": "https://www.writersdream.org/forum/profile/34051-freedom-writer/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao,",
+                    "a primo impatto non ho apprezzato il modo in cui sei ripetutamente andato a capo, quasi ad ogni periodo. Lo stile è fortemente paratattico, quindi quasi totalmente privo di subordinate che a parer mio attribuiscono maggior consistenza al testo.",
+                    "In questo caso, devo dire, la consistenza che avrei sperato di trovare nella forma l'ho rinvenuta invece nel significato. Voglio dire che il messaggio, nonostante scritto in maniera molto semplice, è arrivato con la dovuta forza; non sono in grado di rilevare se vi fosse o meno l'intenzione, lacuna cui intendo ovviare leggendo alcuni tuoi altri racconti.",
+                    "L'immagine dell'uomo di mezza età mi ha fatto pensare a qualcosa di ben poco attraente, ma d'altra parte il pensiero sviluppato sulla venticinquenne che sale con lui in ascensore mi fa pensare ad una sorta di frustrazione dovuta proprio al suo aspetto; dall'altro lato si collocano il suo lavoro soddisfacente e il desiderio di mettersi alla prova. Ed ecco il motivo per cui non credo che si tratti di frustrazione. Credo, piuttosto, che sia un uomo superbo e molto sicuro di sé, al punto di sentirsi in diritto di pensare di porre fine alla vita di qualcuno. Non so, ripeto, se questo sia casuale ma, nel caso, c'è una continuità logica che fornisce consistenza.",
+                    "Veniamo però a questioni di forma:",
+                    "Meglio \"in ascensore\". Credo sia corretta questa forma perché, di fatto, si sale dentro l'ascensore e non sopra la cabina.",
+                    "Premettendo che mi piace questa continua alternanza tra i punti di vista dei personaggi così diversi tra loro, trovo i pensieri di lui molto rudi, eccessivamente. E' probabilmente una questione di preferenze, ma credo avresti potuto esprimere i concetti in modo più velato e ugualmente diretto.",
+                    "Mi permetto un esempio : \"pensò che avrebbe potuto abusare di lei, nonostante il poco tempo a disposizione; d'altra parte mica sarebbe stato necessario riversare in lei il suo piacere\".",
+                    "Credo che il tuo racconto sia molto diretto e, personalmente, non apprezzo i racconti in questa forma. Credo che i personaggi dovrebbero essere connotati in modo più preciso; per avere più effetto, il racconto dovrebbe accennare a qualche elemento in più delle vite dei personaggi.",
+                    "Concludendo, ho apprezzato l'alternanza dei punti di vista, ma avrei preferito un testo più ricco dal punto di vista lessicale, più ipotattico e una descrizione più approfondita dei personaggi.",
+                    "Spero che questo feedback ti sia utile,",
+                    "a presto!"
+                ]
+            ],
+            "timestamp": "2019-11-02T20:26:05Z",
+            "title": "In ascensore [revisionato]",
+            "url": "https://www.writersdream.org/forum/forums/topic/45090-in-ascensore-revisionato//?do=findComment&comment=797463",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7590,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Telemaco aveva un neo peloso in faccia, all’altezza dello zigomo.",
+        "Questa realtà lo aveva accompagnato per tutta la vita e adesso, a trent’anni, era in procinto di separarvisi. Non c’era cosa che lo rendesse più felice dell’immaginare quella informe escrescenza marrone scuro e pelosetta recisa.",
+        "Credeva di immaginarlo, quel piccolo bastardo, mentre si contorceva attaccandosi alla guancia con due manine rachitiche sorte all’occorrenza; e invece niente, l’indomani mattina sarebbe stato storia, gli aveva provocato sin troppe noie.",
+        "Di per sé Telemaco non poteva dirsi bello, aveva un par d’occhi piuttosto distaccati e il naso bitorzoluto. Alcune lentiggini, poi, punteggiavano le guance quasi sempre paonazze e le labbra erano piccole, rosse e carnosissime come quelle di un bambolotto. Una manciata di capelli ossigenati dava l’impressione di essergli appoggiata sulla testa, e quasi di certo era poco salda. Insomma, Telemaco pareva un palloncino da fiera, a detta di alcuni.",
+        "Ora, si capirà che in tal contesto, tutt’altro che attraente, quella sorta di macchia soleva essere il punto di fuga di chiunque guardasse al volto di Telemaco; si potrebbe quasi dire – e lo dicevano, lo dicevano – che tolto il neo, il resto poteva anche parer apprezzabile.",
+        "Così come qualcuno che guardi ad un quadro con la presunzione di volervi trovare il difetto, la gente scrutava il volto di Telemaco per provarlo ad immaginare senza e, nei loro pensieri, il neo era una disgrazia senza la quale tutto sarebbe stato diverso.",
+        "Steso sotto un gran luce bianca, pallido, vestito di un sol camicetto azzurrognolo semitrasparente da cui si intravedevano le forme d’un corpo non certo esile e di un pene modesto, Telemaco poneva attenzione alle estremità fredde dei suoi piedi.",
+        "Il pensiero non andava, come si potrebbe pensare, al dopo intervento, a cosa avrebbe provato nel veder il suo volto finalmente libero dall’usurpazione, no; Telemaco pensava alla Bettina, a quella ragazzotta dalle labbra purpuree che l’aveva baciato sulla guancia, al buio, e si era ritratta al contatto col peletto soffice del neo. Triste ricordo, sì, eppure un fremito gli scosse l’interno coscia, fino allo scroto. E poi il suo amore segreto per Valeria, la bella giovinetta dagli occhi cenere e il naso sottile; il desiderio che lo aveva più volte pervaso di sentire quel paio di gambe lisce tra le sue e che non aveva mai realizzato.",
+        "Ora forse sarebbe andata diversamente, perché era il neo il problema, lo diceva la gente!",
+        "Un medico piacente, con un gran boccolo nero sulla fronte, gli poggiò una mano sulla coscia e una mascherina sul viso, poi gli disse di contare fino a dieci, ma il dieci non arrivò.",
+        "Telemaco si svegliò diverso.",
+        "Gli parve di sentirsi più leggero, anche se una parte della faccia era del tutto insensibile.",
+        "Intorno a sé, come d’altra parte si era immaginato, non c’era nessuno; nessuno di quelli che si eran detti favorevoli all’intervento di Telemaco era venuto a visitarlo. Poco male, comunque; adesso il neo non c’era più ed un nuovo percorso sarebbe iniziato.",
+        "Nonostante i giorni poco felici trascorsi in ospedale, nei quali Telemaco si era abituato alla vista della grossolana cicatrice che aveva sostituito l’escrescenza marrone, tutto sembrava aver acquisito un significato più profondo; sebbene non avesse ancora incontrato nessuno, Telemaco adesso si sentiva accettato, come se la rimozione di quel dettaglio costituisse il requisito per l’aggregazione alla comunità dei belli.",
+        "Restava però in sospeso una questione non da poco: Telemaco non era bello, poco importava cosa la gente fosse in grado di dire dall’alto della propria posizione nella società.",
+        "Sì, qualcuno si era talmente immedesimato al fine di dispensare consigli, dal giungere al sentirsi come provvisto anch’egli del neo. Allora aveva persuaso il brutto Telemaco a cercare un modo per disfarsi di quell’abominio e risolvere la questione una volta per tutte; se si accenna or ora a codesto Qualcuno, è per via del suo ruolo, che non può dirsi marginale.",
+        "Sin da giovinetto, il Telemachino era abituato a sentirsi dire da tal Qualcuno, amico del padre e poi un po’ più della madre, che la bruttezza era merito del neo; mica glielo diceva, il gaglioffo, che invece era bruttino e che su quello c’era poco da fare.",
+        "Il prevedibile risultato era stato che Telemaco si sentisse un bello usurpato, appunto, come un quadro entro cui tal de’ tali vuol a forza veder la lacuna. Ma la lacuna, ahimè, non c’era in Telemaco. Anzi, era proprio quel difetto a non render poi così evidente l’evidente bruttura dei lineamenti del giovane.",
+        "Col passare del tempo, poi, si era sparsa la voce che il neo fosse all’origine di tutte le bruttezze che a Telemaco erano imputate. Aveva le gambe storte: “colpa del neo!”; aveva il collo sproporzionato: “colpa del neo!”; aveva le sopracciglia diseguali; “colpa del neo!”.",
+        "Insomma, se non avesse avuto il neo Bettina non si sarebbe ritratta e Valeria avrebbe steso le gambe tra le sue, poco ma sicuro!",
+        "Non è da dirsi che un certo fermento non vi fosse per l’arrivo di Telemaco, la questione è che non era quel tipo di fermento che si accompagna ad un evento lieto; c’era piuttosto una certa curiosità ma, come si può dire… ecco, sì… la società voleva vedere cos’era riuscita a combinare!",
+        "Non sorprende che quando Telemaco apparve, scendendo dal pulmino sgangherato color verde pisello, la gente cominciò a scrutarlo.",
+        "Ma diamine! Era sempre stato così brutto?",
+        "Ma quegli occhi distanziati, quel naso bitorzoluto, quella boccuccia rossa, lucida e carnosa erano sempre stati lì o glieli avevano messi all’ospedale?",
+        "Vuoi vedere che a Telemaco toccava adesso confrontarsi con una verità che non aveva mai neanche ipotizzato?",
+        "Correndo via con le mani sul volto, evitò casualmente che gli sguardi di Bettina e Valeria intercettassero il suo; ma che Telemaco fosse brutto adesso lo sapevano tutti.",
+        "Posò nudo per sé stesso, analizzando singolarmente ogni dettaglio del suo corpo; lo specchio rifletteva un essere umano più pesante della media, più alto e più massiccio. Non era grasso, no, ma possente.",
+        "Il petto era largo e prorompente, le spalle rotonde alla congiuntura e, nonostante la modesta quantità di carne in eccesso all’altezza del ventre, il tronco era uniforme e robusto. Il suo era, insomma, il fisico di un energumeno.",
+        "Niente di ciò, tuttavia, avrebbe fatto pensare ad alcunché di brutto, almeno sin quando non si fosse giunti al suo viso: il mento era poco solcato al centro, più verso destra, mentre da una parte all’altra dell’orecchio, la pappagorgia era arrotondata. Gli occhi erano veramente distanziati e quelle labbra piccole, carnose e lucenti sembravano poste lì a casaccio. Ma, cosa più grave ai suoi occhi distanziati, era quella sorta di pennacchio di capelli che sembrava appoggiato sulla testa.",
+        "Ma non era forse che chiunque, guardandosi allo specchio, riscontrasse in sé difetti che magari sino a prima aveva mal considerato? Esser brutti mica è un reato!",
+        "Telemaco passò in rassegna tutte quelle persone che nella vita aveva pensato essere brutte e, con sua grande sorpresa, si rese conto che brutte non lo erano per niente; o meglio, lo sarebbero state nella misura in cui si fossero viste con gli occhi di una certa società – quella che aveva messo a morte il neo, peraltro –.",
+        "Questione di percezioni, dunque, e Telemaco decise di cambiare la propria.",
+        "Chi cerca negli altri la propria bellezza, ahimè, corre il tremendo rischio di parer brutto; tuttavia Telemaco scoprì che le bellezze son di tanti tipi, e lo scoprirono anche Bettina e Valeria che, neo o non neo, amarono entrambe perdersi in quei grandi occhi distanziati."
+    ],
+    "timestamp": "2019-11-02T20:41:36Z",
+    "title": "Il cambiamento di Telemaco",
+    "topic_id": 45092,
+    "url": "https://www.writersdream.org/forum/forums/topic/45092-il-cambiamento-di-telemaco/"
+}
