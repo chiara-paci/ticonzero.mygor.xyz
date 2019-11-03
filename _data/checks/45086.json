@@ -43,7 +43,7 @@
     },
     "num_chars": 7146,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 797445,
@@ -68,6 +68,14 @@
             ],
             "timestamp": "2019-11-02T19:08:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45086-motopesca-oceanico-tortorelli//?do=findComment&comment=797447"
+        },
+        {
+            "post_id": 797527,
+            "text": [
+                "Sette vite come i gatti...tu pensi che la signora morte abbia dato a qualcuno un doppio comando? Egregio una cosa però è certa, lei conosce me ed io conosco lei. Ammetto che più di una volta ci siamo allungo osservati a vicenda ma, alla fine gli avrò fatto tanta pena da lasciarmi andare."
+            ],
+            "timestamp": "2019-11-03T10:05:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45086-motopesca-oceanico-tortorelli//?do=findComment&comment=797527"
         }
     ],
     "post_staff": [],

@@ -56,9 +56,31 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 797539,
+            "text": [
+                "Ciao",
+                "racconto piuttosto inquietante il tuo, dove dominano le atmosfere. Hai creato ansietà giocando con il contesto, disturbante quanto quello di Eyes Wide Shut, senza rinunciare a dare al testo la tua solita impronta stilistica.",
+                "Ho apprezzato molto il tema della \"maschera\", declinato in varie forme a seconda dei personaggi: Ada indossa una maschera perché sfregiata, ma se la costruisce da sé con il trucco. Cerone e matite sulla base del suo sfregio. Non ha paura di mostrarsi per quello che è diventata in seguito al disastro, si ridisegna, fa di sé un'opera d'arte partendo dalle proprie cicatrici. Nel personaggio ho visto un parallelo con il mito della fenice, che risorge dalle proprie ceneri. Ada sembra che voglia risorgere, va avanti senza nascondersi partendo da quel che il disastro l'ha fatta diventare. E, infatti, guarisce. È guarita. Il fatto che il suo corpo sia riuscito a debellare il veleno, lo vedo come un riflesso caratteriale, mostrato con il suo modo di reagire.",
+                "Tutte le altre persone colpite si mascherano. Coprono i segni con qualcosa di esterno, nascondono il dolore e la loro essenza dietro degli artifici. Si annullano, non si rialzano. Interpreto il loro \"coprirsi\" come un moto passivo nei confronti del loro malessere, un'accettazione volta alla morte più che al riscatto.",
+                "Infine ci sono le creature senza volto. Orrore! credo sia uno degli spunti più orrorifici che esistano: il volto attesta l'identità, esprime individualità ed è tramite di gran parte delle emozioni. Una creatura senza volto è statica e imperturbabile, dà idea di assenza di empatia. Un mostro con questa caratteristica credo sia il peggiore che possa esserci, è lo stadio finale dell'assenza di umanità.",
+                "Queste tre figure, questi tre livelli di maschere, interagiscono sullo sfondo di una trama ben gestita, in un racconto scritto davvero bene.",
+                "Apprezzato sia il tema, che la resa. Un bel lavoro",
+                "L'unico appunto che mi sento di muovere: mi sarei aspettata una stanza dedicata alle visite mediche un po' meno improvvisata, ma capisco che la camera da letto sia più funzionale allo scopo finale.",
+                "Detto tutto... a rileggerti"
+            ],
+            "timestamp": "2019-11-03T10:43:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=797539"
+        }
+    ],
     "text": [
         "Traccia n.3: Ve﻿leno",
         "Humus",
