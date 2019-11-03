@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 42,
+    "num_posts": 43,
     "post_after": [
         {
             "post_id": 794946,
@@ -310,6 +310,14 @@
             ],
             "timestamp": "2019-11-03T18:16:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797654"
+        },
+        {
+            "post_id": 797660,
+            "text": [
+                "Scusami... Dimenticavo... Il fatto che il protagonista sia un gatto e sia anche la voce narrante al presente non significa niente in quanto ad inventiva letteraria?"
+            ],
+            "timestamp": "2019-11-03T18:53:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797660"
         }
     ],
     "post_staff": [],
