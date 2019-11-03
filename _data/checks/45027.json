@@ -64,7 +64,7 @@
     },
     "num_chars": 7994,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 796607,
@@ -77,6 +77,25 @@
             ],
             "timestamp": "2019-10-30T12:37:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=796607"
+        },
+        {
+            "post_id": 797656,
+            "text": [
+                "Anche secondo me! anzi per me è la parte migliore",
+                "Grazie! il tuo commento denota che sei un lettore che scava propenso all'intuizione. Ormai ero propensa a pensare di aver scritto qualcosa di assolutamente incomprensibile.",
+                "Non ce la faccio! Nella versione lunga però ci metterò tutto l'impegno. Grazie",
+                "Hai pienamente ragione! Grazie per averlo letto."
+            ],
+            "timestamp": "2019-11-03T18:23:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797656"
+        },
+        {
+            "post_id": 797657,
+            "text": [
+                "Grazie per avermi dato le tue impressioni sincere. lo sto già riscrivendo. Vedrò se sarà presentabile."
+            ],
+            "timestamp": "2019-11-03T18:27:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797657"
         }
     ],
     "post_staff": [],

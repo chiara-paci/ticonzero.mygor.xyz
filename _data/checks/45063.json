@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 796956,
@@ -89,6 +89,16 @@
             ],
             "timestamp": "2019-11-03T17:19:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797626"
+        },
+        {
+            "post_id": 797648,
+            "text": [
+                "Ciao !",
+                "Si, decisamente pigiato. In realtà lo era anche con i 9000 originari, me ne sarebbero serviti almeno altri mille per dare un po' di respiro alle varie parti e aumentare ulteriormente la tensione, ma che vuoi farci, il bello del contest è soprattutto la sua difficoltà!",
+                "In ogni caso sono molto contento che ti sia piaciuto!"
+            ],
+            "timestamp": "2019-11-03T17:54:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797648"
         }
     ],
     "post_staff": [],
