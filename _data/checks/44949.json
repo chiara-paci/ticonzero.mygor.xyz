@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 50,
+    "num_posts": 52,
     "post_after": [
         {
             "post_id": 794946,
@@ -347,6 +347,16 @@
             ],
             "timestamp": "2019-11-03T20:38:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797686"
+        },
+        {
+            "post_id": 797709,
+            "text": [
+                "È da un po' che mi chiedo il perché ho fatto il gatto \"Cielo\" così sussiegoso...",
+                "Comunque, come lettura di Hallowen, hai centrato in pieno la zucca !",
+                "Ma grazie, caro"
+            ],
+            "timestamp": "2019-11-03T21:55:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797709"
         }
     ],
     "post_staff": [],

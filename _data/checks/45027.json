@@ -64,7 +64,7 @@
     },
     "num_chars": 7994,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 796607,
@@ -115,6 +115,15 @@
             ],
             "timestamp": "2019-11-03T21:23:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797702"
+        },
+        {
+            "post_id": 797711,
+            "text": [
+                "e se questo è quanto... spero soltanto che lo si dimentichi che esisto, che non passi mai da queste parti, che un maleficio mi protegga e lo costringa a girarsi da tutt'altra parte. Nel caso contrario, che le forze del male mi assistano!",
+                "Vado a rintanarmi nello sgabuzzino."
+            ],
+            "timestamp": "2019-11-03T22:02:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797711"
         }
     ],
     "post_staff": [],
