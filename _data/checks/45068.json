@@ -58,7 +58,7 @@
     },
     "num_chars": 7890,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 797498,
@@ -81,6 +81,15 @@
             ],
             "timestamp": "2019-11-03T05:59:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45068-h2019-bloody-mary//?do=findComment&comment=797499"
+        },
+        {
+            "post_id": 797599,
+            "text": [
+                "Buon pomeriggio, e grazie per il passaggio.",
+                "Due spiegazioni anche a te (che evidentemente mi son rimaste nella ... penna! ): Markus dà un cocktail a Angel (un Bloody Mary troppo piccante, segno che c'è qualcosa che non va) e da lì parte la trasformazione. Le urla della gente partono non per colpa di un mostro, ma perché avviene un blackout completo della nave (provocato da chi? Mah... considerando che non partono nemmeno i generatori di emergenza... :p ) e quindi subentra il panico. Poi si scatena il mostro..."
+            ],
+            "timestamp": "2019-11-03T15:01:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45068-h2019-bloody-mary//?do=findComment&comment=797599"
         }
     ],
     "post_staff": [],
