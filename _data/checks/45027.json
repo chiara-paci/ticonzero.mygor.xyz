@@ -64,7 +64,7 @@
     },
     "num_chars": 7994,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 796607,
@@ -96,6 +96,25 @@
             ],
             "timestamp": "2019-11-03T18:27:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797657"
+        },
+        {
+            "post_id": 797699,
+            "text": [
+                "Quando... oddio chi ha ucciso Alba? quando è morta? e se è morta come fa a raccontare la sua versione dei fatti al commissario? e io chi sono? cosa ho scritto?",
+                "@ Ghigo dopo il tuo commento sono veramente depressa",
+                "Ora è chiaro, pensavo di avere una trama nelle mani e invece non so più cosa ho scritto, non so nemmeno se ero sveglia o dormivo quando l'ho pensato.Aiuto",
+                "1"
+            ],
+            "timestamp": "2019-11-03T21:13:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797699"
+        },
+        {
+            "post_id": 797702,
+            "text": [
+                "scusa ho frainteso, ma la mia impressione al mio racconto è la stessa ora."
+            ],
+            "timestamp": "2019-11-03T21:23:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797702"
         }
     ],
     "post_staff": [],

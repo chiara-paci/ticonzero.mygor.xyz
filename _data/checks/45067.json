@@ -55,7 +55,7 @@
     },
     "num_chars": 7972,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 797108,
@@ -96,6 +96,15 @@
             ],
             "timestamp": "2019-11-03T14:32:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797594"
+        },
+        {
+            "post_id": 797705,
+            "text": [
+                "Aaaah quanti bei ricordi! (in effetti ci ho pensato a quel racconto mentre scrivevo la scena)",
+                "Grazie per aver capito!"
+            ],
+            "timestamp": "2019-11-03T21:36:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797705"
         }
     ],
     "post_staff": [
