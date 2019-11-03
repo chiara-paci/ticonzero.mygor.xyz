@@ -1,0 +1,102 @@
+{
+    "author": {
+        "author_id": 34051,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Freedom Writer",
+        "url": "https://www.writersdream.org/forum/profile/34051-freedom-writer/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "inizio con il dirti che ho trovato la tua idea molto carina e originale; condivido la constatazione di Kiki, per cui vedo il tuo racconto indirizzato ad un pubblico infantile, cionondimeno è pregno di una certa buona filosofia. Ho letto infatti la discussione e mi trovi d'accordo sul cosiddetto \"rush\", la corsa costante cui le nuove generazioni sembrano essere particolarmente soggette, e che tu hai definito come \"ipercinesia\" (ossia il termine corretto). In realtà non credo che tu volessi prendere in esame il problema dei \"time-obsessed\", essendo quindi propenso verso un'ispirazione casuale. In generale il tuo racconto mi è piaciuto, anche se non apprezzo i testi troppo paratattici e le costruzioni dialogiche.",
+                    "Vorrei venire adesso a qualche suggerimento di forma:",
+                    "Dato che poco prima hai utilizzato l'imperfetto (era), il passato prossimo in \"esclamò\" stona di molto.",
+                    "Credo sarebbe stato meglio scrivere: \"Paolino, le scarpe!\", esclamava sconsolata la mamma.",
+                    "Manca la punteggiatura nel primo periodo.",
+                    "Non avrei fatto iniziare il secondo con i sospensivi.",
+                    "Ho notato la tua tendenza a terminare con i sospensivi, di cui fai un uso piuttosto variegato. Non è una cosa che apprezzo, ma d'altra parte è un parere personale. Io, in genre, ne faccio un uso ridottissimo.",
+                    "E' un finale che faccio fatica a comprendere, perché non riesco a trarne la morale. A primo acchito mi viene da pensare che semplicemente Paolino abbia deciso (se mai avesse facoltà di farlo) di rimanere accelerato; d'altra parte però mi aspettavo che accadesse qualcosa di più.",
+                    "Credo che ci sarebbero stati i presupposti, data l'originalità dell'idea, per non far tramontare il racconto in un finale che lascia l'amaro in bocca.",
+                    "Cosa gli è rimasto del bradipo? Non prova ad accelerarlo? O magari si rallenta lui per effetto visivo?",
+                    "Insomma, manca, a parer mio, quell'azione necessaria.",
+                    "Credo che alla base di questo ci sia l'aver scritto di getto e non esser poi riuscito a trovare un finale adeguato, cosa peraltro comunissima, ma ti suggerisco di analizzare la storia di nuovo e sfruttare tutte le sue potenzialità.",
+                    "Mi piacciono moltissimo queste esplicazioni, sono simpatiche e anche se, come ha detto Kiki, queste azioni sembrano più legate alla distrazione che alla rapidità, riescono a farsi spazio e ad emergere.",
+                    "Concludendo, del tuo racconto mi è piaciuta moltissimo l'idea (che ti invito a sviluppare ancora e in modo più completo). Mi sono piaciute alcune delle frasi che hai usato, ma non ho apprezzato lo stile paratattico e il fatto che andassi costantemente a capo, quasi come se stessi scrivendo un inno. La costruzione dialogica, a mio avviso, deve essere breve e spiegare quanto basta, ma è semplicemente un gusto personale. Attenzione alla punteggiatura e ai tempi verbali, inoltre gli attributivi vanno inseriti in minuscolo e, ho notato, tendi invece a scriverli in maiuscolo, seguendo la punteggiatura del virgolettato.",
+                    "Un saluto, a rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-11-03T16:43:19Z",
+            "title": "Speedy Paolino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45080-speedy-paolino//?do=findComment&comment=797616",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7831,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Se mai al lettore venisse il ghiribizzo di indagare circa le sorti di Gandulfo, allora è bene chiarire sin da subito che non tutte le indagini conducono alla verità. Anzi, sarà bene chiarire anche un altro punto che per lui sarebbe stato fondamentale: la verità non è mai assoluta e, più importante, non è mai una.",
+        "Gandulfo era un tipo eccentrico e faceva una varietà di cose eccentriche. Anziché camminare, ad esempio, preferiva levitare. Il passo lo compiva lo stesso, ma non toccava il suolo che due volte al giorno: quando si svegliava e quando andava a dormire.",
+        "Vestiva sempre in modo elegante e accompagnava la sua mise con un orologio da taschino color ottone e un lungo bocchino senza sigaretta; al collo portava uno spago legato a mo’ di fiocco e aveva capelli color cotone sempre perfettamente pettinati.",
+        "Nel parlare alternava un lessico da far invidia ai linguisti a un repertorio di termini improbabili: “strabelecco”, “quaperino” o “baunadro” facevano d’improvviso la loro comparsa nel bel mezzo di un discorso e i bambini restavano ammaliati, mentre i grandi non riuscivano a dividersi tra i piedi di Gandulfo, sospesi a dieci centimetri dal suolo , e quel che raccontava.",
+        "Si narrava che una volta avesse minacciato un gatto con una ciliegia; il poverino, spaventato com’era, aveva drizzato tutto il pelo cosicché Gandulfo ne aveva potuto trarre elettricità carezzandolo contropelo; si era giustificato dicendo che i gatti erano “voltimeri” e potevano accendere le lampadine. Strambo, sì.",
+        "Gandulfo, il più curioso esemplare di essere umano da tempo in circolazione, un giorno scomparve senza avvertire nessuno, volando su una piccola mucca senza coda.",
+        "Qualcosa non andava. Innanzitutto Bentibecco non aveva consegnato la relazione al capoufficio e in secondo luogo i colleghi lo avevano pizzicato assorto nei propri pensieri, mentre la penna scribacchiava come mossa nient’altro che da sé stessa.",
+        "Bentibecco non godeva certo di rinomanza in ufficio, sempre ultimo in tutto; ultimo alla macchinetta del caffè e ultimo ad andarsene ma, ahimè, anche ultimo a lamentarsi.",
+        "Poveretto, con il cassetto stracolmo di sogni spezzati, tra i quali ogni sera cercava di rinvenirne uno quasi buono.",
+        "Costruiva la sua vita su pezzi di carta, alcuni grigi e altri colorati; le tediose relazioni che puntualmente doveva rimettere al capoufficio, e che sovente non consegnava in tempo, erano parte di quella vita che Bentibecco considerava come “indesiderata” (Gandulfo avrebbe detto “fasnodiosa”); ma al di là del grigiore delle pile sulla sua scrivania, si stagliava maestoso uno spettacolo di invisibile abbondanza. Laddove Bentibecco perdeva la rotta, Gandulfo era l’uomo della bussola, e quella bussola poteva condurre a qualsiasi meta. Una penna, tanto bastava. Il grigio diventava bordeaux o blu di Prussia, o ancora un colore che nessuno aveva mai conosciuto.",
+        "Gandulfo aveva dieci anni. A nascere fece presto e a diventare adulto ancora prima; alle nove e cinque del mattino era già da moglie. Alle nove e venti era in banca, dove lo aveva collocato il padre dopo avergli fornito un abito dei suoi.",
+        "Va da sé che un’educazione di pochi minuti non sia sufficiente e Gandulfo pareva più uno scemo che un impiegato di banca. Non sapeva parlare, non sapeva maneggiare il denaro e, come se non bastasse, mangiava le punte dei pennini per le firme. Il direttore dovette licenziarlo.",
+        "Venne assunto come lecca-francobolli per una ditta di consegna posta; tutto quello che imparò in quegli anni lo dovette alle immagini che incontrava sulle piccole stampe e, una volta imparata qualche parola, imparò anche a domandare “chi?”, “cosa?”, “quando?”, “dove?” e “perché?” (soprattutto “perché?”), in modo da ricevere spiegazioni.",
+        "Venne affiancato, a rispondere ai suoi quesiti, da un tale dai capelli rossi e la barba incolta, anch’essa rossiccia.",
+        "Un giorno capitò il francobollo numero 14.351, che presentava sul davanti l’immagine di una scaramuccia tra due eserciti; al “cosa?” di Gandulfo nell’indicare quelle strane canne lunghe che quei piccoli ometti ponevano davanti a sé, Indar (così si chiamava il rosso) rispose con sguardo trasognato. “Bella cosa, la guerra!”, disse, e la pagina dopo Gandulfo era su un campo di battaglia.",
+        "Indar aveva però omesso di spiegare in cosa consistesse la guerra, un’operazione certo più difficile che passare la lingua a paletta sul retro di una miniatura, anche quando la colla sia di quella dolce.",
+        "Quando Gandulfo si trovò di fronte a tutto quel rosso (non bordeaux, si badi bene!), si spaventò talmente che piantò la baionetta a terra e, gemendo come un muflone che stesse per essere abbattuto, cominciò a scavare fino a rompersi la pelle; i compagni avrebbero trovato nient’altro che un paio di sottili guanti sul bordo di una voragine profondissima. Da domandarsi se là sotto avesse poi trovato cose mai viste sui francobolli.",
+        "Bentibecco non consegnò la relazione neanche l’indomani, ma fece di peggio non presentandosi al lavoro. A niente valsero le chiamate del capoufficio che, con una quantità esorbitante di documenti da visionare, intendeva delegarne il più possibile al sottoposto.",
+        "In ufficio cominciò a spargersi la voce, sin dalle otto e cinque, che Bentibecco fosse morto.",
+        "In quindici anni di lavoro non era mai capitato che tardasse di un minuto, neanche per sbaglio; arrivava silenziosamente e se ne andava allo stesso modo.",
+        "Circa i comportamenti umani, è piuttosto da domandarsi se gli stessi colleghi di Bentibecco non si rendessero conto di star affrontando con decisa ilarità la sua presunta morte.",
+        "Ciò per cui Gandulfo aveva deciso di prendere il volo a bordo di una mucchetta senza coda era il medesimo per cui l’altro si era scavato una buca sottoterra; una creatura particolare come lui non trovava sovente spazio tra gli uomini.",
+        "Non certo per cattiveria, ma questi avversano spesso ciò che differisce di un tanto in più dalla loro percezione del mondo, allora dicono che quello è strambo o anormale o malato facendo di queste ingiurie una verità, ma solo una delle possibili variabili.",
+        "Un’Inquisizione che non finisce mai.",
+        "Gandulfo non aveva troppo simpatici gli uomini, non capiva quella loro tendenza al grigio; trovava inoltre piuttosto curiosa la dicotomia tra adulti e bambini, che sembrava farne due specie ben distinte: gli uni spaventano facilmente e gli altri facilmente sono spaventati. Non ne era forse prova l’altra verità di Gandulfo, che persuaso dalla guerra ne era stato poi spaventato a morte? Mica aveva combattuto, lui.",
+        "Tutto sommato, se il mondo fosse stato governato da bambini, allora sarebbe valsa la pena rimanervi, ma tant’è – come disse Gandulfo alla mucchetta – “la luna per ora andrà meglio!”.",
+        "Gandulfo Bentibecco non si presentò al lavoro neanche l’indomani, e neanche il giorno dopo; nessuna chiamata da parte sua.",
+        "Il capoufficio, nel timore che i colleghi potessero non essersi sbagliati circa la dipartita dello scomparso, chiamò la stazione di polizia e denunciò il fatto.",
+        "La casa appariva ordinata, nessun segno di colluttazioni o di effrazioni.",
+        "Dovunque i colori governavano lo spazio, in prevalenza bordeaux e blu di Prussia, e numerosi quadri raffiguravano uomini e donne e bambini nell’atto di compiere imprese grandiose. In uno, un uomo dalla lunga barba celeste e l’abito nero era visto dal basso mentre si alzava in volo sorretto da un aquilone color avorio; in un altro una mucca salutava le compagne levandosi oltre la staccionata.",
+        "“Che roba!” - esclamò il poliziotto con gli occhi sgranati- “non mi pare certo la casa di un impiegato, e non mi pare manco ci sia niente di interessante. Andiamocene!”.",
+        "Qualcuno disse che Gandulfo Bentibecco era stato ucciso, qualcun altro che aveva vinto un grosso premio; tutte possibili verità, certo, non dissimili da quella per cui sotto terra o nel cielo potesse trovarsi un mondo da far invidia alle immagini dei francobolli."
+    ],
+    "timestamp": "2019-11-03T16:53:09Z",
+    "title": "Il volo di Gandulfo",
+    "topic_id": 45099,
+    "url": "https://www.writersdream.org/forum/forums/topic/45099-il-volo-di-gandulfo/"
+}
