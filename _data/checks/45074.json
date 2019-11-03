@@ -54,9 +54,31 @@
     },
     "num_chars": 9340,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 797674,
+            "text": [
+                "ciao,",
+                "Un testo scritto con una fluidità accattivante. Il racconto di un'erosione interiore, di un crollo nervoso.",
+                "Flusso ma non monologo interiore, osserviamo lei, i suoi pensieri, attraverso la voce narrante. Molto efficace l'uso della punteggiatura, le virgole, che accumulano dettagli, modulando un ritmo dinamico anche in momenti statici del racconto. Succede quando si sa dove si vuole andare. Quindi, bene il controllo del testo. Direi che è l'elemento forte del racconto, quasi musicale la modulazione delle sfumature che si sovrappongono. Il testo accumula energia sottotraccia, forte del suo ritmo. Ho notato che tutto il lavoro introspettivo rimanda continuamente a riferimenti sensoriali: accompagna il deambulare nella casa, gli sguardi del bambino e i pensieri che innesca. Senza mai evadere completamente dall'azione. Scomponendolo, questo è il meccanismo ritmico del testo. Sequenze di frasi ben legate e il rimbalzo veloce tra immagini e suggestioni.",
+                "Andando oltre, non si compie lo strappo verso una dimensione pienamente onirica del racconto. Scelta voluta, ovvio. L'aspetto introspettivo non si libera mai dell'ancora al reale, pur alludendo continuamente a questa possibilità. Altro punto di forza, perché apre continuamente a una possibilità che rimane però solo potenziale; ma è sufficiente a innescare quest'idea nel lettore. Lasciando quell'argine sarebbe stato un altro racconto.",
+                "Il racconto ha un'estensione temporale almeno di diversi mesi: all'inizio il bambino è nel grembo, poi nel box, anche con una certa capacità di movimento. Questi riferimenti danno l'idea dell'arco in cui si svolge la vicenda. C'è uno scarto quando lei inizia a confondere la veglia con il sonno, si arriva a questa condizione in modo fluido. La narrazione è ricettiva, passiva; non spiega i fatti. Scelta stilistica, e funziona così. Di seguito la fine sul baratro allude a una conclusione drammatica. Forse l'allusione agli \"occhi zombi\" apre a una dimensione horror, fino a quel momento assente, perché l'angoscia aveva trovato una legittimazione tutta psicologica. Forse è un dettaglio non necessario, ma è una valutazione personale, perché nulla esclude un finale che strizzi l'occhio a una virata del genere.",
+                "Concludendo ho trovato una bella scrittura. La domanda è se in un testo più lungo questo far scivolare i fatti richieda qualche artificio narrativo maggiore. Il lettore ha bisogno di pensare un' evoluzione nel testo e proseguendo su questo registro rischi un calo di attenzione.",
+                "Ovviamente è una considerazione ipotetica perché qui il testo funziona perfettamente.",
+                "Però se non smontiamo i testi in officina?",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-11-03T20:03:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45074-tutto-quel-buio//?do=findComment&comment=797674"
+        }
+    ],
     "text": [
         "Tutto quel buio",
         "Conserva due sensazioni materiche della notte dopo il Disastro: non aveva mai sentito così netta, nel petto, la lacerazione indotta dalla perdita, e le fu chiaro, senza apparente ragione e senza possibilità di smentita, che nel grembo portava il figlio dell’uomo che aveva seppellito.",
