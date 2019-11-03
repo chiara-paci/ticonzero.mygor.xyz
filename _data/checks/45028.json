@@ -83,7 +83,7 @@
     },
     "num_chars": 6915,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 796679,
@@ -106,7 +106,26 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45028-cloe-%C3%A8-tornata-3di4//?do=findComment&comment=796679"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797503,
+            "text": [
+                "Cloe entra, magari la luce proviene o attraversa?",
+                "sostituirei il primo e con un con",
+                "direi: che si tendono negli ultimi spasmi",
+                "ti è scappata una virgoletta",
+                "questa non la capisco: non è forse d'amore che si riempiva sempre la bocca...? Non capisco che significa",
+                "continua"
+            ],
+            "timestamp": "2019-11-03T07:32:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45028-cloe-%C3%A8-tornata-3di4//?do=findComment&comment=797503"
+        }
+    ],
     "text": [
         "CLOE È TORNATA",
         "Terza parte",

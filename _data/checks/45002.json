@@ -65,9 +65,29 @@
     },
     "num_chars": 6479,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797500,
+            "text": [
+                "Buongiorno in mancanza di OW leggo Cloe",
+                "andrei a capo. La prima frase è generale, la seconda ci avvicina al personaggio nel particolare e nel momento in cui inizia il racconto, darei una separazione",
+                "toglierei molto che toglie peso alla negazione e all'affermazione della frase precedente sul suo tono: o è gradita o non lo è.",
+                "ripensandoci, metterei questa frase dopo la risposta del fratello, tanto per non anticipare quello che leggeremo nella sua battuta di dialogo",
+                "destra, refuso",
+                "il bovindo dei miei miei sogni",
+                "continua"
+            ],
+            "timestamp": "2019-11-03T07:10:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45002-cloe-%C3%A8-tornata-1di4//?do=findComment&comment=797500"
+        }
+    ],
     "text": [
         "CLOE È TORNATA",
         "Prima parte",

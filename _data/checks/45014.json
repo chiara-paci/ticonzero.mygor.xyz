@@ -70,9 +70,34 @@
     },
     "num_chars": 6399,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797502,
+            "text": [
+                "darei una pausa più lunga dopo vero, forse anche dei punti di sospensione",
+                "qui rimango stupita dal passaggio di punto di vista",
+                "preferirei poco dopo al posto di per secondo",
+                "ho dei problemi con questa frase: non dici la stessa cosa? Trovare il cadavere e vedere la signora M in quel modo, non sono la stessa cosa? Cambierei l'inizio della frase, prendilo con le pinze, come sempre: Oliver non saprebbe ancora dire se... o anche: O. non sa ancora dire se...",
+                "invertirei per dare più forza: malgrado fosse lei...",
+                "ti è scappata una virgola dopo uscire",
+                "direi: mentre crescevano insieme in quella casa",
+                "da quando non è più in condizioni di...",
+                "toglierei in Iraq, lo sappiamo già e qui rallenta",
+                "semplificherei: si trattiene",
+                "preferirei: prima; Manfred schiuma",
+                "continua"
+            ],
+            "timestamp": "2019-11-03T07:22:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45014-cloe-%C3%A8-tornata-2di4//?do=findComment&comment=797502"
+        }
+    ],
     "text": [
         "CLOE È TORNATA",
         "Seconda parte",
