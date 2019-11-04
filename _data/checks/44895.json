@@ -63,8 +63,43 @@
     },
     "num_chars": 3978,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 797745,
+            "text": [
+                "Grazie dei tuoi commenti, non sottovalutarti, mi sono stati davvero utili. Due teste sono meglio di una, ci credo davvero anch'io.",
+                "Quella che tu definisci scelta del flusso di coscienza, confesso non essere una scelta ma una casualità. Credo sia il mio modo istintivo di scrivere, non so scrivere altrimenti."
+            ],
+            "timestamp": "2019-11-04T08:09:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=797745"
+        },
+        {
+            "post_id": 797746,
+            "text": [
+                "Grazie dei tuoi commenti, si sovrappongono a quelli di altri lettori indicandomi chiaramente i punti deboli su cui dovrei intervenire. La confusione non è voluta ma è frutto di necessità, forse scrivo più per me stessa che per il lettore e quindi non gli facilito il compito. E' sorprendente come non mi fossi accorta da sola di quante ripetizioni.."
+            ],
+            "timestamp": "2019-11-04T08:18:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=797746"
+        },
+        {
+            "post_id": 797750,
+            "text": [
+                "Ciao Dhana, sei stata molto carina a scegliere di commentare il mio pezzo per la tua prima volta.",
+                "Cercherò di snellire come mi hanno consigliato tutti, ma sarà dura perchè amo la pesantezza, l'insostituibile pesantezza dell'essere ."
+            ],
+            "timestamp": "2019-11-04T08:23:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=797750"
+        },
+        {
+            "post_id": 797753,
+            "text": [
+                "Ciao Stefano, anche il tuo editing si muove sulla scia degli altri illuminando i tratti incerti. E' vero molti dubbi non fanno una certezza, ma meritano di essere indagati. Dove hai cambiato la mia frase volegendola al plurale devo contraddirti, l e sol e ide e la faceva no letteralmente vomitare si riferisce alla sola lingua del marito in fondo alla gola e dunque è singolare. Il tuo commento è stato per me particolarmente incoraggiante, spero di trovare la forza di scrivere il seguito. Grazie"
+            ],
+            "timestamp": "2019-11-04T08:31:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=797753"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Seduta sola sul suo letto matrimoniale, la dottoressa C. compì il suo solito rituale prima di andare a dormire puntualmente alle ventidue e trenta: prese la sua Moleskine giornaliera nera, la aprì alla pagina del segnalibro e controllò gli appuntamenti per il giorno dopo. Domani è il tre marzo lesse, dopodomani pensò, compirò sessantacinque anni, prima o poi dovrò decidermi a fare un bilancio della mia vita, ma ora non ho voglia di pensarci. Per un attimo si ricordò della battuta di Rossella O'hara in Via col vento: \"Ci penserò domani, dopotutto domani è un altro giorno\" e scacciò infastidita quel pensiero ridicolo.",
