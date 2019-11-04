@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,24 @@
     },
     "num_chars": 4143,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 4,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 797992,
+            "text": [
+                "Ciao , devo chiudere. Manca il commento approfondito a un altro racconto. Vedo che hai già pubblicato un testo con lo stesso titolo, venerdì. Immagino che questa sia una versione revisionata. Mi spiace ma in Officina è necessario fare un commento per ogni racconto pubblicato, revisioni comprese.",
+                "Puoi mandare un mp a me o a un altro staffer online, quando avrai fatto un commento approfondito. Allora questa discussione sarà riaperta."
+            ],
+            "timestamp": "2019-11-04T20:28:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita//?do=findComment&comment=797992"
+        }
+    ],
     "text": [
         "Lei sulle tue dita",
         "Il pesce ha dato un colpo di coda e in torsione ha spostato la pancia, in alto.",
