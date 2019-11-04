@@ -27,8 +27,20 @@
     },
     "num_chars": 7917,
     "num_commenti": 0,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 797738,
+            "text": [
+                "Scusatemi se vi ho costretto a leggere questo esercizio di stile. Non prendetemi sul serio, perché le mie intenzioni non lo erano avevo solo bisogno di liberarmi la mente da queste immagini e l'ho fatto mettendole per iscritto. Non avevo intenzione di scrivere una storia^^ perdonatemi.",
+                "Grazie infinite a tutti del passaggio e dei consigli",
+                "Era una citazione a Bilbo: \"Conosco la metà di voi solo a metà e nutro per meno della metà di voi metà dell'affetto che meritate\"",
+                "Come mai?"
+            ],
+            "timestamp": "2019-11-04T07:23:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45064-h2019-prison-blackout-il-labirinto-della-realt%C3%A0//?do=findComment&comment=797738"
+        }
+    ],
     "post_staff": [
         {
             "author": {

@@ -65,9 +65,57 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 797728,
+            "text": [
+                "Buongiorno",
+                "Io, ripensandoci, lo trovo forse un po' troppo moraleggiante e buonista"
+            ],
+            "timestamp": "2019-11-04T06:31:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797728"
+        },
+        {
+            "post_id": 797733,
+            "text": [
+                "nella frase di chiusura",
+                "mi sa un po' di: E vissero tutti felici e contenti!"
+            ],
+            "timestamp": "2019-11-04T06:53:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797733"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797728,
+            "text": [
+                "Buongiorno",
+                "Io, ripensandoci, lo trovo forse un po' troppo moraleggiante e buonista"
+            ],
+            "timestamp": "2019-11-04T06:31:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797728"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797733,
+            "text": [
+                "nella frase di chiusura",
+                "mi sa un po' di: E vissero tutti felici e contenti!"
+            ],
+            "timestamp": "2019-11-04T06:53:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797733"
+        }
+    ],
     "text": [
         "«Sono io il capitano dei pirati!» urla Greta puntando la spada verso il lampadario. «Tu devi ubbidire, perché sei piccolo! Fulmini e saette!»",
         "«Anche io voglio comandare, uffa, mi fai sempre pulire il ponte della nave! Non è giusto!»",
