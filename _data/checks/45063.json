@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 796956,
@@ -99,6 +99,14 @@
             ],
             "timestamp": "2019-11-03T17:54:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797648"
+        },
+        {
+            "post_id": 797774,
+            "text": [
+                "Grazie mille , sia degli ottimi consigli che dell'apprezzamento!"
+            ],
+            "timestamp": "2019-11-04T10:13:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797774"
         }
     ],
     "post_staff": [],

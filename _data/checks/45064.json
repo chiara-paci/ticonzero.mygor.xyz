@@ -27,7 +27,7 @@
     },
     "num_chars": 7917,
     "num_commenti": 0,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 797738,
@@ -39,6 +39,14 @@
             ],
             "timestamp": "2019-11-04T07:23:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45064-h2019-prison-blackout-il-labirinto-della-realt%C3%A0//?do=findComment&comment=797738"
+        },
+        {
+            "post_id": 797782,
+            "text": [
+                "Sì appunto, lo era colpa mia che non ho capito il tuo commento allora"
+            ],
+            "timestamp": "2019-11-04T10:34:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45064-h2019-prison-blackout-il-labirinto-della-realt%C3%A0//?do=findComment&comment=797782"
         }
     ],
     "post_staff": [
