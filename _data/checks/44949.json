@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 53,
+    "num_posts": 55,
     "post_after": [
         {
             "post_id": 794946,
@@ -357,9 +357,45 @@
             ],
             "timestamp": "2019-11-03T21:55:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797709"
+        },
+        {
+            "post_id": 797817,
+            "text": [
+                "C'è pieno invece di È pieno... Hai ragione, è meglio.",
+                "È fighissimo adoro il genere, e ho amato questo racconto. Complimenti",
+                "Wow, grazie",
+                "un paio di domande, non mi è chiara la biologia di queste cimici. Perché non passano al di là dei binari? Perché l'acqua di mare gli è dannosa?",
+                "Ho immaginato che l'unico antidoto al flagello fosse l'acqua di mare, che infatti faccio rovesciare dai Canadair (chiamati dal gatto Cielo più semplicemente come \"aerei con serbatoi colmi di acqua di mare\".)",
+                "I binari, che costeggiano la litoranea, separando di pochi metri dal mare l'invasione delle cimici, tengono queste, vuoi per il \"sentore\" dell'acqua marina, vuoi per",
+                "istinto di sopravvivenza, come ho scritto, lontane dal pericolo.",
+                "Ottima anche la rivelazione finale, inaspettata e interessante.",
+                "Ho cercato di metterci un'inventiva letteraria, ovvero un guizzo di inaspettato per sorprendere il lettore.",
+                "Muoio",
+                "Per il \"Mondo cane!\"? Lieta che tu l'abbia colto e che ti abbia divertito."
+            ],
+            "timestamp": "2019-11-04T12:51:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797817"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 797821,
+            "text": [
+                "Provo a lasciarti tre spunti di riflessione che valicano i confini del testo in questione, .",
+                "Il primo è quello di prediligere l'azione all'osservazione. Nel racconto ci sono entrambe, ma l'osservazione è di gran lunga dominante. Fa' sì che i tuoi protagonisti siano immersi nell'azione, promotori o travolti. O magari entrambe.",
+                "In secondo luogo, ti suggerisco di non dire al lettore cosa deve pensare. Lascia che sia ciò che racconti a suggerirglielo: indirizzalo sulla strada che desideri ma permettigli di colmare gli spazi bianchi con la sua esperienza personale. In questo modo la lettura, di norma, risulta più coinvolgente.",
+                "L'ultimo suggerimento è qualcosa che gli altri lettori ti hanno fatto notare, ossia di non complicare la lettura con arzigogoli fine a se stessi. Coniugare chiarezza a ricercatezza di esposizione si può, è tutta una questione di dosi (come spesso succede).",
+                "Noto che hai fatto un uso più robusto del punto di vista e della forma racconto, rispetto a quanto ho letto in passato. Spero che queste indicazioni possano aiutarti a proseguire su questa strada."
+            ],
+            "timestamp": "2019-11-04T13:15:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797821"
+        }
+    ],
     "text": [
         "Traccia nr. 5: Una voce nel buio.",
         "Flagello e repulsa",
