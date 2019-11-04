@@ -59,7 +59,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 27,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 795150,
@@ -177,6 +177,15 @@
             ],
             "timestamp": "2019-11-01T08:26:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=797056"
+        },
+        {
+            "post_id": 797900,
+            "text": [
+                "grazie della lettura e della spiegazione sui rettili. È sempre utile imparare nuove cose. Mi fa piacere che il racconto ti sia piaciuto, spero di commentare presto anche il tuo (ho avuto giornate davvero frenetiche e mi mancano ancora alcuni racconti da leggere con attenzione).",
+                "Alla prossima e buon contest!"
+            ],
+            "timestamp": "2019-11-04T15:58:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=797900"
         }
     ],
     "post_staff": [],
