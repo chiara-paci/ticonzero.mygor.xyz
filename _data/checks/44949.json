@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 62,
+    "num_posts": 63,
     "post_after": [
         {
             "post_id": 794946,
@@ -415,6 +415,15 @@
             ],
             "timestamp": "2019-11-04T19:12:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797970"
+        },
+        {
+            "post_id": 798015,
+            "text": [
+                "Sicuro di avere letto tutto il mo racconto?",
+                "Perché chi narra è un gatto, il protagonista, ma descrive la paura, il dolore, la morte inflitta alle persone del suo paese."
+            ],
+            "timestamp": "2019-11-04T21:49:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=798015"
         }
     ],
     "post_staff": [
