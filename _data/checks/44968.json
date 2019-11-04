@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 795196,
@@ -166,6 +166,20 @@
             ],
             "timestamp": "2019-10-26T10:59:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=795584"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 797945,
+            "text": [
+                "Mi è garbato. Ha un incedere ossessivo che inquieta, pur senza ricorrere a stratagemmi sanguinolenti e frasi tese a effetto. Notevole la similitudine fra cadaveri e fondi di caffè. Il risultato è solido e convincente, così come la voce narrante.",
+                "Consiglio, in una eventuale revisione, di cercare un bilanciamento migliore: la prima parte si dilunga in ridondanze e frasi ammiccanti che si possono sfoltire, mentre la parte finale necessita di un approfondimento, perché in questa stesura soffre un po’ dell’ingombro della premessa ed è un peccato."
+            ],
+            "timestamp": "2019-11-04T17:28:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=797945"
         }
     ],
     "text": [

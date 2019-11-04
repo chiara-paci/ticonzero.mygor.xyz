@@ -55,7 +55,7 @@
     },
     "num_chars": 3528,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 797097,
@@ -77,6 +77,15 @@
             ],
             "timestamp": "2019-11-01T11:56:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-fuori-concorso-lei-sulle-tue-dita//?do=findComment&comment=797100"
+        },
+        {
+            "post_id": 797939,
+            "text": [
+                "grazie mille!",
+                "Adesso sistemo il finale, che ne ha bisogno"
+            ],
+            "timestamp": "2019-11-04T17:06:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45069-h2019-fuori-concorso-lei-sulle-tue-dita//?do=findComment&comment=797939"
         }
     ],
     "post_staff": [],
