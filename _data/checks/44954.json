@@ -56,7 +56,7 @@
     },
     "num_chars": 8009,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 795261,
@@ -101,7 +101,27 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=796268"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 797830,
+            "text": [
+                "Eccomi qui, , compagno di veleno.",
+                "Hai fatto un uso consapevole di elementi rivoltanti per creare tensione. E hai scelto — cosa a mio avviso più importante — le parole giuste per costruire la narrazione. Lo stile è concreto, improntato sul \"qui e ora\", e produce nella mente immagini vivide, cariche di tensione.",
+                "In un'ottica di miglioramento, ti porto all'attenzione due aspetti critici.",
+                "Il taglio della narrazione, per ragione senz'altro intenzionali, va a oscurare l'immediatezza di comprensione. Un gioco volontario che però è difficile da dosare in quanto l'autore conosce già tutto; più svantaggiata è la posizione di un lettore ignaro, che si trova a districare la matassa volutamente intrecciata ma senza essere in possesso a priori degli elementi per farlo. Deve affidarsi a ciò che trova man mano nel testo, e qui l'autore deve saper scegliere dove, cosa e quanto. Un lavoro non semplice, dicevo, e complicato ulteriormente dalla conoscenza a priori. Il consiglio che posso darti in merito è di provare a calarti, passaggio per passaggio, nei panni di un lettore ignaro: censire gli elementi che ha a disposizione e l'efficacia degli indizi sparsi affinché possa orientarsi e — soprattutto — seguirti nel gioco che hai deciso di giocare.",
+                "L'altra questione riguarda una certa riproposizione di alcuni schemi che ho trovato nel formulare le frasi. Nelle (spesso odiate ) massime della buona scrittura creativa, una delle più illustri è \"via gerundi e avverbi in -mente\". Per come la vedo io è fuorviante, perché vai ad aggredire una possibile manifestazione di un problema a monte ma non il vero problema.",
+                "Tant'è che si ottiene lo stesso effetto da evitare con altre soluzione (tipo i mentre , gli all'improvviso ), ma in sostanza parliamo della stessa cosa. Se l'obiettivo è una scrittura che permetta al lettore di immergersi nell'azione e seguirla passo passo, è meglio non ricorrere frequentemente a espedienti di contemporaneità (col gerundio, spesso, ma anche col mentre , col quando ecc — nel tuo caso, soprattutto col mentre ): spesso infatti non c'è la vera possibilità di percepire due azioni in contemporanea, e si rischia di perdere il focus. È un dettaglio, ma ho imparato ad apprezzarne gli effetti benefici nella prosa.",
+                "Vedi tu se può tornarti utile."
+            ],
+            "timestamp": "2019-11-04T13:49:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=797830"
+        }
+    ],
     "text": [
         "Traccia n.3: Veleno",
         "Interitus",

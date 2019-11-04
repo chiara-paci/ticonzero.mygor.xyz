@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 795492,
@@ -171,6 +171,15 @@
             ],
             "timestamp": "2019-11-02T20:08:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=797459"
+        },
+        {
+            "post_id": 797858,
+            "text": [
+                "grazie per aver commentato, hai detto bene: difetti di linga per regione di appartenenza e poche battute a disposizione per una trama tanto articolata.",
+                "Grazie ai consigli di tutti sto ampliando il testo, con poche frasi il pezzo risulta più completo. A breve lo posterò nuovamente su racconti lunghi per ringraziare i suggeritori del WD. Mostrare come funzionano i consigli ricevuti è una buona tecnica per imparare. Grazie ancora e buon contest anche a te."
+            ],
+            "timestamp": "2019-11-04T14:55:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=797858"
         }
     ],
     "post_staff": [],
