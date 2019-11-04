@@ -58,7 +58,7 @@
     },
     "num_chars": 15781,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 797948,
@@ -69,6 +69,14 @@
             ],
             "timestamp": "2019-11-04T17:51:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45078-nicol%C3%B2-e-la-noia//?do=findComment&comment=797948"
+        },
+        {
+            "post_id": 798003,
+            "text": [
+                "Hai visto bene, prima era al passato e poi l'ho messo al presente... o per lo meno questo è quello che ne è venuto fuori."
+            ],
+            "timestamp": "2019-11-04T21:08:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45078-nicol%C3%B2-e-la-noia//?do=findComment&comment=798003"
         }
     ],
     "post_staff": [],
