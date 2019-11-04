@@ -64,7 +64,7 @@
     },
     "num_chars": 7994,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 796607,
@@ -124,6 +124,17 @@
             ],
             "timestamp": "2019-11-03T22:02:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797711"
+        },
+        {
+            "post_id": 797809,
+            "text": [
+                "Si mi sei stata molto utile e ti ringrazio per la tua pazienza.",
+                "Ripartendo dalla stesura originale, con i tuoi consigli cercherò di farne una bella storia.",
+                "Non avrei dovuto pubblicarlo così ridotto e tagliuzzato in malomodo.",
+                "Ormai è andata, la trama mi piaceva parecchio. Non mi sono resa conto di averlo rovinato."
+            ],
+            "timestamp": "2019-11-04T12:01:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45027-h2019-spica-e-le-altre-stelle//?do=findComment&comment=797809"
         }
     ],
     "post_staff": [

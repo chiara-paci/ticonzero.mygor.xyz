@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 796956,
@@ -107,6 +107,15 @@
             ],
             "timestamp": "2019-11-04T10:13:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797774"
+        },
+        {
+            "post_id": 797810,
+            "text": [
+                "Ma figurati , ognuno ha il proprio senso dell'orrido ed è un bene che sia così!",
+                "Grazie, piuttosto, di essere passata a lasciare la tua impressione!"
+            ],
+            "timestamp": "2019-11-04T12:21:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797810"
         }
     ],
     "post_staff": [],
