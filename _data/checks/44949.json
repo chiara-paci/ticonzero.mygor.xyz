@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 58,
+    "num_posts": 60,
     "post_after": [
         {
             "post_id": 794946,
@@ -385,6 +385,24 @@
             ],
             "timestamp": "2019-11-04T15:18:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797877"
+        },
+        {
+            "post_id": 797954,
+            "text": [
+                "Scusami,",
+                "Non avevo \"colto\" questa parte del tuo commento:",
+                "e non credevo lo fosse, grazie! Ora ho capito!"
+            ],
+            "timestamp": "2019-11-04T18:04:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797954"
+        },
+        {
+            "post_id": 797959,
+            "text": [
+                "Grazie delle tue parole, dei suggerimenti sensati e graditi che mi dai,"
+            ],
+            "timestamp": "2019-11-04T18:22:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=797959"
         }
     ],
     "post_staff": [
