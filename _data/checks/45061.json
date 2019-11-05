@@ -56,8 +56,24 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 16,
-    "post_after": [],
+    "num_posts": 17,
+    "post_after": [
+        {
+            "post_id": 798075,
+            "text": [
+                "Grazie di cuore per i vostri passaggi e per le parole incoraggianti.",
+                "Per uno che al suo esordio riceveva commenti del tipo \" l'ho dovuto rileggere tre volte \", \" si capisce di più da un libretto di istruzioni in cinese \", \" ciao, non ho capito bene ma mi è piaciuto \", riuscire a produrre sequenze di caratteri dalla prosa fruibile non è un risultato scontato. E in gran parte è dovuto ai vostri feedback e consigli.",
+                "Dici che il prossimo protagonista, per par condicio, deve essere Szczepan?",
+                "Mi viene da chiedermi da dove sia fuoriuscito, questo fiato, ma una mezza idea ce l'ho.",
+                "A saperlo l'avrei messo davvero un cameo.",
+                "Ah, per & : guardat",
+                "https://it.wikipedia.org/wiki/Musica_d'ambiente",
+                "Ancora grazie!"
+            ],
+            "timestamp": "2019-11-05T07:56:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798075"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -79,6 +95,26 @@
             ],
             "timestamp": "2019-11-03T10:43:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=797539"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 798075,
+            "text": [
+                "Grazie di cuore per i vostri passaggi e per le parole incoraggianti.",
+                "Per uno che al suo esordio riceveva commenti del tipo \" l'ho dovuto rileggere tre volte \", \" si capisce di più da un libretto di istruzioni in cinese \", \" ciao, non ho capito bene ma mi è piaciuto \", riuscire a produrre sequenze di caratteri dalla prosa fruibile non è un risultato scontato. E in gran parte è dovuto ai vostri feedback e consigli.",
+                "Dici che il prossimo protagonista, per par condicio, deve essere Szczepan?",
+                "Mi viene da chiedermi da dove sia fuoriuscito, questo fiato, ma una mezza idea ce l'ho.",
+                "A saperlo l'avrei messo davvero un cameo.",
+                "Ah, per & : guardat",
+                "https://it.wikipedia.org/wiki/Musica_d'ambiente",
+                "Ancora grazie!"
+            ],
+            "timestamp": "2019-11-05T07:56:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798075"
         }
     ],
     "text": [
