@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 797009,
@@ -103,6 +103,15 @@
             ],
             "timestamp": "2019-11-04T06:14:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=797726"
+        },
+        {
+            "post_id": 798046,
+            "text": [
+                "Dai, in sei righe non hai corso il rischio che si raffreddasse la zuppa",
+                "Grazie per il commento. Cosa? Ti ho ringraziato? Scusa, scusa, non lo faccio più"
+            ],
+            "timestamp": "2019-11-05T05:35:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798046"
         }
     ],
     "post_staff": [],
