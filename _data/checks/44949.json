@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 64,
+    "num_posts": 65,
     "post_after": [
         {
             "post_id": 794946,
@@ -424,6 +424,14 @@
             ],
             "timestamp": "2019-11-04T21:49:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=798015"
+        },
+        {
+            "post_id": 798067,
+            "text": [
+                "Come supponevo. Quindi posso considerare i tuoi commenti e le tue considerazioni negative del tutto false. Meglio!"
+            ],
+            "timestamp": "2019-11-05T07:20:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=798067"
         }
     ],
     "post_staff": [

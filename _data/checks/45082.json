@@ -65,7 +65,7 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 797728,
@@ -84,6 +84,18 @@
             ],
             "timestamp": "2019-11-04T06:53:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797733"
+        },
+        {
+            "post_id": 798064,
+            "text": [
+                "non l'avevo pensato questo! Buona osservazione",
+                "Bravissimo! Aretì",
+                "no, è così come lo leggi: autoconclusivo",
+                "e hai ragione pure qua! Vado a toglierla senza pensarci più.",
+                "Grazie mille acro e grazie mille anche a te"
+            ],
+            "timestamp": "2019-11-05T07:04:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798064"
         }
     ],
     "post_staff": [
@@ -114,6 +126,23 @@
             ],
             "timestamp": "2019-11-04T06:53:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=797733"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798064,
+            "text": [
+                "non l'avevo pensato questo! Buona osservazione",
+                "Bravissimo! Aretì",
+                "no, è così come lo leggi: autoconclusivo",
+                "e hai ragione pure qua! Vado a toglierla senza pensarci più.",
+                "Grazie mille acro e grazie mille anche a te"
+            ],
+            "timestamp": "2019-11-05T07:04:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798064"
         }
     ],
     "text": [

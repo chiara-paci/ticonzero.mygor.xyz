@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 795196,
@@ -189,6 +189,21 @@
             ],
             "timestamp": "2019-11-04T17:28:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=797945"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 798071,
+            "text": [
+                "Ti chiedo scusa, sono stato un po' sbrigativo. A mia discolpa, posso dire che ero in viaggio ed ero da telefono.",
+                "Provo a rimediare.",
+                "Ho parlato di bilanciamento perché il tuo racconto è suddiviso, per costruzione, in due parti: la prima è un preambolo che mette in chiaro chi sia il protagonista e la sua personalità, contestualizza e genera interesse per ciò che verrà. Poi viene il succo del racconto, cose che succedono in quel momento in cui è ambientato il tempo della storia (e del racconto, perché coincidono). La prima parte occupa circa due terzi del racconto, mentre la seconda il terzo restante, approssimativamente; questo rende la premessa molto più ingombrante della \"ciccia\", e il mio suggerimento era semplicemente quello di invertire le proporzioni, in un'eventuale revisione."
+            ],
+            "timestamp": "2019-11-05T07:36:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=798071"
         }
     ],
     "text": [
