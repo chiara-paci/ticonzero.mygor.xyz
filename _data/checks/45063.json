@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 796956,
@@ -116,6 +116,14 @@
             ],
             "timestamp": "2019-11-04T12:21:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=797810"
+        },
+        {
+            "post_id": 798091,
+            "text": [
+                "Grazie davvero , per un amante del genere non può esserci complimento migliore"
+            ],
+            "timestamp": "2019-11-05T09:18:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=798091"
         }
     ],
     "post_staff": [],
