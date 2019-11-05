@@ -79,7 +79,7 @@
     },
     "num_chars": 7320,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 796317,
@@ -97,6 +97,23 @@
             ],
             "timestamp": "2019-10-29T11:09:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=796317"
+        },
+        {
+            "post_id": 797730,
+            "text": [
+                "Buongiorno",
+                "Belle le tue osservazioni, molto interessanti!",
+                "esatto, con tutti i pro e i contro del caso",
+                "da qualche parte credo che il fattaccio sia uscito allo scoperto, ma ora non sono più sicura se sia qui o nel testo revisionato",
+                "questo non penso di chiarirlo, credo rimarrà un interrogativo. Non del tutto, secondo me molte cose si capiscono e vengono dette, per esempio Erika scriveva sul giornale e continuerà a farlo concentrandosi di più sulla tratta; diventerà questo il suo modo di aiutare le ragazze",
+                "su questo argomento mi sembrava che ci fosse abbastanza informazione, ma forse mi sbaglio e lo tengo presente",
+                "direi di no considerando che questi fatti risalgono al 2009 e io sono ancora qui che ne scrivo",
+                "trovo che questo sia un bene e che sia molto reale. Mi piacerebbe che il lettore chiudesse il libro (mi piace dare per scontato che lo diventerà e che avrà pure dei lettori ) e si sentisse scomodo, vorrei che gli rimanesse un sasso nella scarpa, una spina nel fianco, un pensiero di sottofondo che lo disturba e gli fa guardare le ragazze sulla strada con uno sguardo nuovo",
+                "mi dispiace... o sono contenta?",
+                "Grazie mille , preziosa come sempre"
+            ],
+            "timestamp": "2019-11-04T06:42:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=797730"
         }
     ],
     "post_staff": [
@@ -121,6 +138,28 @@
             ],
             "timestamp": "2019-10-29T11:09:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=796317"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 797730,
+            "text": [
+                "Buongiorno",
+                "Belle le tue osservazioni, molto interessanti!",
+                "esatto, con tutti i pro e i contro del caso",
+                "da qualche parte credo che il fattaccio sia uscito allo scoperto, ma ora non sono più sicura se sia qui o nel testo revisionato",
+                "questo non penso di chiarirlo, credo rimarrà un interrogativo. Non del tutto, secondo me molte cose si capiscono e vengono dette, per esempio Erika scriveva sul giornale e continuerà a farlo concentrandosi di più sulla tratta; diventerà questo il suo modo di aiutare le ragazze",
+                "su questo argomento mi sembrava che ci fosse abbastanza informazione, ma forse mi sbaglio e lo tengo presente",
+                "direi di no considerando che questi fatti risalgono al 2009 e io sono ancora qui che ne scrivo",
+                "trovo che questo sia un bene e che sia molto reale. Mi piacerebbe che il lettore chiudesse il libro (mi piace dare per scontato che lo diventerà e che avrà pure dei lettori ) e si sentisse scomodo, vorrei che gli rimanesse un sasso nella scarpa, una spina nel fianco, un pensiero di sottofondo che lo disturba e gli fa guardare le ragazze sulla strada con uno sguardo nuovo",
+                "mi dispiace... o sono contenta?",
+                "Grazie mille , preziosa come sempre"
+            ],
+            "timestamp": "2019-11-04T06:42:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=797730"
         }
     ],
     "text": [

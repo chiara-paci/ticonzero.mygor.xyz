@@ -67,7 +67,7 @@
     },
     "num_chars": 4428,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 797615,
@@ -102,6 +102,15 @@
             ],
             "timestamp": "2019-11-03T20:17:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=797681"
+        },
+        {
+            "post_id": 798223,
+            "text": [
+                "Grazie a tutti.:) Comunque non è un incipit, anzi. In precedenza ci sono cose che fanno intendere meglio questo frammento ma ovviamente da qui non si può capire.",
+                "Adesso sono fuori e non posso rispondere in modo adeguato, stasera torno.^^"
+            ],
+            "timestamp": "2019-11-05T15:36:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798223"
         }
     ],
     "post_staff": [],

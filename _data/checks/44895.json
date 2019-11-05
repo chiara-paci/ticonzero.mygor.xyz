@@ -63,7 +63,7 @@
     },
     "num_chars": 3978,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 797745,
@@ -112,6 +112,14 @@
             ],
             "timestamp": "2019-11-04T17:11:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=797941"
+        },
+        {
+            "post_id": 798085,
+            "text": [
+                "Forse così funziona ed è meno ambiguo, grazie del consiglio!"
+            ],
+            "timestamp": "2019-11-05T08:34:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44895-la-dottoressa-c//?do=findComment&comment=798085"
         }
     ],
     "post_staff": [],
