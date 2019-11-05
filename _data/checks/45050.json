@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 797009,
@@ -131,6 +131,16 @@
             ],
             "timestamp": "2019-11-05T18:11:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798248"
+        },
+        {
+            "post_id": 798262,
+            "text": [
+                "A tutti e due, abbondiamo",
+                "Agnes è dipinta come Gesù a Cana, non trasforma l'acqua in vino ma in sangue.",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-05T19:51:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798262"
         }
     ],
     "post_staff": [],
