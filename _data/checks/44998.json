@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 27,
+    "num_posts": 28,
     "post_after": [
         {
             "post_id": 795830,
@@ -139,6 +139,14 @@
             ],
             "timestamp": "2019-11-04T23:10:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=798032"
+        },
+        {
+            "post_id": 798246,
+            "text": [
+                "Sinceramente, non è dei lavori migliori che ho realizzato. Sta in piedi, non ha buchi, ma non è nulla di eccezionale: si legge ma non è esaltante. La cosa positiva del racconto è che si sono incastrati bene i titoli di opere horror famose (mancano ancora alcuni titoli da individuare)."
+            ],
+            "timestamp": "2019-11-05T18:03:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=798246"
         }
     ],
     "post_staff": [

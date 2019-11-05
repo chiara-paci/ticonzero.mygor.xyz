@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 797009,
@@ -122,6 +122,15 @@
             ],
             "timestamp": "2019-11-05T07:46:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798073"
+        },
+        {
+            "post_id": 798248,
+            "text": [
+                "Ahahah, questa è troppo carina.",
+                "Grazie Mariner, per il commento e ancor di più per la risata"
+            ],
+            "timestamp": "2019-11-05T18:11:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798248"
         }
     ],
     "post_staff": [],
