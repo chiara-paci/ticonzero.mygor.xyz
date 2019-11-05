@@ -59,7 +59,7 @@
     },
     "num_chars": 7912,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 796438,
@@ -116,6 +116,23 @@
             ],
             "timestamp": "2019-11-04T13:33:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797823"
+        },
+        {
+            "post_id": 798154,
+            "text": [
+                "Ciao , grazie del passaggio e della lettura",
+                "No, non è eccessivo, per una donna ritengo che sia un termine appropriato",
+                "C'è un cambio paragrafo netto, le scene sono staccate l'una dall'altra. Ogni rigo bianco del racconto separa blocchi di scene distinte, scollegate tra loro in termini temporali.",
+                "La saluta con distacco visto il malumore mostrato da lei la mattina. La conversazione avrebbe potuto solo essere \"com'è andata al lavoro\" \"bene, grazie\". Forse il termine \"approccio\" sarebbe stato più appropriato? Cerca di interagire in qualche modo con lei, tutto qui",
+                "Sì, ha un bagno privato che dà sulla camera da letto. È descritto nella seconda scena",
+                "Si è massacrata...",
+                "Perché ha paura: crede che sia il cugino che la stupri, ma proprio perché è suo cugino non è capace di denunciarlo, perché ne è innamorata, e nemmeno lo affronta cercando di cacciarlo, sempre per lo stesso motivo: amore e paura. Quindi cerca di stargli lontano il più possibile.",
+                "Errore mio. Ho inserito informazioni di troppo per cercare di fugare eventuali dubbi al riguardo, ma dalla disamina precedente è evidente che non serva, quindi li ho inseriti per nulla. Ho potuto notare che o il racconto viene capito, oppure per niente",
+                "Beh, è un horror: ho attinto dalla realtà amplificandone gli effetti. È anche tecnicamente impossibile che non si svegli, dal punto di vista medico: un sonnambulo si sveglia molto facilmente. Si tratta di una realtà modificata. Capisco che possa essere apprezzata o meno come scelta, lì sta al gusto di chi legge",
+                "Grazie mille per le opinioni"
+            ],
+            "timestamp": "2019-11-05T12:24:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798154"
         }
     ],
     "post_staff": [
@@ -199,6 +216,28 @@
             ],
             "timestamp": "2019-11-04T13:33:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=797823"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 798154,
+            "text": [
+                "Ciao , grazie del passaggio e della lettura",
+                "No, non è eccessivo, per una donna ritengo che sia un termine appropriato",
+                "C'è un cambio paragrafo netto, le scene sono staccate l'una dall'altra. Ogni rigo bianco del racconto separa blocchi di scene distinte, scollegate tra loro in termini temporali.",
+                "La saluta con distacco visto il malumore mostrato da lei la mattina. La conversazione avrebbe potuto solo essere \"com'è andata al lavoro\" \"bene, grazie\". Forse il termine \"approccio\" sarebbe stato più appropriato? Cerca di interagire in qualche modo con lei, tutto qui",
+                "Sì, ha un bagno privato che dà sulla camera da letto. È descritto nella seconda scena",
+                "Si è massacrata...",
+                "Perché ha paura: crede che sia il cugino che la stupri, ma proprio perché è suo cugino non è capace di denunciarlo, perché ne è innamorata, e nemmeno lo affronta cercando di cacciarlo, sempre per lo stesso motivo: amore e paura. Quindi cerca di stargli lontano il più possibile.",
+                "Errore mio. Ho inserito informazioni di troppo per cercare di fugare eventuali dubbi al riguardo, ma dalla disamina precedente è evidente che non serva, quindi li ho inseriti per nulla. Ho potuto notare che o il racconto viene capito, oppure per niente",
+                "Beh, è un horror: ho attinto dalla realtà amplificandone gli effetti. È anche tecnicamente impossibile che non si svegli, dal punto di vista medico: un sonnambulo si sveglia molto facilmente. Si tratta di una realtà modificata. Capisco che possa essere apprezzata o meno come scelta, lì sta al gusto di chi legge",
+                "Grazie mille per le opinioni"
+            ],
+            "timestamp": "2019-11-05T12:24:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798154"
         }
     ],
     "text": [
