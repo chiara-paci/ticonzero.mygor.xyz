@@ -13,12 +13,67 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "valid": 1.0,
+        "weight": true
     },
-    "closed": true,
-    "commenti": [],
-    "commenti_weight": 0,
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ho letto qualche giorno fa il tuo racconto; sono tornata per rileggerlo e commentarlo.",
+                    "Questo inizio mi piace molto. Matematica, quarantenne, sorriso, sono localizzazioni significative di due segni curvi verticali che, messi lì dove li hai messi, acquisiscono un senso bello pieno.",
+                    "Ecco, io l'avrei finito qui il racconto ( ) e invece no, lo riapri con una progressione temporale, gioiosa, intima e riflessiva.",
+                    "La relazione con gli adulti è resa molto bene e trovare in seguito lo sviluppo di un gesto semplice e importante, come appunto il saluto, è stata quasi una coccola.",
+                    "Vabbè: finalmente qualcuno scrive queste cose",
+                    "Qui ho cercato d'immaginarmele queste curve e ricordo di averle viste sul volto di una donna, una volta: l'effetto però non era di una bolla risarcitoria... forse il sorriso basta allo scopo.",
+                    "A parte la battuta, la frase è bella e generosa.",
+                    "In questo racconto mi sono sentita comoda, ho seguito la trama lasciandomi cullare dal ritmo narrativo, dall'evoluzione di una considerazione, dalla spiegazione dell'incipit e ho passeggiato nel tempo.",
+                    "Le parentesi hanno preso una forma che ho seguito curiosa e che ha saputo regalarmi attimi di altruismo. Lo stesso racconto è un gesto del quale ti ringrazio.",
+                    "L'immagine della bambina dal medico è fortemente \"agganciante\" e permette un'immedesimazione istantanea attraverso la quale avresti potuto portarci ovunque.",
+                    "Il finale è inaspettato, nonostante il testo lo chiamasse, inserisce la nota problematica alla quale, però, riservi una soluzione, anzi no, due a dire il vero.",
+                    "La scelta di una scrittura piana aggiunge al testo spessore, anziché toglierne.",
+                    "Bello. Tornerò"
+                ]
+            ],
+            "timestamp": "2019-11-05T00:17:32Z",
+            "title": "Parentesi [racconto di 2500 battute]",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=798043",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ho letto qualche giorno fa il tuo racconto; sono tornata per rileggerlo e commentarlo.",
+                    "Questo inizio mi piace molto. Matematica, quarantenne, sorriso, sono localizzazioni significative di due segni curvi verticali che, messi lì dove li hai messi, acquisiscono un senso bello pieno.",
+                    "Ecco, io l'avrei finito qui il racconto ( ) e invece no, lo riapri con una progressione temporale, gioiosa, intima e riflessiva.",
+                    "La relazione con gli adulti è resa molto bene e trovare in seguito lo sviluppo di un gesto semplice e importante, come appunto il saluto, è stata quasi una coccola.",
+                    "Vabbè: finalmente qualcuno scrive queste cose",
+                    "Qui ho cercato d'immaginarmele queste curve e ricordo di averle viste sul volto di una donna, una volta: l'effetto però non era di una bolla risarcitoria... forse il sorriso basta allo scopo.",
+                    "A parte la battuta, la frase è bella e generosa.",
+                    "In questo racconto mi sono sentita comoda, ho seguito la trama lasciandomi cullare dal ritmo narrativo, dall'evoluzione di una considerazione, dalla spiegazione dell'incipit e ho passeggiato nel tempo.",
+                    "Le parentesi hanno preso una forma che ho seguito curiosa e che ha saputo regalarmi attimi di altruismo. Lo stesso racconto è un gesto del quale ti ringrazio.",
+                    "L'immagine della bambina dal medico è fortemente \"agganciante\" e permette un'immedesimazione istantanea attraverso la quale avresti potuto portarci ovunque.",
+                    "Il finale è inaspettato, nonostante il testo lo chiamasse, inserisce la nota problematica alla quale, però, riservi una soluzione, anzi no, due a dire il vero.",
+                    "La scelta di una scrittura piana aggiunge al testo spessore, anziché toglierne.",
+                    "Bello. Tornerò"
+                ]
+            ],
+            "timestamp": "2019-11-05T00:17:32Z",
+            "title": "Parentesi [racconto di 2500 battute]",
+            "url": "https://www.writersdream.org/forum/forums/topic/44550-parentesi-racconto-di-2500-battute//?do=findComment&comment=798043",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,8 +81,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 4143,
-    "num_commenti": 0,
-    "num_posts": 4,
+    "num_commenti": 2,
+    "num_posts": 5,
     "post_after": [],
     "post_staff": [
         {
@@ -42,7 +97,20 @@
                 "Puoi mandare un mp a me o a un altro staffer online, quando avrai fatto un commento approfondito. Allora questa discussione sarà riaperta."
             ],
             "timestamp": "2019-11-04T20:28:44Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita//?do=findComment&comment=797992"
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=797992"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798047,
+            "text": [
+                "situazione"
+            ],
+            "timestamp": "2019-11-05T05:47:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798047"
         }
     ],
     "text": [
@@ -85,7 +153,7 @@
         "di un boooiAAA!!!"
     ],
     "timestamp": "2019-11-04T18:03:52Z",
-    "title": "Lei sulle tue dita",
+    "title": "Lei sulle tue dita [Rivisitato]",
     "topic_id": 45114,
-    "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita/"
+    "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato/"
 }
