@@ -67,7 +67,7 @@
     },
     "num_chars": 4428,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 797615,
@@ -111,6 +111,18 @@
             ],
             "timestamp": "2019-11-05T15:36:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798223"
+        },
+        {
+            "post_id": 798249,
+            "text": [
+                "Nel senso che la risposta è arriva subito, senza pensarci troppo. E' un personaggio che prima di arrivare a qualunque conclusione ci sta una vita. Quindi è come se avesse scoperto una nuova parte di sé, inedita.",
+                "In che senso senza seguito?",
+                "Non mi convince molto. Ma cercherò comunque una costruzione migliore.",
+                "La seconda volta è confortante perché il personaggio inizia ad acquisire una consapevolezza che prima non aveva e quindi a cominciare ad abbracciare positivamente l'idea di una nuova vita.",
+                "Grazie per tutti i commenti, sono molto utili."
+            ],
+            "timestamp": "2019-11-05T18:14:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798249"
         }
     ],
     "post_staff": [],
