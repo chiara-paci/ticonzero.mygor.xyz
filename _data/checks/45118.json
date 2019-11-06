@@ -52,8 +52,19 @@
     },
     "num_chars": 6695,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 798318,
+            "text": [
+                "Buongiorno, ciao. Provo a dare una spiegazione dei tempi \"ballerini\". La voce narrante lo racconta al presente, ma è un presente per dare più slancio all'accaduto. Probabilmente non ho esposto bene il fatto.",
+                "Mi piace scrivere il finale in modo ancora più freddo, da cronaca nera, facendo così, mi dava la sensazione, di dare più interesse al pezzo.",
+                "Sceneggiatura. Ho voluto fare un racconto con pochi dialoghi e quindi le scene vanno raccontate, probabilmente devo esercitarmi ancora tanto. Grazie per il tuo passaggio."
+            ],
+            "timestamp": "2019-11-06T07:43:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45118-lultimo-passaggio//?do=findComment&comment=798318"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Adines, per il mondo Ines, come tutti i giorni, procedeva verso casa con la sua nuova Jeep, regalata dal fratello Aristide, l'argine del Po.",

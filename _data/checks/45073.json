@@ -68,7 +68,7 @@
     },
     "num_chars": 5624,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 797153,
@@ -107,6 +107,21 @@
             ],
             "timestamp": "2019-11-06T05:43:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798308"
+        },
+        {
+            "post_id": 798448,
+            "text": [
+                "condividerai qualcosa con noi? Mi piacerebbe molto leggerti!",
+                "sì, l'ho notata subito anche io, ho già messo a posto",
+                "forse ti sei scordato quanto durava anche un solo giorno quando eravamo piccoli...",
+                "non sono così in confidenza con la famiglia, ma non fatico a immaginare che sia proprio così",
+                "Tutto rimediato!",
+                "per sostituire il punto e virgola con due punti?",
+                "o Fabio a righe",
+                "Grazie"
+            ],
+            "timestamp": "2019-11-06T16:30:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798448"
         }
     ],
     "post_staff": [
@@ -162,6 +177,26 @@
             ],
             "timestamp": "2019-11-06T05:43:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798308"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798448,
+            "text": [
+                "condividerai qualcosa con noi? Mi piacerebbe molto leggerti!",
+                "sì, l'ho notata subito anche io, ho già messo a posto",
+                "forse ti sei scordato quanto durava anche un solo giorno quando eravamo piccoli...",
+                "non sono così in confidenza con la famiglia, ma non fatico a immaginare che sia proprio così",
+                "Tutto rimediato!",
+                "per sostituire il punto e virgola con due punti?",
+                "o Fabio a righe",
+                "Grazie"
+            ],
+            "timestamp": "2019-11-06T16:30:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798448"
         }
     ],
     "text": [

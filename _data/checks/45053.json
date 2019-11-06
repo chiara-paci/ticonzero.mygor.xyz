@@ -56,7 +56,7 @@
     },
     "num_chars": 8088,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 797011,
@@ -102,6 +102,16 @@
             ],
             "timestamp": "2019-11-02T12:50:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=797377"
+        },
+        {
+            "post_id": 798473,
+            "text": [
+                "Ti ringrazio di essere passato, , e sono felice che ti sia piaciuto. Come detto in precedenza, mi resta sempre un po' il dubbio del narratore \"casinaro\".",
+                "Apprezzo molto il tuo commento e le segnalazioni che fai: sei un attento (e prezioso) osservatore.",
+                "Per il resto non ho mai pensato a un nome per la barista; come dire, non volevo distogliere l'attenzione dal protagonista - cosa che volevo ottenere con questo ibrido di narratore."
+            ],
+            "timestamp": "2019-11-06T18:43:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=798473"
         }
     ],
     "post_staff": [

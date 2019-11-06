@@ -65,7 +65,7 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 797728,
@@ -107,6 +107,15 @@
             ],
             "timestamp": "2019-11-05T09:49:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798098"
+        },
+        {
+            "post_id": 798446,
+            "text": [
+                "Che bello trovari da queste parti",
+                "valuto di sicuro, grazie!"
+            ],
+            "timestamp": "2019-11-06T16:21:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798446"
         }
     ],
     "post_staff": [
@@ -170,6 +179,20 @@
             ],
             "timestamp": "2019-11-05T09:49:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798098"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798446,
+            "text": [
+                "Che bello trovari da queste parti",
+                "valuto di sicuro, grazie!"
+            ],
+            "timestamp": "2019-11-06T16:21:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798446"
         }
     ],
     "text": [

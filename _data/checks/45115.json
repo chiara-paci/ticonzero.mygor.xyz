@@ -57,8 +57,24 @@
     },
     "num_chars": 7258,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 798520,
+            "text": [
+                "Ciao , grazie infinite per il feedback!",
+                "Ho letto il tuo commento con estremo piacere, contento del fatto che ti abbia trasmesso delle così forti emozioni.",
+                "Tralascio tutti i generosissimi complimenti, rivolgendoti solo un grande grazie poiché, con l'ausilio di un'analisi minuziosa e attenta, hai valorizzato il racconto fornendomi preziosi spunti per affinare la mia tecnica.",
+                "Dal tuo precedente commento a \"il cambiamento di Telemaco\", sto prestando molta attenzione alle ripetizioni che, ahimè, caratterizzano la mia scrittura; sono convinto che a poco a poco riuscirò a siglare un armistizio con me stesso.",
+                "Per quanto riguarda il racconto in sé, vale a dire il suo contenuto e la fantasia, Gandulfo sta diventando un caro amico. Talvolta vengo tacciato di pessimismo, poiché si sostiene (a mio avviso a torto) che io abbia una sorta di predisposizione a raccontare il brutto delle cose, ma Gandulfo mi ha spiegato che il brutto è un punto di vista e che lo è la stessa dicotomia che si pone alla base di tutto ciò che ci circonda. Il fatto è, adesso, che io scrittore mi trovo ad essere redarguito dal mio stesso personaggio e il nostro dialogo mi garba parecchio.",
+                "Il vero Gandulfo se n'è andato (neanch'io so dove sia) perché il brutto prima o poi stanca; le varianti del suo personaggio tentano di ricordarmi che ogni storia è tante storie e stavolta ho deciso di provare a raccontarle.",
+                "Cercherò di essere puntuale nel raccontare anche se, purtroppo, il tempo è tanto severo con noialtri.",
+                "Grazie ancora e a presto!"
+            ],
+            "timestamp": "2019-11-06T23:18:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45115-largonauta-lunare//?do=findComment&comment=798520"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Secondo episodio sulle vicende di Gandulfo.",

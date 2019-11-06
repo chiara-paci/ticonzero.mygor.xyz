@@ -12,12 +12,57 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.5,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao cara, carissima , ormai nostra moderatrice!",
+                    "Bellissima storia! Piena di fantasia, davvero deliziosa! Ultimamente, ti confiderò questo piccolo segreto, ho deciso di dedicarmi anch'io un po' alla narrativa per i più piccoli, cosa che effettivamente non ho quasi mai fatto fino ad ora. Dico questo solo per farti capire come abbia davvero apprezzato meglio la tua storia in quest'ottica. Me la sono immaginata illustrata, sarebbe perfetta secondo me.",
+                    "Un piccolo inno di fantasia con tutti gli elementi giusti per il genere di riferimento. Brava!",
+                    "Alcune annotazioni nello specifico, forse a ripetere anche cose già dette. Perdonami, ma forse voglio pubblicare anche io e potrei essere pignolo...",
+                    "L'unica vera nota generale su cui vorrei farti riflettere è qualcosa che da poco mi è stata fatta notare anche a me e qui, secondo me, se ne sente troppo la presenza: la ripetizione del soggetto \"Fabio \" che limerei il più possibile o per cui userei dei sinonimi, tipo \"bambino\", \"figlio\", \"lui\" etc... sotto quoto meglio.",
+                    "Anche perché per quasi tutto il racconto il Fabio è l'unico presente (al massimo si alterna con le \"righe) nella scena del fiume.",
+                    "Ad esempio qui: \"a un palmo dal naso del figlio\"...",
+                    "Ok, è un bambino, fervida immaginazione e tendenza a esagerare, l'hai usato più a frase fatta o modo di dire tipo del gergo-pensiero bambinesco, etc., etc.. ma il \" mai più \" mi sembra davvero eccessivo, sia perché la birichinata non è poi così apocalittica, sia e soprattutto perché da un punto di vista sintattico-grammaticale il verbo \" aspettare \" tende a far presupporre che ci siano dei trascorsi simili (anche solo di ammonimenti a riguardo da parte della madre), per cui vorrei suggerirti di valutare una soluzione più temporanea anziché definitiva come il mai... ossia parlare/accennare a una punizione, che so \"per un certo tempo\", \"un mese\", \"una settimana\", non \"mai più\"...",
+                    "Qui altri \"Fabio\"... volendo \"Il bambino si avvia\"...",
+                    "Per un attimo, da \"adulto\", ho pensato: \"deve essere un po' avventata la madre se si arrischia a far usare la lavatrice al bimbo senza che lui l'abbia mai usata prima\". Il seguito della storia ha smentito ampiamente questo mio dubbio, ma comunque mi resta l'idea se non sia il caso di specificarlo con qualcosa tipo \"se sua madre non glielo spiegherà\", da aggiungere a inizio o fine dell'ultima frase.",
+                    "\" Dopo poco \" non mi ha fatto impazzire... si potrebbe tranquillamente omettere, proprio perché il lasso di tempo è minimo ed è facilmente deducibile che sia trascorso poco tempo. Risulta poi un'espressione \"dura\", che volendo lasciare, addolcirei in suono: \"subito dopo\" \"dopo un po'\"... e comunque lo metterei all'inizio \"Dopo un po', torna...\".",
+                    "- Il verbo \" tornare \" non volevo quotarlo, ma... se lo cerchi, lo ripeti qualche volta in tutto il racconto.",
+                    "Non ribadirei che gli oggetti sono in numero di due, perché poco sopra li hai elencati: \"mette gli oggetti.\" Ma è davvero un puntiglio, anche così va più che bene.",
+                    "Ugualmente qui, li eliminerei proprio... li ha presi in mano, non serve ribadire che se li porta dietro...",
+                    "Bella immagine, molto naturale... mi è piaciuta... forse non mi sconquifferano troppo i due \"sulla/e\"... ma è un altro puntiglio mio.",
+                    "Qui ti volevo segnalare l'uso ripetuto del \"riflessivo\"... magari non ti piacciono i gerundi, però, ad esempio... \"inginocchiandosi sulle pietre\"... o altro.",
+                    "Subito sotto ce ne è un altro:",
+                    "Credo ti volessi segnalare un \"Fabio\" di troppo, forse puoi usare \"lui\"...",
+                    "Bello, qui si innesca la svolta della storia e l'idea centrale. Qui mi hai tirato dentro la storia con sorpresa e curiosità.",
+                    "Avrei variato \"righe\" con \"linee\", ma poi userai \"righe\" tante volte facendolo divenire soggetto... non so. Forse solo in questo caso così vicino si potrebbe cambiare?",
+                    "Qui... non mi ricordo che volevo dirti... a tua scelta fra un variare \"Fabio\" o \"mi sei piaciuta\", o entrambe...",
+                    "Qui mi sei piaciuta!",
+                    "Qui \"Fabio\" spicca davvero troppo.",
+                    "Il refuso di \"spaventa\" te lo hanno già segnalato, come mi pare il suggerimento di aggiungere una virgola o che la frase appare complessa. Più di tutto, per me, quest'ultima: la frase è un po' complessa, lunga rispetto al resto, ingarbugliata nel suo senso e (già che ci sono) un po' aggettivata. E ci aggiungo anche la ripetizione di \"color/i\". Tié!",
+                    "Bellissima l'immagine, ottima la \"lavatrice\" perché richiama tutto il senso della storia dall'inizio alla fine... Non mi piacciono però quelle due \" e \" e ci avrei aggiunto un'altra \"a\" (\"e a urlare\"), ma già così son due \"a\"... non so... molto sincopata e con una doppia congiunzione... Suggerirei almeno una virgola, anche un \"mentre\": \" si mette a strepitare e a urlare, mentre le righe fanno le capriole come...\"",
+                    "Non so perché ho quotato...",
+                    "Bella similitudine, brava! Perfetta per i bambini: i pennarelli sono il loro mondo (o almeno parte).",
+                    "Sai che da qualche parte mi era parso di notare una maiuscola senza il punto prima, ma non riesco più a trovarla, forse mi ero sbagliato, o era un \"Fabio\".",
+                    "(Sto allungando il brodo con finte annotazioni così che all'occhio passi per un commento adatto alla pubblicazione e gli staffer non mi facciano storie... ah no, ora, lo staffer sei tu! )",
+                    "Ciao, davvero bel racconto!",
+                    "Anzi, quasi scordavo... il titolo... concordo anch'io di dare risalto alle \"righe\", ma in realtà, essendo per bambini, metterei anche il nome di Fabio... lui è il vero protagonista in cui i bambini possono immedesimarsi, l'avventura che vive è la sua... \"Fabio e le righe dispettose...\" ."
+                ]
+            ],
+            "timestamp": "2019-11-06T11:40:36Z",
+            "title": "Storia dell'acqua",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798389",
+            "weight": 1
+        },
         {
             "checks": {
                 "timestamp": true,
@@ -65,7 +110,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -73,7 +118,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 10361,
-    "num_commenti": 1,
+    "num_commenti": 2,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

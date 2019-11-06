@@ -103,7 +103,7 @@
     },
     "num_chars": 5998,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 797899,
@@ -242,6 +242,22 @@
             ],
             "timestamp": "2019-11-02T08:22:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44976-edoardo//?do=findComment&comment=797307"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798323,
+            "text": [
+                "lo chiarirei meglio, io non lo avevo capito. Secondo me basterebbe una parolina in più",
+                "direi proprio di sì",
+                "e ti ricordi di casa, dove c'è sempre qualcuno su cui contare. Oppure sai cosa consiglio? Smettiamola di fare la guerra ai che, se la grammatica ce li ha regalati ci sarà una ragione",
+                "immagino fosse questo quello che percepivo, la differenza tra Edoardo e la protagonista che infine sei tu"
+            ],
+            "timestamp": "2019-11-06T08:02:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44976-edoardo//?do=findComment&comment=798323"
         }
     ],
     "text": [

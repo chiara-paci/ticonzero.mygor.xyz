@@ -58,8 +58,22 @@
     },
     "num_chars": 7831,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 798510,
+            "text": [
+                "Ciao , ti ringrazio per il feedback!",
+                "Mi fa molto piacere che abbia apprezzato il racconto e ti invito, dunque, a seguire gli sviluppi successivi di Gandulfo (al quale mi sto affezionando parecchio).",
+                "Purtroppo non riesco a scrivere tutti i giorni a causa degli impegni, come credo la maggior parte degli scrittori del forum, ma mi impegnerò",
+                "A rileggerci!",
+                "Ti ringrazio per il bel commento e per i preziosi consigli che, ho notato, sei generoso nel dispensare; demando una più completa risposta alla discussione \"l'argonauta lunare\".",
+                "A presto."
+            ],
+            "timestamp": "2019-11-06T22:16:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45099-il-volo-di-gandulfo//?do=findComment&comment=798510"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Se mai al lettore venisse il ghiribizzo di indagare circa le sorti di Gandulfo, allora è bene chiarire sin da subito che non tutte le indagini conducono alla verità. Anzi, sarà bene chiarire anche un altro punto che per lui sarebbe stato fondamentale: la verità non è mai assoluta e, più importante, non è mai una.",

@@ -82,7 +82,7 @@
     },
     "num_chars": 4143,
     "num_commenti": 2,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 798159,
@@ -125,6 +125,16 @@
             ],
             "timestamp": "2019-11-05T23:12:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798296"
+        },
+        {
+            "post_id": 798401,
+            "text": [
+                "ti ringrazio davvero!",
+                "L'inquietudine è un mio bersaglio: quando si muove va in risonanza col resto. In più allappa la lingua; la considero una nota tanninica, duratura e un po' disturbante.",
+                "Grazie per le considerazioni sull'ermetismo poetico, sei gentile"
+            ],
+            "timestamp": "2019-11-06T13:23:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798401"
         }
     ],
     "post_staff": [
