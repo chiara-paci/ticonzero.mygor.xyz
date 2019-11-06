@@ -12,22 +12,18 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.2532608695652174,
+        "timestamp": true,
+        "valid": 1.0,
         "weight": true
     },
     "closed": false,
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0.2532608695652174
+                "timestamp": true,
+                "valid": 1
             },
             "text": [
-                [
-                    "infatti è così dipende dal porto o se ti serve ancorare ad una rada che non conosci. Serve uno esperto di quel porto specifico che conosce quel tratto di mare ,quei fondali, eccetera.",
-                    "ciao"
-                ],
                 [
                     "Ciao è stato un piacere leggere il tuo racconto ma andiamo per ordine",
                     "Lo stile della prosa non è il mio preferito è molto scolastico con un intreccio un po',passami il termine,'vecchio'.in alcuni punti mi è parso un po'elementare ( ovviamente è una questione di gusti ) sui refusi non intervengo perché non ci capisco niente e me ne vanto",
@@ -49,9 +45,9 @@
                     "ciao Alla prossima."
                 ]
             ],
-            "timestamp": "2019-10-08T21:24:47Z",
+            "timestamp": "2019-10-11T21:02:10Z",
             "title": "\" Piroscafo Claskow\"",
-            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=791594",
+            "url": "https://www.writersdream.org/forum/forums/topic/44757-piroscafo-claskow//?do=findComment&comment=792163",
             "weight": 1
         }
     ],
