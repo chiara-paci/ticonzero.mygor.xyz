@@ -54,7 +54,7 @@
     },
     "num_chars": 459,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 797736,
@@ -65,6 +65,30 @@
             ],
             "timestamp": "2019-11-04T07:09:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza//?do=findComment&comment=797736"
+        },
+        {
+            "post_id": 798490,
+            "text": [
+                "Ciao ti ringrazio sia per le tue osservazioni che per l'apprezzamento.",
+                "Svelo il mistero, la poesia seguente della Merini è stata la fonte di ispirazione della mia piccola cosa. So che l'accostamento è improponibile, perdonatemi se potete.",
+                "Il dottore agguerrito nella notte",
+                "viene con passi felpati alla tua sorte,",
+                "e sogghignando guarda i volti tristi",
+                "degli ammalati, quindi ti ammannisce",
+                "una pesante dose sedativa",
+                "per colmare il tuo sonno e dentro il braccio",
+                "attacca una flebo che sommuova",
+                "il tuo sangue irruente di poeta.",
+                "Poi se ne va sicuro, devastato",
+                "dalla sua incredibile follia",
+                "il dottore di guardia, e tu le sbarre",
+                "guardi nel sonno come allucinato",
+                "e ti canti le nenie del martirio.",
+                "Saluti,",
+                "Mirko"
+            ],
+            "timestamp": "2019-11-06T19:38:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza//?do=findComment&comment=798490"
         }
     ],
     "post_staff": [],
