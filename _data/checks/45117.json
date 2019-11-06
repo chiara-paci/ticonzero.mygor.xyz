@@ -12,13 +12,58 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Quale vuoi? Quello da 50, 100 o 200 euro? Ahahah",
+                    "guerra ai possessivi! e si sbircia la maglia sudicia",
+                    "è stato un pomeriggio fantastico! Lui e gli altri hanno combattuto la battaglia di fango più spettacolare dell’estate.",
+                    "Bello battaglia di fango . O anche battaglia del fango",
+                    "Di nuovo il dito indice si alza, questa volta indica il cielo. Piano piano, nuvole grosse come montagne coprono l’azzurro e la luce.",
+                    "Le montagne sono grosse? O è meglio grandi?",
+                    "Arrivato sulla riva sceglie una piccola pozza di acqua più bassa e tranquilla che scorre cristallina sulle pietre tonde del letto del fiume.",
+                    "Non riesco a figurarmi sulla riva di un fiume una pozza d'acaqua separata dal resto. E' quasi in secca? Allora non scorre.",
+                    "Fabio si toglie la maglia toccandola il meno possibile. È proprio sporca.",
+                    "Sembra strano che si schifi, considerando che ce l'aveva addosso fino a un attimo prima e non ha detto niente",
+                    "Fabio punta gli occhi verso il fiume, ed eccole là: le righe colorate si allontanano galleggiando placide.",
+                    "Visto la sua battuta sul fatto che erano coperte di fango, aggiungerei qulcosa che indichi il fatto che si sono liberate dalla sporcizia e ora sprizzano vitalità, non placidità. Avevo un cane, da ragazzino, che dopo il bagno cominciava a scattare di qua e di là come una pallina da flipper. Intendo qualcosa del genere. E infatti dopo cominciano a saltare, no?",
+                    "Ma le righe emozionate, poco abituate a tuffi e libertà, se la spassano immergendosi e saltando dentro e fuori dall’acqua come delfini in mare.",
+                    "come salmoni? Visto che siamo in un fiume. Il salmone lo conoscono anche i bambini, no? Vabbè, forse l'hanno solo visto nel piatto. Meglio delfini.",
+                    "Fabio è bravo a nuotare, ma le righe sono veloci e molto agili, Fabio non riesce mai a raggiungerle.",
+                    "perché ripetere il soggetto? E lui non suona meglio?",
+                    "Una nube violacea e arrabbiata borbotta minacciosa verso la nebbiolina color arcobaleno che si fa più consistente dallo spaventa e i colori delle righe della maglia di Fabio diventano più vividi.",
+                    "refuso, spaventa . Interromperei dopo spavento . Così lunga la frase diventa un po' pesante, soprattutto considerando la fascia d'utenza, credo. Poi non sono sicuro che sia opportuno scrivere nebbiolina color arcobaleno , perché dà l'idea che le strisce e la nebbia siano diventate una cosa sola, mentre più avanti i tre soggetti sono distinti (nebbia, nuvola, righe). Anzi, a questo proposito cercherei di caratterizzare in qualche modo anche la nebbia. La nube e le righe stanno già apposto.",
+                    "La nube violacea gorgoglia e poi ringhia alzando il volume mentre la nebbiolina volteggia ubbidiente verso di lei.",
+                    "Non opterei per gorgoglia, perchè a me dà l'idea di qualcosa di liquido. Mi andrebbe bene se subito dopo fosse associato alla pioggia contenuta nella nube, in procinto di scaricarsi..",
+                    "Dopo un grido spacca-timpani e un fulmine spacca-cielo, le gocce di pioggia saltano dalla nuvola verso la terra e Fabio.",
+                    "Saltare non mi convince, anche se in effetti si può saltare giù da qualcosa.",
+                    "Plic, pluc, plac, sciaf, sente Fabio sulla pelle e sulla maglia e poi vede le sue righe: in ogni goccia di pioggia ce n’è una che si attacca al tessuto. Fabio asciuga le braccia nude strofinandole sulla maglia e i colori tornano a sdraiarsi in fila come i pennarelli in una scatola.",
+                    "Incredibile , pensa Fabio rimirando la sua bella maglietta pulita e colorata.",
+                    "«In fretta, Fabio! Comincia a piovere», grida la mamma dalla porta di casa.",
+                    "«Arrivo!»",
+                    "Mi manca qualcosa. Una bella frase di chiusura.",
+                    "Il titolo deve rimanere sulle righe, secondo me. E sui colori. Hai già fatto un'associazione con l'arcobaleno quindi magari qualcosa tipo: Breve fuga di un arcobaleno , o qualcosa del genere. Oppure qualcosa di più semplice tipo Le righe + un aggettivo carino ( salterine, birichine, ballerine ). Ma te ne verrà senz'altro uno meglio.",
+                    "Commentare narrativa per bambini è un po' una nuova esperienza, per me. Spero di non aver detto qualche sciocchezza.",
+                    "Sempre produttiva, eh? Ottimo. A risentirci."
+                ]
+            ],
+            "timestamp": "2019-11-05T08:17:22Z",
+            "title": "Storia dell'acqua",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798081",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +71,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 8141,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

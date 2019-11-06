@@ -82,8 +82,51 @@
     },
     "num_chars": 4143,
     "num_commenti": 2,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 798159,
+            "text": [
+                "Grazie !"
+            ],
+            "timestamp": "2019-11-05T12:32:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798159"
+        },
+        {
+            "post_id": 798175,
+            "text": [
+                "Grazie!",
+                "Sono contenta ti sia piaciuto il testo. Prendo buone le critiche in merito alla frase da te citata, sistemerò il periodare.",
+                "Quella frase è il residuo di una dipendenza: ho un problema con il lettore onniscente (sai quello al quale non devi spiegare nulla e sa tutto, ma proprio tutto, tutto tutto tutto?).",
+                "Il mio lettore onniscente mi perseguita da anni. Urla, graffia, ma soprattutto mi delizia con la sua approvazione. Per liberarmene mi sono sottoposta a pratiche faticose e umilianti, ma niente, la sua maledetta vocina sudente ha continuato a invitarmi a comporre per lui, solo per lui.",
+                "Allora ho deciso, gli ho dato retta, ho scritto un romanzo diretto a lui solo, in sei mesi scarsi. Ne è stato felicissimo.",
+                "Ci sono voluti 5 anni, dopo, per rendere il tomo leggibile.",
+                "Grazie ancora per le belle parole, ci si legge alla prossima, ciao!"
+            ],
+            "timestamp": "2019-11-05T14:05:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798175"
+        },
+        {
+            "post_id": 798177,
+            "text": [
+                "fatto!",
+                "Adesso se non passi vengo a cercarti, anche in chat! (Brrrrr...questa sì che fa paura! )",
+                "In più ho anche imparato a masticare..."
+            ],
+            "timestamp": "2019-11-05T14:13:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798177"
+        },
+        {
+            "post_id": 798296,
+            "text": [
+                "grazie!",
+                "Sono contenta ti sia piaciuto e farò tesoro dei suggerimenti.",
+                "(Ok, non ti mangio )"
+            ],
+            "timestamp": "2019-11-05T23:12:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798296"
+        }
+    ],
     "post_staff": [
         {
             "author": {

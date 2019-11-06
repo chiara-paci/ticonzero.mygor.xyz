@@ -65,7 +65,7 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 797728,
@@ -96,6 +96,17 @@
             ],
             "timestamp": "2019-11-05T07:04:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798064"
+        },
+        {
+            "post_id": 798098,
+            "text": [
+                "tutte e cinque contenporaneamente in braccio? Era Hulk tuo papà? Comunque anche a me succedeva ed era bellissimo!",
+                "la riguarderò; io non ci trovavo niente di strano invece",
+                "capisco cosa intendi, ma forse si può rimaneggiare un po' per avere un effetto a metà",
+                "Grazie mille cara"
+            ],
+            "timestamp": "2019-11-05T09:49:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798098"
         }
     ],
     "post_staff": [
@@ -143,6 +154,22 @@
             ],
             "timestamp": "2019-11-05T07:04:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798064"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798098,
+            "text": [
+                "tutte e cinque contenporaneamente in braccio? Era Hulk tuo papà? Comunque anche a me succedeva ed era bellissimo!",
+                "la riguarderò; io non ci trovavo niente di strano invece",
+                "capisco cosa intendi, ma forse si può rimaneggiare un po' per avere un effetto a metà",
+                "Grazie mille cara"
+            ],
+            "timestamp": "2019-11-05T09:49:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798098"
         }
     ],
     "text": [

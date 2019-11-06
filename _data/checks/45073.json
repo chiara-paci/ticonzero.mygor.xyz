@@ -68,7 +68,7 @@
     },
     "num_chars": 5624,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 797153,
@@ -80,6 +80,33 @@
             ],
             "timestamp": "2019-11-01T15:33:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=797153"
+        },
+        {
+            "post_id": 798100,
+            "text": [
+                "Ciao bello trovarti anche qui!",
+                "giusto",
+                "le nuvole sono grosse, nel senso di ingombranti... in effetti credo si possa trovare qualcosa di meglio anche per la metafora oltre che per l'aggettivo",
+                "giusta osservazione. Più che altro pensavo al gesto di sfilarsi la maglia, in cui l'esterno, sporco di fango, ti striscia sulla faccia, ma forse dovevo raccontare qualcosa di più di questo mio pensiero",
+                "molto bello anche questo",
+                "neanche una, e poi è utile uno sguardo fresco che esce dai meccanismi instaurati! Grazie mille"
+            ],
+            "timestamp": "2019-11-05T09:56:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798100"
+        },
+        {
+            "post_id": 798308,
+            "text": [
+                "intendevo il segno minaccioso del dito che fanno le mamme quando sgridano, in effetti forse va più su e giù che avanti e indietro",
+                "non si è tolto la maglietta, la toglie al fiume",
+                "le righe hanno una nebbiolina intorno, data dall'evaporazione del sole che è uscito poco prima, per questo sono riuscite ad uscire dal fiume; dall'altra parte arriva una nuvola brutta e cattiva che se la vuole mangiare per far scoppiare un temporale",
+                "contavo sull'effetto sole di poco prima, ma in effetti...",
+                "voleva essere la storia dell'acqua, il ciclo della pioggia: come fa a piovere? Il percorso delle righe dovrebbe, in poche e semplici parole, mostrare l'evaporazione e tutto il resto. Forse è un po' confuso e troppo lontano da quella che voleva essere la storia",
+                "mi sono limitata, ma non abbastanza. Avrei dovuto rispettare le 5000 battute, ma sono ancora a 5600! Vado a limitarmi ancora un po'",
+                "Grazie caro , buona giornata"
+            ],
+            "timestamp": "2019-11-06T05:43:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798308"
         }
     ],
     "post_staff": [
@@ -98,6 +125,43 @@
             ],
             "timestamp": "2019-11-01T15:33:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=797153"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798100,
+            "text": [
+                "Ciao bello trovarti anche qui!",
+                "giusto",
+                "le nuvole sono grosse, nel senso di ingombranti... in effetti credo si possa trovare qualcosa di meglio anche per la metafora oltre che per l'aggettivo",
+                "giusta osservazione. Più che altro pensavo al gesto di sfilarsi la maglia, in cui l'esterno, sporco di fango, ti striscia sulla faccia, ma forse dovevo raccontare qualcosa di più di questo mio pensiero",
+                "molto bello anche questo",
+                "neanche una, e poi è utile uno sguardo fresco che esce dai meccanismi instaurati! Grazie mille"
+            ],
+            "timestamp": "2019-11-05T09:56:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798100"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798308,
+            "text": [
+                "intendevo il segno minaccioso del dito che fanno le mamme quando sgridano, in effetti forse va più su e giù che avanti e indietro",
+                "non si è tolto la maglietta, la toglie al fiume",
+                "le righe hanno una nebbiolina intorno, data dall'evaporazione del sole che è uscito poco prima, per questo sono riuscite ad uscire dal fiume; dall'altra parte arriva una nuvola brutta e cattiva che se la vuole mangiare per far scoppiare un temporale",
+                "contavo sull'effetto sole di poco prima, ma in effetti...",
+                "voleva essere la storia dell'acqua, il ciclo della pioggia: come fa a piovere? Il percorso delle righe dovrebbe, in poche e semplici parole, mostrare l'evaporazione e tutto il resto. Forse è un po' confuso e troppo lontano da quella che voleva essere la storia",
+                "mi sono limitata, ma non abbastanza. Avrei dovuto rispettare le 5000 battute, ma sono ancora a 5600! Vado a limitarmi ancora un po'",
+                "Grazie caro , buona giornata"
+            ],
+            "timestamp": "2019-11-06T05:43:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45073-storia-dellacqua//?do=findComment&comment=798308"
         }
     ],
     "text": [
