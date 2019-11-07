@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 795830,
@@ -147,6 +147,15 @@
             ],
             "timestamp": "2019-11-05T18:03:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=798246"
+        },
+        {
+            "post_id": 798647,
+            "text": [
+                "Hai ragione; mi sono mancati i caratteri per spiegarlo.",
+                "Già, serviva un po' più di spazio per far sembrare il cambiamento meno repentino."
+            ],
+            "timestamp": "2019-11-07T17:04:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=798647"
         }
     ],
     "post_staff": [
