@@ -59,8 +59,19 @@
     },
     "num_chars": 389,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 798570,
+            "text": [
+                "ciao , sono contenta che questa poesia sia stata commentata e in particolare da te, che sei sempre molto attento. Sono contenta perché racconta di un momento in cui ho visto mio padre accorgersi che sta morendo e, accorgendosi di una fede (nuziale) rubatagli tempo prima, è come se avesse detto 'però mi piaceva vivere'. Lo sono ancora di più perché ci stiamo avvicinando alla fine proprio in questi giorni e ho bisogno di condividere questo smarrimento totale di fronte alla sofferenza umana. Che, forse, è il nostro interrogativo più grande.",
+                "In questa poesia mi rendo conto di avere tutto molto chiaro, ma di aver chiarito molto poco. La parola fede evoca la fede religiosa e ho pensato a chiarire, ma poi mi sono detta no, io ho visto solo quei focus, una fede che gli era stata rubata, noi che non glielo abbiamo detto, la mano che trema e che spezza minuscoli pezzi di qualsiasi cosa che trova, perché è la mano di un uomo in cui la testa ormai non funziona più a dovere, e uno sguardo che si ferma su qualcosa che ha significato molto per lui e che non ha più. Come tutto il resto.",
+                "Grazie di cuore, Roberto."
+            ],
+            "timestamp": "2019-11-07T11:55:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45076-la-fede-smarrita//?do=findComment&comment=798570"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ci stavamo affaccendando",
