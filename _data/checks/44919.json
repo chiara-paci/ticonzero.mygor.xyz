@@ -13,29 +13,11 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.655,
+        "valid": 0.5,
         "weight": true
     },
     "closed": false,
     "commenti": [
-        {
-            "checks": {
-                "timestamp": false,
-                "valid": 0.31
-            },
-            "text": [
-                [
-                    "Ciao",
-                    "Grazie per essere passata. Non nego che mi hai incuriosita, vorrei tanto vedere il quadro che ti ho ispirato🥰. Per il resto, provo a chiarire alcuni punti.",
-                    "Il principale obbiettivo era far provare al lettore la confusione del protagonista. Adottando quello stile, punteggiatura inclusa, pensavo di riuscire a esaltare l’aspetto.",
-                    "Grazie ancora per il tuo tempo, a risentirci 👋 ."
-                ]
-            ],
-            "timestamp": "2019-10-09T19:13:53Z",
-            "title": "Il padrone del nulla. L’incontro.",
-            "url": "https://www.writersdream.org/forum/forums/topic/44497-il-padrone-del-nulla-l%E2%80%99incontro//?do=findComment&comment=791801",
-            "weight": 2
-        },
         {
             "checks": {
                 "timestamp": false,
@@ -102,7 +84,7 @@
             "weight": 2
         }
     ],
-    "commenti_weight": 4,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -110,7 +92,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 14898,
-    "num_commenti": 2,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [
         {
