@@ -52,18 +52,10 @@
         },
         {
             "checks": {
-                "timestamp": false,
+                "timestamp": true,
                 "valid": 1
             },
             "text": [
-                [
-                    "tu sei troppo Buona con me. Ti ho cercato al MI, ti ho letta in Poesia.",
-                    "grazie per il passaggio e le indicazioni.",
-                    "Hai ragione sul POV del bambino in quei passaggi, e anche in altri ci sono forme astruse per un undicenne, ma la storia la racconta il portgonista settantenne. Per ora è arrivato a ricordare infanzia e adolescenza. Forse si districa più avanti la voce narrante, ma non è un bambino.",
-                    "Che dire... mi fai sempre tanti complimenti. Io ti ringrazio, sono contenta ti piaccia leggemi.",
-                    "E ringrazio anche Adelaide, mi hai fatto un commento bello bello. Contenta di aver danzato con te.",
-                    "Fiori e grazie per il vostro tempo!"
-                ],
                 [
                     "Sono un'egoista, e anche un'avara!",
                     "Dai, forse lo capisci dopo. Ho provato a spezzare la linearità dei ricordi, ma anche a far combaciare i pezzi nello svolgimento. Se non sarà così, avrò sbagliato sicuramente qualcosa. Non è detto io non abbia già sbagliato qui.",
@@ -166,9 +158,9 @@
                     "anche qualcun altro ti perdonerà per questo. Io l'ho già fatto."
                 ]
             ],
-            "timestamp": "2019-10-09T10:59:17Z",
+            "timestamp": "2019-10-10T06:35:50Z",
             "title": "Il ginnasta. Giochi umilianti e giochi spopolati",
-            "url": "https://www.writersdream.org/forum/forums/topic/44756-il-ginnasta-giochi-umilianti-e-giochi-spopolati//?do=findComment&comment=791682",
+            "url": "https://www.writersdream.org/forum/forums/topic/44756-il-ginnasta-giochi-umilianti-e-giochi-spopolati//?do=findComment&comment=791853",
             "weight": 2
         },
         {
