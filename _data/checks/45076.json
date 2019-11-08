@@ -59,7 +59,7 @@
     },
     "num_chars": 389,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 798570,
@@ -80,7 +80,39 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45076-la-fede-smarrita//?do=findComment&comment=798706"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 798782,
+            "text": [
+                "Ciao",
+                "Ti ho sempre considerata una guerriera e so che affronterai la cosa con la giusta forza d'animo.",
+                "Provo a darti la mia lettura.",
+                "In questa prima parte ho dei dubbi sulle inarcature. Sono due frasi di tre versi ciascuna, la forma è molto discorsiva, prosaica. E fin qui va tutto bene. Rimane però un elemento semantico da non tralasciare, ovvero il peso semantico dei versi. Soprattutto in assenza di figure metriche il senso si trasferisce tutto sulle figure retoriche e sulla geometria di significati che vanno formando. Perché questo è l'unico scheletro che rimane a tenere assieme il testo.",
+                "Ora la tua scelta di divisione dei versi evidenzia due parole che suonano praticamente solitarie nel testo: furto e declino. Concordo sulle scelte, sono due focus decisivi nella tessitura del messaggio. Dividendo per un attimo la parte in esame in due terzine direi che il punto debole e nei primi due versi di entrambe: suonano in modo macchinoso. A parte il dubbio sull'esattezza del termine \"affaccendando\" (cosa evoca? Quale immagine introduci nel lettore?), la regolarità delle desinenze verbali crea una simmetria nelle due \"terzine\" e inevitabilmente delle rime interne, non sostenute da una cadenza ritmica corretta. Dunque una geometria che non si incastra e produce uno sforzo nella lettura. Questo determina la forza e la fluidità con cui un'immagine entra in testa nella lettura. Di conseguenza è uno schema che va rotto e sarebbe più agile un cambio dei tempi verbali in una delle due parti; ciò toglierebbe quel senso di \"cantilena\" che credo che non vuoi nelle tue poesie. Un esempio, ma poi la scelta è tua:",
+                "Mantenemmo il silenzio",
+                "nella speranza del tuo (mi sembra che l'interruzione sul possessivo aumenti il senso di sospensione, ma va bene anche tenere isolata la parola declino )",
+                "rapido declino",
+                "L'asimmetria spesso conferisce dinamicità. Soprattutto in assenza di un ordine generale.",
+                "Proseguendo:",
+                "Questa frase ha il carattere di un inciso, io la isolerei in una strofa indipendente per dargli ancora più peso.",
+                "Questo passaggio ha qualcosa di ermetico, va bene anche la ripetizione che qui non risolve il contenuto del passaggio proprio in virtù dell'inafferrabilità delle parole. Lo schema fa da contrappunto a un senso che sfugge.",
+                "La soluzione grafica risolve l'esigenza di uno stacco. Altrimenti ti avrei proposto l'inizio di una nuova strofa. Buona intuizione.",
+                "Bella questa immagine, l'associazione delle due ultime parole mi sembra avere una grande forza.",
+                "Ecco un'altra ripetizione che non mi convince, anche qui doppia e anche qui evoca una ritmicità che la poesia non cerca. La mia soluzione: via il secondo solo e anche qui creiamo un'asimmetria. Il secondo verso assume quasi il tono di un rilancio e si libera di un'aurea ritmica estranea.",
+                "Altra ridondanza sonora. Trovo sia importante mantenere una forma dinamica anche nei tempi verbali perché le ripetizioni evocano cadenze ritmiche non volute.",
+                "Confesso che anche io alla prima lettura pensavo che parlassi di fede religiosa. Mettere nell'ultimo verso averla al dito aiuterebbe a comprendere, però la tua soluzione è formalmente più elegante. A te la scelta: forma o significato.",
+                "Mi ripeto ancora una volta dicendoti che nei tuoi scritti c'è sempre una forza particolare, che ti contraddistingue come autrice.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-11-08T17:45:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45076-la-fede-smarrita//?do=findComment&comment=798782"
+        }
+    ],
     "text": [
         "Ci stavamo affaccendando",
         "perché non ti accorgessi",
