@@ -54,7 +54,7 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 795747,
@@ -127,6 +127,21 @@
             ],
             "timestamp": "2019-11-01T21:54:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=797259"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 798744,
+            "text": [
+                "Posso chiamarti comunque Edu?",
+                "Immagino che non sia facile scrivere sotto a un lenzuolo, eppure il risultato merita. Nessuno ha mai detto, che io sappia, che spaventare e inquietare equivale a seminare sangue e interiora in putrefazione. Apprezzo il ritmo testo e ingannevolmente pacato, la personalità della voce narrante e il messaggio di fondo — non nuovo nella tua produzione.",
+                "In fase di revisione, se ti va, potresti sbrogliare e riformulare alcuni periodi, uno su tutti quello d'apertura."
+            ],
+            "timestamp": "2019-11-08T12:29:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=798744"
         }
     ],
     "text": [

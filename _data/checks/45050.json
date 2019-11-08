@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 797009,
@@ -172,6 +172,14 @@
             ],
             "timestamp": "2019-11-07T16:45:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798632"
+        },
+        {
+            "post_id": 798741,
+            "text": [
+                "Siccome il tuo commento mi è piaciuto, e non poco , ti lascio una risposta lampo: grazie"
+            ],
+            "timestamp": "2019-11-08T12:00:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=798741"
         }
     ],
     "post_staff": [],
