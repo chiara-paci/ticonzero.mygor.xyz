@@ -72,9 +72,36 @@
     },
     "num_chars": 8141,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 798709,
+            "text": [
+                "Buongiorno",
+                "comincio con una sciocchezza:",
+                "non ti disturba mai ma?",
+                "secondo me qui serve altro insieme a e, se no sono solo due azioni che si sommano slegate tra di loro, invece tu vuoi dire che Leo fa quello che dice il barista solo perché ha la testa altrove, se no farebbe altro. Giusto?",
+                "questo non lo ricordavo. Cioè, ricordavo che era l'incipit della storia e della famiglia, ma non che fosse incompleto",
+                "ricordo Claire, ma Peter e Janine dove stavano? Non nel deserto",
+                "ma che immagine orribile",
+                "questo scambio lo trovo fantastico",
+                "qui invece non mi è chiaro il legame tra botta e risposta, ma credo che abbia a che fare con le battute seguenti... o forse no?",
+                "qui non c'è bisogno di card, dai, anche con l'italiano ce la caviamo in queste situazioni",
+                "qui qualcosa non va: che non sia chi? Se parli di Leo direi: di non essere dove dovrebbe. Se parli di altro non ho capito niente",
+                "trovo che ci sia un eccesso di aggettivazione in questa brevissima frase",
+                "e chi altro si chiama nei momenti di bisogno?",
+                "continua"
+            ],
+            "timestamp": "2019-11-08T04:42:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45117-on-writing-14-la-stanza-217-prima-parte//?do=findComment&comment=798709"
+        }
+    ],
     "text": [
         "ON WRITING",
         "Osservazioni romanzate sull’arte di scrivere",

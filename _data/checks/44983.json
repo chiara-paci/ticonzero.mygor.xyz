@@ -48,7 +48,7 @@
     },
     "num_chars": 5569,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 795574,
@@ -97,7 +97,31 @@
             "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=796838"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 798737,
+            "text": [
+                "È difficile realizzare un racconto solido con l'impostazione che hai scelto, . Per fortuna le capacità che hai messo in campo giustificano pienamente la scelta di sperimentare l'horror in seconda persona. Secondo me hai indovinato innanzitutto l'ambientazione: la claustrofobia in treno genera mostri e fantasmi nella nostra mente... forse anche più di un ascensore bloccato, perché il nemico ha più spazio in cui nascondersi.",
+                "Ti vorrei lasciare due consigli che vanno al di là della stesura di questo racconto.",
+                "Il primo è di formattazione: per i dialoghi cerca di fare attenzione ai cosiddetti \"beats\", le singole battute. Prova a isolarle per privilegiare chiarezza e ritmo.",
+                "Un esempio.",
+                "Dall’altro capo però non c’è la tua consorte, ma una voce sinistra nel buio: «Chiamami Vlad… ora faremo un gioco, tu cercherai di salvarti dalla morte senza scendere dal treno.»",
+                "«Vlad? Che scherzo è mai questo?» chiedi sgomento, «e dov’è mia moglie?»",
+                "«Le regole le faccio io, se sopravvivrai tua moglie ti attenderà alla stazione» ti risponde la voce cavernosa.",
+                "Cose così, insomma. Orientati cercando di isolare ciascun beat in modo da dargli il giusto risalto. L'esperienza di lettura aumenta sensibilmente.",
+                "Il secondo riguarda il coinvolgimento del lettore. Secondo me bisogna evitare questi espedienti:",
+                "L'autore non dovrebbe dire mai al lettore cosa pensare, specie in terza e in seconda persona (in prima potrebbe farlo il personaggio narrante per fuorviare, per esempio). Al contrario, bisogna costruire i presupposti per cui sia il lettore a provare in autonomia queste sensazioni. E come ci si riesce? Crea atmosfera, sfrutta i dettagli della sfera sensoriale, immergiti nel punto di vista (quest'ultima specie in terza persona, in seconda forse non è la cosa migliore).",
+                "Spero che ti sarà utile per un'eventuale revisione, ma anche per prossime stesure di nuovi brani."
+            ],
+            "timestamp": "2019-11-08T11:26:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44983-h2019-chiamami-vlad//?do=findComment&comment=798737"
+        }
+    ],
     "text": [
         "Traccia n.5: Una voce nel buio",
         "Chiamami Vlad",
