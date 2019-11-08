@@ -56,7 +56,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 798075,
@@ -72,6 +72,17 @@
             ],
             "timestamp": "2019-11-05T07:56:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798075"
+        },
+        {
+            "post_id": 798719,
+            "text": [
+                "Ti ringrazio per le segnalazioni, per le parole di apprezzamento e di incoraggiamento. La dura vita di chi vuol provare a scrivere decentemente passa soprattutto attraverso le letture critiche, e dal mio punto di vista sono ancora lontano anche dal fare una torta \"ottima\", altro che ciliegina.",
+                "Grazie ancora.",
+                "Grazie. Sei davvero gentile. Io cerco di fare del mio meglio e con gli strumenti di cui dispongo. Ho pescato nelle mie paure personali e ho provato a dare loro forma cercando di riprodurre l'inquietudine: essere riuscito a ottenere una parvenza di risultato per me è veramente qualcosa di cui essere felice. A prescindere dall'etichetta, perché non sono mai andato molto d'accordo con le etichette.",
+                "Grazie per la lettura e per il feedback. Per me non c'è niente di più importante di quanto mi hai scritto, e sono felice. Non nego di aver lavorato sodo, negli anni, per poter sfiorare dei risultati accettabili nella scrittura. Il tuo \"purtroppo\" non rientra fra i miei interessi, non riguarda né intacca il mio percorso di crescita."
+            ],
+            "timestamp": "2019-11-08T08:58:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798719"
         }
     ],
     "post_staff": [
@@ -115,6 +126,22 @@
             ],
             "timestamp": "2019-11-05T07:56:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798075"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 798719,
+            "text": [
+                "Ti ringrazio per le segnalazioni, per le parole di apprezzamento e di incoraggiamento. La dura vita di chi vuol provare a scrivere decentemente passa soprattutto attraverso le letture critiche, e dal mio punto di vista sono ancora lontano anche dal fare una torta \"ottima\", altro che ciliegina.",
+                "Grazie ancora.",
+                "Grazie. Sei davvero gentile. Io cerco di fare del mio meglio e con gli strumenti di cui dispongo. Ho pescato nelle mie paure personali e ho provato a dare loro forma cercando di riprodurre l'inquietudine: essere riuscito a ottenere una parvenza di risultato per me è veramente qualcosa di cui essere felice. A prescindere dall'etichetta, perché non sono mai andato molto d'accordo con le etichette.",
+                "Grazie per la lettura e per il feedback. Per me non c'è niente di più importante di quanto mi hai scritto, e sono felice. Non nego di aver lavorato sodo, negli anni, per poter sfiorare dei risultati accettabili nella scrittura. Il tuo \"purtroppo\" non rientra fra i miei interessi, non riguarda né intacca il mio percorso di crescita."
+            ],
+            "timestamp": "2019-11-08T08:58:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798719"
         }
     ],
     "text": [
