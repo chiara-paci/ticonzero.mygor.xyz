@@ -1,0 +1,79 @@
+{
+    "author": {
+        "author_id": 27106,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ippolita2018",
+        "url": "https://www.writersdream.org/forum/profile/27106-ippolita2018/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il tuo brano mi è piaciuto. Ottima la scelta del titolo, dal significato ambivalente. Nonostante la rarefazione delle informazioni, inevitabile trattandosi di un frammento di un'opera più ampia, il lettore è fornito comunque di coordinate che gli permettono non solo la comprensione di ciò che sta accadendo, ma anche l'empatia con la protagonista. Non sappiamo che caratteristiche abbia la \"cosa\" che insegue i personaggi, né cosa rappresenti l'Ombra; si comprende però che, mentre la prima è entità negativa, la seconda non lo è affatto, perché \"sposta\" la ragazza verso la consapevolezza di sé. Ho immaginato che l' ombra rappresenti ai tuoi fini un'entità significativa perché, dopo averla citata en passant qui,",
+                    "la nomini nuovamente, personificata perché con l'iniziale maiuscola, poco oltre:",
+                    "In questo periodo farei attenzione a due aspetti: il meno importante riguarda la ripetizione ravvicinata spinta/spinse; il secondo, strutturale, è relativo al chiarimento logico dei soggetti: sembra (e concettualmente è ovvio che non può essere) che l'Ombra sia dapprima spinta, e poi spinga a sua volta.",
+                    "Qui forse sostituirei \"nessuno\" con \"niente\", visto che nomini una \"cosa\".",
+                    "Qui, dopo la frase \"E aveva capito che la realtà era ﻿﻿quella\", aggiungerei: \": non voleva tornare\", per creare un collegamento con la domanda che la ragazza si pone poco sopra e chiarire al lettore quale sia la realtà, che altrimenti rimane sospesa. Mi auguro, ovviamente, di non aver frainteso il senso.",
+                    "Qui mi domandavo se intendi \"sorretti\" nel senso di \"confortati/sostenuti\", oppure \"incastrati tra, mescolati a\".",
+                    "Qui eliminerei l'aggettivo di mezzo, già compreso nel primo.",
+                    "Qui non mi è chiaro il valore di \"confortante\": mi pare che dal bosco (anche se non è nominato) i protagonisti siano appena usciti terrorizzati. Forse l'aggettivo è riferito al nuovo senso che l'Ombra conferirà alla vita di Vanessa?",
+                    "Ti segnalo, come ultima piccola cosa, l'accento sbagliato sulle vocali o/i finali, a parte un paio casi (attenzione anche a è/é).",
+                    "Grazie per la piacevole lettura e un saluto, ."
+                ]
+            ],
+            "timestamp": "2019-11-08T18:00:52Z",
+            "title": "Il bivio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798784",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 413,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Sei démodé, mi fa",
+        "la parrucchiera, sembri",
+        "una vecchia: sciogli",
+        "quei capelli, guarda su facebook",
+        "quanto sono bella.",
+        "Rido e mi schermisco, facebook",
+        "non ce l'ho ― dico ― ma è vero",
+        "che sei bella, come una ragazza.",
+        "Lei, che vecchia è per davvero.",
+        "Intanto inzuppava il cornetto nel",
+        "caffè, e gridava alla sciampista",
+        "di usare l'altra crema, quella",
+        "all'avocado, più nutriente.",
+        "Perché démodé? Le chiedo. Sono",
+        "solo legati, i miei capelli."
+    ],
+    "timestamp": "2019-11-08T19:06:55Z",
+    "title": "Sei démodé, mi fa la parrucchiera",
+    "topic_id": 45142,
+    "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera/"
+}
