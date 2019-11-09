@@ -59,7 +59,7 @@
     },
     "num_chars": 7912,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 28,
     "post_after": [
         {
             "post_id": 796438,
@@ -133,6 +133,15 @@
             ],
             "timestamp": "2019-11-05T12:24:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798154"
+        },
+        {
+            "post_id": 798830,
+            "text": [
+                "Ciao grazie mille per il commento, sono contenta che il racconto ti sia piaciuto",
+                "Questo sceglilo tu"
+            ],
+            "timestamp": "2019-11-09T08:52:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798830"
         }
     ],
     "post_staff": [
@@ -238,6 +247,20 @@
             ],
             "timestamp": "2019-11-05T12:24:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798154"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 798830,
+            "text": [
+                "Ciao grazie mille per il commento, sono contenta che il racconto ti sia piaciuto",
+                "Questo sceglilo tu"
+            ],
+            "timestamp": "2019-11-09T08:52:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45033-h2019-laura//?do=findComment&comment=798830"
         }
     ],
     "text": [
