@@ -67,7 +67,7 @@
     },
     "num_chars": 7730,
     "num_commenti": 2,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 797263,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-11-01T21:59:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=797263"
+        },
+        {
+            "post_id": 798846,
+            "text": [
+                "Grazie a tutti per i commenti, ho percepito i difetti di questo racconto nel momento in cui l'ho pubblicato. Da lettore esterno sarei stato ancora più critico. È acerbo, i dialoghi non funzionano, mancano le motivazioni dei personaggi.. 8mila caratteri sono pochi certo, ma avrei potuto sfruttarli meglio. È un esperimento non riuscito che però mi ha dato diversi input per migliorare 😁"
+            ],
+            "timestamp": "2019-11-09T12:10:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=798846"
         }
     ],
     "post_staff": [
