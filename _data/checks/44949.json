@@ -105,7 +105,7 @@
     },
     "num_chars": 7935,
     "num_commenti": 1,
-    "num_posts": 68,
+    "num_posts": 69,
     "post_after": [
         {
             "post_id": 794946,
@@ -441,6 +441,15 @@
             ],
             "timestamp": "2019-11-05T19:21:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=798258"
+        },
+        {
+            "post_id": 798910,
+            "text": [
+                "Ti ringrazio del passaggio e dei tuoi consigli e considerazioni, tutto compreso",
+                "Buon contest a te,"
+            ],
+            "timestamp": "2019-11-09T17:27:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44949-h2019-flagello-e-repulsa//?do=findComment&comment=798910"
         }
     ],
     "post_staff": [

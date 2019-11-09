@@ -79,8 +79,18 @@
     },
     "num_chars": 1273,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 798902,
+            "text": [
+                "Ahahah, sì, posso capire. Dovrò imparare a contenermi prima o poi",
+                "Il mio altrettanto umile ringraziamento. Grazie per il passaggio. Ciao, Mirko."
+            ],
+            "timestamp": "2019-11-09T16:37:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45135-scene-di-un-crimine//?do=findComment&comment=798902"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Scene di un crimine",
