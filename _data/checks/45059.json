@@ -49,7 +49,7 @@
     },
     "num_chars": 672,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 797323,
@@ -58,6 +58,15 @@
             ],
             "timestamp": "2019-11-02T09:32:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=797323"
+        },
+        {
+            "post_id": 798572,
+            "text": [
+                "Oloferne, poverino, non può più, ma Giuditta è molto triste di non aver ricevuto da quasi una settimana, nonostante decine di visite, nemmeno un vero commento .",
+                "Eppure, si era preparata con tanto impegno!"
+            ],
+            "timestamp": "2019-11-07T12:09:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=798572"
         }
     ],
     "post_staff": [

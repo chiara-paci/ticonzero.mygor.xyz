@@ -67,7 +67,7 @@
     },
     "num_chars": 4428,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 797615,
@@ -123,6 +123,14 @@
             ],
             "timestamp": "2019-11-05T18:14:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798249"
+        },
+        {
+            "post_id": 798938,
+            "text": [
+                "Grazie mille per questo commento.:) E anche per le dritte successive. Ora non posso ma domani risponderò punto per punto.^^"
+            ],
+            "timestamp": "2019-11-09T22:04:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=798938"
         }
     ],
     "post_staff": [],

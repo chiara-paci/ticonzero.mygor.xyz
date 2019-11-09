@@ -13,11 +13,34 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.7694444444444444,
+        "valid": 0.8366666666666667,
         "weight": true
     },
     "closed": true,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.6733333333333333
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "inizio dicendo che è stato un piacere leggerti ☺️ .",
+                    "A mio parere andrebbe solo smussato per essere perfetto.",
+                    "Esempio:",
+                    "Nella parte iniziale il periodo storico si deduce solo dalla data. Con la mutilazione della donna in piazza ci sarei arrivata. Un quadro più chiaro lo da la descrizione della città in rovina.",
+                    "Se fossi in te aggiungerei anche solo piccoli particolari di vissuto che possano far riferimento all’epoca.",
+                    "Altro suggerimento:",
+                    "Ho trovato il finale troppo efferato. Al tuo posto accentuerei il dualismo della madre, prima che compia quell’atroce gesto. A dire la verità, mi aspettavo che la madre si uccidesse. Ma presumo che la storia sarebbe finita. Aspetto il seguito per giudicare.",
+                    "A presto. 👋"
+                ]
+            ],
+            "timestamp": "2019-11-08T14:42:09Z",
+            "title": "[MI129] Nuova Sion",
+            "url": "https://www.writersdream.org/forum/forums/topic/44742-mi129-nuova-sion//?do=findComment&comment=798765",
+            "weight": 1
+        },
         {
             "checks": {
                 "timestamp": false,
@@ -113,7 +136,7 @@
             "weight": 2
         }
     ],
-    "commenti_weight": 4,
+    "commenti_weight": 5,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -121,7 +144,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9873,
-    "num_commenti": 2,
+    "num_commenti": 3,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [
