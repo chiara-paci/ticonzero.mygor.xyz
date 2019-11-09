@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "In questa poesia scorgo una sorta di sottile, e ironica, denuncia di quanto il mondo stia andando a rotoli, con i social che ormai influenzano ogni gesto quotidiano. In effetti la parrucchiera non dice “guarda quanto sono bella” ma “guarda su FB quanto sono bella”. Perché ormai tutto è filtrato attraverso i social. Ci sono persone che stringono amicizia sui social, comunicano tramite post, poi se si incontrano per strada non si salutano nemmeno. Quindi ho apprezzato il taglio ironico e anche il linguaggio colloquiale, semplice e diretto, senza tanti fronzoli. Hai descritto in modo incisivo una scena di vita, un piccolo momento di quotidianità senza scadere troppo nel banale e regalandoci una lettura fresca e gradevole.",
+                    "La chiusa mi è piaciuta molto perché dice e non dice; porta alla riflessione, suggerisce una morale senza esplicitarla, mantenendo così una certa poeticità.",
+                    "L'atmosfera ricreata mi riporta alla mente i film di Almodovar.",
+                    "Mi sembra di vedere la protagonista che dice stupita e timorosa “ho solo i capelli sciolti”, quasi per scusarsi. Allo stesso modo sembra di vedere la parrucchiera, donna ormai avanti con l'età, che fa di tutto per cercare di non mostrare i suoi anni. La immagino conciata come una ventenne, a costo di risultare ridicola, mentre posta mille foto su FB a ogni cambio di look o di vestito.",
+                    "Vedo quindi contrapposto al modo di vivere della cliente, ancora autentico e genuino, quello poco sano e social-dipendente della parrucchiera. La scena è descritta in modo nitido e cristallino, sembra proprio di averla davanti agli occhi.",
+                    "Unico appunto: eliminerei la virgola dopo \"caffè\"."
+                ]
+            ],
+            "timestamp": "2019-11-09T15:00:44Z",
+            "title": "Sei démodé, mi fa la parrucchiera",
+            "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera//?do=findComment&comment=798884",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 231,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento a un altro testo",
+        "Sognavo",
+        "sbocciassi fra le mie dita",
+        "come primula in un vaso",
+        "da ritrovare ogni giorno",
+        "alla finestra",
+        "ma tu",
+        "su questo palmo hai posato",
+        "il seme per disegnare",
+        "nella condensa appena un fiore",
+        "da vedere svanito",
+        "di lì a breve."
+    ],
+    "timestamp": "2019-11-09T15:05:12Z",
+    "title": "Disegni nella condensa",
+    "topic_id": 45149,
+    "url": "https://www.writersdream.org/forum/forums/topic/45149-disegni-nella-condensa/"
+}
