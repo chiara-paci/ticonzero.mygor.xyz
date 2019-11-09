@@ -53,7 +53,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 796490,
@@ -215,6 +215,14 @@
             ],
             "timestamp": "2019-11-09T17:15:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=798908"
+        },
+        {
+            "post_id": 798931,
+            "text": [
+                "Caro . Carabottino. Eccolo qui. Sai quante volte ci rompiamo le dita dei piedi andando scalzi invece di usare le regolamentari scarpe da barca? Grazie al carabottino il sangue scola e non fa scivolare."
+            ],
+            "timestamp": "2019-11-09T19:47:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=798931"
         }
     ],
     "post_staff": [],
