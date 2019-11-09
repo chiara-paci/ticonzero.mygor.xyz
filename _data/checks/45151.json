@@ -16,7 +16,7 @@
         "valid": 0.7694444444444444,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -122,9 +122,24 @@
     },
     "num_chars": 9873,
     "num_commenti": 2,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 798926,
+            "text": [
+                "Ciao , purtroppo i commenti che hai inserito non sono validi per postare un racconto: non sono esaustivi e sono stati scritti ieri.",
+                "Per ora chiudo la discussione, in attesa che tu invii a me o a qualcun altro dello staff, tramite MP, i link a commenti validi."
+            ],
+            "timestamp": "2019-11-09T18:46:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45151-il-padrone-del-nulla-sogno//?do=findComment&comment=798926"
+        }
+    ],
     "text": [
         "Prima parte . Seconda parte .",
         "Di riflesso si trovò seduto con il peso del mouse in avanti per interrogare la schermata. Il cliccare non portò modifiche, vero o meno quel foglio digitale assomigliava a un documento in PDF. In cerca di spiegazioni, la bianca porta subì l’attacco dei suoi pensieri: – Forse è entrata Anna?– , ma il vortice di vestiti a terra lo smentì: – No, l’avrei sentita lagnarsi. É possibile? Quella palla si è fatto una semplice passeggiata sui tasti. Forse, dopo un tot di sbagli la password si sblocca. Avrebbe più senso, anche se è il contrario di solito.",
