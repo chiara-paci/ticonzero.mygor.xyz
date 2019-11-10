@@ -16,7 +16,7 @@
         "valid": 0.36777777777777776,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -47,9 +47,24 @@
     },
     "num_chars": 226,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 799026,
+            "text": [
+                "purtroppo il commento che hai allegato è troppo sintetico per postare un testo in officina. Devo chiudere.",
+                "Per riaprire questa discussione ti invito a farne uno più approfondito e a inviarne il link a un membro dello staff."
+            ],
+            "timestamp": "2019-11-10T18:20:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45159-pochezza//?do=findComment&comment=799026"
+        }
+    ],
     "text": [
         "Pochezza",
         "Premediti muto",
