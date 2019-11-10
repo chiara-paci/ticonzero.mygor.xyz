@@ -21,27 +21,6 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 0.5388888888888889
-            },
-            "text": [
-                [
-                    "Ciao .",
-                    "Il racconto mi ha coinvolto a partire dallo stile, consono per il periodo a cui fai riferimento.",
-                    "Sin da questo particolare senza che tu aggiungessi una data o quant’altro si evince il carattere storico della storia.",
-                    "Trovo perfetta l’allegoria, visto che l’amore clandestino della storia è un clochard.",
-                    "Non so come ti sia saltata fuori l’idea di attribuire a Napoleone dei sentimenti omosessuali, ma devo ammettere che l’ho trovata originale. Davvero intrigante. Peccato che rinunci all’amore per la gloria.",
-                    "Chissà quale sarebbe stata la sua scelta al giorno d’oggi? Curiosa.",
-                    "A presto."
-                ]
-            ],
-            "timestamp": "2019-11-08T15:17:29Z",
-            "title": "Due monete",
-            "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=798767",
-            "weight": 2
-        },
-        {
-            "checks": {
-                "timestamp": false,
                 "valid": 0.6733333333333333
             },
             "text": [
@@ -61,6 +40,27 @@
             "title": "[MI129] Nuova Sion",
             "url": "https://www.writersdream.org/forum/forums/topic/44742-mi129-nuova-sion//?do=findComment&comment=798765",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.5388888888888889
+            },
+            "text": [
+                [
+                    "Ciao .",
+                    "Il racconto mi ha coinvolto a partire dallo stile, consono per il periodo a cui fai riferimento.",
+                    "Sin da questo particolare senza che tu aggiungessi una data o quant’altro si evince il carattere storico della storia.",
+                    "Trovo perfetta l’allegoria, visto che l’amore clandestino della storia è un clochard.",
+                    "Non so come ti sia saltata fuori l’idea di attribuire a Napoleone dei sentimenti omosessuali, ma devo ammettere che l’ho trovata originale. Davvero intrigante. Peccato che rinunci all’amore per la gloria.",
+                    "Chissà quale sarebbe stata la sua scelta al giorno d’oggi? Curiosa.",
+                    "A presto."
+                ]
+            ],
+            "timestamp": "2019-11-08T15:17:29Z",
+            "title": "Due monete",
+            "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=798767",
+            "weight": 2
         },
         {
             "checks": {
