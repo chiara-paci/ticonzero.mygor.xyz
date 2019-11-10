@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 34015,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Totem",
+        "url": "https://www.writersdream.org/forum/profile/34015-totem/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.36777777777777776,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.36777777777777776
+            },
+            "text": [
+                [
+                    "Ciao Il tipo di scrittura che preferisco. Complimenti! Pochi versi in grado di rendere perfettamente il significato. Ritmo scandito dalla breve ed uguale lunghezza dei versi.. Ti suggerisco solo due piccole modifiche di gusto personale.",
+                    "5° verso: saranno spazi aperti.....",
+                    "L'altra è a mio avviso quella di eliminare i due punti e la parola finale \"emozioni\" ed allungare di un verso la precedente strofa",
+                    "Tutto ciò sempre imho",
+                    "Un saluto"
+                ]
+            ],
+            "timestamp": "2019-11-10T17:12:11Z",
+            "title": "Emozioni",
+            "url": "https://www.writersdream.org/forum/forums/topic/45156-emozioni//?do=findComment&comment=799015",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 226,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Pochezza",
+        "Premediti muto",
+        "le tue beffe",
+        "Egocentrico spregio",
+        "di piccolo uomo",
+        "Malgarbo ilare",
+        "che ambisce elogio",
+        "Triste sunto",
+        "di umane fiacchezze",
+        "Olio su ghiaccio",
+        "le tue pochezze",
+        "Scorrono in basso",
+        "sui miei piedi fermi",
+        "e sulle tue deformi pendici"
+    ],
+    "timestamp": "2019-11-10T17:38:15Z",
+    "title": "Pochezza",
+    "topic_id": 45159,
+    "url": "https://www.writersdream.org/forum/forums/topic/45159-pochezza/"
+}
