@@ -1,0 +1,48 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 161,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Emozioni",
+        "Se non diventano nuvole",
+        "scomposte e incostanti",
+        "sferzate a pioggia",
+        "da un vento contrario",
+        "son spazi aperti",
+        "di un cielo privato",
+        "su cui levare lo sguardo:",
+        "emozioni."
+    ],
+    "timestamp": "2019-11-10T13:33:30Z",
+    "title": "Emozioni",
+    "topic_id": 45156,
+    "url": "https://www.writersdream.org/forum/forums/topic/45156-emozioni/"
+}
