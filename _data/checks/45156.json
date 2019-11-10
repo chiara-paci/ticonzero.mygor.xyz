@@ -27,7 +27,7 @@
     },
     "num_chars": 161,
     "num_commenti": 0,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 799038,
@@ -42,7 +42,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45156-emozioni//?do=findComment&comment=799038"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 799073,
+            "text": [
+                "Si possono fare commenti di qualsiasi lunghezza, però quando sono utilizzati per postare un proprio testo viene richiesto un impegno maggiore. Questo garantisce una quantità di commenti accurati non inferiore ai testi presenti in officina, che altrimenti si ridurrebbe a una vetrina dove esporre i propri lavori.",
+                "Inoltre la lunghezza di un testo non giustifica la lunghezza di un commento, esistono volumi dedicati a una singola poesia. Oltre che per la scrittura l'officina serve a esercitarsi anche nell'analisi di un testo."
+            ],
+            "timestamp": "2019-11-10T21:01:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45156-emozioni//?do=findComment&comment=799073"
+        }
+    ],
     "text": [
         "Emozioni",
         "Se non diventano nuvole",
