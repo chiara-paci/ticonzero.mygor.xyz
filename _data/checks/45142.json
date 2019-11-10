@@ -52,8 +52,23 @@
     },
     "num_chars": 413,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 799052,
+            "text": [
+                "Questo è un eccellente aforisma, .",
+                "Grazie mille per aver letto e lasciato le tue impressioni.",
+                "Che onore!",
+                "Se la parrucchiera è apparsa solo ridicola, non sono riuscita a rappresentare la scena.",
+                "In lei vi era consapevolezza piena e vitale del fatto che fb dà la possibilità, giocando, di ritoccarsi e apparire lisci e luminosi come da giovani. Infatti, come tu e con acutezza avete notato, la donna non dice \"guarda quanto sono bella\", ma guarda su facebook quanto sono bella\". Lei sa di non essere più giovane, ma si diverte ad apparire tale. Nel frattempo lavora, mangia nei ritagli di tempo, organizza i collaboratori. Speravo che un po' ridicolo apparisse anche l'io lirico, démodé nel non accettare fb e non solo nei capelli.",
+                "Ottimo consiglio: sono d'accordo!",
+                "Grazie mille per il tuo tempo e le belle considerazioni, ."
+            ],
+            "timestamp": "2019-11-10T20:20:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera//?do=findComment&comment=799052"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sei démodé, mi fa",

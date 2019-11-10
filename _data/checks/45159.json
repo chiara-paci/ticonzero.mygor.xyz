@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.36777777777777776,
+        "valid": 0.376043956043956,
         "weight": true
     },
     "closed": true,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.36777777777777776
+                "valid": 0.376043956043956
             },
             "text": [
                 [
@@ -29,6 +29,11 @@
                     "5° verso: saranno spazi aperti.....",
                     "L'altra è a mio avviso quella di eliminare i due punti e la parola finale \"emozioni\" ed allungare di un verso la precedente strofa",
                     "Tutto ciò sempre imho",
+                    "Un saluto"
+                ],
+                [
+                    "Poesia breve, commento breve, anche se alla moderazione non è andato a genio",
+                    "imho = In My Honest Opinion",
                     "Un saluto"
                 ]
             ],
