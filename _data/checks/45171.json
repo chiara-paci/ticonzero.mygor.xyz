@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Molto bella questa immagine, calda e tenera.",
+                    "La realtà annovera parti-",
+                    "colari",
+                    "Arguto questo andare a capo, rimandando a una doppia immagine (le parti e i particolari). Lo trovo perfetto.",
+                    "Molto bella questa poesia. Sembra intrecciata con un filo di lana caldo e morbido, proprio come la coperta appena cambiata. Il tono è dolce, malinconico; quasi sognante. Trasmette perfettamente il coinvolgimento emotivo del protagonista nei confronti della sua amata, una donna coniugata come del resto lo è lui stesso. Bella la descrizione fisica della donna, fatta con un tocco sensuale ma allo stesso tempo dolcissimo. Hai saputo sempre restare sul filo tra sensualità e morbidezza innocente, senza sconfinare nell'uno o nell'altro. Le immagini ricreate sonno suggestive; le contorna la tinta pastello del desiderio, dell'amore.",
+                    "La chiusa è davvero struggente: quasi una preghiera, una supplica. Un'esortazione fatta quasi con un filo di voce che si spezza nella gola del protagonista: potremmo provare per un attimo a mettere avanti noi, invece che tutti gli altri e tutto il resto, e viverci appieno questo momento. Questo credo sia il senso di questa chiusa molto bella.",
+                    "Lo stile che hai utilizzato è immediato, estremamente comunicativo, ma allo stesso tempo curato; impreziosito da immagini efficaci e soffici.",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2019-11-11T16:50:48Z",
+            "title": "Cambio di stagione",
+            "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione//?do=findComment&comment=799203",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 667,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "Voglio lavarmi sotto la doccia.",
+        "Forte. Grattare la pelle",
+        "con le unghie. Sempre più forte.",
+        "Come nei film",
+        "quando qualcuno scopa",
+        "con qualcun altro,",
+        "per soldi, noia, o perché brillo,",
+        "poi se ne pente e cerca",
+        "di lavare via il ricordo",
+        "di quanto ha appena fatto.",
+        "Sì. Ho deciso. Oggi",
+        "sotto la doccia mi raschierò",
+        "fortissimo la pelle",
+        "come a ripulire il mio corpo",
+        "da un atto impuro.",
+        "Mi aiuterà a immaginare",
+        "di aver passato con te",
+        "un'oretta a far cigolare",
+        "le molle del materasso.",
+        "E finalmente avrò congiunto",
+        "la mia carne alla tua",
+        "almeno col pensiero.",
+        "Soltanto il mancato pentimento -",
+        "invece tipico dei personaggi",
+        "sul grande schermo -",
+        "mi impedirà di calarmi",
+        "completamente nel ruolo."
+    ],
+    "timestamp": "2019-11-11T16:55:03Z",
+    "title": "Metodo Stanislavskij",
+    "topic_id": 45171,
+    "url": "https://www.writersdream.org/forum/forums/topic/45171-metodo-stanislavskij/"
+}
