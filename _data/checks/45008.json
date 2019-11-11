@@ -79,7 +79,7 @@
     },
     "num_chars": 7320,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 796317,
@@ -114,6 +114,17 @@
             ],
             "timestamp": "2019-11-04T06:42:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=797730"
+        },
+        {
+            "post_id": 799103,
+            "text": [
+                "Buongiorno cara , siamo arrivate all'ultimo capitolo, grazie davvero per avermi accompagnata fino in fondo!",
+                "che comincia a fare il gesto, ma poi qualcosa la interrompe e il gesto rimane a metà, non si conclude",
+                "vuol dire che ogni persona è responsabile solo di se stessa e delle proprie azioni e che non si può decidere per la vita di nessun altro, nemmeno quando è a fin di bene, in fin dei conti ognuno di noi è l'unico responsabile di se stesso.",
+                "Grazie davvero cara Flo, i tuoi commenti sono molto importanti per me"
+            ],
+            "timestamp": "2019-11-11T06:52:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=799103"
         }
     ],
     "post_staff": [
@@ -160,6 +171,22 @@
             ],
             "timestamp": "2019-11-04T06:42:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=797730"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 799103,
+            "text": [
+                "Buongiorno cara , siamo arrivate all'ultimo capitolo, grazie davvero per avermi accompagnata fino in fondo!",
+                "che comincia a fare il gesto, ma poi qualcosa la interrompe e il gesto rimane a metà, non si conclude",
+                "vuol dire che ogni persona è responsabile solo di se stessa e delle proprie azioni e che non si può decidere per la vita di nessun altro, nemmeno quando è a fin di bene, in fin dei conti ognuno di noi è l'unico responsabile di se stesso.",
+                "Grazie davvero cara Flo, i tuoi commenti sono molto importanti per me"
+            ],
+            "timestamp": "2019-11-11T06:52:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45008-le-ragazze-capitolo-21-22//?do=findComment&comment=799103"
         }
     ],
     "text": [

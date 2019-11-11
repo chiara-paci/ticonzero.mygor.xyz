@@ -13,11 +13,32 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.8366666666666667,
+        "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.5388888888888889
+            },
+            "text": [
+                [
+                    "Ciao .",
+                    "Il racconto mi ha coinvolto a partire dallo stile, consono per il periodo a cui fai riferimento.",
+                    "Sin da questo particolare senza che tu aggiungessi una data o quant’altro si evince il carattere storico della storia.",
+                    "Trovo perfetta l’allegoria, visto che l’amore clandestino della storia è un clochard.",
+                    "Non so come ti sia saltata fuori l’idea di attribuire a Napoleone dei sentimenti omosessuali, ma devo ammettere che l’ho trovata originale. Davvero intrigante. Peccato che rinunci all’amore per la gloria.",
+                    "Chissà quale sarebbe stata la sua scelta al giorno d’oggi? Curiosa.",
+                    "A presto."
+                ]
+            ],
+            "timestamp": "2019-11-08T15:17:29Z",
+            "title": "Due monete",
+            "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=798767",
+            "weight": 2
+        },
         {
             "checks": {
                 "timestamp": false,
@@ -40,27 +61,6 @@
             "title": "[MI129] Nuova Sion",
             "url": "https://www.writersdream.org/forum/forums/topic/44742-mi129-nuova-sion//?do=findComment&comment=798765",
             "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": false,
-                "valid": 0.5388888888888889
-            },
-            "text": [
-                [
-                    "Ciao .",
-                    "Il racconto mi ha coinvolto a partire dallo stile, consono per il periodo a cui fai riferimento.",
-                    "Sin da questo particolare senza che tu aggiungessi una data o quant’altro si evince il carattere storico della storia.",
-                    "Trovo perfetta l’allegoria, visto che l’amore clandestino della storia è un clochard.",
-                    "Non so come ti sia saltata fuori l’idea di attribuire a Napoleone dei sentimenti omosessuali, ma devo ammettere che l’ho trovata originale. Davvero intrigante. Peccato che rinunci all’amore per la gloria.",
-                    "Chissà quale sarebbe stata la sua scelta al giorno d’oggi? Curiosa.",
-                    "A presto."
-                ]
-            ],
-            "timestamp": "2019-11-08T15:17:29Z",
-            "title": "Due monete",
-            "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=798767",
-            "weight": 2
         },
         {
             "checks": {
@@ -134,9 +134,48 @@
             "title": "Il padrone del nulla. L’indizio",
             "url": "https://www.writersdream.org/forum/forums/topic/44919-il-padrone-del-nulla-l%E2%80%99indizio//?do=findComment&comment=794092",
             "weight": 2
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "Premetto che dal titolo mi aspettavo altro.",
+                    "Comunque passo alla scansione.",
+                    "Una buona premessa, mi è piaciuta.",
+                    "Al posto metterei : Lo guardai con tale intensità che ricambiò mettendomi in imbarazzo.",
+                    "Io la cambierei di sana pianta: Conosco persone trasferitesi a Milano, che in un momento di intima confessione hanno ammesso di avere attimi di profonda depressione, tanto intensi da pensare al suicidio.",
+                    "Eviterei i che, in questo caso proverei riflesso.",
+                    "Li toglierei del tutto.",
+                    "La ‘e’ la toglierei. Seconda correzione: periodo in cui . Terza correzione: come fosse adesso, meglio dell’avverbio.",
+                    "Lo toglierei.",
+                    "Lo toglierei.",
+                    "La ‘e’ la toglierei. Quel termine non è consono al linguaggio che usi, meglio ‘conquistare’. Al posto della e metterei ‘per’. Secondo periodo da ricostruire. Grazie alle mie abilità oratorie riuscii a ottenere( ricorda va messo ad solo se è seguito dalla vocale a, stessa storia per la e) la posizione da leader, come un subdolo politico intessevo la mia ragnatela di consensi.",
+                    "Da ricostruire: Nell’epoca di cui sto per raccontarvi, quel potere era leggero e fragile proprio come una ragnatela che non poggiava su nessun simbolo di vittoria.",
+                    "Al trono degli scogli o impero degli scogli.",
+                    "Non so se era intenzionale, ma con questa frase ti sei bruciato il finale. Dovresti raccontarlo passo passo. Daresti un po’ di suspense.",
+                    "Da togliere.",
+                    "Col termine ‘dopo pranzo’ dai l’idea di un tempo abbastanza ristretto. Meglio le ore dopo scuola.",
+                    "Meglio : decisi di non segnare più nessun compito sul diario, dedicandomi così alla cattura di Fornice.",
+                    "Molto meglio nemico.",
+                    "Periodo da ripulire: L’ obbiettivo da raggiungere era misero. Al massimo usciva una spaghettata al sugo di granchio per l’equipaggio, altra opzione era vendere il granchio al miglio offerente.",
+                    "Da ricostruire : Questa caccia divenne presto un’ ossessione, in cui entrambi scivolammo come su di una foglia.",
+                    "Da pulire : più quella cicatrice bianca sfuggiva ai nostri occhi, più io e il nemico cadevamo nell’ossessione.",
+                    "Stai ripetendo sempre lo stesso concetto. Comunque toglierei la frase al posto di ‘ visto che quasi tutto il gruppo’ ecc.",
+                    "Nel complesso te la sei cavata, come ti dicevo sei partito bene. Al tuo posto rivedrei la strutta del ricordo da bambino. Alleggerito di aggettivi e avverbi sarebbe una lettura molto gradevole. Spero di leggere nel secondo qualcosa in più riguardo il marinaio.",
+                    "A presto."
+                ]
+            ],
+            "timestamp": "2019-11-09T22:24:59Z",
+            "title": "Il cappello del signor Meliner (1. Sapore di chele, prima parte)",
+            "url": "https://www.writersdream.org/forum/forums/topic/44649-il-cappello-del-signor-meliner-1-sapore-di-chele-prima-parte//?do=findComment&comment=798940",
+            "weight": 1
         }
     ],
-    "commenti_weight": 5,
+    "commenti_weight": 6,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -144,8 +183,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9873,
-    "num_commenti": 3,
-    "num_posts": 2,
+    "num_commenti": 4,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -161,6 +200,19 @@
             ],
             "timestamp": "2019-11-09T18:46:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45151-il-padrone-del-nulla-sogno//?do=findComment&comment=798926"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 798982,
+            "text": [
+                "Regolarizzato:"
+            ],
+            "timestamp": "2019-11-10T12:39:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45151-il-padrone-del-nulla-sogno//?do=findComment&comment=798982"
         }
     ],
     "text": [
