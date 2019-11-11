@@ -1,0 +1,95 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao. Sono contento di poter condividere qualcosa con una voce nuova (intendo nuova per me)",
+                    "Per tutte le ragioni che ho elencato nella risposta al tuo commento, mi piace molto. Linguaggio morbido e fluido. Contenuti importanti, anche pesanti (nel senso di gravità).",
+                    "Qui a me, in veste di lettore, mi sembra (nel senso che è solo la mia impressione) superflua la precisazione dello'atto di sporgersi oltre il cornicione. Non mi dà fastidio, assolutamente, però riporta quella sensazione di universalità suscitata dagli altri versi ( in cui un lettore può identificarsi in molti modi e contesti diversi) in un ambito più specifico, più piccolo (nel senso buono del termine). E comunque indebolisce un po' l'immediatezza degli altri quattro versi che è notevole.",
+                    "Bello questo concetto di interdipendenza, che condivido. Soprattutto considerando che la persona in questione è probabilmente venuta a mancare, in un modo o nell'altro.",
+                    "Anche qui, preferirei fermarmi a nello stesso punto ed essere libero di interpretare e rapportare la tua esperienza alla mia.",
+                    "Toglierei le specifiche ( cinque piani , sull'asfalto dice già tutto). E' molto pesante (nel senso di gravità, come dicevo, di tensione) questo indulgere sull'idea del suicidio. Lo preferirei più velato. Però mi piace l'associazione alla freddezza, che leggo come un sinonimo: freddezza\\suicidio ovvero mancanza di emozione\\morte, non necessariamente fisica.",
+                    "Poesia molto sentita. Piaciuta. Il dolore fa esperienza ed è utile condividerla come bene espresso in questi versi che io leggo come il cuore di questa poesia:",
+                    "E immancabilmente penso",
+                    "che anche la sua vita -",
+                    "non soltanto la mia -",
+                    "andrebbe in frantumi",
+                    "se mi protendessi di un altro passo in avanti.",
+                    "Tu hai citato la vita di tua madre, ma io credo che la sua possa diventare sinonimo di tutte le altre.",
+                    "Grazie della bella poesia. Ps. Bel nick, anche se non mi sembri per nulla assente. Ciao."
+                ]
+            ],
+            "timestamp": "2019-11-11T06:33:39Z",
+            "title": "Nuvole",
+            "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=799101",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1249,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Cambio di stagione",
+        "Ho avuto freddo, la notte scorsa.",
+        "Ho messo via la fedele copertina di lana",
+        "e rinnovato il piumone, più idoneo a questi giorni.",
+        "Ho pensato a te, che magari facevi lo stesso,",
+        "e subito dopo ai tuoi piedi caldi, in fondo al letto,",
+        "che sanno confortarsi a vicenda.",
+        "Al pigiama scherzoso, allampanato",
+        "che sdrammatizza la voluttà del tuo corpo.",
+        "Ho pensato alle mani pazienti, sotto il cuscino.",
+        "Agli occhi ancora aperti, che confidano nel buio.",
+        "A tuo marito steso al tuo fianco non ho voluto pensare,",
+        "scusa, credo tu possa capire. La realtà annovera parti-",
+        "colari così noiosi, spesso. Noiosi per me, lo so. È una",
+        "brava persona, però io mi stanco di pensare a tutti quanti.",
+        "A me, a te, a lui, a lei, ai nostri figli, ai nostri genitori. Per-",
+        "sino il mio stupido cane ha pressanti, improrogabili esi-",
+        "genze e cazzo, anch’io ho le mie. A volte. Sono umano.",
+        "Ho pensato ai seni liberi sotto il pigiama, alle gambe,",
+        "all’addome, alla schiena, a quel collo meraviglioso.",
+        "Al tuo sesso, certo. A tutto quel calore sotto le coperte.",
+        "E poi il risveglio. La pioggia lucida di un temporale,",
+        "il primo sole, la prima colazione.",
+        "La meravigliosa discrezione dell’autunno.",
+        "Tutte cose che potremmo anche condividere,",
+        "prima di andare avanti con le nostre vite.",
+        "E con quelle degli altri."
+    ],
+    "timestamp": "2019-11-11T06:45:01Z",
+    "title": "Cambio di stagione",
+    "topic_id": 45163,
+    "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione/"
+}
