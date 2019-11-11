@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 796956,
@@ -166,6 +166,27 @@
             ],
             "timestamp": "2019-11-07T17:39:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=798657"
+        },
+        {
+            "post_id": 799224,
+            "text": [
+                "Ciao !",
+                "Si, l'aggettivo mi aiuta a visualizzare la scena fin nei minimi dettagli, per cui come posso ne faccio uso!",
+                "Molto contento che ti sia piaciuto!"
+            ],
+            "timestamp": "2019-11-11T18:07:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799224"
+        },
+        {
+            "post_id": 799226,
+            "text": [
+                "Ciao !",
+                "Innanzitutto ti ringrazio per la cura che hai messo nelle correzioni (e per avermi ricordato che prima o poi devo iniziare Dottor Who, cosa che ho in lista da tempo ).",
+                "Mi trovi d'accordo su tutto, tranne che per il finale. Sarà che in mente avevo una trama molto più articolata che ovviamente ho dovuto ridurre per motivi di \"spazio\", con i due ragazzi che finivano per apparire sfigurati nella nuova iterazione del video, ma credo che un codino del genere sottolinei maggiormente il discorso del contagio. Senza contare che è molto in linea con gli standard del genere, e su un contest a tema Halloween ci tenevo particolarmente a seguire un certo tipo di binari.",
+                "In ogni caso, grazie per averlo apprezzato!"
+            ],
+            "timestamp": "2019-11-11T18:18:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799226"
         }
     ],
     "post_staff": [],

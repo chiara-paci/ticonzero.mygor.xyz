@@ -59,7 +59,7 @@
     },
     "num_chars": 7521,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 796914,
@@ -132,6 +132,25 @@
             ],
             "timestamp": "2019-11-02T11:05:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli//?do=findComment&comment=797353"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799218,
+            "text": [
+                "Ciao Marè.",
+                "La prosa va, e anche alla grande. Si nota una marcata capacità di inondare il lettore di tensione e repulsione con i giusti espedienti, che immagino siano anche il frutto di un cospicuo bagaglio di letture. Manca, a mio avviso, un po' di senso nel racconto; ok, mi dirai, un incubo nella realtà spesso non ha senso, ma la narrativa fallisce laddove cerca di riprodurre l'insensatezza e la casualità del nostro mondo infame. La giustificazione del sonnambulismo è un buon aggancio, ma trovo che rimanga sospesa senza far fruttare il suo potenziale all'interno del racconto.",
+                "In un'ottica più generale di processo di scrittura, vorrei porti l'attenzione su questi espedienti (ne ho pescato qualcuno):",
+                "Non c'è nulla di male in sé, ma bisogna stare attenti a come e quando si usano. L'imperativo (a cui peraltro ti attieni nella maggior parte dei casi) per me è quello di non dire al lettore cosa deve pensare: se è inquietante, questo lo deciderà lui; se è ridicolo, questo lo deciderà lui, e così via.",
+                "C'è naturalmente il caso in cui queste considerazioni sono frutto del filtro per PoV, e in tale ottica è perfetto inserirne; l'unica criticità, per me che leggo, sta nel riuscirlo ad afferrare subito, e non è un effetto banale da suscitare.",
+                "Ma queste cose le sai molto meglio di me, visto che mi hai aiutato tu in passato a notarle nelle mie sequenze di caratteri.",
+                "Siamo qui per su(o)pportarci a vicenda."
+            ],
+            "timestamp": "2019-11-11T17:43:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45052-h2019-risvegli//?do=findComment&comment=799218"
         }
     ],
     "text": [

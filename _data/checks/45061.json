@@ -56,7 +56,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 798075,
@@ -83,6 +83,17 @@
             ],
             "timestamp": "2019-11-08T08:58:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798719"
+        },
+        {
+            "post_id": 799192,
+            "text": [
+                "ti ringrazio",
+                "è davvero gratificante quello che mi dici.",
+                "Mi fa riflettere molto la segnalazione su quel passaggio, perché se è vero che nei miei intenti c'era solo il tentativo di caratterizzazione di un villain (quindi nessun intento moralizzatore), dall'altra porta a chiedersi quanto e come sia possibile farlo perché il lettore non la veda come un'ingerenza, quanto piuttosto - appunto - come l'opinione di un personaggio. L'equilibrio è una ricerca che richiede davvero molta strada.",
+                "Grazie di cuore."
+            ],
+            "timestamp": "2019-11-11T14:54:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799192"
         }
     ],
     "post_staff": [
@@ -142,6 +153,22 @@
             ],
             "timestamp": "2019-11-08T08:58:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=798719"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799192,
+            "text": [
+                "ti ringrazio",
+                "è davvero gratificante quello che mi dici.",
+                "Mi fa riflettere molto la segnalazione su quel passaggio, perché se è vero che nei miei intenti c'era solo il tentativo di caratterizzazione di un villain (quindi nessun intento moralizzatore), dall'altra porta a chiedersi quanto e come sia possibile farlo perché il lettore non la veda come un'ingerenza, quanto piuttosto - appunto - come l'opinione di un personaggio. L'equilibrio è una ricerca che richiede davvero molta strada.",
+                "Grazie di cuore."
+            ],
+            "timestamp": "2019-11-11T14:54:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799192"
         }
     ],
     "text": [
