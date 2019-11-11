@@ -27,7 +27,7 @@
     },
     "num_chars": 857,
     "num_commenti": 0,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 795501,
@@ -72,6 +72,15 @@
             ],
             "timestamp": "2019-11-03T10:09:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin//?do=findComment&comment=797529"
+        },
+        {
+            "post_id": 799190,
+            "text": [
+                "Ahahah, mannaggia, nessuno ti ha avvisato che erano facoltativi?",
+                "Grazie del passaggio e dell'apprezzamento."
+            ],
+            "timestamp": "2019-11-11T14:52:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin//?do=findComment&comment=799190"
         }
     ],
     "post_staff": [],
