@@ -119,7 +119,7 @@
     },
     "num_chars": 10361,
     "num_commenti": 2,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 798588,
@@ -224,6 +224,20 @@
             ],
             "timestamp": "2019-11-10T20:14:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=799047"
+        },
+        {
+            "post_id": 799191,
+            "text": [
+                "Carissima grazie infinite!",
+                "Che dire... Mi hai sommerso di complimenti.",
+                "Arrossisco.",
+                "Strafelice che questa storia ti sia piaciuta... era... sperimentale!",
+                "Grazie anche per le varie annotazioni di cui terrò conto.",
+                "E grazie per la segnalazione... sono onorato!",
+                "A presto!"
+            ],
+            "timestamp": "2019-11-11T14:53:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45134-due-monete//?do=findComment&comment=799191"
         }
     ],
     "post_staff": [],

@@ -12,13 +12,41 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ! È da un po' che non ti leggo, però mi ha incuriosito il titolo ed eccomi qui.",
+                    "L'incipit dovrebbe essere d'impatto, per poter catturare l'attenzione del lettore. La frase, così come l'hai presentata, è un pochino contorta (e per i miei gusti un po' troppo macchinosa). Che ne diresti di una piccola modifica, giusto per renderla più scorrevole: Adines, per il mondo Ines, procedeva come tutti i giorni verso casa con la sua nuova Jeep, il regalo del fratello Aristide. L'argine del Po, francamente, stona, anche perché non credo che volevi dire che la sua casa è l'argine del Po e non sono nemmeno riuscita a immaginare dove si trova questa casa. Lo eliminerei.",
+                    "Ha uno stile davvero curioso, però farei un po' più caso alla sintassi. Non dico che non devi usare frasi secche, spesso lo faccio anch'io, ma ci vuole un equilibrio. Anche qui ti suggerirei qualche piccola modifica, poi vedi tu se può esserti utile per un'eventuale revisione. Dopo qualche anno di assenza era tornata in città e, nonostante l'età vintage (curiosa espressione ), con l'aiuto dell'amico Athos aveva acquistato un negozio in centro. Sotto i portici, tra il panettiere Agide e il tabaccaio Tito. Finalmente il sogno si era avverato. Vendere articoli per party. A Ines era sempre piaciuto portare allegria e attimi di serenità. Da giovane la invitavano spesso alle feste, proprio per la sua vitalità e spensieratezza.",
+                    "Poi all'improvviso, dal passato passi al presente, spiazzando il lettore. Ho letto la tua risposta a chi mi precede, ma francamente non capisco il motivo di tale scelta. Secondo me dovresti decidere il tempo in cui si svolge la narrazione per evitare la confusione, che inevitabilmente si crea.",
+                    "Perché non mettere il semplice cappellino da baseball? Al posto del ; metterei ,",
+                    "Eviterei di iniziare una frase con comunque, non è un discorso colloquiale. Non mi convince la scelta del termine personaggio, sembra una sorta di giudizio del narratore. Potresti sostituirlo con ragazzo, oppure con l'autostopista. Usi spesso le virgole a sproposito senza un reale bisogno. Ti ho sottolineato frasi che potresti modificare leggermente, tipo: Pensa che forse non è più tempo di dare passaggi agli sconosciuti e che questa volta sarebbe l'ultima. Poi, prepotente, riaffiora un ricordo di quel giorno quando la sua morosa di allora, Zoraide, dopo essere salita in auto, una Diane rossa, aveva estratto un coltello e l'aveva colpita più volte. Ma Ines, grazie al suo fisico atletico e robusto - in quel periodo giocava nella squadra femminile di rugby - aveva reagito, scagliandosi addosso alla giovane, fino quasi ad ucciderla. Solo Zia Nelly conosceva il loro rapporto. Infatti, proprio per evitare pettegolezzi, aveva donato loro la villetta dopo l'argine.",
+                    "Lei voleva parlare con qualcuno, ma con Ada poteva risultare complicato, quindi aveva lasciato cadere ecc. L'ora di pranzo si avvicinava. Ines aveva deciso di mangiare in trattoria dalla zia.",
+                    "Alda si sente a disagio, quindi si alza e cammina verso l'uscita, ma Ines con un gesto repentino la prende per la camicia fino a sbottonargliela. Nel girarsi, Ada mostra alle due donne un lembo dell'adome con una grossa cicatrice.",
+                    "Poi aggiunge i piatti, le posate e due scodelle, quelle per la colazione. Per finire due tovaglioli. La vecchia vite faceva ombra in una afosa giornata di giugno.",
+                    "\"Ada, ecco i nostri cappelletti.\"",
+                    "L'ospite aveva già il viso più rilassato. Poi, vedendo quella zuppiera, si appoggia alla spalliera della sedia, allarga le braccia e sorride. Aspetta che Nelly ne versi una generosa dose nella tazza, poi afferra la bottiglia di vino e lo versa sopra i cappelletti. Attende qualche secondo per far amalgamare il liquido, poi sorbe, rumorosamente, il brodo e, infine (la d eufonica vuole le stesse vocali), mangia con voracità il resto.",
+                    "Cioè Alda, in realtà, è Zoraide? Bel colpo di scena.",
+                    "La storia non è male, però l'ho trovata molto impersonale e fredda. Un po' per la scelta di procedere per le scenette, brevi e in cui tutto succede abbastanza in fretta; un po' per la confusione che deriva dai continui salti dal passato al presente che non giovano alla narrazione, anzi la complicano ulteriormente senza una reale necessità. Le idee ci sono, manca però uno stile solido, che si raggiunge sicuramente dopo tanta pratica. Dovresti fare più attenzione alla punteggiatura: le virgole hanno un loro perché, non vanno messe ovunque senza criterio. Prova a rileggerti a voce alta, per evidenziare le pause: aiuta. I personaggi, anche essi risultano freddi e solo abbozzati. Mi ha colpita la totale assenza del pathos, dell'emotività. Hai per personaggi due donne che si sono amate in passato, ma io da lettrice non lo avverto ed è un vero peccato. Anche il colpo di scena, per non parlare del finale, giungono all'improvviso. Il finale mi sembra davvero esagerato, non si capisce il motivo dell'incidente. Scusa se ti sono risultata troppo dura, ma prendi le mie osservazioni come uno stimolo per migliorare perché l'immaginazione c'è, si tratta solo di lavorare un po' sulla tecnica. Spero di esserti stata utile nel percorso. A rileggerci."
+                ]
+            ],
+            "timestamp": "2019-11-11T22:30:33Z",
+            "title": "L'ultimo passaggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45118-lultimo-passaggio//?do=findComment&comment=799283",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 79,
@@ -26,7 +54,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
     },
     "num_chars": 8196,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

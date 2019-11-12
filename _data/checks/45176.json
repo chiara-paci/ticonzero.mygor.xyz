@@ -12,13 +12,41 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao :)",
+                    "Flussi di pensieri tra due tipi in ascensore. Ci hai mostrato i loro stati d'animo e i loro pensieri anche i più estremi, va bene, mi piace la veridicità. La trama mi è piaciuta molto.",
+                    "Nello specifico entro nella prosa, scusa, non volermene, tieni conto del fatto che non sono un'esperta. Prendi quello che ti faccio notare con tutte le cautele del caso.",
+                    "Primo fra tutti, gli stacchi tra una frase all'altra: le righe vuote. Se è un testo copiato e incollato su un altro - word a volte fa come gli pare - per togliere le righe vuote vai su: t rova, scrivi ^p e su sostituisci dai uno spazio; con questo comado si tolgono gli spazi in più",
+                    "è in ascensore; poi sullo stesso rigo, lui ha parcheggiato. Andando a capo potresti creare uno stacco tra le azioni. Potresti provare con: poco prima, prima; Introducendo così il cambio di situazione.",
+                    "Forse la schiena? non so.",
+                    "le ha gelato la schiena e la camicetta di seta. Il \"sulla\" depista un po'.",
+                    "Mi piace questo aneddoto. Ti faccio pensare però a una cosa. Lei cosa indossa oltre la camicetta? Come si china nel pulirsi la scarpa? Ha i pantaloni o la gonna? porta in giù il sedere o solleva il piede, il sedere se si china a chi lo rivolge? A lui o allo specchio nell'ascensore? Credo che in questo passaggio potresti scrivere un mondo di cose.",
+                    "Noi donne siamo molto volubili, ma lei è di un indeciso. Le piace essere guardata, in modo insistente non piace a nessuno, ma poi pensa che lui sia carino. Se una persona infastidisce per come guarda, un attimo dopo si fa fatica a pensarla carina. Se lei pensa che sia carino, non è infastidita dai suoi sguardi, semmai imbarazzata.(spero di essermi fatta capire)",
+                    "Qui cambia il punto di vista. E se la violentasse? non lo farà. Diverso se fosse stato: e se la violenatassi? Non lo farò.",
+                    "Un colpo alla carotide credo che uccida di colpo, con taglio della mano. So che sono pensieri, nella sua testa ogni cosa è giustificato e pertinente. Un colpo con la mano sulla carotide magari non la uccide, se le taglia la mano, non so... ma scusa, non aveva paura delle prove? Ritorniamo al discorso di prima; va bene tutto: sono i suoi pensieri e lui ce li ha così. Se avessi voglia di chiarire però, non sarebbe male.",
+                    "La parte finale è veramente tanto carina, tenera.",
+                    "Ciao, spero di non esserti risultata antipatica, scusa nel caso."
+                ]
+            ],
+            "timestamp": "2019-11-11T10:31:41Z",
+            "title": "In ascensore [revisionato]",
+            "url": "https://www.writersdream.org/forum/forums/topic/45090-in-ascensore-revisionato//?do=findComment&comment=799135",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 79,
@@ -26,7 +54,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
     },
     "num_chars": 7936,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

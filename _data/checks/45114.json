@@ -82,7 +82,7 @@
     },
     "num_chars": 4143,
     "num_commenti": 2,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 798159,
@@ -135,6 +135,14 @@
             ],
             "timestamp": "2019-11-06T13:23:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798401"
+        },
+        {
+            "post_id": 799093,
+            "text": [
+                "Ciao , grazie per essere passata :-)"
+            ],
+            "timestamp": "2019-11-10T23:37:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=799093"
         }
     ],
     "post_staff": [
