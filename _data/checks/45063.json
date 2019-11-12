@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 32,
+    "num_posts": 34,
     "post_after": [
         {
             "post_id": 796956,
@@ -187,6 +187,27 @@
             ],
             "timestamp": "2019-11-11T18:18:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799226"
+        },
+        {
+            "post_id": 799348,
+            "text": [
+                "Ciao !",
+                "Il \"mi ha fatto sentire a casa\" è una delle cose più belle che mi sia mai sentito dire!",
+                "Veramente contento che ti sia piaciuto così tanto e, neanche a dirlo, grazie per la dedica totalmente in linea!"
+            ],
+            "timestamp": "2019-11-12T15:13:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799348"
+        },
+        {
+            "post_id": 799349,
+            "text": [
+                "Ciao !",
+                "Vero, il tentacolo è un coup de théâtre che non aggiunge molto alla storia.",
+                "In verità l'ho utilizzato a metà tra una transizione di scena e un omaggio puro al viscidume di papà Howard Phillips, giusto a ricordarci che Cthulhu è sempre lì fuori in agguato...",
+                "In ogni caso, grazie per l'apprezzamento!"
+            ],
+            "timestamp": "2019-11-12T15:18:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799349"
         }
     ],
     "post_staff": [],
