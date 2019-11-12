@@ -89,7 +89,7 @@
     },
     "num_chars": 6862,
     "num_commenti": 2,
-    "num_posts": 31,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 797255,
@@ -252,6 +252,21 @@
             ],
             "timestamp": "2019-11-02T10:47:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=797349"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799422,
+            "text": [
+                "bel lavoro. Ripugna e instilla tensione dall’inizio alla fine. Molto riuscito è soprattutto il primo pezzo, in cui si inizia a scoprire questi bambini marci, e nonostante il sogno dichiarato l’inquietudine rimane anche sul finale, nel letto.",
+                "Ammetto che mi avrebbe entusiasmato una cosa più sottile, come una maestra spaventa da normalissimi bambini al punto di vederli come creature orribili, ma è solo un viaggio mentale. In realtà va benissimo così come lo hai strutturato.",
+                "Te lo dico lo stesso, volessi mai svilupparlo così in una nuova stesura."
+            ],
+            "timestamp": "2019-11-12T22:11:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45055-h2019-luned%C3%AC//?do=findComment&comment=799422"
         }
     ],
     "text": [
