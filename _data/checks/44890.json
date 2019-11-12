@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 1.0,
+        "valid": 0.0,
         "weight": true
     },
     "closed": false,
@@ -21,97 +21,31 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 1
+                "valid": 0
             },
             "text": [
-                [
-                    "Una perfetta espressione dell'inquietudine e della disperazione, che tocca la morte e tocca le piu' alte turbolenze di un cuore",
-                    "che a modesto parer mio non e' corrisposto. Educato, mai violento.",
-                    "Nato in daltonico mondo",
-                    "vengo dai profondi blu",
-                    "e vago agli alti rossi,",
-                    "ma senza resa muore",
-                    "quell'angolo di cuore",
-                    "assediato da ignavi Dei.",
-                    "Come albero,",
-                    "tra nero e bianco,",
-                    "radica la terra",
-                    "e per l’aere si serra",
-                    "se verso Dio s’alberga.",
-                    "Bellissima l'immagine dell'albero, che rappresenta la stabilita' , la forza della vita!",
-                    "Ora paion gelide",
-                    "le chiome d’Alba",
-                    "quando notte s’unisce al giorno",
-                    "e attendo da un falò",
-                    "su alto monte di mare",
-                    "dove pensieri son vele e,",
-                    "gonfie d’un vento di memorie,",
-                    "scruto rotta tra le tempeste.",
-                    "Ed questo altro cuore senza anima e senza amore, che con la sua freddezza non puo' ricambiare nulla, c'e' solo tempesta e disperazione. Rendi molto bene l'idea.",
-                    "Linguaggio molto azzeccato, appropriato, ed assonanze e ritmo giusto.",
-                    "Erano giorni per falchi.",
-                    "﻿",
-                    "Vola rossa chioma",
-                    "della mia gelida Alba",
-                    "al suo Dio, ed io",
-                    "sfido il mio!",
-                    "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
-                ],
                 [
                     "Grazie per la tua esaustiva spiegazione, e' bellissimo fare parte di voi, spero di leggerti ancora"
                 ]
             ],
-            "timestamp": "2019-10-14T22:44:35Z",
+            "timestamp": "2019-10-27T13:52:09Z",
             "title": "Ultima Alba",
-            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=792912",
+            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=795835",
             "weight": 1
         },
         {
             "checks": {
                 "timestamp": false,
-                "valid": 1
+                "valid": 0
             },
             "text": [
-                [
-                    "Una perfetta espressione dell'inquietudine e della disperazione, che tocca la morte e tocca le piu' alte turbolenze di un cuore",
-                    "che a modesto parer mio non e' corrisposto. Educato, mai violento.",
-                    "Nato in daltonico mondo",
-                    "vengo dai profondi blu",
-                    "e vago agli alti rossi,",
-                    "ma senza resa muore",
-                    "quell'angolo di cuore",
-                    "assediato da ignavi Dei.",
-                    "Come albero,",
-                    "tra nero e bianco,",
-                    "radica la terra",
-                    "e per l’aere si serra",
-                    "se verso Dio s’alberga.",
-                    "Bellissima l'immagine dell'albero, che rappresenta la stabilita' , la forza della vita!",
-                    "Ora paion gelide",
-                    "le chiome d’Alba",
-                    "quando notte s’unisce al giorno",
-                    "e attendo da un falò",
-                    "su alto monte di mare",
-                    "dove pensieri son vele e,",
-                    "gonfie d’un vento di memorie,",
-                    "scruto rotta tra le tempeste.",
-                    "Ed questo altro cuore senza anima e senza amore, che con la sua freddezza non puo' ricambiare nulla, c'e' solo tempesta e disperazione. Rendi molto bene l'idea.",
-                    "Linguaggio molto azzeccato, appropriato, ed assonanze e ritmo giusto.",
-                    "Erano giorni per falchi.",
-                    "﻿",
-                    "Vola rossa chioma",
-                    "della mia gelida Alba",
-                    "al suo Dio, ed io",
-                    "sfido il mio!",
-                    "Il falco ci vede molto bene, non si perde nulla. La freddezza ed il gelo di questa creatura si sente, le tue parole sono molto espressive e lasciano un dubbio, se si tratta del fenomeno mattutino, oppure di una donna dal carattere estremamente forte e gelido che si chiama Alba? Mi piace nel suo complesso per la forza del linguaggio e per la profondita' della poesia stessa."
-                ],
                 [
                     "Grazie per la tua esaustiva spiegazione, e' bellissimo fare parte di voi, spero di leggerti ancora"
                 ]
             ],
-            "timestamp": "2019-10-14T22:44:35Z",
+            "timestamp": "2019-10-27T13:52:09Z",
             "title": "Ultima Alba",
-            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=792912",
+            "url": "https://www.writersdream.org/forum/forums/topic/44800-ultima-alba//?do=findComment&comment=795835",
             "weight": 1
         }
     ],
