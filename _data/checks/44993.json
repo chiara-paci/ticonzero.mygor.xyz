@@ -54,7 +54,7 @@
     },
     "num_chars": 4658,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 795747,
@@ -117,6 +117,15 @@
             ],
             "timestamp": "2019-11-08T22:29:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=798813"
+        },
+        {
+            "post_id": 799449,
+            "text": [
+                "ciao.",
+                "Sì, in effetti nelle intenzioni originarie volevo sviluppare il racconto anche dopo l'accaduto. Poi non l'ho fatto, e sinceramente non ti so dire se è perché non ne sono stato capace o se perché mi stavo davvero angosciando io nello scrivere..."
+            ],
+            "timestamp": "2019-11-13T07:42:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=799449"
         }
     ],
     "post_staff": [
