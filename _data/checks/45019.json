@@ -72,7 +72,7 @@
     },
     "num_chars": 7879,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 796333,
@@ -123,6 +123,29 @@
             ],
             "timestamp": "2019-11-06T06:14:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45019-h2019-trentasei-ore-da-topicida//?do=findComment&comment=798310"
+        },
+        {
+            "post_id": 799489,
+            "text": [
+                "Questo tuo commento, caro , vale tutto il post, non smetto più di ridere .",
+                "Ti ringrazio di aver letto, nonostante tutto, e di aver commentato .",
+                "Talia"
+            ],
+            "timestamp": "2019-11-13T13:06:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45019-h2019-trentasei-ore-da-topicida//?do=findComment&comment=799489"
+        },
+        {
+            "post_id": 799493,
+            "text": [
+                ", , e grazie di essere passati, di aver letto e aver lasciato le vostre impressioni.",
+                "Grazie per il simpatico commento!",
+                "Hai perfettamente ragione, vedrò di rimediare l'anno prossimo.",
+                "Ottimo consiglio, hai ragione! Grazie",
+                "Grazie mille,",
+                "Talia"
+            ],
+            "timestamp": "2019-11-13T13:13:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45019-h2019-trentasei-ore-da-topicida//?do=findComment&comment=799493"
         }
     ],
     "post_staff": [],
