@@ -53,7 +53,7 @@
     },
     "num_chars": 4910,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 799385,
@@ -78,6 +78,33 @@
             ],
             "timestamp": "2019-11-12T20:37:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45174-laltro//?do=findComment&comment=799403"
+        },
+        {
+            "post_id": 799575,
+            "text": [
+                "La cosa è voluta, volutissima.",
+                "Fa parte del linguaggio, un po' alla Marias, a cui immodestamente voglio rendere omaggio."
+            ],
+            "timestamp": "2019-11-13T20:04:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45174-laltro//?do=findComment&comment=799575"
+        },
+        {
+            "post_id": 799576,
+            "text": [
+                "grazie",
+                "bisou."
+            ],
+            "timestamp": "2019-11-13T20:05:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45174-laltro//?do=findComment&comment=799576"
+        },
+        {
+            "post_id": 799583,
+            "text": [
+                "Cara, non si può piacere a tutti. Evper fortuna, se no sai che noia!",
+                "Abbraccio."
+            ],
+            "timestamp": "2019-11-13T20:36:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45174-laltro//?do=findComment&comment=799583"
         }
     ],
     "post_staff": [],
