@@ -16,7 +16,7 @@
         "valid": 0.03222222222222222,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -46,9 +46,24 @@
     },
     "num_chars": 502,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 799499,
+            "text": [
+                "Ciao , il commento che hai allegato non è abbastanza approfondito per poter postare una poesia. Per ora chiudo. Puoi mandare il link a un commento più completo via MP a me o a un altro staffer, così da riaprire la discussione.",
+                "Inoltre, ci piacerebbe che i nuovi utenti si presentassero in Ingresso, così da poter dare loro il benvenuto ufficiale e i link al regolamento. Ti aspettiamo"
+            ],
+            "timestamp": "2019-11-13T13:38:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45194-tramonta//?do=findComment&comment=799499"
+        }
+    ],
     "text": [
         "Una mano sul banco l'altra, ferma, sul mento.",
         "Lui guardava.",
