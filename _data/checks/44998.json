@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 32,
+    "num_posts": 34,
     "post_after": [
         {
             "post_id": 795830,
@@ -156,6 +156,15 @@
             ],
             "timestamp": "2019-11-07T17:04:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=798647"
+        },
+        {
+            "post_id": 799693,
+            "text": [
+                "Sommati agli altri, con alcuni dei da te indovinati, siamo a 11/14.",
+                "No, sinceramente non ho pensato a The ring, anche se ci possono essere rassomiglianze con alcune scene."
+            ],
+            "timestamp": "2019-11-14T16:42:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799693"
         }
     ],
     "post_staff": [
