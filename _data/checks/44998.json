@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 36,
     "post_after": [
         {
             "post_id": 795830,
@@ -165,6 +165,22 @@
             ],
             "timestamp": "2019-11-14T16:42:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799693"
+        },
+        {
+            "post_id": 799701,
+            "text": [
+                "Sì. Volendo essere cattivi, ce ne sarebbe un altro, ma non l'avevo conteggiato perché difficile da individuare."
+            ],
+            "timestamp": "2019-11-14T17:47:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799701"
+        },
+        {
+            "post_id": 799702,
+            "text": [
+                "Anzi, ce ne sarebbe un altro ancora, ma più che horror, lo considero thriller."
+            ],
+            "timestamp": "2019-11-14T17:49:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799702"
         }
     ],
     "post_staff": [
