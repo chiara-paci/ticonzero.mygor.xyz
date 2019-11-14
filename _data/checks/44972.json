@@ -49,9 +49,24 @@
     },
     "num_chars": 6802,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799682,
+            "text": [
+                "Ottimo lavoro. C'è molta delicatezza nella paura che il racconto riesce a delineare.",
+                "Di una semplicità dolorosa, quella che — a prescindere dal genere — dà forza alle storie più autentiche."
+            ],
+            "timestamp": "2019-11-14T15:47:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44972-h2019-la-vecchia-poltrona//?do=findComment&comment=799682"
+        }
+    ],
     "text": [
         "Tema: una voce nel buio",
         "La vecchia poltrona",
