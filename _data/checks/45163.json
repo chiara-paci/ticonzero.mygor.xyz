@@ -56,7 +56,7 @@
     },
     "num_chars": 1249,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 799172,
@@ -92,6 +92,14 @@
             ],
             "timestamp": "2019-11-14T06:52:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione//?do=findComment&comment=799612"
+        },
+        {
+            "post_id": 799627,
+            "text": [
+                "Felicissimo di avere un tuo commento, irene, che so particolarmente autorevole, parlando di poesia. Spero di averlo anche su quella successiva che ho postato oggi e che insieme a questa considero i primi segnali che un percorso si sta compiendo, anche se per molti versi (scusa il gioco di parole non voluto, ahahah) può risultare controverso. Ciao!"
+            ],
+            "timestamp": "2019-11-14T08:31:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione//?do=findComment&comment=799627"
         }
     ],
     "post_staff": [],
