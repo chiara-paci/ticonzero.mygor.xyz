@@ -60,7 +60,7 @@
     },
     "num_chars": 7916,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 796561,
@@ -143,7 +143,30 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45041-h2019-chiudo-gli-occhi-e-colpevole-attendo//?do=findComment&comment=799358"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799650,
+            "text": [
+                "Ciao, . Non ci siamo incrociati spesso ma in quelle sporadiche occasioni ho notato quanto sia costruttivo il dialogo con te. Vorrei provare a spingermi, quindi, in considerazioni che vanno oltre la virgola e la non virgola.",
+                "Leggo uno stile molto solido. C'è da dosare la tendenza a spiegare e specificare, ma ciò non intacca la padronanza stilistica. Con una prosa del genere si reggono bene le lunghe distanze, perché c'è ritmo e capacità di usare la drammatizzazione (che — piaccia o meno — segue le buone norme dello show don't tell). La forma racconto ha le sue regole ed è necessario adottare degli accorgimenti diversi, che costringono a mio parere a incanalarsi su dei binari.",
+                "Nella mia esperienza di lettore analitico, ho osservato due tipologie di struttura vincente. La prima è l'istantanea che comunica qualcosa di forte e netto, tipicamente in terza persona e con una forte propensione al mostrare; inizio in medias res e finale aperto, per cui non serve andare oltre: ciò che serviva è già stato detto, e il messaggio/la sensazione/quellocheè rimane.",
+                "La seconda (che per questioni di spazio trovo più spesso realizzata in prima persona) dà voce al protagonista e approfondisce un tema, coprendo anche un intervallo temporale più ampio; insomma, è il protagonista a decidere cosa e come presentare per arrivare a comunicare ciò che vuole comunicare.",
+                "Nella struttura di questo tuo racconto, invece, noto una soluzione ibrida che non sfonda da nessuna delle due parti: non fa valere un punto di vista sul tema e non scolpisce una personalità, e al tempo stesso non fa immergere nelle scene drammatizzate. Questo accade non per lacune sul lato della narrazione o dello stile, ma perché l'impostazione iniziale non segue una linea precisa, restando nel mezzo.",
+                "Giusto per esercizio mentale, provo a ipotizzare due strutture differenti per lo stesso racconto:",
+                "— drammatizzazione di una scena soltanto. L'inquadratura mostra il protagonista alle prese con l'esecuzione, ne segue le azioni e gli ottomila caratteri a disposizione saranno usati perché il lettore possa trarre tutte le sue conclusioni da questa scena, dai dettagli, dalle battute di dialogo, dai pensieri del protagonista ecc;",
+                "— focalizzazione interna sul personaggio principale. In questo caso si dà spessore alla voce e a tutto ciò che vuole comunicare; sceglierà lui che cosa portare alla luce e cosa lasciare fuori dal perimetro narrativo. Potrebbe essere il suo dramma nell'essere considerato una nullità, il conflitto con il fratello, la consapevolezza di avere una moglie al corrente di questa dinamica e così via.",
+                "Faccio questa distinzione netta perché stiamo parlando di testi brevi. Senza vincoli di spazio, di certo si è più liberi di creare l'amalgama giusta per coinvolgere il lettore.",
+                "Se dico cazzate, secondo te, fammelo sapere pure. Il confronto per me è importante."
+            ],
+            "timestamp": "2019-11-14T11:06:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45041-h2019-chiudo-gli-occhi-e-colpevole-attendo//?do=findComment&comment=799650"
+        }
+    ],
     "text": [
         "Traccia n. 5: Una voce nel buio.",
         "« Mi ha uccisa, Piero! »",
