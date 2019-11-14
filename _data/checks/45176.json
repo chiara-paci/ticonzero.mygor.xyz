@@ -55,8 +55,22 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 799715,
+            "text": [
+                "Da cosa pensi mi sia venuta l'idea? (birbantella come mai non sei tornata a casa quella sera?)",
+                "Oh sì, questo mi fa piacere. Lara è la bambina sensibile che vive in una realtà orribile. Si mettono in imbarazzo le persone, si emarginano i malati, non c'è compassione, i genitori parlano male dei propri figli. Lara per difendersi, per un attimo si amalgama alla realta intorno. Il personaggio di svolta è Marco, che frena l'amica nel momento in cui si sta per macchiare.",
+                "Non è detto, magari lei lo usa con le amiche e pensa che sia normale che lo facciano anche i grandi. Lara non è maliziona, ancora no. Il raccondo poi è paradossale, credo che l'accenno al collegamento, dai ,forse ci sta",
+                "Grazie",
+                "Due",
+                "Grazie ancora, cara"
+            ],
+            "timestamp": "2019-11-14T19:08:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=799715"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mamma solleva il materasso e prende cento euro, quando lo riabbassa, alcune banconote volano insieme alle piume del copriletto.",
