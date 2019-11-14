@@ -27,7 +27,7 @@
     },
     "num_chars": 857,
     "num_commenti": 0,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 795501,
@@ -81,6 +81,14 @@
             ],
             "timestamp": "2019-11-11T14:52:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin//?do=findComment&comment=799190"
+        },
+        {
+            "post_id": 799616,
+            "text": [
+                "Grazie del passaggio e dell'apprezzamento"
+            ],
+            "timestamp": "2019-11-14T07:05:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44980-hamelin//?do=findComment&comment=799616"
         }
     ],
     "post_staff": [],

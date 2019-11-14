@@ -56,7 +56,7 @@
     },
     "num_chars": 1249,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 799172,
@@ -82,6 +82,16 @@
             ],
             "timestamp": "2019-11-11T14:16:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione//?do=findComment&comment=799180"
+        },
+        {
+            "post_id": 799612,
+            "text": [
+                "Certo, sognante sempre. E pure malinconico, credo",
+                "(buona occasione per un emoticon mai usato prima)",
+                "Grazie del passaggio e del bel commento."
+            ],
+            "timestamp": "2019-11-14T06:52:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45163-cambio-di-stagione//?do=findComment&comment=799612"
         }
     ],
     "post_staff": [],
