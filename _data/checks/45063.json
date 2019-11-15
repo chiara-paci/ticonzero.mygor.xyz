@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 36,
+    "num_posts": 38,
     "post_after": [
         {
             "post_id": 796956,
@@ -208,6 +208,25 @@
             ],
             "timestamp": "2019-11-12T15:18:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799349"
+        },
+        {
+            "post_id": 799886,
+            "text": [
+                "Ciao !",
+                "Si, il tentacolo voleva essere un omaggio alle atmosfere di Lovecraft, più un gesto d'amore che qualcosa di ragionato. In effetti è un elemento in più e può risultare di troppo.",
+                "Contento che tu abbia apprezzato la ritmica, è un elemento al quale tengo particolarmente!"
+            ],
+            "timestamp": "2019-11-15T14:35:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799886"
+        },
+        {
+            "post_id": 799887,
+            "text": [
+                "Ciao , grazie mille!",
+                "È la prima volta che partecipo ad un contest, leggere commenti simili mi incoraggia a farlo di nuovo!"
+            ],
+            "timestamp": "2019-11-15T14:37:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799887"
         }
     ],
     "post_staff": [],
