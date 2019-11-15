@@ -56,7 +56,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 798075,
@@ -94,6 +94,15 @@
             ],
             "timestamp": "2019-11-11T14:54:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799192"
+        },
+        {
+            "post_id": 799772,
+            "text": [
+                "ti ringrazio.",
+                "Le idee buone mi vengono di rado a caldo. Per la questione che sottolinei, forse sarebbe stata sufficiente una non-risposta alle considerazioni di Ada. Anzi, credo che avrebbe accresciuto la tensione. Bene così, se non uscissi fuori da questi confronti con qualcosa in più mi sentirei deluso."
+            ],
+            "timestamp": "2019-11-15T08:15:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799772"
         }
     ],
     "post_staff": [
@@ -169,6 +178,20 @@
             ],
             "timestamp": "2019-11-11T14:54:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799192"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799772,
+            "text": [
+                "ti ringrazio.",
+                "Le idee buone mi vengono di rado a caldo. Per la questione che sottolinei, forse sarebbe stata sufficiente una non-risposta alle considerazioni di Ada. Anzi, credo che avrebbe accresciuto la tensione. Bene così, se non uscissi fuori da questi confronti con qualcosa in più mi sentirei deluso."
+            ],
+            "timestamp": "2019-11-15T08:15:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799772"
         }
     ],
     "text": [
