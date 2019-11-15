@@ -55,7 +55,7 @@
     },
     "num_chars": 8000,
     "num_commenti": 1,
-    "num_posts": 37,
+    "num_posts": 40,
     "post_after": [
         {
             "post_id": 795830,
@@ -181,6 +181,14 @@
             ],
             "timestamp": "2019-11-14T17:49:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799702"
+        },
+        {
+            "post_id": 799755,
+            "text": [
+                "Beccati (l'ultimo che citi era stato individuato in precedenza). Con questo si può dire che sono stati individuati tutti (il thriller è di uno che è considerato maestro dell'horror, ma non lo considererei proprio tale, anche se di morti ce ne sono e ha subito tagli data la cruenza di diverse scene)."
+            ],
+            "timestamp": "2019-11-14T23:22:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44998-h2019-ci%C3%B2-che-viene-dal-profondo//?do=findComment&comment=799755"
         }
     ],
     "post_staff": [
