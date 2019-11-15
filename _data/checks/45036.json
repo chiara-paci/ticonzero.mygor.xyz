@@ -53,7 +53,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 39,
+    "num_posts": 41,
     "post_after": [
         {
             "post_id": 796490,
@@ -248,9 +248,32 @@
             ],
             "timestamp": "2019-11-14T20:54:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=799738"
+        },
+        {
+            "post_id": 799988,
+            "text": [
+                "Grazie per il tempo e per il commento. Sono lieto che il pezzo ti sia piaciuto."
+            ],
+            "timestamp": "2019-11-15T19:18:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=799988"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 799991,
+            "text": [
+                "Lieto di rileggere un tuo pezzo dopo un po’, . Lo scorso anno mi stupisti con il nobile dal linguaggio forbito, questa volta con la fantasmessa lasciva e sboccata. E dopo l’inizio contemplativo, ho provato un disturbo sulla pelle quando è arrivata la parte orrorifica. E il finale lascia un senso strano. Nostalgia, in qualche modo.",
+                "Un racconto affascinante, condotto con stile."
+            ],
+            "timestamp": "2019-11-15T19:22:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45036-h2019-navigando-nel-pacifico//?do=findComment&comment=799991"
+        }
+    ],
     "text": [
         "Traccia 1: Il Vascello fantasma",
         "Quelle non erano le mie stelle. Le mie stelle erano Orione, Cassiopea, Sirio... gente delle mie parti, cresciuta coi miei antenati. Erano comunque magnifiche notti, al galoppo sulle onde del tropico del Capricorno.",
