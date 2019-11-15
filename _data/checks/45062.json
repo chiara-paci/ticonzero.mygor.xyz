@@ -56,7 +56,7 @@
     },
     "num_chars": 7192,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 797117,
@@ -93,6 +93,15 @@
             ],
             "timestamp": "2019-11-05T07:57:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45062-h2019-non-voglio-pi%C3%B9-dormire//?do=findComment&comment=798076"
+        },
+        {
+            "post_id": 799868,
+            "text": [
+                "Ciao ragazzi. Seguendo più o meno i vostri consigli, ho riscritto il testo, stravolto direi. Ora è in maturazione. Ho cambiato pure il titolo.",
+                "Grazie."
+            ],
+            "timestamp": "2019-11-15T13:35:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45062-h2019-non-voglio-pi%C3%B9-dormire//?do=findComment&comment=799868"
         }
     ],
     "post_staff": [],
