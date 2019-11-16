@@ -27,9 +27,23 @@
     },
     "num_chars": 350,
     "num_commenti": 0,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 800043,
+            "text": [
+                "No, domenica lunedì."
+            ],
+            "timestamp": "2019-11-16T09:48:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45223-mezzogiorno-d%E2%80%99inchiostro-n130-off-topic//?do=findComment&comment=800043"
+        }
+    ],
     "text": [
         "Sono tornataaaa.",
         "Quello da quattro soldi non si farà più vedere fino all'anno prossimo, mentre io sono sempre qui a iniziare il nuovo MI numero 130.",

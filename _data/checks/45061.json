@@ -56,7 +56,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 798075,
@@ -103,6 +103,16 @@
             ],
             "timestamp": "2019-11-15T08:15:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799772"
+        },
+        {
+            "post_id": 800042,
+            "text": [
+                "grazie.",
+                "eccoti, finalmente ti mostri.",
+                "Grazie mille. Sono contento che tu abbia trovato il testo gradevole, date le ultime (e fondate) critiche."
+            ],
+            "timestamp": "2019-11-16T09:39:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800042"
         }
     ],
     "post_staff": [
@@ -192,6 +202,21 @@
             ],
             "timestamp": "2019-11-15T08:15:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=799772"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 800042,
+            "text": [
+                "grazie.",
+                "eccoti, finalmente ti mostri.",
+                "Grazie mille. Sono contento che tu abbia trovato il testo gradevole, date le ultime (e fondate) critiche."
+            ],
+            "timestamp": "2019-11-16T09:39:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800042"
         }
     ],
     "text": [
