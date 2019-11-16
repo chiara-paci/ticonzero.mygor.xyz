@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.59,
+        "valid": 1.0,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -36,9 +36,36 @@
             "title": "Nuvole",
             "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=799720",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao! L'immagine che hai creato in questi versi ha una certa forza e mi ha colpito. Non ho capito se tu ti riferissi proprio a questo, ma io ci ho visto un amore nel quale tu hai riposto delle speranze che poi sono state deluse. Forse è una personalizzazione, ma questa è la sensazione che mi dà.",
+                    "Non ho capito bene se è una scelta, ma vedo che non vi è punteggiatura. Secondo me ci vorrebbe per dare un certo ritmo al testo, che altrimenti perde colore. In alcuni casi se ne potrebbe fare a meno, nelle prime strofe per esempio. Comunque, anche un cambiamento di posizione potrebbe rendere le parole più fluide, e porre l’accento sul soggetto, risaltandolo.",
+                    "Confronta con questa versione:",
+                    "Sognavo sbocciassi fra le mie dita",
+                    "come primula in un vaso",
+                    "da ritrovare ogni giorno,",
+                    "alla finestra.",
+                    "Ma tu,",
+                    "su questo palmo hai posato il seme",
+                    "per disegnare ﻿nella condensa",
+                    "appena un fiore, da vedere svanito",
+                    "di lì a breve.",
+                    "Poi non so se vi è un motivo preciso dietro la scelta delle posizioni e l’assenza di punteggiatura. Che ne pensi?"
+                ]
+            ],
+            "timestamp": "2019-11-16T16:39:11Z",
+            "title": "Disegni nella condensa",
+            "url": "https://www.writersdream.org/forum/forums/topic/45149-disegni-nella-condensa//?do=findComment&comment=800107",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -46,8 +73,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 625,
-    "num_commenti": 1,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -63,6 +90,19 @@
             ],
             "timestamp": "2019-11-14T20:20:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45209-odiami//?do=findComment&comment=799729"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 800108,
+            "text": [
+                "."
+            ],
+            "timestamp": "2019-11-16T16:52:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45209-odiami//?do=findComment&comment=800108"
         }
     ],
     "text": [
