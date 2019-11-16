@@ -43,8 +43,26 @@
     },
     "num_chars": 3769,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 800118,
+            "text": [
+                "ho eliminato: A Marilena non dispiaceva la neutralità passiva ma solo se frutto di libera scelta e non imposta dall'esterno."
+            ],
+            "timestamp": "2019-11-16T17:56:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-2//?do=findComment&comment=800118"
+        },
+        {
+            "post_id": 800147,
+            "text": [
+                "grazie! mi fa molto piacere che ti piaccia!",
+                "hai ragione, è un po' quello che temo, confondere il suo pensiero col mio e poi divento ingombrante. Rimugina già abbastanza per conto suo Marilena! Aggiungerò il \"pensò\""
+            ],
+            "timestamp": "2019-11-16T20:33:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-2//?do=findComment&comment=800147"
+        }
+    ],
     "post_staff": [],
     "text": [
         "allora, il capitolo non sarebbe ancora finito, ci sarebbe ancora una paginetta e poi, nel capitolo successivo, si parla finalmente del cadavere. La parte in corsivo all'inizio è stata aggiunta solo per riprendere un po' il filo del discorso, sennò non si capisce cosa sia questa energia stagnante",

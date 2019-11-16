@@ -7,83 +7,18 @@
             "narrativa": 1,
             "poesia": 0
         },
-        "name": "no mercy",
-        "url": "https://www.writersdream.org/forum/profile/27585-no-mercy/"
+        "name": "mercy",
+        "url": "https://www.writersdream.org/forum/profile/27585-mercy/"
     },
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.8661538461538462,
-        "weight": true
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao, ,",
-                    "ti lascio subito un paio di annotazioni tecniche, così mi tolgo il pensiero. Tieni conto del fatto che io non ho le competenze per correggere alcunché, e che quindi le mie osservazioni sono strettamente personali.",
-                    "\"Signori\" è il vocativo con cui il proprietario della baita si rivolge ai presenti e i vocativi andrebbero sempre individuati da virgole. Leggendo a voce alta, poi, si mette una piccola pausa prima e dopo, così:",
-                    "Mi dispiace, signori, ma la tempesta di neve non accenna a placarsi, temo ...",
-                    "Io direi la Smorfiosa , e userei la maiuscola per i soprannomi di tutti gli altri personaggi (lo Snob, il Fratello...)",
-                    "Ah, mi piace l'idea di chiamarli a seconda del loro carattere e continuerei a chiamarli semplicemente così, senza ribadire (come fai in un paio di occasioni) che si tratta di soprannomi.",
-                    "La maiuscola non serve, come nel caso degli altri tag che reggono i dialoghi. come sotto:",
-                    "Eccetera.",
-                    "Ho notato che usi alcuni termini un po' desueti: \"reclamare\", \"improrogabile\", \"gagliardo\", \"protrudere\". Roba così.",
-                    "Io non sono contraria all'uso di un linguaggio ricercato, anzi. Solo, mi chiedo se sia adatto a questo racconto particolare: parliamo di un gruppo di persone chiuse in una baita che bevono birra, si corteggiano, si accoppiano, litigano... si uccidono. Molto lontani da un seminario, per intenderci. Ci vedrei bene un linguaggio un po' più ruvido.",
-                    "La trama forse non è molto originale ma, per quello che ne capisco di horror, questo non è importante - molto più importante è creare condizioni per lo sviluppo della tensione e poi svilupparla in modo efficace. La bella e la bestia in un unico personaggio, e va bene così.",
-                    "Al netto di questi piccoli appunti, quindi, il racconto mi è piaciuto. Mi era piaciuto anche quello per il FdI \"Come una goccia d'acqua su una piastra incandescente\", così ho confermato le mie impressioni.",
-                    "Buon contest!"
-                ]
-            ],
-            "timestamp": "2019-10-28T21:08:08Z",
-            "title": "[H2019] La bufera",
-            "url": "https://www.writersdream.org/forum/forums/topic/45022-h2019-la-bufera//?do=findComment&comment=796208",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": false,
-                "valid": 0.7323076923076923
-            },
-            "text": [
-                [
-                    "Ciao , benvenuto!",
-                    "Dato che non l'hai ancora fatto, ti dispiacerebbe aprire una nuova discussione nella sezione \"Ingresso\" e raccontarci qualcosa di te, come da regolamento?",
-                    "Per pubblicare i propri racconti sarebbe inoltre necessario commentare in modo approfondito un altro racconto e temo che il tuo commento sia troppo scarno.",
-                    "Segnalo allo Staff, che probabilmente chiuderà temporaneamente il tuo racconto. Potrai farlo riaprire facendo un commento più completo e inviandone il link a un membro dello Staff.",
-                    "Poi magari passo a commentare."
-                ],
-                [
-                    "Ciao, , benvenuto in Officina.",
-                    "Ti lascio qualche appunto, tu tieni conto del fatto che si tratta di osservazioni soggettive: prendi quello che ti sembra utile e butta via il resto.",
-                    "La punteggiatura in questa frase non mi convince molto: ti suggerisco di inserire una pausa più lunga dove ho segnato in grassetto: puntini di sospensione, oppure il punto fermo.",
-                    "Ah, mi piace molto \"aveva tredici anni da quasi un anno\" per dire che stava per compierne quattordici: è come se strizzassi l'occhio al lettore, anticipandogli che succederà qualcosa di particolare.",
-                    "Qui metterei una pausa più lunga, dato anche che cambi soggetto.",
-                    "- da quando sono qui ho imparato che gli aggettivi possessivi vanno usati con parsimonia, solo quando sono necessari. La \"mamma\" non può che essere \"mamma di Alessio\": puoi riferirti a lei come a \"la mamma\" o anche semplicemente come a \"mamma\".",
-                    "- \"alienazione\", oltre a sembrarmi una parola un po' forte per descrivere l'isolamento sociale, è un termine tecnico da manuale di psicologia: secondo me stona nel racconto.",
-                    "- \"sul figlioletto\" è ridondante, puoi toglierlo perché il senso è chiaro.",
-                    "- secondo me il congiuntivo imperfetto \"sapessi\" qui può essere sostituito con un indicativo, dato che \"era convinto\" regge già \"fosse\" (ma è solo una mia impressione. a volte con i congiuntivi mi incasino)",
-                    "- È E'",
-                    "La ripetizione di \"giornale\" stride un po'. La eviterei.",
-                    "I vocativi (\"Alessio\" e \"mamma\") andrebbero sempre individuati dalle virgole.",
-                    "Le due espressioni che usi per indicare la minzione non sono certo scorrette, ma secondo me stridono con il registro del racconto che è semplice e colloquiale (oltre a riguardare un ragazzino). Direi che \"fare pipì\", in questo caso, va bene lo stesso.",
-                    "Cose più importanti. Il risvolto drammatico (Alessio viene ricoverato) mi ha un po' spiazzata, giunge completamente inatteso. Soprattutto non trovo credibile che una madre faccia portare via il figlio da \"uomini che lo infilano in un furgone\" - come fosse criminale pericoloso. Per fortuna i ricoveri (anche quelli psichiatrici) non funzionano così.",
-                    "Mi ha poi spiazzato di nuovo scoprire che Alessio sia stato vittima di un alieno capriccioso e un po' sadico, rende il finale ancor più drammatico.",
-                    "L'idea è molto carina, ma merita di essere gestita con più attenzione soprattutto nei passaggi finali."
-                ]
-            ],
-            "timestamp": "2019-10-22T07:25:03Z",
-            "title": "Il teletrasporto",
-            "url": "https://www.writersdream.org/forum/forums/topic/44943-il-teletrasporto//?do=findComment&comment=794633",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 2,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -91,57 +26,9 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9927,
-    "num_commenti": 2,
+    "num_commenti": 0,
     "num_posts": 11,
-    "post_after": [
-        {
-            "post_id": 797036,
-            "text": [
-                "Grazie per il passaggio , e grazie dei complimenti, ."
-            ],
-            "timestamp": "2019-10-31T23:52:10Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=797036"
-        },
-        {
-            "post_id": 797402,
-            "text": [
-                "Grazie per il commento , soprattutto per i suggerimenti.",
-                "Riguardo le traduzioni, concordo con te: inserite nel testo sono proprio brutte e ammetto che ho riflettuto a lungo sulla possibilità di evitarlo del tutto, il dialetto, ma torvo che sia necessario a caratterizzare l'ambiente e i personaggi in modo realistico (in Friuli, come dalle mie parti, si parla poco in italiano adesso...figuriamoci negli anni settanta!) e anche a far sentire la distanza tra loro e il protagonista. Cercherò di correggere i dialoghi secondo il tuo suggerimento, anche se mi sembra un po' \"sleale\" nei confronti del lettore scrivere battute che potrebbe non capire o capire a metà.",
-                "Riguardo la prima scena, nelle mie intenzioni serviva a introdurre il tempo e il luogo evitando di fare troppo tell , e serviva anche a presentarne il \"nodo\" (nessuna colpa, neanche la più piccola, è dimenticata o cancellata. Marina ha buttato il pesce nel pozzo il giorno prima, il pozzo l'ha risputato, lei non sopporta di ritrovarsi a fare i conti con quello che ha fatto) - ma se tu trovi sia \"fuori fuoco\" probabilmente hai ragione. Ci penserò su.",
-                "Grazie mille."
-            ],
-            "timestamp": "2019-11-02T15:38:10Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=797402"
-        },
-        {
-            "post_id": 797995,
-            "text": [
-                "A parte ringraziarti per la lettura, , ti ringrazio per avermi fatto notare aspetti del racconto che mi erano sfuggiti o che avevo considerato senza però trovare soluzioni.",
-                "Sì, ho \"studiato\" un po' il genere horror, ma ammetto che non fa per me. Non scriverne, almeno, perché lo leggo volentieri. Comunque \"fantastico\" (inteso come genere, eh?) detto di un mio racconto, lo considero un grosso complimento.",
-                "Temevo di essere prolissa, così mi sono imposta di tagliare, tagliare, tagliare. Ho tagliato quasi 2000 caratteri: probabilmente ho tagliato troppo. Se revisiono (non so ancora se ne vale la pena) cercherò di legare meglio i paragrafi tra loro.",
-                "In realtà volevo produrre un effetto un po' spaesante, come se Giovanni si sentisse osservato/commentato anche dall'orologio e dubitasse anche di \"lui\". Questo, insieme al \"crimine\" confessato dalla bambina, avrebbe dovuto dare una nota WTF.",
-                "Ecco, proprio questo. Ma mi sa che non funziona.",
-                "Ho pensato: cosa direbbe un giovane scapolo ad una bambina negli anni '70? Genericamente di essere ubbidiente a casa e a scuola (alle elementari c'era un unico insegnante). Comunque hai ragione, va corretto.",
-                "Correzioni approvate! Grazie, grazie.",
-                "Un parere autorevole va tenuto da conto, due pareri autorevoli fanno giurisprudenza.",
-                "Uh. Sono sempre felice di leggere un tuo commento, ma sarei felicissima di leggere un tuo racconto - manchi in Officina da un po'. Quando vuoi ti si aspetta, eh?"
-            ],
-            "timestamp": "2019-11-04T20:50:49Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=797995"
-        },
-        {
-            "post_id": 798623,
-            "text": [
-                "Non ci avevo pensato, ma hai ragione (solo: spero che questo racconto sia un po' meglio di quello). Mi gira per la testa da un po' la suggestione che gli esseri umani finiscano per comportarsi come delle maschere su un palcoscenico, come i personaggi di una commedia delle parti - almeno in determinate situazioni e in modo del tutto inconsapevole. Come recitando una parte scritta per loro, senza alcuna reale consapevolezza di cosa stiano facendo e perché. Non è un'idea mia, è roba vecchia da sociologia classica, ma ultimamente mi sembra di vederla dappertutto.",
-                "Concordo con te, in linea generale gli \"spiegoni\" andrebbero puniti con la pubblica gogna. Dico in linea generale perché, beh, a un narratore palese (se l'autore è molto, molto bravo) li perdono. Ovvio che questo non è il mio caso, né per quanto riguarda il narratore, né per quanto riguarda l'autore.",
-                "Semplicemente, più che uno \"spiegone\" mi ero illusa che il dialogo funzionasse come una confessione. Lungo tutto il racconto diversi personaggi \"confessano\" al protagonista le loro colpe (che all'inizio sembrano trascurabili o almeno umanamente comprensibili) nel tentativo un po' ridicolo di essere assolti: questa dovrebbe essere la confessione finale.",
-                "Però la tua critica ci sta. Me la segno, ci rifletterò. Non si eliminano mai abbastanza \"spiegoni\" dai racconti.",
-                "Ciao , grazie per aver letto e commentato."
-            ],
-            "timestamp": "2019-11-07T16:29:24Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45026-h2019-troppo-lungo-per-il-concorso-il-po%C3%A7//?do=findComment&comment=798623"
-        }
-    ],
+    "post_after": [],
     "post_staff": [],
     "text": [
         "e",
