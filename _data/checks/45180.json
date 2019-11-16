@@ -55,7 +55,7 @@
     },
     "num_chars": 8196,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800060,
@@ -71,6 +71,18 @@
             ],
             "timestamp": "2019-11-16T11:42:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45180-sfida-25-al-crocevia-tra-lovest-e-lest//?do=findComment&comment=800060"
+        },
+        {
+            "post_id": 800075,
+            "text": [
+                "Ciao, carissimo ! È un'imprecazione un po' pesantuccia se tradotta alla lettera, non l'ho messa nel glossario forse a posta, probabilmente me ne sono dimenticata, ma si potrebbe tradurre con merda oppure porca puttana.",
+                "Non l'avevo notato. Grazie, correggo subito nel file.",
+                "Sai che sono molto fissata con le ripetizioni, di solito le evito come la peste. Nei casi che citi, le ho lasciate, forse perché non mi disturbavano molto. Potrei variare, sì.",
+                "Sul fatto che sia raccontato... hai ragione: è sicuramente un mio vizio, rimasto anche dai tempi in cui mi occupavo di giornalismo. Fa parte anche del mio stile, inutile negarlo. Mi viene naturale, ecco, esporre i fatti in un certo modo piuttosto che in un altro. Spesso poi, ne sono cosciente, immagino e realizzo le storie \"complicate\", che faticano a stare nei nostri limiti. È sicuramente un rischio, specie nei contest. Ma è bello lo stesso perché mi dà la base per un progetto più ampio.",
+                "Perdonarti per cosa? Scherzi! Grazie per essere passato e per avermi dato qualcosa d'importante su cui riflettere. E per l'apprezzamento generale, ovviamente. A presto!"
+            ],
+            "timestamp": "2019-11-16T14:06:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45180-sfida-25-al-crocevia-tra-lovest-e-lest//?do=findComment&comment=800075"
         }
     ],
     "post_staff": [],
