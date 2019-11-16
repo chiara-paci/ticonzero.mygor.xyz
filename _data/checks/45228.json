@@ -1,0 +1,119 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, Ippolita. Evito volutamente i commenti precedenti perché poi mi faccio influenzare sicuro",
+                    "Innanzitutto il titolo mi piace molto. Moderno, scherzoso, accattivante",
+                    "Se mi lascio trasportare dal ritmo iniziale, al quarto verso mi sarei aspettato di andare giù dopo guarda. Invece il verso qui si allunga, ma siccome quello successivo chiude un po' la prima parte, mi pare che funzioni più che bene. Direi un'ottima introduzione, scoppiettante. Se dovessi trovare un sinonimo musicale, mi fa venire in mente qualcosa di moderno, tipo l'hip hop, ma probabilmente chi conosce il jazz meglio di me saprebbe definire un paragone più calzante.",
+                    "Rido e mi schermisco, facebook",
+                    "non ce l'ho ― dico ― ma è vero",
+                    "che sei bella, come una ragazza.",
+                    "Però in questi tre versi apparentemente differenti, la punteggiatura ricrea lo stesso ritmo, leggermente meno sincopato. Sì, c'è più improvvisazione, mi pare. Probabilmente il jazz è più attinente",
+                    "Lei, che vecchia è per davvero.",
+                    "Intanto inzuppava il cornetto nel",
+                    "caffè, e gridava alla sciampista",
+                    "Qui il passo diventa più lento. Avrei fatto scelte diverse, negli stacchi dei versi, però mi piace molto. Si conferma il mood anticipato dal titolo. E' una poesia che non si prende sul serio (si fa per dire, naturalmente, e cmq nel senso buono) e mette allegria, buon umore.",
+                    "di usare l'altra crema, quella",
+                    "all'avocado, più nutriente.",
+                    "simpaticissimi, questi versi",
+                    "Perché démodé? Le chiedo. Sono",
+                    "solo legati, i miei capelli.",
+                    "Ottimo. Bella chiusa, leggera e a tono. Anche piuttosto aperta, direi, non difficile (almeno per me che probabilmente in poesia mi perdo con poco).",
+                    "La struttura della poesia mi sembra piuttosto libera. C'è tutta la verve e il divertimento dell'improvvisazione. Piaciuta molto. Ciao."
+                ]
+            ],
+            "timestamp": "2019-11-16T08:14:54Z",
+            "title": "Sei démodé, mi fa la parrucchiera",
+            "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera//?do=findComment&comment=800028",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1309,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Atto V, scena I. Cucina",
+        "____________________________________________________",
+        "Sono in giardino, steso tra le foglie.",
+        "Tu alla finestra, la tua bocca",
+        "disegna un fiore d’ansia sul vetro,",
+        "prima di uscire e raggiungermi.",
+        "Lo cancello con le dita e vi guardo,",
+        "mentre mi abbracci e ridiamo",
+        "e rotoliamo nell’erba, felici.",
+        "Siamo cresciuti insieme",
+        "in questa casa di bambole",
+        "aperta agli sguardi torvi dei vicini,",
+        "alle violenze domestiche",
+        "alla puerile ipocrisia della fede",
+        "che non hai mai avuto.",
+        "Mi hai dato questo stupido nome,",
+        "sdolcinato, e non mi hai detto",
+        "quanto coraggio ci vuole,",
+        "in questa vita.",
+        "E ora contiamo gli avanzi in frigorifero:",
+        "Un paio di diet coke, un pa-",
+        "netto di tofu, mezzo barat-",
+        "tolo di olive, un sacchetto",
+        "aperto di arachidi, le ara-",
+        "chidi non vanno in frigori-",
+        "fero, cazzo, e poi un carto-",
+        "ne di latte scaduto, e but-",
+        "talo! Un cespo di insalata",
+        "ancora da lavare, un tubet-",
+        "to strizzato di maionese,",
+        "un hamburger scongelato,",
+        "c’è ancora qualcuno che",
+        "mangia carne, santoddio?",
+        "E poi una pizza surgelata,",
+        "nel freezer, patatine surge-",
+        "late, filetti di pesce surge-",
+        "lati, spinaci a cubetti e",
+        "broccoli e piselli, surgelati.",
+        "Che freddo…",
+        "Non trovo gli avanzi della cena, però.",
+        "Ho cucinato io, ieri.",
+        "Era tutto buonissimo , menti,",
+        "ma lo so che li hai buttati.",
+        "Hai sempre avuto forza, tu,",
+        "un carattere deciso, ma",
+        "non hai mai avuto coraggio,",
+        "ammettilo, madre."
+    ],
+    "timestamp": "2019-11-16T08:57:56Z",
+    "title": "Atto V, scena I. Cucina",
+    "topic_id": 45228,
+    "url": "https://www.writersdream.org/forum/forums/topic/45228-atto-v-scena-i-cucina/"
+}
