@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 797009,
@@ -201,7 +201,24 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=799882"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 800151,
+            "text": [
+                "Arrivo super tardi, . Cerco, nella brevità, di darti un paio di spunti per un'eventuale revisione.",
+                "Prima di tutto voglio complimentarmi per l'idea, raccapricciante e ben congegnata, così come per la capacità di suscitare sensazioni di macabro dalle immagini più semplici, più comuni, concentrandosi su particolari disgustosi.",
+                "La realizzazione soffre di incertezze sul fronte grammaticale e di costruzioni del periodo: alcune frasi sono annodate, altre altalenanti nel registro; altre ancora presentano errori facili da notare e correggere, come per esempio:",
+                "In secondo luogo, c'è un repentino cambio di PoV sul finale. È di certo necessario per portare avanti l'impostazione che hai scelto e dare le risposte al lettore, ma a mio parere optare per queste soluzioni, specie sulle brevi distanze, paga meno rispetto a restare ancorati al punto di vista dall'inizio alla fine."
+            ],
+            "timestamp": "2019-11-16T21:40:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=800151"
+        }
+    ],
     "text": [
         "Traccia numero 7: Incubi",
         "Parigi 1725",
