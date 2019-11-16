@@ -59,7 +59,7 @@
     },
     "num_chars": 7952,
     "num_commenti": 1,
-    "num_posts": 36,
+    "num_posts": 37,
     "post_after": [
         {
             "post_id": 795150,
@@ -202,6 +202,15 @@
             ],
             "timestamp": "2019-11-15T13:08:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=799861"
+        },
+        {
+            "post_id": 800077,
+            "text": [
+                "Che dire, ? Neanche nella più rosea delle aspettative avrei potuto sperare in un commento così lusinghiero. Ne sono stra-felice. Hai colto fino in fondo le mie intenzioni e interpretato con correttezza gli strumenti utilizzati per raggiungere determinati effetti. Grazie anche dei consigli che mi hai dato sulla punteggiatura.",
+                "Ciao, alla prossima! 🤗"
+            ],
+            "timestamp": "2019-11-16T14:19:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44961-h2019-la-bestia//?do=findComment&comment=800077"
         }
     ],
     "post_staff": [],

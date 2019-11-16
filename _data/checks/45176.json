@@ -55,7 +55,7 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 799715,
@@ -79,6 +79,15 @@
             ],
             "timestamp": "2019-11-16T14:32:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800078"
+        },
+        {
+            "post_id": 800097,
+            "text": [
+                ", non mi sono posta il problema. La privacy e la protezione dei dati sensibili si riferisce a un periodo, piuttosto che a una data storica, non sono andata a vedere sulla Gazzetta Ufficiale, penso di non sbagliare dicendo che il punto di rottura è comunque recente. Se la svolta lo è, anche il racconto lo è, ma credo che si possa adattare anche a un futuro. Con le Superg on Ice, le tue figurine digitali, l'antipiretico che smorza anche i bruciori di stomaco e le Fruit Joy con 19 caramelle rosa e una al limone.",
+                "ciao"
+            ],
+            "timestamp": "2019-11-16T15:54:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800097"
         }
     ],
     "post_staff": [],
