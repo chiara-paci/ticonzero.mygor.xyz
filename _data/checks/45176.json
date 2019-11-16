@@ -55,7 +55,7 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 799715,
@@ -88,6 +88,15 @@
             ],
             "timestamp": "2019-11-16T15:54:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800097"
+        },
+        {
+            "post_id": 800156,
+            "text": [
+                "scusa, ma lo sai che non riesco ancora a capire? Perdonami, ma non mi entra in zucca. Sono andata a rivedere il significato di ucronia (su Wikipedia) e boh, mi sembra che possa essere assimilatato anche alla fantascienza, magari sbaglio, è la prima volta che mi imbatto in un questo genere.",
+                "Grazie come sempre per il tempo che mi dedichi, scusa se te ne chiedo ancora, ma credimi non mi è chiaro il tuo dubbio"
+            ],
+            "timestamp": "2019-11-16T22:34:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800156"
         }
     ],
     "post_staff": [],
