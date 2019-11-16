@@ -55,7 +55,7 @@
     },
     "num_chars": 7972,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 797108,
@@ -189,6 +189,21 @@
             ],
             "timestamp": "2019-11-02T17:38:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=797433"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 800150,
+            "text": [
+                "Fa ridere e ribrezzo insieme. Più che ridere, combina bene il trash con l'orrore in senso stretto.",
+                "Mi è piaciuto in particolar modo lo stile da romanziere consapevole.",
+                "Di contro, penso che i \"numeri\" narrativi che hai messo in campo risultino un pelo sprecati per un'idea che – a conti fatti – sembra più nata per giocare che per fare sul serio. Ma ciò non toglie che sia fatta bene, molto bene."
+            ],
+            "timestamp": "2019-11-16T21:19:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45067-h2019-bloody-pierino//?do=findComment&comment=800150"
         }
     ],
     "text": [
