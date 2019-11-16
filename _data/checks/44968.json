@@ -54,7 +54,7 @@
     },
     "num_chars": 6998,
     "num_commenti": 1,
-    "num_posts": 34,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 795196,
@@ -146,6 +146,14 @@
             ],
             "timestamp": "2019-11-14T20:06:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=799723"
+        },
+        {
+            "post_id": 800125,
+            "text": [
+                "Grazie."
+            ],
+            "timestamp": "2019-11-16T18:32:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44968-h2019-turno-di-notte//?do=findComment&comment=800125"
         }
     ],
     "post_staff": [
