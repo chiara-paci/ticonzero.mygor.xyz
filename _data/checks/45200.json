@@ -68,7 +68,7 @@
     },
     "num_chars": 1401,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 799759,
@@ -87,6 +87,15 @@
             ],
             "timestamp": "2019-11-15T06:35:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45200-piccolo-aeroplano-biposto//?do=findComment&comment=799759"
+        },
+        {
+            "post_id": 800024,
+            "text": [
+                "Eh, e io che con la poesia sto sempre un passo indietro, mi sento un po' come chi scopre l'acqua calda. Ma vabbè, meglio tardi che mai, ahahah.",
+                "A presto, allora."
+            ],
+            "timestamp": "2019-11-16T07:38:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45200-piccolo-aeroplano-biposto//?do=findComment&comment=800024"
         }
     ],
     "post_staff": [],
