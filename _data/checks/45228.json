@@ -60,9 +60,33 @@
     },
     "num_chars": 1309,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 800056,
+            "text": [
+                "ciao Bob.",
+                "Ti lascio qualche mia impressione.",
+                "Questa è una perla.",
+                "Qui però, mi infili una serie di frasi un po' troppo scontate. Concordo sulla forma discorsiva, sul non voler cercare forme auliche (anche se delle volte hai delle belle intuizioni anche su questo campo), ma occorre dare un elemento di magia a un testo poetico. In qualche modo deve sedurre il lettore.",
+                "Un altro punto di riflessione sulla prima parte. La scrittura è fresca e gradevole, però ogni frase si regge all'interno del verso, un po' meno in quella che ti ho citato all'inizio. Lo slegare eccessivamente i versi incide sulla musicalità. Va bene che sono sciolti, può sembrare un gioco di parole ma non lo è, perché la metrica li tiene insieme, o in alternativa gli enjambement: ovvero la capacità di sospendere il senso nel seguirsi dei versi. Quindi la poesia necessita della rottura dell'unità sintattica che si richiude nel suo insieme. I metodi sono tantissimi e non c'è una regola, però non usarne nessuna disinnesca molto del potenziale poetico di un testo a cui può rimanere solo il lirismo delle immagini. E comunque se ben usato può bastare.",
+                "Questa osservazione non vuole essere una sentenza ma una spia. Cominci a individuare un tuo stile, però è bene sapere che ci sono un'infinità di strumenti che possono rinforzare l'espressività di un linguaggio.",
+                "Segue la parte più spericolata, la strofa con il rientro più a destra. Qui compi un lavoro grafico molto forte, che dà delle possibilità espressive ulteriori ma ne preclude altre. Provo a descriverti quelle che mi hanno colpito: l'aspetto grafico domina completamente la forma, tanto da farti andare a capo spezzando delle parole. Ora questo immaginando una lettura a alta voce sarebbe un elemento di disturbo, ovvero ci sarebbero delle sillabe che troncano le parole. Diciamo che secondo i canoni classici della poesia andrebbe indicato come un errore. Eppure la poesia contemporanea come tutti i linguaggi ha reso tutte le regole relative, semplicemente occorre dare un senso a qualsiasi rottura linguistica. Aritmie, asimmetrie, contrappunti, controcanti, ecc... Hanno oggi delle ragioni estetiche perché il linguaggio può essere gestito a 360 gradi.",
+                "In sintesi occorre sapere che questa scelta spezza la lettura e con essa la musicalità del testo, spostando il senso sulla critica alla forma grafica dello stesso. va considerato che la ricerca di un significato porta comunque il lettore a forzare la lettura e leggere correttamente (dal punto di vista sintattico) il testo, avvertendo però lo strappo semantico. Ecco, una scelta così forte potrebbe avere una funzione più centrale dialogando con le altre strofe secondo un disegno (grafico, ritmico o semantico) più organico. Questo consegnerebbe al lettore una giustificazione maggiore dello strappo, dando maggiore profondità a tutto il gioco grafico.",
+                "Nell'ultima strofa ritrovo un lavoro più articolato sulla sintassi: inarcature, frasi sospese e una buona chiusura.",
+                "Il messaggio fa parte del tuo stile, funziona e arriva bene. Per il resto ho smontato alcune parti per vedere assieme se coincide con quello che volevi dire. Come sempre prendi quello che ti è utile.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-11-16T11:20:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45228-atto-v-scena-i-cucina//?do=findComment&comment=800056"
+        }
+    ],
     "text": [
         "Atto V, scena I. Cucina",
         "____________________________________________________",
