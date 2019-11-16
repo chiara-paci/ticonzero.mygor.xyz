@@ -12,40 +12,13 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 1.0,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Ciao",
-                    "a me il racconto è piaciuto. è condito da un atmosfera credo davvero appropriata al genere (dico credo perché del genere non sono affatto un cultore). L'inquietudine c'è tutta... forse lo spavento no... ma poco mi interessa, francamente, mi interessa più l'inquietudine.",
-                    "Se devo individuare un difetto, forse è nella frammentarietà degli elementi che dissemini a profusione senza troppo tornarci su: l'insofferenza dei personaggi per i rumori e per le luci, la ragione del tatuaggio a Y, l'accenno al fatto che hanno provato con altri elettrodomestici e non ha funzionato, che lascia intuire l'intenzione di provare a \"normalizzarsi\" più che tendere all'epilogo che hai dato alla storia. Ecco, questa frammentarietà è un po' un'arma a doppio taglio, perché se è vero che è anche suggestivo che la narrazione proceda per pennellate, è anche vero che un senso di incompletezza un po' lo lascia.",
-                    "Comunque, ripeto, nel complesso mi sembra una prova riuscita",
-                    "Pulci livello rompiscatole",
-                    "Questa frase mi ha stonato per diversi motivi. Penso che \"Attorno a noi\" possa andare via: è superfluo e spiazza un po', perché poi dai anche un altra indicazione circa la posizione dicendo \"davanti\". Il senso è chiarissimo, ma visto che cambia poco toglierei. E poi quell'\"Intenti\": a voler essere pignoli, nel momento in cui vi passano avanti, non sono ancora intenti, ma stanno per esserlo.... scriverei più semplicemente così: dei clienti ci passano davanti per gettare un'occhiata al prodotto esposto",
-                    "solo lei? Non si faceva prima a scrivere \"[...] troppo piccolo, irradiati﻿ dai colori [...]\"",
-                    "anche \"accorrere\" mi stona, un po' per lo stesso motivo di cui sopra, l'accostamento dell'indicazione dietro di me. Forse \"accorre a me\" mi avrebbe stonato meno, ma comunque mi avrebbe stonato. Penso che sia più naturale optare per il semplice verbo correre, in questo contesto accorrere mi sembra un po' forzato",
-                    "rovesciandosi? rovinando? Potrei sbagliarmi, ma riversare in genere indica il fuoriuscire da qualcosa, e in genere si dice di liquidi, della folla... di un televisore non lo direi... ma, ripeto, magari mi sbaglio io eh",
-                    "Ecco! Qui sì che riversare mi sembra appropriato",
-                    "Altri refusi non ne ho trovati, o mi sono sfuggiti.",
-                    "A rileggerci presto"
-                ]
-            ],
-            "timestamp": "2019-10-26T15:56:37Z",
-            "title": "[H2019] Interitus",
-            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795695",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -53,7 +26,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 4658,
-    "num_commenti": 1,
+    "num_commenti": 0,
     "num_posts": 27,
     "post_after": [
         {
