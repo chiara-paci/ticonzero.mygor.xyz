@@ -46,7 +46,7 @@
     },
     "num_chars": 7997,
     "num_commenti": 1,
-    "num_posts": 37,
+    "num_posts": 38,
     "post_after": [
         {
             "post_id": 795492,
@@ -208,6 +208,14 @@
             ],
             "timestamp": "2019-11-11T13:19:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=799169"
+        },
+        {
+            "post_id": 800066,
+            "text": [
+                "grazie per essere passato e grazie per l'apprezzamento. Il cambiamento temporale è una scelta che adopero in quasi tutti i miei racconti. Preferisco raccontare l'antefatto con l'imperfetto per poi passare al presente in modo da mettere il lettore davanti allo svolgimento della storia e così coinvolgerlo di più (immagino)."
+            ],
+            "timestamp": "2019-11-16T12:27:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/44974-h2019-il-conte-filippo//?do=findComment&comment=800066"
         }
     ],
     "post_staff": [],
