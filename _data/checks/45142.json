@@ -52,7 +52,7 @@
     },
     "num_chars": 413,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 799052,
@@ -76,6 +76,19 @@
             ],
             "timestamp": "2019-11-11T19:29:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera//?do=findComment&comment=799235"
+        },
+        {
+            "post_id": 800282,
+            "text": [
+                "Grazie, , sono molto contenta che questo piccolo testo ti sia piaciuto.",
+                "Grazie! Ho deciso di seguire l'uso di intitolare col primo verso (o porzione di esso), così non si \"arrabbia\" più con me per i titoli astrusi.",
+                "Infatti ci ho pensato parecchio. Poi ho deciso di non esagerare con gli enjambement , e ho notato il termine \"facebook\" in esatto parallelismo col gemello seguente. Mi è piaciuto l'effetto e ho lasciato così.",
+                "Bello questo paragone con la musica.",
+                "Hai colto in pieno la volontà di rallentare il ritmo. Riguardo agli stacchi dei versi, essi mi appaiono come il montaggio in un film: montando diversamente le stesse identiche scene ti trovi di fronte a un film diverso.",
+                "Grazie per aver letto e per il commento simpatico e attento."
+            ],
+            "timestamp": "2019-11-17T17:16:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45142-sei-d%C3%A9mod%C3%A9%C2%A0mi-fa-la-parrucchiera//?do=findComment&comment=800282"
         }
     ],
     "post_staff": [],
