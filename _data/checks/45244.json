@@ -55,8 +55,17 @@
     },
     "num_chars": 4507,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800315,
+            "text": [
+                "che dire? Sono sinceramente commosso. E non posso che condividere la maggiore correttezza dell’uso della parola “netturbino”. Avrei dovuto avere coraggio."
+            ],
+            "timestamp": "2019-11-17T19:37:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800315"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno",

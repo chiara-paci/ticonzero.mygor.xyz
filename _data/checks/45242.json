@@ -89,8 +89,20 @@
     },
     "num_chars": 10370,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 800311,
+            "text": [
+                "Ben ritrovato , sono contento che il racconto ti sia piaciuto.",
+                "Per quanto riguarda il suicidio di massa dei dinosauri, volevo proprio trovare qualcosa che ribaltasse le conoscenze che ormai diamo per certe riguardo la loro estinzione e questa è l'idea migliore che mi è venuta, restando fedele alla sottile nota umoristica che permea l'intero racconto.",
+                "Riguardo invece la fine destinata all'essere umano... forse il protagonista non ha voluto rivelarcela per un motivo.",
+                "Grazie per la lettura e il commento, a rileggerci!"
+            ],
+            "timestamp": "2019-11-17T19:17:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=800311"
+        }
+    ],
     "post_staff": [],
     "text": [
         "È stato facile, ancor più si possa credere. In teoria tutti possono farlo, l’unica differenza tra me che ci sono riuscito e voi che siete ancora lì è una pura questione di casualità. O destino, se preferite. Posso spiegarvi come ho fatto, se avete un po’ di tempo. Io ne ho quanto ne voglio. O non ne ho affatto, che è praticamente la stessa cosa.",
