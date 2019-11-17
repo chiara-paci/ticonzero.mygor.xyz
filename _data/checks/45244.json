@@ -55,7 +55,7 @@
     },
     "num_chars": 4507,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800315,
@@ -64,6 +64,15 @@
             ],
             "timestamp": "2019-11-17T19:37:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800315"
+        },
+        {
+            "post_id": 800354,
+            "text": [
+                "Neda è il nome di una ninfa che allevò Zeus infante. Significa Onda ma, secondo altre traduzioni, può indicare il rumore dell’onda o lo stormire di rami (la trovavo adatta per Neda-città XD )",
+                "Riguardo il cartello d’ingresso: per me c’è, ma nessun abitante della città l’ha mai notato."
+            ],
+            "timestamp": "2019-11-17T21:45:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800354"
         }
     ],
     "post_staff": [],
