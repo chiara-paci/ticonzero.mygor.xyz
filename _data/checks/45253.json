@@ -12,13 +12,47 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , bentrovato! È da un po' che non ti leggo.",
+                    "Curioso l'incipit, che catapulta subito il lettore nell'ambiente in cui si trova il protagonista.Ti è sfuggito un ' di troppo dopo più. È grato (probabilmente non hai sulla tastiera lettere accentuate). Non mi convince la preposizione contro in relazione al sole, direi piuttosto da: È grato agli alberi di fornirgli almeno quella piccola protezione dal sole. Oppure, se vuoi mantenere la tua preposizione, potresti mettere: contro i raggi solare. Quei puntini di sospensione dopo combattere sono proprio necessari? Li leverei, non c'è, come dire, una scena ad alta tensione per cui il lettore deve tirare il sospiro e fare una pausa.",
+                    "È spacciato ecc. Via la virgola dopo ha, non ci va. Il lettore ha già appreso, nell'introduzione, che il bosco è fitto. Qui potevi approfondire l'ambientazione con qualche immagine in più, che mi faccia vedere com'è questo bosco attraverso i colori, i rumori, perché no anche gli odori. Qualcosa che mi faccia percepire l'ambiente ma anche le sensazioni che Orlando prova mentre si aggira per questo bosco oscuro.",
+                    "Qui ti suggerirei qualche piccola modifica per rendere più chiaro il passaggio, o meglio per far vedere la scena senza raccontarla: Arriva a una radura e si appoggia a un albero caduto per riprendere le forze. Le palpebre calano, il respiro rallenta. Rilassata, la sua mente vola ai momenti felici: l'addestramento per diventare un guerriero, le campagne militari ecc. Non andrei a capo perché i ricordi che gli affiorano alla mente fanno parte della stessa scena. Poi: Il Re stesso aveva assistito alle sue gesta, perché al rientro dall'ultima (ci vuole la preposizione da) lo aveva chiamato al suo cospetto e gli aveva dato dell'eroe di fronte a tutti (è solo un suggerimento per evitare di ripetere il verbo chiamare due volte di seguito) ecc.",
+                    "Dopo i puntini di sospensione non andrei a capo: Ricorda bene quei momenti, una lotta furiosa contro due soldati esperti... era stato fortunato quella volta, pur ferito alla coscia, e alla fine li aveva uccisi entrambi: c'era una cicatrice bella evidente sulla sua gamba a ricordargli l'episodio.",
+                    "Usi un po' troppi punti di sospensione per i miei gusti Che ne diresti di una piccola modifica: Ma poi era arrivato il nemico a distruggere tutto... tutto!",
+                    "Sente un rumore, qualcuno sta arrivando: estrae la spada. Non può essere nulla di positivo. E infatti, un uomo esce urlando da dietro gli alberi (perché dal bosco? Non sta già dentro al bosco? ) e brandisce un normale rastrello di campagna. Non è un soldato, ma un normale contadino, e lo attacca con furore. (Rabbia cieca a parte di essere un termine usato e strausato, è di troppo e così toglie la forza all'immagine del contadino che è all'attacco di Orlando, lascerei solo lo attacca con furore)",
+                    "Ora Orlando cerca di muoversi il più velocemente possibile, sa che gli altri sono molto vicini: lo stanno braccando.",
+                    "Sente delle urla dietro di lui. Due uomini l'hanno raggiunto, anche questi contadini prestati alla lotta: uno porta un normale attrezzo per il lavoro in campagna (o dici subito che è una mazza, o eviti, sembra uno spiegone), l'altro una spada.",
+                    "Sappiamo che ha una spada, eliminerei. Orlando si sposta verso quest'ultimo e cerca di affrontarlo per primo.",
+                    "Ora rimane l'altro uomo, che è sconcertato dalla facilità con cui Orlando ha ucciso il suo compare, ma si fa sotto lo stesso. Anche questo lo attacca furiosamente, perendo in modo rapido. Orando non guarda nemmeno i due uomini a terra, continua a camminare. Sa di non avere scampo. Non mi convince la frase: lo raggiungeranno in numero. Lui è solo, quindi loro sono in un numero superiore. Metterei solo: Prima o poi lo raggiungeranno e lo uccideranno: è una certezza intima questa.",
+                    "Oltrepassa una cassetta tenendosi a distanza. Evita anche il guado del fiume: il nemico potrebbe essere ovunque (non mi convince uscire ovunque).",
+                    "Questa volta è un soldato. Il nuovo arrivato brandisce una spada enorme. Sembra essere dotato di una forza straordinaria. (Se dici deve essere mi devi anche far vedere qualcosa che possa giustificare la certezza di Orlando che questo tizio è forte. Solo perché ha una spada enorme? Mi sembra poco per dargli questa connotazione. )",
+                    "Spezzerei la frase, mentendo il punto dopo repentinamente.",
+                    "Ricomincia a muoversi. Ha una sete pazzesca ora. Cerca un corso d'acqua, non può farne a meno: ne va della sua sopravvivenza.",
+                    "Non fa piani nella sua mente. Non ha un posto deve andare o dove rifugiarsi. Purtroppo deve vivere al momento.",
+                    "Visto il suo smarrimento di prima, dici infatti che non sa dove andare o dove rifugiarsi, stona quel: Sa che in quella zona ci dovrebbe essere un laghetto. Direi magari: Gli balena alla mente il ricordo di un lago proprio in quella zona.",
+                    "Accipicchia che finale! Inatteso, per carità, ma non tanto coerente con il resto. Insomma, carichi dall'inizio alla fine il lettore con delle caratteristiche di questo grande condottiere, suppongo è una rivisitazione del grande Orlando il furioso. Conosciamo, forse troppo, la sua vita da soldato, attraverso i flashback dal passato; poi lo vediamo in questo bosco fitto, che rimane però molto sfocato come ambientazione, dove viene attaccato dai diversi personaggi che non riescono a sopraffarlo eppure si sente, come dire, che fosse in costante pericolo, avendo alle calcagna il nemico non al meglio identificato, terrificante quanto dici nel titolo. Insomma crei delle aspettative che vengono smontate in due - tre frasi finali: un po' troppo poco per dire che l'accostamento nemico/erezione è riuscito. Per me, eh. Potevi concentrarti per di più sul suo conflitto interiore, come lo chiami, e sull'incontro finale con le ragazzine ignare della sua presenza, ridimensionando la parte sulle sue gesta eroiche: così avresti guadagnato nei caratteri e nello spessore. Il tono epico, che hai dato alla narrazione, si sposa male con quel finale semicomico - così l'ho visto io, è una questione di gusti sicuramente - tanto che mi è sembrata, scusa la franchezza, una presa per i fondelli del lettore.",
+                    "Il racconto di per sé non è male, infatti è stata comunque una piacevole lettura, ma ha bisogno di tanti altri componenti, più visibili e meno raccontati, per risaltare il personaggio di Orlando, rafforzando l''ambientazione e la parte descrittiva dei combattimenti, anche essi troppi, che risultano spesso concitati: insomma, tutto succede molto in fretta. In più, dovresti fare più attenzione alla punteggiatura e alle maiuscole, che non servono a esaltare un concetto: non gridarmi insomma quanto è grande Orlando, o quanto grande è la sua paura: mostramela. I punti di sospensione a volte servono, non dico che non vanno usati, ma non vanno abusati, ecco. Fa' più attenzione, insomma. In conclusione: una storia carina, piacevole, ma migliorabile dl punto di vista tecnico e della trama. A rileggerci!"
+                ]
+            ],
+            "timestamp": "2019-11-17T14:59:26Z",
+            "title": "Un nemico terribile",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800256",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +60,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7523,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

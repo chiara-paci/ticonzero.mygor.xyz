@@ -12,13 +12,44 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao. La storia ha un grande potenziale, secondo me, essendo imperniata sul binomio caso-fato. Al caso che porta le due amanti a incontrarsi si unisce il fato dell'incidente finale. C'è anche un filo rosso basato sul perdersi-ritrovarsi-perdersi che è molto potente e rafforza il presente che si sta raccontando. Ho però trovato molti aspetti rivedibili per una maggiore resa complessiva. Riguardo la forma, in generale ti direi di dare una maggiore uniformità sintattica nei tempi verbali (dal presente si passa al passato poi di nuovo al presente) e un uso più parsimonioso della virgola e degli incisi (che contribuiscono a doverle mettere).",
+                    "Entrando più nello specifico ti lascio di seguito alcune segnalazioni e mie impressioni personali.",
+                    "Questi due incisi sono utili alla storia? Secondo me no.",
+                    "Partiamo dal primo. Dato che la Jeep è nuova non può farlo da tutti giorni ma solo dal momento che ha avuto l'auto (\"tutti i giorni\" quindi può essere quanto? Tre mesi, quindici giorni, quattro?)",
+                    "Veniamo al secondo. Ai fini del racconto ha una utilità sapere che l'auto gliela ha regalata il fratello? Perché? Perché è tanto generoso (una Jeep nuova non sono bruscolini) e non le ha regalato un'auto più economica?",
+                    "Infine \"l'argine del Po\" risulta slegato. Essendo un incipit troverei quindi una formula più lineare (es: Di ritorno a casa, Adines, per tutti Ines, procedeva lungo l'argine del Po con la nuova Jeep. Era un regalo di suo fratello Aristide e ancora non si capacitava di tanta generosità, ma lui aveva insistito perché....).",
+                    "Ineccepibile la forma d'origine ma lo tradurrei col cappellino da baseball.",
+                    "Va bene il ricordo, ma trovo che poi si riveli per essere un po' un infodump.",
+                    "1- Dal momento che sta ricordando dovrebbe riferirsi a lei direttamente ( ma lei , grazie al suo fisico...).",
+                    "2- Meglio tra parentesi.",
+                    "3- Superfluo. (Es: Per quella reazione troppo violenta, sommata a piccoli precedenti...).",
+                    "4- Lei.",
+                    "5- Lei la amava.",
+                    "6- Quest'ultima parte è quella che trovo debordi dal ricordo in sè e lo vedo più introduttivo alla successiva fermata da Zia Nelly.",
+                    "La trovo una forzatura per giungere agli eventi successivi. Quantomeno per rispetto verso la persona che ha preso a bordo: stava chiedendo un passaggio non un pranzo.",
+                    "Grazie per avermi fatto conoscere un termine nuovo."
+                ]
+            ],
+            "timestamp": "2019-11-17T19:29:10Z",
+            "title": "L'ultimo passaggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45118-lultimo-passaggio//?do=findComment&comment=800313",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +57,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 3812,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

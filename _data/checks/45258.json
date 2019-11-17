@@ -1,0 +1,142 @@
+{
+    "author": {
+        "author_id": 15766,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Ghigo",
+        "url": "https://www.writersdream.org/forum/profile/15766-ghigo/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8255555555555556,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8255555555555556
+            },
+            "text": [
+                [
+                    "refuso all'ingresso",
+                    "Fine citazione",
+                    "Questo passaggio non l'ho capito",
+                    "Allora questo racconto ha un grosso difetto. Non tutti possono capirlo. E' un racconto simpatico ma fine a se stesso fuori dagli ambiti di un contest. Alcuni passaggi sono risultati incomprensibili anche a me che comunque frequento il sito, anche se non assiduamente. Le frasi spesso sono troppo brevi e lasci l'argomento appena iniziato. Il mio consiglio è di riprendere questo brano senza fretta e infarcirlo ancor più di ironia. POtrebbe venirne fuori davvero un bel pezzo. Magari un po' di satira anche non guasterebbe. Però devi cercare di arrivare anche a chi, fuori da quest'ambito, può capirne poco o nulla.",
+                    "Per quel che ho capito, però, alcuni passaggi davvero divertenti. Quando prendi un argomento svisceralo, non uscirne subito per la fretta di passare al successivo."
+                ]
+            ],
+            "timestamp": "2019-11-17T22:47:43Z",
+            "title": "[MI130] La città del WD",
+            "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800372",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7487,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 800385,
+            "text": [
+                "Col copia incolla fatto con la furia dal documento word ho lasciato fuori le ultime parole. Posso aggiungerle qui?",
+                "(oppure se qualcuno può modificare)",
+                "Poi aprì la finestra e la neve entrò bagnandogli il viso già solcato da lacrime.",
+                "«Buon viaggio, papà» sussurrò, mentre le prime luci dell’alba facevano capolino a irradiare una nuova giornata.",
+                "Ho già visto pure un bel refuso \"Impronta\" non oso rileggerlo..."
+            ],
+            "timestamp": "2019-11-17T23:21:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=800385"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzanotte",
+        "Incontro notturno",
+        "Juri era sdraiato sul divano. Guardava una trasmissione noiosa senza seguirla veramente. Per fortuna era sabato, così avrebbe avuto ancora un giorno per ricaricare le batterie. Guardò dalla finestra, i fiocchi cadevano soffici per adagiarsi sul terreno già ricoperto di neve. Era bello essere in casa con quel tempo, con una tazza di tè bollente in mano e due biscotti di cui uno già mangiucchiato in un piattino.",
+        "Svogliatamente prese il telecomando e iniziò un po’ di sano zapping alla ricerca di una bella commedia. Gli si stavano già chiudendo gli occhi, quando qualcuno suonò alla porta.",
+        "“Chi può essere?” pensò guardando l’orologio. Erano le undici di sera. Dall’occhiello vide una figura conosciuta.",
+        "«Papà!» gridò aprendo la porta. «Che sorpresa! Avresti potuto telefonarmi, però. Se ero con una ragazza?» scherzò.",
+        "Il papà, alto e fiero, con una giacca leggera nonostante il freddo, come sempre. Sorrise e lo abbracciò.",
+        "«Volevo farti una sorpresa. Se Maometto non va a Kazan...» scherzò. I genitori e la sorella di Juri vivevano a Mosca, ma si erano trasferiti a Kazan, lui era rimasto nella capitale, invece. Aveva tentato la fortuna e ci era riuscito, era direttore del reparto commerciale di una famosa multinazionale.",
+        "Juri notò il volto del papà, non lo vedeva da almeno due anni. Gli ricordò uno Shar Pei, pieno di rughe di vita vissuta.",
+        "I due si guardavano. Il padre rivedeva la sua gioventù sul volto del figlio, e il figlio guardava il padre come in una foto del proprio futuro.",
+        "«E come sta la mamma? E Ira?» lo incalzò Juri.",
+        "«Stanno benone» sorrise il padre, accompagnando le parole con un gesto della mano come a voler tagliare la conversazione.",
+        "«Perché non le hai portate con te? Mi avrebbe fatto tanto piacere».",
+        "«Secondo te la mamma prende il treno? Di notte, oltretutto... e Ira lo sai, senza mamma non si muove, prende ancora la puppa tre volte al giorno». Juri rise, pensando alla sorella di venticinque anni. «Io, invece, morivo dalla voglia di vederti».",
+        "«Ora ti preparo la camera degli ospiti...»",
+        "Il padre sorrise. «Non ci pensare nemmeno. Non mi tratterrò molto. Però ho le gambe rattrappite, fra treno e metropolitana e ancora autobus per venire qui da te e vorrei fare due passi».",
+        "Juri guardò fuori, la neve che cadeva. Guardò la sua tazza di tè che già non fumava come prima. E annuì.",
+        "«Certo che andiamo a fare due passi».",
+        "«Ci avrei giurato» sorrise il padre mettendo una mano sulla spalla del figlio. Come si alzò, volò un bottone della giacca, che rotolando andò a finire sotto il divano. Juri fece per spostare il divano ma il padre lo fermò. Dal taschino tirò fuori un altro bottone.",
+        "«Succede spesso, me lo faccio cucire da mamma o da Ira quando torno a Kazan. Ho il treno domani».",
+        "«Perché solo un giorno ti fermi?»",
+        "Il padre fece spallucce. «Mamma e Ira non sanno che sono venuto da te».",
+        "«Aspetta, forse le devo chiamare? Saranno preoccupate!»",
+        "«No, no, sanno che dovevo andare da un amico ma che sarei ritornato per domenica sera. Sono pur sempre dodici ore e mezzo di treno».",
+        "«Lo so».",
+        "I due uscirono insieme, lascianod pesanti impronte nella neve fresca appena caduta. Un deserto bianco si apriva ai loro occhi. Il cielo quasi rosso in contrasto al bianco.",
+        "Non c’era umidità, quindi la temperatura era accettabile. Il papà gli indicò un palazzo.",
+        "«Guarda quelle luci accese. Ricordi quando eri piccolo a cosa giocavamo?»",
+        "Il ragazzo non ebbe bisogno di sentirselo dire. Inventavano chi ci viveva e cosa facevano. Spesso inventavano cose assurde, ma andava sempre a finire che la gente nelle case faceva cose sporche.",
+        "«Secondo me in quella ci sono due donne. Aspettano impazienti un uomo. Sai per cosa fare?»",
+        "«L’amore?» suggerì il padre.",
+        "«No, giocare a Monopoli». Entrambi risero, anche se la battuta non era assolutamente divertente.",
+        "Entrarono nel parco. I laghetti erano già ghiacciati e le anatre erano già volate altrove. Mica sceme.",
+        "Guardarono una collinetta. Gli occhi del padre parvero sognare.",
+        "«Ricordi quando scendevi da queste collinette da bambino?»",
+        "Juri sorrise, lo ricordava alla perfezione.",
+        "«Che paura avevo la prima volta... ma poi tu scendesti con me e fu divertentissimo».",
+        "«E volesti ancora, e poi ancora e poi ancora. Quando arrivammo a casa, mamma era preoccupatissima, i cellulari ancora non c’erano. Ora basterebbe un messaggino con whatsapp».",
+        "«Dimmi quando vuoi tornare a casa, se vuoi riposarti prima di ripartire».",
+        "«No, mi piace camminare di notte. Tanto avrò tempo per dormire in treno».",
+        "Juri notò la neve che, illuminata dai lampioni, sembrava un sentiero di diamanti luccicanti. Gli alberi, completamente spogli, avevano i rami pieni di neve. Il parco sembrava il classico bosco delle fiabe che il papà gli leggeva prima di andare a letto.",
+        "«Quando c’è la neve non fa mai veramente buio» disse il padre. «Tutto è rischiarato».",
+        "Juri annuì.",
+        "«Ti ricordi quando per scommessa bevesti così tanto che non potevi reggerti in piedi e la mamma si arrabbiò così tanto che non voleva farti entrare in casa?»",
+        "«Sì, ma con i soldi della scommessa ti comprai una bicicletta, e non sai quanto dovetti ammattire, in quei tempi non potevi comprare nulla».",
+        "«Rossa fiammante. Me la invidiavano tutti».",
+        "I due sorrisero, erano già arrivati di nuovo vicino alla casa di Juri.",
+        "«Sali, papà. Beviamo qualcosa. Se resti ancora ti pago io poi il treno».",
+        "«No, Jura, volevo vederti e passare con te un po’ di tempo. L’ho fatto. Sono molto contento. Tra poco sarà giorno e io voglio mantenere la parola data a mamma».",
+        "«Lei non sarebbe contraria» insisté Juri.",
+        "«No, davvero. Mi ha fatto proprio piacere vederti» e abbracciò il figlio. «Torna a Kazan, qualche volta».",
+        "«Prendo la macchina e ti accompagno».",
+        "«Non se ne parla nemmeno. Vai a letto che poi lunedì devi lavorare, tu. Io voglio camminare e voglio godermi ancora un po’ Mosca».",
+        "Poi si voltò e fece alcuni passi.",
+        "«Papà?»",
+        "Si girò. «Sì?»",
+        "«Ti voglio bene». Forse non glielo aveva mai detto a parole. Glielo aveva dimostrato. Ma quella volta pensò di volerlo ribadire.",
+        "«Lo so. Non c’è bisogno di dirlo. Ma mi ha fatto piacere. Anch’io te ne voglio».",
+        "Juri osservò la sagoma del padre allontanarsi fino a diventare un puntino e venire inghiottia dal buio della notte.",
+        "Rientrò in casa. Il tè ormai era freddo. Accese il bollitore. Poi prese il telecomando e si mise sul divano. Posò il telecomando, non aveva voglia di vedere la TV. Andò alla finestra quando squillò il telefono. Era Ira, sua sorella.",
+        "«Ciao, Ira! Non ci crederai mai! O forse l’avevi intuito...»",
+        "«Me lo dici dopo, Jura. Ho chiamato per dirti che papà è morto».",
+        "Per Juri fu come se un tir lo avesse centrato in pieno, poi fosse passato di nuovo in retromarcia.",
+        "«Quando è successo?» le parole pesavano un quintale.",
+        "«Alle undici, dolcemente, sulla sua poltrona preferita».",
+        "«Verrò a Kazan per il funerale». Così avrebbe voluto il papà.",
+        "«Ci conto. Scusa, cosa mi volevi dire?»",
+        "«Nulla, non ha importanza, roba di lavoro» mentì.",
+        "Mise giù e guardò dalla finestra. La neve aveva già cancellato le impornte. Forse aveva solo sognato quell’incontro, mentre guardava quella noiosa trasmissione? Sembrava tutto così vero...",
+        "Aveva sentito dire, una volta, che nell’attimo esatto in cui una persona muore, se eri molto legato a questa, puoi avvertirne la presenza, tanto da vederla in sogno. Eppure sembrava tutto così reale. Poi un luccichio da sotto il divano. Juri si chinò e allungò la mano. Il bottone. Quel fottuto bottone. Lo prese e lo annusò. Lo guardò e se lo rigirò tra le mani come una moneta rara. Poi aprì la finestra e la neve entrò bagnandogli il viso già solcato da lacrime."
+    ],
+    "timestamp": "2019-11-17T22:52:51Z",
+    "title": "[MI 130] Incontro notturno",
+    "topic_id": 45258,
+    "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno/"
+}

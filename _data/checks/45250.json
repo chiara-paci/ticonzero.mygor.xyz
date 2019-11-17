@@ -12,13 +12,52 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "Come mio solito non farò, su questo tuo lavoro, ciò che non sono in grado di fare, ovvero un commento tecnico,",
+                    "cosa che assai egregiamente vedo che hanno fatto, con dovizia, i nostri amici.",
+                    "Come di consueto devo complimentarmi con te anche in questo racconto inserito nel Contest di Halloween 2019,",
+                    "celebrandone in maniera superba il tema.",
+                    "Ci sono due cose che mi vengono a mente: la prima è quella cara alle atmosfere di alcuni romanzi di Charles Dickens, nel descrivere",
+                    "le situazioni del disagio infantile, quando racconta le vicissitudini il terrore per un mondo ostile e crudele, le sofferenze di un bambono nelle mani di un patrigno dispotico o di un maestro di scuola tirannico.",
+                    "Nel Dickens, all'interno di tali racconti, si respira l'atmosfera cupa e talvolta miserabile, ambiantate nel sottoproletariato urbano di una Londra",
+                    "Vittoriana di fine '800 che ci fa gioco immaginare in bianco e nero, dove si consumano nel degrado sociale i mostruosi sopprusi con vittime infantili.",
+                    "L'altra è Sussurri e Grida , il noto film di Ingmar Bergman, nel quale Agnes come nel tuo racconto è il nome della protagonista.",
+                    "\"Quando una donna muore, la sua anima si ribella e dal suo cadavere si levano lamenti strazianti.\" si dice nel film, che è intriso della",
+                    "identica ansiosa e soffocante angoscia che pervade la tua storia.",
+                    "L' horror è costellato di figure infantili che subiscono o scatenano terrore, dovremo averci ormai fatto il callo, ma il tuo racconto illustra con mano assai forte il dramma interiore di una bambina non amata, resa oggetto di rancore e odio superstizioso da una madre e da un padre dai tratti diabolici.",
+                    "In questo, ma non è certo un demerito, sembri voler infierire con la descrizione quasi sadica di un contesto umano profondamente malato, in grado di esprimere livelli di disamore abbruttenti e feroci.",
+                    "Ci presenti la stessa condizione psicologica disarmante, di violenza e terrore, presenti di una bimba abusata.",
+                    "Con le angosce di una colpa immane che le vienene ingiustamente imputata e che la precipita nel rifugio di in un mondo interiore onirico,",
+                    "fatto di incubi, neppure nel quale trova pace.",
+                    "Trovo molto realistica e convincente la risposta fisica, allo stato di sofferenza interiore, della bimba che la notte bagna il letto.",
+                    "E questo fatto diviene, per i due sciagurati genitori, un ulteriore motivo per arrecarle tormento.",
+                    "Il tuo lettore viene sconvolto dal clima opprimente che pervade il racconto, dove assiste impotente alla dissoluzione, crudele e sistematica della personalità della piccola protagonista, davanti ad ogni nuovo motivo d'angoscia.",
+                    "Riesci a creare ad arte un malessere crescente e inevitabile fino all'ultima riga.",
+                    "Non è la prima volta che scrivo lodi per questa tua mano che sa graffiare nel profondo, con uno stile narrativo fluido ed elegante,",
+                    "lo dimostri cimentandoti con ottimi risultati, come nella presente occasione, in tutte le tematiche che affronti.",
+                    "Complimenti ancora e un abbraccio. Alla prossima."
+                ]
+            ],
+            "timestamp": "2019-11-17T20:22:01Z",
+            "title": "[H2019] I fratellini",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=800330",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +65,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 8023,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [
         {

@@ -12,13 +12,46 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "piacere di conoscerti e di leggerti (credo che sia il primo testo tuo che leggo). Vedo che mi hanno preceduto due commentatori che sono scesi nel dettaglio e spero di non ripeterti le stesse cose. Nel caso mi scuso in anticipo, spero che possa esserti utile comunque, per lo meno come conferma di eventuali problemi o suggerimenti.",
+                    "La prima frase dell'incipit non mi convince molto.Mi suona come se mancasse qualcosa. Il soggetto e protagonista della storia viene presentato poche righe dopo, è vero, però a me da lettrice ha un po' spiazzato. Forse si potrebbe anticipare alla prima riga, credo che suonerebbe meglio. In generale trovo che sia un incipit piuttosto suggestivo e dinamico, che introduce bene sia il personaggio che l'ambientazione.",
+                    "Vedo che nel testo usi in maniera molto marcata sia gli a capo che i puntini di sospensione. Inoltre a volte vai a capo e mantieni la minuscola a inizio del nuovo paragrafo. Sicuramente è una scelta voluta, forse per creare un effetto di sospensione sognante. Ti segnalo però che questa intenzione, sempre che io abbia capito quale fosse e non abbia travisato, non mi risulta abbastanza chiara da giustificarla. Forse bisognerebbe calibrare meglio questo aspetto poiché l'uso che ne fai non è per niente canonico.",
+                    "Io metterei \"al rientro dall'ultima\".",
+                    "Si capisce cosa vuoi dire, ma questa frase espressa così non appare coesa con il testo che precede e che segue.",
+                    "Refuso: E poi",
+                    "Rispetto a quanto ti dicevo prima, in questa parte è più chiaro il perché usi gli a capo e i puntini di sospensione. Qui si legge chiaramente l'intenzione che vuoi esprimere.",
+                    "Metterei una virgola o un punto e virgola dopo possibile.",
+                    "Spezzerei in due frasi perché risulti più chiaro.",
+                    "Ci vorrebbe una pausa dopo lui.",
+                    "Qui un editor ti segnalerebbe la presenza di tre avverbi in -mente a distanza ravvicinata.",
+                    "Questa frase è un po' troppo lunga e con diversi cambi di soggetto che non la rendono scorrevole.",
+                    "Metterei una virgola dopo meno.",
+                    "Toglierei la virgola dopo posto.",
+                    "Toglierei il punto esclamativo, la fine è già forte così com'è.",
+                    "A parte alcune imprecisioni formali il racconto mi è piaciuto. Non mi aspettavo questo finale. Mi sono sembrate ben descritte le scene di lotta, mi piacciono molto i duelli con le spade. L'idea di un paladino come Orlando che si trasforma in un maniaco mi piace, forse curerei meglio le parti che precedono il finale (lasciando al tuo uso non canonico di a capo e puntini le parti in cui c'è il suo conflitto interiore).",
+                    "Alla prossima!"
+                ]
+            ],
+            "timestamp": "2019-11-17T18:31:12Z",
+            "title": "Un nemico terribile",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800297",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +59,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 3957,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],

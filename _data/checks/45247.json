@@ -12,13 +12,51 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Sono rimasto un po’ spiazzato leggendo questa interpretazione del paladino Orlando, forse perché conservo ancora nella memoria la sua leggendaria figura studiata ai tempi in cui nelle scuole medie c’era anche l’Epica come materia, oltre al latino.",
+                    "Per me Orlando era quasi una figura monastica, un cavaliere Templare ante litteram, quasi un monaco combattente che per sfuggire a quel suo nemico interno non avrebbe esitato a usare su se stesso il flagello, come molti in effetti facevano a quei tempi, cavalieri e monaci.",
+                    "Più che liberarsi verso il cielo gli alberi potrebbero librarsi, innalzarsi verso il cielo, penso.",
+                    "In effetti hai ragione: le corazze di quell'epoca erano molto pesanti, potevi combattere se eri disarcionato dal cavallo e compiere dei movimenti dove ti trovavi, per quanto se fosse caduto di lungo a terra avrebbe avuto molte difficoltà a rimettersi in piedi velocemente, ma in quanto a camminare a lungo in una foresta così bardato mi vengono dei dubbi. Gli avrei fatto togliere per lo meno gli schinieri, cioè i gambali di ferro e i cosciali, lasciandogli solo la lorica, cioè il pettorale in ferro e l'elmo. Con le gambe poteva muoversi relativamente più veloce e inoltre, mettendo questi particolari il pezzo potrebbe essere più accattivante, plausibile come movimentazione del personaggio in quelle condizioni. Ma è quello che avrei forse scritto io, una questione puramente personale, non certo una regola.",
+                    "Rilassarsi mi sembra un termine troppo moderno, tipico dei film di cavalieri fatti dagli americani, che ogni tot, in qualunque epoca ambientino i film, sentono il bisogno di far \"rilassare\" i protagonisti.",
+                    "Un semplice riposare andrebbe più che bene e dopo tutta quella strada bisogna anche pensare che a causa dell'armatura doveva essere in un bagno di sudore e avere bisogno di acqua fresca da bere.",
+                    "La frase va bene, ma concettualmente è troppo \"moderna\". Un cavaliere, prima di diventare tale sicuramente si addestrava, ma non nel senso in cui potremmo pensare noi moderni. Di solito veniva affiancato fin da ragazzo a un maestro d'armi o a qualche altro cavaliere, imparando da lui l'arte della spada e della cavalleria e poi, quando aveva dimostrato di avere appreso, se nobile veniva nominato cavaliere.",
+                    "I suoi ricordi sono quelli tipici di un soldato, ma dovresti infarcirli anche con qualche accenno dell'ideale che avevano i cavalieri dell'epoca, cioè di buttare fuori i mori dalle terre cristiane, principale scopo della loro vita.",
+                    "Avrei specificato chi erano questi due soldati esperti. Potevano essere mori di Spagna oppure anche dei villani cristiani. Giusto per colorare.",
+                    "Può essere che la ragazza, per la gioia di non essere stata violentata si sia concessa a Orlando, forse un po' troppo presto, ma allora si viveva di meno, non bisognava sprecare il tempo...",
+                    "Ecco questa mi piace. Leggendo tutto il racconto e poi anche i commenti mi son fatto l'idea che il nemico fosse interiore.",
+                    "Qui dal mio punto di vista, non prenderlo per regola ripeto, solo dal mio punto di vista, si aprirebbero scenari fantastici e pagine e pagine di spiegazioni inerenti a questo; lo spazio di un racconto non sarebbe bastato.",
+                    "Il nemico era la concupiscenza, se non ho preso un colossale abbaglio, e per la rigida morale cristiana di allora, specie se si era cavalieri o peggio monaci, la si vinceva con penitenze, autoflagellazioni e cilicio. Nel personaggio ci stava, per quanto si tratti di rimedi alquanto drastici e curiosi per noi moderni. Ma avendo Orlando combattuto contro i mori, venendo a contatto con la loro splendida civiltà, potevi metterci uno spruzzo di esotismo e terminologia araba. I musulmani infatti, concepiscono che nella loro vita possono trovarsi di fronte a due combattimenti, alla jihad. La \"piccola\" jihad è la guerra vera e propria contro gli infedeli; e poi c'è la \"grande\" jihad, ben più importante per loro, la battaglia contro sé stessi. Orlando poteva farvi appello e ricorso con un certo sincretismo fra i due modi di essere, cristiano e arabo; magari perché aveva conosciuto qualche arabo, cosa plausibile.",
+                    "Mi rendo conto che si va troppo sul filosofico; dico queste cose nel caso volessi in seguito fare ricerche e approfondire, prolungare anche il racconto, che come idea trovo originale in ogni caso, qualunque cambiamento dei classici è sempre un notevole e divertente esercizio costruttivo.",
+                    "Non mi dilungo circa i combattimenti, in quanto non espertissimo del settore, per quanto qualche particolare gestuale e di postura in più non guasterebbe.",
+                    "Arrivati al dunque, al momento in cui vede le due bambine nude nel lago, nonostante tutti gli appelli contro la continenza, tutti i ricordi di castighi e fiamme dell'inferno, tutti i ricordi di qualche prigioniero arabo sulla lotta interiore siano stati inutili, non riuscendo a contenersi, la carne è debole si sa, io ragiono su una cosa, un particolare che forse ti è sfuggito.",
+                    "Orlando indossa l'armatura completa quando vede le bambine nude nel lago. Non può entrare con l'armatura nel lago, ci sono storie del passato che evidenziano come i nemici attaccassero i cavalieri in armatura preferibilmente quando attraversavano guadi d'acqua: se cadevano in acqua erano spacciati, affogavano, impossibilitati nei movimenti e appesantiti. Bastava scivolare e andavano sotto, chiusi in una scatola di ferro. Le bambine dell'epoca sapendo questo potevano allontanarsi nuotando libere.",
+                    "Orlando potrebbe togliersi l'armatura, ormai preso dal \"calore\" del nemico interno. Questa sarebbe la soluzione migliore, potrebbe fare così in effetti. Io però, preso dai ricordi del castigo divino che si insegnavano negli allora seminari minori, avrei optato per un'altra soluzione.",
+                    "Orlando si toglie l'armatura e va bene. Orlando è pazzo, va bene, può non essere pazzo, ma solo eccitato, e va bene.",
+                    "In un attimo di reminiscenza, per impedire a sé stesso di sollazzarsi perché poi dopo, risaputa la cosa, avrebbe avuto qualche problema, anche a quei tempi, come ultima possibilità gli avrei fatto conficcare la spada a terra, con la punta in alto e lo avrei fatto gettare con il petto sopra.",
+                    "Una gran bella morte, molto spettacolare, per quanto poco onorevole, non essendo un samurai.",
+                    "Idea originale e interessante la tua. A rileggerti."
+                ]
+            ],
+            "timestamp": "2019-11-17T18:45:03Z",
+            "title": "Un nemico terribile",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800305",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +64,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7939,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

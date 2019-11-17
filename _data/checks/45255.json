@@ -12,13 +12,40 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, , e bentrovato.",
+                    "Mi sono imbattuto un po’ per caso nel tuo testo, attirato dalla sua estetica. Non so se si tratta di un tuo preciso tratto stilistico o se è invece un esperimento, in ogni caso lo tratterò come testo a se stante.",
+                    "Ritengo che, per un testo come il tuo, la pulizia formale sia fondamentale. Se questo vale in generale, nel caso specifico credo debba essere maniacale la scelta di ogni singolo termine, del ritmo esatto di ogni frase, dell’immagine da creare e da restituire col massimo della vividezza. Dico questo perché per il lettore non c’è il tempo materiale per immergersi nella narrazione, per sentirsi coinvolto in uno specifico punto di vista, quindi occorre che ci sia una vera e propria sferzata, una trovata che renda il testo significativo pur nella sua brevità.",
+                    "A posteriori, posso dirti che l’idea di partenza ha senso rispetto alla forma che hai scelto: hai sfruttato due nomi e una situazione noti (almeno in potenza) a un vasto pubblico per azzerare un certo bisogno di spiegazioni pregresse, e hai rilasciato la zampata finale che, su di me, ha avuto un effetto positivo, strappandomi anche un sorriso compiaciuto.",
+                    "Nell’ottica, tuttavia, di un ragionamento più ampio, mi permetto di fare qualche considerazione sulla struttura delle frasi e su alcune scelte. Noto che hai scelto quasi sempre forme frasali lineari e snelle, che in quanto scelta rispetto. Proprio in virtù di questo tipo di sintesi e di ritmo serrato, con molti intervalli e pause dettate dai punti fermi, mi sono soffermato, trovandoli un po’ fuori posto, su alcuni elementi sporadici.",
+                    "Nello specifico, non sono convinto della tripletta di aggettivi che hai deciso di utilizzare per definire il colpo. In una estrema sintesi, una scelta più netta secondo me pagherebbe.",
+                    "Ho avvertito una traslazione del punto di vista usato dal narratore quando parli di come si sente Oloferne. La narrazione è condotta tutta attraverso lo sguardo di Giuditta, tranne nella frase:",
+                    "Aggiunto che, sempre a mio modesto parere, questa informazione può considerarsi superflua.",
+                    "Infine, valuterei qualche possibile variante nel momento in cui disveli il meccanismo stesso da cui nasce il racconto.",
+                    "Con questa forma, al netto della ripetizione della parola specchio che potrebbe essere rivista, penso che perdi qualcosa in termini di impatto.",
+                    "Prendi le considerazioni che trovi utili per il tuo gusto, il tuo pensiero sulla forma narrativa e, soprattutto, sulla base dei tuoi obiettivi.",
+                    "A rileggerti."
+                ]
+            ],
+            "timestamp": "2019-11-17T19:29:37Z",
+            "title": "Giuditta e Oloferne",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=800314",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +53,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7822,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

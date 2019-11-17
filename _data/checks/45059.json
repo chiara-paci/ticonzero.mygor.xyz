@@ -49,7 +49,7 @@
     },
     "num_chars": 672,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 797323,
@@ -67,6 +67,18 @@
             ],
             "timestamp": "2019-11-07T12:09:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=798572"
+        },
+        {
+            "post_id": 800359,
+            "text": [
+                "Grazie, le tue osservazioni colgono punti sui quali sono stato molto incerto.",
+                "Sui tre aggettivi sono d'accordo: va bene, forse meglio, anche senza nessuno dei tre.",
+                "Sulla variazione di punto di vista hai \"tecicamente\" ragione; peraltro, mi piaceva troppo l'immagine di O. che non sa che cosa stia succedendo mentre niente (gli) può più succedere. È una piccola licenza che tenderei a mantenere.",
+                "Circa lo specchio, potrebbe bastare \"dietro\" per far capire di che tipo di specchio si tratti, ma ho pensato che a non pochi sarebbe potuto essere poco chiaro.",
+                "Grazie per l'analisi approfondita, non escludo una versione aggiornata."
+            ],
+            "timestamp": "2019-11-17T21:59:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45059-giuditta-e-oloferne//?do=findComment&comment=800359"
         }
     ],
     "post_staff": [
