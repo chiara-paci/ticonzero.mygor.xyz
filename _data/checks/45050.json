@@ -58,7 +58,7 @@
     },
     "num_chars": 7979,
     "num_commenti": 1,
-    "num_posts": 35,
+    "num_posts": 36,
     "post_after": [
         {
             "post_id": 797009,
@@ -199,6 +199,15 @@
             ],
             "timestamp": "2019-11-15T14:23:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=799882"
+        },
+        {
+            "post_id": 800168,
+            "text": [
+                "Ciao , sei arrivato all'ultimo ma non non importa, grazie. Solo che scusa, non riesco a capire come potrei revisionare il brano in base agli spunti che mi hai dato. Il Pdv del finale mi è chiaro, un po' meno le frasi quotate .",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-17T08:43:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45050-h2019-i-fratellini//?do=findComment&comment=800168"
         }
     ],
     "post_staff": [
