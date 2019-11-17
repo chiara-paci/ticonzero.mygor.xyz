@@ -1,0 +1,120 @@
+{
+    "author": {
+        "author_id": 25223,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Nightafter",
+        "url": "https://www.writersdream.org/forum/profile/25223-nightafter/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 8023,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800335,
+            "text": [
+                "Ecco, la solita cazzata non vista: \"e lasciò che si dormissero\"",
+                "Sorry."
+            ],
+            "timestamp": "2019-11-17T20:36:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45250-crisi-di-civilt%C3%A0-pt1//?do=findComment&comment=800335"
+        },
+        {
+            "post_id": 800343,
+            "text": [
+                "Ecco il secondo: \"Laura poteva nutriva di soli liquidi\"",
+                "- Laura poteva nutrirsi di soli liquidi"
+            ],
+            "timestamp": "2019-11-17T21:04:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45250-crisi-di-civilt%C3%A0-pt1//?do=findComment&comment=800343"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Crisi di Civiltà - Pt.1",
+        "A occhio, in due non superavano insieme i quarant'anni d'età.",
+        "Erano carini, con quelle uniformi candide della Demography Legion : i profili verde menta che ne orlavano i bordi facevano pensare alle divise dei gelatai di un tempo,",
+        "Operavano sempre in coppia, per la sicurezza, come gli altri che erano venuti per quattro volte a distanza di tempo negli anni.",
+        "Era la prima coppia assortita che gli capitava d'incontrare: un ragazzo e una ragazza, non sapeva che arruolassero anche femmine nella struttura.",
+        "Avevano l'aspetto sano e allegro della loro gioventù, emanava da loro una luce fiduciosa e ottimista di futuro da scrivere, gliela leggevi negli sguardi limpidi e sereni, senza ombre.",
+        "Sorbivano le loro tazze di tè caldo con garbo e lentezza, non c'era fretta nei gesti.",
+        "Non c'era mai fretta nel lavoro che facevano, nessuno gli alitava sul collo, era il lato positivo di quel mestiere da libero professionista.",
+        "Glielo aveva offerto unito a un piccolo vassoio di biscotti ai cereali, non ne aveva d'altri in casa.",
+        "Era un te verde al gusto di menta, molto aromatico, noto per possedere qualità antiossidanti e inibire la crescita di cellule tumorali.",
+        "Quello che da sempre preferiva Laura e prendevano insieme ogni pomeriggio.",
+        "Aveva usato la vecchia teiera in porcellana di Limonges con la decorazione floreale, pezzo unico, superstite del sevizio che un tempo utilizzavano quotidianamente, le tazze, invece, di fattura dozzinale venivano dal saldo di un grande magazzino,",
+        "Solo la ragazza aveva gradito due biscotti inzuppandoli nella bevanda fumante, il giovane aveva declinato l'offerta ringraziando: era arrossito nel farlo, come un ragazzino timido.",
+        "Avevano un atteggiamento rilassato e colloquiale: conversavano piacevolmente da un'ora ormai, gli avevano raccontavano dei loro percorsi di studio, delle esperienze di viaggi per cultura o vacanze.",
+        "Dovevano provenire da famiglie abbienti, le uniche in grado di mantenerli agli studi e consentirgli di viaggiare all'estero.",
+        "Si erano conosciuti al corso di formazione per il lavoro che li occupava attualmente.",
+        "Dagli sguardi che si scambiavano aveva compreso che non erano solo colleghi.",
+        "Lui sapeva leggerli quegli sguardi, c'era del sentimento tra loro.",
+        "Mentre si assentava per riporre le tazze vuote in cucina, colse con la coda dell'occhio, la mano di lei sfiorare con una carezza lieve il volto del compagno, lui gliela trattenne un attimo, posandole un bacio silenzioso sul palmo.",
+        "Questo gli riportò a mente la dolcezza di gesti antichi e il cuore gli si accese di nostalgia.",
+        "Nel riporre la teiera e le tazze nel lavello ebbe una vertigine, la visione della stanza si oscurò per un attimo, dovette sorreggersi al tavolo e respirare a fondo in attesa che cessasse.",
+        "Quelle vertigini si ripetevano sempre più sovente, forse era un disturbo di pressione, ma che importanza poteva avere ormai. Se ne fregava.",
+        "I due ragazzi gli ricordavano lui e Laura alla loro età: anche loro si erano incontrati durante gli studi con la stessa promessa di futuro negli occhi.",
+        "Avevano percorso trentacinque anni di vita sempre insieme.",
+        "Poi le cose si erano messe male: il paese era andato in malora e anche per loro non era andata meglio.",
+        "Laura si era ammalata di una malattia che non lasciava speranza o scampo.",
+        "Senza copertura sanitaria statale, i pochi a potersi permettere le cure erano quei fortunati con imponenti patrimoni, meno del cinque per cento della popolazione.",
+        "Gli altri, a fronte di patologie serie, potevano solo morire, sperando accadesse in fretta.",
+        "Laura non aveva avuto quella fortuna, la malattia l'aveva consumata in modo lento e doloroso.",
+        "I pochi quattrini che avevano da parte non bastavano per terapie che fermassero o rendessero più lenta la progressione della malattia, ma servirono per grandi scorte di analgesici.",
+        "Farmaci a base di oppiacei così forti da stemperare il dolore, ottundere i sensi e procurare un sonno chimico profondo.",
+        "Al mercato nero non era difficile procurarseli, non richiedevano prescrizione medica in quel genere di commercio.",
+        "Vissero un anno di pena prima della fine, nei quali lei era vigile solo per poche ore al giorno.",
+        "Poco tempo da strappare a quell'oblio forzoso, sfogliando insieme come in un album di vecchie foto i ricordi di giorni sereni, a volte difficili come i tempi in cui vivevano, ma colorati di vita e cose fatte.",
+        "Se li facevano bastare, per sentirsi entrambi ancora vivi e vicini.",
+        "Poi il male era cresciuto, Laura poteva nutriva di soli liquidi che lo stomaco tratteneva in parte, il più veniva rigettato nel water rosso di sangue.",
+        "Pensò al danno iniziato quasi un secolo prima, con i primi segni di una crisi che andò aggravandosi fino al punto di non ritorno.",
+        "Era stata paragonata ad altre grandi crisi di civiltà della storia umana: quali quella ellenica, il tramonto della civiltà Maya, l'agonia e la caduta dell'Impero Romano.",
+        "Ne avevano anticipato l'avvento storici, sociologi e analisti politici, molti concordarono che già Marx ne avesse preannunciato le cause generanti nello suo Capitale.",
+        "Tutti avevano compreso quanto sarebbe accaduto, ci avevano versati fiumi di teorie e parole, ma nessuno era stato in grado di impedire che avvenisse.",
+        "Quando il morso del male divenne insopportabile e gli analgesici non riuscirono più a sedarlo, Laura chiese di farlo cessare per sempre.",
+        "Aveva un'angoscia cieca negli occhi, con la voce strozzata dai gemiti lo implorò di ucciderla.",
+        "“Te ne scongiuro liberami da questo tormento. Se ancora mi ami fallo, aiutami. Ti prego”.",
+        "Si era turato le orecchie con le mani fino a farsi dolere le tempie, per non udire quella disperazione. Poi era fuggito fuori, in una fuga da sé stesso, sull'aia polverosa della fattoria, dove un cielo gonfio di pioggia precipitò le lacrime rabbiose, violente come schiaffi, di un Creatore sconfitto da mischiare alle sue.",
+        "Cadde in ginocchio, col volto annegato nel fango, spegnendo nella terra negra e madida il suo urlo di dolore.",
+        "Non chiese perdono a Dio per ciò che era stato obbligato a compiere quel giorno.",
+        "Sì sentiva meglio, avvertì che un sudore gelido gli aveva incollato al corpo la tela ruvida della vecchia camicia da lavoro, con passo malfermo tornò ai suoi ospiti nel soggiorno in penombra.",
+        "I ragazzi non conversavano più quando comparve, si voltarono a sorridergli, la stanza era silente,",
+        "solo la vecchia pendola a parete, appartenuta ai suoi nonni, proseguiva il suo ticchettio discreto segnando il tempo della metà pomeriggio.",
+        "Fuori la luce autunnale colorava di oro rosso le fronde dei platani e le stoppie del campo, dalla stalla",
+        "giungeva il grugnito ansioso dei maiali che brontolando reclamavano il cibo.",
+        "Sedette alla poltrona in fronte ai giovani, sul tavolino tra loro gli avevano disposto i moduli per la procedura del lavoro da consultare compilare.",
+        "Si capiva da questo che erano novizi del mestiere: impiegavano ancora documenti cartacei. Venivano dati in dotazione solo ai principianti, quelli avanti col tirocinio e già con più missioni compiute, operavano su tablet ed erano collegati in tempo reale al sistema centrale.",
+        "Solo una delle coppie precedenti era veterana e ne impiegava uno, ma non era stato comunque un",
+        "problema, sapeva come scollegarlo e renderlo inerte.",
+        "Mise gli occhiali da lettura e simulando interesse iniziò a scorrerne il testo, erano tre pagine fitte di dati, con paragrafi in corpo dieci e titoli in neretto.",
+        "Ora apparivano stanchi, lo osservavano muti, senza interesse, abbandonati sul divano in cui sedevano e gli occhi liquidi, avevano esaurita la vitalità mostrata fino a mezz'ora prima.",
+        "Erano morbidi e avvolgenti come un giaciglio quei cuscini, invitavano al riposo.",
+        "Il ragazzo sbadigliò a lungo, portando la mano a coprire la bocca, ambedue avevano battiti di ciglia rapidi e ravvicinati: era evidente che iniziassero a lottare con la pesantezza delle palpebre e la necessità di cedere al sonno imminente.",
+        "Posò le carte sul tavolino e lasciò che si dormissero, cullati dal battito soffice della vecchia pendola, anche lui sentiva farsi pesanti le membra.",
+        "Dall'esterno giungeva remoto il verso dei suini affamati.",
+        "(Continua)"
+    ],
+    "timestamp": "2019-11-17T20:30:24Z",
+    "title": "Crisi di Civiltà - Pt.1",
+    "topic_id": 45250,
+    "url": "https://www.writersdream.org/forum/forums/topic/45250-crisi-di-civilt%C3%A0-pt1/"
+}
