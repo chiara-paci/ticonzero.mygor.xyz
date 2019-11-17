@@ -56,7 +56,7 @@
     },
     "num_chars": 8017,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 798075,
@@ -113,6 +113,14 @@
             ],
             "timestamp": "2019-11-16T09:39:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800042"
+        },
+        {
+            "post_id": 800166,
+            "text": [
+                "grazie di cuore! 😊"
+            ],
+            "timestamp": "2019-11-17T08:20:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800166"
         }
     ],
     "post_staff": [
@@ -217,6 +225,19 @@
             ],
             "timestamp": "2019-11-16T09:39:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800042"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 800166,
+            "text": [
+                "grazie di cuore! 😊"
+            ],
+            "timestamp": "2019-11-17T08:20:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45061-h2019-humus//?do=findComment&comment=800166"
         }
     ],
     "text": [
