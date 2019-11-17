@@ -1,0 +1,118 @@
+{
+    "author": {
+        "author_id": 33431,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "JackDawson",
+        "url": "https://www.writersdream.org/forum/profile/33431-jackdawson/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Commento il racconto come da scheda.",
+                    "La trama:",
+                    "Trama abbastanza scorrevole, tranne forse la prima parte, in effetti non si capisce benissimo se i due protagonisti si stiano baciando o l'abbiano gia' fatto in precedenza, perché nel proseguo del racconto poi sembra che non l'abbiano ancora fatto.",
+                    "Sei stato bravo a descrivere in maniera un po' personale il dramma interiore dell'essere omosessuale ( penso ) con dolori addirittura fisici che si attenuano quando esce di casa e osserva l'innocenza degli altri bambini, il finale e' coerente con la storia.",
+                    "Personaggi:",
+                    "L'altro personaggio e' volutamente indefinito, il personaggio principale ha invece una sua caratterizzazione abbastanza coerente.",
+                    "Contenuti:",
+                    "Credo che il messaggio fosse trasmettere il disagio di essere omosessuale e poi la felicità dell'attore principale di trovare l'amore e forse un suo simile.",
+                    "Stile:",
+                    "Scorrevole anche se in alcuni punti fai alcuni giri strani.",
+                    "Specificherei meglio il pezzo iniziale.",
+                    "Grammatica: Non ho trovato errori e il racconto si legge abbastanza bene.",
+                    "Giudizio finale: Il racconto mi e' piaciuto",
+                    "Bravo."
+                ]
+            ],
+            "timestamp": "2019-11-17T09:07:00Z",
+            "title": "Una casetta per bambini",
+            "url": "https://www.writersdream.org/forum/forums/topic/45199-una-casetta-per-bambini//?do=findComment&comment=800173",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5979,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Si trova nel bosco più' fitto, gli alberi secolari si liberano verso il cielo ed è pieno giorno. L’intero panorama sarebbe senz’altro suggestivo se il caldo dell’estate non fosse cosi presente, se non avesse altro per la testa, se non dovesse muoversi cosi velocemente! E' grato agli alberi di fornirgli almeno quella piccola protezione contro il sole. La corazza poi è pesante, l’ideale per combattere ma non per scappare, specie in una foresta e soprattutto non a piedi. Eppure Orlando, cavaliere di sua maestà non osa toglierla! Potrebbe essere raggiunto in qualsiasi momento ed essere costretto a combattere…",
+        "E’ spacciato, è una convinzione intima che ha, sin dal momento in cui gli hanno ucciso il cavallo. Un cavaliere senza cavallo è già morto, un dato di fatto. Evita ogni strada, ogni casa, cerca di camminare nel bosco più fitto….",
+        "Il nemico potrebbe uscir fuori da ogni dove.",
+        "Arriva a una radura, potrebbe essere il momento per riposare un po', si appoggia a un albero caduto…",
+        "e mentre si rilassa, la sua mente vola ai momenti felici:",
+        "L’addestramento per diventare un guerriero, le campagne militari, ognuna a suo modo difficile, dura, sanguinosa, ma anche bella.",
+        "E ognuna a suo modo lo aveva anche ripagato ampiamente, con la fama, i danari e gli onori.",
+        "Il Re stesso aveva assistito alle sue gesta, perché al rientro dell’ultima lo aveva chiamato al suo cospetto e lo aveva chiamato “eroe” di fronte a tutti, lo aveva nominato cavaliere e gli aveva elargito i primi possedimenti e le prime terre.",
+        "Oppure quando aveva salvato una giovane donna dalla violenza di due soldati.",
+        "Ricorda bene quei momenti, una lotta furiosa contro due soldati esperti…",
+        "era stato fortunato quella volta, pur ferito alla coscia, alla fine li aveva uccisi entrambi, c'era una cicatrice bella evidente sulla sua gamba a ricordargli l’episodio.",
+        "La ragazza era così felice che non smetteva di ringraziarlo piangendo, era addirittura arrivata al punto di concedersi, dal sollievo e dalla felicità provati.",
+        "Eppoi la festa in paese in suo onore… bei tempi!",
+        "Ma poi era arrivato il nemico!",
+        "a distruggere tutto…",
+        "...tutto…",
+        "Sente un rumore, qualcuno sta arrivando, estrae la spada, non può essere nulla di positivo.",
+        "E infatti, un uomo esce urlando dal bosco, brandisce un normale rastrello di campagna, non è un soldato ma un normale contadino e lo attacca con furore, con rabbia cieca.",
+        "Ma un contadino non può nulla con un soldato che brandisce una spada, è già morto prima di sferrare il primo colpo. Ora Orlando cerca di muoversi il più velocemente possibile sa che gli altri sono molto vicini, lo stanno braccando! Sente delle urla dietro di lui, due uomini l’hanno raggiunto, anche questi contadini prestati alla lotta, uno porta un normale attrezzo per il lavoro in campagna che usa tipo mazza, l’altro una spada.",
+        "Il pericolo è l’uomo con la spada, Orlando si sposta verso di lui cerca di affrontarlo per primo. Lo attacca furiosamente, non può permettersi che i due possano attaccarlo insieme.",
+        "Come immaginava è inesperto, la sua difesa è rozza, bastano pochi affondi per penetrarla.",
+        "Lo colpisce alle costole e per evitare che l’arma si incastri fra di esse, gira intorno all’ uomo tagliandolo praticamente in due e indirettamente usandolo come scudo per il compagno.",
+        "Ora rimane l’altro uomo, che è sconcertato dalla facilità con cui ha ucciso il suo compare. Ma si fa sotto lo stesso, anche questo lo attacca furiosamente e anche questo perisce in modo rapido. Non guarda nemmeno i due uomini a terra, continua a camminare, non ha scampo, lo sa… prima o poi lo raggiungeranno in numero e lo uccideranno, è una certezza intima questa.",
+        "Ma non vuole arrendersi, non PUO' arrendersi, e' il suo istinto di sopravvivenza a dirgli di combattere fino alla fine.",
+        "Oltrepassa una casetta tenendosi a distanza, evita anche il guado del fiume, il nemico potrebbe uscire ovunque…",
+        "...ovunque!",
+        "…venir fuori in qualsiasi momento…",
+        "Se lo ripete sempre.",
+        "Un rumore alla sua sinistra lo frena…",
+        "di nuovo con lentezza, cercando di non fare rumore, estrae la spada, sempre silenziosamente cerca di cambiare percorso, di evitare il nuovo scontro cambiando bruscamente direzione, ma fatalmente viene visto e il confronto diviene inevitabile.",
+        "Questa volta è un soldato, il nuovo arrivato brandisce una spada enorme, deve essere dotato di una forza straordinaria.",
+        "”Stavolta non sarà facile“ pensa amaramente.",
+        "Anche il soldato come gli altri prima di lui, lo attacca in maniera scomposta e rabbiosa…",
+        "Le spade cozzano rumorosamente, l’uomo è discretamente bravo, ma non è un veterano come Orlando.",
+        "In battaglia ha imparato a stare calmo, a osservare l’avversario e a carpirne i punti deboli.",
+        "L’energumeno che ha di fronte sarebbe un antagonista formidabile per chiunque…",
+        "ma ha un difetto, si sbilancia negli attacchi, usa troppa forza e quindi Orlando trova il modo per superarlo… sfruttare la sua forza contro di lui!",
+        "Quindi finge un fendente poderoso, il soldato si prepara anche lui a un colpo eccezionale ma Orlando evita all’ultimo lo schianto delle spade abbassandosi repentinamente, l’uomo va a gambe all’aria, gli è subito sopra e lo finisce con un colpo di taglio al collo.",
+        "Ricomincia a muoversi, ha una sete pazzesca ora, cerca un corso d’acqua, non può farne a meno ne va della sua sopravvivenza.",
+        "Non fa piani nella sua mente, non ha un posto, dove andare o dove rifugiarsi, purtroppo deve vivere al momento.",
+        "Sa che in quella zona ci dovrebbe essere un laghetto…",
+        "E infatti, dopo una mezzora di cammino veloce arriva vicino a una piccola spiaggetta.",
+        "Nascosto fra gli alberi, osserva il lago… sente delle grida provenire da esso e con sorpresa, osserva due bambine nude, che ignare della sua presenza giocano felici nel lago.",
+        "Sente il nemico che sta arrivando…",
+        "che fare?",
+        "Ma ormai è troppo tardi per qualunque cosa, l’erezione raggiunge il suo culmine, il conflitto interiore finisce…",
+        "e come al solito il nemico ha VINTO!",
+        "Il viso di Orlando adesso è diverso, sul suo volto ORA c'è una luce sinistra e inizia a camminare verso il lago.",
+        "Le bambine sono ormai spacciate!"
+    ],
+    "timestamp": "2019-11-17T09:43:25Z",
+    "title": "Un nemico terribile",
+    "topic_id": 45240,
+    "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile/"
+}

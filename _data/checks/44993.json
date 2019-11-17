@@ -2,118 +2,60 @@
     "author": {
         "author_id": 28093,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
-            "narrativa": 0,
+            "narrativa": 1,
             "poesia": 0
         },
-        "name": "Il fantasma di Cjan",
-        "url": "https://www.writersdream.org/forum/profile/28093-il-fantasma-di-cjan/"
+        "name": "Edu",
+        "url": "https://www.writersdream.org/forum/profile/28093-edu/"
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
-    "expected_weight": 1,
-    "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
-    },
-    "num_chars": 4658,
-    "num_commenti": 0,
-    "num_posts": 27,
-    "post_after": [
+    "commenti": [
         {
-            "post_id": 795747,
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
             "text": [
-                "grazie",
-                "Sì, ultimamente bisticcio coi titoli",
-                "P.s. direi che la tua interpretazione è azzeccata"
+                [
+                    "Ciao",
+                    "a me il racconto è piaciuto. è condito da un atmosfera credo davvero appropriata al genere (dico credo perché del genere non sono affatto un cultore). L'inquietudine c'è tutta... forse lo spavento no... ma poco mi interessa, francamente, mi interessa più l'inquietudine.",
+                    "Se devo individuare un difetto, forse è nella frammentarietà degli elementi che dissemini a profusione senza troppo tornarci su: l'insofferenza dei personaggi per i rumori e per le luci, la ragione del tatuaggio a Y, l'accenno al fatto che hanno provato con altri elettrodomestici e non ha funzionato, che lascia intuire l'intenzione di provare a \"normalizzarsi\" più che tendere all'epilogo che hai dato alla storia. Ecco, questa frammentarietà è un po' un'arma a doppio taglio, perché se è vero che è anche suggestivo che la narrazione proceda per pennellate, è anche vero che un senso di incompletezza un po' lo lascia.",
+                    "Comunque, ripeto, nel complesso mi sembra una prova riuscita",
+                    "Pulci livello rompiscatole",
+                    "Questa frase mi ha stonato per diversi motivi. Penso che \"Attorno a noi\" possa andare via: è superfluo e spiazza un po', perché poi dai anche un altra indicazione circa la posizione dicendo \"davanti\". Il senso è chiarissimo, ma visto che cambia poco toglierei. E poi quell'\"Intenti\": a voler essere pignoli, nel momento in cui vi passano avanti, non sono ancora intenti, ma stanno per esserlo.... scriverei più semplicemente così: dei clienti ci passano davanti per gettare un'occhiata al prodotto esposto",
+                    "solo lei? Non si faceva prima a scrivere \"[...] troppo piccolo, irradiati﻿ dai colori [...]\"",
+                    "anche \"accorrere\" mi stona, un po' per lo stesso motivo di cui sopra, l'accostamento dell'indicazione dietro di me. Forse \"accorre a me\" mi avrebbe stonato meno, ma comunque mi avrebbe stonato. Penso che sia più naturale optare per il semplice verbo correre, in questo contesto accorrere mi sembra un po' forzato",
+                    "rovesciandosi? rovinando? Potrei sbagliarmi, ma riversare in genere indica il fuoriuscire da qualcosa, e in genere si dice di liquidi, della folla... di un televisore non lo direi... ma, ripeto, magari mi sbaglio io eh",
+                    "Ecco! Qui sì che riversare mi sembra appropriato",
+                    "Altri refusi non ne ho trovati, o mi sono sfuggiti.",
+                    "A rileggerci presto"
+                ]
             ],
-            "timestamp": "2019-10-26T19:41:30Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795747"
-        },
-        {
-            "post_id": 795910,
-            "text": [
-                "grazie, e a presto.",
-                "Sì forse il genere esige un tocco fantastico che porti al di fuori dalla realtà, ma mi ritrovo molto in quello che dici, ovvero che le paure vere sono quelle reali. Ho sempre immaginato l'eventualità, che ne so, di investire per sbaglio qualcuno come un vero un incubo"
-            ],
-            "timestamp": "2019-10-27T17:50:45Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=795910"
-        },
-        {
-            "post_id": 796426,
-            "text": [
-                "Grazie"
-            ],
-            "timestamp": "2019-10-29T17:12:49Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=796426"
-        },
-        {
-            "post_id": 796554,
-            "text": [
-                "grazie. Beh, sì, sai, il punto fondamentalmente è uno: casomai riesco a scrivere di determinate inquietudini ma sicuramente non scrivo horror, nonostante mi diverta cimentarmi lo stesso nel contest di halloweeen, per un motivo fondamentale: non ne leggo.",
-                "Avevo letto nelle discussioni, da qualche parte, che non era tanto fondamentale replicare i canoni del genere quanto rimestare nelle tonalità scure...",
-                "Alla prox"
-            ],
-            "timestamp": "2019-10-30T08:44:06Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=796554"
-        },
-        {
-            "post_id": 797363,
-            "text": [
-                "Ciao , ti dico la verità, se ho usato un italiano alto e arcaico non è stato volontario. Certo, il registro è serio, ma non voleva essere di maniera (tipo Poe). Però, rileggendo, non scovo poi tanti arcaismi. Magari ti riferisci alla struttura delle frasi... mi fai qualche esempio di cosa ti ha ti è risultato disturbante?"
-            ],
-            "timestamp": "2019-11-02T11:35:32Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=797363"
-        },
-        {
-            "post_id": 798167,
-            "text": [
-                "Grazie mille"
-            ],
-            "timestamp": "2019-11-05T13:14:03Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=798167"
-        },
-        {
-            "post_id": 798813,
-            "text": [
-                "Guarda, me l'avesse chiesto ADSL, avrei potuto pure dirti di sì. Anche se chiaramente stai facendo uno scambio di persone. Ma chiesto da un Perfido kastaffer....",
-                "Bau"
-            ],
-            "timestamp": "2019-11-08T22:29:04Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=798813"
-        },
-        {
-            "post_id": 799449,
-            "text": [
-                "ciao.",
-                "Sì, in effetti nelle intenzioni originarie volevo sviluppare il racconto anche dopo l'accaduto. Poi non l'ho fatto, e sinceramente non ti so dire se è perché non ne sono stato capace o se perché mi stavo davvero angosciando io nello scrivere..."
-            ],
-            "timestamp": "2019-11-13T07:42:13Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=799449"
-        },
-        {
-            "post_id": 799496,
-            "text": [
-                "grazie mille",
-                "Grazie anche a te, .",
-                "a sto punto, allora, anche prima di \"di\"...",
-                "Se non sbaglio (ma potrei sbagliarmi) quando il discorso prosegue e il punto interrogativo non è un punto fermo, è consentito usare la minuscola. Vediamo se a tal proposito lo , che evoco ingiuriandolo, mi dice qualcosa",
-                "questo è un refuso",
-                "ciaus"
-            ],
-            "timestamp": "2019-11-13T13:25:39Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/44993-h2019-incubo-a-occhi-aperti//?do=findComment&comment=799496"
+            "timestamp": "2019-10-26T15:56:37Z",
+            "title": "[H2019] Interitus",
+            "url": "https://www.writersdream.org/forum/forums/topic/44954-h2019-interitus//?do=findComment&comment=795695",
+            "weight": 1
         }
     ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4658,
+    "num_commenti": 1,
+    "num_posts": 27,
+    "post_after": [],
     "post_staff": [
         {
             "author": {

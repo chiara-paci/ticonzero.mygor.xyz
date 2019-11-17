@@ -2,9 +2,9 @@
     "author": {
         "author_id": 14049,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
-            "narrativa": 0,
+            "narrativa": 1,
             "poesia": 0
         },
         "name": "Emy",
@@ -46,9 +46,9 @@
     "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 7690,
     "num_commenti": 1,

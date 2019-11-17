@@ -12,13 +12,45 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "E apprezzabile la tua ricerca di mantenere un'aura di indeterminatezza intorno ai due personaggi. Sembra un esercizio di stile, un esperimento; che però non ti è riuscito in pieno in quanto mi ha generato un senso di confusione nella mente. Comunque, le storie d'amore omosessuale sono sempre intriganti per me",
+                    "La confusione di cui parlo è per lo più dovuta al narratore e al relativo POV. È un narratore onnisciente? Se sì, non mi è piaciuto perché il POV è troppo \"ballerino\".",
+                    "Per esempio, in questo pezzo",
+                    "Il personaggio POV è uno fino al \"tante volte\". Poi improvvisamente cambi punto di vista e il personaggio POV sembra essere, da lì in poi, il ragazzo , cioè l'altro personaggio. Visto che entri nella mente di entrambi, io tenderei a pensare che il narratore sia onnisciente. Me lo fanno pensare anche certi innesti, come questo:",
+                    "dove all'improvviso si palesa un narratore \"esterno\", per così dire.",
+                    "Qui forse c'è un refuso. È come se mancasse l'accento sulla prima E , altrimenti qualcosa non mi torna (o almeno credo).",
+                    "Questo implica che il \"qualcuno\" aveva visto il personaggio anche mentre quest'ultimo mentre era in casa. Abitavano insieme?",
+                    "Io toglierei l' assolutamente . Se proprio volessi rafforzare il concetto, io metterei \" del tutto\" o simili.",
+                    "Ti ho segnalato solo le cose più importanti.",
+                    "Mi è piaciuto il tuo stile nonostante le frasi involute, che però gestisci bene. In particolare, una nota di merito per i congiuntivi e, più in generale, per la cura della consecutio: impeccabile. Mi è piaciuta molto questa tua frase: \"Si rese conto come anche lui potesse provare\". Musica per le mie orecchie! Questa particolare attenzione eleva il registro espressivo, anche per la ricercatezza di altre forme verbali.",
+                    "I personaggi sono abbastanza caratterizzati, seppur nella loro indeterminatezza: uno, il primo a entrare in scena, è più passivo; mentre l'altro, pur con alcuni problemi, si dimostra più energico. La coppia sembra ben assortita: naturalmente le brevità del racconto impedisce di dire molto su questo punto.",
+                    "Voto: 7½",
+                    "(Di' la verità: questo era un esercizio?)"
+                ],
+                [
+                    "È"
+                ]
+            ],
+            "timestamp": "2019-11-15T13:55:39Z",
+            "title": "Una casetta per bambini",
+            "url": "https://www.writersdream.org/forum/forums/topic/45199-una-casetta-per-bambini//?do=findComment&comment=799875",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 25,
@@ -26,7 +58,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
     },
     "num_chars": 3477,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
