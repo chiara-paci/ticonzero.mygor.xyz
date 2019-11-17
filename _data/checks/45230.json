@@ -11,7 +11,7 @@
         "url": "https://www.writersdream.org/forum/profile/34494-leopard/"
     },
     "checks": {
-        "num_chars": false,
+        "num_chars": true,
         "timestamp": true,
         "valid": 0.9388888888888889,
         "weight": true
@@ -37,9 +37,9 @@
     "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 25,
-        "title": "Frammenti",
-        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 3769,
     "num_commenti": 1,
@@ -51,7 +51,7 @@
                 "ho eliminato: A Marilena non dispiaceva la neutralità passiva ma solo se frutto di libera scelta e non imposta dall'esterno."
             ],
             "timestamp": "2019-11-16T17:56:43Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-2//?do=findComment&comment=800118"
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23//?do=findComment&comment=800118"
         },
         {
             "post_id": 800147,
@@ -60,7 +60,7 @@
                 "hai ragione, è un po' quello che temo, confondere il suo pensiero col mio e poi divento ingombrante. Rimugina già abbastanza per conto suo Marilena! Aggiungerò il \"pensò\""
             ],
             "timestamp": "2019-11-16T20:33:11Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-2//?do=findComment&comment=800147"
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23//?do=findComment&comment=800147"
         }
     ],
     "post_staff": [],
@@ -73,7 +73,7 @@
         "Con un sorriso Marilena si accomiatò e si risedette sulla panca per incominciare la lettura. Castori era una persona poco cerimoniosa, almeno su quello andavano d'accordo e avevano entrambi solo l'obiettivo di risolvere il caso.Vivendo in una piccola città dove i serial killer sono considerati soltanto personaggi da film, pensò che Castori dovesse essere molto allarmato per prendere in considerazione un'ipotesi simile."
     ],
     "timestamp": "2019-11-16T15:18:32Z",
-    "title": "un incarico inaspettato 2",
+    "title": "Un incarico inaspettato - Capitolo 1- 2/3",
     "topic_id": 45230,
-    "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-2/"
+    "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23/"
 }

@@ -55,7 +55,7 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 799715,
@@ -97,6 +97,14 @@
             ],
             "timestamp": "2019-11-16T22:34:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800156"
+        },
+        {
+            "post_id": 800179,
+            "text": [
+                "Scusa , un controcommentone di domenica mattina, magari appena sveglio, non ci voleva. Grazie ancora per il tempo che mi dedichi. A presto"
+            ],
+            "timestamp": "2019-11-17T09:45:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800179"
         }
     ],
     "post_staff": [],
