@@ -95,9 +95,9 @@
         "title": "Contest aperti",
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
-    "num_chars": 6331,
+    "num_chars": 6333,
     "num_commenti": 3,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800383,
@@ -108,6 +108,18 @@
             ],
             "timestamp": "2019-11-17T23:15:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45257-mi130//?do=findComment&comment=800383"
+        },
+        {
+            "post_id": 800406,
+            "text": [
+                "Plagio riflesso, se ti muovi sei un cesso.",
+                "In realtà Google mi insegna che esistono entrambe le forme, \"carrarmato\" e \"carro armato\". Forse la grafia unita è meno usata.",
+                "Comunque nel testo ho usato entrambe le forme e questo non va bene",
+                "Dai che stavolta lo vinco.",
+                "Grazie. È stata un'impresa scrivere qualcosa"
+            ],
+            "timestamp": "2019-11-18T08:17:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45257-mi130//?do=findComment&comment=800406"
         }
     ],
     "post_staff": [
@@ -125,6 +137,23 @@
             ],
             "timestamp": "2019-11-17T23:15:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45257-mi130//?do=findComment&comment=800383"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800406,
+            "text": [
+                "Plagio riflesso, se ti muovi sei un cesso.",
+                "In realtà Google mi insegna che esistono entrambe le forme, \"carrarmato\" e \"carro armato\". Forse la grafia unita è meno usata.",
+                "Comunque nel testo ho usato entrambe le forme e questo non va bene",
+                "Dai che stavolta lo vinco.",
+                "Grazie. È stata un'impresa scrivere qualcosa"
+            ],
+            "timestamp": "2019-11-18T08:17:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45257-mi130//?do=findComment&comment=800406"
         }
     ],
     "text": [
@@ -138,7 +167,7 @@
         "Tutto ciò mi è stato spiegato dall’asiatico con una barchetta di carta in testa, quello del negozio di origami. La prima volta che gli ho fatto visita, mi ha accolto con un grande sorriso giallo e le braccia spalancate come se volesse abbracciarmi. Io ovviamente gli ho detto subito che ero lì perché mi ero perso, che mi serviva solo un’indicazione e non volevo comprare nulla, ma lui mi ha preso per un braccio e ridendo forte mi ha trascinato lontano dalla porta, proprio al centro della stanza. Mi ha confidato che anche per lui era cominciato tutto così, con un cattivo senso dell’orientamento, e poi ha aggiunto: Benvenuto nella città di ..., questo è il negozio di origami!",
         "Il negozio degli origami è il primo edificio della città che ho conosciuto. Ovunque ci sono scaffali e mobili di varia altezza sui quali sono esposti animali e oggetti di carta. Abbondano i cigni, i gatti, le lucertole, ma in un angolo più nascosto ho potuto osservare un impressionante esercito di piccoli carrarmati.",
         "Di certo ti sei accorta dei marcati segni di piegatura sul foglio celeste che stai leggendo. Beh, sappi che questa strana lettera è in realtà un gabbiano.",
-        "Qua funziona così; la gente comunica via lettera e il negozio degli origami è dove ci si procura la carta. Si sceglie la forma e il colore in base alla personalità del destinatario e alla natura del messaggio, poi si apre l’origami e si inizia a scrivere. La lettera finita si fa quindi passare sotto la porta del destinatario, che la riceve in forma di comune foglio rettangolare, ma agli abitanti di qui basta dare un’occhiata alla posizione delle piegature per distinguere un delfino da un colibrì. Io sono ancora poco allenato e riconosco solo i carrarmati del signor Farina (perché non manda altro). Comunque, ripeto, hai tra le mani un gabbiano.",
+        "Qua funziona così; la gente comunica via lettera e il negozio degli origami è dove ci si procura la carta. Si sceglie la forma e il colore in base alla personalità del destinatario e alla natura del messaggio, poi si apre l’origami e si inizia a scrivere. La lettera finita si fa quindi passare sotto la porta del destinatario, che la riceve in forma di comune foglio rettangolare, ma agli abitanti di qui basta dare un’occhiata alla posizione delle piegature per distinguere un delfino da un colibrì. Io sono ancora poco allenato e riconosco solo i carri armati del signor Farina (perché non manda altro). Comunque, ripeto, hai tra le mani un gabbiano.",
         "Il signore asiatico mi ha detto anche che quando lavora indossa sempre il cappello a forma di barchetta, perché è il primo origami che imparò a fare da bambino.",
         "Prima dell’aereo?, gli ho chiesto io.",
         "No, certo, ma come fai a indossare un aereo?, ha risposto lui.",

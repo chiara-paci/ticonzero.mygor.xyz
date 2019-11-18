@@ -133,8 +133,18 @@
     },
     "num_chars": 5157,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800410,
+            "text": [
+                "Grazie del passaggio,",
+                "Oltre all'intento di divertire i \"colleghi d'ufficio\", quelli più assidui, (non in trasferta in Russia come te ), il mio racconto vorrebbe essere letto come una promotion , una gradevole divulgazione del nostro forum. E incuriosire quel tanto che basti per andare a curiosare nei laboratori citati."
+            ],
+            "timestamp": "2019-11-18T08:27:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800410"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno",
