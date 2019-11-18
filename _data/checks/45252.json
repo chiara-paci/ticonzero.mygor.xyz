@@ -133,7 +133,7 @@
     },
     "num_chars": 5157,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 800410,
@@ -151,6 +151,14 @@
             ],
             "timestamp": "2019-11-18T14:40:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800486"
+        },
+        {
+            "post_id": 800638,
+            "text": [
+                "L'ho costruito troppo in fretta, sullo scorcio di un'idea che mi sembrava felice. Ti ringrazio comunque per averlo letto con attenzione e per il tuo giudizio positivo,"
+            ],
+            "timestamp": "2019-11-18T20:26:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800638"
         }
     ],
     "post_staff": [],
