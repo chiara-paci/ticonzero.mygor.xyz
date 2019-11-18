@@ -47,7 +47,7 @@
     },
     "num_chars": 7678,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800385,
@@ -60,6 +60,14 @@
             ],
             "timestamp": "2019-11-17T23:21:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=800385"
+        },
+        {
+            "post_id": 800395,
+            "text": [
+                "Grazie!"
+            ],
+            "timestamp": "2019-11-18T06:34:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=800395"
         }
     ],
     "post_staff": [
