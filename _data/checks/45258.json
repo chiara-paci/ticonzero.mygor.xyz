@@ -45,9 +45,9 @@
         "title": "Contest aperti",
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
-    "num_chars": 7487,
+    "num_chars": 7678,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 800385,
@@ -62,7 +62,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=800385"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 695,
+                "name": "Cicciuzza",
+                "url": "https://www.writersdream.org/forum/profile/695-cicciuzza/"
+            },
+            "post_id": 800386,
+            "text": [
+                "Fatto"
+            ],
+            "timestamp": "2019-11-18T00:42:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=800386"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "Incontro notturno",
@@ -133,7 +147,9 @@
         "«Ci conto. Scusa, cosa mi volevi dire?»",
         "«Nulla, non ha importanza, roba di lavoro» mentì.",
         "Mise giù e guardò dalla finestra. La neve aveva già cancellato le impornte. Forse aveva solo sognato quell’incontro, mentre guardava quella noiosa trasmissione? Sembrava tutto così vero...",
-        "Aveva sentito dire, una volta, che nell’attimo esatto in cui una persona muore, se eri molto legato a questa, puoi avvertirne la presenza, tanto da vederla in sogno. Eppure sembrava tutto così reale. Poi un luccichio da sotto il divano. Juri si chinò e allungò la mano. Il bottone. Quel fottuto bottone. Lo prese e lo annusò. Lo guardò e se lo rigirò tra le mani come una moneta rara. Poi aprì la finestra e la neve entrò bagnandogli il viso già solcato da lacrime."
+        "Aveva sentito dire, una volta, che nell’attimo esatto in cui una persona muore, se eri molto legato a questa, puoi avvertirne la presenza, tanto da vederla in sogno. Eppure sembrava tutto così reale. Poi un luccichio da sotto il divano. Juri si chinò e allungò la mano. Il bottone. Quel fottuto bottone. Lo prese e lo annusò. Lo guardò e se lo rigirò tra le mani come una moneta rara. Poi aprì la finestra e la neve entrò bagnandogli il viso già solcato da lacrime.",
+        "Poi aprì la finestra e la neve entrò bagnandogli il viso già solcato da lacrime.",
+        "«Buon viaggio, papà» sussurrò, mentre le prime luci dell’alba facevano capolino a irradiare una nuova giornata."
     ],
     "timestamp": "2019-11-17T22:52:51Z",
     "title": "[MI 130] Incontro notturno",
