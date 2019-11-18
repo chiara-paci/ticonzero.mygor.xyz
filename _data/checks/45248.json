@@ -58,9 +58,24 @@
     },
     "num_chars": 3812,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800508,
+            "text": [
+                "Aspetta che mi drogo e ti rileggo",
+                "#pornotresto"
+            ],
+            "timestamp": "2019-11-18T15:29:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=800508"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "@avvintacomeledera faceva i suoi numeri alla sbarra. @dueocchicosì scolò il suo whisky in un sorso. La notte fiammeggiava di fuochi fatui sulla collina. Quando due sagome indistinte si stagliarono sul crinale inondato dal chiarore lunare.",

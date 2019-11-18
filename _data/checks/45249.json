@@ -46,9 +46,24 @@
     },
     "num_chars": 7899,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800506,
+            "text": [
+                "Un serio come non mai, persino poetico. La trovata è carina e per qualche motivo mi ha ricordato il film Donnie Darko (in realtà ci sono solo un paio di punti in comune...). Il testo mi è piaciuto.",
+                "Anche stavolta, come sempre, ti lascio un commento nano e inutile."
+            ],
+            "timestamp": "2019-11-18T15:28:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45249-mi-130-la-notte-%C3%A8-finita//?do=findComment&comment=800506"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte: Viaggio al termine della notte",
         "Quella notte assurda non finiva mai, ma non avrebbe potuto essere diversamente. Ero andato a letto qualche minuto prima della mezzanotte, stanco morto per il viaggio da Milano, crollando istantaneamente senza neppure il tempo di mettermi in pigiama. Del resto non ho mai fatto fatica ad addormentarmi in qualunque situazione, anche seduto e persino in piedi, come quando facevo le guardie da militare.",
