@@ -47,7 +47,7 @@
     },
     "num_chars": 7976,
     "num_commenti": 1,
-    "num_posts": 40,
+    "num_posts": 41,
     "post_after": [
         {
             "post_id": 796956,
@@ -227,6 +227,15 @@
             ],
             "timestamp": "2019-11-15T14:37:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=799887"
+        },
+        {
+            "post_id": 800593,
+            "text": [
+                "E giustamente sei stata l'alfa e l'omega dei commenti al racconto, in qualche modo tutto torna!",
+                "Grazie mille per l'apprezzamento , a rileggerci!"
+            ],
+            "timestamp": "2019-11-18T18:14:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45063-h2019-virus//?do=findComment&comment=800593"
         }
     ],
     "post_staff": [],

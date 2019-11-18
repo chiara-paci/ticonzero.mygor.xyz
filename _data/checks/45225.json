@@ -59,7 +59,7 @@
     },
     "num_chars": 3477,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800526,
@@ -71,6 +71,14 @@
             ],
             "timestamp": "2019-11-18T16:17:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=800526"
+        },
+        {
+            "post_id": 800575,
+            "text": [
+                "ROTFL"
+            ],
+            "timestamp": "2019-11-18T17:31:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=800575"
         }
     ],
     "post_staff": [],

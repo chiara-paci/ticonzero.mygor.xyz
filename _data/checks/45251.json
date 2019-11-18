@@ -90,13 +90,25 @@
     },
     "num_chars": 6969,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 800368,
             "text": [],
             "timestamp": "2019-11-17T22:29:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800368"
+        },
+        {
+            "post_id": 800595,
+            "text": [
+                "Carissima",
+                "Grazie per il commento e la lettura... praticamente hai ben riassunto tutto te...",
+                "Sì, lo stile è un po' \"arcaico\" e in molti punti - come quelli da te evidenziati - lo è volutamente.",
+                "Questa idea (che poi, appunto una sorta di trama c'è) mi è sempre piaciuta... nata e sviluppata per essere un meta-racconto a briglie sciolte... oggi, sì, sono cambiato, ma resto affezionato alle mie creature passate... sicuramente le scriverei in maniera diversa, però.",
+                "Grazie di tutto, per gli apprezzamenti e le annotazioni, davvero, e alla prossima!"
+            ],
+            "timestamp": "2019-11-18T18:14:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800595"
         }
     ],
     "post_staff": [],

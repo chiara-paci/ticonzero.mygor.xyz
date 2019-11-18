@@ -1,0 +1,102 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Questa strofa, assieme all'ultima, la trovo grandiosa. L'immagine ricreata è estremamente suggestiva, quasi un'implorazione a questo vento che si porta via l'estate. Il fil di ferro intorno al cuore rende bene l'idea di oppressione alla quale rimanda l'arrivo dell'inverno. Così, l'io narrante chiede che questa stretta al cuore venga allentata, per trattenere ancora un po' nel proprio petto gli ultimi attimi di tepore.",
+                    "Da un tempo perso nel passato,",
+                    "il cui inizio precede la memoria,",
+                    "sfioro il male della terra:",
+                    "Anche questa immagine mi è piaciuta molto: evocativa e raffinata.",
+                    "diffondo singhiozzi e invocazioni,",
+                    "trasporto il sudore e la paura,",
+                    "asciugo le lacrime del mondo",
+                    "e posso percepire, tra l'angoscia,",
+                    "anche il tuo cuore sanguinante",
+                    "Questi versi mi trasmettono in modo efficace il malessere dell'io narrante, un senso di angoscia ed oppressione. Però li asciugherei, a mio parere c'è una ridondanza di immagini. Il tutto è un po' troppo barocco e melodrammatico.",
+                    "Faccio quel che sono:",
+                    "spettatore della vita",
+                    "attore delle stagioni",
+                    "Belli questi versi, soprattutto quell' \"attore delle stagioni\". Meriterebbe un approfondimento, maggiore spazio all'interno del testo.",
+                    ".",
+                    "Il filo spinato stringe",
+                    "come",
+                    "cilicio infernale.",
+                    "Mi lascia",
+                    "notti insonni",
+                    "come",
+                    "alcolizzato senza vino,",
+                    "ossa spezzate",
+                    "come",
+                    "schegge di cristallo,",
+                    "lacrime amare",
+                    "come",
+                    "miele di castagno.",
+                    "Anche questa strofa la asciugherei un po'. Seppur mi arrivi con efficacia tutto il dolore espresso, trovo ci sia Troppo dramma. Anche alleggerendo e sfrondando il testo di tutte quelle immagini cupe e dolorose, il senso arriverebbe lo stesso al lettore (secondo me, ma è una questione di gusto personale).",
+                    "Posso soffiare sulle tue ferite",
+                    "un balsamo leggero,",
+                    "posso muovere sul tuo tormento",
+                    "venti lievi e aliti tiepidi:",
+                    "sposteranno le nuvole",
+                    "nel cielo inoltrato d'autunno,",
+                    "all'ora calma del tramonto",
+                    "un ultimo paesaggio di sole",
+                    "prima che giunga l'inverno.",
+                    "Anche questa strofa mi piace molto, come la prima. Non vi leggo soltanto buio e dolore, ma anche un tocco di luce e di speranza, come quel balsamo leggero, i venti lievi, l'ultimo paesaggio di sole. Mentre nei precedenti veniva troppo ribadito il senso di dolore e disperazione, qua scorgo una sfumatura diversa. il tono è meno monocorde. meno melodrammatico.",
+                    "Nel complesso, una gradevole lettura.",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2019-11-18T18:05:12Z",
+            "title": "Parlo al vento",
+            "url": "https://www.writersdream.org/forum/forums/topic/44764-parlo-al-vento//?do=findComment&comment=800589",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 128,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "Alla mia collezione di puzzle",
+        "se n'è aggiunto un altro,",
+        "il più difficile da ricomporre:",
+        "questo cuore fatto a",
+        "pezzi. Troppi."
+    ],
+    "timestamp": "2019-11-18T18:07:46Z",
+    "title": "Puzzle",
+    "topic_id": 45268,
+    "url": "https://www.writersdream.org/forum/forums/topic/45268-puzzle/"
+}

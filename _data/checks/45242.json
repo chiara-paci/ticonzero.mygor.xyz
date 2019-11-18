@@ -89,7 +89,7 @@
     },
     "num_chars": 10370,
     "num_commenti": 2,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 800311,
@@ -101,6 +101,16 @@
             ],
             "timestamp": "2019-11-17T19:17:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=800311"
+        },
+        {
+            "post_id": 800567,
+            "text": [
+                "Ciao , grazie per la lettura e per il commento, ricco di suggerimenti e segnalazioni (come la svista alla prima frase, bel modo di iniziare un racconto... ).",
+                "Sono contento che ti sia piaciuto, nonostante l'argomento scientifico-filosofico, come l'hai giustamente definito, che ho cercato di condire con un po' di ironia per renderlo più digeribile.",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-18T17:14:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=800567"
         }
     ],
     "post_staff": [],

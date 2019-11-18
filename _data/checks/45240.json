@@ -57,8 +57,38 @@
     },
     "num_chars": 5979,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 800400,
+            "text": [
+                "Ciao",
+                "Grazie di aver letto e commentato innanzitutto.",
+                "Partiamo dal mio nicknane che e' relativo al Jack Dawson di Titanic e non a quello di Dawson Creek :-).",
+                "Andiamo al racconto il mio Orlando e' solo omonimo dell'Orlando furioso, come hai imnaginato l'ho chiamato cosi proprio per dare una connotazione positiva al personaggio.",
+                "Ti do' ragione sulla lunghezza della storia, nella prima versione esisteva solo il combattimento col soldato e il ricordo del salvataggio della ragazza poi ho dovuto allungare il racconto per poter partecipare ad una gara letteraria e probabilmente il racconto originale ha perso forza.",
+                "Non ho capito se poi il racconto ti e' piaciuto o meno :-)"
+            ],
+            "timestamp": "2019-11-18T07:26:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800400"
+        },
+        {
+            "post_id": 800458,
+            "text": [
+                "Ciao",
+                "Grazie per avermi commentato e soprattutto per ricordarti di me.",
+                "Davvero notevole questa cosa :-), ho scritto pochissimo in confronto a chi e' qui da piu tempo come voi.",
+                "Ti ringrazio per i tuoi consigli sicuramente ne faro' tesoro.",
+                "Su alcuni punti mi sento di aggiungere che quando parlo di bosco piu' fitto intendo nella parte di bosco meno visibile da altri e piu difficile da percorrere, allo stesso modo quando dico che l'uomo esce dal bosco e' perché in realtà Orlando si trova in una radura in quel momento.",
+                "Per il resto concordo con te che forse mi sono dilungato troppo nei ricordi e nei combattimenti.",
+                "In realtà come detto prima, la versione originale era piu breve e allungandola ho sbagliato.",
+                "Comunque sorprendere il lettore si ma sicuramente non una presa in giro.",
+                "Grazie di nuovo :-)"
+            ],
+            "timestamp": "2019-11-18T12:48:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800458"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Si trova nel bosco più' fitto, gli alberi secolari si liberano verso il cielo ed è pieno giorno. L’intero panorama sarebbe senz’altro suggestivo se il caldo dell’estate non fosse cosi presente, se non avesse altro per la testa, se non dovesse muoversi cosi velocemente! E' grato agli alberi di fornirgli almeno quella piccola protezione contro il sole. La corazza poi è pesante, l’ideale per combattere ma non per scappare, specie in una foresta e soprattutto non a piedi. Eppure Orlando, cavaliere di sua maestà non osa toglierla! Potrebbe essere raggiunto in qualsiasi momento ed essere costretto a combattere…",
