@@ -54,8 +54,20 @@
     },
     "num_chars": 7822,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800466,
+            "text": [
+                "Ciao, .",
+                "Ho immaginato i bambini in camera, prima di addormentarsi, presi a inventare storie sul papà. Rievocano i momenti in cui cantava in casa e ci costruiscono intorno una storia, provando a immaginare quanto sarebbe stato felice di duettare con uno dei suoi miti musicali.",
+                "Nelle mie intenzioni, questo era un modo individuato dai bambini per attutire il dolore della perdita.",
+                "Ti ringrazio molto per il passaggio."
+            ],
+            "timestamp": "2019-11-18T13:41:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45255-mi-130-il-mondo-delle-ombre-e-dei-sospiri//?do=findComment&comment=800466"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno: La vostra città invisibile",

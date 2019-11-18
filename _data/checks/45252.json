@@ -133,7 +133,7 @@
     },
     "num_chars": 5157,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 800410,
@@ -143,6 +143,14 @@
             ],
             "timestamp": "2019-11-18T08:27:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800410"
+        },
+        {
+            "post_id": 800486,
+            "text": [
+                "grazie,"
+            ],
+            "timestamp": "2019-11-18T14:40:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800486"
         }
     ],
     "post_staff": [],
