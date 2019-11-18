@@ -58,8 +58,18 @@
     },
     "num_chars": 3812,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 800519,
+            "text": [
+                "@rincitrullitascarampana non hai motivo di sentirti così. Mi auguro solo che dopo questa esperienza tu sia ancora in grado di riassemblare le meningi e tornare ad essere in mens sana. Per fortuna che l'Officina non dispone di un gabinetto d'igiene mentale, altrimenti mi avrebbero già disintegrato nell'etere.",
+                "Attendo in ecstasy® Stirami e ammirami© (quanto sono demente)."
+            ],
+            "timestamp": "2019-11-18T15:59:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=800519"
+        }
+    ],
     "post_staff": [
         {
             "author": {

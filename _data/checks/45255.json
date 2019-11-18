@@ -54,7 +54,7 @@
     },
     "num_chars": 7822,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 800466,
@@ -66,6 +66,15 @@
             ],
             "timestamp": "2019-11-18T13:41:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45255-mi-130-il-mondo-delle-ombre-e-dei-sospiri//?do=findComment&comment=800466"
+        },
+        {
+            "post_id": 800515,
+            "text": [
+                "Ho usato tetragono come aggettivo, sinonimo di resistente, irremovibile.",
+                "Il tuo passaggio è sempre gradito, caro . Ti ringrazio come ogni volta."
+            ],
+            "timestamp": "2019-11-18T15:52:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45255-mi-130-il-mondo-delle-ombre-e-dei-sospiri//?do=findComment&comment=800515"
         }
     ],
     "post_staff": [],

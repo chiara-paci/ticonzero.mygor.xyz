@@ -65,9 +65,24 @@
     },
     "num_chars": 7939,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800517,
+            "text": [
+                "passo solo per farti sapere che anche questo tuo racconto mi è piaciuto tanto. Lo trovo molto bello. Forse è uno dei miei preferiti tra i tuoi che ho letto.",
+                "EDIT: ho poco tempo e lascerò commenti inutili come questo a tutti, mi dispiace"
+            ],
+            "timestamp": "2019-11-18T15:53:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=800517"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "Era appena scesa la notte. Una foglia volava nel piazzale della bandiera.",

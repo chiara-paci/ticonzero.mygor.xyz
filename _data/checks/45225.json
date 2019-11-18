@@ -59,8 +59,20 @@
     },
     "num_chars": 3477,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800526,
+            "text": [
+                "Sì, hai capito qualcosa. L'onorevole Laqualunque, avendo saputo che l'aula era sta convocata e immaginando che gli avrebbero chiesto conto dei suoi interessi (quali? boh!), forse non è sceso dal treno. Il senatore che fa il discorso non ha le prove ma solo un sospetto. L'unica cosa certa è che Laqualunque non si è presentato in aula.",
+                "Per questo l'ho chiamato \"esercizio di stile\". È volutamene ingarbugliato, sia nella storia che c'è dietro (della quale non si capisce né si sa nulla) sia nelle strutture grammaticali, cioè anche nelle scelte dei modi e dei tempi verbali (si alternano indicativi, congiuntivi, condizionali con vari tempi), nell'uso di un \"politichese\" piuttosto oscuro, ecc…. Pensa che la prima versione che ho scritto era ancora più cavillosa, ma poi ho deciso di semplificare il tutto.",
+                "Farò altri esercizi appena ho tempo molto più intricati di questo. D'altronde i nostri politici, col loro \"politichese\", sanno fare di peggio (o di meglio, secondo i punti di vista). A volte mi chiedo se non basti copiare un discorso reale di qualche politico per ottenere l'effetto non fare capire niente all'ascoltatore",
+                "Grazie, sorella WDiana!"
+            ],
+            "timestamp": "2019-11-18T16:17:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=800526"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Onorevoli Senatrici e Senatori, Signora Presidente,",
