@@ -60,8 +60,25 @@
     },
     "num_chars": 3957,
     "num_commenti": 1,
-    "num_posts": 9,
-    "post_after": [],
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 800660,
+            "text": [
+                "Ciao",
+                "grazie per il tuo commento che invece mi è utilissimo, soprattutto per pulci e pinzette varie (sulle quali concordo in pieno, ad esempio la frase dell'incipit che hai citato che suonava strana anche a me e che non ne capivo bene il motivo. Dunque grazie e a presto!",
+                "Ciao",
+                "Qui è la seconda che hai detto. Grazie del suggerimento e del passaggio!",
+                "Ciao",
+                "Volevo lasciare in secondo piano la scena dell'omicidio, come se lei lo avesse in qualche modo rimosso e fosse sorpresa lei stessa di ritrovarsi morta nel fiume. Però hai fatto bene a farmi notare che il passaggio è troppo brusco. Forse il racconto è un po' troppo compresso. Grazie per il suggerimento!",
+                "Ciao",
+                "grazie per essere passata lo stesso a commentare! Sono contenta che il racconto ti sia piaciuto!",
+                "In realtà le motivazioni della morte, in questo caso la colluttazione con l'amante, nella mia idea di partenza erano solo l'imput per soffermarmi sull'abbandono e la contemplazione della morte. Questo dimostra che quello che scriviamo a volte va oltre le nostre intenzioni e prende strade diverse a seconda della sensibilità del lettore. E trovo che sia una cosa molto bella. Grazie ancora e alla prossima!"
+            ],
+            "timestamp": "2019-11-18T21:19:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45246-mi-130-un-incontro-nella-notte//?do=findComment&comment=800660"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzanotte: Viaggio al termine della notte",
