@@ -61,7 +61,7 @@
     },
     "num_chars": 7523,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 800635,
@@ -77,7 +77,25 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45253-mi130-linquilino//?do=findComment&comment=800635"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800703,
+            "text": [
+                "Ha appallottolato il foglio? Penso che fruscio non sia la parola più adatta. Ho cercato su google e in effetti non ho trovato una parola per difinire questo suono. I più dicono che si tratti di un “rumore crepitante”, come lo foglie secche sotto i piedi.",
+                "Il sonno che boicotta la protagonista non mi fa impazzire. È un’espressione un tantino strana.",
+                "Questa volta non ho trovato frasi fatte fastidiose",
+                "Buon racconto , è un racconto “statico”, nel senso che succede poco e si pensa tanto, ma secondo me sei stata molto brava ad inserire qua e là qualcosa di concreto, i piccoli gesti della protagonista, i piccoli movimenti. Sono come delle vertebre che impilate una sopra l’altra costruiscono una spina dorsale a sostenere la “ciccia molle”, cioè i pensieri, le paure della protagonista, che sono naturalmente la parte fondamentale del racconto, ma che da sole in un racconto non si reggono.",
+                "Mi è piaciuto, brava."
+            ],
+            "timestamp": "2019-11-19T08:14:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45253-mi130-linquilino//?do=findComment&comment=800703"
+        }
+    ],
     "text": [
         "traccia di mezzanotte",
         "La carta sparisce nel pugno con un fruscio lungo che rilassa i muscoli tesi. Se solo potesse eliminare con lo stesso gesto anche il suo contenuto. Si alza dal letto sfatto e getta la pallina accartocciata nella pattumiera sotto la scrivania. L'orologio al polso segna la mezzanotte passata di pochi minuti.",

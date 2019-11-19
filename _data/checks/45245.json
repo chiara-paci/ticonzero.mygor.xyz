@@ -63,7 +63,7 @@
     },
     "num_chars": 8033,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 800320,
@@ -82,9 +82,36 @@
             ],
             "timestamp": "2019-11-18T14:42:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45245-mi-130-col-petto-nudo-esposto-al-buio-della-notte//?do=findComment&comment=800489"
+        },
+        {
+            "post_id": 800707,
+            "text": [
+                "Ciao e ciao",
+                "Grazie per le utili pulci e per gli apprezzamenti.",
+                "e beh, sì, al di là delle apparenze...",
+                "Sì, assolutamente vero. Lo avevo in testa scrivendolo (ma credo che quello sia meglio riuscito)",
+                "Beh, chissà... ma secondo me, di quelli, nessuno batte chiodo"
+            ],
+            "timestamp": "2019-11-19T08:20:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45245-mi-130-col-petto-nudo-esposto-al-buio-della-notte//?do=findComment&comment=800707"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800711,
+            "text": [
+                "Mi ha ricordato un altro tuo racconto sulla luna, che però non ricordo molto bene. Pensa un po’, mi hai ricordato una cosa che non ricordo.",
+                "Buon racconto Edu, bravo."
+            ],
+            "timestamp": "2019-11-19T08:34:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45245-mi-130-col-petto-nudo-esposto-al-buio-della-notte//?do=findComment&comment=800711"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte: viaggio al termine della notte",
         "Mi svegliai che era ancora notte.",
