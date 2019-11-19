@@ -1,0 +1,132 @@
+{
+    "author": {
+        "author_id": 26275,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Folletto",
+        "url": "https://www.writersdream.org/forum/profile/26275-folletto/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao complimenti per il racconto.",
+                    "Io penso di essere proprio l'ultimo che può farti correzioni ma ci proverò ugualmente.",
+                    "Il racconto è interessante, piacevole l'idea di fondo e persino l'ambientazione. Pochi personaggi, e questo è un pregio in un testo di questo genere.",
+                    "Mi è mancata un po’ la scorrevolezza, il testo tende a diventare ampolloso in alcune fasi, soprattutto nei dialoghi della seconda parte dove spesso inserisci parti a mio parere superflue e lievemente meccaniche. I dialoghi sono complicati, ne so qualcosa. Però snelliti a dovere e resi più fluidi da un tono più realistico tra due ragazzi adolescenti ne esce fuori sicuramente un bel lavoro. Cambierei l’ingresso della madre, quello che dice suona artificiale, eliminerei anche alcune descrizioni interne ai dialoghi rendendoli più incolonnati dopo averli opportunamente snelliti.",
+                    "Per il resto a parte i cambi passato- presente che non mi hanno fatto impazzire il testo mi piace, il personaggio principale mi ricorda un po’ me e i miei interrogativi e la voglia di parlare con tutti anche alla fermata del pullman. Sinceramente ho invidiato alcune tue descrizioni, sono scritte molto bene e con la giusta fluidità.",
+                    "Non so se è italiano forbito o un refuso, nel secondo caso cambialo.",
+                    "Mi piace, bravo.",
+                    "Che invidia, non sarei riuscito a mettere insieme queste parole, bravo anche qui.",
+                    "Qui avrei scritto: \"Senza scrupoli, per intendersi, come se gli fosse dovuta\". \"Quella\" non mi piace.",
+                    "I personaggi li avrei sviluppati un pochino di più, mi sono parsi un po' piatti, ma nel complesso bene. La storia è carina, divertente e con un finale interessante, dialoghi bene ma devi adattarli meglio all'età, hai un'ottima capacità descrittiva, una buona prosa generale e non vedo l'ora di leggere qualcos'altro di tuo. Per me è un sì deciso."
+                ]
+            ],
+            "timestamp": "2019-11-18T20:27:57Z",
+            "title": "Nicolò e la noia",
+            "url": "https://www.writersdream.org/forum/forums/topic/45078-nicol%C3%B2-e-la-noia//?do=findComment&comment=800639",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 10121,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 800650,
+            "text": [
+                "Ciao , da per postare un proprio racconto è necessario commentarne un altro in modo approfondito. Nel caso dei Racconti Lunghi il commento approfondito deve essere fatto a un altro racconto lungo, o in alternativa si possono commentare due racconti da 8000 caratteri.",
+                "Per ora chiudo la discussione. Per riaprirla, fai avere il link al tuo (o ai tuoi) commenti a me o a un altro staffer tramite MP."
+            ],
+            "timestamp": "2019-11-18T21:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=800650"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 800666,
+            "text": [
+                "."
+            ],
+            "timestamp": "2019-11-18T21:29:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=800666"
+        }
+    ],
+    "text": [
+        "Faceva caldo in quell'anfratto roccioso, erano poco più di due ore che giacevano in silenzio appoggiati contro i muri umidi di quella grotta. La volta era un intricato mosaico di macchie muffose e muschi penzolanti, c’era odore stantio, un senso claustrofobico avvolgeva il tutto, dal fondo proveniva il rumore cristallino di gocce d’acqua.",
+        "Saverio era seduto nel punto più buio, a malapena si riusciva a scorgerne i tratti del volto, ma forse era meglio così, di certo non era un bello spettacolo. Era affranto, con il viso sconvolto, gli occhi stralunati e un senso di nausea così forte da fargli sentire unicamente la voglia di vomitare. Si domandò più volte cosa lo aveva spinto in quella impresa rovinosa, in quel momento avrebbe desiderato con ogni molecola del corpo di trovarsi lontano anni luce da quel posto puzzolente. Il senso del rischio dava vertigini, lo faceva sentire più morto che vivo, così spaventato da potere sentire ogni pulsazione delle vene sotto la pelle unta dal sudore, percepiva ogni rantolo sommesso delle viscere che sembravano sul punto di sgusciare fuori dal ventre. Lui non era così, come capacitarsi del fatto di trovarsi insanguinato, dolorante e spaventato dentro una grotta? Cosa aveva trasformato il buon Saverio in quell’uomo rintanato nell’ombra? I soldi? Sì, gli parve una buona risposta.",
+        "Nicola si era accoccolato verso l’ingresso della caverna: una grossa bocca simili a fauci canine che lasciava filtrare qualche sghembo raggio di luce processato dalla fitta coltre d’alberi all'esterno. La camicetta che indossava era sgualcita, lurida, resa impresentabile dalla copiosa colata di sangue oramai coagulato sceso dal naso.",
+        "«Se ne sono andati?», chiese dal lato più oscuro della grotta Saverio.",
+        "«Si, penso proprio di sì. Ci siamo attardati troppo, a quest’ora potevamo già essere a valle.»",
+        "«La sicurezza non è mai troppa.»",
+        "Sul volto di Nicola campeggiò una smorfia rabbiosa, le labbra si erano ridotte a due piccoli lembi di carne rattrappita, se non fosse stato per l’esito finale del “colpo” di certo avrebbe scarrellato la .45 che teneva salda tra la cintura e le mutande e si sarebbe liberato volentieri dell’intero caricatore svuotandolo sul compagno di rapina. «Mi prendi in giro? E’ scoppiata l’apocalisse in quel buco postale e mi vieni a dire che la sicurezza non è mai troppa?»",
+        "Nicola si alzò in piedi, per quanto fosse malmesso e traballante la sua stazza continuava ad incutere un certo timore reverenziale, sembrava un orso marsicano ferito. La barba incolta era diventata un grumo di sangue scuro impastato con sudore e polvere raccolta durante la fuga repentina, gli occhi erano due buchi profondi simili a voragini. «Per quei due non c’è più nulla da fare, saranno già morti.»",
+        "Saverio annuì mentre si alzava a fatica sulle gambe uscendo dal cono oscuro che lo aveva inghiottito. Non appena fu eretto uno scricchiolio d’ossa rimbombò all’interno della caverna, camminò lentamente, anche per lui la fuga non fu facile e lo si poteva evincere dal pelle scorticata del grugno e la maglia lacerata per lungo come se qualcuno gliel’avesse tranciata di netto con un machete. Era un omino esile, con lunghe gambe filiformi e guance più incavate di una groviera. Durante il furto era partito un conflitto a fuoco con i poliziotti, poi due complici caddero a terra esanimi, loro si fecero largo verso la salvezza facendo sputare piombo alle semiautomatiche, guadagnata un po’ di strada si infilarono in macchina e premuto il gas al massimo partì una fuga rocambolesca verso la campagna. Abbandonarono il mezzo nei campi e corsero verso i boschi fuggendo in mezzo a rovi e frasche, Nicola cadde e si ruppe il naso, Saverio si scarnificò il muso tra i rami acuminati delle acacie, poco importava, tutto era meglio che quell'inferno di piombo in cui si erano trovati poco prima. Corsero a perdifiato sotto la coltre arborea, imprecarono, sputarono sangue, tennero duro fino a che i polmoni iniziarono a collassare sotto il peso di quella corsa senza tregua sino a che trovarono quel rifugio improvvisato.",
+        "«Ma come cazzo è potuto succedere?», chiese Saverio tastandosi una costola dolorante.",
+        "«E’ successo perché non abbiamo scelto la via più semplice, non la scegliamo mai. Sempre cose complicate, sempre minchiate.»",
+        "«Ma non lo potevamo saper-» Saverio venne interrotto bruscamente.",
+        "Nicola agitava il pugno destro con veemenza, era un chiaro segnale già visto altre volte, meglio tacere perché quando Nicola si arrabbia è meglio avere a che fare con un treno in corsa, forse quell'ammasso di ferraglia e cavi sarebbe stato più clemente. Era un duro, su questo non c’erano dubbi, il più tosto di tutta Centocelle, quell’omone esalava un aroma di loschi retrobottega, spaccio di stupefacenti e risse al bancone del bar. Era diventata leggenda la scazzottata con degli ultras al bar da Nenni, da solo Nicola era riuscito ad accopparne tre e senza nemmeno ricorrere al grosso delle sue forze.",
+        "Però in quel momento Saverio riuscì a scorgerne l’umanità più intima, quella di un grosso energumeno tutto nocche e testate che per poco non se l’era fatta sotto. In fondo loro due erano criminali da taverna, persone in grado di rubare ad un tabaccaio l’intero incasso della giornata senza fiatare ma non di certo abbastanza formati per reggere un conflitto a fuoco con tre volanti della polizia. A malapena sapevano sparare e durante lo sconquasso avvenuto all’ufficio postale tirarono i grilletti senza nemmeno rendersene conto. Forse fu Dio a salvarli, era l’ipotesi più probabile.",
+        "«Cos’è ‘sto odore?» chiese Nicola sorpreso per riuscire ancora a sentire la puzza di qualcosa nonostante il naso spappolato.",
+        "Saverio indicò il cavallo dei pantaloni, il viso rimase impassibile, non provò alcuna vergogna. «Mi sono pisciato addosso.»",
+        "In altri momenti Nicola si sarebbe abbandonato al riso incontenibile, avrebbe tranquillamente squarciato l’animo dell’amico con commenti taglienti e offensivi, ma allora non si sentì nemmeno la forza di rimproverarlo per la troppa vicinanza dei pantaloni pisciati alla sua persona. Non si sentì di dire proprio nulla, era tutto troppo confuso, troppo difficile, troppo reale.",
+        "«Ce ne andiamo?» disse Saverio.",
+        "Nicola attese qualche istante, si riassestò le membra prima di proferir parola, tirò uno sputo per terra che finì ad impattare contro una pietra, colò una strisciolina di bava impregnata di sangue.",
+        "«Si, facciamo il bosco e poi ci buttiamo sulla statale, li ho un amico che ci procurerà un mezzo.»",
+        "Saverio scosse il capo perplesso. «No, è pericoloso rituffarci sulla strada, facciamo il bosco e poi aspettiamo al capanno.»",
+        "«Per quale cazzo di motivo devi sempre scegliere la via più complessa? Me lo sai dire? Ti ho già detto che siamo in questa situazione pietosa proprio perché non abbiamo scelto la via più semplice.»",
+        "Nicola aveva il fiatone anche se aveva smesso di correre da ore, la fronte era diventata una grondaia di sudore che colava sul naso demolito lavandone il sangue sotto le narici. Non appena il volto sfatto di Nicola toccò un lembo di luce Saverio fece un sussulto, sembrava di vedere un sudario accartocciato, lo sguardo era sofferente, il naso maciullato, le rughe approfondite, era come se fosse invecchiato tutto d’un colpo.",
+        "«Sei sicuro di potere proseguire? Non vuoi fermarti ancora?», disse Saverio appoggiando il palmo della mano sulla spalla del corpulento amico.",
+        "«Non ci penso nemmeno, prendi quel sacco e andiamocene.»",
+        "«Ti fidi di me?» chiese Saverio stropicciando il pollice con l’indice a simulare il rumore dei soldi.",
+        "«Pensi che io abbia paura che rubi il gruzzolo? Sei troppo onesto per farlo.»",
+        "«Ho rapinato le poste con te, non penso di essere così onesto come dici.»",
+        "«Ma perché devi sempre complicare tutto, non riesci proprio a tapparti quel cesso di bocca e fare cosa dico io.»",
+        "Saverio sorrise innocentemente «Si, era solo per dire. Trovavo solo strano che ti fidassi di me affidandomi ventimila euro. E poi hai detto che sono onesto, ma questo mi sembra difficile da credere dato che sono un rap-»",
+        "«E la vuoi piantare? I cadaveri dei nostri amici sono caldi, gli sbirri ci stanno cercando e tu mo’ ti metti a fare una conferenza di psicologia o di quello che cazzo è, piantala.»",
+        "«Scusa», rispose Saverio con l’aria di un cane preso a legnate, abbassò la testa come se stesse per ricevere una benedizione.",
+        "Nicola avrebbe voluto mollargli un pugno sul muso, ma si trattenne, gli serviva, doveva portare il sacco con i soldi, lui non ce l’avrebbe fatta, aveva di sicuro una gamba rotta, lo sentiva dal dolore lancinante e le pulsazioni che riverberavano fin sulle vertebre della spina dorsale. In più respirava a fatica con la sola forza della bocca, meglio tenersi stretto quel rapinatore petulante. «Non è colpa tua», disse Nicola, «è solo che non scegliamo mai la via più semplice e mo’ ci tocca faticare.»",
+        "«Già», rispose Saverio afferrando il sacco infeltrito nascosto dietro un pietrone, «andiamo.»",
+        "Uscirono fuori, la luce invase le loro pupille assuefatte al buio inchiostrato della caverna facendogli strizzare le palpebre freneticamente, mossero qualche passo incerto, il cuore di Saverio schizzò sopra l’esofago per la tensione provata si placò solo quando si rese conto che non c’era nessuno all’esterno. Si era già immaginato fucili spianati, urla, mitragliette fumanti, invece ci fu silenzio.",
+        "Nicola mosse due passi sul fogliame rancido a terra, lo sciabordio dei rami sopra le loro teste sembrò calmarlo, sentì un tonfo, si girò di scatto all’indietro, di sicuro quell’ idiota di Saverio era svenuto.",
+        "Vide il sacco con i soldi a terra, gettato malamente verso la base di un albero, a destra la canna brunita della pistola di Saverio puntata all’altezza della fronte. Nicola sentì il respiro fermarsi, il cuore non pompò nulla paralizzando il torace, emise un farfuglio impastato: «Ma che?»",
+        "«Sei ferito, non cammini e ventimila sono meglio di dieci. E’ la via più semplice Nico.»",
+        "Partì lo sparo, il carrello arretrò espellendo la cartuccia, la canna vomitò fiamme, Nicola rovinò a terra, il cranio si dilaniò facendo eruttare un fiotto di sangue sul terreno marcescente, gli occhi divennero opachi.",
+        "«La via più semplice», rimarcò Saverio."
+    ],
+    "timestamp": "2019-11-18T20:56:31Z",
+    "title": "Le vie della rapina.",
+    "topic_id": 45271,
+    "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina/"
+}
