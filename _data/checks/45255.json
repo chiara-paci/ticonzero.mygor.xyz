@@ -54,7 +54,7 @@
     },
     "num_chars": 7822,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 800466,
@@ -89,7 +89,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45255-mi-130-il-mondo-delle-ombre-e-dei-sospiri//?do=findComment&comment=800736"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800784,
+            "text": [
+                "Quanto spigni"
+            ],
+            "timestamp": "2019-11-19T13:18:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45255-mi-130-il-mondo-delle-ombre-e-dei-sospiri//?do=findComment&comment=800784"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno: La vostra città invisibile",
         "Il mondo delle ombre e dei sospiri",
