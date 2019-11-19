@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 27585,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "mercy",
+        "url": "https://www.writersdream.org/forum/profile/27585-mercy/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Direi \"avesse\", anche se mi sono trovata spesso in dubbio con l'uso del congiuntivo nelle interrogative indirette. In realtà l'indicativo non è un errore in assoluto, ma a me suona male.",
+                    "Anche qui non ci sono errori, ma due verbi riflessivi così vicini impastano la lingua. Varierei \"come capacitarsi del fatto che si trovava...\" oppure in altro modo.",
+                    "\"Accoccolarsi\" significa \"piegarsi sulle ginocchia quasi sedendosi sui calcagni, rannicchiarsi, raggomitolarsi\" [Treccani]. Essendo un verbo che descrive uno \"stato in luogo\", non credo si possa usare con \"verso l'ingresso\". Direi \"accoccolato accanto all'ingresso\", oppure \"con il volto rivolto verso l'ingresso\".",
+                    "Perché il soggetto in fondo alla frase? Mi sembra inusuale e un po' farraginoso. \" chiese Saverio dal lato più oscuro della grotta\".",
+                    "Anche più avanti nel racconto.",
+                    "Dato che il racconto è scritto al passato, le azioni precedenti al momento della narrazione dovrebbero andare al trapassato. Se ho capito bene, la fuga di cui si parla è quella avvenuta in seguito alla rapina e prima che i due si rifugiassero nella grotta ---> anche per lui la fuga non era stata facile.",
+                    "Non conoscevo il termine \"groviera\" (se non al maschile \"il groviera\", che è un formaggio con i buchi) e non l'ho trovato sul dizionario. che significa?",
+                    "Raccontando come i due rapinatori siano finiti nella grotta (come in un flashback) cominci con il trapassato prossimo e poi passi al passato remoto. Io (come ho già detto) userei il trapassato per tutto il paragrafo. Mi chiedo anche: tutto questo passaggio è necessario?",
+                    "Tempi verbali: come sopra.",
+                    "Non ho mai sentito \"formati\" usato in questa accezione, nel senso di \"addestrati\" o \"abili\" o \"esperti\". Credo sia un linguaggio parlato, o gergale.",
+                    "In generale, trovo che tu sia avaro con le virgole. Io ne userei almeno il doppio. Non è detto che io abbia ragione, ma le tue frasi sono molto lunghe e dettagliate, qualche piccola pausa che ne individui il ritmo e la struttura forse renderebbero la lettura più semplice.",
+                    "Refusi: \"sì\" e \"lì\".",
+                    "\"Uscire fuori\" è pleonastico, dato che non si può certo \"uscire dentro\". Accettabile nel linguaggio parlato che usi in tutto il racconto, ma io lo trovo fastidioso.",
+                    "Ciao, Folletto, scusami per le pulci ma il commento mi serve per pubblicare.",
+                    "Immagino che questo racconto sia una sorta di esercizio di stile oppure un frammento perché, a fronte di una trama poco originale, lo stile è particolare: denso di aggettivi, con periodi molto lunghi e strizzate d'occhio al linguaggio parlato che è tutt'altro che facile usare quando si scrive.",
+                    "A fronte delle descrizioni pulp (mi veniva continuamente in mente \"Le Iene\", leggendo), non sono riuscita a dispiacermi per la morte di Nicola, perché non ho fatto a tempo a conoscerlo un poco. So che è spaventato e dolorante, cioè, ma non so nulla del suo passato, dei suoi pensieri, dei suoi sentimenti eccetera. Far sanguinare un personaggio a cui il lettore non è affezionato, può al massimo fare schifo, repulsione, cose così. Questo, il tuo racconto lo fa. Ma per sentire il dolore, la paura, la rabbia credo che il lettore debba riuscire ad immedesimarsi in qualche modo nel personaggio, e per questo l'autore deve lavorare di lima. Altrimenti rimane solo un po' di repulsione fine a sé stessa.",
+                    "Questione di psicologia, questione di pensiero.",
+                    "Non vorrei essermi spiegata male: non intendo dire che dovresti raccontare la storia dell'infanzia infelice di Nicola o della fidanzata che l'ha mollato. Potresti benissimo mostrarmi semplicemente un suo ricordo, un suo pensiero, dei gesti che lo caratterizzano. Qualsiasi cosa faccia di lui \"Nicola\", diverso da un qualsiasi piccolo criminale di borgata.",
+                    "Faccenda difficile, eh? soprattutto in un racconto. Io per esempio non ne sono assolutamente capace. Però penso valga la pena provarci.",
+                    "A rileggerti."
+                ]
+            ],
+            "timestamp": "2019-11-18T23:36:22Z",
+            "title": "Le vie della rapina.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=800684",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2740,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Al viaggiatore assonnato che arrivi alla stazione prima dell’alba, la città non lascia alcuna impressione peculiare. Istina riposa in un anfiteatro di colline, nella valle del Čista reka: nient’altro che una manciata di lucine che baluginano nella foschia intorno al fiume.",
+        "Lasciandosi alle spalle i campi e le ciminiere ancora spente, ci si addentra nelle strade lastricate con il peso della valigia che dondola lungo il fianco; le fiammelle dei lampioni sono l’unica compagnia, allungano e rimpiccioliscono l'ombra al ritmo dei passi, almeno finché non si incontra un lampionaio che risponde al saluto con un cenno silenzioso.",
+        "Ma Istina si sveglia appena sorge il sole: risuonano voci e passi dietro le imposte chiuse, aprono i caffè. Dalle le serrande delle panetterie si diffonde l’odore pungente e caldo del lievito che cuoce e quello pastoso delle focacce. Uomini con il berretto in testa e mollette sul fondo dei calzoni pedalano zigzagando tra le diligenze e i carretti; i commessi puliscono le vetrine dei negozi e, agli angoli delle strade, donne con grandi ceste di uova o frutta appoggiate al fianco lanciano richiami ai passanti.",
+        "- Uova di gallina che hanno al massimo due giorni! – ripete una.",
+        "- Prugne appena colte! Costano poco perché sono aspre, ma se ne può fare un’ottima marmellata. Prugne appena colte! – esclama un’altra.",
+        "Allora il viaggiatore si rivolge a uno strillone che offre giornali sotto ai portici. Chiede: - Sono pazze quelle donne?",
+        "- Perché mai, signore? - risponde il ragazzo. - Vuole comprare la Gazzetta, anche se le notizie di oggi sono più o meno quelle di ieri?",
+        "Ci si allontana decisi a ripartire con il prossimo treno, mentre la giornata degli istinesi procede come di consueto.",
+        "- Non ho studiato, - confessa un alunno alla maestra.",
+        "- Questo scollo cade davvero male, - mormora desolata la sarta a una cliente. - Dovrò rifarlo.",
+        "- Oggi finisco il turno alle due, ma credo passerò il pomeriggio all'osteria, - dice l’operaio salutando la moglie.",
+        "Gli abitanti di Istina, insomma, non sono capaci di mentire alla luce del sole. Solo la notte potrebbero nascondersi dietro il silenzio e le bugie, ma proprio per questo nessuno accetta promesse né tratta affari dopo il tramonto: neanche gli innamorati si incontrano al buio, quando chiudono persino i teatri e le famiglie comunicano a gesti.",
+        "Quale sia la causa della loro menomazione, gli abitanti di Istina non sanno dirlo. Potrebbe dipendere dalla limpidezza delle acque del Čista reka, o da un incantesimo del progettista, l’architetto-alchimista Vojnović.",
+        "- Forse il Re, - dicono i vecchi seduti a prendere il fresco sulle soglie prima del tramonto. - Forse il Re e i suoi Ministri conoscono il segreto di Istina. Ma, non essendo di Istina, possono tenerlo per sé."
+    ],
+    "timestamp": "2019-11-18T23:45:16Z",
+    "title": "[MI 130 - peccato essersi persi il concorso] Istina",
+    "topic_id": 45273,
+    "url": "https://www.writersdream.org/forum/forums/topic/45273-mi-130-peccato-essersi-persi-il-concorso-istina/"
+}

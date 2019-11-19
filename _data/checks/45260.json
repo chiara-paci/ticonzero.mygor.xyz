@@ -99,7 +99,7 @@
     },
     "num_chars": 7896,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 800571,
@@ -118,6 +118,31 @@
             ],
             "timestamp": "2019-11-18T17:18:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=800571"
+        },
+        {
+            "post_id": 800649,
+            "text": [
+                "Hola, mio benefattore , grazie per la consueta generosità.",
+                "Ok, ci ragionerò su, anche se personalmente ogni tanto mi piace inserire qualche periodo un po' lungo, capisco che non a tutti possa andare a genio",
+                "P.s. per quanto riguarda gli \"a capo\" sono davvero in difficoltà. Scrivendo con lo smartphone mi viene difficile gestirli, così come i doppi spazi...",
+                "Mah, voleva essere un sinonimo di intuire, però credo di non avere indovinato...",
+                "Non so se voleva essere un complimento, ma per me non lo è affatto e, anzi, se avessi solo immaginato che l'impressione generale del racconto sarebbe potuta scaturire in un accostamento a un \"b movie\", non lo avrei mai pubblicato",
+                "È anche vero che siamo qui per prenderci delle bastonate e se proprio potessi scegliere da chi farmele dare, uno di questi saresti proprio tu... quindi, grazie!",
+                "Eh, io c'avevo puntato parecchio",
+                "Mmm... di questo non ne sono convinto dato che si tratta di una similitudine. Oltretutto bisognerebbe cambiare anche \"fa\" con \"faceva\"...",
+                "Che dire, caro , questo tuo commento si sposa perfettamente con lo spirito del Wd, quindi ti ringrazio doppiamente per le critiche negative e sincere (anche se ogni tanto farebbe piacere riceverne solo di positive, ma la vedo dura).",
+                "A buon rendere"
+            ],
+            "timestamp": "2019-11-18T21:00:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=800649"
+        },
+        {
+            "post_id": 800656,
+            "text": [
+                "Però Nino le unghie dei piedi le taglia senza distruggere i televisori"
+            ],
+            "timestamp": "2019-11-18T21:11:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=800656"
         }
     ],
     "post_staff": [],

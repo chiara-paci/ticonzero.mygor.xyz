@@ -52,8 +52,24 @@
     },
     "num_chars": 10121,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 800754,
+            "text": [
+                "Hai ragione, mannaggia, è un vizio che mi perseguita.",
+                "Altro che pulci, il testo fa un po' schifo, ma l' officina serve proprio a questo: migliorarsi.",
+                "È uno stile che padroneggio poco, solitamente scrivo romanzi storici ma questa volta ho voluto provare e mi sono divertito.",
+                "Su questo ti chiederei di approfondire, se hai voglia, si intende. Non ho capito se hai gradito oppure se ho toppato miseramente. Mi farebbe molto piacere un tuo parere.",
+                "Per esempio io odio i dialoghi irrealistici, troppo costruiti o troppo aulici. Preferisco un realismo duro e crudo che spesso non mi esce e sfocio solo nello scurrile.",
+                "Hai ragione, potevo approfondire meglio. Diciamo che in parte è stata una cosa voluta per rimarcare l'aridità della scena, renderla cruda e priva d'animo, ma ammetto di essermi fatto prendere la mano. Se non ti immedesimi neanche un po', la ciambella non è uscita col buco.",
+                "Grazie per il tempo speso alla lettura.",
+                "A presto."
+            ],
+            "timestamp": "2019-11-19T10:34:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=800754"
+        }
+    ],
     "post_staff": [
         {
             "author": {

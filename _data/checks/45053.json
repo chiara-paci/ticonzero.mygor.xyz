@@ -56,7 +56,7 @@
     },
     "num_chars": 8088,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 797011,
@@ -166,6 +166,16 @@
             ],
             "timestamp": "2019-11-18T18:14:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=800594"
+        },
+        {
+            "post_id": 800679,
+            "text": [
+                "Mi ero dimenticato, ,",
+                "https://it.wikipedia.org/wiki/Quadrilatero_Marche_Umbria",
+                "anche se nel linguaggio comune nel centro Marche con il termine \"quadrilatero\" si intende il pezzo di strada a doppia corsia che prima o poi si farà da Fabriano all'Umbria più che l'azienda che lo fa (e anche i quotidiani locali lo intendono così)."
+            ],
+            "timestamp": "2019-11-18T22:40:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=800679"
         }
     ],
     "post_staff": [

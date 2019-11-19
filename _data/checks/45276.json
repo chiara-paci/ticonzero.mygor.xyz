@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 34019,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "La Anders",
+        "url": "https://www.writersdream.org/forum/profile/34019-la-anders/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace questa frase e condivido molto il significato, la grettezza della quotidianità che distoglie da ciò che dona senso. Il linguaggio forse è di un registro diverso da quello del resto del racconto, più letterario.",
+                    "questa deduzione non è convincente, anche a undici anni ci si può ammazzare",
+                    "In questo capoverso c'è un eccesso di pronomi possessivi e di mi.., così è un pò grezzo, si potrebbero eliminare. L'espressione aver sfidato il sistema e averci fatto andare di mezzo l'auto la cambierei, scritta così è troppo colloquiale e indebolisce il racconto. Non so se sia stata inserita come sorta di metafora per dare l'idea di quanto i propri elevati intenti di giustizia si scontrino con la infinitamente meno elevata realtà in cui bastano quattro gomme squarciate a far cambiare idea e quindi abbia un gusto vagamente grottesco. Comunque il finale lascia trasparire un velo di pessimismo, morale della favola \"Chi bada ai fatti propri campa cent'anni\" come dici tu.",
+                    "In conclusione devo dirti che la lettura è stata piacevole e non ho mai avuto voglia di saltare una riga, cosa che confesso, mi capita spesso. Credo il tuo punto di forza risieda nella capacità di inanellare pensieri e avvenimenti con molta naturalezza, proprio come scorrono normalmente dentro la testa e questa qualità si sente, dona autenticità. I punti deboli li ricercherei nella poca acuratezza del linguaggio in alcuni momenti. Ho notato che usi poco l'apostrofo quando è possibile usarlo e spesso metti la virgola (che dovrebbe disgiungere due frasi) insieme alla e (che dovrebbe congiungere). Un pò di imprecisioni facilmente migliorabili con l'esercizio. Brava, a presto"
+                ]
+            ],
+            "timestamp": "2019-11-19T09:41:21Z",
+            "title": "La sedia",
+            "url": "https://www.writersdream.org/forum/forums/topic/45272-la-sedia//?do=findComment&comment=800733",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3990,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Achille è mio figlio, nei suoi primi mesi di vita dovevo ripetermelo molte volte, perché la cosa mi sembrava surreale: l'esperienza di un corpo vivente che esce da un altro corpo, sarà pure scientificamente provata, ma resta per me assai poco convincente, più improbabile dell'esistenza di Babbo Natale. A quel tempo, per potergli volere bene, dovevo ancora farmi una ragione che veramente fosse mio figlio. L'ho partorito io e con moltissimo dolore in una rilassante sala parto con le luci soffuse, gli oli essenziali, la nona sinfonia di Beethoven in sottofondo e la volta celeste affrescata sul soffitto.",
+        "Dopo litri di flebo all'ossitocina, malgrado opponesse una fiera resistenza, l'hanno tirato fuori con la ventosa, eppure è come se fosse uscito dal corpo di un'altra.",
+        "Pensieri inquietanti, nitidi su uno sfondo psichedelico, mi balenavano in testa appena nato. Lui non smetteva di piangere, ero stata felice quando avevo saputo che avrei avuto un maschio, ero certa sarebbe stato forte, indovinate un po’ perché l'ho chiamato Achille?",
+        "Mi avrebbe amata come i figli amano le madri, ma no, quanto mi sbagliavo! Lui chiedeva, chiedeva e piangeva e strillava senza concedere nulla in cambio.",
+        "Non gli avrei mai consentito di chiamarmi mamma, sarei stata fredda con lui pensavo e mi avrebbe dovuta chiamare per nome. Nel frattempo, in preda al furore, lo cullavo come un'ossessa, non lo posavo neanche quando ero seduta sul w.c.. Provavo compulsivamente ad allattarlo, avevo i capezzoli a brandelli, ma da parte sua totale ingratitudine. La prima volta che lo avvicinai al seno, poco dopo che quell'estraneo era sbucato fuori, pensò bene di attaccarsi voracemente, sentii una fitta acuta: mi aveva morso, gli spalancai la bocca per cercare i denti.",
+        "Una settimana dopo non voleva più succhiare, mi è venuta la febbre alta, sono andata all'ospedale e l'ostetrica mi ha detto:",
+        "Esteriormente nondimeno facevo il mio dovere, seguivo i passi di uno schema biologicamente predeterminato come le api o le formiche, ma non mi riusciva bene.",
+        "Il bambino si sentiva rifiutato da me, diceva quella, era orgoglioso non voleva ricevere il mio latte: non le ho creduto. Non riuscivo a immaginare pensieri di tale complessità in quello che in fin dei conti differiva da un feto per la sola ragione di essere uscito fuori dall'utero.",
+        "Mi ha munto con una specie di mungitrice, voi non avete idea di quali marchingegni ingegneristici esistano oggi al riguardo! Quando ha terminato l'estrazione ha offerto il liquido caldo e giallastro, (forse a furia di accumularsi nei dotti galattofori aveva cominciato a cagliarsi), ad Achille che ne avrà bevuto almeno un litro. Stava davvero morendo di fame!",
+        "Dunque aveva ragione l'ostetrica, certi neonati nascono equipaggiati di senso della dignità, morirebbero pur di non piegarsi al nemico. Con la facile saggezza che sempre segue quando è tardi, ho capito di aver messo a rischio la sua vita. Ora quando ci penso mi commuovo; se non fossi andata con lui all'ospedale sarebbe morto di fame.",
+        "Da allora presi a prelevare il latte e darglielo con il biberon e in seguito ad allattarlo con delle protezioni di silicone per i capezzoli, anche questi ultimo ritrovato della tecnologia galattogena di cui non conoscevo l'esistenza. Non mi sono arresa ai vaticini di mia madre che sosteneva avessi ereditato da lei l'impossibilità genetica di allattare di cui lei è ambasciatrice e ho nutrito Achille con il mio latte per oltre un anno.",
+        "La sola idea di non avere latte all'improvviso aveva preso a incutermi terrore, mi veniva una specie di mal d'amore, provato prima solo quando, a quindici anni, fui abbandonata da un ragazzo che amavo, senza una parola.",
+        "A quel tempo, se avessi perso il latte sarebbe stato un fatto tragico, non pensavo ad altro, vivevo per produrre quella sostanza bianca e zuccherosa per mio figlio. Avevo cominciato ad amarlo, era mio, lo sentivo finalmente, toccavo la sua carne tenera ed era reale.",
+        "Iniziai a espiare la colpa di averlo quasi fatto morire di fame."
+    ],
+    "timestamp": "2019-11-19T10:28:03Z",
+    "title": "Mio figlio",
+    "topic_id": 45276,
+    "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio/"
+}

@@ -57,7 +57,7 @@
     },
     "num_chars": 5979,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 800400,
@@ -87,6 +87,16 @@
             ],
             "timestamp": "2019-11-18T12:48:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800458"
+        },
+        {
+            "post_id": 800633,
+            "text": [
+                "Ciao",
+                "Grazie del commento, grazie degli appunti ne faro' tesoro.",
+                "Sono contento ti sia piaciuto."
+            ],
+            "timestamp": "2019-11-18T20:14:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800633"
         }
     ],
     "post_staff": [],
