@@ -89,7 +89,7 @@
     },
     "num_chars": 10370,
     "num_commenti": 2,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 800311,
@@ -111,6 +111,15 @@
             ],
             "timestamp": "2019-11-18T17:14:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=800567"
+        },
+        {
+            "post_id": 800808,
+            "text": [
+                "Ciao , grazie per la lettura e per il commento. Sono contento che il racconto ti sia piaciuto e che in esso tu abbia trovato una chiave di lettura più profonda: una metafora sulla condizione di eterna insoddisfazione che oggi affligge molti di noi abitanti del cosiddetto \"primo mondo\". A riprova di come a volte i lettori riescano a sondare un testo meglio di quanto faccia l'autore. Grazie per avermi aperto gli occhi su questa nuova interpretazione.",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-19T14:40:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=800808"
         }
     ],
     "post_staff": [],
