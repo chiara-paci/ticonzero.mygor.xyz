@@ -84,8 +84,17 @@
     },
     "num_chars": 128,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800925,
+            "text": [
+                "Che bello ricevere un feedback così positivo! Grazie"
+            ],
+            "timestamp": "2019-11-19T21:39:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45268-puzzle//?do=findComment&comment=800925"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento:",

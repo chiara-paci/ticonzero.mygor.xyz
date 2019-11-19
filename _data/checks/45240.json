@@ -57,7 +57,7 @@
     },
     "num_chars": 5979,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 800400,
@@ -97,6 +97,31 @@
             ],
             "timestamp": "2019-11-18T20:14:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800633"
+        },
+        {
+            "post_id": 800803,
+            "text": [
+                "Ciao",
+                "Innanzitutto ti ringrazio per avermi dedicato cosi tanto del tuo tempo, grazie davvero.",
+                "Mi permetto di dissentire su alcune cose, il \"mio\" Orlando e' solo omonimo dell'Orlando furioso.",
+                "Per quanto riguarda le disquisizioni sulla pesantezza dell'armatura sono giustissime ma io in effetti ho parlato di corazza non di armatura.",
+                "Ho immaginato appunto un cavaliere che disarcionato, lascia solo la corazza e si libera del resto. D'altronde come hai gia' specificato, sarebbe impossibile per qualsiasi uomo muoversi con l'armamentario completo.",
+                "Infine credo sia piu giusto il termine liberarsi verso il cielo da parte degli alberi, che si ergono dal terreno e devono cercare spazio nel bosco.",
+                "Comunque grazie, spero ti sia piaciuto alla fine."
+            ],
+            "timestamp": "2019-11-19T14:29:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800803"
+        },
+        {
+            "post_id": 800804,
+            "text": [
+                "Ciao",
+                "Grazie del tuo commento.",
+                "Sono felice che qualcuno abbia notato che il brusco finale non doveva avere antecipazioni e che il comportamento dei personaggi intorno a lui aveva un motivo di essere.",
+                "A rileggerci :-)"
+            ],
+            "timestamp": "2019-11-19T14:32:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45240-un-nemico-terribile//?do=findComment&comment=800804"
         }
     ],
     "post_staff": [],

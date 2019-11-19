@@ -90,7 +90,7 @@
     },
     "num_chars": 6969,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 800368,
@@ -109,6 +109,43 @@
             ],
             "timestamp": "2019-11-18T18:14:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800595"
+        },
+        {
+            "post_id": 800813,
+            "text": [
+                "Carissima ...",
+                "Grazie assai molte!",
+                "Sono un po' incerto perché sono insorti problemi tecnici, ma qualora dovessi veramente farlo, sappi che l'introduzione sarà ancora più lunga...",
+                "Grazie ancora... a presto!"
+            ],
+            "timestamp": "2019-11-19T15:16:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800813"
+        },
+        {
+            "post_id": 800814,
+            "text": [
+                "Grazie a te , per aver letto e per tutti gli apprezzamenti in merito.",
+                "Era un racconto un po' vecchio di cui hai recepito ogni tratto saliente e questo mi fa davvero piacere.",
+                "Grazie ancora e a presto!"
+            ],
+            "timestamp": "2019-11-19T15:19:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800814"
+        },
+        {
+            "post_id": 800933,
+            "text": [
+                "Ehh, carissima Rica Rica, Rica... ehh.. come dire... sarò breve!",
+                "Scherzi a parte: stragrazie: per tutto!",
+                "Sarò anche sincero, oltreché breve e poco ripetitivo: mi aspettavo peggio sai?!",
+                "Dai dico sul serio... Grazie... comunque quelle tue poche annotazioni mi sono piaciute e le trovo utili.",
+                "Sì, uno stile un po' diverso... sulle assonanze però non sono certo, forse non mi sono mai troppo dispiaciute (ma mi sa che le segnalo...).",
+                "Alcune ripetizioni, qui, sono volute, tipo quella del \"mezza\"...",
+                "Sai, questo racconto appartiene a un ciclo di racconti di passaggio, passavo dal vecchio al nuovo, in quegli anni lì. Oggi quel che poi fu nuovo è di nuovo vecchio e...",
+                "'Sto controcommento fa un po' schifo, mi sa.",
+                "Grazie"
+            ],
+            "timestamp": "2019-11-19T22:06:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45251-mi-130-fuori-concorso-batteria-a-terra//?do=findComment&comment=800933"
         }
     ],
     "post_staff": [],
