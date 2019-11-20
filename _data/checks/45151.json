@@ -64,28 +64,6 @@
         },
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0.6433333333333333
-            },
-            "text": [
-                [
-                    "Ciao .",
-                    "Grazie per essere passata.",
-                    "Provo a rettificare:",
-                    "Spesso mi è capitato di sentire le punte delle molle nei sedili datati, un po’ come per i materassi, volevo trasmettere questa immagine.",
-                    "Tra o nelle, ero indecisa ma rileggendo suonava meglio tra, scusa banale 😂 .",
-                    "Per tossii intendevo i blip della batteria del telefono quando sta per mollarti. Non mi piaceva blip.",
-                    "Il resto delle tue annotazioni le trovo molto utili. Sono contenta che ti piacciano le mie immagini, sto cercando di trovare un equilibrio per abbracciare la parte dei dialoghi, spero di trovarlo presto. Hai beccato la mia bestia nera la punteggiatura🥺. Sono tenace, prima o poi la sconfiggerò, mi auguro!",
-                    "A presto."
-                ]
-            ],
-            "timestamp": "2019-10-22T11:44:48Z",
-            "title": "Il padrone del nulla. L’indizio",
-            "url": "https://www.writersdream.org/forum/forums/topic/44919-il-padrone-del-nulla-l%E2%80%99indizio//?do=findComment&comment=794694",
-            "weight": 2
-        },
-        {
-            "checks": {
                 "timestamp": true,
                 "valid": 1
             },
@@ -124,7 +102,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 6,
+    "commenti_weight": 4,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -132,7 +110,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9873,
-    "num_commenti": 4,
+    "num_commenti": 3,
     "num_posts": 3,
     "post_after": [],
     "post_staff": [
