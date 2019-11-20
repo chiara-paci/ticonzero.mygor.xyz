@@ -64,7 +64,7 @@
     },
     "num_chars": 14326,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 800870,
@@ -73,6 +73,14 @@
             ],
             "timestamp": "2019-11-19T18:35:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45280-il-mediatore//?do=findComment&comment=800870"
+        },
+        {
+            "post_id": 801128,
+            "text": [
+                "grazie per il commento. Ti invito caldamente a vedere il film, se lo proiettano nelle tue vicinanze. È un'esperienza."
+            ],
+            "timestamp": "2019-11-20T17:32:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45280-il-mediatore//?do=findComment&comment=801128"
         }
     ],
     "post_staff": [],
