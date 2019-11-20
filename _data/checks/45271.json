@@ -52,7 +52,7 @@
     },
     "num_chars": 10121,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 800754,
@@ -68,6 +68,16 @@
             ],
             "timestamp": "2019-11-19T10:34:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=800754"
+        },
+        {
+            "post_id": 801061,
+            "text": [
+                "grazie per i consigli, credevo di essere uno molto show e poco tell, ma un parere esterno serve proprio a togliersi dalla testa alcune convinzioni.",
+                "Sulla punteggiatura stendo un velo pietoso, meglio non parlarne..",
+                "Grazie, a rileggerci."
+            ],
+            "timestamp": "2019-11-20T13:13:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45271-le-vie-della-rapina//?do=findComment&comment=801061"
         }
     ],
     "post_staff": [
