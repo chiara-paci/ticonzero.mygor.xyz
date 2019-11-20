@@ -62,8 +62,32 @@
     },
     "num_chars": 5567,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 800942,
+            "text": [
+                "Ciao e",
+                "Grazie per le vostre correzioni, avete evidenziato errori che non ero riuscita (o non volevo) vedere. Ritoccherò i punti deboli",
+                "Dopo mesi di inattività sembro aver avuto una ricaduta, e abbondo con ripetizioni e troppe virgole, nonché un linguaggio a volte impreciso. Devo leggere di più, forse, e scrivere almeno un paragrafetto al giorno.",
+                "Grazie anche per le vostre belle parole!",
+                "Ottovolante è nato quasi per caso, ma mi piacerebbe renderlo protagonista di altri racconti perché con la sua ironia e disillusione mi aiuta a rendere temi complessi con parole semplici, anche se mi hanno fatto notare che è raro che una cocorita sappia parlare così fluentemente",
+                "Il tuo commento \"l'ho letto ad alta voce a tavola ai familiari\" mi ha fatto emozionare! Grazie!",
+                "A rileggerci tutti"
+            ],
+            "timestamp": "2019-11-19T23:24:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45272-la-sedia//?do=findComment&comment=800942"
+        },
+        {
+            "post_id": 800944,
+            "text": [
+                "Quasi dimenticavo, la fossa delle Marianne l'ho messa perché volevo creare una separazione tra testo e finale, e non sapevo come renderla Se hai suggerimenti dimmeli per favore!!!",
+                "A presto"
+            ],
+            "timestamp": "2019-11-19T23:26:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45272-la-sedia//?do=findComment&comment=800944"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sono due ore che giro. Sto guidando dalle otto mattina, sono quasi le dieci e ancora non trovo parcheggio. Il sabato è sempre così, vuoi farti un giro in centro, magari berti una birretta con gli amici in riva al mare, insomma qualcosa che ti elevi dal logorio della vita moderna, e va a finire che è più il tempo speso a girare che a divertirti.",

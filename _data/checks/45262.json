@@ -54,8 +54,30 @@
     },
     "num_chars": 1691,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 801083,
+            "text": [
+                "grazie per la tua attenzione, felice che ti sia piaciuto.",
+                "grazie anche a te, felice che tra ciò che ti è piaciuto e no abbia prevalso il",
+                "grazie per esserti fermata a commentare, per il suggerimento \"poesia\" ci rifletterò, ho paura che diventi un finale artificioso. Una poesia è misura, equilibrio, il mio finale e più uno sfogo, già così (come ha fatto notare ) è enfatico, e se lo caricarsi ancora di poesia?",
+                "Mi hai proposto un bel rompicapo.",
+                "Ma se taglio Ia parte che mi suggerisci diventa un discorso diretto, come se mi rivolgessi alle persone che allontano da casa, mentre invece io cerco di tranquillizzarli e dentro di me urlo. Da questa necessità è nata l'idea di usare ciò che hai tagliato, ma ovviamente ci rifletterò su."
+            ],
+            "timestamp": "2019-11-20T14:55:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801083"
+        },
+        {
+            "post_id": 801086,
+            "text": [
+                "Grazie per invogliarmi a scriverne ancora",
+                "In effetti, gli ultimi paragrafi messi in corsivo dicono che si tratta di un pensiero. Rifletterò."
+            ],
+            "timestamp": "2019-11-20T15:07:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801086"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«La vita continua.» Me lo ripetono da ore, con i loro sorrisi addolorati, tristi, con gli abbracci e le carezze sulle spalle.",

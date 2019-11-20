@@ -46,8 +46,19 @@
     },
     "num_chars": 3990,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 800974,
+            "text": [
+                "Ciao ,",
+                "grazie delle incoraggianti parole e dei suggerimenti, li ho letti con molta attenzione.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-11-20T08:34:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=800974"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Achille è mio figlio, nei suoi primi mesi di vita dovevo ripetermelo molte volte, perché la cosa mi sembrava surreale: l'esperienza di un corpo vivente che esce da un altro corpo, sarà pure scientificamente provata, ma resta per me assai poco convincente, più improbabile dell'esistenza di Babbo Natale. A quel tempo, per potergli volere bene, dovevo ancora farmi una ragione che veramente fosse mio figlio. L'ho partorito io e con moltissimo dolore in una rilassante sala parto con le luci soffuse, gli oli essenziali, la nona sinfonia di Beethoven in sottofondo e la volta celeste affrescata sul soffitto.",
