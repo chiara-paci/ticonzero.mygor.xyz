@@ -55,7 +55,7 @@
     },
     "num_chars": 4507,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 800315,
@@ -75,7 +75,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800354"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 800854,
+            "text": [
+                "Bella descrizione . Ho apprezzato anche il titolo, con il nome “classico” di donna, proprio come in Calvino.",
+                "Ciao."
+            ],
+            "timestamp": "2019-11-19T17:22:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800854"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno",
         "Neda",
