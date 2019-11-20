@@ -58,7 +58,7 @@
     },
     "num_chars": 3812,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 800519,
@@ -93,6 +93,15 @@
             ],
             "timestamp": "2019-11-18T22:54:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=800682"
+        },
+        {
+            "post_id": 801037,
+            "text": [
+                "Grazie.",
+                "Quando a monte non arriva l'idea spendibile (più o meno bene) ecco che allora parto per la tangenziale, svincolo nonsense, e principalmente mi diverto. Conscio però del fatto che per i non amanti del genere il tutto sarà un centrifugar di meningi (e ben altro)."
+            ],
+            "timestamp": "2019-11-20T12:06:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=801037"
         }
     ],
     "post_staff": [

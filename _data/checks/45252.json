@@ -133,7 +133,7 @@
     },
     "num_chars": 5157,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 800410,
@@ -234,7 +234,27 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=800965"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9751,
+                "name": "Niko",
+                "url": "https://www.writersdream.org/forum/profile/9751-niko/"
+            },
+            "post_id": 801046,
+            "text": [
+                "Intervento Staff",
+                "Questa non è una risposta da dare a un utente che impiega il suo tempo a leggere il tuo racconto, , ed è anche velatamente offensiva, quale che sia stato il tuo intento originale.",
+                "Questo è anche un atteggiamento non in linea con e dell'Officina, e quel \"a saperlo leggere\" ne mina le fondamenta e dimostra che non sei in grado di ricevere commenti sinceri, pur critici, verso i tuoi brani.",
+                "Per questo motivo ti richiamo e ti invito a riflettere, visto che scatta il ban a 30 giorni (avevi già 2 punti di richiamo).",
+                "Ti ricordo inoltre che non è consentito rispondere a questo messaggio nella presente discussione (quando tornerai, intendo: in quel caso provvederò al ban definitivo; lo dico subito per evitare l'appello all'ignoranza del regolamento), ma potrai contattare un membro dello Staff in privato, qualora lo reputi necessario (preciso tuttavia che il richiamo è stato deciso collegialmente e non solo dal sottoscritto, e le ragioni sono quelle sopra descritte).",
+                "Invito anche gli altri utenti a non rispondere al presente messaggio per ovvi motivi, e di continuare a commentare il brano secondo il sano spirito della comunità.",
+                "Buon proseguimento a tutti."
+            ],
+            "timestamp": "2019-11-20T12:20:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45252-mi130-la-citt%C3%A0-del-wd//?do=findComment&comment=801046"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno",
         "La vostra città invisibile",
