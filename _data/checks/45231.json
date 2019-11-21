@@ -88,8 +88,17 @@
     },
     "num_chars": 133,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801378,
+            "text": [
+                "sì, hai ben compreso. Grazie mille, mi fa piacere che almeno una persona l'abbia trovata gradevole."
+            ],
+            "timestamp": "2019-11-21T19:11:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45231-autunno//?do=findComment&comment=801378"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento:",

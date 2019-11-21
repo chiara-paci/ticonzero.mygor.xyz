@@ -65,7 +65,7 @@
     },
     "num_chars": 7939,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 800550,
@@ -102,6 +102,16 @@
             ],
             "timestamp": "2019-11-19T11:43:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=800769"
+        },
+        {
+            "post_id": 801318,
+            "text": [
+                "Ciao grazie per il tuo commento e per le tue belle parole circa il mio scrivere. Mi hanno fatto piacere, devo dire che sono rimasto incantato.",
+                "Ciao Ti ringrazio per la lettura e l'apprezzamento. Mi ha fatto piacere che tu abbia apprezzato.",
+                "Ciao Grazie per l'apprezzamento e le considerazioni. A volte penso di riuscire a scrivere qualcosa di decente, poi se mi dicono che ho scritto anche bene indubbiamente mi fa davvero piacere e mi ripaga di tante cose..."
+            ],
+            "timestamp": "2019-11-21T14:44:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=801318"
         }
     ],
     "post_staff": [

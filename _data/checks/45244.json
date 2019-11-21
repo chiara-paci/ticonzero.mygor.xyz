@@ -55,7 +55,7 @@
     },
     "num_chars": 4507,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 800315,
@@ -73,6 +73,14 @@
             ],
             "timestamp": "2019-11-17T21:45:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=800354"
+        },
+        {
+            "post_id": 801308,
+            "text": [
+                "giusto perché ci tengo ai punti XD preciso che ho modificato il testo non per apportare correzioni, ma perché avevo postato solo il titolo senza incollare il racconto."
+            ],
+            "timestamp": "2019-11-21T13:11:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45244-mi-130-neda//?do=findComment&comment=801308"
         }
     ],
     "post_staff": [
