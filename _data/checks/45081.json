@@ -54,7 +54,7 @@
     },
     "num_chars": 459,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 797736,
@@ -89,6 +89,16 @@
             ],
             "timestamp": "2019-11-06T19:38:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza//?do=findComment&comment=798490"
+        },
+        {
+            "post_id": 801361,
+            "text": [
+                "Ciao , hai una capacità di analisi sbalorditiva, lo confesso alcune cose che hai tirato fuori erano presenti nei miei nervi ma non nella mia testa, quindi ti ringrazio per questo tuo gradito commento.",
+                "Saluti,",
+                "Mirko"
+            ],
+            "timestamp": "2019-11-21T17:21:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza//?do=findComment&comment=801361"
         }
     ],
     "post_staff": [],
