@@ -1,0 +1,123 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Intes. Leggo la tua poesia e traccio le mie impressioni, a ruota libera.",
+                    "A parte il ritmo delle parole, ben definito, la mia attenzione si punta subito su quel di giorno , dove per una comune coppia di amanti sarebbe lecito pensare alla notte. Quindi mi viene da dire che la poesia riguarda altro, qualcosa di analogo in termini di passione, ma diverso",
+                    "La gente passa, distratta, non vede",
+                    "quelle parole riflesse negli occhi",
+                    "lo sguardo perso, in un vuoto d'amore.",
+                    "Il ritmo prende corpo e qui mi soffermo su quelle ultime due parole. Vuoto d'amore è un accostamento intrigante, che fa pensare. Vuoto inteso forse come immateriale, come sospensione del tempo e dello spazio. Ma sono tutti ragionamenti miei, chiaramente. E poi quel la gente distratta non vede , che collego subito al precedente di nascosto e mi suggerisce qualcosa di clandestino ma non troppo, qualcosa che con la dovuta attenzione si potrebbe anche vedere.",
+                    "E lei, con passo lieve m'incanta",
+                    "m'inchioda",
+                    "sulla sua croce",
+                    "con gioia",
+                    "Credo che la musicalità di questi versi si presti molto bene alla lettura. Intendo ad alta voce. Qui le parole chiave credo siano m'inchioda sulla sua croce . Amore, sofferenza. Oppure il riferimento è più specifico, cioè alla fede religiosa? C'è uno spazio libero che da lettore vado ovviamente ad occupare e rapportare alla mia fede, o alle mie fedi.",
+                    "è folle, è folle!",
+                    "Sinonimo di coraggio, di temerarietà? O forse proprio di pazzia. L'accostamento successivo a termini come flebo e malato , mi fanno propendere per qualcosa di potenzialmente deleterio.",
+                    "La vedo assente, fra sbarre di giada",
+                    "non riesco a formularne un'interpretazione attinente, ma non è comunque fondamentale (che ci riesca o meno) nè pregiudica nulla. La poesia scorre, ben ritmata e fluida e non è sempre necessario capire per apprezzare, immagino.",
+                    "nel silenzio, li sento",
+                    "li sento quei passi veloci",
+                    "quella flebo, che le penetra dentro.",
+                    "di nuovo la furtività di qualcosa che avviene sotto la superfice e poi l'inserimento di quella flebo, che rimanda a una malattia in essere, e a una cura o un palliativo invasivo, nel bene o nel male.",
+                    "Questo canto malato che anche oggi recita",
+                    "forse è solo",
+                    "la nostra preghiera.",
+                    "Malattia, dunque, e beneficio del dubbio. E un canto disperato che forse è di speranza.",
+                    "Piaciuta. Ora mi andrò a leggere la poesia della Merini che hai citato e forse il mio commento prenderà una forma più definita. Ciao."
+                ]
+            ],
+            "timestamp": "2019-11-21T08:54:30Z",
+            "title": "Il canto di una pazza",
+            "url": "https://www.writersdream.org/forum/forums/topic/45081-il-canto-di-una-pazza//?do=findComment&comment=801258",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1096,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "IL MONDO AZZURRO",
+        "_________________________________________________",
+        "A volte ricordo",
+        "e a volte no, rimuovo",
+        "riparto da zero",
+        "uno",
+        "due",
+        "tre",
+        "quattro",
+        "cinque…",
+        "Avevo sei anni, dunque",
+        "ero un bambino sugli scogli",
+        "davanti a onde infuriate",
+        "verso un cielo bianco e venato",
+        "come una lastra di marmo",
+        "sul mondo chiuso,",
+        "come una bara.",
+        "L’auto era uscita di strada e aveva preso il volo",
+        "sull’ argine per atterrare con un tonfo di pancia",
+        "nelle acque limacciose del canale che in superfice",
+        "era torbido ma sotto no era azzurro e regnava un",
+        "silenzio incantato come una musica tra le bolle",
+        "dell’aria che risalivano in superfice come topi",
+        "impauriti e mia sorella invece no seduta vicino",
+        "cantava piano una canzone che non conoscevo",
+        "mentre io mi chiedevo come poteva essere vuoto",
+        "il posto di guida come in effetti era perché",
+        "eravamo soli nell’auto io e mia sorella e dunque…",
+        "E dunque sei anni, la mia vita…",
+        "Scorci di mondo azzurro",
+        "e sorelle immaginarie",
+        "sotto lastre di marmo bianco",
+        "nel tempo macchiato",
+        "sgretolato, in pezzi",
+        "sotto il cielo di occhi",
+        "che non chiudono mai",
+        "perché hanno fame fame fame",
+        "e sei anni, ancora",
+        "e ancora...",
+        "cinque",
+        "quattro",
+        "tre",
+        "due",
+        "uno",
+        "zero. Per sempre…"
+    ],
+    "timestamp": "2019-11-21T09:17:56Z",
+    "title": "Il mondo azzurro",
+    "topic_id": 45304,
+    "url": "https://www.writersdream.org/forum/forums/topic/45304-il-mondo-azzurro/"
+}
