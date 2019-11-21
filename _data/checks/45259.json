@@ -50,8 +50,23 @@
     },
     "num_chars": 682,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801343,
+            "text": [
+                "Ciao",
+                "ti ringrazio per il commento.",
+                "Quando l'ho scritta avevo in mente questo, un senso di profonda di distanza nonostante la prossimità. Come se entrambi volessero capirsi più a fondo senza riuscirci, raggiungere un'essenza, un senso che sfugge nonostante la consapevolezza della sua esistenza.",
+                "Ciononostante, e mi piace riportarlo qui per ribadire quanto poco ci appartengano i nostri versi, una mia amica psicologa diede una interpretazione coerente con l'impostazione della poesia, ma molto interessante. Disse di aver letto la mancata confessione di una ragazza suicida, l'impossibilità di comunicare il proprio malato stato d'animo. Molto spesso, infatti, prima di darsi la morte i suicidi si spogliano e rimangono nudi, come per liberarsi del peso simbolico della loro vita. L'ho trovata una interpretazione interessante, anche se, ripeto, quando l'ho composta pensavo fondamentalmente a quello che hai scritto anche tu.",
+                "Grazie di nuovo.",
+                "Un saluto,",
+                "Johnny P."
+            ],
+            "timestamp": "2019-11-21T16:20:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45259-aporia//?do=findComment&comment=801343"
+        }
+    ],
     "post_staff": [],
     "text": [
         "APORIA",
