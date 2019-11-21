@@ -45,8 +45,17 @@
     },
     "num_chars": 1125,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 801362,
+            "text": [
+                "grazie ad entrambi per i commenti preziosi. Non rivelerò nulla sulla poesia, ma sono estremamente contento delle riflessioni che ha fatto scaturire in voi. A presto."
+            ],
+            "timestamp": "2019-11-21T17:40:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=801362"
+        }
+    ],
     "post_staff": [],
     "text": [
         "CON UN FUCILE IN BOCCA",
