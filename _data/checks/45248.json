@@ -58,7 +58,7 @@
     },
     "num_chars": 3812,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 800519,
@@ -102,6 +102,14 @@
             ],
             "timestamp": "2019-11-20T12:06:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=801037"
+        },
+        {
+            "post_id": 801598,
+            "text": [
+                "Grazie. Se vuoi ti presento @giulianatuttatana. Una ragazza da URL"
+            ],
+            "timestamp": "2019-11-22T17:57:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=801598"
         }
     ],
     "post_staff": [

@@ -88,7 +88,7 @@
     },
     "num_chars": 133,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 801378,
@@ -97,6 +97,14 @@
             ],
             "timestamp": "2019-11-21T19:11:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45231-autunno//?do=findComment&comment=801378"
+        },
+        {
+            "post_id": 801638,
+            "text": [
+                "I puntini di sospensione li ho messi giusto per rendere il titolo meno banale, ma comunque la poesia esprime, come hai ben detto, una condizione di perdita senza speranza di primavera. Mi fa piacere che sia risultata gradevole a te come anche a . Vi ringrazio!"
+            ],
+            "timestamp": "2019-11-22T21:57:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45231-autunno//?do=findComment&comment=801638"
         }
     ],
     "post_staff": [],
