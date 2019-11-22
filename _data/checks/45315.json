@@ -1,0 +1,71 @@
+{
+    "author": {
+        "author_id": 30650,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "davidep",
+        "url": "https://www.writersdream.org/forum/profile/30650-davidep/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "grazie per aver condiviso con noi questo frammento. Mi piace il tuo modo schietto di scrivere e non ho appunti da farti sulla prosa.",
+                    "Ho però qualche commento sparso qua e là principalmente diretto a come espandere la storia ulteriormente.",
+                    "Perché in queste righe c'e' già tutta una storia completa secondo me!",
+                    "Ad esempio,",
+                    "Qua potremmo raccontare un molto su quel viaggio: come è iniziato? chi hanno incontrato? che difficoltà hanno avuto? cosa hanno rischiato e quando?",
+                    "Sulla carretta: cosa è successo? c'era uno o più scafisti? Come si comportavano questi con i nostri due Yemane e Futsum?",
+                    "Anche qui c'è tutta un avventura! In che paesino? Chi c'era già nel centro d'accoglienza? Qualche compaesano con cui scambiare quattro chiacchiera? Come si comportano gli italiani locali con loro? E l'evasione? Come scappano?",
+                    "Questo ovviamente richiede molta ricerca suppongo, io ad esempio, personalmente non so nulla dei centri d'accoglienza, quindi dovrei studiare moltissimo!",
+                    "A parte il fatto che mi piace moltissimo l'uso del verbo sciabordare qui, questa frase mi ha quasi trascinato lì con i due protagonisti: diretta ma efficace! Questo punto della storia secondo me è \"il respiro profondo prima del balzo\" e, infatti, la frase successiva introduce il climax. Mi piacerebbe soffermarmi di più su quel momento: cosa fanno? si siedono sulla sabbia? scambiano un morso al panino? bevono un sorso d'acqua? Si scambiano un gesto fraterno?",
+                    "C'è forse una correlazione tra il fatto che chi scappa è magrebino e il loro stupore/paura con \"Dio mio, anche qui?\" - cosa temono dai magrebini Yemane e Futsum?",
+                    "Spero queste mie righe possano essere utili!"
+                ]
+            ],
+            "timestamp": "2019-11-22T13:54:37Z",
+            "title": "Sulla spiaggia d'autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/43945-sulla-spiaggia-dautunno//?do=findComment&comment=801497",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1783,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Forse un giorno tornerai.",
+        "Camminerai assorta tra questi vicoli millenari dove, da tempo ormai, la voce degli uomini ha perso cittadinanza. Respirerai di nuovo la brezza d’occidente omaggiata dal fruscìo della faggeta al suo passaggio. Rivedrai l’ombra di nuvole sfuggevoli e beffarde come i sogni di prima mattina. Ricorderai il suono delle chiacchiere durante le sere d’estate, il vocìo delle botteghe e il disperdersi lontano delle campane a mezzogiorno. Sorriderai quando vedrai la pioggia scrosciare sul selciato e ascolterai ancora il canto dei passeri annunciarne la fine. Sentirai l’odore delle muffe cresciute nelle cantine e della fuliggine che sale calda dai comignoli d’inverno. Ti sveglierà il latrato di quel cane randagio nel cuore nella notte ma ti riaddormenterai accarezzata dai bagliori del focolare. Ti inebrierai dei primi raggi di sole lassù sugli altopiani dove gli antenati coltivavano il grano e ti emozionerai un’altra volta con le luci tremolanti della pianura al tramonto. Esprimerai un desiderio, sempre lo stesso, alla vista di una stella cadente la notte di San Lorenzo.",
+        "Si, forse un giorno tornerai.",
+        "Arriverai in un paese deserto dalla strada che attraversa il bosco, accompagnata dal cantico delle cicale in un pomeriggio d’inizio estate. Ti accoglierà lo sbadiglio sornione di un gatto disteso all’ombra di un leccio e ruberai i bisbigli incuriositi degli anziani filtrare attraverso le ante chiuse. Ti riposerai un momento su quella panchina panoramica e scruterai le vette glabre delle montagne, vigilate da una coppia di rapaci. Riconoscerai i luoghi del passato e dei desideri dimenticati mentre all’imbrunire le rondini planeranno spericolate.",
+        "Ripenserai a quest’ultimo abbraccio con lei, lì sull’uscio di casa tua e vorrai non essertene mai andata."
+    ],
+    "timestamp": "2019-11-22T13:55:35Z",
+    "title": "Interludio",
+    "topic_id": 45315,
+    "url": "https://www.writersdream.org/forum/forums/topic/45315-interludio/"
+}
