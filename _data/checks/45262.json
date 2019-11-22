@@ -54,7 +54,7 @@
     },
     "num_chars": 1691,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 801083,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-11-20T15:07:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801086"
+        },
+        {
+            "post_id": 801400,
+            "text": [
+                "grazie infinite per essere passata e per aver colto il senso de \"La mia notte\". Sì, infliggendogli è un refuso."
+            ],
+            "timestamp": "2019-11-21T21:27:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801400"
         }
     ],
     "post_staff": [],
