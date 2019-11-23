@@ -82,7 +82,7 @@
     },
     "num_chars": 331,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 801736,
@@ -107,6 +107,14 @@
             ],
             "timestamp": "2019-11-23T11:49:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801736"
+        },
+        {
+            "post_id": 801755,
+            "text": [
+                "Sì, ti ringrazio . Vorrei mantenere solo la seconda versione, quindi procedi pure alla modifica."
+            ],
+            "timestamp": "2019-11-23T13:01:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801755"
         }
     ],
     "post_staff": [
