@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Qualcosa è successo, qualcosa è finito. Qualcosa c'è stato ma non ha lasciato segni evidenti, a meno che il vuoto possa essere considerato tale, e io credo di sì.",
+                    "quanto perduto",
+                    "sarebbe una foglia",
+                    "Intrigante la desinenza maschile che trasforma in soggetto una parola comunemente usata in qualità di aggettivo. Dunque vuoto, perdita. Se le mie mani fossero rami... Io non vedo altra correlazione tra i rami\\foglia e i palmi se non il puro gusto estetico della similitudine (ma che io non la veda non vuol dire che non ci sia, certo) e mi sta bene così",
+                    "e solamente",
+                    "questione di tempo",
+                    "la sua ricomparsa.",
+                    "E' una constatazione che rafforza la similitudine, e sottolinea qualcosa che già sappiamo. Una constatazione, appunto. Più in generale, io avverto una malinconia post-perdita, una stanchezza momentanea che guarda già al futuro, ma senza enfasi. La discrezione di chi ha vissuto ma anche qualcosa di più. Una battuta d'arresto, forse. Un respiro profondo per recuperare le forze necessarie alla nuova fioritura.",
+                    "Poesia leggera e graziosa. Delicata e un po' triste, a mio avviso. Ciao ."
+                ]
+            ],
+            "timestamp": "2019-11-23T08:02:41Z",
+            "title": "... Autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/45231-autunno//?do=findComment&comment=801677",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 622,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "L'ADOLESCENZA DI UN VAMPIRO",
+        "__________________________________________________________",
+        "Cuore strappato vivo",
+        "sbattuto sul tavolo",
+        "fra lupi di luna,",
+        "lucenti zanne",
+        "sguazzano…",
+        "divisero i resti di ciò che un tempo mi teneva in",
+        "vita e quante volte son morto prima di morire",
+        "ancora eppure eccone un altro che batte batte",
+        "batte bATte BAttebaTTebaTTeBAttebATTEbAt",
+        "TeBaTtEBatTEbaTteBatTebat-teBat-tebat-te bat",
+        "-te bat-te... bat-tebat-te... bat-te… bat-te… bat-te",
+        "bat-te… bat-te…",
+        "bat…te…",
+        "bat…",
+        "Silenzio, la luna…",
+        "Volto bianco",
+        "in un pozzo",
+        "nero, come la terra",
+        "nero, come un corvo.",
+        "Nera, la fame",
+        "appesa all’uncino",
+        "di fedi ricurvo",
+        "e giuramenti,",
+        "tradimenti",
+        "a storno."
+    ],
+    "timestamp": "2019-11-23T20:34:37Z",
+    "title": "[LP6] L'adolescenza di un vampiro",
+    "topic_id": 45332,
+    "url": "https://www.writersdream.org/forum/forums/topic/45332-lp6-ladolescenza-di-un-vampiro/"
+}

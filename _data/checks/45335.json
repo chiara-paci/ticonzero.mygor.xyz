@@ -1,0 +1,92 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , non è facile da commentare questa poesia. Non per la tematica (anzi le tematiche) in sé né per la durezza dei toni. Ognuno di noi ha avuto pensieri duri - a me succede - e momenti di esplosione. Il difficile è fermarli: perché scriverli richiede un loro momentaneo congelamento, lucidità. Tu ci sei riuscito perfettamente e la difficoltà del commento sta esattamente in questo: cos'altro posso aggiungere? Io credo che spesso la capacità di comunicare un significato sia sottovalutata. Spesso, anzi, viene messa in secondo piano rispetto al piano formale, alla delicatezza dei toni (questo in generale, anche nella musica), a un qualche piano superiore a cui si pensa di dover aspirare se si vuole essere 'alti'. Credo sia esattamente l'opposto: la capacità di comunicare un significato, quella cosa che nelle canzoni spesso portano degli autori con scarsa potenza vocale a essere migliori rispetto a chi ha un controllo di tutto rispetto (scusa se chiamo di nuovo in causa la musica), è qualcosa che hai oppure non hai. Perché devi anche un po' fregartene di quel che ci si aspetta per andare semplicemente dritto verso qualcosa.",
+                    "Ora cerco di fare una qualche analisi sensata, scusami se sarà un po' striminzita ma te ne ho spiegato le motivazioni.",
+                    "L'inizio è una dichiarazione. Obbliga subito a guardarti in faccia e mi piace. Ricordo tempo fa di aver iniziato una poesia con una dichiarazione simile, anche se portava verso altri toni.",
+                    "Non male e soprattutto in qualche modo riduce la violenza del gesto precedente. Non è il cervello che vedo, ma la merda che ho nel cervello. Tutte quelle decisioni sbagliate, idee malsane che mi portano a condurre la vita nel modo apparentemente 'scorretto'.",
+                    "Qui avevo paura che ti lasciassi trasportare, come a volte accade, da un certo gusto del macabro fine a se stesso. E invece no: stai lucidamente analizzando la tua carne, vivisenzionandone la vita. Mi piace.",
+                    "Toglierei solo i puntini. Forse per gusto personale, in poesia li amo poco. Nel senso: se voglio fare una pausa, la segno graficamente, sposto il verso a destra, lo abbasso, non metto punti a capo per segnarne una sorta di rarefazione. Ma i puntini: in qualche modo ogni verso ne meriterebbe una certa quantità, perché la poesia quasi sempre manca di definizione.",
+                    "Bello questo elenco di vita reale e di impegni che sovrastano e occupano tempo, spazio, riducendo tutto. Stesso discorso dei puntini già fatto prima.",
+                    "Anche qui. Il metatesto è rischioso, ma tu l'hai usato molto bene, perché il tutto si incastra con la delusione della poesia, con qualcosa che non ti ha risolto un bel niente e che spesso mira a un infinito che contrasta con la vita stessa.",
+                    "Perfetto. E la chiuderei qui. La parte successiva spiega e in qualche modo banalizza una poesia che non lo è assolutamente.",
+                    "Spero di non aver fatto dei danni. Il tutto è sempre opinabile, come al solito. Bravo e buon lavoro,"
+                ]
+            ],
+            "timestamp": "2019-11-23T19:00:49Z",
+            "title": "Con un fucile in bocca",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=801808",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 548,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 1: la paura",
+        "Questa mattina avevo le idee più dure",
+        "mi dicevo",
+        "convinciti che devi morire",
+        "convinciti che devi morire",
+        "un clown allo specchio",
+        "convinciti che devi morire",
+        "[digitavo lo schermo",
+        "mentre discutevo al caffè]",
+        "Non hanno capito.",
+        "Credi davvero",
+        "che questa intermittenza",
+        "accendo spengo",
+        "accendo spengo",
+        "non abbia già fatto abbastanza?",
+        "Pesa",
+        "Discutono tutti di cose inutili",
+        "io non sempre sto al gioco",
+        "rallento",
+        "accendo spengo accendo spengo",
+        "Accendo il dubbio di aver frainteso",
+        "l’utilità di aspettare",
+        "adoperarsi",
+        "fissare obiettivi",
+        "scappare",
+        "anziché",
+        "convincersi",
+        "di dover morire."
+    ],
+    "timestamp": "2019-11-23T21:56:53Z",
+    "title": "[LP 6] Di che parliamo quando parliamo",
+    "topic_id": 45335,
+    "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo/"
+}

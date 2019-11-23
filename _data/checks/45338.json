@@ -1,0 +1,86 @@
+{
+    "author": {
+        "author_id": 11495,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Johnny P",
+        "url": "https://www.writersdream.org/forum/profile/11495-johnny-p/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ti lascio un commento.",
+                    "Intanto mi ha colpito la scelta della metrica costante abbinata alla rima (endecasillabi sesta-decima, in uno schema ABB, ACC, ADD) , se ne vedono poche di poesie scritte così. Ciononostante devo dire che si tratta di una scelta apprezzabile ma che non condivido appieno. Al di là della prova tecnica, credo che questo modo di scrivere sia anocronistico per il lettore di oggi. Questo non significa mollare la metrica o la rima per rassegnarsi ai versi liberi ci mancherebbe (io per primo non lo faccio), ma credo che questi due strumenti debbano essere combinati in modo da essere apprezzabili anche da il lettore di oggi, che quello di ieri non esiste più e quello di domani neppure si conosce. Detto questo, passiamo alla poesia.",
+                    "Dal primo verso si capisce subito che fai riferimento alla maternità, per cui inquadriamo subito il senso del titolo. Mi lascia un po' perplesso l'utilizzo della punteggiatura con quelle lettere maiuscole, non perché non sia corretta la punteggiatura, è solo che non ne capisco il senso. Per il resto il verso è molto godibile e data comunque la scelta metrica scorrono facilmente e suonano bene.",
+                    "Il famoso e ingrato compito di un genitore viene raccontato con tanta semplicità e mi verrebbe da dire dolcezza, o perlomeno è quello che mi ha trasmesso.",
+                    "Questo ultimo verso è quello che mi ha colpito maggiormente devo dire. La scelta sintattica del primo verso è pregna di significato e i due versi successivi introducono un tema alquanto spinoso sotto il mio punto di vista. Pretendere che la pianta rispecchi il seminato, in un certo qual modo, è un po' un metodo di autovalutazione dei genitori, ma davvero è quello che si vorrebbe per i propri figli? Se questi fossero felici a modo loro? È un tema delicato da discutere, e ancora più complesso da mettere in pratica. Tirare le briglie si potrebbe davvero definire un'arte. Anche se, come giustamente dici, da un certo punto in poi, possiamo solo seguire.",
+                    "Un saluto,",
+                    "Johnny P."
+                ]
+            ],
+            "timestamp": "2019-11-23T17:19:36Z",
+            "title": "Il segreto della vita",
+            "url": "https://www.writersdream.org/forum/forums/topic/45049-il-segreto-della-vita//?do=findComment&comment=801784",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 900,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Tracce 1 e 3",
+        "Anime Salve",
+        "(a C. che mi ha teso la mano)",
+        "Giurami l’incertezza e il rimpianto,",
+        "giurami frasi vuote e notti stanche,",
+        "perché solo questo so promettere;",
+        "non ho che un cuore fatto di ipotesi,",
+        "di strade lastricate e mai concluse.",
+        "Chiedimi l'alba di città lontane,",
+        "chiedimi le parole sconosciute,",
+        "l’ora più tarda, gli stessi ricordi.",
+        "Tienimi stretto le sere d'estate,",
+        "quando guardinga è la luna nel cielo,",
+        "e ascolta il freddo di queste mie mani",
+        "che ti accarezza dolcemente il viso.",
+        "Passeggiamo sul tempo che rovina,",
+        "sulle bianche scogliere siderali,",
+        "lì sentirai che ad ogni tuo passo",
+        "corrisponde nel mio cuore un battito.",
+        "Cercami nel sorriso di un bambino",
+        "che ti ha baciata sui banchi di scuola;",
+        "conserva tutto l’amore che hai perso",
+        "tutto quello che volevo tu avessi.",
+        "\"Scese, evitando di guardarla a lungo, come si fa col sole, ma vedeva lei, come si vede il sole, anche senza guardare\".",
+        "L. Tolstoj (da Anna Karenina)"
+    ],
+    "timestamp": "2019-11-23T22:28:54Z",
+    "title": "[LP 6] Anime Salve",
+    "topic_id": 45338,
+    "url": "https://www.writersdream.org/forum/forums/topic/45338-lp-6-anime-salve/"
+}

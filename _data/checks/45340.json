@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 31560,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "INTES MK-69",
+        "url": "https://www.writersdream.org/forum/profile/31560-intes-mk-69/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao mi accodo anch'io al coro di commenti positivi che accompagnano il tuo bel testo. MI è piaciuto questo dialogoa due voci fra una persona afflitta dalle proprie tribolazioni e il vento. Quel vento da sempre caro ai poeti forse perchè carico di profumi e voci. Un vento sincero quello che descrivi, che non fa nulla per nascondere la propria indifferenza. D'altronde il mondo non può certo accogliere le suppliche dei singoli individui, non si può certo fermare. Siamo granelli di polvere, nessuno di noi può cambiare la propria ineluttabile sorte. Ma siamo allo stesso tempo grandi, come dimostra inequivocabilmente questo tuo scritto, ed essendone consapevoli soffriamo per il nostro amaro destino. Da qui la supplica dell'autrice che rivolge al vento, che sembra quasi volere in qualche modo essere ascoltata, solo per ottenere almeno uno sconto della pena. È una preghiera molto umana, perchè riguarda, bene o male, l'esistenza di ognuno di noi che siamo accomunati da un identico destino.",
+                    "Ho apprezzato tutte le parti del vento. Ho trovato in quei versi un'indifferenza glaciale che hanno fatto da contraltare ai versi pieni di tristezza dell'interlocutrice umana. Di quest'ultima ho gradito soprattutto i seguenti versi",
+                    "Che ho trovato particolarmente incisivi grazie anche ad alcuni paragoni molto intensi.",
+                    "Concludendo, poesia che inizia leggermente in sordina ma che riesce a penetrare riga dopo riga nel cuore e nella mente del lettore. Come vi riesca non lo so, la poesia ha a che fare più con l'alchimia che con la bella scrittura. Tu evidentemente possiedi la magia necessaria per far vivere le emozioni in un testo poetico.",
+                    "Cari saluti,",
+                    "Mirko"
+                ]
+            ],
+            "timestamp": "2019-11-23T10:30:37Z",
+            "title": "Parlo al vento",
+            "url": "https://www.writersdream.org/forum/forums/topic/44764-parlo-al-vento//?do=findComment&comment=801701",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 385,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Mi terrorizza",
+        "quest'acqua",
+        "che invade le mie strade",
+        "questa piena",
+        "che trascina la mia terra.",
+        "È che non ho argini",
+        "le mie braccia sono solo banderuole",
+        "la mia bocca",
+        "non assorbe abbastanza acqua.",
+        "MI terrorizza",
+        "questa piena",
+        "che trascina la mia gente",
+        "questo fango",
+        "che seppellisce le mie strade.",
+        "È come se il cielo piangesse",
+        "per il nostro destino",
+        "come se volesse lavare il sangue",
+        "del nostro suicidio collettivo."
+    ],
+    "timestamp": "2019-11-23T22:40:26Z",
+    "title": "[ LP 6] Mi terrorizza",
+    "topic_id": 45340,
+    "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza/"
+}

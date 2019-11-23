@@ -1,0 +1,79 @@
+{
+    "author": {
+        "author_id": 8135,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Sira",
+        "url": "https://www.writersdream.org/forum/profile/8135-sira/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9588888888888889,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9588888888888889
+            },
+            "text": [
+                [
+                    "Ah però il caro Bob!",
+                    "che ti piaccia sperimentare ormai è chiaro, che le tue sperimentazioni siano sempre accattivanti, invece, è una vera sorpresa e una gioia.",
+                    "Una sorpresa perché sei un vulcano inesauribile di idee, una gioia perché sperimenti in quello che è il mio mondo preferito.",
+                    "Molto delicata, e dura allo stesso tempo, questa bellissima poesia.",
+                    "Fosse possibile rimuovere completamente episodi che hanno lasciato cicatrici, che ci hanno trasformato, e invece no... a volte riaffiorano con tutta la loro forza e allora non ti resta che",
+                    "affrontarle, se non vuoi esserne travolto.",
+                    "Per evitare di ripetere come, inserirei sotto.",
+                    "Credo che tu abbia volutamente lasciato il blocco centrale omogeneo, ma secondo me se fai a meno delle frasi in neretto scivola via meglio e non toglie nulla all'insieme.",
+                    "Bellissima questa parte centrale. Tutta d'un fiato, senza pause.",
+                    "A questa terza strofa che gli vuoi dire? Perfetta e da brividi. Forse c'è un refuso?",
+                    "Bella, bella, bella."
+                ]
+            ],
+            "timestamp": "2019-11-23T22:50:44Z",
+            "title": "Il mondo azzurro",
+            "url": "https://www.writersdream.org/forum/forums/topic/45304-il-mondo-azzurro//?do=findComment&comment=801867",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 155,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ora che",
+        "guardo il sole",
+        "negli occhi",
+        "e la luna",
+        "sulle labbra,",
+        "scivolo lieve",
+        "nel tuo immenso.",
+        "Che io diventi",
+        "schiuma,",
+        "onda",
+        "o inesplorato",
+        "abisso",
+        "poco importa",
+        "perché io sarò!"
+    ],
+    "timestamp": "2019-11-23T22:52:13Z",
+    "title": "[LP 6]  Io sarò",
+    "topic_id": 45341,
+    "url": "https://www.writersdream.org/forum/forums/topic/45341-lp-6-io-sar%C3%B2/"
+}

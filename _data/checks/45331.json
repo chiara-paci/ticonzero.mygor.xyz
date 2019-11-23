@@ -1,0 +1,104 @@
+{
+    "author": {
+        "author_id": 17729,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Vincenzo Iennaco",
+        "url": "https://www.writersdream.org/forum/profile/17729-vincenzo-iennaco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao. Nello scegliere una poesia da commentare mi sono imbattuto in altri tuoi brani. Ho scelto infine di commentare questa ma il commento è più composito, rifacendosi anche alle altre lette, in una sorta di compendio (passami questo termine inappropriato oltre che brutto, nel suo voler comprimere in uno spazio, mentre la poesia generalmente è propagazione, deborda nella singolarità delle percezioni). Una poetica che traspare ed è legata da immagini e termini ricorrenti:",
+                    "una poetica della mancanza (sia essa declinata come perdita o inafferrabilità di qualcuno o qualcosa), accomunata da quei palmi ora vuoti (...Autunno) ora impotenti e \"immobili\" nella presa (Nuvole). Qui il palmo della mano contiene un seme ma aleatorio quanto effimero;",
+                    "una poetica del guardare (e guardarsi) attraverso, la finestra sull'esterno e quella più figurata e simbolica che dà sull'interno di sé, e che ricorre anche nel brano \"Football\";",
+                    "così come trovo ricorrenti una poetica della solitudine, lo stare dietro a un vetro che delinea un isolamento, un confinamento (più o meno coatto), combinata a quella di una stagionalità della vita e/o dell'anima in un autunno quasi perenne (...Autunno, Football).",
+                    "Entrando più nello specifico, questo brano mi ha affascinato per il contrasto che si produce nella linearità dell'assunto. Quella finestra che sembra essere la stessa mentre in realtà è affacciata su \"dimensioni\" diverse: quella del sogno (e delle illusioni) e quella più concreta e materiale della realtà (dove si condensano tutte le disillusioni). Quella \"primula in un vaso\" sembra confinare la primavera nel modo onirico e nel ricordo, e ciò mi ha suggestionato quindi anche quell'aleatorietà del tempo che passa (oltre a ciò che nel frattempo si può perdere per strada) in quel disegno che si confonde per poi svanire nella condensa.",
+                    "Di seguito ti lascio due piccole note formali. Tienine conto soltanto qualora dovessero coincidere col tuo personale sentire.",
+                    "sognavo",
+                    "(dato che trovo questa poesia \"imparentata\" per certi versi con \" ...Autunno\" e \" Football\" le aprirei tutte senza maiuscola iniziale e punto finale, come legate indefinitamente da un ideale filo invisibile nella loro unicità)",
+                    "sbocciassi fra le mie dita",
+                    "come primula in un vaso",
+                    "da ritrovare ogni giorno",
+                    "alla finestra",
+                    "ma tu",
+                    "su questo palmo hai posato",
+                    "il seme per disegnare",
+                    "nella condensa appena un fiore",
+                    "da vedere svanito (oppure: visto svanire)",
+                    "di lì a breve",
+                    "Un saluto e alla prossima."
+                ]
+            ],
+            "timestamp": "2019-11-23T13:38:20Z",
+            "title": "Disegni nella condensa",
+            "url": "https://www.writersdream.org/forum/forums/topic/45149-disegni-nella-condensa//?do=findComment&comment=801761",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 846,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 1 - La paura",
+        "Sapessi!",
+        "Ho paura nel sentirmi dare del bravo ragazzo,",
+        "«così ammodo. Sapesse, signora mia!».",
+        "Ho paura",
+        "perché temo gli articoli di giornale:",
+        "“follia omicida”",
+        "ma sempre così ammodo. Sapesse, signora mia!",
+        "Ho paura del prelievo del sangue,",
+        "del morso di un ago.",
+        "Ho paura",
+        "perché dalla vita sono stato coccolato,",
+        "mai un letto d'ospedale. Sapesse!",
+        "Ho paura, di cos'altro ho paura?",
+        "Aspetta, che mi accendo una sigaretta e ci pensi?",
+        "Ma certo! Dell'aereo.",
+        "Ho paura",
+        "perché amo viaggiare,",
+        "sempre sui libri. Sapesse!",
+        "Ho paura di essere inadeguato,",
+        "ma son bravo nell'adeguarmi",
+        "senza far niente.",
+        "Ma sempre così ammodo, naturalmente!",
+        "Ho paura della paura,",
+        "quella che entra senza bussare;",
+        "quella che il sopra lo mette sotto,",
+        "che lesta apre tutti i cassetti,",
+        "che col tuo volto strofina gli specchi.",
+        "Ho paura",
+        "perché mi ha detto:",
+        "«hai paura della vita. Sapessi, ragazzo mio!»."
+    ],
+    "timestamp": "2019-11-23T20:34:24Z",
+    "title": "[LP 6] Sapessi!",
+    "topic_id": 45331,
+    "url": "https://www.writersdream.org/forum/forums/topic/45331-lp-6-sapessi/"
+}

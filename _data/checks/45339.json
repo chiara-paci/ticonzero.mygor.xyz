@@ -1,0 +1,84 @@
+{
+    "author": {
+        "author_id": 27106,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Ippolita2018",
+        "url": "https://www.writersdream.org/forum/profile/27106-ippolita2018/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Cara , ho letto con attenzione e molto interesse il tuo racconto, il cui stile giornalistico, a tratti sincopato, è finalizzato alla rappresentazione di eventi che si susseguono incalzanti. Mi è sembrato di capire che l'ucronia consista in questo: i tre leader Slobodan Milošević, Franjo Tuđman e Milan Kučan hanno intenzione di separare consensualmente la federazione jugoslava senza ricorrere alle armi; questo tentativo viene stroncato con la loro uccisione da parte dell'esercito jugoslavo, che vuole invece mantenere unita la Jugoslavia. Le prove di questa macchinazione sarebbero state scoperte da Marko, il fratello di Ana, per questa ragione assassinato (così come, probabilmente, lo sarà anche la sorella). Nella realtà dei fatti storici nessuno dei tre leader citati è stato ucciso: l'ucronia consisterebbe appunto nel prospettare cosa sarebbe successo se qualcuno avesse provato a separare la Jugoslavia di comune accordo. Spero di non aver frainteso nulla. Nella frenesia del racconto sei riuscita a infilare una pausa delicata e ben costruita nella sua brevitas (Ana appoggiata allo stipite, il tè della nonna) in cui metti in luce l'intimità tra i fratelli.",
+                    "Nonostante il tuo italiano sia eccellente, vi sono ancora delle \"imperfezioni\" che una \"perfezionista\" come te desidera di certo fare fuori. Mi accingo pertanto a esaminare il tuo racconto sotto questo aspetto, e a suggerirti qualche piccola miglioria (sempre, ovviamente, a mio modesto avviso).",
+                    "Mi fermerei a \"rabbiose\": rende già bene ciò che sta accadendo. La preposizione retta da \"essere d'accordo\" mi sembra sia \"a\", non \"di\".",
+                    "Anticiperei in questo modo:",
+                    "\"Non﻿﻿ aveva insistito sull'apertura degli archivi statali﻿ per far finire in un buco ﻿﻿nell'acqua la battaglia di una vita\".",
+                    "Il modo di dire colloquiale prevede la preposizione \"nella\".",
+                    "Il \"che\" relativo qui è ambiguo. Sposterei il sostantivo cui si riferisce in modo che la frase sia di chiara evidenza:",
+                    "\"Tra le pareti alte e spesse echeggiò un mormorio, che la donna...\". Sostituirei, in \"l'alzata\", l'articolo indeterminativo al determinativo.",
+                    "\"nella giornata\" è più corretto.",
+                    "\"siano\".",
+                    "Nelle tre occorrenze riportate qui sopra, ho notato che ricorri sempre a una triplice sequenza. A me non dispiace, ma ne sfoltirei almeno una.",
+                    "Qui, prima di \"Non aveva\", è necessario esplicitare il soggetto (Marko), sintatticamente troppo lontano.",
+                    "Dopo Marko c'è bisogno di una virgola.",
+                    "Qui, pur essendo corretta la preposizione, sostituirei con \"presso\" o \"nell'\" per evitare la forte allitterazione.",
+                    "\"di chiarirsi\", in questo caso.",
+                    "Qui, se vuoi mantenere \"alla\", devi allora sostituire \"era sopraggiunta\" con, ad esempio, \"si era sostituita\"; altrimenti dovresti scrivere \"dopo la\" al posto di \"alla\".",
+                    "È una storia di coraggio e \"schiene dritte\" e, anche se non facile da comprendere di primo acchito, mi è piaciuta molto. Ti saluto e ti ringrazio."
+                ]
+            ],
+            "timestamp": "2019-11-23T17:18:16Z",
+            "title": "[Sfida 25] Al crocevia tra l'Ovest e l'Est",
+            "url": "https://www.writersdream.org/forum/forums/topic/45180-sfida-25-al-crocevia-tra-lovest-e-lest//?do=findComment&comment=801783",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 320,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 2. Il ﻿risveglio da un incubo.",
+        "La paura non ha presente",
+        "ha un corpo passatofuturo",
+        "una lingua nera sulla faccia",
+        "non sa stare dritta.",
+        "È bene che gli occhi rimangano chiusi",
+        "― sussurra ―,",
+        "il vento viola li porterebbe via.",
+        "Dalli a me: il giorno che muori",
+        "potrò non guardarti.",
+        "Nessuno sa dirmi",
+        "se il patto vale ancora,",
+        "al mattino."
+    ],
+    "timestamp": "2019-11-23T22:37:35Z",
+    "title": "[LP 6] Nessuno sa dirmi",
+    "topic_id": 45339,
+    "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi/"
+}

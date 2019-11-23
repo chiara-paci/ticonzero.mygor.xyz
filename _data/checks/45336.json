@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 32761,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Leonardo MNT",
+        "url": "https://www.writersdream.org/forum/profile/32761-leonardo-mnt/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 1011,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801850,
+            "text": [
+                "Un'umile dedica a che, con il suo arrostire una buccia di banana, mi ha dato l'ispirazione e la spinta per partecipare al Contest."
+            ],
+            "timestamp": "2019-11-23T22:06:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=801850"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia 1",
+        "Rido pensando a stamane, ma è amaro e salato.",
+        "Saranno le lacrime, sospiro, e mi fermo.",
+        "In un lampo, uno schiocco, mi ritrovo solo.",
+        "Il pianto, pavido, corre via. Mi abbandona.",
+        "Anche lui non mi resta vicino, mi lascia",
+        "in balìa del terrore, che avanza incurante.",
+        "Non mi guarda negli occhi, non parla.",
+        "Con calma, si accompagna all'assenza.",
+        "Eppure io solo rimango, non ho nulla di nuovo.",
+        "Non è amico, né antagonista. Sta lì, mi studia.",
+        "Fa scappare anche l’ombra, si siede al suo posto",
+        "e mi segue. Nel buio mi opprime, mi soffoca.",
+        "Vorrei urlare a qualcuno il dolore, il groppo",
+        "nel cuore che stringe. Non c’è vita.",
+        "Nessuno mi ascolta, non oggi, non più.",
+        "Non c’è mano che tenda al mio corpo.",
+        "Ah! Pensare al ricordo di oggi, quando Fame",
+        "che ancora provavo mi costrinse a prendere",
+        "un frutto. Quel giallo, sul fuoco bruciava.",
+        "Una banana, rammento, e la scorza arrostiva.",
+        "Ero sereno, meno solo di ora soltanto di te,",
+        "ma non me ne accorsi, non m’importava.",
+        "Pensavo alla settimana che prona, stanca,",
+        "stiracchiava domenica, e ancora ridevo."
+    ],
+    "timestamp": "2019-11-23T22:00:13Z",
+    "title": "[LP 6] Un incubo: solo.",
+    "topic_id": 45336,
+    "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo/"
+}

@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 14049,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Emy",
+        "url": "https://www.writersdream.org/forum/profile/14049-emy/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , bentrovato! Molto curiosa la forma di presentare i versi per renderli accattivanti anche visualmente. Sembra quasi che stai invitando il lettore a scendere le scale per raggiungere il mondo azzurro insieme.",
+                    "Metterei due punti dopo zero e una virgola dopo rimuovo. Sai quale sensazione ho? È come se la voce narrante stesse facendo una sessione di ipnosi che lo faccia tornare indietro con la memoria. Questo mondo azzurro potrebbe essere proprio il mondo nascosto nella mente dell'uomo.",
+                    "Il linguaggio usato mi sembra colloquiale, o meglio eviterei quel dunque, che mi sa di raccontato e lo vedo poco adatto alla forma in versi. Vedrei meglio, invece, un allora. Metterei, poi, una virgola dopo infuriate. Non mi convince quel verso un cielo. Immagino il corpo del bambino, mi sembra che mancasse qualcosa, direi slanciato verso un cielo. Bello il paragone del cielo sopra la testa con la lastra di marmo che chiude una barra. È un'immagine triste che però fatico ad abbinare a un bambino in piena crescita, quella bara mi ricorda inevitabilmente la morte.",
+                    "Asciugherei un pochino lo stile, perché è tutto raccontato, forse troppo per una poesia. Ti suggerirei qualche modifica.",
+                    "L'auto fuori strada in volo sull'argine",
+                    "per atterrare con un tonfo di pancia",
+                    "nelle acque limacciose del canale",
+                    "torbido in superficie e sotto non azzurro",
+                    "dove regnava un silenzio incantato",
+                    "e così via. Lo limerei un pochino, ecco.",
+                    "Questa strofa è quella meno raccontata e più poetica. Modificherei leggermente il verso iniziale: A sei anni, la mia vita. Metterei una virgola dopo bianco e occhi.",
+                    "Mi incuriosisce molto che pervade dappertutto questo colore azzurro, come il negativo di una foto, che ti fa vedere il passato. Perché dice sorelle immaginarie? La sorella, se non ho capito morta nell'incidente in cui il bambino, oggi uomo, è sopravvissuto, è solo una. Sento una forte angoscia in questi versi, come se il dolore che lui sente fosse amplificato, raddoppiato. Forse il plurale sorelle è riferito a questo, forse l'incidente ha provocato un trauma all'uomo che si sottopone a un'ipnosi regressiva per ricordare quanto accaduto.",
+                    "La chiusura porta alla realtà, all'oggi, l'uomo si risveglia. I ricordi sono tornati, ma il dolore per la perdita della sorella rimarrà per sempre.",
+                    "È una poesia semplice, che porta in superficie, attraverso le poche immagini evocative, la sofferenza dell'uomo per un trauma vissuto in infanzia legato a un incidente in macchina in cui è morta la sorella. Il fatto che è un po' troppo raccontato toglie la forza emotiva ai versi, che è sicuramente voluto per un motivo che mi sfugge. Forse volevi rendere il modo in cui l'uomo racconta allo psicologo l'accaduto nel momento in cui è sottoposto all'ipnosi. Ma resta una poesia interessante, che rimane impressa anche per come hai presentato i versi in forma delle scaline. Piaciuta. Sempre bravo!"
+                ]
+            ],
+            "timestamp": "2019-11-23T20:31:21Z",
+            "title": "Il mondo azzurro",
+            "url": "https://www.writersdream.org/forum/forums/topic/45304-il-mondo-azzurro//?do=findComment&comment=801812",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 329,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 1 Paura",
+        "Lo Straniero",
+        "bussi alla mia porta",
+        "nel cuor della notte.",
+        "Inatteso",
+        "dalla faccia scura",
+        "mani raggrinzate.",
+        "Si stringono",
+        "intorno al corpo",
+        "scosso dai tremori.",
+        "Occhi ghiacciati",
+        "cuore imbizzarrito",
+        "gambe spezzate.",
+        "Cielo spento",
+        "mondo capovolto",
+        "terremoto dell’anima.",
+        "Lo Straniero",
+        "bussi alla mia porta",
+        "per restare.",
+        "Vattene e non tornare mai più."
+    ],
+    "timestamp": "2019-11-23T21:23:16Z",
+    "title": "[LP6] Lo Straniero",
+    "topic_id": 45333,
+    "url": "https://www.writersdream.org/forum/forums/topic/45333-lp6-lo-straniero/"
+}
