@@ -50,7 +50,7 @@
     },
     "num_chars": 682,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 801343,
@@ -65,6 +65,20 @@
             ],
             "timestamp": "2019-11-21T16:20:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45259-aporia//?do=findComment&comment=801343"
+        },
+        {
+            "post_id": 801786,
+            "text": [
+                "Ciao è bello risentirti. Spero tutto bene.",
+                "Mai visto e mai letto. Un mio caro amico appassionato di cinema si disse particolarmente disturbato dal film, per cui ho evitato. Ad ogni modo, non sei la sola ad aver pensato al suicidio (come dicevo rispondendo al commento di Roberto).",
+                "Non so se è amore, o se è una parte del sentimento che spesso volutamente ignoriamo, cioè quello di una distanza che per quanto cerchiamo di colmare (come hai giustamente notato) o ci illudiamo di aver colmato è sempre lì, inafferrabile.",
+                "Bellissimo, non ne avevo idea. E grazie per questo commento splendido commento.",
+                "Spero di risentirti presto.",
+                "Un saluto,",
+                "Johnny P. This"
+            ],
+            "timestamp": "2019-11-23T17:31:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45259-aporia//?do=findComment&comment=801786"
         }
     ],
     "post_staff": [],
