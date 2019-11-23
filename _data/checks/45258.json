@@ -47,7 +47,7 @@
     },
     "num_chars": 7678,
     "num_commenti": 1,
-    "num_posts": 28,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 800385,
@@ -150,6 +150,16 @@
             ],
             "timestamp": "2019-11-20T21:34:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=801217"
+        },
+        {
+            "post_id": 801653,
+            "text": [
+                "Grazie mille del passaggio e dell'apprezzamento.",
+                "Quale sarebbe la penalità Edu sono contento di averla scansata comunque",
+                "Che dirti, grazie mille. Ho cercato di partecipare in tutti i modi. Tanto posso sempre rimetterci mano. Grazie mille del passaggio e apprezzamento."
+            ],
+            "timestamp": "2019-11-22T23:11:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=801653"
         }
     ],
     "post_staff": [
