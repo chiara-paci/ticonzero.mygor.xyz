@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": true,
+    "closed": false,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 2,
