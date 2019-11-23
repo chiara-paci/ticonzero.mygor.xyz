@@ -13,12 +13,48 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il racconto è ambientato in un tranquillo scenario domestico dove i colpi di scena non sono previsti. La trama è semplice e lineare, ma invita chiunque di noi in quanto figlio, fratello o genitore a fare delle riflessioni paragonando la situazione raccontata alle proprie esperienze personali. Greta e Leo sono una coppia di fratellini dove Greta è la sorella maggiore e quindi in quel momento è più agile, veloce e sveglia di Leo. E' facile e bello pensare che nel proseguimento della loro esistenza i ruoli potranno invertirsi, e già tra qualche anno probabilmente sarà Leo ad avere atteggiamenti protettivi nei confronti della sorella. Gli altri due personaggi del racconto sono il papà e la mamma dei fratellini, che appaiono come due genitori dai comportamenti canonici nel rispetto dei loro rispettivi ruoli. Ho riscontrato una scrittura scorrevole e piacevole, semplice e con una buona sintassi, oltre che curata nella punteggiatura e priva di errori. La lettura del racconto mi ha trasmesso nel complesso sensazioni di serenità e mi ha rilassato. Penso che l'autrice abbia quindi raggiunto il proprio obiettivo."
+                ]
+            ],
+            "timestamp": "2019-11-23T10:58:14Z",
+            "title": "La gara",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=801723",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "E' un racconto che descrive uno stato d'animo, quindi con una trama inevitabilmente limitata. Mi è parso anzi di percepire il tentativo dell'autrice di aggiungere degli elementi volti a conferire una maggiore articolazione alla storia. Il tema è di quelli abbastanza ricorrenti, mi vengono in mente alcuni testi di canzoni di cantautori nostrani. Qui però l'analisi è spinta ad un livello più approfondito.",
+                    "I personaggi principali sono due: la giovane protagonista, il suo neo ex partner, e l'indimenticato partner precedente. Dico due perchè l'ex e l'ex-ex sono la stessa entità. Sono il bello (o a suo modo bello) e dannato, (o a suo modo dannato) che tanto ci fà battere il cuor. Perchè il suo modo di essere bello e dannato ci piace tanto. Sappiamo già che ci farà male, ma ci piace per questo ancora di più.",
+                    "Non ho capito il ruolo di Azzurra, è la cagnolina della protagonista?",
+                    "La scrittura mi è parsa scorrevole e abbastanza chiara, a parte qualche frase che a mio giudizio potrebbe essere meglio raffinata, tipo Eppure non è il volo che non va.",
+                    "Ho avuto qualche piccolo tentennamento nella lettura di alcune frasi per via della punteggiatura forse migliorabile, tipo Non sono una di quelle ragazze che pretende che tu stia attaccato al telefono, no, a ognuno la sua strada, e se la facciamo insieme, tanto meglio. Quel no tra due virgole forse meriterebbe una pausa più importante.",
+                    "In conclusione il senso che ho tratto dal racconto mi ha un pochino disturbato, e questo credo già che sia un ottimo risultato. Non so se voluto. Il \"disturbo\" è derivato dal fatto che, sulla base di ciò che la protagonista si accinge a fare - una settimana nella sua adorata Spagna - me la sono immaginata come una giovane donna già indipendente. Le sensazioni che prova in quei momenti invece mi sono sembrate tipicamente postadolescenziali. Forse è una giovane donna molto attuale."
+                ]
+            ],
+            "timestamp": "2019-11-23T07:15:08Z",
+            "title": "Stelle morenti",
+            "url": "https://www.writersdream.org/forum/forums/topic/45323-stelle-morenti//?do=findComment&comment=801674",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -26,7 +62,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 12793,
-    "num_commenti": 0,
+    "num_commenti": 2,
     "num_posts": 4,
     "post_after": [],
     "post_staff": [
