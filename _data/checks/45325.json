@@ -27,7 +27,7 @@
     },
     "num_chars": 12793,
     "num_commenti": 0,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -44,6 +44,19 @@
             ],
             "timestamp": "2019-11-22T22:53:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45325-incontro-tra-due-maschi-alpha//?do=findComment&comment=801649"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 801731,
+            "text": [
+                "Situazione regolarizzata: e ."
+            ],
+            "timestamp": "2019-11-23T11:34:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45325-incontro-tra-due-maschi-alpha//?do=findComment&comment=801731"
         }
     ],
     "text": [

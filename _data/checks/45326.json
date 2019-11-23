@@ -82,9 +82,48 @@
     },
     "num_chars": 331,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801736,
+            "text": [
+                "Versione riveduta con l'aggiunta di un verso.",
+                "Football",
+                "La mia finestra",
+                "si affaccia su un campo da calcio.",
+                "Cos'ho in comune con un simile panorama?",
+                "mi chiedo spesso,",
+                "io che al pallone",
+                "preferisco il divano.",
+                "Ma questa sera d'autunno",
+                "i ragazzi stanno giocando",
+                "perfino sotto la pioggia,",
+                "zuppi come stracci.",
+                "Li guardo dai vetri,",
+                "grondante della tua assenza",
+                "che cade fitta.",
+                "Potrei essere",
+                "loro compagno di squadra."
+            ],
+            "timestamp": "2019-11-23T11:49:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801736"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 801752,
+            "text": [
+                "visto che hai solo aggiunto un verso e non ci sono commenti prima della modifica, se vuoi mantenere la seconda versione posso modificare il testo iniziale, dammi conferma perché non si posso lasciare più testi nella stessa discussione e uno dei due post va tolto."
+            ],
+            "timestamp": "2019-11-23T12:24:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801752"
+        }
+    ],
     "text": [
         "Comment:",
         "La mia finestra",

@@ -179,7 +179,7 @@
     },
     "num_chars": 11492,
     "num_commenti": 2,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 800273,
@@ -313,7 +313,28 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45237-retroscena-da-un-circo//?do=findComment&comment=801091"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 801730,
+            "text": [
+                "Ciao",
+                "un bel racconto, complimenti. Non ti farò le pulci sul testo, sia perché ti sono già state fatte da chi mi ha preceduto, sia perché non saprei che dire al riguardo: io mi sono letta tutto senza interruzioni di sorta, non vedo dove poterti criticare dal punto di vista della scrittura.",
+                "Il testo è ben gestito nel ritmo e nei tempi; incrementi in modo costante la curiosità del lettore: ci si chiede dove si voglia andare a parare, che cosa è successo a questa famiglia, quali sono state le dinamiche che la rendono così interessante. Perché generi interesse, fai capire che c'è qualcosa da scoprire, ma fino alla presentazione della figliastra, di cui non si è mai saputo nulla, non c'è modo di aspettarsi proprio questo, come \"colpo di scena\" (o, almeno, io l'ho trovato un buon colpo di scena).",
+                "Ho visto che in molti hanno detto di questo racconto che è un \"racconto circense\". Secondo me lo è, ma in senso figurato. Il testo è un racconto di famiglia, di amore, di sofferenza. In questo vedo un circo figurato: le vicende amorose e familiari dei personaggi possono essere viste nella metafora di un circo: gente che viene e gente che va, uno spettacolo bello da vedere, ma pesante da vivere. Ho apprezzato questa duplicità: circo fuori come ambientazione, ma il circo vero è quello che sta dentro ai personaggi, alla loro vita.",
+                "Detto ciò, vengo alla parte che mi è rimasta più oscura, per cui ti chiedo: perché la figliastra torna? Vuole conoscere il padre, fargli sapere della sua esistenza. Bene. Però non accetta di essere accolta da lui e dalla sua famiglia. Viene trattata bene, le propongono di entrare a far parte della famiglia, ma lei non accetta. Non accetta nemmeno che il padre non sapesse davvero della sua esistenza. Ecco, mi chiedo il perché di tutto questo. Colgo poco la mentalità, le emozioni e le motivazioni della ragazza. Entro e vedo poco del personaggio, c'è qualcosa che mi sfugge. Vorrei saperne di più su di lei.",
+                "So che non è un errore questa mancanza: il punto di vista della narrazione non può rispondere alle mie domande, non può fugare i miei dubbi, perché probabilmente anche lui ne sa quanto me. Eppure, da lettore, ho questa esigenza, per avere un quadro completo della vicenda. Non mi basta solo questo.",
+                "Ecco fatto, questa la mia riflessione al riguardo. Spero possa esserti utile in qualche modo",
+                "A rileggerti!"
+            ],
+            "timestamp": "2019-11-23T11:26:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45237-retroscena-da-un-circo//?do=findComment&comment=801730"
+        }
+    ],
     "text": [
         "Retroscena da un circo",
         "In cucina la luce della cappa si specchiava nelle pentole, rischiarava il lavello e i piatti sporchi della cena. Tic , faceva la goccia.",
