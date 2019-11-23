@@ -50,8 +50,18 @@
     },
     "num_chars": 667,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801833,
+            "text": [
+                "Ciao grazie del tuo intervento da supercritico",
+                "Diciamo che questo lo considero più un divertissement senza troppe pretese, ma mi fa piacere che in qualche modo ti sia arrivato."
+            ],
+            "timestamp": "2019-11-23T21:48:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45171-metodo-stanislavskij//?do=findComment&comment=801833"
+        }
+    ],
     "post_staff": [
         {
             "author": {
