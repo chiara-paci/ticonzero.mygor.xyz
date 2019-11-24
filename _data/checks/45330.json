@@ -48,11 +48,28 @@
         "title": "Racconti lunghi",
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
-    "num_chars": 9863,
+    "num_chars": 9852,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 801885,
+            "text": [
+                "modificherei, fu fatta secondo me è terribile",
+                "perché ditemi? Prima la nonna le dava del tu",
+                "In pratica la nonna fa diventare vero tutto quello che dice Dorotea? Non mi è molto chiaro il meccanismo. E i fratelli come lo sanno che ci si può fidare della nonna? Ci deve essere una spiegazione, anche magica se vuoi, ma da quache parte bisogna giustificare il fatto. Allungherei un po' il finale che mi dà l'idea di essere affrettato. La storia mi piace però. Darei qualche descrizione in più ai cibi che prepara Dorotea per se stessa e la nonna, in fondo viene da fame e carestia e le devono sembrare molto meglio di quanto non siano.",
+                "Buona giornata"
+            ],
+            "timestamp": "2019-11-24T08:55:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801885"
+        }
+    ],
     "text": [
         "Attenzione: questa è una fiaba e, in quanto tale, è stata scritta secondo i dettami morfologici standard delle fiabe di magia classiche. Inoltre, il patto fiduciario richiesto è molto, ma molto oneroso. Perché qui tutto è possibile.",
         "Le tre teste e la nonna del diavolo",
@@ -75,7 +92,7 @@
         "Il diavolo annuì e ghignò:",
         "«Sia. Tornerò la mattina appena prima che sorga il sole. Fate trovare la figlia pronta e i figli scomparsi, così che possa prendere lei ed esaudire la vostra ultima richiesta assieme: fare ricchi voi. E voi soltanto.»",
         "Detto questo, sparì così come era apparso, lasciando i due poveri genitori in lacrime, sconfitti dalla malvagità di quell’essere.",
-        "Quel che non potevano sapere, però, era che la piccola Dorotea aveva sentito tutto, nascosta dietro la porta della cucina. Affamata com’era, non era riuscita ad addormentarsi ed era scesa a cercare un po’ di conforto, ma, invece che quello, aveva udito tutta la conversazione e ora piangeva disperata anche lei.",
+        "Quel che non potevano sapere, però, era che la piccola Dorotea aveva sentito tutto, nascosta dietro la porta della cucina. Affamata com’era, non era riuscita ad addormentarsi ed era scesa a cercare un po’ di conforto, ma, anziché trovarlo, aveva udito tutta la conversazione e ora piangeva disperata anche lei.",
         "«Oh! Povera me, povera me. Moglie del diavolo e sola per sempre, senza più i miei fratelli!»",
         "Ma mentre pronunciava quelle parole, le venne un’idea.",
         "Raggiunse di corsa i fratelli, che dormivano profondamente nei loro letti, e li svegliò per raccontare loro quello che era accaduto.",
@@ -103,7 +120,7 @@
         "Dorotea ricacciò indietro le lacrime e avanzò per i corridoi dell’abitazione. Non dovette cercare a lungo: la vecchia, di cui i fratelli le avevano parlato, se ne stava seduta sulla poltrona in soggiorno, davanti al camino spento. Era così vecchia che le rughe della fronte avevano ripiegato la pelle fin sopra agli occhi, e le guance ricadevano oltre il mento sporgente fino a toccare il collo.",
         "«Buongiorno, anziana signora, il mio nome è Dorotea. Il diavolo in persona mi ha condotta qui.»",
         "La vecchia sollevò la testa e la piegò all’indietro, così da poter guardare bene la fanciulla.",
-        "«Davvero una splendida ragazza, mio nipote ha scelto proprio bene. Ma ditemi, Dorotea cara, com’era la vostra vita prima di venire qui?»",
+        "«Davvero una splendida ragazza, mio nipote ha scelto proprio bene. Ma dimmi, Dorotea cara, com’era la tua vita prima di venire qui?»",
         "A quella domanda, le teste nel grembiule si mossero un poco per attirare l’attenzione della sorella. Lei fece una lieve riverenza con cui si piegò in avanti, per ascoltare i sussurri del primo fratello.",
         "Racconta pure dei tempi belli,",
         "Ma non far parola di noi fratelli.",
@@ -113,15 +130,15 @@
         "«Oh, povera cara. È senz’altro vero quello che dici. Ma non dovrai mai più patire la fame; ora vai in cucina, che c’è carne in abbondanza per entrambe. Prepara un buon manicaretto e mangeremo assieme.»",
         "Dorotea ringraziò ed eseguì. Mangiò dell’ottimo cinghiale al forno, che condivise con la nonna del diavolo, e così fece anche a cena.",
         "La mattina successiva, la fanciulla si ripresentò in salotto dove stava la vecchia e la scena fu più o meno la stessa:",
-        "«Ditemi, Dorotea cara, come vi sembra lo stare qui?»",
+        "«Ditemi, Dorotea cara, come ti sembra lo stare qui?»",
         "Le teste dei fratelli si mossero piano; Dorotea si chinò accanto al camino per raccogliere la cenere fredda e ascoltare i sussurri del secondo fratello.",
         "Inventa pure come ti senti,",
         "Dirai il vero anche se menti.",
         "«Mi sento fresca e piena di salute come non lo sono mai stata.»",
-        "«Oh, bene mia cara. È senz’altro vero quello che dici. Si vede che siete radiosa come mai, deve avervi fatto bene mangiare il cinghiale ieri. Perché oggi non andate in cucina a preparare del pesce?»",
+        "«Oh, bene mia cara. È senz’altro vero quello che dici. Si vede che sei radiosa come mai, deve averti fatto bene mangiare il cinghiale ieri. Perché oggi non vai in cucina a preparare del pesce?»",
         "Dorotea ringraziò ed eseguì. In effetti si sentiva bene come mai prima di allora e, nello specchiarsi nell’acqua della zuppa di pesce, si vide anche molto più bella e in carne di quanto ricordava.",
         "La mattina successiva, però, la fanciulla in salotto tremava, perché sapeva che quello sarebbe stato l’ultimo giorno prima di diventare la sposa del diavolo.",
-        "«Oh, Dorotea cara, vi vedo crucciata questa mattina, come se doveste salire sul patibolo domani all’alba. Ditemi: che cosa vi attende?»",
+        "«Oh, Dorotea cara, ti vedo crucciata questa mattina, come se dovessi salire sul patibolo domani all’alba. Dimmi: che cosa ti attende?»",
         "Ancora una volta le teste si mossero nel grembiule della ragazzina, che si chinò ad allacciarsi le scarpe e intanto ascoltò quel che aveva da consigliare il terzo fratello.",
         "Dì pure tutto quello che vuoi",
         "E i sogni realtà saranno i tuoi.",
