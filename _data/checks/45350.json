@@ -1,0 +1,81 @@
+{
+    "author": {
+        "author_id": 34774,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Tonino123",
+        "url": "https://www.writersdream.org/forum/profile/34774-tonino123/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.596304347826087,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.596304347826087
+            },
+            "text": [
+                [
+                    "Buonasera, allora proverò a commentare, diciamo che la trama in se ha il suo perché, non mi dispiace. Apprezzo l'idea di fondo:",
+                    "So che non è parte dell'estratto ma lo rende più sensato.",
+                    "Mi fa sorridere e apprezzo anche il commento del signor Solitro a Napoleone.",
+                    "Ci sono un paio di cose che però non mi convincono:",
+                    "Qui la frase è decisamente troppo lunga, poco incisiva.",
+                    "Anche i dialoghi mi convincono poco sono un po' \"rigidi\"",
+                    "Qui ad esempio, è un po' innaturale a mio avviso.",
+                    "Essendo un estratto non posso commentare la caratterizzazione dei personaggi, posso dire però che Matteo a pelle mi inspira simpatia e questo è positivo."
+                ],
+                [
+                    "*Mi ispira simpatia.",
+                    "Sono riuscito a fare un refuso anche commentando un racconto altrui!"
+                ],
+                [
+                    "Certo, si capisce!",
+                    "Ma figurati!",
+                    "Ho solo una curiosità, Napoleone che razza di cane è? Perché io lo immagino come un bulldog inglese, non so, magari per il nome."
+                ]
+            ],
+            "timestamp": "2019-11-23T21:45:48Z",
+            "title": "[RC] (in)giustizia & dintorni - l'assassino colpisce ancora",
+            "url": "https://www.writersdream.org/forum/forums/topic/42485-rc-ingiustizia-dintorni-lassassino-colpisce-ancora//?do=findComment&comment=801831",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 3539,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Buongiorno, provo a condividere un incipit. Grazie a chi vorrà leggero e/o commentarlo!",
+        "La vita mi andava a noia. Non riuscivo a capire quale fosse il problema, ogni santa sera prima di dormire sentivo un vuoto enorme. Insoddisfazione supponevo. Non riuscivo a riempire quella voragine dentro di me, e quella era solo la punta dell’iceberg. Ero giovane, tutti continuavano a ripetermi che avrei dovuto avere il mondo ai miei piedi, eppure l’unica cosa che sentivo era quel vuoto e le emozioni diventavano sempre più sfumate o alterate. Temevo di arrivare al momento in cui tutto si sarebbe semplicemente dissolto e io sarei rimasto nel nulla a vagare.",
+        "Forse dovrei andare per gradi, così potrete capire bene cosa intendo, quindi iniziamo da capo, mi presenterò e farò tutto come si deve. Quantomeno ci proverò. Il mio nome è Nicola Manfredi e sono tante cose, uno studente universitario fuoricorso, un fidanzato, un fratello, un figlio ed un omicida alienato.",
+        "Si beh, questo lo vedrete dopo. Andiamo con ordine e torniamo al 22 maggio, il mio 26esimo compleanno. Come ogni anno i miei genitori avevano organizzato una cena nella villetta di famiglia in collina, la casa in cui sono cresciuto. Mio padre l’ha fatta edificare come piace a lui, giardinetto di alberi da frutta, vista sul mare, ampia sala da pranzo dove il marmo fa da padrone. Quella sera l’idea di doverci trascorrere qualche ora mi nauseava.",
+        "L’unica differenza quell’anno doveva essere l’assenza di Noemi, a Sidney ad imparare l’inglese. Almeno così diceva lei, io ero certo se la stesse spassando com’era solita fare. In ogni caso la invidiavo, nessuno avrebbe obbligato mia sorella ad una serata a ricevere domande scomode ascoltando in imbarazzo “Tanti auguri a te” in imbarazzo.",
+        "La cena mi sembrava così irreale mentre seduto a capotavola vedevo tutti così felici, la mia ragazza sorridente, mia madre compiaciuta del pasto che lei stessa aveva cucinato. Mio padre a nascondere insieme a mio fratello la torta in frigo, convinti che sarebbe stata una sorpresa. E poi tutti intenti a riempirmi di complimenti, auguri e regali che non desideravo. Forse semplicemente non sentivo di meritare.",
+        "Tutto era così vuoto, senza senso, anche Laura. Dio, Laura, dovrei scrivere venti pagine solo su di lei, è il prototipo della ragazza perfetta, laureata in lettere, colta, di media intelligenza, rispettosa, con un bel viso e belle gambe. Poco più giovane di me ma più saggia e decisamente più allegra.",
+        "Cosa avrei potuto volere di più? Anche a letto non se la cavava male devo ammetterlo, a me non bastava più però. Beh a dir la verità non credo che il problema fosse lei, la mia insoddisfazione era più viscerale, nasceva da dentro il mio petto e invischiava tutto. È stato quello il giorno in cui ho capito che qualcosa davvero non andava in me, più li vedevo gioire più sentivo la rabbia montare. D’un tratto, senza dire nulla, mi alzai ed uscii dal salotto andandomi a sedere solo in giardino.",
+        "La panca in marmo bianco era fredda, nonostante mancasse ormai poco all’estate, umida e macchiata. Non mi interessava, la vista da lì era stupenda, mio padre ci era riuscito. Era uno di quegli uomini che dal nulla creano una vita agiata, comoda e ricca per la propria famiglia. Non sarei mai riuscito ad essere come lui. Non lo avrei ammesso con nessuno ma riuscivo a sentirmi solo un perdente. Nonostante tutto ciò, non riuscivo a trovare la forza di cambiare.",
+        "PS. Si Scoprirà più avanti nel racconto che quello che avete letto è un \"resoconto\" particolare, scritto dal protagonista stesso."
+    ],
+    "timestamp": "2019-11-24T13:07:06Z",
+    "title": "Insoddisfazione",
+    "topic_id": 45350,
+    "url": "https://www.writersdream.org/forum/forums/topic/45350-insoddisfazione/"
+}

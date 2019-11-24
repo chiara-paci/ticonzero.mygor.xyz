@@ -46,7 +46,7 @@
     },
     "num_chars": 3990,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 800974,
@@ -57,6 +57,18 @@
             ],
             "timestamp": "2019-11-20T08:34:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=800974"
+        },
+        {
+            "post_id": 801936,
+            "text": [
+                "Ciao cara ,",
+                "grazie per aver letto il mio racconto,",
+                "condivido le tue annotazioni sulla punteggitura, è il mio cruccio . Per quanto riguarda i tempi dei verbi confusi non sono d'accordo o almeno non riesco a notarli.",
+                "Qui hai ragione, ma: mia madre che quando è nato il bambino sosteneva (...), al momento presente in cui scrivo potrebbe essere ancora ambasciatrice di quell'impossibilità.",
+                "Ti ringrazio ancora per i consigli e gli apprezzamenti! A presto"
+            ],
+            "timestamp": "2019-11-24T13:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=801936"
         }
     ],
     "post_staff": [],

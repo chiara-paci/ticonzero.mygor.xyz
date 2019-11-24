@@ -54,7 +54,7 @@
     },
     "num_chars": 1691,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 801083,
@@ -84,6 +84,14 @@
             ],
             "timestamp": "2019-11-21T21:27:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801400"
+        },
+        {
+            "post_id": 801933,
+            "text": [
+                "grazie sempre per la tua attenzione. Sì, sto riflettendo sui vostri suggerimenti. Grazie anche per l'apprezzamento"
+            ],
+            "timestamp": "2019-11-24T13:00:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45262-la-mia-notte-mi-130-fuori-concorso-iceberg//?do=findComment&comment=801933"
         }
     ],
     "post_staff": [],

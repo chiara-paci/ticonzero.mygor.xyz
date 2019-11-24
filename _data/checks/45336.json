@@ -12,13 +12,42 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Scelgo il tuo racconto per il mio primo commento ad uso di una pubblicazione.",
+                    "Lo sviluppo della storia è molto bello e diretto. Coinvolge il passaggio dalle emozioni suscitate da paesaggi familiari allo spaesamento e il senso di inadeguatezza che si rivela già durante il viaggio, quando il protagonista si concentra sull'abito, cerca di rassicurarsi. Il risveglio in un paesaggio diverso è un ottimo spunto, mi ha trasportato nel disagio del protagonista. Si sviluppa tutto con chiarezza fino alla conclusione, dove ho trovato difficoltà a seguire cosa stesse accadendo. Forse perché a un certo punto ho iniziato a vedere davvero scacchi marroni sullo schermo, ma forse è perché in questa parte fatico a cogliere di cosa si stia parlando in un dato momento. A rileggerla pian piano si dipana la descrizione, ma a mio parere è una scena un po' confusa, e forse è voluto, forse rappresenta il mimetismo dei soggetti.",
+                    "Sui refusi sorvolo, sono stati già notati dagli altri commentatori.",
+                    "Io direi che, essendo il soggetto \"la vita che...\" sarebbe più corretto dire \"avrebbero assorbito e restituito...\"",
+                    "\"sulle scarpe e [...] sul vestito\".",
+                    "Qui mi stride: direi \"Ci puntava molto, sull'abito\" oppure \"Puntava molto sull'abito\".",
+                    "Questa frase la cito perché mi è piaciuta molto. Il contrasto dell'apparenza contro la sostanza che diventa urbana è molto evocativo.",
+                    "Qui cito solo perché ho un dubbio: essendo domenica, mi chiedo se \"scolaresca\" sia un riferimento più generico a un gruppo di ragazzi.",
+                    "Qui metterei una virgola dopo la \"e\", e non ho altri suggerimenti da dare.",
+                    "Passando alla caratterizzazione, devo dire che quella di Nino è molto, molto ben fatta. Traspare la sua insicurezza, il suo bisogno di apparire perché non conosce la sostanza, come quando stira la giacca sgualcita.",
+                    "Interessante è anche l'agente immobiliare, che incuriosisce anche con una sola battuta: \"sono qui in incognito\".",
+                    "In generale, si potrebbe cercare di rendere più chiare alcune parti, ma lo stile è coerente, suscita interesse e, paradossalmente, in modo particolare nel parlato, che evoca subito un senso di realtà, quasi uscissero dalle pagine. Dico paradossalmente perché il parlato è centellinato nel racconto.",
+                    "In conclusione un racconto appassionante, che però merita di essere continuato, perché la conclusione sembra avere dei puntini sospensivi alla fine.",
+                    "Complimenti."
+                ]
+            ],
+            "timestamp": "2019-11-23T21:55:01Z",
+            "title": "Le avventure di Nino. La stazione.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=801838",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +55,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 1011,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [
         {

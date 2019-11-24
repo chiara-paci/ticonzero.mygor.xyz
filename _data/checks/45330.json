@@ -50,8 +50,20 @@
     },
     "num_chars": 9852,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 801894,
+            "text": [
+                "me n'è scappato uno! In prima stesura le dava del voi, poi ho cambiato con il tu perché mi suonava migliore... ma ovviamente un verbo doveva scapparmi. Grazie!",
+                "Sono i suoi genitori che fanno promettere al diavolo:",
+                "Con la nonna si va oltre. Visto che deve fidarsi ciecamente, perché Dorotea dice sempre la verità, allora vale anche il contrario: tutto quello che dice è vero e quindi bisogna fidarsi. Così lei, anche quando mente, si trova a dire il vero, come le rivelano i fratelli:",
+                "Grazie mille per i consigli, così so dove andare a migliorare la fiaba"
+            ],
+            "timestamp": "2019-11-24T09:44:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801894"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -68,6 +80,22 @@
             ],
             "timestamp": "2019-11-24T08:55:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801885"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 801894,
+            "text": [
+                "me n'è scappato uno! In prima stesura le dava del voi, poi ho cambiato con il tu perché mi suonava migliore... ma ovviamente un verbo doveva scapparmi. Grazie!",
+                "Sono i suoi genitori che fanno promettere al diavolo:",
+                "Con la nonna si va oltre. Visto che deve fidarsi ciecamente, perché Dorotea dice sempre la verità, allora vale anche il contrario: tutto quello che dice è vero e quindi bisogna fidarsi. Così lei, anche quando mente, si trova a dire il vero, come le rivelano i fratelli:",
+                "Grazie mille per i consigli, così so dove andare a migliorare la fiaba"
+            ],
+            "timestamp": "2019-11-24T09:44:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801894"
         }
     ],
     "text": [

@@ -65,7 +65,7 @@
     },
     "num_chars": 7939,
     "num_commenti": 1,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 800550,
@@ -165,6 +165,17 @@
             ],
             "timestamp": "2019-11-23T15:59:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=801778"
+        },
+        {
+            "post_id": 801805,
+            "text": [
+                "Ciao",
+                "grazie per le belle parole e per l'apprezzamento, che mi hanno fatto un immenso piacere.",
+                "Molto bello il proverbio, capisco il napoletano pur non parlandolo, ho vissuto per tanti anni con indimenticabili compagni che per la maggior parte erano del meraviglioso Sud. Il proverbio contiene una profonda verità.",
+                "A risentirci."
+            ],
+            "timestamp": "2019-11-23T18:47:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=801805"
         }
     ],
     "post_staff": [
