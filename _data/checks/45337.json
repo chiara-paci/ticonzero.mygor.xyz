@@ -47,8 +47,43 @@
     },
     "num_chars": 512,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 802050,
+            "text": [
+                "Ti ringrazio molto, davvero: il manierismo, con me, è sempre dietro l'angolo e scrivere in questo modo è stato un tuffo nel passato. Mi sono allontanato dalla retorica in questo periodo, o, meglio, me ne sono dovuto allontanare. Scrivere così è stato come immergersi in qualcosa che si conosce e si teme allo stesso tempo. Non so. Ammetto che il tema della morte è giunto alla fine, perché inizialmente il testo doveva parlare di qualcos'altro che non specifico, perché non vorrei suonasse come un modo di proteggersi agli occhi dei giudici. Chissà."
+            ],
+            "timestamp": "2019-11-24T21:06:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45337-lp-6-vegliardo//?do=findComment&comment=802050"
+        },
+        {
+            "post_id": 802051,
+            "text": [
+                "@Edu",
+                "Grazie, grazie davvero! Ammetto che, come precisato, questo stile mi appartiene poco in questo periodo, però si adeguava alla traccia. Chissà."
+            ],
+            "timestamp": "2019-11-24T21:06:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45337-lp-6-vegliardo//?do=findComment&comment=802051"
+        },
+        {
+            "post_id": 802052,
+            "text": [
+                "@Roberto Ballardini",
+                "Andando oltre il fatto che non mi fa taggare, o che sono io incapace di farlo, ti ringrazio! Diciamo che \"anemia esistenziale\" mi girava in testa da un po', così ho provato a inserirlo in connessione con le vene, che contengono sangue. Una sorta di contrapposizione. Non so: ultimamente il dubbio è sempre dietro l'angolo e io sono tornato a cercarmi a livello lirico. Chissà. Grazie."
+            ],
+            "timestamp": "2019-11-24T21:10:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45337-lp-6-vegliardo//?do=findComment&comment=802052"
+        },
+        {
+            "post_id": 802056,
+            "text": [
+                "Ti ringrazio, davvero. Ammetto che l'effetto è stato ricercato dal sesto verso in poi: inizialmente mi suonava molto innaturale, a tal punto che ho tentato di connetterlo anche a livello esplicito con \"arte spezzata\", che è una sorta di sineddoche in riferimento al verso, per l'appunto, spezzettato dai continui enjambement. Un modo per salvarsi all'ultimo, diciamo così. Grazie ancora!"
+            ],
+            "timestamp": "2019-11-24T21:15:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45337-lp-6-vegliardo//?do=findComment&comment=802056"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 1: la paura.",
