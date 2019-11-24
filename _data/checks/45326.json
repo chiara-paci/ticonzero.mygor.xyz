@@ -80,9 +80,9 @@
         "title": "Poesia",
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
-    "num_chars": 331,
+    "num_chars": 354,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 801736,
@@ -130,10 +130,24 @@
             ],
             "timestamp": "2019-11-23T12:24:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801752"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 801782,
+            "text": [
+                "Fatto."
+            ],
+            "timestamp": "2019-11-23T16:58:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801782"
         }
     ],
     "text": [
         "Comment:",
+        "Football",
         "La mia finestra",
         "si affaccia su un campo da calcio.",
         "Cos'ho in comune con un simile panorama?",
@@ -145,9 +159,10 @@
         "perfino sotto la pioggia,",
         "zuppi come stracci.",
         "Li guardo dai vetri,",
-        "grondante della tua assenza.",
+        "grondante della tua assenza",
+        "che cade fitta.",
         "Potrei essere",
-        "loro compagno di squadra."
+        "loro compagno di squadra.﻿"
     ],
     "timestamp": "2019-11-22T22:44:52Z",
     "title": "Football",
