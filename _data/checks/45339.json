@@ -59,8 +59,19 @@
     },
     "num_chars": 320,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801991,
+            "text": [
+                "Questa è buona...",
+                "Qui, riflettendo, mi sono accorta che forse non sono riuscita a veicolare il senso che volevo esprimere. Ho pensato troppo tardi (non c'è stata la notte a portare consiglio, come suggerisce a ragione ) che avrei dovuto scrivere il giorno che muori / potrai non guardarmi. Vale a dire: se non ho più gli occhi, perché la Paura li ha presi, il giorno in cui muoio non sarò in grado di guardare la Morte, e pertanto non avrò paura. Poi, al mattino, passato l'incubo (ho seguito la traccia 2), non so più se il patto vale ancora, o se valeva solo nel sogno.",
+                "Magari. Grazie per l'attenzione e il bel commento, ."
+            ],
+            "timestamp": "2019-11-24T18:31:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=801991"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 2. Il ﻿risveglio da un incubo.",

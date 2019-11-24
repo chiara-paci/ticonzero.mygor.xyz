@@ -52,8 +52,36 @@
     },
     "num_chars": 548,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 801889,
+            "text": [
+                "Mi sono accorta che nella visualizzazione dal cellulare 'scappare' è allineato al testo, anziché a destra. Per leggerla correttamente va ruotato in orizzontale."
+            ],
+            "timestamp": "2019-11-24T09:18:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=801889"
+        },
+        {
+            "post_id": 801969,
+            "text": [
+                "In realtà lo apprezzo , assolutamente. Avevo quest'immagine dello specchiarsi in mente, mi sono resa conto dopo che credo arrivi da 'Opinioni di un clown'. Me la porto dietro da moltissimo tempo."
+            ],
+            "timestamp": "2019-11-24T16:57:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=801969"
+        },
+        {
+            "post_id": 801978,
+            "text": [
+                "La realtà è che un paio di giorni fa, mentre lavoravo, qualche pensiero andava per conto suo e, nell'accavallarsi di dialoghi con me stessa, c'era questo 'convinciti che devi morire convinciti che devi morire'. Ho pensato che avrei potuto scriverci qualcosa e, in pausa caffè (per questo è citata), mi sono annotata sul cellulare la frase, mentre i colleghi passavano davanti a me e parlavamo di più e del meno. Ieri il contest è andato a cadere su un tema su cui stavo riflettendo in questi giorni, per vari motivi, e quindi quella tecnologia sono io che scrivo su uno schermo una specie di mantra e che cerco di fissarmelo in testa, per un attimo, mentre la vita scorre. Avevo anche l'idea dello specchio e ci ho giocato un po' (specchio/schermo), così come quell'accendo spengo, che in origine si riferiva alla vita, al vedere persone andar via, ma poi con la tecnologia forse ha un suo richiamo, quel continuo fare, accendere, spegnere, digitare, rispondere, scorrere. Più o meno è stato questo.",
+                "Credo che tu abbia ragione su quel 'davvero', anzi a un certo punto ho sentito le parole di Vasco 'credi davvero che mi spoglio di ogni orgoglio davanti a te' e mi sono detta: oddio! Certo che è abusato. Molto meglio 'non credi' anche se non so se è una domanda a me stessa o un ipotetico altro, tendenzialmente mi rivolgo sempre a qualcuno fuori da me. Qui devo pensarci.",
+                "è possibile. Lo sono nel senso che si interrogano sulla necessità del dolore, del vederlo, va e viene, va e viene, e allora capita che ti chiedi 'ma tu hai capito davvero che succederà anche a te un giorno?' (scusa l'abuso di davvero, ancora). Il cupo, se lo hai avvertito, era quello nel mio intento.",
+                "Grazie del tempo che mi hai dedicato, i tuoi commenti sono sempre ben apprezzati e lo aspettavo."
+            ],
+            "timestamp": "2019-11-24T17:36:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=801978"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 1: la paura",
