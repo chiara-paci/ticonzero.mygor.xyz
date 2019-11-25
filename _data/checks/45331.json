@@ -61,8 +61,19 @@
     },
     "num_chars": 846,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 802031,
+            "text": [
+                "Grazie.",
+                "C'è un bi-refuso. \"Aspetta, che mi accendo una sigaretta e ci penso.\" Senza interrogativo (ma molto autosarcasmo). Giusto per dire che tra tutte le paure mi manca quella della contraddizione e la buona stella della salute la spengo assieme al mozzicone di sigaretta.",
+                "Ovviamente il \"coccolato\" si riferiva alla corporalità. Il versante interiore ha avuto le sue belle erosioni."
+            ],
+            "timestamp": "2019-11-24T20:12:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45331-lp-6-sapessi//?do=findComment&comment=802031"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 1 - La paura",
