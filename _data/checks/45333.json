@@ -64,8 +64,20 @@
     },
     "num_chars": 329,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 802146,
+            "text": [
+                "Ti riferisci a gambe spezzate? Non sono riuscita a trovare un'immagine migliore, lo ammetto, ma si riferiva alla sensazione di quando la paura ti toglie la sensibilità nelle gambe, come se, appunto, venissero spezzate.",
+                "Hai colto alla perfezione il significato dei versi!",
+                "L'interpretazione eccelsa! Grazie per il passaggio e il commento gradito!",
+                "Grazie di cuore, Vincè."
+            ],
+            "timestamp": "2019-11-25T11:02:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45333-lp6-lo-straniero//?do=findComment&comment=802146"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia 1 Paura",
