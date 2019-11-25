@@ -53,8 +53,21 @@
     },
     "num_chars": 155,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 802084,
+            "text": [
+                "Tu puoi dire tutto , figuriamoci \"donna\"",
+                "C'è un inguaribile romanticone dietro questa maschera eh... battute a parte, non ho pensato a un rapporto tra due persone.",
+                "L'idea era quella di raccontare di una rinascita, della liberazione dal \"male oscuro\", dall'inibizione psichica, dal sentimento di vuoto interiore.",
+                "Gradualmente, fino all'abbandono completo di qualsiasi difesa.",
+                "Grazie Bobbino, sono contenta che ti sia piaciuta."
+            ],
+            "timestamp": "2019-11-25T00:57:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45341-lp-6-io-sar%C3%B2//?do=findComment&comment=802084"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ora che",
