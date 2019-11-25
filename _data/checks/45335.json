@@ -52,7 +52,7 @@
     },
     "num_chars": 548,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 801889,
@@ -80,6 +80,14 @@
             ],
             "timestamp": "2019-11-24T17:36:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=801978"
+        },
+        {
+            "post_id": 802293,
+            "text": [
+                "Ecco, così ora ho abusato di Vasco con Credi davvero e di Benigni e Troisi ."
+            ],
+            "timestamp": "2019-11-25T20:52:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=802293"
         }
     ],
     "post_staff": [],
