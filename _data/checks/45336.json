@@ -56,7 +56,7 @@
     },
     "num_chars": 1011,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 801850,
@@ -139,6 +139,16 @@
             ],
             "timestamp": "2019-11-26T19:29:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802539"
+        },
+        {
+            "post_id": 802576,
+            "text": [
+                "Non so di dove siate, ma per bere qualcosa contatemi pure.",
+                "Grazie dei complimenti, e grazie di aver apprezzato l'idea della fame, temevo non fosse così chiara. Sulle sillabe ammetto di essermi lasciato qualche libertà.",
+                "Saluti."
+            ],
+            "timestamp": "2019-11-26T22:07:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802576"
         }
     ],
     "post_staff": [],
