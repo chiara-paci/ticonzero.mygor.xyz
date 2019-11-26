@@ -56,7 +56,7 @@
     },
     "num_chars": 1011,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 801850,
@@ -88,6 +88,36 @@
             ],
             "timestamp": "2019-11-25T21:31:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802313"
+        },
+        {
+            "post_id": 802402,
+            "text": [
+                "Grazie del commento.",
+                "La banana è una citazione ad una discussione, che mi ha dato l’ispirazione per partecipare al contest. La tua lettura è esatta, è il ricordo di un momento in cui ancora non aveva compreso la solitudine, in cui ancora provava qualcosa."
+            ],
+            "timestamp": "2019-11-26T12:04:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802402"
+        },
+        {
+            "post_id": 802403,
+            "text": [
+                "Intanto, grazie del commento. Non riesco a capire quale sia il soggetto a cui ti riferisci, e sono curioso di capire come avrei potuto renderlo meglio, dove ho perso la chiarezza.",
+                "Grazie anche dei complimenti, buona giornata a te."
+            ],
+            "timestamp": "2019-11-26T12:07:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802403"
+        },
+        {
+            "post_id": 802404,
+            "text": [
+                "Una lettura che mi incuriosisce. Io l’avevo intesa come il provare qualcosa, come desiderio che non c’è più, ma non come movimento.",
+                "Dovrebbe essere il terrore. Dove ho perso la chiarezza?",
+                "Provo a spiegarmi, così puoi suggerire dove ho perso la continuità: il testo gira intorno ad un istante, quello in cui si acquista la consapevolezza della solitudine, con l’inizio e la fine che chiudono il cerchio, rappresentando entrambe lo stesso ricordo di momento più lieto.",
+                "Quello è stato il verso più difficile. Il senso è che la solitudine del protagonista non è improvvisamente assoluta: prima del momento che fa da perno alla vicenda poteva contare solo su una persona, ma quella specie di solitudine non era rilevante, l’assenza di chiunque altro non aveva importanza, non quanto ne ha ora che ha perso quell’unica persona che gli faceva sembrare di non essere solo. Suggerimenti?",
+                "Grazie del commento e della discussione, comunque."
+            ],
+            "timestamp": "2019-11-26T12:19:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802404"
         }
     ],
     "post_staff": [],
