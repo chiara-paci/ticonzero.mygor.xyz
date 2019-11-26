@@ -52,7 +52,7 @@
     },
     "num_chars": 548,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 801889,
@@ -88,6 +88,15 @@
             ],
             "timestamp": "2019-11-25T20:52:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=802293"
+        },
+        {
+            "post_id": 802541,
+            "text": [
+                "In realtà, intendevo il contrario. L'ho pensato distante, ma la visualizzazione con il cellulare lo allinea, con il pc è corretto.",
+                "Grazie per tutti i suggerimenti (al mattino con l'oro in bocca non avevo pensato), originariamente le ripetizioni erano di più, devo provare a vedere come suona con il verso singolo."
+            ],
+            "timestamp": "2019-11-26T19:54:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45335-lp-6-di-che-parliamo-quando-parliamo//?do=findComment&comment=802541"
         }
     ],
     "post_staff": [],

@@ -51,7 +51,7 @@
     },
     "num_chars": 622,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 802291,
@@ -114,6 +114,14 @@
             ],
             "timestamp": "2019-11-26T07:45:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45332-lp6-ladolescenza-di-un-vampiro//?do=findComment&comment=802364"
+        },
+        {
+            "post_id": 802549,
+            "text": [
+                "Ovviamente mi dispiace di aver sollevato brutti ricordi. Grazie per i complimenti"
+            ],
+            "timestamp": "2019-11-26T20:06:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45332-lp6-ladolescenza-di-un-vampiro//?do=findComment&comment=802549"
         }
     ],
     "post_staff": [],
