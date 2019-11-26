@@ -56,7 +56,7 @@
     },
     "num_chars": 1011,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 801850,
@@ -118,6 +118,18 @@
             ],
             "timestamp": "2019-11-26T12:19:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802404"
+        },
+        {
+            "post_id": 802467,
+            "text": [
+                "Ciao Roberto.",
+                "Ma non è forse compito dell'autore accompagnare il lettore, non farlo spaesare?",
+                "C'è un istante in cui va via tutto, tra quando sparisce il pianto e arriva il terrore. La mancanza di pianto, a quel punto, diventa impossibilità non già di provare, quanto di esprimere.",
+                "Sono pienamente d'accordo. La poesia è interpretazione e emozione, ma per quanto uno possa interpretare, l'autore deve comunque essere poco vago nell'esprimere la propria idea, altrimenti sono solo parole accozzate con un bel suono, o no? Lieto di essere smentito, in caso.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-11-26T16:47:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802467"
         }
     ],
     "post_staff": [],
