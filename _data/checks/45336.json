@@ -56,7 +56,7 @@
     },
     "num_chars": 1011,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 801850,
@@ -130,6 +130,15 @@
             ],
             "timestamp": "2019-11-26T16:47:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802467"
+        },
+        {
+            "post_id": 802539,
+            "text": [
+                "Devo garbatamente dissentire, ma non sul discorso in generale, solo sull'uso del termine \"razionale\". Mi hai frainteso, temo, quando parlavo di accompagnare il lettore: la poesia deve essere coerente con se stessa, in questo senso il lettore deve poter trovare un suo significato, che può anche differire da quello dell'autore, ma come processo naturale, non come deduzione per mancanza di alternative. Così come non devi accompagnare il lettore nella tua psiche, imponendo un significato univoco, ma non può mancare di significato in assoluto. Trasportare un'idea su \"carta\" è sempre difficile, più che mai in versi, ma credo che la coerenza del testo, se vogliamo una razionalità intesa come logica interna all'opera, deve esserci, a meno che il caos non sia voluto, ma in questo caso la logica, e la razionalità, sono esterne al testo stesso. Non andando troppo nel metafisico, ti ringrazio per questa discussione che, se vorrai, porterò avanti con piacere.",
+                "Accetto volentieri il bicchiere, vino o birra che sia."
+            ],
+            "timestamp": "2019-11-26T19:29:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802539"
         }
     ],
     "post_staff": [],
