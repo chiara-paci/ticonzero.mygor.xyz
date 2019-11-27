@@ -48,8 +48,20 @@
     },
     "num_chars": 385,
     "num_commenti": 1,
-    "num_posts": 8,
-    "post_after": [],
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 802656,
+            "text": [
+                "Grazie a tutti sia x gli apprezzamenti che per gli utili suggerimenti sempre appropriati.",
+                "È stato un piacere per me ricevere commenti così pertinenti perché mi aiutano a migliorare quindi ancora grazie.",
+                "Saluti,",
+                "Mirko"
+            ],
+            "timestamp": "2019-11-27T10:44:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza//?do=findComment&comment=802656"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mi terrorizza",
