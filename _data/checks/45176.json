@@ -55,7 +55,7 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 799715,
@@ -118,9 +118,59 @@
             ],
             "timestamp": "2019-11-18T15:16:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=800502"
+        },
+        {
+            "post_id": 802087,
+            "text": [
+                "Miss, grazie per aver votato, letto, argomentato e per il tempo che ci hai dedicato. Scusa però se quoto questa parte della tua valutazione. Si parla di ucronia, un genere che vede la fantascienza come possibile declinazione. Magari mi sbaglio, non so, ma come si può essere scettici per alcuni comportamenti quando manca la base reale per biasimarli.",
+                "I bambini non vanno contro il sistema, il sistema lo subiscono. Se la società li fagocitara' non so, ma i ragazzini dimostrano per ora di essere più sensibili degli adulti.",
+                "Ciao",
+                "Mi dispiace che sia passato questo. Un messaggio c'è, non sono stata in grado di trasmetterlo a questo punto, ma credimi, non ho voluto scrivere una storiella tanto per... Grazie caro socio per tutte le annotazioni"
+            ],
+            "timestamp": "2019-11-25T06:10:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802087"
+        },
+        {
+            "post_id": 802110,
+            "text": [
+                "Sì b ora mi è più chiaro. Scusami, ultimamente non so, sarà l'età, ma non c'arrivo subito , guarda con ( ti mando un buongiorno ) mi ha dovuto fare lo schemino.",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-25T08:38:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802110"
+        },
+        {
+            "post_id": 802802,
+            "text": [
+                "Non so come ringraziarti per queste parole...",
+                "... e per queste.",
+                "Anche a me piace molto, ma io sono di parte",
+                "Reduce da due racconti in cui le virgole non le ho messe per niente, ho pensato che qui in qualche modo avrei dovuto recuperare. Grazie per avermi fatto notare gli errori.",
+                "E io che volevo usare il che come consecutiva, e mi suonava pure! Con e invece, no. Grazie, ora mi rendo conto che con e c'è molta più fluidità.",
+                "Grazie per il tempo che mi hai dedicata. Mi disciace che non ti sia piaciuta questo tipo di ironia. Dietro le scene descrtitte si cela un mondo spregevole, ho pensato ad accentuare alcuni comportamenti per tirare fuori il \"nascosto\"; come ho detto anche a Edu, mi rincresce di non essere stata in grado di mostarlo.",
+                "A presto e grazie ancora"
+            ],
+            "timestamp": "2019-11-27T20:26:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802802"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 802101,
+            "text": [
+                "Più che base reale, la chiamerei una base di coerenza. Questa deve esserci sempre, anche in un contesto di irrealtà.",
+                "L'ucronia sfocia nella fantascienza quando parla del genere umano traslato in un determinato futuro, scientificamente argomentato (e non è il tuo caso). Quel che non mi torna nel tuo racconto è il fatto che le persone accettino passivamente un modello di società del tipo descritto: non è insito nel genere umano accettare una cosa del genere, in quanto l'Uomo è sì un animale sociale, ma è dotato di una propria intimità e sensibilità, in \"porzioni\" più o meno variabili a seconda dell'individuo. Nel tuo racconto è il concetto di Uomo, quindi, che va a modificarsi, ma visto che i bambini subiscono il sistema, come dici, ma si rendono conto che qualcosa non va (ho percepito questo dal tuo racconto, soprattutto nel finale), trovo che la premessa non sia coerente con lo sviluppo: o cambi il concetto dell'essere umano in maniera universale, bambini compresi, oppure anche agli adulti questa cosa non può stare bene.",
+                "Spero di essere riuscita a spiegare meglio il punto"
+            ],
+            "timestamp": "2019-11-25T08:12:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802101"
+        }
+    ],
     "text": [
         "Mamma solleva il materasso e prende cento euro, quando lo riabbassa, alcune banconote volano insieme alle piume del copriletto.",
         "Anche a me, poco prima è successa la stessa cosa. Nell’aprire la scatola dei biscotti ho fatto cadere due pezzi da venti.",

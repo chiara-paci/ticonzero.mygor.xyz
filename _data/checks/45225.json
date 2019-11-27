@@ -59,7 +59,7 @@
     },
     "num_chars": 3477,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 800526,
@@ -79,6 +79,29 @@
             ],
             "timestamp": "2019-11-18T17:31:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=800575"
+        },
+        {
+            "post_id": 802784,
+            "text": [
+                "Grazie per esserti fermato a leggere questo testo e per le tue osservazioni.",
+                "È una citazione dantesca. Il senatore oratore forse non voleva maltrattare troppo il Sommo",
+                "Questo mi fa piacere perché è un effetto che volevo ottenere. Il pezzo è volutamente contorto e un po' ermetico."
+            ],
+            "timestamp": "2019-11-27T18:29:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=802784"
+        },
+        {
+            "post_id": 802805,
+            "text": [
+                "Qui hai colto il punto principale del brano: l'uso di modi e tempi verbali. Sono volutamente traballanti, anche e soprattutto dopo il tratto riportato. Io però mi sono esercitato ad \"azzeccarli\" tutti. Nel senso che secondo me i verbi sono corretti presi uno per uno, però apparentemente sono scorretti. Almeno questa era la mia idea. Poi ne discende tutto il casino ( ) e l'indeterminatezza che ho messo volutamente.",
+                "Un esempio: quando dico \"egli se n'era avveduto già prima che il treno si fosse fermato \".",
+                "Tempo fa su un forum lessi il quesito: dopo \"prima che\" (al passato) ci va il congiuntivo imperfetto o trapassato? Cioè: si dice \"prima che si fermasse \" o \"prima che si fosse fermato \"? Per me vanno entrambe bene (nel mio caso), anche se la mia scelta (\"prima che si fosse fermato \") è rara. Lì, ricordo, la gente si scannò per settimane su questo punto.",
+                "Giorni fa ho incontrato davvero una forma ambigua simile a quella che hai citato e ne ho parlato in un post su \"lingua & affini\". Almeno il mio è una sorta di parodia, ma là era su un libro serio. Ebbene, ho buttato il libro e sono passato al successivo",
+                "Grazie, fratello WDiano Bwv582, per esserti fermato a leggere e per le tue parole.",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-27T20:37:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=802805"
         }
     ],
     "post_staff": [],

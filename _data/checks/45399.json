@@ -12,13 +12,32 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.14747252747252745,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.14747252747252745
+            },
+            "text": [
+                [
+                    "Pace e bene! Purtroppo non incontra più di tanto il mio gusto. Apprezzo però il discorso dell'indeterminato."
+                ],
+                [
+                    "Non mi è proprio facile commentare questo testo, anche perchè non è il tipo di narrativa che mi piace leggere. Oltretutto, penso che sia meglio dare ai personaggi una seconda vita o/e una seconda identità, proprio come quello che cerco di fare con i miei personaggi. Mi fa comunque piacere che qui non si citi i modi di dire tipici dell'on. Cetto Laqualunque, anche perchè qui il racconto è fatto dal punto di vista di un collega di partito di Laqualunque. Mi piace davvero questo tipo di scrittura, ma penso sia necessario dare alla storia una punta di 'pepato' in più, ad es. facendo riferimento a cosa è avvenuto prima di questo lungo discorso, oppure magari facendo un po' di gossip. Inoltre, (almeno per quanto mi riguarda) non riesco a cogliere il/le motivazione/motivazioni che spingono il collega di Laqualunque a fare un discorso del genere. Per quanto concerne la scrittura, nel'ultima parte, c'è una piccola svista, nel senso che invece di scrivere 'udiremo e parleremo a lui' io avrei scritto 'Udremo e GLI parleremo'. Per quanto riguarda la trama, la trovo molto interessante, anche se, a mio avviso, potrebbe essere portata avanti in modo un po' più scorrevole, anche perchè, per quanto mi riguarda, in più punti mi sono dovuto fermare a rileggere."
+                ]
+            ],
+            "timestamp": "2019-11-27T17:06:57Z",
+            "title": "Onorevoli! [Esercizio di stile]",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=802760",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 25,
@@ -26,10 +45,38 @@
         "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
     },
     "num_chars": 3699,
-    "num_commenti": 0,
-    "num_posts": 1,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 802757,
+            "text": [
+                "Ciao . Mi trovo costretto a chiudere il frammento per via dell'assenza di un commento allegato.",
+                "Potrai contattare privatamente me o un altro dello staff non appena avrai effettuato il commento riparatore, passandoci il link."
+            ],
+            "timestamp": "2019-11-27T17:01:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45399-intervista-al-personaggio//?do=findComment&comment=802757"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 802772,
+            "text": [
+                "Situazione regolarizzata."
+            ],
+            "timestamp": "2019-11-27T17:55:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45399-intervista-al-personaggio//?do=findComment&comment=802772"
+        }
+    ],
     "text": [
         "Pace e bene a tutti! Quella che leggerete è un tentativo di caratterizzare ancora meglio un personaggio. Il tutto è strutturato a mo' di intervista. Tutti coloro che commenteranno e diranno la loro sono i benvenuti!",
         "Arrivò sul posto con largo anticipo: indossava una felpa che la valorizzava più che mai; non le fu facile riuscire a incontrarmi. Non sapeva cosa aspettarsi, finchè non mi vide arrivare sul marciapiede dove era fissato il nostro incontro.",

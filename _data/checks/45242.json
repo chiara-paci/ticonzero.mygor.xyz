@@ -89,7 +89,7 @@
     },
     "num_chars": 10370,
     "num_commenti": 2,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 800311,
@@ -148,6 +148,15 @@
             ],
             "timestamp": "2019-11-26T18:48:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=802526"
+        },
+        {
+            "post_id": 802756,
+            "text": [
+                "Ben ritrovata , grazie per la lettura e il commento. I punti che hai sottolineato sono più o meno gli stessi che mi ha fatto notare , e a questo punto come non darvi ascolto?",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-27T16:52:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=802756"
         }
     ],
     "post_staff": [
