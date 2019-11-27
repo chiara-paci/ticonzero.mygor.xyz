@@ -45,7 +45,7 @@
     },
     "num_chars": 1125,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 801362,
@@ -54,6 +54,22 @@
             ],
             "timestamp": "2019-11-21T17:40:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=801362"
+        },
+        {
+            "post_id": 802688,
+            "text": [
+                "Grazie mille per il tuo commento/analisi"
+            ],
+            "timestamp": "2019-11-27T13:32:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=802688"
+        },
+        {
+            "post_id": 802691,
+            "text": [
+                "ciao. Apprezzo le critiche, di qualsiasi tipo esse siano: criticare vuol dire non essere indifferenti, nel bene e nel male. Tornando alla chiusa, oggetto di maggiore discussione. Lascio spazio all'interpretazione. Ogni persona (come è giusto che sia) può dare al re della scacchiera il significato che preferisce, che sente. In realtà non ho pensato a nulla di specifico nella chiusa, non è stata ragionata: è venuta fuori così."
+            ],
+            "timestamp": "2019-11-27T13:35:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=802691"
         }
     ],
     "post_staff": [],

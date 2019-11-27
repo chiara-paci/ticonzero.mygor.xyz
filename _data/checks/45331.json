@@ -61,7 +61,7 @@
     },
     "num_chars": 846,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 802031,
@@ -72,6 +72,14 @@
             ],
             "timestamp": "2019-11-24T20:12:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45331-lp-6-sapessi//?do=findComment&comment=802031"
+        },
+        {
+            "post_id": 802679,
+            "text": [
+                "Grazie a tutti."
+            ],
+            "timestamp": "2019-11-27T13:00:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45331-lp-6-sapessi//?do=findComment&comment=802679"
         }
     ],
     "post_staff": [],
