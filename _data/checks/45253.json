@@ -61,7 +61,7 @@
     },
     "num_chars": 7523,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 800635,
@@ -118,6 +118,14 @@
             ],
             "timestamp": "2019-11-22T14:26:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45253-mi130-linquilino//?do=findComment&comment=801504"
+        },
+        {
+            "post_id": 802666,
+            "text": [
+                "ciao, Lauretta! Grazie di cuore!"
+            ],
+            "timestamp": "2019-11-27T11:54:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45253-mi130-linquilino//?do=findComment&comment=802666"
         }
     ],
     "post_staff": [

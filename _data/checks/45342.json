@@ -12,108 +12,61 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 0.8633333333333333,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.8633333333333333
-            },
-            "text": [
-                [
-                    "Ciao",
-                    "Commento come da scheda:",
-                    "La trama e' bella e malinconica, un estremo saluto da un padre che ormai non c'e piu. Come se il fato o qualcosa di soprannaturale avesse posto rimedio ad una mancanza del protagonista.",
-                    "La storia si sviluppa bene, coerente anche se non proprio originalissima.",
-                    "Personaggi caratterizzazione:",
-                    "I personaggi mi sembrano delineati perfettamente, il padre che ama ricordare gli aneddoti con il figlio che si diverte a trovarne altri.",
-                    "Contenuti:",
-                    "L'ultimo saluto al padre. Un racconto che crea immediata Empatia al lettore.",
-                    "Stile:",
-                    "Chiaro e molto scorrevole senza troppi ghirigori.",
-                    "Grammaticalmente non mi sembra di avere visto errori.",
-                    "Giudizio finale:",
-                    "Un bel racconto.",
-                    "E l'ultima passeggiata finale che ognuno di noi vorrebbe fare con il proprio padre, per questo crea malinconia, anche se piu' o meno verso meta' racconto avevo intuito il finale.",
-                    "A rileggerci un saluto"
-                ]
-            ],
-            "timestamp": "2019-11-24T07:02:15Z",
-            "title": "[MI 130] Incontro notturno",
-            "url": "https://www.writersdream.org/forum/forums/topic/45258-mi-130-incontro-notturno//?do=findComment&comment=801876",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
         "title": "Racconti",
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
-    "num_chars": 2785,
-    "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_chars": 46,
+    "num_commenti": 0,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 802606,
+            "text": [
+                "Buongiorno",
+                "Non e' la prima volta che mi commenti!",
+                "Andando al commento sopra posso dirti che mi piace scrivere cosi.",
+                "Se a te non piace non posso farci nulla.",
+                "Per il resto non concordo assolutamente con la tua analisi del racconto.",
+                "Con un monologo del protagonista ti ho raccontato tutti i fatti salienti della storia.",
+                "Cosa ti cambia sapere se lei e' bionda o mora e se magra o grassa?",
+                "Aggiungere particolari a questo monologo significa solo togliere forza narrativa.",
+                "Saluti"
+            ],
+            "timestamp": "2019-11-27T07:03:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45342-io-ti-amavo//?do=findComment&comment=802606"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9751,
+                "name": "Niko",
+                "url": "https://www.writersdream.org/forum/profile/9751-niko/"
+            },
+            "post_id": 802633,
+            "text": [
+                "Ti ricordo che lo spirito del forum non è quello di controbattere ai commenti (critici o meno) dei lettori come hai fatto tu.",
+                "Si può dialogare, certo, ma non rispondendo:",
+                "Anche perché vero: se a qualcuno non piace come scrivi, non puoi farci nulla, puoi solo prendere quello che di utile c'è nei commenti e scartare il resto. Libero di farlo, ovviamente!",
+                "Evita, però, di rispondere in questo modo a chi investe del tempo per leggerti, perché è scortese.",
+                "Grazie!"
+            ],
+            "timestamp": "2019-11-27T09:13:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45342-io-ti-amavo//?do=findComment&comment=802633"
+        }
+    ],
     "text": [
-        "IO TI AMAVO",
-        "\"Dormi amore mio?",
-        "Come sei bella!",
-        "te l' ho detto chissa quante volte.",
-        "Non avrei mai pensato di trovare una persona come te.",
-        "Tu mi completi , mi soddisfi in ogni senso.",
-        "Fisico, mentale, sessuale.",
-        "Ho avuto molte storie, ma con te ho trovato la perfezione, la perfezione assoluta.",
-        "I tuoi bellissimi occhi celesti, i tuoi capelli, cosi folti e a volte cosi ribelli.",
-        "Il tuo seno e' una meraviglia, le tue cosce...",
-        "...quanto mi piace accarezzarle...",
-        "Ma anche la tua voce cosi femminile, cosi sensuale, il tuo carattere espansivo, cosi ironica, cosi divertente, la tua voglia di vivere.",
-        "Credo sia stato amore a prima vista mi hai colpito subito!",
-        "Non ho fatto in tempo a chiedermi come potessi essere cosi bella, che già ti avevo conosciuto.",
-        "E' scattato subito qualcosa in noi.",
-        "Quella magia che si crea fra due persone, quelle affinità sorprendenti e istintive che si scoprono piano piano.",
-        "I tuoi occhi che mi guardavano adoranti all'epoca.",
-        "Che belli che erano quei giorni, eravamo insieme praticamente dalla sera alla mattina, inseparabili!",
-        "Poi ovvio bisogna vivere, bisogna lavorare, ognuno i suoi impegni.",
-        "Eppure che felicità ritrovarsi alla sera e fare l'amore come fossero secoli che non ci vedevamo.",
-        "Certo poi col tempo la cosa si e' un po' diradata, ma a me basta vederti, stare con te e sono in armonia col mondo.",
-        "Si e' vero poi son cominciati anche i litigi, le sere ad aspettarti invano.",
-        "Qualche volta ti ho anche seguita, ho visto cose che non mi piacevano.",
-        "Dormi amore mio?",
-        "Mi sono reso conto che dipendevo troppo da te, ho provato a troncare",
-        "non c'e l' ho mai fatta!",
-        "E poi...",
-        "poi hai deciso tu di lasciarmi!",
-        "Non ci volevo credere, non ci ho mai voluto credere.",
-        "Quante volte ti ho ripresa, quante volte ti ho convinta che un amore come il mio non saresti piu riuscita a trovarlo.",
-        "Ma alla fine hai deciso, non perché io fossi sbagliato in qualcosa.",
-        "Hai solo deciso di cambiare.",
-        "Sei passata alle umiliazioni per farmi capire che non c'e' ne era piu.",
-        "Il mio sogno era passare la mia vita insieme a te!",
-        "E se fosse stato possibile anche oltre, sepolti insieme tenendoci la mano per l'eternità.",
-        "Ma sarei riuscito a stare senza di te sai? SI c'e l'avrei fatta!",
-        "Ti avrei amata lo stesso, ma da lontano.",
-        "Ti avrei osservata, mi sarebbe bastato quello.",
-        "Ma non potevo vederti gettar via la tua vita, passare di uomo in uomo, ogni giorno uno diverso, addirittura due nella stessa sera.",
-        "NO amore mio questo non posso permetterlo.",
-        "Non posso proprio...",
-        "Dormi amore mio!",
-        "Non preoccuparti, non sentirai dolore, non sentiremo dolore mi sono documentato appositamente.",
-        "Non me lo sarei mai permesso!",
-        "Io sarò ricordato male quando ci troveranno, mi odieranno.",
-        "Diranno che sono un mostro...",
-        "non sapranno mai invece, che io ero solo la vittima e tu...",
-        "tu il carnefice!",
-        "Oh Elena...",
-        "tu non lo sai...",
-        "non lo sai...",
-        "quanto...",
-        "QUANTO... ti amavo io!\""
+        "*Racconto cancellato su richiesta dell'utente*"
     ],
     "timestamp": "2019-11-24T07:38:02Z",
     "title": "Io ti amavo",

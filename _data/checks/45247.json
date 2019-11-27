@@ -65,7 +65,7 @@
     },
     "num_chars": 7939,
     "num_commenti": 1,
-    "num_posts": 25,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 800550,
@@ -176,6 +176,25 @@
             ],
             "timestamp": "2019-11-23T18:47:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=801805"
+        },
+        {
+            "post_id": 802733,
+            "text": [
+                "Ciao",
+                "Grazie per il commento. Hai ragione, avrei voluto dilungarmi nel racconto, spiegare di più, specie alla fine, ma non solo;",
+                "mi rendo conto che ci sono molti perché irrisolti che avrebbero avuto bisogno di una spiegazione ma, come ho già accennato prima in qualche risposta, i caratteri andavano oltre il consentito, ho dovuto tagliare, come sempre a malincuore e lasciare molti quesiti irrisolti nella mente del lettore."
+            ],
+            "timestamp": "2019-11-27T15:43:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=802733"
+        },
+        {
+            "post_id": 802740,
+            "text": [
+                "Ah, ecco... avevo capito male, nel senso che volevi sapere di più circa quello che non avevo spiegato ma immesso qua e là nel testo...",
+                "Dai scusami, e grazie per l'apprezzamento..."
+            ],
+            "timestamp": "2019-11-27T16:01:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45247-mi-130-il-pianto-degli-ultimi//?do=findComment&comment=802740"
         }
     ],
     "post_staff": [
