@@ -82,7 +82,7 @@
     },
     "num_chars": 4143,
     "num_commenti": 2,
-    "num_posts": 18,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 798159,
@@ -165,6 +165,34 @@
             ],
             "timestamp": "2019-11-16T02:05:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=800019"
+        },
+        {
+            "post_id": 802477,
+            "text": [
+                "grazie!",
+                "Il racconto è nato per il contest horror. Non frequentando il genere, mi sono voluta comunque cimentare con la traccia del vascello fantasma : mi divertiva l'idea di farlo comparire miniaturizzato nella boccia del pesce, in una situazione domestica.",
+                "Un vascello fantasma è tremendo, quando arriva non si sa bene cosa possa accadere, anche se piccino picciò.",
+                "Certo che è autobiografico!",
+                "Il marito era delizioso"
+            ],
+            "timestamp": "2019-11-26T17:33:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802477"
+        },
+        {
+            "post_id": 802484,
+            "text": [
+                ", mentre tu scrivevi della pentola, lo stavo facendo anch'io dall'altra parte..."
+            ],
+            "timestamp": "2019-11-26T17:46:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802484"
+        },
+        {
+            "post_id": 802485,
+            "text": [
+                "ma, scusa , esattamente, che mariti mangi?"
+            ],
+            "timestamp": "2019-11-26T17:47:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802485"
         }
     ],
     "post_staff": [

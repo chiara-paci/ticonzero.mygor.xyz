@@ -89,7 +89,7 @@
     },
     "num_chars": 10370,
     "num_commenti": 2,
-    "num_posts": 10,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 800311,
@@ -137,9 +137,40 @@
             ],
             "timestamp": "2019-11-20T19:07:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=801156"
+        },
+        {
+            "post_id": 802526,
+            "text": [
+                "Ciao , grazie per la lettura e il commento, e per i due spunti di discussione che hai sollevato. Riguardo a questi:",
+                "1.Il mio obiettivo era proprio stimolare il lettore alla riflessione, dici che sono stato troppo esplicito?",
+                "2.Concordo con te sulla superficialità con cui ho affrontato il tema del deja vu, che ho usato solo come stratagemma per catapultare il protagonista al di fuori del tempo. Il suggerimento su come indirizzare la storia è intrigante e ci rifletterò su, grazie del consiglio.",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-26T18:48:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=802526"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 802378,
+            "text": [
+                "Del racconto ho apprezzato innanzitutto la solidità stilistica, . L'incipit cattura e frase per frase alimenta la voglia di leggere.",
+                "L'idea di partenza è bizzarra e contiene la sua dose di originalità, e credo che non sia stata neppure sfruttata per esprimersi al massimo della potenzialità.",
+                "Se mai volessi revisionarlo, ti smollo qui due spunti.",
+                "Ho trovato invadente la presenza delle interrogative dirette. Da un lato danno alla voce narrante personalità e colore, ma dall'altro, per come sono state usate, spronano eccessivamente il lettore a farsi le \"domande giuste\". Per come la vedo io, sarebbe preferibile evitare d'essere così espliciti. Quindi il consiglio che ti do è quello di disaccoppiare il colore stilistico della voce narrante dalla funzione marcatamente esplicativa. Va bene che martelli di domande, ma senza che queste fungano da invito alla riflessione.",
+                "L'idea iniziale l'ho trovata fresca, come accennavo, ma poi m'è parso che si sia sfaldata all'interno di concetti un po' banali, o perlomeno che non presentano niente di nuovo. La questione del deja vu viene abbandonata presto per insistere sull'eternità, ma in un modo che non evidenzia — a mio avviso — una chiave di lettura che si spinga al di là del \"noto\". Il suggerimento è quindi quello di abbandonare lo strato superficiale dell'esistenza oltre lo spazio e il tempo per penetrare da qualche parte, ovunque vorrai, purché il racconto prenda una direzione sua, individuale e in qualche modo unica.",
+                "Tutto qui. Vedi se ti può servire in qualche modo.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-11-26T09:33:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45242-tutta-colpa-di-un-rotolo//?do=findComment&comment=802378"
+        }
+    ],
     "text": [
         "È stato facile, ancor più si possa credere. In teoria tutti possono farlo, l’unica differenza tra me che ci sono riuscito e voi che siete ancora lì è una pura questione di casualità. O destino, se preferite. Posso spiegarvi come ho fatto, se avete un po’ di tempo. Io ne ho quanto ne voglio. O non ne ho affatto, che è praticamente la stessa cosa.",
         "Vi avverto però che se volete conoscere la mia storia dovrete fare piazza pulita di ogni preconcetto, di ogni conoscenza empirica che avete dello spazio, del tempo e della loro natura.",

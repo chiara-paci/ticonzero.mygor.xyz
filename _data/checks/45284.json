@@ -117,7 +117,7 @@
     },
     "num_chars": 3197,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 800947,
@@ -301,6 +301,39 @@
             ],
             "timestamp": "2019-11-23T06:55:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801673"
+        },
+        {
+            "post_id": 802174,
+            "text": [
+                "Questa poesia di Alda Merini esprime con parole sublimi ciò che intendevo dire con le mie, molto più povere:",
+                "Sei bella.",
+                "E non per quel filo di trucco.",
+                "Sei bella per quanta vita ti è passata addosso,",
+                "per i sogni che hai dentro",
+                "e che non conosco.",
+                "Bella per tutte le volte che toccava a te,",
+                "ma avanti il prossimo.",
+                "Per le parole spese invano",
+                "e per quelle cercate lontano.",
+                "Per ogni lacrima scesa",
+                "e per quelle nascoste di notte",
+                "al chiaro di luna complice.",
+                "Per il sorriso che provi,",
+                "le attenzioni che non trovi,",
+                "per le emozioni che senti",
+                "e la speranza che inventi.",
+                "Sei bella semplicemente,",
+                "come un fiore raccolto in fretta,",
+                "come un dono inaspettato,",
+                "come uno sguardo rubato",
+                "o un abbraccio sentito.",
+                "Sei bella",
+                "e non importa che il mondo sappia,",
+                "sei bella davvero,",
+                "ma solo per chi ti sa guardare."
+            ],
+            "timestamp": "2019-11-25T13:52:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=802174"
         }
     ],
     "post_staff": [],

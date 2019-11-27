@@ -58,7 +58,7 @@
     },
     "num_chars": 3812,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 800519,
@@ -110,6 +110,14 @@
             ],
             "timestamp": "2019-11-22T17:57:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=801598"
+        },
+        {
+            "post_id": 802244,
+            "text": [
+                "Ciao e grazie."
+            ],
+            "timestamp": "2019-11-25T17:35:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45248-mi-130-unanottegiustapermorire//?do=findComment&comment=802244"
         }
     ],
     "post_staff": [

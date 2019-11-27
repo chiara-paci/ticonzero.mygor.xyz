@@ -65,7 +65,7 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 797728,
@@ -116,6 +116,17 @@
             ],
             "timestamp": "2019-11-06T16:21:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798446"
+        },
+        {
+            "post_id": 802371,
+            "text": [
+                "Ciao",
+                "il papà entra in casa e grida: Sono a casa. È come una parola d'ordine e i suoi figli corrono a dargli il benvenuto.",
+                "succede anche questo nella realtà",
+                "ti ringrazio, alla prossima lettura!"
+            ],
+            "timestamp": "2019-11-26T09:13:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802371"
         }
     ],
     "post_staff": [
@@ -193,6 +204,22 @@
             ],
             "timestamp": "2019-11-06T16:21:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=798446"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 802371,
+            "text": [
+                "Ciao",
+                "il papà entra in casa e grida: Sono a casa. È come una parola d'ordine e i suoi figli corrono a dargli il benvenuto.",
+                "succede anche questo nella realtà",
+                "ti ringrazio, alla prossima lettura!"
+            ],
+            "timestamp": "2019-11-26T09:13:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802371"
         }
     ],
     "text": [

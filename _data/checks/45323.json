@@ -12,43 +12,22 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 1.0,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Più che un racconto, direi che è la descrizione di un attimo di quotidianità. Tuttavia non capisco la relazione che intercorre tra la protagonista e la donna più anziana, ho immaginato fossero madre e figlia, ma non so, non è chiarissimo. Voleva essere ambiguo? In tal caso ci sei riuscita. Le descrizioni mi piacciono molto, come questa:",
-                    "Sono accurate, come in generale la grammatica e la sintassi del tuo racconto. L'unico appunto formale che ti faccio è l'abuso del dialogo: secondo me dovevi inserire più parti descrittive e magari più riflessioni della protagonista, così sembra quasi che tu sia partita con l'idea di scrivere qualcosa ma poi ti sia stancata lungo il percorso. Io approfondirei. Inoltre, sempre su questo punto, mi dispiace doverti dire che mi sei sembrata un po' retorica, ad esempio qui:",
-                    "Il contenuto invece proprio non mi coinvolge/convince: è il lamento di una vecchia signora che fa i capricci e che ha generato nella sua interlocutrice (immagino sia una lei per questo:",
-                    ") una certa fissazione per l'aspetto.",
-                    "Il messaggio finale è bello, ma ripeto, mi sembra un po' troppo decontestualizzato. Se approfondisci secondo me potrebbe uscirne un buon racconto!",
-                    "A rileggerti"
-                ]
-            ],
-            "timestamp": "2019-11-22T17:53:14Z",
-            "title": "Cara Lei",
-            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801596",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
         "title": "Racconti",
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
-    "num_chars": 5015,
-    "num_commenti": 1,
-    "num_posts": 7,
+    "num_chars": 46,
+    "num_commenti": 0,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 801605,
@@ -74,13 +53,20 @@
             ],
             "timestamp": "2019-11-23T13:50:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45323-stelle-morenti//?do=findComment&comment=801763"
+        },
+        {
+            "post_id": 801998,
+            "text": [
+                "Ciao !",
+                "Ti ringrazio molto per il commento, anche questo prezioso sia per le critiche che per le lodi. In realtà sì, non ho voluto lasciar andare la voce narrante alla disperazione etc per paura di scadere nel banale sentimentalismo, ma forse potrei modificare qualche parte e renderla un po' più cruda. Appunto stavo sperimentando, quindi non ero del tutto convinta di poter mandare una cosa del genere, ma con i vostri suggerimenti a questo punto sono più sicura che valga la pena! Grazie mille a tutti"
+            ],
+            "timestamp": "2019-11-24T18:51:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45323-stelle-morenti//?do=findComment&comment=801998"
         }
     ],
     "post_staff": [],
     "text": [
-        "Il volo per Siviglia è in ritardo di tre ore. Azzurra sbuffa impaziente e io impreco. Non so perché, ma me lo sentivo che oggi qualcosa andava storto. Non ti sento da più di 24 ore, ma non importa, sei a molti fusi orari di distanza, in un altro continente, con i cari che non vedi da un anno. Non sono una di quelle ragazze che pretende che tu stia attaccato al telefono, no, a ognuno la sua strada, e se la facciamo insieme, tanto meglio. Eppure non è il volo che non va. È come quando ho perso quell’altro, quello a cui somigli tanto. Sono andata alla Quercia quel giorno completamente ignara, ma il mio sesto senso mi diceva di fuggire, di non presentarmi a quell’incontro. Ora sto fuggendo, no? Una settimana nella mia adorata Spagna. Dove altro potrei andare? C’è una parte di me che mi sta dicendo di buttare il telefono in un cesto dell’immondizia. Che si perda pure insieme a tutto il resto, in questa terra di nessuno che è l’aeroporto internazionale. Non faccio in tempo. Finalmente un tuo messaggio. Ma l’anteprima è troppo lunga e senza neanche aprirlo so che mi stai lasciando. Stavolta davvero non è colpa mia. Non è nemmeno perché non mi ami più. È che ci sono state complicazioni. E quando arrivo rapidamente all’ultima riga, leggo, come temevo, che tu non tornerai come avevi promesso. Mi pizzicano gli occhi e mi gira tutto. Appena dieci giorni fa mi hai chiesto di conoscere la tua famiglia, e adesso mi dici che probabilmente non ti vedrò mai più? Non appena questa ipotesi prende forma dentro la mia mente, si calcifica. Un tumore inestricabile nella mia testa. Cerco disperatamente un’alternativa possibile. Ma c’è la solita vocina cinica che con disillusione gelida suggerisce “Lo sapevi che finiva così, era questione di tempo. Finisce sempre così”. Già. Salgo sull’aereo alle 21, invece che alle 18. Mentre sorvoliamo la Sardegna, Franco 126 mi canta nelle orecchie “Speravo in un finale da film americano, m’andava bene uguale anche un finale dolceamaro, con il mondo che crolla e noi due mano nella mano, su un cielo di salsa di soia e nuvole di drago” e io non riesco più a trattenere le lacrime.",
-        "Non rispondi alle telefonate o ai messaggi. Ti rifiuti di ascoltare i miei vocali. Sei ingiusto ed egoista. Ho capito, ho capito che la tua famiglia è più importante di tutto, ho capito che tu hai delle responsabilità. Come sempre, mi innamoro di chi appartiene a qualcun altro. Ed è stato come aver perso quell’altro un’altra volta. Credevo che non sarei mai più stata in grado di essere così a pezzi, e invece tutti i pezzi sono rimasti spiaccicati sul pavimento dell’aeroporto a Fiumicino. Ho ricominciato a dormire male. Sono stanca di dover dividere chi amo con persone che nemmeno conosco, sono stanca che le vite altrui pesino così tanto. Così tanto … più della mia. È ridicolo. Mi sono innamorata due volte della stessa persona, divisa in due corpi diversi. Come potevo pretendere che finisse diversamente? Tutte le ferite che eri riuscito a richiudere, hanno ripreso a sangunare raddoppiandosi. Per guarire mi sono buttata nello studio e nel lavoro, ma vorrei solo andare in letargo, sprofondare nelle coperte e risvegliarmi a primavera, con la speranza di rinascere farfalla dal mio bozzolo di dolore e tristezza. Invece, anche dormire è una tortura: i sogni che ti riguardano sono così reali che quando mi sveglio senza di te ci resto male come quel giorno in aeroporto. Abbiamo temporeggiato un mese. Proviamo una storia a distanza, prendo un biglietto per il tuo compleanno, aspettami, sì? No? No... Riemergono dei ricordi sbiaditi, nascosti ben bene nel dimenticatoio. Due ragazzini sdraiati su un letto. “Prometti che non te ne vai?”. Lo chiedo sempre, e il tuo sorriso si confonde col suo, in quell’espressione che vuole dire “ma come ti viene in mente anche solo di pensarlo?”, come se l’idea che possiate andarvene sia la cosa più assurda del mondo. Ma quando si passa dalle parole ai fatti non restate mai. Non hai voluto lasciare nemmeno l’ombra del ricordo. Hai cancellato tutto. Social e non. E infatti, comincia a sembrarmi tutto un sogno. Come se avessi immaginato tutto e tu non fossi mai esistito.",
-        "Ricordo tutti gli addii. Non è quando ci si saluta. È quando qualcosa si rompe. E me ne accorgo sempre, maledetta me, prevedo la fine molto prima che succeda. La mia vocina, Cassandra inascoltata in patria, cerca sempre di proteggermi, e puntualmente fallisce. Ma forse questa volta eri tu a saperlo, che non saresti tornato. Forse è per questo che la nostra ultima notte d’amore è stata più bella delle altre. Forse quel tuo “dovresti venire in India con me” nascondeva la certezza che se non ti avessi seguito ti avrei perduto. Le stelle brillano di più prima di morire, no? E sento che un po’ la colpa è la mia, che non sono mai abbastanza per salvare una stella morente. Non posso che sperare ancora nella predestinazione delle anime, nel fato, in qualcosa che dia un senso a tutto. Nel frattempo, al posto tuo c’è un buco nero nel mio firmamento e nel mio petto."
+        "*Racconto cancellato su richiesta dell'utente*"
     ],
     "timestamp": "2019-11-22T18:23:14Z",
     "title": "Stelle morenti",

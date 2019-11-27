@@ -54,8 +54,24 @@
     },
     "num_chars": 1783,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 802416,
+            "text": [
+                "Ciao , grazie per aver dedicato del tempo su queste mie righe e grazie molto per i commenti, sempre utili!",
+                "Rispondo alle domande.",
+                "Intermezzo. A teatro è generalmente un brano di musica suonato tra due scende. Come diceva il buon Tommaso Landolfi: \"Ma qui forse è necessario una specie di intermezzo o interludio.\"",
+                "Ho scelto questo nome perchè prevedo di inserire questo testo tra due racconti più compiuti e scritti con una prosa meno \"poetica\".",
+                "Treccani dice che è sinonimo di abbaìo. Sostantivo del verbo latrare. Purtroppo non era il sostantivo che avevo in mente, ma non ne ho trovato uno migliore. Mi serviva qualcosa che indichi il \"fiatone\" di un cane. Immagina un cane che è un poco affaticato e ha il fiato grosso: che termine useresti?",
+                "Grazie tanto.",
+                "Si è decisamente migliorabile.",
+                "È un anima. L'anima dei luoghi ."
+            ],
+            "timestamp": "2019-11-26T12:56:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45315-interludio//?do=findComment&comment=802416"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Forse un giorno tornerai.",

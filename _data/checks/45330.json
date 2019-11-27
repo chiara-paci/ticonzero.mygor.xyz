@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.5,
+        "valid": 0.5977717391304348,
         "weight": true
     },
     "closed": false,
@@ -39,9 +39,35 @@
             "title": "Retroscena da un circo",
             "url": "https://www.writersdream.org/forum/forums/topic/45237-retroscena-da-un-circo//?do=findComment&comment=801730",
             "weight": 2
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.19554347826086954
+            },
+            "text": [
+                [
+                    "Il premio è rimasto congelato a lungo, per assenza di . Ne riprenderò io le redini da supplente. Comincerò a vagliare le ultime segnalazioni che sono rimaste senza riscontro.",
+                    "A presto e buon WTF a tutti"
+                ],
+                [
+                    "Ok, ecco a voi il verdetto:",
+                    ", il tuo racconto è degno, degnissimo del premio WTF. Non ci sono parole per descriverlo, è: ommioddiochecosahoappenaletto! Se accetti il premio, avrai targhetta d'onore (in fase di sviluppo) e link al racconto qui, nel topic ufficiale. Grazie per la segnalazione!",
+                    ", e hanno detto che il tuo racconto è \"un perfetto WTF\". Il tutto parlandomi da sola Grazie per la segnalazione!",
+                    ", il racconto non è da WTF... di più! Complimenti, altro che ommioddiochecosahoappenaletto! Anche per te, se accetti il premio, sarai insignito della targhetta d'onore (prima o poi, quando approderà di nuovo nei meandri segreti dove cova lo staff) e il link al tuo racconto sarà posto in apice a questa discussione. Grazie per la segnalazione!",
+                    "Buon WTF a tutti!"
+                ],
+                [
+                    "La nuova medaglia è pronta"
+                ]
+            ],
+            "timestamp": "2019-11-24T15:21:02Z",
+            "title": "Premio WTF - i racconti più ommmiddiochecosahoappenaletto del WD",
+            "url": "https://www.writersdream.org/forum/forums/topic/37625-premio-wtf-i-racconti-pi%C3%B9-ommmiddiochecosahoappenaletto-del-wd//?do=findComment&comment=801957",
+            "weight": 1
         }
     ],
-    "commenti_weight": 2,
+    "commenti_weight": 3,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -49,8 +75,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 9852,
-    "num_commenti": 1,
-    "num_posts": 5,
+    "num_commenti": 2,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 801894,
@@ -62,6 +88,35 @@
             ],
             "timestamp": "2019-11-24T09:44:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801894"
+        },
+        {
+            "post_id": 801949,
+            "text": [
+                "Ciao e , grazie della lettura e dei commenti",
+                "Parto da : molto utili le osservazioni, grazie mille! Vedrò come correggere",
+                "Qui mi sono basata sullo schema classico fiabesco, dove la ripetizione è molto importante. Penso, per esempio, a Cenerentola quando va sotto il nocciolo a chiedere i vestiti, e ogni santa volta deve ripetere la filastrocca. Una rottura di balle che non ti dico... però la fiaba vuole la ripetizione, allora ce l'ho messa pure io, a costo di smaronare il lettore",
+                "Utilissima. Grazie mille a te",
+                "Più che una parodia, la mia voleva essere una fiaba vera e propria. E ti posso garantire che ne ho lette, di originali, di molto più assurde",
+                "Perché no? Certo che si può. Mi sa che occorra ch'io vada ad annunciare che ho preso le redini di Nerio nella gestione del premio",
+                "Grazie anche a te"
+            ],
+            "timestamp": "2019-11-24T14:27:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801949"
+        },
+        {
+            "post_id": 802249,
+            "text": [
+                "Ciao , grazie per la lettura e il riscontro",
+                "Parto dal fondo:",
+                "La fiaba è molto, ma molto diversa in struttura narrativa rispetto a un racconto o un romanzo: per definizione è \"raccontata\" (ossia gli eventi vengono riassunti al nocciolo della questione, con incursioni di discorso diretto qua e là e ripetizioni a gogo della medesima azione), non si entra nel merito della costruzione del personaggio (basa sapere che è bello o brutto, avido o coraggioso... insomma, è sufficiente l'aggettivazione per definirne quanto basta), non ci sono descrizioni personalizzanti, si sviluppa su percorsi e funzioni specifiche e, infine, cosa che i manuali non dicono, ma è bene evidente nel leggere le versioni originali delle fiabe popolari: può succedere di tutto, anche senza una giustificazione. Per esempio, nella fiaba del capretto dei Grimm – di cui non ricordo il titolo preciso – la protagonista viene uccisa, murata nel bagno dove è stata ammazzata, dopodiché risorge nel momento in cui il marito-re abbatte il muro. Così a caso. Pure il curatore della raccolta si dichiara esterrefatto, ma tant'è: è una fiaba.",
+                "Quindi, i consigli strutturali che mi hai dato sono validi, ma per un racconto. Non per una fiaba. Se avessi voluto scrivere un racconto lo avrei fatto in modo decisamente diverso, così non sta in piedi, farebbe schifo un racconto scritto così e sono la prima a dirlo. Per un racconto avrei imbastito una struttura molto diversa, che avrebbe risolto da sé tutti i punti che mi hai elencato. Però, appunto, il mio volere era quello di scrivere una fiaba fatta e finita, seguendo i dettami tradizionali e gli schemi morfologici prestabiliti.",
+                "Posso ritenerlo un piccolo successo, se mi vieni a scrivere che come racconto manca di tanto: in questo caso specifico, se non è un racconto è una fiaba. Ne consegue che ho fatto giusto",
+                "Grazie ancora",
+                "Grazie anche a per il passaggio, graditissimo",
+                "Assolutamente, ci mancherebbe"
+            ],
+            "timestamp": "2019-11-25T17:59:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=802249"
         }
     ],
     "post_staff": [
@@ -96,6 +151,59 @@
             ],
             "timestamp": "2019-11-24T09:44:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801894"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 801949,
+            "text": [
+                "Ciao e , grazie della lettura e dei commenti",
+                "Parto da : molto utili le osservazioni, grazie mille! Vedrò come correggere",
+                "Qui mi sono basata sullo schema classico fiabesco, dove la ripetizione è molto importante. Penso, per esempio, a Cenerentola quando va sotto il nocciolo a chiedere i vestiti, e ogni santa volta deve ripetere la filastrocca. Una rottura di balle che non ti dico... però la fiaba vuole la ripetizione, allora ce l'ho messa pure io, a costo di smaronare il lettore",
+                "Utilissima. Grazie mille a te",
+                "Più che una parodia, la mia voleva essere una fiaba vera e propria. E ti posso garantire che ne ho lette, di originali, di molto più assurde",
+                "Perché no? Certo che si può. Mi sa che occorra ch'io vada ad annunciare che ho preso le redini di Nerio nella gestione del premio",
+                "Grazie anche a te"
+            ],
+            "timestamp": "2019-11-24T14:27:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=801949"
+        },
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 802102,
+            "text": [
+                "Intende dire che stacca una mano con l'accetta e se la porta via, vero? Da una fiaba horror non mi aspetterei niente di meno!",
+                "Congratulazioni , meritatissimo!"
+            ],
+            "timestamp": "2019-11-25T08:12:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=802102"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 802249,
+            "text": [
+                "Ciao , grazie per la lettura e il riscontro",
+                "Parto dal fondo:",
+                "La fiaba è molto, ma molto diversa in struttura narrativa rispetto a un racconto o un romanzo: per definizione è \"raccontata\" (ossia gli eventi vengono riassunti al nocciolo della questione, con incursioni di discorso diretto qua e là e ripetizioni a gogo della medesima azione), non si entra nel merito della costruzione del personaggio (basa sapere che è bello o brutto, avido o coraggioso... insomma, è sufficiente l'aggettivazione per definirne quanto basta), non ci sono descrizioni personalizzanti, si sviluppa su percorsi e funzioni specifiche e, infine, cosa che i manuali non dicono, ma è bene evidente nel leggere le versioni originali delle fiabe popolari: può succedere di tutto, anche senza una giustificazione. Per esempio, nella fiaba del capretto dei Grimm – di cui non ricordo il titolo preciso – la protagonista viene uccisa, murata nel bagno dove è stata ammazzata, dopodiché risorge nel momento in cui il marito-re abbatte il muro. Così a caso. Pure il curatore della raccolta si dichiara esterrefatto, ma tant'è: è una fiaba.",
+                "Quindi, i consigli strutturali che mi hai dato sono validi, ma per un racconto. Non per una fiaba. Se avessi voluto scrivere un racconto lo avrei fatto in modo decisamente diverso, così non sta in piedi, farebbe schifo un racconto scritto così e sono la prima a dirlo. Per un racconto avrei imbastito una struttura molto diversa, che avrebbe risolto da sé tutti i punti che mi hai elencato. Però, appunto, il mio volere era quello di scrivere una fiaba fatta e finita, seguendo i dettami tradizionali e gli schemi morfologici prestabiliti.",
+                "Posso ritenerlo un piccolo successo, se mi vieni a scrivere che come racconto manca di tanto: in questo caso specifico, se non è un racconto è una fiaba. Ne consegue che ho fatto giusto",
+                "Grazie ancora",
+                "Grazie anche a per il passaggio, graditissimo",
+                "Assolutamente, ci mancherebbe"
+            ],
+            "timestamp": "2019-11-25T17:59:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=802249"
         }
     ],
     "text": [

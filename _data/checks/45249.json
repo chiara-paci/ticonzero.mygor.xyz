@@ -46,8 +46,17 @@
     },
     "num_chars": 7899,
     "num_commenti": 1,
-    "num_posts": 13,
-    "post_after": [],
+    "num_posts": 16,
+    "post_after": [
+        {
+            "post_id": 802396,
+            "text": [
+                "Anch'io lo preferisco, grazie."
+            ],
+            "timestamp": "2019-11-26T11:35:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45249-mi-130-la-notte-%C3%A8-finita//?do=findComment&comment=802396"
+        }
+    ],
     "post_staff": [
         {
             "author": {
