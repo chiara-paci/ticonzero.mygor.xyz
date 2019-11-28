@@ -1,0 +1,66 @@
+{
+    "author": {
+        "author_id": 30219,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Ali_spiegate",
+        "url": "https://www.writersdream.org/forum/profile/30219-ali_spiegate/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5344444444444445,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5344444444444445
+            },
+            "text": [
+                [
+                    "Caro ,",
+                    "il tuo nome non tradisce la premessa di nostalgia e melanconia che la poesia riporta. C'è molta speranza nell'ultimo verso che si lega perfettamente al primo. Leggo una consapevolezza di auto analisi: mi guardo, vedo i miei palmi, mi sento limitato, ambisco ad essere albero ma sono vuoto, mi sento rimproverarmi \"fossi perlomeno albero\" ma se lo fossi quanto poco lo saprei essere? quanta perduta sarebbe quella foglia? Però poi c'è una speranza, la speranza su cui fonda tutto. In cui la foglia che cade rinasce e riporta alla vita anche chi non l'ha capita. Bravo!",
+                    "A presto"
+                ]
+            ],
+            "timestamp": "2019-11-28T13:07:18Z",
+            "title": "... Autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/45231-autunno//?do=findComment&comment=802930",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 241,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ogni giorno piano piano muoio un po’ di più",
+        "schiavo di me stesso.",
+        "Ritento ancora di scappare.",
+        "Ingenuo.",
+        "Provo a pensarmi lontano da me.",
+        "Mi spavento.",
+        "Conosco il me da cui fuggo e che non comprendo.",
+        "Null'altro.",
+        "Può forse l’altro farmi ancora più paura?"
+    ],
+    "timestamp": "2019-11-28T13:10:05Z",
+    "title": "ansia",
+    "topic_id": 45410,
+    "url": "https://www.writersdream.org/forum/forums/topic/45410-ansia/"
+}
