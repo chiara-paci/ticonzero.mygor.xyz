@@ -56,7 +56,7 @@
     },
     "num_chars": 1011,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 801850,
@@ -149,6 +149,23 @@
             ],
             "timestamp": "2019-11-26T22:07:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802576"
+        },
+        {
+            "post_id": 802977,
+            "text": [
+                "Ti ringrazio del consiglio, e no, non avevo pensato di farla in versi sciolti. Onestamente, prima di vedere il tuo esempio non ci avrei messo su una lira, per mia incapacità, ma l’esempio che hai fatto è molto più “profondo”, per dire, di come abbia espresso io. Immagino che l’enfasi sleghi e liberi dalle strette maglie dei versi Grazie mille del commento, e anzi se avessi altri suggerimenti sarei molto interessato ad ascoltarli.",
+                "Buona serata."
+            ],
+            "timestamp": "2019-11-28T16:35:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802977"
+        },
+        {
+            "post_id": 802978,
+            "text": [
+                "Il commento è riferito a ."
+            ],
+            "timestamp": "2019-11-28T16:36:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45336-lp-6-un-incubo-solo//?do=findComment&comment=802978"
         }
     ],
     "post_staff": [],
