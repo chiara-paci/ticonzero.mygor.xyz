@@ -55,7 +55,7 @@
     },
     "num_chars": 7936,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 799715,
@@ -152,6 +152,18 @@
             ],
             "timestamp": "2019-11-27T20:26:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802802"
+        },
+        {
+            "post_id": 803005,
+            "text": [
+                "Siete state carinissime i vostri commenti mi sono piaciuti tanto.",
+                "Sentirsi dire da un supercritico che non ha trovato errori e' il massimo (scusate per la e', scrivo da cellulare e la tastiera non mi segna piu' i suggerimenti, ecco appunto, n.b. il piu' )",
+                "Mi sono divertita a scrivere questo racconto, e non vedo l'ora di revisionarlo.",
+                "A presto,",
+                "Emy, in bocca al lupo"
+            ],
+            "timestamp": "2019-11-28T20:39:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=803005"
         }
     ],
     "post_staff": [
@@ -169,6 +181,34 @@
             ],
             "timestamp": "2019-11-25T08:12:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802101"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 802897,
+            "text": [
+                "Risale agli anni '90. Prima se ne fregavano tutti bellamente.",
+                "Questo racconto mi ha lasciato due impressioni contrastanti. Da un lato la pesantezza (in senso positivo) del tema di fondo in tutte le sue implicazioni, compreso un certo eco di regimi totalitari in cui non solo la privacy non esisteva, ma anche il controllo del vicinato e i sospetti condizionavano la vita. Qui si capisce poco a cosa ci si debba conformare, ma non è un difetto in sé, anzi, è una nota di originalità rispetto a distopie tradizionali stile 1984: il messaggio è che gli esseri umani sono gregari e basta, in mancanza di indicazioni dall'alto comunque si creano un insieme di valori totalizzante; e ci sta benissimo.",
+                "Dall'altro c'è invece una forma che non funziona altrettanto bene. I dettagli sono già stati citati, ti dirò la mia impressione generale: risulta un tono poco naturale, un po' forzato nei dialoghi e poco armonioso nelle descrizioni. Messa così sembra peggio di quello che vorrei dire: non è una questione tecnica, le immagini arrivano e la storia è piacevole, non ci sono errori grammaticali ma neanche di struttura. È una questione di ironia, che manca: quell'ironia sottile, stile Tom Sawyer o Mafalda , che fa la fortuna dei testi che usano gli occhi dei bambini per evidenziare i casini degli adulti. Non è una critica: tutto sommato il racconto funziona lo stesso. È un consiglio: è l'ultimo gradino che manca, la differenza tra un 10 e un 10 e lode."
+            ],
+            "timestamp": "2019-11-28T11:38:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802897"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 802902,
+            "text": [
+                "Volevo aggiungere una cosa che ho apprezzato molto: il fatto che questa continua violazione della privacy possa avere anche risvolti positivi (in questo caso evitare un contagio). Nota rara in quella che di fatto è una distopia, un genere in cui spesso si passa il tempo a chiedersi \"ma chi ve l'ha fatto fare di inguaiarvi così?\""
+            ],
+            "timestamp": "2019-11-28T11:56:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45176-sfida-25-praivas%C3%AC//?do=findComment&comment=802902"
         }
     ],
     "text": [

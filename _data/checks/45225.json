@@ -59,7 +59,7 @@
     },
     "num_chars": 3477,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 800526,
@@ -102,6 +102,15 @@
             ],
             "timestamp": "2019-11-27T20:37:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=802805"
+        },
+        {
+            "post_id": 802866,
+            "text": [
+                "A proposito di citazioni, sai cosa disse l'inventore del cesso barocco?",
+                "«Il bisogno aguzza l'ingegno.»"
+            ],
+            "timestamp": "2019-11-28T07:55:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45225-onorevoli-esercizio-di-stile//?do=findComment&comment=802866"
         }
     ],
     "post_staff": [],
