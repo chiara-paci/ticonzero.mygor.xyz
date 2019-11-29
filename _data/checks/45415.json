@@ -1,0 +1,114 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Per individuare il soggetto la poesia va letta fino in fondo, mi pare. Mi affido alla desinenza del verbo per mettere il sangue sulla scena, in primo piano. sangue come naturale sinonimo di vita, entusiasmo, passione.",
+                    "il calcolo distratto",
+                    "la luce",
+                    "fuori dagli occhi:",
+                    "Questi tre versi si riferiscono all'attimo e mi stanno bene. Un attimo di respiro, di riposo, di spazio vuoto tra le emozioni, le quali mi piace pensare siano associate alla luce, che quindi si porta fuori, all'esterno, momentaneamente. Distacco. Un momento di raziocinio, quindi, o forse meglio di lucidità.",
+                    "variazioni impercettibili",
+                    "di polveri - i pensieri-",
+                    "di pigmenti.",
+                    "Troppo assorti.",
+                    "Continuo su questa logica: un momento di pensiero. Polvere, asciugare. Sembra che le emozioni siano la linfa, il fluidificante mentre i pensieri, da soli, grippano. Troppo vaghi, troppo lontani dal cuore delle cose che succedono. Troppo freddi e simili tra loro, i pensieri. Io la interpreto così.",
+                    "Si asciugano",
+                    "e ho te qui",
+                    "a fluidificarti:",
+                    "Seguo il filo della poesia e quindi il verbo asciugano è riferito ai pensieri. Lo evinco dal plurale, e fin qui ci siamo. Non voglio pensare che sia casuale, perchè fin qui mi combina tutto.",
+                    "Fluidificarti , a questo punto, mi confonde però, perché i pensieri, ultimo soggetto, vengono accantonati per concentrarsi sul sangue, che fluidifica sé stesso, pare. Di nuovo lo evinco dalla desinenza verbale. Ok per quanto riguarda la forma dei versi, ma sul contenuto mi perdo e per me rimane la priorità. Però magari non ho colto il giusto significato.",
+                    "mio sangue",
+                    "tra riflessi argentei",
+                    "in contrazioni irregolari.",
+                    "Si chiude sul sangue, dunque, ed è una buona chiusa perché il sangue\\cuore\\emozioni rimane in primo luogo il tema della poesia, credo, e a me dà l'impressione di qualcosa di vivo, con una pelle lucida che riflette e un cuore pulsante, appunto. Di solito, finito di leggere una poesia, tendo a trascurare il titolo (a dimenticarlo) che invece è così importante. Questa volta mi sono ricordato. Tratteggio ci sta, anche se non riesco a cogliere un collegamento diretto.",
+                    "Finito. La poesia mi è piaciuta. Mi sono perso un attimo, come sopra spiegato, ma probabilmente non ho colto completamente. Comunque bella. Ciao"
+                ]
+            ],
+            "timestamp": "2019-11-29T07:06:26Z",
+            "title": "Tratteggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44695-tratteggio//?do=findComment&comment=803022",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1395,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 803024,
+            "text": [
+                "Quel più , ovviamente, si è spostato al momento della pubblicazione. Pazienza. Diciamo che sto imparando a conoscere questo foglio di lavoro e prima o poi mi riuscirà di gestirlo come voglio io."
+            ],
+            "timestamp": "2019-11-29T07:20:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45415-volevo-essere-come-te//?do=findComment&comment=803024"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "VOLEVO ESSERE COME TE",
+        "______________________________________________________________________________________________________________________________________________________________",
+        "La dedizione di un poeta",
+        "si nutre di poesia e tu",
+        "nuda modella delle sue parole",
+        "tu, già così bella",
+        "vuoi diventare poesia?",
+        "Non credo, hai sangue caldo nelle vene e guance assolate di eliotropi allegri che cercano il bacio del sole.",
+        "Poesia non è un cucciolo",
+        "una torta, un gatto da coccolare.",
+        "La poesia è pensiero",
+        "e il pensiero una lama",
+        "nel taglio della bocca.",
+        "Incontro fra i versi di un bistrot: lui la scioglie sotto la lingua, lentamente, fra le pagine del libro e la tazza di cioccolata. Lei flette, slogata.",
+        "Tu, che sei già così bella",
+        "- bacio e torta e gatto - vuoi",
+        "farti abbracciare intorno ai fianchi",
+        "per averlo in ginocchio",
+        "e non parole sugli occhi.",
+        "Lui la invidia, sì, ma non le feste e gli amici. Se essere come lei era ciò che voleva, era soltanto per starle più vicino, perché così non poteva.",
+        "Aduso al sudore, il palato",
+        "nel solco di natiche e seni",
+        "fra le dita dei piedi e delle mani",
+        "dietro i lobi delle orecchie",
+        "e sulla lingua, salato.",
+        "E quando i suoi capelli scotti si sono scolati sul cuscino, ha capito che lui le serve ancora. Perché le parole la stancano, è vero, ma poi ne vuole di più.",
+        "Aduso ai pomeriggi roventi",
+        "e ai sospiri di sere più fresche",
+        "ascoltando i canti delle rane",
+        "dalle umide tane per gli occhi.",
+        "Lavora per lei, ora."
+    ],
+    "timestamp": "2019-11-29T07:17:23Z",
+    "title": "Volevo essere come te",
+    "topic_id": 45415,
+    "url": "https://www.writersdream.org/forum/forums/topic/45415-volevo-essere-come-te/"
+}
