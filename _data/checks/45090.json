@@ -41,15 +41,9 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 0.3177659574468085
+                "valid": 0
             },
             "text": [
-                [
-                    "mi sembrava invece interessante, forse sopratutto per chi ha postato critiche e/o suggerimenti, poter leggere nello stesso thread il risultato finale.",
-                    "Comunque se questa è la regola ovviamente la rispetterò, grazie comunque.",
-                    "\"Se invierai a uno staffer qualsiasi il link a un commento valido,\": qui proprio non ho capito",
-                    "Stefano"
-                ],
                 [
                     "(grazie)"
                 ],
@@ -67,9 +61,9 @@
                     "ho fatto io, spero di aver fatto bene. Il racconto [revisionato] sta"
                 ]
             ],
-            "timestamp": "2019-10-31T11:29:47Z",
+            "timestamp": "2019-10-31T14:53:24Z",
             "title": "In ascensore",
-            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=796868",
+            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=796927",
             "weight": 1
         }
     ],
