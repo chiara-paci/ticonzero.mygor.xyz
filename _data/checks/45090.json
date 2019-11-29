@@ -41,12 +41,9 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 0
+                "valid": 0.23086956521739127
             },
             "text": [
-                [
-                    "(grazie)"
-                ],
                 [
                     "Mi piace l'idea dei piani diversi... però però... poi si perde il dubbio circa l'uscita insieme allo stesso piano.",
                     "A volte tocchi una virgola da una parte e devi ritarare. Ma è pure questo il divertente.",
@@ -61,9 +58,9 @@
                     "ho fatto io, spero di aver fatto bene. Il racconto [revisionato] sta"
                 ]
             ],
-            "timestamp": "2019-10-31T14:53:24Z",
+            "timestamp": "2019-10-31T21:07:53Z",
             "title": "In ascensore",
-            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=796927",
+            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=797006",
             "weight": 1
         }
     ],
