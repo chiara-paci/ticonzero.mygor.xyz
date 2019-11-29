@@ -77,7 +77,7 @@
     },
     "num_chars": 972,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 802342,
@@ -98,6 +98,16 @@
             ],
             "timestamp": "2019-11-26T05:55:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45334-lp-6-lineluttabile//?do=findComment&comment=802342"
+        },
+        {
+            "post_id": 803074,
+            "text": [
+                ", quale onore essere votata da una poetessa! Ti ringrazio per il voto e per le parole di apprezzamento, sono molto felice",
+                "Grazie mille ancora",
+                "Talia"
+            ],
+            "timestamp": "2019-11-29T12:24:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45334-lp-6-lineluttabile//?do=findComment&comment=803074"
         }
     ],
     "post_staff": [],
