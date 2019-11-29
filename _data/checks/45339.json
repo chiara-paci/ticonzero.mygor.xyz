@@ -59,7 +59,7 @@
     },
     "num_chars": 320,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 801991,
@@ -82,6 +82,16 @@
             ],
             "timestamp": "2019-11-25T22:07:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=802322"
+        },
+        {
+            "post_id": 803138,
+            "text": [
+                "Grazie mille, , per aver letto e lasciato le tue impressioni.",
+                "\"Non sa stare dritta\" è riferito in realtà alla paura. Ma anche come interpreti tu è interessante. Grazie per il tuo giudizio così lusinghiero, .",
+                "Hai ragione: ora che me lo fai vedere scritto è come un drappo funebre che si muove nel vento. Anche ha collegato il viola al lutto. Grazie mille per aver letto, ."
+            ],
+            "timestamp": "2019-11-29T17:49:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=803138"
         }
     ],
     "post_staff": [],
