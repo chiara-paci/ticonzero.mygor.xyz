@@ -41,14 +41,9 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 0.23086956521739127
+                "valid": 0.34373626373626376
             },
             "text": [
-                [
-                    "Mi piace l'idea dei piani diversi... però però... poi si perde il dubbio circa l'uscita insieme allo stesso piano.",
-                    "A volte tocchi una virgola da una parte e devi ritarare. Ma è pure questo il divertente.",
-                    "Nella versione revisionata ho aggiunto, alla fine, \": assente\"."
-                ],
                 [
                     "Grazie del commento. La mia intenzione era dare l'idea del tipo come di uno interessato al colloquio ma non tanto da non essere disponibile ad andare dietro a un nuovo interesse.",
                     "Si tratta comunque più di un'atmosfera che di una storia chiusa.",
@@ -58,9 +53,9 @@
                     "ho fatto io, spero di aver fatto bene. Il racconto [revisionato] sta"
                 ]
             ],
-            "timestamp": "2019-10-31T21:07:53Z",
+            "timestamp": "2019-11-01T19:15:36Z",
             "title": "In ascensore",
-            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=797006",
+            "url": "https://www.writersdream.org/forum/forums/topic/41975-in-ascensore//?do=findComment&comment=797220",
             "weight": 1
         }
     ],
