@@ -16,7 +16,7 @@
         "valid": 0.5344444444444445,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -45,9 +45,23 @@
     },
     "num_chars": 241,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 803020,
+            "text": [
+                "quando postiamo un testo in officina è necessario allegare un commento più approfondito. Dobbiamo cercare di essere utili all'autore, altrimenti rendiamo questo spazio solo una vetrina. Ormai ci frequenti da un po' e dovresti saperlo. Chiudo, per riaprire invia il link di un commento più approfondito a uno staffer."
+            ],
+            "timestamp": "2019-11-29T05:21:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45410-ansia//?do=findComment&comment=803020"
+        }
+    ],
     "text": [
         "Ogni giorno piano piano muoio un po’ di più",
         "schiavo di me stesso.",
