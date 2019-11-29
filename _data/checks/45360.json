@@ -55,7 +55,7 @@
     },
     "num_chars": 5774,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 802329,
@@ -79,6 +79,26 @@
             ],
             "timestamp": "2019-11-26T22:13:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=802577"
+        },
+        {
+            "post_id": 802838,
+            "text": [
+                "Piacere di risentirti , grazie per la lettura. Sì, la parte iniziale è fra due adulti, due amici, che fanno delle considerazioni. Un dialogo spontaneo, a volte nonsense, che apre le porte alla fiaba. Le due parti sono scollegate: una che sembra più un siparietto e l'altra più intensa con diversi messaggi. Questo aspetto disarmonico non mi dispiaceva, l'idea di una storia che parte in un modo e svolta in un altro. Probabilmente mi mancano i mezzi per affrontare l'intento. Un punto comune comunque è l'amicizia: tra i due personaggi e i due animali.",
+                "Ciao, alla prossima",
+                "Grazie per il commento. Hai colto molto bene il messaggio che volevo trasmettere. E sulla forma...c'è solo da lavorare.",
+                "Ciao"
+            ],
+            "timestamp": "2019-11-27T22:40:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=802838"
+        },
+        {
+            "post_id": 802910,
+            "text": [
+                "Piacere , Mi ha fatto pensare il tuo commento. Avendo una madre che soffre di questo problema, può essere che inconsciamente sia stato influenzato. Quante cose si possono scoprire dalla lettura di occhi diversi.",
+                "Grazie, un caro saluto"
+            ],
+            "timestamp": "2019-11-28T12:29:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=802910"
         }
     ],
     "post_staff": [],

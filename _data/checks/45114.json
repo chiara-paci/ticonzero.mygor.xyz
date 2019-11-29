@@ -82,7 +82,7 @@
     },
     "num_chars": 4143,
     "num_commenti": 2,
-    "num_posts": 23,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 798159,
@@ -193,6 +193,22 @@
             ],
             "timestamp": "2019-11-26T17:47:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802485"
+        },
+        {
+            "post_id": 802922,
+            "text": [
+                "Da benjimation.tumblr.com ecco un'animazione quasi a tema."
+            ],
+            "timestamp": "2019-11-28T12:55:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802922"
+        },
+        {
+            "post_id": 802933,
+            "text": [
+                "Kazuhiko Okushita"
+            ],
+            "timestamp": "2019-11-28T13:10:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=802933"
         }
     ],
     "post_staff": [

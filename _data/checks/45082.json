@@ -65,7 +65,7 @@
     },
     "num_chars": 3056,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 797728,
@@ -127,6 +127,25 @@
             ],
             "timestamp": "2019-11-26T09:13:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802371"
+        },
+        {
+            "post_id": 802852,
+            "text": [
+                "Buongiorno cara",
+                "sono d'accordissimo! Invece alla fine è stata tenuta",
+                "mai sentito, cercherò",
+                "hai ragione, mi piace",
+                "hai ragione anche qui",
+                "sono molto contenta, grazie mille",
+                "Buongiorno cara Flo, sono proprio felice di trovarti qui",
+                "grazie, sono proprio contenta che ti sia piaciuto",
+                "perché nella mia testa i bambini indossano solo i calzini ai piedi e corrono su un pavimento coperto di legno, di quelli che si lucidano sulla cera e si fanno gli scivoloni, anche a posta se uno vuole. Comunque queste sono tutte informazioni rimaste dentro la mia testa",
+                "giusto",
+                "ma sai che questa è una delle cose che mi abbiano mai detto? Grazie mille, cara Flo",
+                "evviva la solidarietà tra fratelli e anche tra non fratelli, comunque siano le gambe di Leo"
+            ],
+            "timestamp": "2019-11-28T06:17:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802852"
         }
     ],
     "post_staff": [
@@ -220,6 +239,30 @@
             ],
             "timestamp": "2019-11-26T09:13:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802371"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 802852,
+            "text": [
+                "Buongiorno cara",
+                "sono d'accordissimo! Invece alla fine è stata tenuta",
+                "mai sentito, cercherò",
+                "hai ragione, mi piace",
+                "hai ragione anche qui",
+                "sono molto contenta, grazie mille",
+                "Buongiorno cara Flo, sono proprio felice di trovarti qui",
+                "grazie, sono proprio contenta che ti sia piaciuto",
+                "perché nella mia testa i bambini indossano solo i calzini ai piedi e corrono su un pavimento coperto di legno, di quelli che si lucidano sulla cera e si fanno gli scivoloni, anche a posta se uno vuole. Comunque queste sono tutte informazioni rimaste dentro la mia testa",
+                "giusto",
+                "ma sai che questa è una delle cose che mi abbiano mai detto? Grazie mille, cara Flo",
+                "evviva la solidarietà tra fratelli e anche tra non fratelli, comunque siano le gambe di Leo"
+            ],
+            "timestamp": "2019-11-28T06:17:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45082-la-gara//?do=findComment&comment=802852"
         }
     ],
     "text": [

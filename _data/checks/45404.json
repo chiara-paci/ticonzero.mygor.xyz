@@ -12,13 +12,30 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il tuo, più che il racconto di una fiaba, è la descrizione di una fiaba che viene raccontata ad un bambino con intento pedagogico. La parte iniziale infatti narra la difficoltà dell'interlocutore",
+                    "ad accettare anche solo la semplice narrazione, interrotta già sul nascere contrapponendo commenti pseudorazionali al semplice abbandonarsi alla storia. E' nella seconda parte che invece inizia la fiaba vera e propria: la trama è semplice, si narra di un pollo che incontra un gattino e cerca di aiutarlo anche a rischio della vita. Nell'impresa il pollo non solo soddidfa le esigenze del giovane ed ingenuo nuovo amico, ma riesce anche, vincendo le sue più che fondate paure, a liberare altri suoi simili senza che essi glielo avessero chiesto e, soprattutto, ricevendo il riconoscimento di uno solo fra tutti che sceglie di seguirlo spinto dall'istinto o da qualcosa di simile all'amore. Lo stile si alterna nelle due parti e a mio parere andrebbe meglio collegato. Sulla parte grammaticale ti rimando alle giuste annotazioni già fatte. Il mio giudizio complessivamente non è negativo, trovo nel lavoro la dolcezza narrativa della fiaba, che è la parte più interessante. L'aspetto di un essere che si muove dal suo egoismo e dalle sue paure personali per aiutare un altro essere da lui in tutto differente è interessante. L'appunto è che andrebbe meglio sviluppato, specialmente nella parte finale dove il racconto pare interrotto e invece avrebbe meritato qualche riga di maggior sforzo."
+                ]
+            ],
+            "timestamp": "2019-11-27T19:55:40Z",
+            "title": "Il pollo e il gattino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=802799",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +43,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 4846,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

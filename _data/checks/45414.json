@@ -12,13 +12,29 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "La prima caratteristica di questo racconto è senza dubbio il coraggio: è senza dubbio perlomeno scomodo disegnare una protagonista senza false ipocrisie come la madre di Achille, una che non vuole nemmeno essere chiamata mamma, come una nonna che ha paura di invecchiare, una che si aspetta riconoscenza e rispetto dal suo neonato, ma che si stupisce davanti all'ipotesi che lui possa ribellarsi concretamente per esprimere un disagio. Non c'è lotta o rancore tra i due protagonisti, che anzi gli eventi portano ad \"imparare\" a vivere in senso pieno. La dubbiosa madre non è un'irresponsabile, anzi all'inizio sperimenta tutte le tecniche a base psicologica e filosofica tanto di moda per essere \"perfetti\" e socialmente avanzati: Proprio la natura, con l'inevitabile dolore del parto, svela l'ipocrisia e lascia la protagonista sola alla mercé del piccolo tiranno appena arrivato. Solo la scienza (non solo identificabile con i macchinari, ma anche con la figura dell'ostetrica che non vuole consolare, ma costringere a capire ed accettare) offre ai due una possibilità, che entrambi sfruttano salvandosi dalla morte, fisica per il piccolo e dei sentimenti per la madre. Lo stile, con le precisazioni grammaticali che già sono state fatte (uso della punteggiatura, dei verbi), trasmette a mio avviso l'ansia e il disagio dei protagonisti e questo è un pregio. Concordo con chi prima di me ha commentato anche sul finale un po' brusco, che penso meritasse di essere ampliato per capire meglio i moti del cuore di una donna che diventa madre. Spero di rileggerti ancora."
+                ]
+            ],
+            "timestamp": "2019-11-28T19:49:31Z",
+            "title": "Mio figlio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=802999",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +42,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 6350,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
