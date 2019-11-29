@@ -51,8 +51,17 @@
     },
     "num_chars": 210,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 803163,
+            "text": [
+                "Ops, grazie prima o poi capirò come si fa... 😌"
+            ],
+            "timestamp": "2019-11-29T21:30:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45419-mercatini-di-natale//?do=findComment&comment=803163"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Commento:",
