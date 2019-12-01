@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 29185,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Alba360",
+        "url": "https://www.writersdream.org/forum/profile/29185-alba360/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 8012,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 803446,
+            "text": [
+                "Ho sbagliato, la traccia è quella di mezzogiorno!"
+            ],
+            "timestamp": "2019-12-01T20:58:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803446"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzogiorno: Al Madina",
+        "I confini del mio cuore",
+        "Sotto la schiuma, il filo tagliente abbatte i peli un po’ alla volta. Lo sguardo ne segue il verso allo specchio: Pelo e contro pelo. Rivolto di sbieco al mio riflesso, a mento alto, mi si rivelano la pelle e i nervi. Celato dalla barba di venti anni, sotto c’è il mio volto. Quello di uomo che ormai, sembrava un vecchio rassegnato.",
+        "Mi asciugo il viso, e penso con nostalgia ad Al Madina, ai tempi in cui ero solo un ragazzo. Ripenso alla campagna, alle strade certe, alle case calde e accoglienti, ai bei momenti trascorsi, alle danze nei giorni di festa, alla piazzetta rotonda collegata a tutto e a tutti, ai poteri che la mia città emana e ai suoi abitanti consapevoli di esserne parte.",
+        "Al Madina dentro l’ansa del fiume, abbracciata e protetta, circondata dall’abbondanza e sorretta da un clima gentile. Al Madina piena di frutti generosi, di armonia e di gente centenaria. Al Madina, fatta e finita, è tutto, unita a tutto, perfino alle spiagge e alle paludi che indicano l’impossibilità di andarsene, che con le loro intricatissime trame ne oscurano, a tutti i nati in questo mondo, anche la più remota intenzione.",
+        "E ripenso con rabbia alla stella che mi contagiò l’anima.",
+        "Pescavo, molti anni fa, in una notte senza luna. I pesci più grossi e scaltri escono soltanto in certe condizioni e in certi orari, anche loro sono parte di Al Madina: forti della loro esperienza, istintivamente si proteggono con strategie, in parte valide, al fine della loro sopravvivenza.",
+        "Davanti a me, la spiaggia dell’altra riva; buia, deserta, senza nome o riferimento alcuno, era come se non fosse lì, nemmeno vi posavo lo sguardo. Era un’improbabile meta, mai agognata, mai valutata se non come la fine dei nostri confini. Limite, dove ognuno intuiva, che oltre non esisteva nulla. Mai, nemmeno una volta, era venuto in mente a qualcuno ciò che la stella cadente insinuò nei miei pensieri quella notte.",
+        "Tiravo a riva la rete, e neanche con grande sforzo.Tra una pausa e un’altra rimiravo i pesci dibattersi nella mia trappola, erano belli, grossi, e così tanti. Alzai gli occhi alle stelle, solo pochi secondi: ringraziai Al Madina e il suo creatore, per tanta bellezza e di avermela donata, ma in quell’istante un astro luminoso si staccò dal cielo. La sua scia attraversò la volta, piano, disegnò un arco perfetto e morì oltre il fiume, dietro le dune, dietro i nostri confini: s’illuminarono all’unisono i miei sensi e la notte sconosciuta, lontana e misteriosa.",
+        "Furono giorni terribili quelli seguenti. Fui attraversato da una febbre che ancora non si estingue. Passai mesi a studiare la corrente che governa la forza dell’acqua del fiume, con i suoi vortici potenti che girano intorno i massi sporgenti e le rapide che ne aumentano improvvisamente la portata, calcolai minuziosamente e riuscii a capire la relazione tra la forza delle onde e la resistenza del legno della mia zattera. In quel tempo trascurai Anna, i miei impegni, ogni mio pensiero era perso dietro alle fantastiche scoperte che avrei potuto fare una volta arrivato dall’altra parte.",
+        "Messa a punto la nostra imbarcazione, eravamo dunque pronti per avventurarci verso l’ignoto. Di certo, c’erano soltanto quella striscia di sabbia bianca dove saremmo approdati e le folte paludi, uguali a quelle note ed esplorate di Al Madina.",
+        "Anna piangeva la sera prima della nostra partenza, del resto, piangeva sempre molto, dalla notte che avevo pescato con la luce del bolide impressa nell’anima. Ogni mio sforzo per tranquillizzarla risultava vano, ma era decisa a venire con me.",
+        "«Dall’altra parte io non so cosa troveremo, ma non senti ardere la voglia di conoscere? Di sapere?»",
+        "«Ho ogni cosa che posso desiderare qui. Cosa possiamo pretendere ancora?»",
+        "«Io voglio sapere invece. Se siamo soli, se ci sono altri come noi. Non vorresti avere altre opportunità? Scoprire che esistono altri fiumi e altre città piene di gente? »",
+        "«Qui non ci manca nulla, abbiamo tutto ciò che serve. Al Madina custodisce la nostra immagine e quella del nostro mondo. Noi siamo Al Madina! Se andiamo via, porteremo con noi un pezzo del nostro mondo, non pensi a quelli che restano? Ci mancheranno? Gli mancheremo? Che ne sarà di loro e di noi?»",
+        "Piangeva Anna, ma mi seguì lo stesso, e dal troppo piangere restò affranta in silenzio per tutto il tempo della traversata.",
+        "Tirata a secco la nostra imbarcazione mi sdraiai su quella terra, aveva lo stesso odore, colore e consistenza della mia, non avvertivo nulla di particolare. Mi sentivo, già dalla partenza, euforico per il viaggio e le sue promesse. L’impellenza di continuare e di superare al più presto il promontorio di sabbia, di guardare finalmente al di là, era quasi un dolore fisico. Lei riposava, mentre io aspettavo con ansia.",
+        "Anna si svegliò. L’alba sorgeva alle nostre spalle, guardavamo Al Madina: la luce pallida trasfigurava il contorno frastagliato della spiaggia, delle paludi tormentate dagli insetti, dei tetti rossi e i comignoli fumosi. A me sembrò di essere tradito dalla tranquillità dalle gente, intenta a prepararsi per affrontare un nuovo giorno; la vita ad Al Madina proseguiva anche senza di noi.",
+        "Anna mi guardò e affogò la sua tristezza nei miei occhi brucianti. Seppe con certezza che mi aveva perso; non volle seguirmi oltre. Avrebbe aspettato lì, tra le due rive. Ferma, in piedi, lo sguardo rivolto alla sua città, senza guardarmi, mi spiegò che avrebbe atteso che io appagassi il mio desiderio di conoscenza. Si allontano da me e mi disse: «Saprò badare a me stessa fino al tuo ritorno.»",
+        "Immaginava, che saperla lì da sola mi avrebbe, sicuramente, riportato indietro al più presto. Capii che quello era stato il suo piano fin dall’inizio: Non mi seguì nemmeno con gli occhi. Io me ne andai ferito.",
+        "Mentre mi addentravo sempre di più, verso luoghi che non ero riuscito mai a scorgere dalla mia riva. Ero sicuro che lei non avrebbe mai affrontato di nuovo la traversata: da sola, anche quel breve viaggio, poteva essere molto pericoloso. Anna era dotata di una fervida intelligenza ma, governare la zattera senza il mio aiuto… no, non avrebbe potuto farcela.",
+        "Sicuro di ritrovarla al mio ritorno, mi lasciai tutto alle spalle. Camminando piano mi ripromettevo, senza l’urgenza che provavo prima, di stare lontano solo due giorni, al massimo tre.",
+        "Riposto il rasoio e l’asciugamano, mi osservo di nuovo allo specchio. Schiocco la lingua tra i denti.",
+        "Dei validi motivi per tornare indietro sarebbero stati: Anna ancora da scoprire, Anna da vivere e vederla cambiare, crescere e invecchiare insieme a lei, Anna e i suoi baci, i suoi denti bianchi, le sue dita sulle mie guance.",
+        "Ottime ragioni per continuare sarebbero state: lei che mi avrebbe aspettato di sicuro, e non le sarebbe accaduto nulla nel frattempo, io che la ricoprivo di tesori al mio ritorno. La mia esperienza e le mie scoperte, che avrebbero arricchito la mia città di nuove storie e invenzioni, e chi lo sa, forse un giorno, per merito mio, tutti gli abitanti avrebbero affrontato quel viaggio senza paura.",
+        "Una giusta causa per tornare indietro è stata: Anna sola la notte, Anna senza speranza di vedermi tornare, Anna disperata che poteva salire sulla zattera per tornare in città, Anna che cadeva tra le onde, Anna che gridava tra le assi sventrate dalla corrente.",
+        "Per la stessa causa, fu giusto, tornare indietro e lasciarsi crescere una barba lunga vent’anni. Restare con lei nel limbo, tra una sponda e l’altra, costruire una casa per viverci insieme. Aspettare, stare né ad Al Medina né oltre le dune. Sospeso sull’orlo della conoscenza e attendere il momento giusto per correre via, con lei, verso quello che non ci saremmo mai immaginati.",
+        "Un pretesto per radersi, dopo tutti questi anni, è una stella cadente che ha illuminato la notte al di là delle dune, e che ha sprigionato ancora mille lampi nella mia mente, e mi ha scosso i sensi.",
+        "Ti sveglierai domani Anna, e saprai che è l’ora dell’attesa e della solitudine. Per me aspettarti fino a qui ne è valsa la pena, per te? Lo saprò al mio ritorno."
+    ],
+    "timestamp": "2019-12-01T20:54:36Z",
+    "title": "[MI 131]﻿ I confini del mio cuore",
+    "topic_id": 45435,
+    "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore/"
+}
