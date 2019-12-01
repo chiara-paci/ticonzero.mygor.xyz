@@ -48,7 +48,7 @@
     },
     "num_chars": 385,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 802656,
@@ -62,7 +62,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza//?do=findComment&comment=802656"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 803427,
+            "text": [
+                "Ciao vedo che questo è il tuo primo post, di solito preferiamo che i nuovi utenti si presentino per prima cosa al forum. Potresti per piacere presentarti in Ingresso? Ti lascio . Grazie"
+            ],
+            "timestamp": "2019-12-01T19:13:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza//?do=findComment&comment=803427"
+        }
+    ],
     "text": [
         "Mi terrorizza",
         "quest'acqua",
