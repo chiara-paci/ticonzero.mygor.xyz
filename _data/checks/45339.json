@@ -59,7 +59,7 @@
     },
     "num_chars": 320,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 801991,
@@ -92,6 +92,14 @@
             ],
             "timestamp": "2019-11-29T17:49:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=803138"
+        },
+        {
+            "post_id": 803415,
+            "text": [
+                "Cara , mi hai lasciato un commento delizioso ed emozionante. Grazie!"
+            ],
+            "timestamp": "2019-12-01T16:57:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=803415"
         }
     ],
     "post_staff": [],
