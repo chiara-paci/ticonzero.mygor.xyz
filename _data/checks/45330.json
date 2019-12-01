@@ -76,7 +76,7 @@
     },
     "num_chars": 9852,
     "num_commenti": 2,
-    "num_posts": 9,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 801894,
@@ -117,6 +117,17 @@
             ],
             "timestamp": "2019-11-25T17:59:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=802249"
+        },
+        {
+            "post_id": 803370,
+            "text": [
+                "Ciao , grazie della lettura e del tempo che hai dedicato alla fiaba. Sono contenta che ti sia piaciuta",
+                "Rispondo subito al tuo dubbio:",
+                "È possibile, alle volte, usare la virgola assieme alla e congiunzione. Nel caso specifico che hai citato, la virgola è utilizzata per spezzare la frase e far intendere che la correlazione non è tra \"poveri e lieti\", ma fra le due frasi, ossia tra il prima e il dopo.",
+                "Grazie ancora per la lettura, sono felice che tu l'abbia apprezzata"
+            ],
+            "timestamp": "2019-12-01T11:57:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=803370"
         }
     ],
     "post_staff": [
@@ -204,6 +215,22 @@
             ],
             "timestamp": "2019-11-25T17:59:37Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=802249"
+        },
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 803370,
+            "text": [
+                "Ciao , grazie della lettura e del tempo che hai dedicato alla fiaba. Sono contenta che ti sia piaciuta",
+                "Rispondo subito al tuo dubbio:",
+                "È possibile, alle volte, usare la virgola assieme alla e congiunzione. Nel caso specifico che hai citato, la virgola è utilizzata per spezzare la frase e far intendere che la correlazione non è tra \"poveri e lieti\", ma fra le due frasi, ossia tra il prima e il dopo.",
+                "Grazie ancora per la lettura, sono felice che tu l'abbia apprezzata"
+            ],
+            "timestamp": "2019-12-01T11:57:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45330-le-tre-teste-e-la-nonna-del-diavolo//?do=findComment&comment=803370"
         }
     ],
     "text": [
