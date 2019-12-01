@@ -12,13 +12,29 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.9922222222222222,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9922222222222222
+            },
+            "text": [
+                [
+                    "Ho letto il tuo brano e sinceramente non mi ha molto convinto. Probabilmente questo è solo un abbozzo di un qualcosa di più lungo respiro. Qualcosa di buono si intravede nell'aspetto \"Amarcord\", del come eravamo, e neanche mi dispiace la figura dipinta dell'amico che adolescente si maschera da intellettuale sperando di dividere la solitudine con qualche fanciulla. E' il percorso fatto da ognuno cercando di imitare qualcuno per provare a conquistare un piccolo spazio. Negli inciampi di un adolescente è facile immedesimarsi ed è per questo che questa parte a mio giudizio andava approfondita. Lo stile usato è discorsivo e risulta di facile lettura, anche quando gli argomenti trattati vanno ben oltre la superficie. La parte finale vacilla. con un salto temporale l'amico adolescente diventa grande, smette di scrivere e si allinea ad una più facile soluzione per placare il proprio ego. Comunque lo capisco, spesso la nudità dell'anima va celata al mondo con una buon involucro visibile."
+                ]
+            ],
+            "timestamp": "2019-11-29T20:11:04Z",
+            "title": "Sublimazioni",
+            "url": "https://www.writersdream.org/forum/forums/topic/45351-sublimazioni//?do=findComment&comment=803156",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 26,
@@ -26,7 +42,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
     },
     "num_chars": 7534,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],

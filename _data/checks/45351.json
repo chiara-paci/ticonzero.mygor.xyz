@@ -73,7 +73,7 @@
     },
     "num_chars": 4778,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 802153,
@@ -101,6 +101,25 @@
             ],
             "timestamp": "2019-11-25T15:20:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45351-sublimazioni//?do=findComment&comment=802207"
+        },
+        {
+            "post_id": 803235,
+            "text": [
+                "Hai ragione. C'è uno stacco, sono stato pigro: dovevo lavorarci di più e non l'ho fatto, forse perché neanche io ero convinto più di tanto di questo racconto. Anche se, magari più in là, potrei riscriverlo conservando la parte iniziale, che, concordo con te, funziona di più, modificando il resto.",
+                "Grazie mille del feedback"
+            ],
+            "timestamp": "2019-11-30T13:47:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45351-sublimazioni//?do=findComment&comment=803235"
+        },
+        {
+            "post_id": 803237,
+            "text": [
+                "Carissimo , hai ragione su tutta la linea: questo racconto l'ho buttato un po' via, non sviluppando con una trama adeguata gli input che avevo dato.",
+                "Dai, lo riscrivo.",
+                "Alcune tesi sulla funzione masturbatoria della scrittura e dell'arte sono tratte da reali chiacchiere da bar E a tal proposito, specifico: si tratta anche di masturbazione mentale, ovviamente, non solo di impulsi sessuali. Penso che, come tutte le tesi estreme, sia molto riduttivo ricondurre l'esigenza di scrivere alla sola masturbazione. Al tempo stesso, però, credo che magari anche dietro ai grandi capolavori un po' di masturbazione intellettuale dello scrittore ci sia, così come i grandi uomini che hanno cambiato la storia, nel bene o nel male, dentro dovevano avere un ego narcisistico di quelli enormi..."
+            ],
+            "timestamp": "2019-11-30T13:52:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45351-sublimazioni//?do=findComment&comment=803237"
         }
     ],
     "post_staff": [],

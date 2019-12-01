@@ -1,0 +1,67 @@
+{
+    "author": {
+        "author_id": 34774,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Tonino123",
+        "url": "https://www.writersdream.org/forum/profile/34774-tonino123/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Partiamo dall'analisi del personaggio principale. Trovo sia irragionevole la sua reazione esagerata, per questo il racconto mi piace. Se avesse avuto una qualsiasi avvisaglia o dubbio reale sulla serata (specchietto rotto, ubriachezza) il racconto sarebbe stato meno significativo secondo me.",
+                    "Per me così è un' \"ode all'ansia ossessiva\", Gianni non ha motivo di dubitare di se stesso eppure lo fa. Si rovina una mattinata e va a costituirsi per qualcosa che non ha fatto solo perché si è autoconvinto che sia giusto così.",
+                    "Devo ammettere che sono rimasto un po' col dubbio sulla colpevolezza fino alle ultime righe e questo è un bene.",
+                    "Forse un po' in disuso ma non mi dispiace come termine",
+                    "Io eviterei il \"visto che\", non mi sembra suonare bene.",
+                    "Eliminerei \"a un certo punto\".",
+                    "Io avrei evitato \"quell'oggetto\" e avrei scritto \"eppure vederlo\" ... \"gli provoca\" \"un senso di disagio\" \"tanto da sollevare il piede ...\"",
+                    "Mi piace questa parte ma potrebbe essere più scorrevole.",
+                    "io avrei falciato un po': \"accende l'aria condizionata, nell'abitacolo l'atmosfera è ormai densa e pesante\"",
+                    "Anche questo punto spiega un po' la disattenzione cronica di Gianni, mi piace.",
+                    "Beh, qui Gianni sembra un po' troppo leggero in effetti",
+                    "La serratura dentro il locale? Suppongo intendessi che Gianni vuole aprire la serratura mentre si trova ancora dentro il locale, non si capisce benissimo però.",
+                    "Qui non sono convinto. Mi piace che si presenti per pura e insensata paranoia, è la descrizione in se a non piacermi. Ad esempio il \"sono io il colpevole, ma non volevo\" per i carabinieri potrebbe significare di tutto.",
+                    "Quindi ricapitolando ho apprezzato il racconto e la trama. Forse andando un po' controcorrente ho visto un senso diverso, per me l'originalità sta proprio nella mancanza di segni reali di colpevolezza. Come sopra ho evidenziato le parti che mi hanno convinto poco, soprattutto per la scorrevolezza del testo."
+                ]
+            ],
+            "timestamp": "2019-11-30T20:50:41Z",
+            "title": "Colpevole?",
+            "url": "https://www.writersdream.org/forum/forums/topic/45396-colpevole//?do=findComment&comment=803281",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 0,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [],
+    "timestamp": "2019-11-30T21:15:31Z",
+    "title": "18 in giardino",
+    "topic_id": 45428,
+    "url": "https://www.writersdream.org/forum/forums/topic/45428-18-in-giardino/"
+}
