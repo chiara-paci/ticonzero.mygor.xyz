@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 9701,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Kuno",
+        "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 3187,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 803483,
+            "text": [
+                "Benvenuti al festival del refuso!"
+            ],
+            "timestamp": "2019-12-01T23:10:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803483"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 803483,
+            "text": [
+                "Benvenuti al festival del refuso!"
+            ],
+            "timestamp": "2019-12-01T23:10:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803483"
+        }
+    ],
+    "text": [
+        "Mezzogiorno",
+        "La città del libro",
+        "Abbandonare tutto perché lei ha trovato un libro, in biblioteca. Un libro che, dice, è scritto in una grafia che non è di qui, non è di Al Madina; pare che ciò sia particolarmente evidente quando si osservano le gobbe della m , così poco simili alle nostre colline. E la carta, al tatto, a lei non ricorda le mie carezze, né le carezze di chi le è stato accanto prima di me. È una pelle tutta nuova, più sottile, di mano leggera, mai trovata da questa parte del fiume.",
+        "La storia che racconta, ha aggiunto, può sembrare la solita di Al Madina solo se la si legge distrattamente. A farci attenzione è chiaro che le spiagge del libro sono più morbide delle nostre, che il caffè è mille volte più nero e la notte mille volte più luminosa. Si intuisce la presenza di stelle che da questa parte non possiamo vedere.",
+        "Io ho provato a calmarla, a farle capire che un libro così non può esistere, che oltre il fiume il mondo sfuma perché non c’è la città di Al Madina a dargli forma. E noi, dall’altra parte, non avremmo bocca né mani né noi stessi: saremmo nuvole di polvere confusamente disperate perché non possono attraversare il fiume e venire ad Al Madina. Le ho detto questo e molte altre cose, ma lei insisteva, era così sicura che nel labirinto di strade descritto in quel libro non ci si orienta come qui. Sotto i ponti passa l’acqua passa più docile e se ti butti lei ti porta a casa.",
+        "Ho passato molte ore accanto a lei, a sedere su uno scoglio e stringere gli occhi per trovare qualcosa di là, come due curve poco poco più scure del cielo che corrono sopra la costa uguali alle gobbe delle m del manoscritto; come un uccello che disegna in cielo un invito, come un luccicchio nella sabbia simile a un occhiolino.",
+        "Ogni giorno lei ci trova qualcosa di nuovo, nelle pagine del libro, e qualcosa di nuovo trova allora ancora oltre la riva. Dice che là il sole alleggerisce le ombre e per questo tutto si solleva da terra senza fatica e la mattina si scende dal letto con una capriola.",
+        "E io non ce la faccio a vederla così, mentre si trascina per Al Madina come se portasse in spalla la luna. Ha sempre mal di schiena e la mattina le pare un’impresa abbandonare la posizione orizzonale. Pesante, mi dice, si sente pesante tutto il giorno finché non l’accompagno al fiume a guardare cosa c’è oltre.",
+        "Un giorno scende dallo scoglio e si butta in acqua. Io so che nessuno ha mai imparato a nuotare in questo fiume, che chi prova ad abbandonare Al Madina abbandona il mondo. La seguo, non posso lasciarla. Mi butto anche io e uso tutta la forza che ho nelle braccia e nelle gambe per combattere la corrente. Davanti a noi sfila la striscia sbiadita e senza contorni che è il mondo sull’altra riva. Il fiume è forte, ma lei non sogna altro che contare le nuove stelle e io voglio solo sentirla contare all’infinito. Guardo davanti a me, per non pensare ad Al Madina che abbandono. Mi concentro solo sulla striscia sbiadita al di là, e a un certo punto scorgo due macchie più scura, due macchie piccole piccole nel fiume.",
+        "Dico a lei che quelli ci somigliano, ma lei mi dice che non è vero, che loro sono molto più leggeri. Ha ragione, sembra che il fiume li accarezzi appena."
+    ],
+    "timestamp": "2019-12-01T23:00:03Z",
+    "title": "[MI 131] La città del libro",
+    "topic_id": 45444,
+    "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro/"
+}
