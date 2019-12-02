@@ -111,8 +111,21 @@
     },
     "num_chars": 9873,
     "num_commenti": 3,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803598,
+            "text": [
+                "Ciao ,",
+                "Grazie mille di essere passata. Apprezzo sempre i tuoi commenti, ma leggendo mi è venuto un dubbio, che forse, è dico forse, potrebbe spiegare in parte le tue giuste osservazioni.",
+                "Non so se si è capito, comunque lo menziono; lo stile in cui scrivo non è una semplice terza persona, ma una terza limitata. In parole povere è una terza con le caratteristiche di una prima. Racconto la storia immedesimandomi nel protagonista.",
+                "Non prenderla come una giustificazione; so di dover migliorare molto ancora. Volevo solo capire, se si era inteso, tutto qui.",
+                "A presto, e grazie ancora ☺️ ."
+            ],
+            "timestamp": "2019-12-02T15:37:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45151-il-padrone-del-nulla-sogno//?do=findComment&comment=803598"
+        }
+    ],
     "post_staff": [
         {
             "author": {
