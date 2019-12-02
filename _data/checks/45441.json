@@ -12,13 +12,36 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Un racconto dal sapore più completo di quello che ho letto nella sua stesura iniziale, dove più caratteri hanno saputo dare più \"aria\" a passaggi che risultavano davvero complessi. Secondo me continua ad avere due limiti che, però, ne limitano l'efficacia complessiva.",
+                    "Vorrei prima parlare di cosa a mio parere è particolarmente riuscito. Innanzitutto la questione delle suore, che riescono benissimo a calzare in un contesto horror. Anzi, chi meglio di loro. Ho un passato nelle grinfie dell'educazione scolastica delle suore, e non ricordo quel periodo volentieri. Era un continuo di suggestioni macabre su sotterranei dove tenevano bambini prigionieri e cose così... insomma, mi ci sono ritrovato in quanto hai scritto.",
+                    "Stessa cosa per l'ambientazione: ciò che è vecchio e sfarzoso sa veicolare la giusta dose di inquietudine, secondo me.",
+                    "Ho apprezzato meno l'espediente per far finire Filippo nelle grinfie delle suore, che alla luce della brillantezza globale mi è sembrato semplicistico. Non inverosimile, ma poco approfondito. Sono convinto che l'ingegnosità delle suore sarebbe potuta arrivare ad altro, così come Filippo sarebbe potuto cadere in una trappola più solida dal punto di vista narrativo.",
+                    "Un secondo aspetto che rema contro alla fruibilità del racconto – sempre e comunque a mio parere – è lo stile. La prosa è ottima, ma poco fluida: si perde in eccessivi ghirigori che fanno perdere il focus della lettura; inoltre, va troppo a volo d'uccello sui punti di vista di Filippo e della Madre Badessa, evitando un'immersione che avrebbe al contrario potuto giovare al coinvolgimento del lettore.",
+                    "So che non sei abituata a questo modo di narrare, ma per genere e per struttura il tuo racconto si presta a essere sviluppato così. Se ti va, in una revisione ulteriore potresti tentare di approfondire questa strada.",
+                    "Per ultima cosa una sciocchezza: una virgolaccia fuori posto.",
+                    "Spero di esserti stato utile in qualche modo, cara ."
+                ]
+            ],
+            "timestamp": "2019-12-01T22:50:00Z",
+            "title": "Il Conte Filippo (revisionato)",
+            "url": "https://www.writersdream.org/forum/forums/topic/45277-il-conte-filippo-revisionato//?do=findComment&comment=803465",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +49,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 5685,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
