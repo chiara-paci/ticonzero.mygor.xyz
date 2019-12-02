@@ -70,9 +70,37 @@
     },
     "num_chars": 9889,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 803526,
+            "text": [
+                "Grazie per il meraviglioso omaggio, . Non posso esimermi da un commento semiserio (più semi e molto meno serio, o viceversa, non l'ho ancora capito).",
+                "Il terzo \"di\" lo eliminerei.",
+                "Dev'essere un epoca molto remota, che fine hanno fatto gli smarthpone? E la funzione della macchinetta che consente gli scatti multipli?",
+                "Non si comprende bene questa frase. Letta così fa pensare che testimone e imputato abbiano lo stesso rappresentante legale. Il che non sarebbe possibile, il testimone d'accusa non è rappresentato in giudizio, ma semplicemente convocato in udienza. Rappresentate sono le parti.",
+                "Più sotto, però, si legge:",
+                "Quindi, per \"rappresentati\" si intende che sono entrambi la stessa persona. Chiarirei meglio la frase indicata prima.",
+                "Inoltre, in Italia non dovrebbe essere consentita la rinuncia al difensore, ne viene subito nominato uno d'ufficio. In America, invece, è consentita la self representation .",
+                "Il racconto non specifica dove ci troviamo, abbiamo nomi italiani e \"stranieri\" insieme, per cui la cosa potrebbe anche essere plausibile in una dimensione \"ibrida\".",
+                "Qui non risco a capire chi parli. È Ellery?",
+                "Ma se hanno due teste, è abbastanza evidente che si tratti di siamesi e non di schizofrenia.",
+                "Infatti è scritto:",
+                "Come mai sbattono l'una contro l'altra? Entrambe le teste non dovrebbero voltarsi nella stessa direzione? In tal caso una fronte dovrebbe sbattere contro una nuca.",
+                "Anche qui la licenza può essere concessa dalla mancanza di un'ambientazione definita. In Italia, infatti, non ci si rivolgerebbe con \"Vostro onore\", ma con \"Signor giudice\".",
+                "Nell'insieme è un racconto surreale godibilissimo e simpatico. Mi è piaciuto. Le storie surreali mi affascinano sempre molto.",
+                "Poi, se vedeste l'effettiva somiglianza fisica tra e me ne rimarreste sul serio stupiti!"
+            ],
+            "timestamp": "2019-12-02T09:12:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45430-i-gemelli-siamesi-elleryqueffe-processo-e-condanna//?do=findComment&comment=803526"
+        }
+    ],
     "text": [
         "Personaggi:",
         "I fratelli ElleryQueffe:",
