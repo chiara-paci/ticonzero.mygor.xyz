@@ -51,7 +51,7 @@
     },
     "num_chars": 3863,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 803639,
@@ -65,6 +65,24 @@
             ],
             "timestamp": "2019-12-02T19:06:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803639"
+        },
+        {
+            "post_id": 803658,
+            "text": [
+                "Grazie.",
+                "grazie per avermi instillato il dubbio pure a me. Non sono del tutto sicuro di poterlo dirimere, ma suona meglio anche a me. D'altronde, se giriamo la frase al gerundio sarebbe \"è come se stesse attraversando\", mentre come l'ho declinato io darebbe \"è come se stia attraversando\"."
+            ],
+            "timestamp": "2019-12-02T20:58:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803658"
+        },
+        {
+            "post_id": 803668,
+            "text": [
+                "No problem. Certe volte passerei anche termini come diuretico o lassativo.",
+                "Grazie del commento."
+            ],
+            "timestamp": "2019-12-02T21:52:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803668"
         }
     ],
     "post_staff": [],

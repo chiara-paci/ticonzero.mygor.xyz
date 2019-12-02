@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 30383,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Elisa Audino",
+        "url": "https://www.writersdream.org/forum/profile/30383-elisa-audino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , vado dritta al punto. Per qualche strano e incomprensibile motivo molti critici sostengono che riprodurre Carver sia facilissimo. Sono anche gli stessi che lo banalizzano. Personalmente, ci ho provato per un po' con pessimi risultati. La capacità che aveva lui di fare poesia con lo stile più asciutto e simile alla prosa del mondo non ha pari. Ma questo non è per dirti che volevi imitare Carver e non ci sei riuscita. Solo ho pensato che la prima parte fosse eccessivamente descrittiva, anche per chi come me ha uno stile decisamente prosastico, e che l'ultima fosse poesia. Allora ho pensato che un'alternativa potrebbe essere questa:",
+                    "Arriva﻿ l'autobus e dalle labbra allontani la sigaretta. La spegni grattandola sul muro e, senza disfartene, accenni un saluto﻿. Nel tuo sguardo sfuggente riconosco l'addio. Salendo ti fai largo tra i passeggeri, accalcati perfino sui primi gradini. Con la mano sollevata poco sopra la spalla proteggi dagli urti la sigaretta.",
+                    "Dalla﻿﻿ fermata ti guardo svanire.",
+                    "Tra le mani un piccolo cilindro",
+                    "ha la fortuna",
+                    "di stare senza la tue labbra",
+                    "appena il tempo﻿﻿",
+                    "di una tratta urbana﻿.",
+                    "Ho pulito un po' sia la prima sia la seconda parte. Anche nella prosa alcune immagini sono chiare senza eccessive spiegazioni che rallenterebbero eccessivamente la scena (ad esempio il fatto che la ragazza pensi sia un peccato buttarla via: è chiaro dal contesto). Nella seconda ho tolto tutto quel che mi pareva di troppo, di nuovo, puntando sul contrasto della sentenza rispetto alla parte descrittiva precedente. Ho pensato la formattazione compatta nella prima parte e in forma poetica, con gli accapo, nella seconda, per rendere anche visivamente la differenza e il cambio di soggettiva.",
+                    "Vedi se ti suona bene, a me pare scorra di più in questo modo.",
+                    "Buona serata,"
+                ]
+            ],
+            "timestamp": "2019-12-02T21:33:44Z",
+            "title": "Smoke",
+            "url": "https://www.writersdream.org/forum/forums/topic/45449-smoke//?do=findComment&comment=803665",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 505,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Quantificare la tua presenza",
+        "significa sommare",
+        "alle ore di guida",
+        "ogni corridoio",
+        "ogni caffè",
+        "ogni sospensione",
+        "attardarsi nel sonno",
+        "e apprestarsi a dormire",
+        "la tendinite al pollice",
+        "della mano destra",
+        "questo quaderno",
+        "e metà del libro",
+        "- la parte migliore -",
+        "insieme ai tre anni",
+        "necessari per scriverlo",
+        "lo spelling dettagliato del sesso",
+        "i bicchieri a bordo strada",
+        "il rimbombo",
+        "della mia autoproclamata indipendenza",
+        "- lo statuto costitutivo -",
+        "unito alla costante",
+        "volontaria declinazione",
+        "di ogni tuo",
+        "nome.",
+        "E questo è solo il passato recente."
+    ],
+    "timestamp": "2019-12-02T21:42:54Z",
+    "title": "Le proprietà dell'addizione",
+    "topic_id": 45451,
+    "url": "https://www.writersdream.org/forum/forums/topic/45451-le-propriet%C3%A0-delladdizione/"
+}

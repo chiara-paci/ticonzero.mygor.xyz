@@ -56,7 +56,7 @@
     },
     "num_chars": 8012,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 803446,
@@ -67,7 +67,34 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803446"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 803673,
+            "text": [
+                "Avevo letto in passato alcuni tuoi racconti e ne avevo riportato l'impressione di una scrittura dal registro poco equilibrato, che alternava passaggi di grande felicità espressiva ad altri decisamente meno riusciti, densi di frasi troppo elaborate e di minore impatto. Mi avevano colpito in particolare certe descrizioni di luoghi, reali o fantastici, che avevano il pregio di coinvolgere e affascinare il lettore.",
+                "Accade anche in questo racconto, ma in tono minore: nel senso che qui, a mio avviso, prevalgono i momenti meno felici, con una lodevole eccezione che poi citerò.",
+                "A non convincermi è proprio la trama del racconto. La prima parte ci fa sapere di una città, Al Madina, che è un piccolo angolo di paradiso: il clima, il ritmo dolce con cui scorre la vita di ogni giorno, la natura, gli edifici, le strade, la gente che le popola non posseggono una sola incrinatura. Non esiste un aggettivo che abbia un'accezione non dico negativa, ma anche soltanto neutra: tutto è meraviglioso, bellissimo, favoloso. Il protagonista ne è pienamente consapevole e sa di vivere in un mondo dorato, tanto che la riva opposta è descritta come",
+                "Orbene, in questa condizione idilliaca il protagonista vede una stella cadente la cui luce va a morire là, in quella terra negletta, e di punto in bianco è pronto a sacrificare ogni cosa (compresa la compagna, della cui esistenza si apprende soltanto in un secondo momento) per andare a esplorare quel mondo per il quale non ha mai provato curiosità alcuna.",
+                "Mi sembra in tutta sincerità molto poco credibile.",
+                "È solo in seguito, a causa di quell'evento atmosferico nemmeno troppo inconsueto, che il protagonista mostra un'improvvisa sete di conoscenza (mi hai fatto pensare a Ulisse, qui) che lo spinge a un desiderio irrefrenabile di partire verso l'ignoto.",
+                "Avrei voluto che tu me lo avessi presentato così fin dall'inizio: un essere macerato da questo desiderio di conoscenza che non riesce a godere appieno del \"bello\" che ha attorno a sé e che alla fine \"deve\" partire.",
+                "E poi che succede? Anna si rifiuta di seguirlo e rimane ad attenderlo tra le due rive, lui parte pieno di dubbi (brutto, a mio modo di vedere, l'elenco dei pro e dei contro, reso a mo' di lista della spesa) e poi torna indietro da lei, ma i due non riattraversano il fiume: rimangono lì vent'anni (non si sa a far che), in attesa che cada un'altra stella che lo induce finalmente a partire. Mah...",
+                "dice lui, ma io lettore non sono d'accordo: avrei voluto scoprire cosa c'era di là dalle dune, ma avrei accettato la sua scelta di tornare indietro agli agi e alle bellezze del luogo natio. Stare fermo lì vent'anni ad attendere un'altra stella cadente invece è una soluzione che non solo non me lo fa amare, ma me lo rende estraneo.",
+                "Dicevo di una nobile eccezione, che mi ha ricordato i passaggi felici che avevo letto in altri racconti, ed è questa:",
+                "Bellissima la descrizione della città che si risveglia, unita alla riflessione di lui. Ho trovato estremamente naturale quel sentimento di tradimento che il protagonista prova: è ovvio che la vita procederà come sempre, eppure lui se ne stupisce. Capisce di essere solo un piccolo ingranaggio di quel mondo, superfluo come ogni altro, ma per farlo deve attraversare il fiume e osservarlo dalla riva opposta: solo ora che se ne è allontanato, ora che ne è estraneo, riesce a vedere il vero volto di quel mondo. Un sentimento molto umano, che prova chiunque abbandoni un luogo che è stato suo e al quale non sa se farà ritorno.",
+                "Un'ultima cosa: la punteggiatura.",
+                "È disturbante, fastidiosa e svilisce il narrato, perdonami se te lo dico. Sembra che tu dissemini virgole a caso: io leggo, vedo una virgola, faccio una pausa e... la pausa non ci va, o comunque non va lì. La frase perde la sua coerenza logica e mi trovo incastrato tra un soggetto e un verbo; allora devo tornare indietro, rileggere daccapo e correggere mentalmente la posizione di tutti i segni d'interpunzione, affinché la frase scorra. Questo mi toglie gran parte del piacere della lettura e rischia di farmi perdere la voglia di continuare.",
+                "Fai qualcosa per la punteggiatura, è importante ."
+            ],
+            "timestamp": "2019-12-02T22:31:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803673"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno: Al Madina",
         "I confini del mio cuore",
