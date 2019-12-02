@@ -12,13 +12,44 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , m fa molto piacere tornare a leggere qualcosa di tuo, davveramente davvero.",
+                    "Ti farò le pulci perché è un commento per postare.",
+                    "Iniziamo.",
+                    "mmm... qui c'è qualcosa che non va. Il soggetto è \"un susseguirsi\", mentre il verbo è coniugato al plurale di immagini. Io rivedrei.",
+                    "perché questo a capo?",
+                    "forse \"più\" è un resfuso? è scappato? non mi è chiaro il senso",
+                    "Al di là delle annotazioni formali che ti ho fatto, l'incipit è molto bello. Disegni una scena e un paesaggio che fanno da contraltare al paesaggio interiore di Nino. E ci dai subito un sapore, un'atmosfera. Penso che in questa tua caratteristica si senta molto delle tue letture calviniane. E prendilo come un complimento perché lo è.",
+                    "Bello pure questo. Ma anche questo può essere limato. Potresti rendere la metafora un po' più immediatamente digeribile: per coglierla, così, bisogna interrompere la lettura e pensarci. E poi: che è successo al tasto enter, perché questi a capo?",
+                    "qui metterei un segno di punteggiatura che marchi di più lo stacco, un punto e virgola o un due punti, se non proprio un punto",
+                    "Vabbé, non te lo ripeterò più, ci deve essere stato un problema con il tasto invio, o di formattazione. Addolcirla dalle pieghe mi sembra un'espressione un po' strampalata",
+                    "pure qua qualcosa è un po' arzigogolato. Riformulerei spezzando le frasi e semplificando. Nell'immaginazione di Nino, era una voce da un settantenne",
+                    "Questa idea è ottima",
+                    "Allora, Luca, c'è qualche imperfezione formale su cui potresti lavorare di lima. Ma l'idea c'è e il racconto, per me, è molto bello. Si vede, lo ribadisco, che sei un lettore duro. E hai una bella fantasia, mai fine a se stessa, vivida e intelligente. Bravo. Se proprio proprio vogliamo, ti consiglierei di calcare un po' meno la mano sul contrasto campagna/città, tanto emerge chiaramente anche con meno indizi."
+                ],
+                [
+                    "Ti aggiungo che a me il finale è piaciuto, non mi ha lasciato un senso di incompiutezza ma di sospensione."
+                ]
+            ],
+            "timestamp": "2019-12-01T16:06:02Z",
+            "title": "Le avventure di Nino. La stazione.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=803408",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +57,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 5712,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [],
     "post_staff": [],
