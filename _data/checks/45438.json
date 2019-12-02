@@ -58,8 +58,28 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 803578,
+            "text": [
+                ", , , grazie per il passaggio e per le dritte",
+                "è il caso di dirlo: acqua",
+                "Beh, la metafora non era difficile da cogliere, la città con la sua asfissiante perfezione e il mare come desiderio di altrove, che quando irrompe può travolgere tutto"
+            ],
+            "timestamp": "2019-12-02T14:01:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803578"
+        },
+        {
+            "post_id": 803611,
+            "text": [
+                "Non sono una donna, ma sono una santa",
+                "Grazie mi fa piacere che ti sia arrivato e che ti sia piaciuto. La tua osservazione finale, non scontata, pure la Sottoscrivo. A presto"
+            ],
+            "timestamp": "2019-12-02T16:54:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803611"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno. Al Madina",

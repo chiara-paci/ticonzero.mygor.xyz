@@ -65,8 +65,17 @@
     },
     "num_chars": 7938,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803565,
+            "text": [
+                "Grazie del passaggio. In effetti ci ho pensato. Speravo di aver tenuto un punto di vista equilibrato, leggermente spostato su Marco prima e dopo la sua morte allora sull'ex militare. In realtà non avevo preso un punto di vista perché avrebbe rovinato il racconto, se lo avessi preso dell'uno o dell'altro avremmo saputo subito la verità, ho cercato, tranne che in due o tre parti, di essere al di sopra. Però anche se ho avuto più tempo del solito, necessiterebbe di altre due o tre letture per arrivare a un livello accettabile. Grazie mille! Forse avrei dovuto lasciare uno spazio tra il cambio di prospettiva, a rileggere bene"
+            ],
+            "timestamp": "2019-12-02T12:47:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45440-mi-131-dove-li-hai-seppelliti//?do=findComment&comment=803565"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzanotte: Il brusco risveglio con boa il topolino bianco (albino nel mio caso)",

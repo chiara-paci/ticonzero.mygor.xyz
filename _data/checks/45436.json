@@ -54,8 +54,18 @@
     },
     "num_chars": 8030,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803575,
+            "text": [
+                "No, no, è un refuso. Diciamo che, evidentemente, non posso fare a meno di aggiungere elementi orridi anche quando non è nelle mie intenzioni",
+                "Ti ringrazio per il commento, mi fa piacere che tu abbia apprezzato la storia. ( :"
+            ],
+            "timestamp": "2019-12-02T13:37:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=803575"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno. Al Madina",

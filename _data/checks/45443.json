@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.9822222222222222,
+        "valid": 1.0,
         "weight": true
     },
     "closed": false,
@@ -32,9 +32,27 @@
             "title": "[MI 131] Difficile, molto difficile",
             "url": "https://www.writersdream.org/forum/forums/topic/45433-mi-131-difficile-molto-difficile//?do=findComment&comment=803481",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Kuno. Qualche refuso ti è stato già sottolineato e sappiamo che quando il tempo è poco come nel MI giustamente qualche sbavatura può capitare e ci sta.",
+                    "Il testo è pieno di lirismi e ho apprezzato il fatto che sia così dolce e pacato. I due trovano il manoscritto e a metà fra sogno e realtà si gettano in acqua, per trovare il posto tanto decantato. Il fatto che cerchino di raggiungerlo a nuoto è la componente più tenera del racconto. Viene da chiedersi se il luogo sia vero o se sia tutta una fantasia dei due protagonisti, che invece di viaggiare fisicamente, fanno dei voli d'immaginazione.",
+                    "Assurdo che abbiamo avuto la stessa idea per la chiusura ed è meraviglioso vedere come tu l'abbia integrata nella poetica che permea tutto il racconto, mentre nel mio caso sia invece motivo di rottura e di scoperta. Lo stesso evento vissuto in due modi completamente opposti.",
+                    "Questa parte è la mia preferita. Mi fa pensare a Ulisse e Diomede che bruciano all'inferno e Ulisse che dice a Dante che non poteva stare fermo a Itaca neppure dopo l'Odissea. Che la sete di conoscenza era troppa per stare fermo ad aspettare. Una lettura rilassante, che scivola via placida, come i due protagonisti nell'acqua del fiume."
+                ]
+            ],
+            "timestamp": "2019-12-02T15:35:14Z",
+            "title": "[MI 131] La città del libro",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803597",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -42,8 +60,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7477,
-    "num_commenti": 1,
-    "num_posts": 5,
+    "num_commenti": 2,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 803482,
@@ -52,6 +70,30 @@
             ],
             "timestamp": "2019-12-01T23:08:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803482"
+        },
+        {
+            "post_id": 803627,
+            "text": [
+                "Ciao! Certo che mi ricordo di te Felice che il racconto ti sia piaciuto. Peccato che il finale ti abbia sorpreso meno invece. Spero, dopo un periodo che definire complicato è un eufemismo, di essere tornato in pianta stabile. Vedremo! Grazie per il passaggio"
+            ],
+            "timestamp": "2019-12-02T18:33:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803627"
+        },
+        {
+            "post_id": 803628,
+            "text": [
+                "Felice che ti sia piaciuto Truman Show era lì davanti agli occhi, mentre scrivevo e quando ho capito dove volevo andare a parare, ho pensato di renderlo ancora più cupo, non svelando un eventuale mondo fuori. Grazie per il passaggio, caro"
+            ],
+            "timestamp": "2019-12-02T18:35:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803628"
+        },
+        {
+            "post_id": 803631,
+            "text": [
+                "Ciao! Per pubblicare, ho finito di scrivere alle 23:57 e si sono visti i risultati con commenti e altro Ma avevo letto le tracce alle 21, quindi era già una sfida finirlo e pubblicarlo, figurarsi scrivere la parte finale in modo ben equilibrato Lo specchio l'ho immaginato opaco e sporco, sai? Capisco il tuo punto di vista, che mi ha aperto gli occhi in merito, ma nella mia testa al momento della scrittura non si è presentato, proprio perché avevo immaginato lo specchio più come una strutturra solida e vagamente riflettente, che come uno specchio vero e proprio. Se non è chiaro però, dovrò necessariamente rivederlo in fase di riscrittura Grazie mille per il passaggio!"
+            ],
+            "timestamp": "2019-12-02T18:38:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803631"
         }
     ],
     "post_staff": [
@@ -72,6 +114,33 @@
             ],
             "timestamp": "2019-12-02T08:16:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803513"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 803541,
+            "text": [
+                "il commento che hai usato per postare non è sufficiente. Chiudo.",
+                "Quando hai fatto manda MP."
+            ],
+            "timestamp": "2019-12-02T10:31:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803541"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 803600,
+            "text": [
+                "Regolarizzato."
+            ],
+            "timestamp": "2019-12-02T15:54:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803600"
         }
     ],
     "text": [
