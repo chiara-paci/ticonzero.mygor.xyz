@@ -54,7 +54,7 @@
     },
     "num_chars": 1783,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 802416,
@@ -70,6 +70,16 @@
             ],
             "timestamp": "2019-11-26T12:56:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45315-interludio//?do=findComment&comment=802416"
+        },
+        {
+            "post_id": 803582,
+            "text": [
+                "Grazie ! È un bel complimento!",
+                "e grazie per la canzone, conosco (poco) Lauzi ma non conoscevo quella canzone!",
+                "a presto!"
+            ],
+            "timestamp": "2019-12-02T14:20:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45315-interludio//?do=findComment&comment=803582"
         }
     ],
     "post_staff": [],
