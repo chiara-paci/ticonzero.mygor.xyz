@@ -50,9 +50,36 @@
     },
     "num_chars": 5685,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 803530,
+            "text": [
+                "Grazie del tuo commento e delle segnalazioni, .",
+                "Hai colto tutto perfettamente. Ho solo seguito in maniera pedissequa la traccia, che vincolava a questo scenario: un fiume con due sponde, una dove sorge una città che rappresenta il benessere, l'altra che rappresenta l'ignoto, e a nessuno è permesso di attraversare il fiume.",
+                "Ti ringrazio di cuore."
+            ],
+            "timestamp": "2019-12-02T09:17:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=803530"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 803530,
+            "text": [
+                "Grazie del tuo commento e delle segnalazioni, .",
+                "Hai colto tutto perfettamente. Ho solo seguito in maniera pedissequa la traccia, che vincolava a questo scenario: un fiume con due sponde, una dove sorge una città che rappresenta il benessere, l'altra che rappresenta l'ignoto, e a nessuno è permesso di attraversare il fiume.",
+                "Ti ringrazio di cuore."
+            ],
+            "timestamp": "2019-12-02T09:17:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=803530"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno: Al Madina.",
         "TC414",

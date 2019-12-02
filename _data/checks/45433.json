@@ -46,8 +46,17 @@
     },
     "num_chars": 5453,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803514,
+            "text": [
+                "Grazie Ghigo, ho dimenticato anche i reality"
+            ],
+            "timestamp": "2019-12-02T08:19:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45433-mi-131-difficile-molto-difficile//?do=findComment&comment=803514"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzanotte. Risveglio (con pesanti riferimenti alla traccia di mezzogiorno)",

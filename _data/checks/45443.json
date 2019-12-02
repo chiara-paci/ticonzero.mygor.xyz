@@ -43,7 +43,7 @@
     },
     "num_chars": 7477,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 803482,
@@ -54,7 +54,26 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803482"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 803513,
+            "text": [
+                "Ciao Inc, sempre bello ritrovarti qua.",
+                "Il tuo racconto mi è piaciuto, a partire dall'idea dello specchio. Devo ammettere che è stata la prima idea che ho avuto anche io quando ho letto la traccia: e se l'altra riva fosse solo un riflesso di questa riva? Anche se in modo più supercazzolaro pretenzioso (so fatto così), posso dire di essere partito dal tuo stesso appiglio.",
+                "Le ultime righe sono un po' tirate via, evidentemente ti mancava il tempo e/o i caratteri. Niente di grave, al MI è difficile tenere tutto perfettamente in equilibrio.",
+                "Solo una cosa:",
+                "Ma se è uno specchio, i due ragazzi non vedono il loro riflesso? Che mi sono perso?",
+                "Ciao"
+            ],
+            "timestamp": "2019-12-02T08:16:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803513"
+        }
+    ],
     "text": [
         "«Mi ami?",
         "«Sì.»",
