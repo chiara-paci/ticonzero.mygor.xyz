@@ -12,13 +12,40 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao e piacere di leggerti per la prima volta. Volevo commentare un racconto che mi potesse servire per postare, e ho scelto quello con meno commenti. Mi soffermerò in vari punti, durante la lettura, cercando di darti la mia opinione tecnica (abbastanza discutibile...), per quanto riguarda l'analisi del contenuto in sé, invece, la farò alla fine. Cominciamo:",
+                    "Toglierei le virgolette all'inizio nel discorso diretto, anche la virgola dopo i caporali. Infine, questo più che altro per mio gusto personale, eviterei l'abuso dei punti di sospensione, in questo caso stonano nella risposta dell'allievo, secondo me bastava una semplice virgola dopo il \"No\".",
+                    "Oddio... già 'sto docente mi sta simpatico. Tornando a noi, metterei una virgola dopo \"Bene\" e dunque togliere la maiuscola dopo... Noto che, in generale, ci sono un po' di sviste per quanto riguarda l'interpunzione (ad esempio metterei un punto dopo \"in piedi\", poi di nuovo dopo \"del terzo piano\" e così via), ma mi rendo conto che non sono cose gravi e dunque non le citerò tutte (anche perché, secondo me, basta farle notare una volta o due, poi il concetto arriva, per non parlare del fatto che potrebbero essere semplici sviste). In più non ho le competenze adatte per mettermi ad evidenziare ogni singola virgola fuori posto in un racconto (di 'ste sviste qui ne faccio anch'io). Però sì, insomma, darei un'occhiata in generale alle maiuscole nei discorsi diretti, e optare per una virgola o un punto dopo quest'ultimi.",
+                    "Qui ci sono un paio di refusi: l'accento su \"alzò\" e \"cercò\". In più aggiungerei un paio di virgole in questa parte: che, a tutti gli effetti, gli pareva un plotone... Giusto per non arrivare alla fine della frase senza fiato. ( :",
+                    "Qui metterei una virgola dopo \"Beh\"",
+                    "Qui penso ci vada \"vennero\", anche se, a dirla tutta, io con i tempi verbali non è che sono proprio il massimo... ma credo sia errato appunto",
+                    "refuso: Sì",
+                    "Questo pezzo è un po' da rivedere; a parte l'interpunzione eliminerei qualche dettaglio di troppo, come: \"a beneficio degli spettatori agli ultimi banchi\". Anche il dettaglio della pappagorgia, giusto perché non ce l'hai mai descritto, e dunque finisce per risultare un dettaglio superfluo.",
+                    "Anche questo \"procace assistente\" mi risulta superfluo",
+                    "Ma... ma... Ok, qui mi hai preso alla sprovvista!",
+                    "Beh, ehm, come dire... fa molto Joker (il film recentemente uscito intendo). Sarà che ultimamente lo vedo ovunque, visto che è un po' il nuovo fenomeno di massa... va beh, sorry per la digressione. ( :",
+                    "Allora, dopo averti annoiato (spero non troppo) con tutte le riprese di natura tecnica, passo alla ciccia del racconto. Dico fin da subito che non mi ha convinto molto questa storia; diciamo che l'ho trovata divertente sicuramente, spiazzante nel finale anche, ma, a fine lettura, non è rimasto ben altro. Ora, magari era semplicemente il tuo intento quello di scrivere una storiella senza alcuna pretesa, magari con lo scopo di sfogarsi nei riguardi di tutti quei professori stronzetti che, bene o male, abbiamo avuto un po' tutti, ma, per quanto concerne il mio gusto personale, non mi ha soddisfatto a pieno. Ci tengo a dire, comunque, che non ho trovato noioso il testo (e questo è comunque un pregio, secondo me), e, infine, ritengo che con una maggiore cura, magari con l'aggiunta di qualche contenuto in più (sempre in linea con la trama in questione, ovvio), potrebbe venir fuori un racconto più che buono. Questa è solo la mia opinione personale, dunque prendila per quella che è. Detto ciò, ti saluto, e a rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-12-01T10:53:07Z",
+            "title": "18 in giardino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45428-18-in-giardino//?do=findComment&comment=803342",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +53,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 8030,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

@@ -12,13 +12,42 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Forse è meglio punto e virgola. La frase che segue rafforza il concetto che esprimi prima.",
+                    "Il termine sortiva lo cambierei con suscitava. Sortire per me significa venir fuori, affaciarsi... però non ho controllato nei dizionari. Comunque non userei un termine ambiguo in questo caso.",
+                    "I due punti stavolta credo che vadano bene. Penso che in questa frase: ( identificato come un “intellettuale”, più o meno “maledetto” a seconda della sensibilità) dopo maledetto ci vada la virgola: io lo leggo come un inciso.",
+                    "Ai piagnistei",
+                    "la virgola dopo il che credo sia una scelta di stile. Lo leggo a voce alta e mi suona bene anche se la metto prima del pronome relativo.",
+                    "Anche qui, leggendo ad alta voce, mi mancano due virgole.",
+                    "Da veder sempre la faccia brillante della medaglia.",
+                    "Se non mi sbaglio dopo arte , non serve una pausa così forte.",
+                    "Riformulerei la frase sottolineata, crea un inciampo nella lettura. Poca cosa, ma sono dovuta tornare indietro.",
+                    "A parte i troppi Che inseriti, ometterei il titolo in quanto non aggiunge nessuna informazione importante. Sappiamo già che il discorso fra i due riguarda un libro.",
+                    "Ecco ho provato a dirti i miei dubbi sulla punteggiatura, spero che la cosa potrà aiutarmi.",
+                    "Il racconto mi è piaciuto anche se sicuramente hai fatto di meglio in passato. Un flusso di pensieri che alla fine lascia ad intendere come mai Capitan uncino, oggi palestrato e dedito al sesso, non scriva più, mentre il protagonista produce un buon romanzo, proprio dopo che è stato lasciato e mette il sesso in secondo piano.",
+                    "Avava ragione Platone?",
+                    "Alla prossima"
+                ]
+            ],
+            "timestamp": "2019-12-01T11:23:31Z",
+            "title": "Sublimazioni",
+            "url": "https://www.writersdream.org/forum/forums/topic/45351-sublimazioni//?do=findComment&comment=803357",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +55,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 8012,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 3,
     "post_after": [
         {

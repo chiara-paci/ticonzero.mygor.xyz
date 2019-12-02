@@ -12,13 +12,53 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Letto il tuo racconto, molto simpatico e catartico per tutti quelli che hanno incontrato almeno un docente universitario come quello da te descritto .",
+                    "Mi permetto di analizzare il tuo testo, secondo i miei gusti (ovviamente discutibili) e senza nessuna pretesa tecnica, dato che non ne possiedo le competenze. Pertanto spero di esserti utile per una riflessione sul tuo brano, ma sentuti libero di ignorare tutto ciò che non ritieni ti possa servire.",
+                    "Tutti quei segni di interpunzione di fila sono un po' bruttini, almeno per mio gusto. Potresti eliminare, innanzitutto, le virgolette usando il corsivo, poi (per quanto ho capito io di questo, spero di non dire cavolate) se metti il punto interrogativo dentro le caporali la virgola dopo che le hai chiuse non ci va. In ogni caso spero che passi qualcuno più bravo a darti il giusto consiglio, però davvero troppa roba in quel punto .",
+                    "Ti faccio una considerazione. La tipologia di prof che ti descrivi soprattutto in una facoltà molto popolosa come giurisprudenza, difficilmente ricorda quante volte uno studente si presenta all'esame. Di solito per certi docenti gli studenti sono numeri (di matricola, sai che a distanza di diciassette anni dalla mia Laurea ricordo ancora il mio? Mi sono accorta leggendo il tuo racconto che mi ha scatenato un sacco di ricordi) e nulla più. Eviterei pertanto di fargli dire la parte che ti ho barrato. Se è un'informazione che vuoi passare al lettore, la metterei nella riflessione dello studente.",
+                    "Prima farei firmare il prof e poi lo farei alzare in piedi. La vedo complicata una firma fatta per aria. Insomma mi immagino meglio il \"garbatissimo\" insegnante firmare seduto e poi alzarsi e fare il lancio del libretto.",
+                    "Io taglierei questa frase. È ovvio che li studente se li deve andare a riprendere. Le persone veramente malefiche sono di poche parole. Io accennerei solo al sorrisetto satanico e magari una riga sullo sconforto dello studente, che, sì ha passato l'esame, ma ha perso la dignità.",
+                    "Manca l'accento.",
+                    "Prima lo descriverei e poi lo farei alzare. Ti faccio l'esempio:",
+                    "Dai banchi dell’ultima fila, vestito con una﻿ giacca nera ed elegante﻿, Antonio si alzò.",
+                    "Anche qui, per mio gusto personale, metterei prima alcune considerazioni sul suo stato d'animo e poi l'azione. Inoltre anche qui ti ho segnato un refuso(manca un accento, per caso hai scritto da smartphone? Quando uso questo dispositivo anche io mi mangio gli accenti).",
+                    "Ecco la mia proposta,anche solo a titolo esemplificativo, se ti piace l'idea sono sicura saprai organizzare la frase in maniera migliore.",
+                    "Mentre attraversava i pochi metri che lo distanziavano da quello c﻿he gli pareva un plotone d’esecuzione con﻿ la mano destra stringeva il portafortuna metallico riposto nella tasca interna e cercava di mostrarsi tranquillo.",
+                    "Anche qui lascerei perdere la risposta imbarazzante e scontata del ragazzo. Alla domanda del prof l'occhio sfarfalka ma lui non risponde. L'occhio nervoso è già una risposta.",
+                    "Metterei la frase in grassetto col corsivo e leverei \"illuso\". È un'anticipazione non necessaria del seguito, nonché un'ingerenza/giudizio dell'autore che finora non è mai apparso nel testo.",
+                    "Manca una \"a\" dove ho messo X",
+                    "Secondo me la frase che ti ho segnato è un di più. È chiaro il fastidio provocato dalla brusca interruzione, non lo espliciterei.",
+                    "Non direi che si tratta di un uomo ggetto inutile .",
+                    "Vedrei meglio un vocativo:\"è l'ultima che fai, stronzo\", cioè Antonio si rivolge direttamente al prof.",
+                    "Allora il racconto è al a passato, qui non \"affonda\" ma \"affondava\". Comunque, non sono maestra di consecutio, non sono certa della giusta coniugazione, quel che però non mi suona bene è il verbo al presente.",
+                    "Meglio l'Emerito.",
+                    "Che favolosa conclusione, mi piace davvero! Catartica.",
+                    "Personaggi ben delineati, trama divertente, finale ad effetto che sorprende (fino all'ultimo non me l'aspettavo). Bel racconto, bravo.",
+                    "Spero di averti scritto qualcosa di utile.",
+                    "Talia"
+                ]
+            ],
+            "timestamp": "2019-12-01T08:02:17Z",
+            "title": "18 in giardino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45428-18-in-giardino//?do=findComment&comment=803311",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +66,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7207,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 2,
     "post_after": [],
     "post_staff": [],

@@ -55,7 +55,7 @@
     },
     "num_chars": 5774,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 802329,
@@ -101,7 +101,28 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=802910"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 803475,
+            "text": [
+                "Questo attacco mi fa pensare a un adulto che parla a un bambino, poi invece si capisce che i due hanno la stessa età.",
+                "Insomma, perché mai Carlo dovrebbe iniziare a raccontare una storia così? Poi emerge il lato più scherzoso del racconto, ma questo inizio destabilizza sicuramente il lettore. Che sia un tentativo di meta-qualcosa? Il c’era una volta è l’incipit per antonomasia, quello da cui si parte quando non si sa come partire e che cosa dire. Il tuo personaggio comincia proprio così a raccontare una storia sconclusionata. Evidentemente non sa dove andrà a parare e... ho come l’impressione che sia iniziata in questo modo anche per te, in questo caso, ma potrei sbagliarmi.",
+                "È un pezzo strano. Ripeto, ho l’impressione che tu abbia scritto la prima frase che ti è venuta in mente per poi costruirci sopra tutto il resto andando avanti un pezzo alla volta. Il botte e risposta a tratti demenziale che troviamo all’inizio sembra costruito per prendere tempo, come a dire “ok, ragazzi, tenete impegnato il lettore finché non capisco come uscirne”. Poi li hai fatti fuori, infatti, non appena ti è venuta in mente l’idea della “favola”.",
+                "La favola non l’ho capita bene. Potrebbe essere una storia semplice, la solita storia degli animali che si aiutano a vicenda per sfuggire alle grinfie degli umani. Se non fosse che qui abbiamo un pollo che dà da mangiare pollo a un gatto. Dovrebbe significare qualcosa? Non ci arrivo, sono stanco. Forse non significa nulla, in fondo la favola finisce con due polli che si fanno gli occhi dolci.",
+                "Anche la scrittura è molto semplice. I dialoghi sono secchi, non seguono tag o descrizioni.",
+                "Forse hai davvero cercato di scrivere qualcosa di sensato partendo da un appiglio qualunque.",
+                "Forse invece la tua fiaba vorrebbe insegnare qualcosa, che al momento mi sfugge.",
+                "Sicuramente il rapporto tra la fiaba e l’inzio/fine del racconto è strano; il dialogo tra i due amici rende difficile prendere sul serio il contenuto del racconto. Per ora riesco a considerare il tuo racconto solo come un esperimento, ma vorrei sapere se sono totalmente fuori strada."
+            ],
+            "timestamp": "2019-12-01T22:59:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=803475"
+        }
+    ],
     "text": [
         "“C'era una volta un gattino abbandonato che veniva adottato da un pollo alato.” raccontava Carlo.",
         "“Un pollo alato?!” rispondeva Luigi.",

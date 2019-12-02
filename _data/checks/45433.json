@@ -12,13 +12,32 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    ", a me la favola raccontata ai bambini proprio non è venuta in mente. Come pure non credo abbia molto senso parlare di trama, storia, morale e così via, almeno per quanto riguarda la parte iniziale. Ci vedo invece un gioco molto intelligente, libero da ogni schema e forma: una campanilata in salsa moderna, per intenderci. Me ne sono accorto subito, quando hai usato l’imperfetto “raccontava Carlo” e “rispondeva Luigi”, laddove una favola che inizia con “c’era una volta” esige il passato o il presente del nonno raccontatore, non c’è discussione, mentre il tempo verbale scelto evidenzia subito una dimensione differente, anche se non sappiamo ancora quale.",
+                    "Poi, però, si scopre che la dizione “pollo alato” non equivale assolutamente a quella di “cane zampato”, ma è dettata da esigenze di rima. Una poesia, quindi, il cui fascino e ritmo devono soccombere a fronte delle domande incalzanti di Luigi che pretendono risposte puntuali da parte di Carlo. Per cui l’affare non può che smosciarsi poiché si perdono la magia del momento e l’emozione che sta alla base di ogni storia malinconica che si rispetti. In questa fase mi ha ricordato molto “Ditegli sempre di sì” del Grande Eduardo, dove la pseudo poesia cimiteriale viene distrutta e smascherata dallo schematismo psichiatrico di Michele. Perché mai il protagonista principale si chiama Sergio Proculo? Ma ovviamente per far rima con “loculo”, come si scoprirà in seguito!",
+                    "Poi le parti a sorpresa si invertono e i dialoghi vanno avanti, sempre in modo simpatico, sino a che Carlo riprende il filo del discorso e apprendiamo il motivo della fortuna del pollo, la preoccupante preferenza gastronomica del gattino e la definizione puntuale del termine “pollo”.",
+                    "Ciò che segue, sino al termine, è a mio avviso la parte meno riuscita e convincente del testo, che interferisce con la prima perché abbandona il “gioco” linguistico “giocato” sul filo della logica prestata all’assurdo, per giungere a una realtà meno divertente e più pedestre e concreta, ma parecchio più pesante e inconcludente. Peccato! Avrei preferito che finissi come avevi iniziato, con lo stesso registro. Cosa non facile, forse, ma penso più che possibile per uno come te. A mio avviso avresti dovuto trovare una bella idea per troncare il testo senza giungere a fabbriche di scatolette e affini e neppure ai commenti, fuori luogo ma non certo demenziali, del due amici divenuti improvvisamente seri e noiosi."
+                ]
+            ],
+            "timestamp": "2019-12-01T18:27:47Z",
+            "title": "Il pollo e il gattino",
+            "url": "https://www.writersdream.org/forum/forums/topic/45360-il-pollo-e-il-gattino//?do=findComment&comment=803424",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,8 +45,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 5453,
-    "num_commenti": 0,
-    "num_posts": 3,
+    "num_commenti": 1,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [],
     "text": [

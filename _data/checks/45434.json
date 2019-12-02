@@ -12,13 +12,37 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Sia il tipo di scarpa che il colore andrebbero senza maiuscola.",
+                    "Qui mi sembra ci sia una sfasatura coi tempi. Mi pare poco probabile che se il ritrovamento del corpo è avvenuto nelle prime ore del mattino compaia l'articolo di giornale, che sarebbe già in stampa.",
+                    "Manca il ?",
+                    "Se intendevi che l'accende per breve tempo penso che sarebbe meglio specificare, perché così sembra che ne calibri la quantità. Es: Accende l'aria condizionata per qualche minuto oppure Da un colpo d'aria condizionata per aerare...",
+                    "Anche qui riformulerei perché così sembra che la serratura si trovi dentro il locale.",
+                    "Qui invece manca una virgola dopo \"guida\".",
+                    "Ciao . Un racconto sull'etica stradale ma anche sul rimorso (e la coda di paglia del protagonista). Secondo il mio modesto parere lo hai sviluppato bene, instillando nel protagonista e nel lettore quella giusta dose di dubbio che propende a far credere nella sua colpevolezza, mentre invece le ultime battute svelano la verità. Però sarebbe potuto benissimo essere stato lui, così come io o te o qualunque altro. Ma il mandante, almeno, è quasi sempre la distrazione, quell'attimo che è niente ma diviene fatale. Difatti trovo apprezzabile che tu non abbia tirato in ballo alcol o fumo, ma ti sia tenuta su un registro meramente umano, privo di contaminazioni. Al di là della guida in stato alterato da alcol e fumo (che personalmente considero criminali) quello dell'attenzione dovrebbe essere un tasto su cui battere quotidianamente, con tutte le fonti tecnologiche che ormai concorrono a strapparci lo sguardo dalla strada anche solo per quell'istante fatidico.",
+                    "L'unica cosa che non ho capito, o afferrato del tutto, è quell'intermezzo della scala, che mi risulta in sospeso. Cioè, se l'hai inserito credo che per te abbia una sua funzionalità al racconto, ma che io non ho colto. Perché quella scala ha calamitato l'interesse del protagonista? Forse che gli abbia suggestionato inconsciamente un segno premonitore o qualcosa di scaramantico? Secondo me, inserendo questo elemento avresti dovuto riprenderlo e richiamarlo alla mente del protagonista così da poter esplicare il proprio turbamento a quella visione.",
+                    "In conclusione, l'ho apprezzato perché è uno di quei racconti che ti portano a riflettere e ringraziare la clemenza di tutti quei minimali attimi di distrazione che ci siamo concessi e fortunatamente non ci hanno cambiato la vita."
+                ]
+            ],
+            "timestamp": "2019-12-01T20:08:04Z",
+            "title": "Colpevole?",
+            "url": "https://www.writersdream.org/forum/forums/topic/45396-colpevole//?do=findComment&comment=803435",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +50,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 3863,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
