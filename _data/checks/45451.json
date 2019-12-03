@@ -53,8 +53,18 @@
     },
     "num_chars": 505,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 803759,
+            "text": [
+                "Grazie di cuore . La mancanza di punteggiatura è voluta, hai ragione, deve sentirsi un po' dell'elenco di una telescrivente. È un elenco di immagini e flash che spesso saltano apparentemente da un palo all'altro: la tendinite è il dolore alle articolazioni di chi scrive troppo su un cellulare, di lì il rimando alla scrittura, poco consapevole però, poco pensato. Devo sistemare ancora qualcosa, ad esempio quel costante alla fine che forse pesa troppo con il 'costitutivo' precedente e forse deve diventare 'regolare'.",
+                "grazie ancora!"
+            ],
+            "timestamp": "2019-12-03T11:56:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45451-le-propriet%C3%A0-delladdizione//?do=findComment&comment=803759"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Quantificare la tua presenza",
