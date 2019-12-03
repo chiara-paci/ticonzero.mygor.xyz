@@ -70,7 +70,7 @@
     },
     "num_chars": 9889,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 803656,
@@ -135,6 +135,20 @@
             ],
             "timestamp": "2019-12-02T09:12:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45430-i-gemelli-siamesi-elleryqueffe-processo-e-condanna//?do=findComment&comment=803526"
+        },
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 803692,
+            "text": [
+                "Infatti speravo proprio che tu osassi di più!",
+                "Ti attendiamo... al varco."
+            ],
+            "timestamp": "2019-12-03T08:00:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45430-i-gemelli-siamesi-elleryqueffe-processo-e-condanna//?do=findComment&comment=803692"
         }
     ],
     "text": [
