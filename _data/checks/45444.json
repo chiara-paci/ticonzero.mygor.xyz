@@ -50,7 +50,7 @@
     },
     "num_chars": 3187,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 803483,
@@ -74,6 +74,22 @@
             ],
             "timestamp": "2019-12-01T23:10:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803483"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 803804,
+            "text": [
+                "la prosa mi ha convinto appieno. Ha una musicalità e una forza d'immagine che non può lasciare indifferente neppure un lettore disattento (che per fortuna non sono ). Mi colpisce \"l'altra strada\" che talvolta il testo prende per presentare un concetto, descrivere una situazione, una sensazione; questa serie di scelte non banali è il punto cardine di un testo che — di fatto — dal punto di vista dei contenuti esce poco fuori dai confini di quanto già detto nella traccia stessa.",
+                "Sono incuriosito dal numero di volte che hai nominato la città, e mi chiedo se c'è un significato oppure è uscito così, sempre per questioni di musicalità, e magari anche d'istinto.",
+                "Avrebbe potuto funzionare meglio con un po' di drammatizzazione in più? Non so. La brevità per molti è un pregio, e drammatizzando gli spazi si dilatano.",
+                "Insomma, mi ha saputo colpire più di quanto mi aspettassi. Complimenti, ferro rugginoso."
+            ],
+            "timestamp": "2019-12-03T15:31:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803804"
         }
     ],
     "text": [

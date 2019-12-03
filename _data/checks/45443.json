@@ -61,7 +61,7 @@
     },
     "num_chars": 7477,
     "num_commenti": 2,
-    "num_posts": 12,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 803482,
@@ -94,6 +94,25 @@
             ],
             "timestamp": "2019-12-02T18:38:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803631"
+        },
+        {
+            "post_id": 803800,
+            "text": [
+                "Ciao! Grazie per il commento e felice di averti stupito",
+                "Era alla deriva vicino allo specchio e ho giocato su questo elemento grazie per il commento!",
+                "Loro non si vedono perché ho immaginato uno specchio sporco, opaco, ma non sono riuscito a renderlo al meglio purtroppo! Felice per le sensazioni del finale, perché era proprio ciò che volevo rendere",
+                "Felice di aver lasciato anche a te una buona sensazione! Grazie per il commento"
+            ],
+            "timestamp": "2019-12-03T15:10:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803800"
+        },
+        {
+            "post_id": 803805,
+            "text": [
+                "Ti ringrazio! Nel film non c'è propriamente uno specchio e non era mia intenzione fare un omaggio o citarlo, ma ci sono state tante letture in quella chiave a quanto pare e bene così, perché è un capolavoro! (vedilo, fatti un favorone )"
+            ],
+            "timestamp": "2019-12-03T15:35:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803805"
         }
     ],
     "post_staff": [
@@ -141,6 +160,21 @@
             ],
             "timestamp": "2019-12-02T15:54:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803600"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 803801,
+            "text": [
+                "Io non ho visto il film cult a cui rendi omaggio, . Lo so, e ti chiedo di astenerti da commenti... con il cinema ho rapporto timido e in evoluzione costante seppure timida. Prima o poi ci arriverò.",
+                "Questo per arrivare a dire che non ho potuto cogliere i riferimenti come tali, ma sono venuto a conoscenza dell'espediente \"specchio\" come una cosa nuova. E m'è garbato parecchio.",
+                "La prosa viaggia, ed è concreto il rapporto fra i due. L'ho trovato un testo apprezzabile, confezionato con buona cura."
+            ],
+            "timestamp": "2019-12-03T15:17:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45443-mi-131-sul-nahr//?do=findComment&comment=803801"
         }
     ],
     "text": [

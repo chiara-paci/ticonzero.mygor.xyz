@@ -54,8 +54,28 @@
     },
     "num_chars": 4741,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 803784,
+            "text": [
+                ", Ciao e grazie mille a entrambi per i commenti e per le correzioni e i consigli, mi sono accorta poi di qualche svista.",
+                "Pensavo al topo del Parmareggio, ma potrebbe anche essere un'imitazione con un altro topo bianco",
+                "Si può appisolarsi anche per pochi istanti e fare un sogno completo. Ho immaginato che un po' il troppo \"champagne\" (che ovvviamente non è vero champagne, ma qualche imitazione) e un po' la conversazione noiosa gli avessero fatto quest'effetto...",
+                "In ogni caso è un raccontino un po' surreale senza troppe pretese di verosimiglianza, ma sono contenta se strappa almeno un sorriso."
+            ],
+            "timestamp": "2019-12-03T13:44:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto//?do=findComment&comment=803784"
+        },
+        {
+            "post_id": 803819,
+            "text": [
+                "Grazie! Sono contenta di risentirti e anche che ti sia piaciuto il racconto. Mi spiace solo di non essere riuscita a partecipare al MI, magari ci incroceremo ancora al prossimo contest"
+            ],
+            "timestamp": "2019-12-03T17:19:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto//?do=findComment&comment=803819"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzanotte-Risvegli",
