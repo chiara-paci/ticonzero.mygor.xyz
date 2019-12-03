@@ -51,7 +51,7 @@
     },
     "num_chars": 3863,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 803639,
@@ -83,6 +83,14 @@
             ],
             "timestamp": "2019-12-02T21:52:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803668"
+        },
+        {
+            "post_id": 803846,
+            "text": [
+                "Grazie."
+            ],
+            "timestamp": "2019-12-03T19:45:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803846"
         }
     ],
     "post_staff": [],

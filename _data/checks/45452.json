@@ -56,8 +56,20 @@
     },
     "num_chars": 5200,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 803838,
+            "text": [
+                "Ciao , grazie mille per il commento!",
+                "Diciamo che questo racconto non ha convinto neppure me, l'ho scritto in un paio di orette domenica sera, l'ho trovato privo di mordente e non l'ho terminato per il MI. Sinceramente non avevo compreso dove risiedesse il problema principale finché non me lo hai indicato tu, di questo ti ringrazio sinceramente. Il narratore è troppo freddo, quasi distaccato, rileggendolo ora me ne rendo perfettamente conto.",
+                "Credo di averlo reso male, lui li vede a tratti. Ha una visuale statica essendo paralizzato, spesso capisce chi è a parlare chi è a parlare dalla voce e non perché lo vede direttamente farlo. Avrei dovuto inserire meglio questa cosa o eliminare il riferimento, diciamo che mi è sfuggito.",
+                "Credo di aver iniziato con lo stile sbagliato e tutto è venuto di seguito. Grazie ancora ed un saluto!"
+            ],
+            "timestamp": "2019-12-03T19:01:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=803838"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzanotte. Non mi ha convinto molto questo racconto e quindi ieri, in mancanza di buone idee in corso di scrittura, l'ho lasciato a metà. Oggi ho deciso di inviarlo comunque come fuori concorso.",
