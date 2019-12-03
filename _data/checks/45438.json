@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 803578,
@@ -86,6 +86,15 @@
             ],
             "timestamp": "2019-12-02T20:55:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803657"
+        },
+        {
+            "post_id": 803830,
+            "text": [
+                "E io te la concedo volentieri, visto che i desideri individuali di Sara, che come hai ben detto è un personaggio tragico, sfuggono alla comprensione degli abitanti della città perfetta. In questo è sola e Sara è costretta a partire dal desiderio di altrove che le monta dentro e non le da scelta se non quella di seguirlo. Dove? Vai tu a capirlo.",
+                "Grazie del passaggio e dell'apprezzamento,"
+            ],
+            "timestamp": "2019-12-03T18:30:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803830"
         }
     ],
     "post_staff": [],
