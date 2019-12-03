@@ -54,7 +54,7 @@
     },
     "num_chars": 8030,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 803575,
@@ -64,9 +64,37 @@
             ],
             "timestamp": "2019-12-02T13:37:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=803575"
+        },
+        {
+            "post_id": 803716,
+            "text": [
+                "Grazie mille per aver lasciato il vostro parere e per i vostri apprezzamenti. ( :",
+                "Ahah, non c'è di che!"
+            ],
+            "timestamp": "2019-12-03T09:50:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=803716"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 803751,
+            "text": [
+                "Quello che funziona nel racconto è la voce autoriale che sta iniziando a emergere in diversi tuoi scritti, , segno che ti stai incamminando su un certo percorso. E la trovo una cosa magnifica.",
+                "L'interpretazione di benessere, un benessere del tutto illusorio, l'ho trovata efficace. E lo stile caotico accentua le caratteristiche dell'ambientazione che hai scelto di disegnare, un'amalgama ben congegnata. Una solidità confermata dal finale, perfettamente in tinta.",
+                "Vorrei azzardare un suggerimento. Osservo ancora una mancanza di equilibrio: il caos voluto dello stile a volte va a discapito della chiarezza. Per ottenere la massima efficacia dovresti, secondo me, ricercare un po' più di equilibrio. Sospetto che la fumosità di alcuni passaggi sia stata accentuata dalla necessità di risparmiare caratteri, ma non ne sono del tutto sicuro. Indipendentemente da quale sia la causa, il mio consiglio è quello di tornare sul brano, o su un qualsiasi testo della tua produzione recente, e di provare a raggiungere il bilanciamento ottimale.",
+                "Io cerco sempre di dare uno spunto per spingersi al di là, ma ciò non toglie nulla al presente: un buonissimo lavoro, di cui apprezzo in particolar modo la ricerca espressiva personale.",
+                "Ho notato questa sbavatura:",
+                "Ci vorrebbe un \"adesso\" o simili, altrimenti è riferito al passato contravvenendo alla scelta di tempo della narrazione."
+            ],
+            "timestamp": "2019-12-03T11:18:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=803751"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno. Al Madina",
         "Quando arrivo nel quartiere a luci rosse di Al Madina percepisco l'incremento d'ossitocina, Sia chiaro: non mi frega un cazzo delle cosce al vento e dei seni prorompenti, ma le luci al neon, che accarezzano le mura di quei soffocanti vicoletti, mi rilassano gli occhi. Sono stanco del buio del mio appartamento, stanco di dovermi rintanare per piangere; se vuoi sfogarti, chiudi le finestre, mi dice sempre mia moglie. Sia mai che qualcuno ci scopra, da queste parti se sei triste hai bisogno di un medico, se sei depresso sei merce avariata. Maria, oh, la mia dolce empatica Maria; occhi gonfi, guance rigate dal mascara; con in mano un fazzoletto bagnato nel quale farle affondare. E il suo livello di ossitocina? Lasciamo stare. Se piange piango anch'io, in poche parole per me il sole si alza e tramonta con lei.",
