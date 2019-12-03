@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "ciao",
+                    "Molto bella questa poesia. Hai saputo creare una metafora in modo molto efficace per esprimere l'idea della fine di un amore. Nella mosca morta, infatti, ravvedo l'immagine di un amore a pezzi. Il fatto che entrambi i coniugi non si siano accorti che il cadavere dell'insetto stava in cucina da molto tempo rende bene l'idea di quanto essi non abbiano capito che il loro amore stava andando in frantumi già da tempo. L'intera composizione suggerisce un'atmosfera di incomunicabilità fra i due; non a caso, entrambi si reputano innocenti rispetto alla morte della mosca, quindi è come se si rendessero conto solo ora di quanto stia accadendo nel loro rapporto, senza riuscire ad assumersi le responsabilità reciproche.",
+                    "Lo stile della composizione è colloquiale ma al contempo curato ed elegante, ricco di suggestive immagini.",
+                    "Molto bella l'idea delle domande che scrocchiano come “Gusci di pistacchio abbandonati sulla tavola... Vecchie tazzine di porcellana dimenticate in una credenza.",
+                    "Hai saputo trattare un tema abbastanza ordinario – la fine di una storia – in modo originale, efficace e mai banale, inserendolo in un contesto di quotidianità domestica ma senza scadere in un dramma melenso e sdolcinato."
+                ]
+            ],
+            "timestamp": "2019-11-10T20:55:26Z",
+            "title": "Scene di un crimine",
+            "url": "https://www.writersdream.org/forum/forums/topic/45135-scene-di-un-crimine//?do=findComment&comment=799068",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 354,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento al testo altrui",
+        "L'amore mi scalda",
+        "quanto un fiammifero",
+        "una casa d'inverno.",
+        "Il calore",
+        "di un termosifone per ogni stanza",
+        "non l'ho mai conosciuto.",
+        "Soltanto una volta",
+        "mi è stata donata",
+        "una stufetta al quarzo:",
+        "più potente di un cerino",
+        "ma non abbastanza",
+        "da tenere acceso",
+        "oltre al mio cuore",
+        "anche quello di chi mi stava accanto,",
+        "una volta usciti",
+        "dalla camera da letto."
+    ],
+    "timestamp": "2019-11-10T20:57:12Z",
+    "title": "Fiammifero",
+    "topic_id": 45162,
+    "url": "https://www.writersdream.org/forum/forums/topic/45162-fiammifero/"
+}

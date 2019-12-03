@@ -1,0 +1,137 @@
+{
+    "author": {
+        "author_id": 31665,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Aragorn86",
+        "url": "https://www.writersdream.org/forum/profile/31665-aragorn86/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.59
+            },
+            "text": [
+                [
+                    "Tema che trovo commovente, e sul quale ho riflettuto spesso. Lo considero molto attuale, perché credo che molti giovani oggi vadano avanti piú per gli altri che per sé stessi. Si dovrebbe vivere innanzitutto perché si sente che ne vale la pena e poi per la gioia degli altri. Ma tu esprimi questa drammaticitá in modo semplice e chiaro, con l'immagine delle nuvole nel cielo che contrasta con la violenza della caduta e della morte.",
+                    "che anche la sua vita -",
+                    "non soltanto la mia -",
+                    "andrebbe in frantumi",
+                    "Come se il tuo corpo fosse un vaso che cade e si spezza in tanti frammenti, e cosí anche il cuore di tua madre. Sí, commovente davvero."
+                ]
+            ],
+            "timestamp": "2019-11-14T19:42:20Z",
+            "title": "Nuvole",
+            "url": "https://www.writersdream.org/forum/forums/topic/44872-nuvole//?do=findComment&comment=799720",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao! L'immagine che hai creato in questi versi ha una certa forza e mi ha colpito. Non ho capito se tu ti riferissi proprio a questo, ma io ci ho visto un amore nel quale tu hai riposto delle speranze che poi sono state deluse. Forse è una personalizzazione, ma questa è la sensazione che mi dà.",
+                    "Non ho capito bene se è una scelta, ma vedo che non vi è punteggiatura. Secondo me ci vorrebbe per dare un certo ritmo al testo, che altrimenti perde colore. In alcuni casi se ne potrebbe fare a meno, nelle prime strofe per esempio. Comunque, anche un cambiamento di posizione potrebbe rendere le parole più fluide, e porre l’accento sul soggetto, risaltandolo.",
+                    "Confronta con questa versione:",
+                    "Sognavo sbocciassi fra le mie dita",
+                    "come primula in un vaso",
+                    "da ritrovare ogni giorno,",
+                    "alla finestra.",
+                    "Ma tu,",
+                    "su questo palmo hai posato il seme",
+                    "per disegnare ﻿nella condensa",
+                    "appena un fiore, da vedere svanito",
+                    "di lì a breve.",
+                    "Poi non so se vi è un motivo preciso dietro la scelta delle posizioni e l’assenza di punteggiatura. Che ne pensi?"
+                ]
+            ],
+            "timestamp": "2019-11-16T16:39:11Z",
+            "title": "Disegni nella condensa",
+            "url": "https://www.writersdream.org/forum/forums/topic/45149-disegni-nella-condensa//?do=findComment&comment=800107",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 625,
+    "num_commenti": 2,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 799729,
+            "text": [
+                "purtroppo il commento che hai allegato non sufficientemente approfondito per proporre un tuo testo in officina. Devo chiudere.",
+                "Per riaprire dovrai fare un commento più esaustivo a un testo qualsiasi in officina e inviarne il link tramite MP a uno staffer."
+            ],
+            "timestamp": "2019-11-14T20:20:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45209-odiami//?do=findComment&comment=799729"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 800108,
+            "text": [
+                "."
+            ],
+            "timestamp": "2019-11-16T16:52:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45209-odiami//?do=findComment&comment=800108"
+        }
+    ],
+    "text": [
+        "Odiami, piuttosto odiami!",
+        "Non darmi la tua gentilezza, ragazza",
+        "Se il mio amore non ricambi.",
+        "Sono esse la morte di ogni cosa,",
+        "Di ogni sentimento.",
+        "Non darmi un sorriso",
+        "Se non mi ami, allora odiami!",
+        "Sorriso di circostanza",
+        "Mi spezzi il cuore in due",
+        "Ogni giorno.",
+        "Senza poter guarire,",
+        "Odiami, allora odiami!",
+        "Puoi farmi sentire più vivo insultandomi",
+        "No, non quel sorriso",
+        "Non quella parola gentile.",
+        "Il Grigio è la morte",
+        "Il Bianco e il Nero creano la vita",
+        "Gioia e Dolore sono i poli",
+        "Che generano luce e movimento.",
+        "Dammi due estremi per rendermi vivo,",
+        "Non il grigiore del nostro mondo",
+        "Dove sopporto ogni giorno la morte",
+        "Perché la morte non è nera ma grigia."
+    ],
+    "timestamp": "2019-11-14T20:01:48Z",
+    "title": "Odiami",
+    "topic_id": 45209,
+    "url": "https://www.writersdream.org/forum/forums/topic/45209-odiami/"
+}

@@ -1,0 +1,124 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9866666666666667,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9866666666666667
+            },
+            "text": [
+                [
+                    "Ciao. Sarò diretto e senza mezzi termini, l'onestà è l'unico mezzo che abbiamo per migliorare. Metafora veramente troppo banale.",
+                    "Ok, comprendo il voler continuare l'analogia per dar chiarezza al lettore ma, come la precedente, questa metafora non ha presa alcuna. Potevi creare un ambiente alla Rembrandt ma qui stiamo cadendo nel libro cuore (ehi, attenzione, non è una critica obbiettiva ma soggettiva, perché questi sono i testi che hanno più successo al giorno d'oggi).",
+                    "Al di fuori della critica metrica e tecnica che si potrebbe sollevare sul componimento, continuiamo in metafore (permettimi) scadenti che cadono, a tratti, nell'adolescenziale. Potevi creare un ambiente che rappresentasse al meglio questo senso di solitudine amorosa, di questa mancata capacità di \"infiammare\" l'altro. Infatti, così come nei tuoi versi, non sei riuscita a scaldare neanche me come lettore. Poesia completamente asettica. Leggerò altre tue poesie per comprendere ancor meglio il tuo stile. A presto."
+                ]
+            ],
+            "timestamp": "2019-11-12T18:19:17Z",
+            "title": "Fiammifero",
+            "url": "https://www.writersdream.org/forum/forums/topic/45162-fiammifero//?do=findComment&comment=799378",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1125,
+    "num_commenti": 1,
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 801362,
+            "text": [
+                "grazie ad entrambi per i commenti preziosi. Non rivelerò nulla sulla poesia, ma sono estremamente contento delle riflessioni che ha fatto scaturire in voi. A presto."
+            ],
+            "timestamp": "2019-11-21T17:40:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=801362"
+        },
+        {
+            "post_id": 802688,
+            "text": [
+                "Grazie mille per il tuo commento/analisi"
+            ],
+            "timestamp": "2019-11-27T13:32:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=802688"
+        },
+        {
+            "post_id": 802691,
+            "text": [
+                "ciao. Apprezzo le critiche, di qualsiasi tipo esse siano: criticare vuol dire non essere indifferenti, nel bene e nel male. Tornando alla chiusa, oggetto di maggiore discussione. Lascio spazio all'interpretazione. Ogni persona (come è giusto che sia) può dare al re della scacchiera il significato che preferisce, che sente. In realtà non ho pensato a nulla di specifico nella chiusa, non è stata ragionata: è venuta fuori così."
+            ],
+            "timestamp": "2019-11-27T13:35:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=802691"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "CON UN FUCILE IN BOCCA",
+        "Sono sincero.",
+        "Mi sparerei in bocca",
+        "per spargere sul muro",
+        "tutta la merda",
+        "che ho nel cervello.",
+        "Chissà che fetore",
+        "ci sarebbe nel salotto:",
+        "il medico legale",
+        "leggerebbe nella mia carne",
+        "le pagine di dolore e angoscia",
+        "che mi hanno portato a questo epilogo.",
+        "Impiccarmi, impiccarmi proprio no.",
+        "Agitarmi per qualche secondo,",
+        "soffocare, se non si spezza il collo …",
+        "Bollo auto, tasse, casse",
+        "silenziose in chiese nere,",
+        "preghiere e dichiarazione dei redditi ….",
+        "volevo solamente scrivere",
+        "qualche parola del cazzo",
+        "e farla suonare bene,",
+        "alleggerire le pene",
+        "e scaricarle in qualche verso,",
+        "nel vortice che porta alle fogne",
+        "della liberazione.",
+        "Qualche canzone, qualche rimetta",
+        "che mi facesse ricordare",
+        "la tetta focosa di una lupa in calore,",
+        "l’amore ululato di una spiaggia",
+        "selvaggia nei chiarori di luna.",
+        "La poesia mi ha deluso,",
+        "è stata l’abuso di vizi",
+        "nei quali ho cercato l’infinito,",
+        "sfinito dell’essere uno scarafaggio,",
+        "un raggio di sole occasionale,",
+        "un petardo inesploso.",
+        "Sono sincero.",
+        "Mi sparerei, se non fossi un codardo.",
+        "Dicono che i suicidi sono dei vigliacchi,",
+        "ma sono gli unici ad aver compreso",
+        "che in questa partita a scacchi",
+        "non abbiamo mai avuto un re."
+    ],
+    "timestamp": "2019-11-12T18:53:32Z",
+    "title": "Con un fucile in bocca",
+    "topic_id": 45184,
+    "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca/"
+}

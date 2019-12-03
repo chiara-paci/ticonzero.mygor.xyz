@@ -1,0 +1,132 @@
+{
+    "author": {
+        "author_id": 28093,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Edu",
+        "url": "https://www.writersdream.org/forum/profile/28093-edu/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , m fa molto piacere tornare a leggere qualcosa di tuo, davveramente davvero.",
+                    "Ti farò le pulci perché è un commento per postare.",
+                    "Iniziamo.",
+                    "mmm... qui c'è qualcosa che non va. Il soggetto è \"un susseguirsi\", mentre il verbo è coniugato al plurale di immagini. Io rivedrei.",
+                    "perché questo a capo?",
+                    "forse \"più\" è un resfuso? è scappato? non mi è chiaro il senso",
+                    "Al di là delle annotazioni formali che ti ho fatto, l'incipit è molto bello. Disegni una scena e un paesaggio che fanno da contraltare al paesaggio interiore di Nino. E ci dai subito un sapore, un'atmosfera. Penso che in questa tua caratteristica si senta molto delle tue letture calviniane. E prendilo come un complimento perché lo è.",
+                    "Bello pure questo. Ma anche questo può essere limato. Potresti rendere la metafora un po' più immediatamente digeribile: per coglierla, così, bisogna interrompere la lettura e pensarci. E poi: che è successo al tasto enter, perché questi a capo?",
+                    "qui metterei un segno di punteggiatura che marchi di più lo stacco, un punto e virgola o un due punti, se non proprio un punto",
+                    "Vabbé, non te lo ripeterò più, ci deve essere stato un problema con il tasto invio, o di formattazione. Addolcirla dalle pieghe mi sembra un'espressione un po' strampalata",
+                    "pure qua qualcosa è un po' arzigogolato. Riformulerei spezzando le frasi e semplificando. Nell'immaginazione di Nino, era una voce da un settantenne",
+                    "Questa idea è ottima",
+                    "Allora, Luca, c'è qualche imperfezione formale su cui potresti lavorare di lima. Ma l'idea c'è e il racconto, per me, è molto bello. Si vede, lo ribadisco, che sei un lettore duro. E hai una bella fantasia, mai fine a se stessa, vivida e intelligente. Bravo. Se proprio proprio vogliamo, ti consiglierei di calcare un po' meno la mano sul contrasto campagna/città, tanto emerge chiaramente anche con meno indizi."
+                ],
+                [
+                    "Ti aggiungo che a me il finale è piaciuto, non mi ha lasciato un senso di incompiutezza ma di sospensione."
+                ]
+            ],
+            "timestamp": "2019-12-01T16:06:02Z",
+            "title": "Le avventure di Nino. La stazione.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=803408",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 5712,
+    "num_commenti": 1,
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 803578,
+            "text": [
+                ", , , grazie per il passaggio e per le dritte",
+                "è il caso di dirlo: acqua",
+                "Beh, la metafora non era difficile da cogliere, la città con la sua asfissiante perfezione e il mare come desiderio di altrove, che quando irrompe può travolgere tutto"
+            ],
+            "timestamp": "2019-12-02T14:01:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803578"
+        },
+        {
+            "post_id": 803611,
+            "text": [
+                "Non sono una donna, ma sono una santa",
+                "Grazie mi fa piacere che ti sia arrivato e che ti sia piaciuto. La tua osservazione finale, non scontata, pure la Sottoscrivo. A presto"
+            ],
+            "timestamp": "2019-12-02T16:54:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803611"
+        },
+        {
+            "post_id": 803657,
+            "text": [
+                ", , grazie mille a entrambi"
+            ],
+            "timestamp": "2019-12-02T20:55:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803657"
+        },
+        {
+            "post_id": 803830,
+            "text": [
+                "E io te la concedo volentieri, visto che i desideri individuali di Sara, che come hai ben detto è un personaggio tragico, sfuggono alla comprensione degli abitanti della città perfetta. In questo è sola e Sara è costretta a partire dal desiderio di altrove che le monta dentro e non le da scelta se non quella di seguirlo. Dove? Vai tu a capirlo.",
+                "Grazie del passaggio e dell'apprezzamento,"
+            ],
+            "timestamp": "2019-12-03T18:30:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803830"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzogiorno. Al Madina",
+        "Ogni giorno, nella chiesa di San Giovanni, le vecchie del rosario recitano cinquanta volte la stessa preghiera. I pensionati, nel parchetto in riva al fiume, alzano e abbassano le braccia, inspirano e soffiano, in dieci serie da dieci. Il fiume, ogni giorno, manda a infrangersi sulla rena dodicimilatrecentoquarantatré piccole onde. Ogni sera Mario Stanic apre il quaderno, compila tredici pagine, non una di più né una di meno, e lo richiude. Poi mette a letto Andrea, e gli rimbocca le coperte.",
+        "Per la città di Al Madina, quel cognome, “Stanic”, è sinonimo di scandalo. Mario accetta la diffidenza dei concittadini e vive da eremita in mezzo alla folla. È il prezzo dell’essere rimasto dopo aver tentato di andare.",
+        "Tutto iniziò con i sogni di Sara, col suo pallore, con il mutismo che le prendeva nei pomeriggi domenicali, gli unici trascorsi insieme. Sembrava che il suo sguardo trapassasse il corpo del marito, per andarsi a posare su mondi che non esistono, o che solo lei riusciva a vedere.",
+        "«Cosa c’è?», si era deciso a chiederle Mario, finalmente, una di quelle domeniche. «Niente», aveva risposto lei, sulle prime. Ma era la peggiore delle risposte possibili, Mario non poteva certo accontentarsene.",
+        "Sara sapeva che, una volta rotta la finzione, non ci sarebbe stato ritorno. Ma ormai il passo era compiuto. «Cosa c’è?», era tornato a chiederle. E lei dovette vincere mille resistenze per riuscire a rispondere: «Sono i sogni…».",
+        "Così glieli aveva raccontati: la decisione più pericolosa che potesse prendere. Seguivano più o meno tutti la stessa falsariga: Sara era davanti al mare.",
+        "Si dice che i sogni siano costruiti da pezzi di esperienze diurne. Dunque quello era un mistero: da Al Madina, la “città perfetta”, nessuno, esce mai. Ed Al Madina non ha mare: è cinta dal fiume Sole, che in quel punto della cartina geografica si biforca per poi ricongiungersi, formando un isolotto sul cui suolo, da millenni, la città prospera. Come aveva fatto a sognare il mare, Sara, se non l’aveva mai visto?",
+        "Non era un mare calmo, quello del sogno, ma un mare arrabbiato. Un mare che sembrava aver perso l’imperturbabilità che hanno solo le cose inanimate. Urlava, si agitava, non era in pace. Cosa le stava venendo a dire? Perché batteva sulle pietre i pugni di schiuma? Qual era il rimprovero? Sara non voleva saperlo. Ma se a parlare è il mare è difficile tapparsi le orecchie, non sentire il messaggio, fare finta che il tutto possa ridursi a un aprirsi e chiudersi di braccia e susseguirsi di Ave Maria. “Guarda quant’è la forza che mi muove”, le veniva a dire, “e tu mi vorresti un eterno specchio che ribolle, come mosso da un fornello inabissato?”.",
+        "Nel sogno, Sara si poggiava una mano sulla pancia. Una mano pallida, mano di fantasma. Il mare era anche lì, che urlava. Le urlava nella pancia. Era un bambino. Urlava più di quanto Andrea non avesse mai fatto. Copriva la voce di suo figlio. Lo sovrastava. Lo annegava. Come poteva accettarlo, Sara, come mai poteva rimanersene ad ascoltare? Ma quello continuava: si gettava con la testa di spuma a spaccarsela sulle rocce, reclamava, le imponeva: “guardami”.",
+        "Mario aveva ascoltato in silenzio. Ne riparlarono solo dopo giorni. «Non è possibile uscire da Al Madina», le disse.",
+        "«Perché?».",
+        "«Nessuno lo ha mai fatto».",
+        "«Eppure, non vige nessun divieto del genere».",
+        "«Perché ognuno sa che è una follia».",
+        "«Allora devo essermi ammalata. Vedo ombre nel paese del Sole, e chiarore oltre le sue sponde».",
+        "«Non possiamo... C’è Andrea».",
+        "Trascorse forse un anno: diciottomila Ave Maria, trentaseimila alzarsi e abbassarsi di braccia, quattro milioni e rotti di piccole onde del fiume Sole sulla rena, quattromilasettecentoquarantacinque pagine del quaderno di Mario. “Sara è una stella spenta”, scriveva Mario. “Chi mi dorme accanto è il suo involucro, la sua pelle svuotata del suo sangue. E lei è lì, su quel pianeta dove vede il mare”.",
+        "L’amore porta anche frutti avvelenati: «Andiamo», si decise a dirle Mario, tradendo l’interesse di suo figlio per la felicità di sua moglie.",
+        "Portare un figlio al di fuori di Al Madina è davvero una follia. Farlo crescere altrove irresponsabilità pura. Tutto, ad Al Madina, è armonia: non vi è conflitto, non vi è peccato, non vi è incertezza. E la città di Al Madina non pone divieti, né impone alcunché; difatti, l’unica sanzione, per gli Stanic, fu lo scandalo e l’esecrazione. E se il nome di Mario può ancora pronunciarsi, quello di Sara è bandito.",
+        "«Torna indietro», disse lei, approdati al di là del Sole, «non è il tuo desiderio, è il mio. E porta Andra con te».",
+        "Mario insistette, pianse, protestò.",
+        "Sara lo accarezzò. «Davvero, non hai compreso?». Il suo pallore era rotto dalla rossa virgola di un sorriso. «Tu appartieni alla città. Non incontrerò alcun mare, finché mi sarai accanto».",
+        "Ogni giorno, nella chiesa di San Giovanni, le vecchie del rosario recitano la stessa preghiera, cinquanta volte. I pensionati, nel parchetto in riva al fiume, alzano e abbassano le braccia, inspirano e soffiano, in dieci serie da dieci. Il fiume Sole, ogni giorno, manda a infrangersi sulla rena dodicimilatrecentoquarantatré piccole onde. Ogni sera, Mario Stanic apre il quaderno, compila tredici pagine, non una di più né una di meno, e lo richiude. Poi mette a letto Andrea, e gli rimbocca le coperte.",
+        "Cosa scrive, adesso? Qualche goccia di pioggia è caduta nell’azzurro dei suoi occhi. Mario sembra accorgersi solo ora che è acqua che proviene dal mare. Dunque scrive di posti che non sono la città di Al Madina, e che sono bagnati dal mare. Un mare stanco di rompersi la testa sulle pietre e schiumare, ancora e ancora, come un cane alla catena. Un mare che salta, si alza dal suo letto, supera la banchina, e se ne va via."
+    ],
+    "timestamp": "2019-12-01T21:27:54Z",
+    "title": "[MI 131] Il mare",
+    "topic_id": 45438,
+    "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare/"
+}

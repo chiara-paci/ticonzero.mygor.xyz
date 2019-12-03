@@ -1,0 +1,94 @@
+{
+    "author": {
+        "author_id": 34494,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "leopard",
+        "url": "https://www.writersdream.org/forum/profile/34494-leopard/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.4111111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4111111111111111
+            },
+            "text": [
+                [
+                    "credo che , nell'insieme, ci sia una buona idea di base e mi incuriosisce sia l'antefatto che il proseguo della storia! :-) va però curata meglio, non solo a livello grammaticale, ma anche nella descrizione dei personaggi e ambienti. Essendo anche un fantasy/horror, il lettore non può sapere cosa sta succedendo, dove si trova il protagonista, come si comportano le creature. I termini saranno comunque forti: panico, minacce di morte anziché nervosismo e frasi pesanti"
+                ]
+            ],
+            "timestamp": "2019-11-18T16:02:31Z",
+            "title": "La porta nel deserto",
+            "url": "https://www.writersdream.org/forum/forums/topic/44731-la-porta-nel-deserto//?do=findComment&comment=800521",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 1941,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 801144,
+            "text": [
+                "purtroppo temo di avere momenti nella scrittura che mi vengono meglio e altri che \"do un po' una botta\" , non so se sia l'umore o il tipo di brano, vorrei capirlo. Forse è il tipo di brano, perchè l'ho riletto tutto sempre nella stessa misura. Grazie per tutti suggerimenti utili!",
+                "volevo rendere l'idea di un procuratore che va di fretta e la molla un pò lì, sulla panca. Però forse ho capito che si tratta di una sua sensazione di essere abbandonata, in effetti lui ha semplicemente dato un incarico per poi riparlarne in seguito, devo chiarire. Questo mi aiuta molto! Grazie di nuovo!"
+            ],
+            "timestamp": "2019-11-20T18:17:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45267-un-incarico-inaspettato-capitolo1-33//?do=findComment&comment=801144"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 801096,
+            "text": [
+                "Ciao",
+                "sono andata a leggermi anche le altre due parti prima di arrivare a questa e ti devo confessare che mi sono piaciute più le prime due. Trovo che in questa ultima parte ci sia una corsa, hai riassunto fatti che avresti potuto narrare. Nelle prime due parti ho trovato bellissime immagini e una grande fluidità nella tua scrittura, qua trovo qualche intoppo in più.",
+                "Lei è ancora sulla panca a leggere il fascicolo? Te lo chiedo perché la parte successiva mi confonde. Aggiungerei il soggetto che è rimasto nel frammento precedente.",
+                "ti è scappato uno spazio dopo la virgola prima di senza. Mi confonde anche questo senza precise direttive, ma credo tutto venga dal fatto che non sono più sicura se lei si trovi lì fuori a leggere. Se è lù fuori a leggere, che direttive doveva avere? Lui le ha chiesto aiuto su un caso e le ha dato un fascicolo da leggere, poi parleranno... o così immagino io",
+                "troppi sembrare, li ridurrei lasciandone uno solo",
+                "metterei due punti al posto del punto",
+                "riformulerei: Non accettava di dover sempre prendere le distanze",
+                "riformulerei spezzando questa lunga frase in almeno due",
+                "quindi non aveva nemmeno iniziato a leggere!",
+                "Io aggiungerei qualcosa alla fine del secondo pezzo, qualcosa che chiarisca che cosa succede. Il dott. dice tutto in una frase sola: le dà il benvenuto, le spiega cosa vuole e la risaluta per lasciarla leggere. Secondo me si potrebbe ampliare il dialogo.",
+                "Sono confusa e intrigata nella stessa misura dalla tua storia",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-11-20T15:43:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45267-un-incarico-inaspettato-capitolo1-33//?do=findComment&comment=801096"
+        }
+    ],
+    "text": [
+        "fine del capitolo:",
+        "Prima di capire che cosa potesse spingere un uomo così granitico a chiedere aiuto, si accorse che Castori, dopo averla guardata e inquadrata, si disinteressò a lei. Marilena si sentì quindi a disagio perché, senza precise direttive, non poteva far altro che sentirsi libera di agire come voleva. Era quello che sperava però sapeva che era il classico inizio che l'avrebbe messa nei guai, perché Marilena di libertà se ne prendeva sempre troppa.",
+        "Marilena era decisamente emozionata ed intrigata anche se cercava di sembrare una che svolge quel tipo di mansione quotidianamente. Anni prima, aveva scritto una relazione su un caso al dott. Castori e le sembrava di aver fatto una buona impressione. Aveva scavato in profondità per cogliere la personalità di una vittima di truffa e Castori era sembrato interessato alla relazione. Marilena tendeva a romanzare le sue relazioni. Alla fine, la personalità del soggetto doveva avere un qualcosa di poetico, un tocco artistico, non le bastava descriverne i tratti, voleva cogliere di più. Ma, come al solito, la attraversò il dubbio. “E se non fossi capace?” Marilena si esaltava solo un attimo quando veniva elogiata e un attimo dopo ricompariva il buio, l'idea di non sapere fare nulla di buono nella vita. Ma comunque di provarci con tutta l'anima. E se il primo era un errore da poco, il secondo era grave. Non accettava che la sua anima non contasse nulla. Non accettava che dovesse scegliere sempre di prendere le distanze fino a scomparire. Ma era quello che faceva, sia perché pessimisticamente riteneva che fosse inutile spiegarsi e parlare con le persone convinte dei loro schemi, sia ottimisticamente perché credeva che ci fossero sempre nuovi pascoli e nuove avventure e non fosse il caso di perdere tempo a cambiare chi non voleva essere cambiato.",
+        "Infine si decise a leggere e ad intraprendere il nuovo lavoro come una missione personale, non sapeva agire diversamente."
+    ],
+    "timestamp": "2019-11-18T17:49:37Z",
+    "title": "Un incarico inaspettato-Capitolo1-3/3",
+    "topic_id": 45267,
+    "url": "https://www.writersdream.org/forum/forums/topic/45267-un-incarico-inaspettato-capitolo1-33/"
+}

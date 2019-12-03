@@ -1,0 +1,79 @@
+{
+    "author": {
+        "author_id": 34494,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "leopard",
+        "url": "https://www.writersdream.org/forum/profile/34494-leopard/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9388888888888889,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9388888888888889
+            },
+            "text": [
+                [
+                    "ho letto che dicevi che lo hai scritto un po' di getto. Io credo che possa essere sviluppato bene ma devi decidere che genere è e come è la tua protagonista. Potrebbe essere un fantasy dove ci sono i nobili ma non c'entrano coi nobili che conosciamo noi dai tempi antichi. Oppure un fantasy ambientato nel Medio Evo. Lo stupro è un evento importante e mi pare che tu lo abbia un pò liquidato, non si sa come sia successo e dopo poche righe lei è già in piedi a denunciare in mezzo a una folla. Puoi anche decidere che vada bene così se ritieni che la protagonista viva in un periodo dove lo stupro è all'ordine del giorno, per dire. Però credo che sia ancora più difficile descrivere i sentimenti di una donna stuprata nel Medio Evo. Potresti anche \"minimizzare\" l'evento con dei flash back, molto limitati, come se volessi semplicemente far capire che lei si comporterà in un certo modo perché ha subito uno stupro su cui non vuole soffermarsi."
+                ]
+            ],
+            "timestamp": "2019-11-16T15:04:20Z",
+            "title": "Progenie vendicativa",
+            "url": "https://www.writersdream.org/forum/forums/topic/44644-progenie-vendicativa//?do=findComment&comment=800084",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 3769,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 800118,
+            "text": [
+                "ho eliminato: A Marilena non dispiaceva la neutralità passiva ma solo se frutto di libera scelta e non imposta dall'esterno."
+            ],
+            "timestamp": "2019-11-16T17:56:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23//?do=findComment&comment=800118"
+        },
+        {
+            "post_id": 800147,
+            "text": [
+                "grazie! mi fa molto piacere che ti piaccia!",
+                "hai ragione, è un po' quello che temo, confondere il suo pensiero col mio e poi divento ingombrante. Rimugina già abbastanza per conto suo Marilena! Aggiungerò il \"pensò\""
+            ],
+            "timestamp": "2019-11-16T20:33:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23//?do=findComment&comment=800147"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "allora, il capitolo non sarebbe ancora finito, ci sarebbe ancora una paginetta e poi, nel capitolo successivo, si parla finalmente del cadavere. La parte in corsivo all'inizio è stata aggiunta solo per riprendere un po' il filo del discorso, sennò non si capisce cosa sia questa energia stagnante",
+        "(La sua depressione era) Un'energia stagnante che se liberata sarebbe diventata un'esplosione. E poi di nuovo arrivava il distacco, il vetro invisibile tra sé stessi e il mondo, come se si avesse troppa paura di accendere quella miccia e vedere se fosse destino splendere come una stella o esplodere come un antico kamikaze. Amava ormai stare nella “tana” tutto il giorno, in solitudine, e percepiva qualsiasi impegno come un'interruzione, come una distrazione da quel difficile lavoro di ricostruzione del suo desiderio di vivere e della stabilizzazione del suo fuoco interiore. Ma anche quel giorno qualcuno la disturbò facendo squillare il telefono. Un ispettore, che conosceva appena, chiedeva una sua consulenza. Non si trattava di psicoterapia. Si trattava di trovare un colpevole reale e non inconscio. Rimase così sbalordita che accettò. Si guardò allo specchio: non era mai stata particolarmente preoccupata per il suo aspetto fisico. Una massa di lunghi capelli rossi, occhi verdi, viso normale, molto magra. Forse il naso più piccolo e le labbra più carnose sarebbero state apprezzabili ma non era questo il problema. Era più quello che le succedeva dentro a non piacerle e non riusciva a vederlo allo specchio.",
+        "Marilena si presentò nel pomeriggio davanti al procuratore. L'aveva già conosciuto ma non si sarebbe mai aspettata una proposta simile. Per un attimo non aveva sentito quella tremenda stanchezza. La curiosità era forte e le dava energia ma si aspettava già una delusione. Che ormai, una in più o una in meno, tanto valeva aspettare il procuratore, ovviamente in ritardo, come tutte le persone abituate a considerarsi troppo preziose. Più passava il tempo e più si sentiva a disagio e fuori posto. Iniziava a conoscere a memoria le mattonelle, la pianta nell'angolo, il colore delle pareti grigio brillante, quasi strafottente, come se si potesse essere grigi e splendenti contemporaneamente. Forse sì, si poteva. Sono grigi gli uffici, gli ospedali, le case di cura. Tutti luoghi dove colore e vita sono banditi e c'è un'evidente sollecitazione a conformarsi al distacco e alla neutralità passiva che propone il grigio. A Marilena non dispiaceva la neutralità passiva ma solo se frutto di libera scelta e non imposta dall'esterno.",
+        "Il dott. Riccardo Castori finalmente arrivò con l'aria di uno che va di corsa, ha troppi impegni ed è abituato a decidere in fretta in base ad intuizioni personali incontestabili. Non era propriamente un bell'uomo ma nemmeno sgradevole. Aveva il fascino della sicurezza e della precisione. Giacca, cravatta, né alto né basso, né magro né grasso e con dei capelli corvini, unico vezzo, ben pettinati sulla fronte bassa ed il viso lievemente abbronzato.",
+        "«Buongiorno dott. ssa Macciò, l'ho chiamata per un caso di omicidio e vorrei un suo parere, può consultare tutto il fascicolo qui e farmi domande. Le chiedo grande discrezione, si tratta di un delitto assurdo e la prima domanda che le farò, non appena avrà analizzato il caso, è se siamo di fronte a un soggetto pericoloso che può uccidere ancora».",
+        "Con un sorriso Marilena si accomiatò e si risedette sulla panca per incominciare la lettura. Castori era una persona poco cerimoniosa, almeno su quello andavano d'accordo e avevano entrambi solo l'obiettivo di risolvere il caso.Vivendo in una piccola città dove i serial killer sono considerati soltanto personaggi da film, pensò che Castori dovesse essere molto allarmato per prendere in considerazione un'ipotesi simile."
+    ],
+    "timestamp": "2019-11-16T15:18:32Z",
+    "title": "Un incarico inaspettato - Capitolo 1- 2/3",
+    "topic_id": 45230,
+    "url": "https://www.writersdream.org/forum/forums/topic/45230-un-incarico-inaspettato-capitolo-1-23/"
+}

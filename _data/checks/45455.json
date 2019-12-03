@@ -1,0 +1,123 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno",
+                    "serve uno spazio dopo il trattino, che dovrebbe essere lungo",
+                    "o lo fa o non lo fa. Che ne dici di abbozza un mezzo inchino? Vai a capo con questa frase perché se no sembra che sia l'uomo a parlare, invece l'uomo reagisce a queste parole",
+                    "a quale signora?",
+                    "eliminerei con un avanti, lo trovo superfluo dal momento che la voce è cordiale. Se invece è importante che avanti stia nella narrazione lo inserirei come dialogo allora",
+                    "sì",
+                    "il trattino non serve quando il dialogo non prosegue",
+                    "niente accento su do",
+                    "da qui in poi usi le maiuscole, ma prima non c'erano. Se è una scelta non la capisco, voglio dire a livello di narrazione non vedo che sia successo niente che giustifica il cambiamento",
+                    "non capisco bene questo scambio, che scheda? Mi sembra di capire che il protagonista va a questo incontro una volta a settimana da anni, giusto? Certamente avrà una sua scheda che il dottore compila ogni volta che finisce la seduta con le nuove informazioni... non lo so come funziona nella realtà, ma mi pare una strana dinamica.",
+                    "metterei due punti al posto della virgola",
+                    "comincia con non lo so ma poi spiega il perché della sensazione, quindi lo sa. Trovo tutta la frase molto complicata, cercherei di renderla più diretta",
+                    "credo che qui ti sia sfuggito qualcosa o forse hai dimenticato qualcosa. E' non esiste in italiano, benché sia molto usato. È è quello giusto",
+                    "e chi è Aristide? Se è il nome del protagonista, per introdurlo, potresti farlo dire al dottore quando Aristide entra nello studio",
+                    "Quando esce (Aristide), Elena entra nell'ufficio; Gianni... Bisogna che tutti questi nomi entrino in scena prima in altro modo perché inseriti così, con le spiegazioni di chi sono accanto, non funzionano. Sono palesemente informazioni che senti, com'è giusto, di dover fornire al lettore perché non si perda e che hai deciso di infilare qui. Cerca di inserirle all'inizio. Aristide ed Elena si inseriscono facilmente dala momento che i due si vedono da anni ogni settimana. Se lui è spaesato o altro, lei no. Lei conosce i nomi e li ricorda.",
+                    "anche questo lo spieghi al lettore che non c'era, ma tra moglie e marito non credo che sia un'informazione da ripetere in un dialogo, stessa cosa vale per la frase successiva che ti riporto sotto",
+                    "a parte che io ci avevo creduto che quello fosse un dottore vero, anche quando confessa di essere il fratello. Secondo me devi svelarmelo (al lettore) in una maniera più da lasciare a bocca aperta. Fai succedere qualcosa che sveli il mistero, se è proprio arrivato il momento di svelarlo, ma non mettere la spiegazione in bocca ai tuoi personaggi per sciogliere la situazione, non è credibile come dialogo e rende questi due delle macchiette",
+                    "ti è scappato uno spazio prima della virgola",
+                    "e Gianni quando è uscito? Non era Elena che se n'era andata sbattendo la porta?",
+                    "leggo e rileggo, ma non riesco a capire cosa intendi",
+                    "chi è Luca?",
+                    "ma non sono clienti dello studio dentistico? Queste donne che nominano intendo",
+                    "ma quindi chi è che parla di donne? Pensavo che la battuta fosse di Gianni, invece da questa credo sia di Luca.",
+                    "Secondo me c'è una trama che si prospetta come minimo curiosa, ma il testo ha bisogno di un po' di cura supplementare sia nella punteggiatura che nella descrizione dei personaggi che mi risultano poco umani. C'è bisogno di attenzione anche nella dinamica dei fatti che, in certi momenti, sono poco logici secondo me e creano un po' di confusione."
+                ]
+            ],
+            "timestamp": "2019-12-03T09:33:43Z",
+            "title": "Mio fratello  Capitolo 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/45404-mio-fratello-capitolo-1//?do=findComment&comment=803712",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5519,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
+        "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
+        "Una risata fragorosa si alza dal pollaio in un groviglio di cocodè e chichirichì.",
+        "La gallina rimane sulla porta del pollaio con una zampa per aria e l'altra ben piantata a terra. È abituata a schiamazzi e sberleffi, ma questo non significa che le piaccia venire presa in giro dalla famiglia e dalle amiche.",
+        "All'apparenza, Carlotta è una gallina proprio come le altre: due ali, una coda piumata (quasi sempre), un becco, due zampe forti dotate di unghioni e la capacità di deporre uova. Eppure, Carlotta è diversa, perché lei vuole di più. Il suo sogno è viaggiare. La gallina Carlotta fantastica di spiagge e sentieri in montagna, di enormi cumuli di grano al sapore di soia e di pollai sotto i ghiacci più spessi.",
+        "Invece le sue giornate sono identiche a quelle di tutte le altre galline: si sveglia all'alba al canto di re Gallo, sprimaccia le piume, si schiarisce la gola ed esce nell'aia becchettando qua e là tutto quanto incontra sul suo cammino, in attesa dell'arrivo di Matilde.",
+        "In questi giorni, Matilde, che è sempre stata puntuale alle sette del mattino, le fa aspettare. Per tutta la vita di Carlotta, fin da quando è uscita dall'uovo, Matilde si è presentata con dei bei chicchi grassi che sparge in abbondanza, il sorriso sulle labbra e un saluto allegro:",
+        "«Buongiorno, galline!» grida sempre scendendo lungo il viottolo in mezzo al campo.",
+        "Invece, in questi giorni, arriva silenziosa. Quasi quasi, non alza nemmeno gli occhi dal sacco del mangime stretto tra le braccia, non saluta, non canta, non sorride, butta le granaglie senza voglia, si gira e se ne torna verso casa senza guardare né di qua né di là.",
+        "A nessuno importa niente dell'umore di Matilde, infatti, le altre galline dicono a Carlotta:",
+        "«Ma che ti interessa? Il cibo c'è, l'importante è quello.» E continuano a beccare con grande impegno senza lasciarsi distogliere dalla preoccupazione di Carlotta o dallo strano comportamento di Matilde.",
+        "Un giorno Matilde non si presenta all'appuntamento mattutino e allora sì che le galline cominciano a interessarsi a lei:",
+        "«Ve l'avevo detto che qualcosa non andava, cocodé, cocodé!»",
+        "«E se non torna più, noi che cosa faremo, cococò, cococò?»",
+        "«Moriremo con lo stomaco vuoto!»",
+        "Dallo spavento, tutte le galline, eccetto Carlotta, piegano le zampe, appoggiano il sedere a terra e depongono un uovo proprio lì dove si trovavano.",
+        "«Non lasciatevi prendere dal panico!» dice Carlotta agitando appena le ali. «Sono sicura che Matilde non ci abbandonerà così, di punto in bianco».",
+        "«E tu che ne sai, chicchirichì? È per caso una tua amica Matilde? Non è nemmeno una gallina, chicchiricù!»",
+        "Il giorno dopo Matilde di nuovo non si presenta all'appuntamento e di nuovo le galline si disperano e svolazzano da una parte all'altra del pollaio.",
+        "«Povere noi, cocodé, cocodé!»",
+        "«Salvaci tu, re Gallo, cococò, cococò!»",
+        "«Non preoccupatevi, gallinelle del mio cuore, c'è qui il vostro re, chicchirichì, chicchiricù!»",
+        "Ma Carlotta non è affatto convinta. Cosa può mai fare re Gallo di diverso da quello che può fare lei? Le uniche differenze tra loro sono che Carlotta fa coccodé e re Gallo chicchirichì, lui ha una cresta rossa in cima alla testa e lei fa le uova. Entrambi hanno due zampe dotate di unghioni, due ali e un becco forte.",
+        "Così, Carlotta decide di andare a vedere che cosa è successo alla sua amica Matilde. Non starà ad aspettare che re Gallo finisca di farsi bello con le sue galline per poi scoprire che non sa come sbattere le ali. No, Carlotta farà quello che ritiene giusto e lo farà da sola.",
+        "«Vado a casa di Matilde. Chi viene con me?»",
+        "Le galline sprofondano nel silenzio.",
+        "«E come pensi di fare?» chiede re Gallo con la risata nella voce. «Tu sei solo una gallina».",
+        "«Esatto», dice Carlotta.",
+        "Il pollaio è costruito di rete metallica: quattro lati e un soffitto. Da una parte c'è una porta di rete e pezzi di legno, Matilde è l'unica che la apre e la chiude. Carlotta si attacca con le zampe alle maglie della rete e, aiutandosi con il becco, comincia a salire verso la chiusura della porta.",
+        "Le altre galline e re Gallo la guardano trattenendo il respiro.",
+        "La salita è difficile, Carlotta sente le piume umide di sudore, ma ci riuscirà: aprirà la porta e andrà a vedere cosa succede a Matilde.",
+        "«Attenzione, cocodé, cocodé!» grida una gallina mentre una zampa di Carlotta scivola senza trovare appiglio e lei rimane appesa alla rete metallica solo per il forte becco giallo.",
+        "Carlotta si fa coraggio e aggrappa di nuovo gli unghioni alla rete; un colpo di reni e uno di becco, e il blocco della porta salta, mentre la porta si apre cigolando sui cardini arrugginiti.",
+        "«Adesso potete uscire se volete». Carlotta si infila nell'apertura e si precipita lungo il sentiero trotterellando e dandosi il ritmo avanti e indietro con la testa.",
+        "Non è mai stata a casa di Matilde, ma vede subito che qualcosa non va: la porta d'entrata è spalancata e Matilde sdraiata per terra!",
+        "«Cocodè, cocodè, Matilde!» grida Carlotta piena di spavento e saltellandole sul petto. «Cococò, cococò, svegliati!»",
+        "Cocodè, cococò, cocodé, cococò, Matilde apre gli occhi e si ritrova il becco di Carlotta a un centimetro dal naso.",
+        "«Ah!» grida spaventata Matilde sollevandosi a sedere.",
+        "«Cocodè, cococò!» grida Carlotta che dalla paura depone un uovo sulla pancia di Matilde.",
+        "Lei fissa prima la gallina e poi l'uovo.",
+        "«Stai bene, Matilde?»",
+        "«Mi hai svegliato da un sogno orribile dove non c'erano uova e nemmeno galline».",
+        "«Un incubo».",
+        "«Andiamo a mangiare adesso!»",
+        "«Cocodé, cococò»."
+    ],
+    "timestamp": "2019-12-03T11:21:06Z",
+    "title": "La gallina Carlotta",
+    "topic_id": 45455,
+    "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta/"
+}

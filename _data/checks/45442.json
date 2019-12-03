@@ -1,0 +1,141 @@
+{
+    "author": {
+        "author_id": 24453,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "caipiroska",
+        "url": "https://www.writersdream.org/forum/profile/24453-caipiroska/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "il racconto scivola via senza intoppi e la scrittura è fluida e corretta.",
+                    "Qui manca uno spazio, ma è un'inezia!",
+                    "Non so, questa frase mi sembra un pò uno spot pubblicitario: capisco l'intento e il contesto in cui la inserisci, ma ho l'impressione che tolga qualcosa al testo, non so...",
+                    "Questa descrizione, bella e dettagliata, ha però un'altra faccia della medaglia: sembra di essere in un campo qualsiasi di una qualsiasi campagna . Toglie quel pizzico di fascino che dovrebbe avere questo luogo perfetto. Non so se mi sono spiegata ( e magari non è nemmeno pertinente…): usi nomi fantasiosi per i tuoi personaggi e poi inserisci l'aglio selvatico… Va benissimo, certo, ma non so perchè mi toglie un pò di magia...",
+                    "Da qui in poi inizia il presupposto per il viaggio e l'avventura: come \"scusa\" non mi sembra così preponderante: in realtà lasciano un mondo perfetto per cosa? Curiosità? Però sono giovani e tutto rientra nei ranghi.",
+                    "Mi ha piacevolmente spiazzato e mi è piaciuto il finale, dove in realtà non esiste un mondo parallelo o pieno d'insidie e paure, ma solo… un'altra stagione che può essere paragonata a un nuovo stadio della vita o dell'evoluzione del genere umano.",
+                    "Bello questo spunto di riflessione: spesso l'ignoto non è così orribile come si dipinge!",
+                    "Grazie per questa lettura."
+                ]
+            ],
+            "timestamp": "2019-12-01T22:52:17Z",
+            "title": "[MI 131] Cosa c'è dall'altra parte",
+            "url": "https://www.writersdream.org/forum/forums/topic/45439-mi-131-cosa-c%C3%A8-dallaltra-parte//?do=findComment&comment=803468",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 3804,
+    "num_commenti": 1,
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 803480,
+            "text": [
+                "Come al solito ho postato male...",
+                "Manca il link al commento e il tema mezzogiorno.",
+                "Uffa!"
+            ],
+            "timestamp": "2019-12-01T23:02:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45442-m-131-la-genesi//?do=findComment&comment=803480"
+        },
+        {
+            "post_id": 803487,
+            "text": [
+                "Grazie !"
+            ],
+            "timestamp": "2019-12-01T23:44:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45442-m-131-la-genesi//?do=findComment&comment=803487"
+        },
+        {
+            "post_id": 803680,
+            "text": [
+                "Ciao ,",
+                "grazie del passaggio!",
+                "Ciao , ciao ,",
+                "vi abbino perchè toccate un tasto comune: Dio.",
+                "In realtà non Lo nomino. Anzi, la voce parla al plurale (tipo il comitato proposto da Ghigo…).",
+                "L'idea era di questi due che decidono di andare via.",
+                "Ma si accorgono di aver fatto una gran c...ata e s'inventano quella storia di essere stati cacciati ecc. ecc...",
+                "Al Medina se ne vola via perchè, insomma, sono un pò permalosetti: ti do il non pus ultra e tu lo rifiuti? Ma và a ...",
+                "Ma mi rendo conto che tante sfumature sono rimaste impigliate nella tastiera.",
+                "In 12 ore faccio solo confusione!"
+            ],
+            "timestamp": "2019-12-02T22:50:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45442-m-131-la-genesi//?do=findComment&comment=803680"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Il sole scivolò sui vetri del palazzo regalando gli ultimi bagliori di un tramonto perfetto.",
+        "Due bicchieri frizzanti di Moah rosso rubino veleggiarono per la stanza adagiandosi con perfezione millimetrica nelle loro mani.",
+        "«A cosa brindiamo?»",
+        "«A noi» e avvicinò il calice.",
+        "Lei rimase un attimo titubante poi lo fece tintinnare con il suo.",
+        "«A noi, come sempre.»",
+        "Dalla stanza rosa giunse un leggero ronzio.",
+        "Uno sguardo e si avvicinarono con calma, mano nella mano.",
+        "Nella teca trasparente fluttuava la loro bambina: un feto di qualche mese che guizzava sussultando.",
+        "Sul monitor lampeggiava una scritta azzurra che li invitava a scegliere il colore futuro degli occhi della bambina: veniva consigliato il viola screziato d’oro, molto di moda in quel periodo, mentre per la disposizione dei nei sulla pelle si suggeriva quella delle antiche costellazioni.",
+        "I due rimasero a fissare il germoglio di vita che pulsava lì di fronte e insieme spinsero il pulsante: casuale.",
+        "Il colore degli occhi, la disposizione dei nei, la lunghezza dei capelli, le attitudini fisiche, il modo di camminare. Tutto casuale.",
+        "La bambina avrebbe attinto al loro patrimonio genetico senza vincoli e i risultati di quel miscuglio si sarebbero visti solo con gli anni. Un ritorno agli antichi metodi di creazione, da tempo sconsigliati.",
+        "Si guardarono negli occhi e tra loro passò un lampo di complicità velato di timore: domani sarebbero andati via da Al Medina, avrebbero oltrepassato le acque torbide del fiume che la isolava da qualsiasi cosa e avrebbero abbandonato il luogo sicuro e perfetto che li aveva visti nascere in teche di vetro simili a quella che avevano di fronte: ad Al Medina non si soffriva mai, nemmeno per nascere. Nemmeno per morire.",
+        "Nemmeno per vivere.",
+        "Gli occhi neri di lui, come perle maledette, si tuffarono in quelli di lei, nel loro azzurro disarmante, nella loro perfetta trasparenza e caddero giù, nel profondo.",
+        "«Sei sicura? Qui abbiamo qualsiasi cosa.»",
+        "«Forse è questo: è come non avere niente.»",
+        "Si abbracciarono stretti e rimasero a guardare il feto galleggiare nella teca: impossibile amarlo.",
+        "Rimasero nelle turbolente acque dello Stige per tre giorni e tre notti, a all’alba del terzo giorno riuscirono finalmente ad aggrapparsi a una roccia che si protendeva verso le acque nere quasi con compassione.",
+        "Avevano creduto di morire davvero, non per finta come accadeva là, e questo li aveva fatti sentire incredibilmente vivi.",
+        "Si sdraiarono sulla roccia, rotolarono sulla sabbia fine di quel mondo strano, quasi incomprensibile, ma carichi di una strana felicità che li fece sentire sazi, come da tempo non erano più.",
+        "Laggiù, all’orizzonte, tra la foschia, potevano scorgere le torri di Al Medina.",
+        "Uno sguardo lungo, intenso; poi si voltarono e lasciarono il passato alle loro spalle.",
+        "Fu a quel punto che il sibilo dei chip che avevano impiantato sottopelle, squillò a una frequenza tale che entrambi caddero a terra svenuti.",
+        "E la voce parlò.",
+        "Avete scelto e questo è giusto.",
+        "Avete rinnegato e anche questo è giusto.",
+        "Non avete gli strumenti, ma volete creare il vostro futuro.",
+        "Ebbene, fatelo.",
+        "Dimostrate cosa significa creare.",
+        "Dimostrate il vostro valore.",
+        "Noi vi osserveremo.",
+        "E poi torneremo a giudicare.",
+        "A pesare il valore della libertà.",
+        "Laggiù Al Madina si alzò lentamente e salì in cielo: era una sfera perfetta e la seguirono fino a quando non scomparve dietro un riverbero del sole.",
+        "Lei si alzò e prese la mano che lui le tendeva.",
+        "Non sapevano che il sole potesse essere così cocente, che la terra potesse graffiare la pelle così in profondità.",
+        "Il cuore galoppava, la testa vorticava i sensi erano all’erta e una lama di panico iniziò a brillare da qualche parte.",
+        "Non sapevano che l’adrenalina impazzita nel loro corpo potesse dare quelle scariche così dolorose.",
+        "«Vieni, Eva, ripariamoci all’ombra di quell’albero laggiù.»",
+        "Lei annuì e lo seguì."
+    ],
+    "timestamp": "2019-12-01T22:57:00Z",
+    "title": "[M 131] La genesi",
+    "topic_id": 45442,
+    "url": "https://www.writersdream.org/forum/forums/topic/45442-m-131-la-genesi/"
+}
