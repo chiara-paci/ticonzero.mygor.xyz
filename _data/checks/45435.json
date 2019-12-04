@@ -56,7 +56,7 @@
     },
     "num_chars": 8012,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 803446,
@@ -178,6 +178,20 @@
             ],
             "timestamp": "2019-12-04T09:14:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803919"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 803954,
+            "text": [
+                "Apro una veloce parentesi OT e mi scuso con Alba: non ho mai capito perché nelle varie pubblicità televisive in cui viene data importanza alla provenienza regionale vengano scelti dei personaggi che non sono di quella regione. Non capita soltanto con i miei corregionali: sento spesso dei napoletani , che di napoletano non hanno nulla e via dicendo. Sappiate comunque che la vera pronuncia forlivese è quella delle pubblicità di \"Poltrone e sofà\": loro sono tutti forlivesi d.o.c. e non stanno fingendo di essere ciò che non sono per strappare un sorriso.",
+                "Fine OT."
+            ],
+            "timestamp": "2019-12-04T11:15:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803954"
         }
     ],
     "text": [
