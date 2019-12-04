@@ -43,9 +43,41 @@
     },
     "num_chars": 6350,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 804034,
+            "text": [
+                "Ciao continuo con il capitolo 2",
+                "non ripeterei esattamente ed esattezza nella stessa frase. È importante che siano proprio dieci giorni dopo? Hai dimenticato alle prima di ore",
+                "non ripeterei voce. Per la frase sulla voce di Elenea, direi: la sua voce è molle",
+                "questo lo aggiungerei dopo la sua battuta di dialogo al telefono perché se no si trova direttamente dopo la battuta dello zio mentre lei non parla",
+                "ti è scappato un 9",
+                "invertirei: meno male che lei ieri sera aveva dimenticato il telefonino proprio in bagno",
+                "che gli abbiamo affiancato è un'informazione che questi due personaggi non si scambierebbero mai in una situazione del genere. Potrebbero dirlo per informare un personaggio che non sa di Sveva, ma detto tra di loro suona solo per un'informazione che tu vuoi dare al lettore",
+                "anche qui invertirei l'ordine: Correndo supera il portone",
+                "questo Gianni lo può scoprire solo dopo aver superato la porta, non prima quando ancora si trova all'esterno e capisce che la porta è bloccata. Lo potrebbe constatare spingendo la porta ed entrando",
+                "sì, anche se si potrebbe usare annuisce",
+                "compongo. C'è molto verbo fare e invece i personaggi hanno un registro linguistico che non lo giustifica",
+                "metterei: avrebbe voluto stringerlo a sé/ avrebbe voluto abbracciarlo:",
+                "virgola dopo vestito e ti è scappato uno 0 alla fine",
+                "a capo, cambia la voce",
+                "questo anche che fa qui?",
+                "capisco cosa intendi, ma non credo che non mi sembra l'espressione giusta in questo contesto, cercherei qualcosa di più preciso. Dopo rideva metterei un punto e virgola al posto della virgola",
+                "invertirei anche qui: disse Aristide a un certo punto",
+                "Più leggo più ho l'impressione che sia un testo inteso per il teatro. Me lo vedrei bene su un palcoscenico e la tua scrittura ricorda il teatro.",
+                "Al prossimo capitolo"
+            ],
+            "timestamp": "2019-12-04T16:53:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45414-mio-fratello-capitolo-2//?do=findComment&comment=804034"
+        }
+    ],
     "text": [
         "Esattamente dieci giorni dopo, una mattina, per l’esattezza ore 7.45, suona il telefono in casa Lasetti: risponde Elena, con una voce molle non ancora messa al giusto punto. Dall’altra parte una voce secca, quasi nervosa.",
         "-Ciao Elena, c’è Gianni?-",
