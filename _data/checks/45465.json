@@ -1,0 +1,89 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Trovo questa tua poesia estremamente suggestiva, ricca di immagini affascinanti. Forse non è di impatto immediato, ciò che vuole comunicare rimane leggermente dietro le parole, ma neanche poi tanto. A una seconda lettura non appare poi così criptica come sembra.",
+                    "La prima strofa è meravigliosa: inquietante al punto giusto. Trasmette in modo efficace l'idea di quanto la paura abbia un potere così forte, una posizione di predominio sull'io lirico. E infatti \"ha una lingua nera sulla faccia\". Questa immagina dà proprio il senso della paura che sovrasta e sottomette l'io lirico, assoggettandolo. I suoi contorni sembrano addirittura fisici.",
+                    "Seconda strofa: affascinante quel vento viola che porta via gli occhi se non rimangono chiusi. Con questa immagine trasmetti l'idea che la paura si nutra proprio degli occhi. Non a caso, vale il detto \"accecato dalla paura\".",
+                    "Continua nel testo il processo di personificazione e umanizzazione della paura, che ora parla e esorta l'io lirico a dare ad essa gli occhi; un invito, quindi, ad abbandonarsi totalmente alla paura, a lasciarsi cadere a terra fino a farsi sopraffare completamente e morire. L'esortazione acquista quasi una sfumatura salvifica: se il soggetto muore, la paura smetterà di guardarlo, in quanto il soggetto ormai morto non avrà più la possibilità di essere in preda alla paura. Quindi la paura esorta il soggetto a morire perché quello è il solo modo per liberarsi da essa.",
+                    "L'ultima strofa è forse la più enigmatica: forse la protagonista sta quasi cedendo all'invito, vuole arrendersi definitivamente alla paura, e si chiede se l'invito sia ancora valido.",
+                    "Per concludere, è una poesia estremamente sensoriale, che coinvolge molto dal punto di vista emotivo."
+                ]
+            ],
+            "timestamp": "2019-12-04T09:48:11Z",
+            "title": "[LP 6] Nessuno sa dirmi",
+            "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=803928",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 643,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Comment:",
+        "Versione riveduta in base al mio sentire.",
+        "Arriva l'autobus",
+        "e dalle labbra allontani la sigaretta.",
+        "Pensi sia un peccato buttarla",
+        "dopo appena qualche tiro,",
+        "così la spegni",
+        "grattandola sul muro.",
+        "Poi, senza disfartene,",
+        "accenni un saluto.",
+        "Nel tuo sguardo sfuggente",
+        "riconosco l'addio.",
+        "Salendo a bordo",
+        "ti fai largo tra la calca,",
+        "la mano sollevata",
+        "poco sopra la spalla",
+        "a proteggere dagli urti la sigaretta,",
+        "sospesa fra le dita.",
+        "La riaccenderai",
+        "una volta fuori dalla vettura.",
+        "Infine si chiude la porta.",
+        "Immobile alla fermata",
+        "ti guardo svanire",
+        "insieme al piccolo cilindro",
+        "di tabacco e carta,",
+        "che ha la fortuna",
+        "di stare senza la tua bocca",
+        "solo il tempo",
+        "di una tratta urbana."
+    ],
+    "timestamp": "2019-12-04T09:53:52Z",
+    "title": "Smoke  (riveduta)",
+    "topic_id": 45465,
+    "url": "https://www.writersdream.org/forum/forums/topic/45465-smoke-riveduta/"
+}
