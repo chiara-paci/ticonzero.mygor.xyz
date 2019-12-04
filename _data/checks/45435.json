@@ -56,7 +56,7 @@
     },
     "num_chars": 8012,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 803446,
@@ -159,6 +159,25 @@
             "text": [],
             "timestamp": "2019-12-03T21:47:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803873"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 803919,
+            "text": [
+                "Ciao . Mi sembra che sono lontani i tempi nefasti del commento che ti feci al racconto La legatura , con tutte le conseguenze che ne scaturirono — purtroppo, non era affatto mia intenzione.",
+                "Quindi mi approccio di nuovo al lasciare due impressioni sul tuo brano.",
+                "La cosa che mi stupisce davvero è la capacità di imprimere immagini e atmosfere. Non un dono da poco.",
+                "Noto che però c'è una difficoltà di messa a fuoco nella narrazione, tale per cui si creano fraintendimenti, mancata comprensione e quindi apprezzamento di alcuni passaggi chiave da parte dei lettori. Non ho una ricetta precisa per evitarlo, ma quello che posso dirti è: riduci.",
+                "Riduci il perimetro narrativo, semplifica all'osso il cosa . Naturalmente non intendo \"banalizzare\", ma solo rendere meno complesso. Poi puoi sfruttare a piacimento tutti i mezzi narrativi per rendere in prosa ciò che è nel perimetro nella maniera più efficace possibile, e soprattutto quella a te congeniale.",
+                "Due anni fa, quando scrissi le mie prime schifezze, ricevetti una valanga di commenti di gente confusa, e mi diedero proprio questo consiglio volto al semplificare. Lo trovai preziosissimo.",
+                "Lo rigiro a te con la speranza che lo troverai altrettanto utile."
+            ],
+            "timestamp": "2019-12-04T09:14:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803919"
         }
     ],
     "text": [
