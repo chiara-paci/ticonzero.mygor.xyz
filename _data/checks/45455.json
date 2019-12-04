@@ -66,9 +66,40 @@
     },
     "num_chars": 5519,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803896,
+            "text": [
+                "Grazie mille e i vostri commenti mi sono estremamente utili per sciogliere nodi e dubbi in cui mi sono persa.",
+                "è esattamente quello che è successo, bravo! Sono partita con una storia in testa che poi si è perduta nelle diverse alternative che vedevo possibili per Carlotta",
+                "sono d'accordo con te!",
+                "e sono d'accordo anche qui. Si sono intrecciate troppe tematiche che non possono stare dentro così pochi caratteri e che hanno finito per perdersi togliendo significato e coerenza alla storia.",
+                "Ciao cara e , ancora grazie mille"
+            ],
+            "timestamp": "2019-12-04T07:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=803896"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 803896,
+            "text": [
+                "Grazie mille e i vostri commenti mi sono estremamente utili per sciogliere nodi e dubbi in cui mi sono persa.",
+                "è esattamente quello che è successo, bravo! Sono partita con una storia in testa che poi si è perduta nelle diverse alternative che vedevo possibili per Carlotta",
+                "sono d'accordo con te!",
+                "e sono d'accordo anche qui. Si sono intrecciate troppe tematiche che non possono stare dentro così pochi caratteri e che hanno finito per perdersi togliendo significato e coerenza alla storia.",
+                "Ciao cara e , ancora grazie mille"
+            ],
+            "timestamp": "2019-12-04T07:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=803896"
+        }
+    ],
     "text": [
         "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
         "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
