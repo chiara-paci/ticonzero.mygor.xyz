@@ -50,7 +50,7 @@
     },
     "num_chars": 3187,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 803483,
@@ -59,6 +59,14 @@
             ],
             "timestamp": "2019-12-01T23:10:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803483"
+        },
+        {
+            "post_id": 803967,
+            "text": [
+                "vi dico solo “grazie”, ragazzi. Ultimamente non ho molto tempo durante il giorno da passare online o per scrivere o per leggere o per ringraziare come si deve. Cercherò di lasciare un commentino a un paio di voi."
+            ],
+            "timestamp": "2019-12-04T12:14:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803967"
         }
     ],
     "post_staff": [
@@ -90,6 +98,19 @@
             ],
             "timestamp": "2019-12-03T15:31:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803804"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 803967,
+            "text": [
+                "vi dico solo “grazie”, ragazzi. Ultimamente non ho molto tempo durante il giorno da passare online o per scrivere o per leggere o per ringraziare come si deve. Cercherò di lasciare un commentino a un paio di voi."
+            ],
+            "timestamp": "2019-12-04T12:14:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=803967"
         }
     ],
     "text": [
