@@ -50,7 +50,7 @@
     },
     "num_chars": 5685,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 803530,
@@ -94,6 +94,20 @@
             ],
             "timestamp": "2019-12-03T14:45:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=803795"
+        },
+        {
+            "post_id": 804177,
+            "text": [
+                "vi ringrazio per le letture e per i pareri approfonditi che mi avete lasciato.",
+                "Senz'altro sarebbe stato d'aiuto. Ma confesso di aver scritto questo pezzo molto rapidamente e a ridosso della scadenza. Non è una scusa, ma un'autocritica: più vado di corsa, più i miei \"limiti strutturali\" emergono. Nel caso specifico, l'affidarsi troppo al sottinteso.",
+                "La narrazione si interrompe un istante prima, quindi ho voluto lasciare la suggestione al lettore.",
+                "Potrebbe essere così, oppure potrebbe premerlo ma con meno convinzione del dovuto. Il solo messaggio che ho voluto dare per certo è che si sia incrinato qualcosa nella visione di TC414, e magari, se non è questa volta, sarà quella successiva, o quella dopo ancora: prima o poi qualcuno quel fiume lo attraverserà, che sia per uscire verso l'ignoto o per entrare in Al Madina.",
+                "Grazie, Alberto, sia per la tua analisi che per l'apprezzamento. Ci hai fornito una traccia evocativa, e nonostante il pochissimo tempo che avevo ho voluto cimentarmi nel darle forma.",
+                "Non hai travisato nulla. La tua interpretazione è la lettura esatta di quanto ho scritto, nonché dei miei intenti dal punto di vista del significato sotto la superficie.",
+                "Ti ringrazio di cuore per l'analisi, sempre preziosa."
+            ],
+            "timestamp": "2019-12-05T15:05:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804177"
         }
     ],
     "post_staff": [
@@ -159,6 +173,25 @@
             ],
             "timestamp": "2019-12-03T14:45:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=803795"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 804177,
+            "text": [
+                "vi ringrazio per le letture e per i pareri approfonditi che mi avete lasciato.",
+                "Senz'altro sarebbe stato d'aiuto. Ma confesso di aver scritto questo pezzo molto rapidamente e a ridosso della scadenza. Non è una scusa, ma un'autocritica: più vado di corsa, più i miei \"limiti strutturali\" emergono. Nel caso specifico, l'affidarsi troppo al sottinteso.",
+                "La narrazione si interrompe un istante prima, quindi ho voluto lasciare la suggestione al lettore.",
+                "Potrebbe essere così, oppure potrebbe premerlo ma con meno convinzione del dovuto. Il solo messaggio che ho voluto dare per certo è che si sia incrinato qualcosa nella visione di TC414, e magari, se non è questa volta, sarà quella successiva, o quella dopo ancora: prima o poi qualcuno quel fiume lo attraverserà, che sia per uscire verso l'ignoto o per entrare in Al Madina.",
+                "Grazie, Alberto, sia per la tua analisi che per l'apprezzamento. Ci hai fornito una traccia evocativa, e nonostante il pochissimo tempo che avevo ho voluto cimentarmi nel darle forma.",
+                "Non hai travisato nulla. La tua interpretazione è la lettura esatta di quanto ho scritto, nonché dei miei intenti dal punto di vista del significato sotto la superficie.",
+                "Ti ringrazio di cuore per l'analisi, sempre preziosa."
+            ],
+            "timestamp": "2019-12-05T15:05:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804177"
         }
     ],
     "text": [
