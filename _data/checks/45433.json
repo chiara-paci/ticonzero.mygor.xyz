@@ -46,7 +46,7 @@
     },
     "num_chars": 5453,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 803514,
@@ -55,6 +55,23 @@
             ],
             "timestamp": "2019-12-02T08:19:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45433-mi-131-difficile-molto-difficile//?do=findComment&comment=803514"
+        },
+        {
+            "post_id": 804150,
+            "text": [
+                "?????????????????????"
+            ],
+            "timestamp": "2019-12-05T13:00:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45433-mi-131-difficile-molto-difficile//?do=findComment&comment=804150"
+        },
+        {
+            "post_id": 804160,
+            "text": [
+                "Aderisco al tuo invito: forse non sai che è di moda. Ad esempio, anche tu usi normalmente le faccine invece di esprimere i concetti a parole. Se lo trovi comodo tu, come quasi tutti, non vedo che ci sia di male se lo trovo comodo anch'io: invece dei punti interrogativi avrei potuto mettere una testina gialla con espressione perplessa e allora probabilmente l'avresti trovata divertente, ma è la stessa cosa.",
+                "Comunque esprimo il concetto a parole come mi hai chiesto tu stessa: non riesco a cogliere il rapporto di causa effetto tra l'usare le parole di entrambe le tracce (da come l'hai detto, sembra non abbia fatto altro!) e il fatto di pensare ad una presa in giro. In altre parole: dato che non era assolutamente mia intenzione quella di prendere in giro, non riesco a comprendere come qualcun altro abbia potuto anche lontanamente persarlo. Va bene così?"
+            ],
+            "timestamp": "2019-12-05T13:35:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45433-mi-131-difficile-molto-difficile//?do=findComment&comment=804160"
         }
     ],
     "post_staff": [],

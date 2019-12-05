@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 803578,
@@ -124,6 +124,19 @@
             ],
             "timestamp": "2019-12-05T10:02:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804121"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 804156,
+            "text": [
+                "Mi sono spiegato col culo. Intendevo che per me l'esperienza di lettore è migliore quando non termina con la mera lettura del testo, per esempio come con questo racconto."
+            ],
+            "timestamp": "2019-12-05T13:24:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804156"
         }
     ],
     "text": [
