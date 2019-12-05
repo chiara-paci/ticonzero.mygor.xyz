@@ -67,7 +67,7 @@
     },
     "num_chars": 7207,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 803687,
@@ -111,6 +111,15 @@
             ],
             "timestamp": "2019-12-04T16:48:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45439-mi-131-cosa-c%C3%A8-dallaltra-parte//?do=findComment&comment=804033"
+        },
+        {
+            "post_id": 804142,
+            "text": [
+                "Ti ringrazio",
+                "Talia"
+            ],
+            "timestamp": "2019-12-05T12:09:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45439-mi-131-cosa-c%C3%A8-dallaltra-parte//?do=findComment&comment=804142"
         }
     ],
     "post_staff": [],
