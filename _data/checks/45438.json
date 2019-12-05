@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 803578,
@@ -97,7 +97,23 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803830"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 804121,
+            "text": [
+                "C'è tanto sentimento in questo racconto. Quando vesti questi panni, , percepisco una certa affinità con i miei gusti. C'è un chiaro rimando metaforico che non sono sicuro di aver colto nella maniera che avevi inteso tu, ma ciò che importa, per me che leggo, è l'aver afferrato qualcosa, l'aver sentito qualcosa.",
+                "Per esempio, che se si è vicini talvolta si è più lontani. L'amore non segue le stesse dinamiche del possesso, e quando li si sovrappone ci si ingabbia.",
+                "Ho apprezzato davvero la lettura, ma soprattutto ciò che ne è seguito."
+            ],
+            "timestamp": "2019-12-05T10:02:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804121"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno. Al Madina",
         "Ogni giorno, nella chiesa di San Giovanni, le vecchie del rosario recitano cinquanta volte la stessa preghiera. I pensionati, nel parchetto in riva al fiume, alzano e abbassano le braccia, inspirano e soffiano, in dieci serie da dieci. Il fiume, ogni giorno, manda a infrangersi sulla rena dodicimilatrecentoquarantatré piccole onde. Ogni sera Mario Stanic apre il quaderno, compila tredici pagine, non una di più né una di meno, e lo richiude. Poi mette a letto Andrea, e gli rimbocca le coperte.",
