@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 803578,
@@ -124,6 +124,14 @@
             ],
             "timestamp": "2019-12-05T18:08:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804201"
+        },
+        {
+            "post_id": 804218,
+            "text": [
+                "Grazie , ripetiti pire"
+            ],
+            "timestamp": "2019-12-05T20:31:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804218"
         }
     ],
     "post_staff": [

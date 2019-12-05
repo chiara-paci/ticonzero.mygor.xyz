@@ -56,7 +56,7 @@
     },
     "num_chars": 8012,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 803446,
@@ -108,6 +108,15 @@
             ],
             "timestamp": "2019-12-04T12:08:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803964"
+        },
+        {
+            "post_id": 804217,
+            "text": [
+                "Er WD nun se magna se sGRanoCChia!",
+                "Grazie mille per il commento, e per l'interpretazione qui sopra"
+            ],
+            "timestamp": "2019-12-05T20:10:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=804217"
         }
     ],
     "post_staff": [

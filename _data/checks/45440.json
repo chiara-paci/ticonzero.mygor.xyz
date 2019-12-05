@@ -65,7 +65,7 @@
     },
     "num_chars": 7938,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 803565,
@@ -121,6 +121,16 @@
             ],
             "timestamp": "2019-12-05T19:17:26Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45440-mi-131-dove-li-hai-seppelliti//?do=findComment&comment=804208"
+        },
+        {
+            "post_id": 804216,
+            "text": [
+                "Vero. Magari questo lo riguardo, avevo pensato una botta in testa e via.",
+                "L'avevo tolta, poi l'ho rimessa, poi di nuovo tolta e infine rimessa, mi serviva che fosse andato via (in realtà andava a prendere la pistola, ma è anche vero che è strano non l'avesse con se).",
+                "Grazie dei suggerimenti e della lettura!"
+            ],
+            "timestamp": "2019-12-05T20:08:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45440-mi-131-dove-li-hai-seppelliti//?do=findComment&comment=804216"
         }
     ],
     "post_staff": [],
