@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 803578,
@@ -107,6 +107,15 @@
             ],
             "timestamp": "2019-12-05T11:31:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804134"
+        },
+        {
+            "post_id": 804171,
+            "text": [
+                "Ehi, ormai sei un kastaffer, non puoi esprimersi in maniera così sboccata",
+                "In realtà era chiarissimo ed è un gran bel complimento. Solo che me l'avevi offerta su un piatto d'argento, risvegliando il mio animobda pupazzo jedi"
+            ],
+            "timestamp": "2019-12-05T14:13:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804171"
         }
     ],
     "post_staff": [
