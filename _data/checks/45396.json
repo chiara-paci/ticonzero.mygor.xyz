@@ -65,7 +65,7 @@
     },
     "num_chars": 7694,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 803072,
@@ -93,6 +93,18 @@
             ],
             "timestamp": "2019-12-02T12:37:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45396-colpevole//?do=findComment&comment=803563"
+        },
+        {
+            "post_id": 804264,
+            "text": [
+                "Ciao ,",
+                "Ti ringrazio molto per queste parole",
+                "E ti ringrazio per aver letto e riflettuto sul mio racconto.",
+                "Le tue osservazioni e il tuo punto di vista sono sempre molto interessanti per me.",
+                "Talia"
+            ],
+            "timestamp": "2019-12-06T09:41:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45396-colpevole//?do=findComment&comment=804264"
         }
     ],
     "post_staff": [],
