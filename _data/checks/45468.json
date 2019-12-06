@@ -46,8 +46,18 @@
     },
     "num_chars": 5484,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 804251,
+            "text": [
+                "In realtà è solo seccato di non riuscire più a controllare gli eventi e vorrebbe uscire da una situazione scomoda. Non vuole rendersi conto che la sua mente è impotente nel costruire la realtà. Nel solipsimo chi pensa può affermare solo la propri esistenza, poiché tutto il resto è frutto della propria mente. In tal caso anche la polizia sarebbe soltanto una sua creazione e non farebbe altro che quello che lui si aspetta che faccia. Magari anche solo aprire la porta e invitarlo ad andarsene.",
+                "Grazie di essere passata e per la tua opinione."
+            ],
+            "timestamp": "2019-12-06T07:38:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804251"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Toni si tolse gli occhiali, guardò la ragazza e poi lasciò andare un profondo sospiro.",
