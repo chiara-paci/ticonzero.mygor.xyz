@@ -46,7 +46,7 @@
     },
     "num_chars": 5484,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 804251,
@@ -56,6 +56,21 @@
             ],
             "timestamp": "2019-12-06T07:38:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804251"
+        },
+        {
+            "post_id": 804334,
+            "text": [
+                "Il solipsismo è una convinzione, ma se fosse realtà il pensatore sarebbe Dio, creatore dell'universo",
+                "Non gliel'ho chiesto, ma penso si riferisse al fatto che per gli esistenzialisti ogni nostra azione è in funzione dell'esistenza di un altro.",
+                "La ragazza è una signora nell'animo.",
+                "Non posso che darti completamente ragione.",
+                "Toni non mi sembra troppo sveglio.",
+                "Corretto.",
+                "Non sono uno che va in giro a stroncare la vita a giovani donzelle, né mi divertono un gran che i discorsi filosofici. Però il personaggio è intimamente un grande stronzo, parecchio misogino.",
+                "Ti ringrazio per le correzioni e per il commento. Alla prossima."
+            ],
+            "timestamp": "2019-12-06T14:22:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804334"
         }
     ],
     "post_staff": [],
