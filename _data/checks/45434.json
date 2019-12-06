@@ -51,7 +51,7 @@
     },
     "num_chars": 3863,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 803639,
@@ -102,6 +102,15 @@
             ],
             "timestamp": "2019-12-05T13:03:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=804151"
+        },
+        {
+            "post_id": 804250,
+            "text": [
+                "Grazie.",
+                "Può darsi. Sicuramente a livello inconscio qualcosa ci dev'essere, perché anche nella lettura ultimamente mi urta il gran dispendio di parole."
+            ],
+            "timestamp": "2019-12-06T07:33:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=804250"
         }
     ],
     "post_staff": [],
