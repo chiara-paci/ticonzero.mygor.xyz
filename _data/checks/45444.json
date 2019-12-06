@@ -50,7 +50,7 @@
     },
     "num_chars": 3187,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 803483,
@@ -134,6 +134,38 @@
             ],
             "timestamp": "2019-12-06T07:12:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804249"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 804291,
+            "text": [
+                "Un intriso di lirismo e senza parentesi .",
+                "Fiaba dolcissima, dal sapore mediorientale, ma con tocchi unici e caratteristici del tuo stile, quali l'idea delle gobbe sulle \"m\".",
+                "Con maggior tempo a disposizione si potrebbe con facilità ricavarne un commento più corposo dell'intero racconto; io, che di tempo ne ho molto meno, mi limiterò a dire che in questo splendido passaggio",
+                "c'è l'essenza di tutto il racconto: senso del fiabesco, sensibilità arabeggiante, sogno/raltà, pesantezza/leggerezza...",
+                "Bello."
+            ],
+            "timestamp": "2019-12-06T11:11:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804291"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 804294,
+            "text": [
+                "Da qualcuno bisogna pur cominciare...",
+                "Trovo sempre affascinante la capacità che hai di comprendere e descrivere gli atteggiamenti umani, di far vedere quanto siano complessi dietro dettagli all'apparenza banali. E qui ne abbiamo ben due: da una parte lei, che cerca disperatamente di convincersi che ci sia un altrove, più bello e migliore di questo, e cerca ogni indizio che possa dimostrare la sua teoria . Ed è chiaro, a noi come a lui, che si stia inventando tutto, che nessuno dei suoi indizi abbia una qualche valenza razionale. E d'altra parte, noi come lui, abbiamo un disperato bisogno di credere che invece sia vero, che ci sia quell'altrove e non sia solo una fuga, che non ci sia solo un tentativo di sfuggire a un dolore che vediamo, ma non riusciamo a fronteggiare.",
+                "Il problema è che non è un racconto finito: mancano almeno tre o quattro paragrafi, per non dire un libro intero, che ci dica che cosa succede davvero, chi c'è dall'altra parte, cosa succede quando lo scoprono e via discorrendo. Quando lo pubblichi avvisa, eh."
+            ],
+            "timestamp": "2019-12-06T11:13:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804294"
         }
     ],
     "text": [
