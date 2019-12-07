@@ -59,7 +59,7 @@
     },
     "num_chars": 320,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 801991,
@@ -100,6 +100,14 @@
             ],
             "timestamp": "2019-12-01T16:57:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=803415"
+        },
+        {
+            "post_id": 804552,
+            "text": [
+                "Molto interessante. Mi piace davvero questa tua interpretazione. Grazie mille per aver letto così attentamente e per le tue gradite parole di lode, ."
+            ],
+            "timestamp": "2019-12-07T17:25:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45339-lp-6-nessuno-sa-dirmi//?do=findComment&comment=804552"
         }
     ],
     "post_staff": [],

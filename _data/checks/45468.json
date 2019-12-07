@@ -46,7 +46,7 @@
     },
     "num_chars": 5484,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 804251,
@@ -80,6 +80,15 @@
             ],
             "timestamp": "2019-12-07T14:50:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804526"
+        },
+        {
+            "post_id": 804547,
+            "text": [
+                "ma no: hai colto benissimo il significato. Ma sai com'è: un padre per un figlio è disposto a fare carte false. ovviamente il personaggio non è difendibile. Toni è un fuori di testa e tutta la filosofia del mondo non potrebbe cambiare tale realtà. Se ho detto qualcosa di diverso, è stato solo per amor dell'ironia. Se lo vuoi sbattere in galera, niente in contrario, solo assicurati che buttino la chiave, per ché certi personaggi sanno anche essere vendicativi.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-12-07T16:42:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804547"
         }
     ],
     "post_staff": [],
