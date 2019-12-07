@@ -27,7 +27,7 @@
     },
     "num_chars": 7896,
     "num_commenti": 0,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 800571,
@@ -122,6 +122,16 @@
             ],
             "timestamp": "2019-12-01T21:17:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=803449"
+        },
+        {
+            "post_id": 804565,
+            "text": [
+                "Ciao, .",
+                "Mi fa piacere che ti sia stata chiara la sostanza del brano e che abbia colto il mio intento.",
+                "Grazie mille per il passaggio"
+            ],
+            "timestamp": "2019-12-07T18:10:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45260-le-avventure-di-nino-la-stazione//?do=findComment&comment=804565"
         }
     ],
     "post_staff": [],
