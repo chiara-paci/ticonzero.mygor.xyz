@@ -50,7 +50,7 @@
     },
     "num_chars": 3187,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 803483,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2019-12-06T07:12:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804249"
+        },
+        {
+            "post_id": 804485,
+            "text": [
+                "grazie anche a voi, ragazzi"
+            ],
+            "timestamp": "2019-12-07T11:25:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804485"
         }
     ],
     "post_staff": [
@@ -166,6 +174,19 @@
             ],
             "timestamp": "2019-12-06T11:13:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804294"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 804485,
+            "text": [
+                "grazie anche a voi, ragazzi"
+            ],
+            "timestamp": "2019-12-07T11:25:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45444-mi-131-la-citt%C3%A0-del-libro//?do=findComment&comment=804485"
         }
     ],
     "text": [
