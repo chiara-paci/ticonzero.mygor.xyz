@@ -46,7 +46,7 @@
     },
     "num_chars": 5484,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 804251,
@@ -71,6 +71,15 @@
             ],
             "timestamp": "2019-12-06T14:22:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804334"
+        },
+        {
+            "post_id": 804526,
+            "text": [
+                "Non siamo così categorici con quelli che la pensano diversamente da noi. Al massimo il ragazzo è un po' disadattato, solo in un mondo ostile che non lo capisce.",
+                "Grazie per il commento"
+            ],
+            "timestamp": "2019-12-07T14:50:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45468-una-questione-filosofica//?do=findComment&comment=804526"
         }
     ],
     "post_staff": [],

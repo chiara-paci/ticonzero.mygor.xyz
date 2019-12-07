@@ -65,7 +65,7 @@
     },
     "num_chars": 7938,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 803565,
@@ -131,6 +131,14 @@
             ],
             "timestamp": "2019-12-05T20:08:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45440-mi-131-dove-li-hai-seppelliti//?do=findComment&comment=804216"
+        },
+        {
+            "post_id": 804534,
+            "text": [
+                "Grazie Mister"
+            ],
+            "timestamp": "2019-12-07T15:26:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45440-mi-131-dove-li-hai-seppelliti//?do=findComment&comment=804534"
         }
     ],
     "post_staff": [],
