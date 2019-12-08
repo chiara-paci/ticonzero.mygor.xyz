@@ -53,7 +53,7 @@
     },
     "num_chars": 505,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 803759,
@@ -63,6 +63,17 @@
             ],
             "timestamp": "2019-12-03T11:56:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45451-le-propriet%C3%A0-delladdizione//?do=findComment&comment=803759"
+        },
+        {
+            "post_id": 804631,
+            "text": [
+                "Ciao , grazie per il passaggio e per il tempo che mi hai dedicato, innanzitutto. Io credo che ogni poesia sia di chi la legge e ogni interpretazione sia valida e corretta, indipendentemente dalle intenzioni di chi la scrive. Questa poesia parla di un'assenza, in realtà, nella mia versione originale l'inizio era questo:",
+                "Quantificare la tua presenza [assenza]",
+                "Qui ho deciso di togliere la citazione dell'assenza, un po' perché l'inserto rischiava di pesare insieme agli altri, un po' perché mi pareva già evidente il tema della distanza, del non toccarsi. Rileggendola, poi, m'è venuto più di un dubbio, ho intuito che le ore di guida potevano essere intese come ore di guida necessarie per raggiungere qualcuno anziché ore di guida in cui la mente semplicemente va per i fatti suoi e che non sono altro che la somma delle andate e dei ritorni al lavoro, qualcosa di molto più becero se vogliamo di un incontro a due. Così pure i corridoi: i corridoi sono sospensioni. Quando passi da una stanza all'altra, da un luogo all'altro, quello è lo spazio in cui tu puoi vagare e puoi anche immaginare di veder sbucare qualcuno da dietro l'angolo.",
+                "Ma sono stata poco corretta con chi legge e anche quei bicchieri a bordo strada possono far pensare ai viaggi, hai ragione, anziché semplicemente a un locale come mille altri con i tavolini posti sul marciapiede. Decidere se spiegare o semplicemente andare avanti con le proprie immagini è sempre un problema: io credo che si debba andare avanti e che a volte, al limite, lo si riesca a fare così bene da rendere inutile la spiegazione, altre meno. Ma è un percorso che vale la pena di non essere abbandonato."
+            ],
+            "timestamp": "2019-12-08T09:44:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45451-le-propriet%C3%A0-delladdizione//?do=findComment&comment=804631"
         }
     ],
     "post_staff": [],
