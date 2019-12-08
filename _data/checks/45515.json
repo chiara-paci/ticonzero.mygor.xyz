@@ -16,7 +16,7 @@
         "valid": 0.5,
         "weight": true
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -52,9 +52,24 @@
     },
     "num_chars": 17804,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 804706,
+            "text": [
+                "purtroppo il tuo racconto supera il numero massimo di caratteri consentito. Devo chiudere.",
+                "Se vuoi puoi riproporlo nella sezione a capitoli dividendolo in due parti e postandole in giorni diversi (ognuna con il suo commento di giornata)."
+            ],
+            "timestamp": "2019-12-08T17:22:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45515-la-schiatta-di-manto//?do=findComment&comment=804706"
+        }
+    ],
     "text": [
         "Ecco il link al testo commentato",
         "La schiatta di Manto",
