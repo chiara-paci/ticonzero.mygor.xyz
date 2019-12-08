@@ -12,23 +12,18 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
+        "timestamp": true,
+        "valid": 0.5188888888888888,
         "weight": true
     },
     "closed": false,
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0
+                "timestamp": true,
+                "valid": 0.5188888888888888
             },
             "text": [
-                [
-                    "a una prima veloce lettura mi sembra buono,. Lo rileggo con calma, e poi commento.",
-                    "buona serata.",
-                    "cyn"
-                ],
                 [
                     "Premetto: l'ho capito a tratti, e il senso un po' mi sfugge, ma in questo momento poco importa. (M'importerebbe di più probabilmente, in fase di pubblicazione).",
                     "\"Il pesce ha dato un colpo di coda e in torsione ha spostato la pancia, in alto.",
@@ -38,9 +33,9 @@
                     "Bene. Si continua a parlare di tradimento, senza mai accennarlo."
                 ]
             ],
-            "timestamp": "2019-11-09T18:27:57Z",
+            "timestamp": "2019-11-11T17:32:35Z",
             "title": "Lei sulle tue dita [Rivisitato]",
-            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=798925",
+            "url": "https://www.writersdream.org/forum/forums/topic/45114-lei-sulle-tue-dita-rivisitato//?do=findComment&comment=799216",
             "weight": 1
         }
     ],
