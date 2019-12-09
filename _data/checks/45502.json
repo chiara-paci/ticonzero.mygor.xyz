@@ -57,8 +57,23 @@
     },
     "num_chars": 1384,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 804877,
+            "text": [],
+            "timestamp": "2019-12-09T20:23:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45502-la-fiamma//?do=findComment&comment=804877"
+        },
+        {
+            "post_id": 804878,
+            "text": [
+                "Grazieeee Floriana..."
+            ],
+            "timestamp": "2019-12-09T20:24:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45502-la-fiamma//?do=findComment&comment=804878"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Una candela ci divide e un tavolo con due sedie di velluto blu, l’uno di fronte all’altra.",

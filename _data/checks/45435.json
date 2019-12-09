@@ -56,7 +56,7 @@
     },
     "num_chars": 8012,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 803446,
@@ -224,6 +224,20 @@
             ],
             "timestamp": "2019-12-04T11:15:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=803954"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 804881,
+            "text": [
+                "Cara , non ripeto cose che ti hanno già detto. Ho trovato questa storia molto evanescente, anche se la questione della stella (la prima) a me è piaciuta e non l'ho trovata per nulla forzata. È che dopo tutto perde di mordente. Ho trovato poi insoddisfacente che lui si rimetta in moto per una seconda stella cadente, sembra una specie di interruttore e lui un burattino.",
+                "C'è una perplessità che mi rimane dalla prima volta che ho letto. Loro rimango per vent'anni tra le due rive: quindi in acqua?"
+            ],
+            "timestamp": "2019-12-09T20:33:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45435-mi-131%EF%BB%BF-i-confini-del-mio-cuore//?do=findComment&comment=804881"
         }
     ],
     "text": [
