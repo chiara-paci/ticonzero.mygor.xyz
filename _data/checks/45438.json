@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 803578,
@@ -132,6 +132,14 @@
             ],
             "timestamp": "2019-12-05T20:31:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804218"
+        },
+        {
+            "post_id": 804797,
+            "text": [
+                "Beh, prendo e porto a casa il complimento molto volentieri,"
+            ],
+            "timestamp": "2019-12-09T11:42:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804797"
         }
     ],
     "post_staff": [
