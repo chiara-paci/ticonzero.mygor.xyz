@@ -50,7 +50,7 @@
     },
     "num_chars": 5685,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 803530,
@@ -108,6 +108,16 @@
             ],
             "timestamp": "2019-12-05T15:05:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804177"
+        },
+        {
+            "post_id": 804783,
+            "text": [
+                "grazie di cuore!",
+                "Guarda, eccotene un po': ,,,,,,,",
+                "Effettivamente erano rimaste in fondo alla tasca, e nella fretta non ho ravanato con la giusta scrupolosità."
+            ],
+            "timestamp": "2019-12-09T10:13:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804783"
         }
     ],
     "post_staff": [
@@ -192,6 +202,21 @@
             ],
             "timestamp": "2019-12-05T15:05:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804177"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 804783,
+            "text": [
+                "grazie di cuore!",
+                "Guarda, eccotene un po': ,,,,,,,",
+                "Effettivamente erano rimaste in fondo alla tasca, e nella fretta non ho ravanato con la giusta scrupolosità."
+            ],
+            "timestamp": "2019-12-09T10:13:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45441-mi-131-tc414//?do=findComment&comment=804783"
         }
     ],
     "text": [

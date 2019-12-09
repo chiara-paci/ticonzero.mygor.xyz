@@ -58,7 +58,7 @@
     },
     "num_chars": 5712,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 803578,
@@ -162,6 +162,22 @@
             ],
             "timestamp": "2019-12-05T13:24:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804156"
+        },
+        {
+            "author": {
+                "author_id": 1077,
+                "name": "swetty",
+                "url": "https://www.writersdream.org/forum/profile/1077-swetty/"
+            },
+            "post_id": 804785,
+            "text": [
+                "Ti servono delle pause tra le battute, però la parte tagliata è uno spiegone che ammazza il pathos, e la parte sottolineata è nel pdv di Sara. Io qui metterei un dettaglio (che so, la luce, il vestito, la posizione di lei). O secondo come anche un semplice a capo. In scene come questa meno è meglio.",
+                "Stessa cosa qui. La frase sottolineata è troppo complessa, e l'analisi logica ammazza il pathos.",
+                "Questo è il racconto che ho letto per primo ed è rimasto per tutto il tempo il mio preferito. Da una parte la descrizione di lei, del suo doloroso desiderio di andare, e dall'altra quella di lui, e del suo doloroso desiderio di restare. E poi c'è Andrea, che rappresenta quell'unione a cui entrambi devono rinunciare.",
+                "Ma c'è anche qualcosa in più: un senso di compiutezza, di cerchio che si chiude, di storia che torna al punto di partenza, ma solo superficialmente: se lo guardi dall'alto è un cerchio in cui Mario è tornato, ma se sposti la prospettiva ti accorgi che è una spirale, vedi che Mario adesso è su un livello più alto. (Ok, scusa, troppe simulazioni 3d ). Insomma, quello che dovrebbe fare un buon racconto: riportarti a casa, ma non la stessa persona di prima."
+            ],
+            "timestamp": "2019-12-09T10:27:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=804785"
         }
     ],
     "text": [
