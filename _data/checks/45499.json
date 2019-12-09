@@ -66,9 +66,48 @@
     },
     "num_chars": 5043,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 804757,
+            "text": [
+                "Buongiorno , grazie per avermi letto!",
+                "credo proprio che lo farò! Ti ringrazio",
+                "Migliore, sono d'accordo, ma secondo me ancora non ci siamo. Credo che si senta la mia insicurezza nel narrare questa storia. Non avevo mai perso tanto tempo con una gallina!",
+                "Grazie per essere tornato a confrontare",
+                "Caro ho avuto grossi problemi con questa gallina nello specifico! La verità è che qui sull'isola esiste davvero una gallina Carlotta, scappata dal suo pollaio e che vive tra due ristoranti che le danno i resti nel cortile sul retro. È davvero una gallina di cui vale la pena raccontare le gesta. Qui di fronte a casa mia invece ho un pollaio e spesso le galline scappano nel bosco, attraversano la strada e vengono in casa mia. Una volta pure le capre mi trovavo in cucina, ora le hanno date via e ci limitiamo alle galline. Non ho mai visto chickens run, ma ci ho pensato, credo che il rimando sia impossibile da evitare, mi sa che dovrò vederlo subito. Comunque era tanto che pensavo alla gallina Carlotta, che si chiama proprio così, questa è una sua biografia non autorizzata.",
+                "giusto per il corsivo, per le doppie stavo andando al risparmio",
+                "qui intendevo quando piegano una zampa tanto che sembra ne abbiamo solo una, quella piegata sembra scomparire, mi sa che non l'ho spiegato bene",
+                "Comunque niente di entusiasmante questa storiella, non riesco a venirne fuori, e ci tenevo tanto a raccontare la storia di Carlotta, è un personaggio servito su un piatto d'argento secondo me!",
+                "Grazie per essere passato da me, vengo a leggerti appena ho un attimo!"
+            ],
+            "timestamp": "2019-12-09T04:54:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45499-la-brava-gallina-la-gallina-carlotta-revisionato-e-rinnovato//?do=findComment&comment=804757"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 804757,
+            "text": [
+                "Buongiorno , grazie per avermi letto!",
+                "credo proprio che lo farò! Ti ringrazio",
+                "Migliore, sono d'accordo, ma secondo me ancora non ci siamo. Credo che si senta la mia insicurezza nel narrare questa storia. Non avevo mai perso tanto tempo con una gallina!",
+                "Grazie per essere tornato a confrontare",
+                "Caro ho avuto grossi problemi con questa gallina nello specifico! La verità è che qui sull'isola esiste davvero una gallina Carlotta, scappata dal suo pollaio e che vive tra due ristoranti che le danno i resti nel cortile sul retro. È davvero una gallina di cui vale la pena raccontare le gesta. Qui di fronte a casa mia invece ho un pollaio e spesso le galline scappano nel bosco, attraversano la strada e vengono in casa mia. Una volta pure le capre mi trovavo in cucina, ora le hanno date via e ci limitiamo alle galline. Non ho mai visto chickens run, ma ci ho pensato, credo che il rimando sia impossibile da evitare, mi sa che dovrò vederlo subito. Comunque era tanto che pensavo alla gallina Carlotta, che si chiama proprio così, questa è una sua biografia non autorizzata.",
+                "giusto per il corsivo, per le doppie stavo andando al risparmio",
+                "qui intendevo quando piegano una zampa tanto che sembra ne abbiamo solo una, quella piegata sembra scomparire, mi sa che non l'ho spiegato bene",
+                "Comunque niente di entusiasmante questa storiella, non riesco a venirne fuori, e ci tenevo tanto a raccontare la storia di Carlotta, è un personaggio servito su un piatto d'argento secondo me!",
+                "Grazie per essere passato da me, vengo a leggerti appena ho un attimo!"
+            ],
+            "timestamp": "2019-12-09T04:54:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45499-la-brava-gallina-la-gallina-carlotta-revisionato-e-rinnovato//?do=findComment&comment=804757"
+        }
+    ],
     "text": [
         "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
         "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
