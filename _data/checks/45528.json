@@ -60,8 +60,21 @@
     },
     "num_chars": 7820,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 804958,
+            "text": [
+                "Ciao , grazie per avermi letto e per i consigli!",
+                "Sì, concordo in tutto. Le ripetizioni, ahimè, sono un cruccio, devo ancora farci l'occhio",
+                "Riguardo la scorrevolezza, ti cito cosa mi ha detto poco fa un amico, anch'esso musicista, al quale avevo fatto leggere una cosa scritta da me: \"E meno male che quando suoni non tiri indietro in quel modo!\"",
+                "Forse è anche per la voglia di dire troppe cose in una volta, la ricerca di una maggiore fluidità ha la priorità, in questo momento.",
+                "Grazie di nuovo! W la musica, ora e sempre."
+            ],
+            "timestamp": "2019-12-10T07:13:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=804958"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ore 20.45. La città grigia: un teatro, un musicista nel camerino numero 2 poco prima di entrare in scena.",
