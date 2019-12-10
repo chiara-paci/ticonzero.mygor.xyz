@@ -3,8 +3,8 @@
         "author_id": 35020,
         "checks": {
             "contest": 0,
-            "flag": true,
-            "narrativa": 1,
+            "flag": false,
+            "narrativa": 2,
             "poesia": 0
         },
         "name": "Agatarabe",
