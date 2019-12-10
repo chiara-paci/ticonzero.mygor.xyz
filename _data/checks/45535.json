@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.5144444444444445,
+        "valid": 0.8088888888888889,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -52,9 +52,30 @@
             "title": "Valbert",
             "url": "https://www.writersdream.org/forum/forums/topic/45530-valbert//?do=findComment&comment=805023",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Folgorabile, se non ti dispiace vorrei fare con il tuo racconto, che molto mi é piaciuto, il mio esercizio di \"critica letteraria\" per imparare a conformarmi a questo forum.",
+                    "Ho trovato l'incipit molto originale e mi ha dato l'idea di essere negli anni 70 del secolo scorso quando ancora imperversavano le Kodak Instamatic e cosí mi sono immaginsta anche l'aula del tribunale, polverosa e consumata. In modo particolare mi ha toccato il \"calare le grigie palpebre\" che tanto mi ricorda una poesia di Magrelli.",
+                    "Trovo peró che questo sia solo l'inizio di una storia ben piú lunga, dato che pare chiaro che Marcellus non sia stato a Cesenatico e si capisce benissimo che ha qualcosa da nascondere, il suo essere losco traspare subito. Peccato che i due gemelli in uno non godano di tanta credibilitá quando lo accusano di essere lo spacciatore, indizio che ci sia una storia molto piú complessa ad aspettarci.",
+                    "La figura dei gemelli in uno sembra una vecchia cartolina tridimesionale, se li guardi da una parte é una sola persona che monologa fra sé, se li guardi dall'altra si moltiplicano le teste e gli arti senza mai capire bene come siano fatti. La trovo una grande invenzione che porterei fino alla fine (della storia che ancora non c'é) senza mai rivelare davvero come stanno le cose.",
+                    "Insomma é una storia surreale, divertente, interessante, promette grandi sorprese.",
+                    "I personaggi sono ben caratterizzati e i dialoghi hanno un buon ritmo e fluiscono bene.",
+                    "La signora Pina, che é il mio alter ego, dice che é un racconto bella, scorrevole e avvincente, ma lascia insoddisfatti perché quei personaggi avrebbero ancora parecchio da dire e da fare."
+                ]
+            ],
+            "timestamp": "2019-12-10T15:36:02Z",
+            "title": "I gemelli siamesi ElleryQueffe. Processo e condanna.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45430-i-gemelli-siamesi-elleryqueffe-processo-e-condanna//?do=findComment&comment=805117",
+            "weight": 2
         }
     ],
-    "commenti_weight": 2,
+    "commenti_weight": 4,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -62,8 +83,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 12138,
-    "num_commenti": 2,
-    "num_posts": 2,
+    "num_commenti": 3,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -81,6 +102,19 @@
             ],
             "timestamp": "2019-12-10T10:52:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45535-alma//?do=findComment&comment=805055"
+        },
+        {
+            "author": {
+                "author_id": 9751,
+                "name": "Niko",
+                "url": "https://www.writersdream.org/forum/profile/9751-niko/"
+            },
+            "post_id": 805155,
+            "text": [
+                "l'utente ha dimostrato di impegnarsi per crescere e commentare sempre meglio. Confido che in futuro riuscirà a fare ancora di più"
+            ],
+            "timestamp": "2019-12-10T18:23:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45535-alma//?do=findComment&comment=805155"
         }
     ],
     "text": [
