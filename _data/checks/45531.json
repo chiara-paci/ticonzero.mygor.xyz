@@ -90,9 +90,31 @@
     },
     "num_chars": 2268,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 805159,
+            "text": [
+                "bentornato a casa.",
+                "Scorci di viaggio. Viaggio fisico, interiore e artistico. Non si finisce mai di cercare e di camminare. \"Bisogna cercare, cercare sempre, Van Gogh ha cercato un po' di giallo quando non ha visto più il sole\" (cit.).",
+                "Citazione a parte potrebbe essere un discorso scontato, filosofia da quattro soldi. Eppure...",
+                "Eccola la luce: in quell' arma nuova c'è tutta la purezza di uno sguardo. Quel luogo ideale che cerchi girando, perché alla fine la sfida è portarlo fuori, renderlo visibile e magari farne un'opera.",
+                "Se tento una metalettura e mi metto dietro quegli occhi il racconto in versi si dissolve, e uno slancio ideale vola sul ritratto minimale, di un vago abbandono, che traspare nel testo. C'è una situazione e dall'altra parte una tensione ideale; ci sono entrambi nel testo.",
+                "E allora? Se quell'arma ideale gira a vuoto perchè intorno non c'è ciò che cerca, cosa riempie quei vuoti?",
+                "Questa esigenza è un motore vivo. Secondo me c'è un'altra poesia dietro a questa, le altre parole scivolano come un tessuto sonoro, la mente ci passa sopra, cerca di mettere a fuoco delle suggestioni. Non ne ho le parole, perchè devono essere le tue. Sento un respiro più ampio, un orizzonte che si allarga: un'ondata infrange gli scogli. Non la fermano e l'acqua li investe e li supera. Si fa schiuma, gorghi e poi risacca. Un turbinio di forme, è la vita, quel gran casino che chiamiamo vita. E gli occhi sono lì a immaginare mondi e battaglie in quel turbinio d'acqua che si muove davanti a noi. C'è chi vede un'onda, chi un mondo. Qui nasce la poesia.",
+                "Raccontami di questo mondo.",
+                "A presto."
+            ],
+            "timestamp": "2019-12-10T18:46:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45531-abbiamo-momenti-tesi//?do=findComment&comment=805159"
+        }
+    ],
     "text": [
         "Pier dice che ha perso la testa.",
         "Walid dice gli manca tutto il resto.",
