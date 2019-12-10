@@ -63,8 +63,20 @@
     },
     "num_chars": 452,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 804952,
+            "text": [
+                "Ciao",
+                "In effetti mi ero immaginata una ragazza che entra nella casa della nonna dopo tanti anni che non la frequentava più, perché ormai cresciuta, in seguito alla morte della nonna. Ecco perché ho inserito queste descrizioni. Come se la protagonista si stupisse di trovare cose invecchiare e polverate, ripensando ai tempi in cui era bambina.",
+                "Grazie per aver colto il senso della mia poesia e per aver scritto parole gentili. Sono felice tu l'abbia apprezzata .",
+                "Talia"
+            ],
+            "timestamp": "2019-12-10T06:07:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=804952"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ho seguito la ricetta",
