@@ -54,7 +54,7 @@
     },
     "num_chars": 8030,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 803575,
@@ -132,6 +132,16 @@
             ],
             "timestamp": "2019-12-09T23:44:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=804943"
+        },
+        {
+            "post_id": 804994,
+            "text": [
+                "non poteva esserci descrizione migliore ( :",
+                "Ecco, sì, questo è proprio ciò che voglio evitare quando scrivo, semplicemente perché detesto gli spiegoni e a me non piace leggerli. Dunque non posso che concordare.",
+                "Ti ringrazio, , sia per essere passato che per gli apprezzamenti"
+            ],
+            "timestamp": "2019-12-10T09:30:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45436-mi-131-senza-maschere//?do=findComment&comment=804994"
         }
     ],
     "post_staff": [
