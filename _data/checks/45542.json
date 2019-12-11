@@ -1,0 +1,95 @@
+{
+    "author": {
+        "author_id": 33283,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Gianpaolo Tulli",
+        "url": "https://www.writersdream.org/forum/profile/33283-gianpaolo-tulli/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "il poeta diventa per sua facoltà un critico, e per sua stupidità un poeta.",
+                    "Tienimi﻿ stretto le sere d'estate,",
+                    "quando ﻿guardinga è la luna nel cielo,",
+                    "e ascolta il ﻿freddo﻿ di queste ﻿mie ﻿mani﻿",
+                    "che ti accarezza dolcemente il viso.",
+                    "Nelle sere d'estate collochi dei ricordi vividi ?",
+                    "Non c'è qualcosa di interrotto in questi versi ?",
+                    "Quale verso slega l'ordine della poesia ?",
+                    "Conta la forma non il contenuto, il verso ritrae un paesaggio estivo e remoto, qualcosa di appena percettibile, qualcosa che fluisce con la parola.",
+                    "Si parla di scogliere siderali, ma l'espressione in sé non mi riconduce al bello. Pare la descrizione accurata di una bella vista, la bella vista intrisa tutta di doppi legami che non vado a smascherare. Sembra che l'autrice o l'autore parli di tristezza e di rimpianto ed è questo sapere che non riesco ad apprezzare.",
+                    "Poi il tempo che rovina non rovina, il tempo muore, forse è scritta per qualcuno che non è stato amato. È che manca la chiave per la terza porta: il segreto, nessuna poesia deve essere scritta, celato è il significato. Credo nella proporzione tra armonia e sillabe, la metrica come metronomo e il suono come misura.",
+                    "In questo componimento si va alla ricerca della casualità, tutto è casuale e poco disposto, dare voce al proprio io richiede un sforzo di pensieri, e in questa poesia il raziocinio non manca.",
+                    "Manca la prospettiva per dire: questa parola è sconosciuta e deve esserla sconosciuta come è sconosciuto il tempo nella poesia stessa. Molti legami sono l'effetto di altri, ma se dividiamo il legame che spezza l'incertezza e il rimpianto cosa abbiamo ? Una rispettata putredine di significati.",
+                    "Profondamente mi rimane un dubbio, cosa significa conservare l'amore ormai perso ?",
+                    "Sono sicuro che l'amore non esiste ma chi non ama perde un terzo della sua vita, tu cosa vedi.",
+                    "Ciao, Ciao",
+                    "L’anima nasce vecchia e diventa giovane: ecco la commedia della vita. Il corpo nasce giovane e diventa vecchio: ecco la tragedia della vita.",
+                    "Oscar Wilde"
+                ]
+            ],
+            "timestamp": "2019-12-11T05:29:23Z",
+            "title": "[LP 6] Anime Salve",
+            "url": "https://www.writersdream.org/forum/forums/topic/45338-lp-6-anime-salve//?do=findComment&comment=805207",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 596,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Quando nasce un poeta tutta la terra trema",
+        "e mai più sarà come prima.",
+        "(Ralph Waldo Emerson)",
+        "I In un lucente mattino in fiore",
+        "quando la tetra alba ricopriva",
+        "i verdi campi, nei suoi vasti",
+        "recessi al di là di infiniti",
+        "raggi purpurei, un sole",
+        "nel grano tiepido sorgeva.",
+        "II Di bruma era il suo letto",
+        "piumato, che dalle ali dorate",
+        "fiumi limpidi e piccole chiome",
+        "avanzava, nell'alba.",
+        "III I rami secchi",
+        "leggermente inclinati",
+        "sulle colline aspre,",
+        "allo zeffiro armoniosa",
+        "danza di spighe.",
+        "IV Nelle notti serene morirò",
+        "calpestando la mia terra fredda:",
+        "germoglio nelle tue labbra",
+        "di fata silente delle sere",
+        "più silenti, nelle sere."
+    ],
+    "timestamp": "2019-12-11T05:37:14Z",
+    "title": "Strofa 20ª",
+    "topic_id": 45542,
+    "url": "https://www.writersdream.org/forum/forums/topic/45542-strofa-20%C2%AA/"
+}
