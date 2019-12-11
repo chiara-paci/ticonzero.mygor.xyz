@@ -60,7 +60,7 @@
     },
     "num_chars": 7753,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 804734,
@@ -129,6 +129,14 @@
             ],
             "timestamp": "2019-12-09T20:38:02Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45520-il-male-e-la-cura//?do=findComment&comment=804883"
+        },
+        {
+            "post_id": 805339,
+            "text": [
+                "Mi sorprendete e mi date da pensare, (grazie di cuore del passaggio e del pensiero ) e ."
+            ],
+            "timestamp": "2019-12-11T19:24:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45520-il-male-e-la-cura//?do=findComment&comment=805339"
         }
     ],
     "post_staff": [

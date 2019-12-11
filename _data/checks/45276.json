@@ -46,7 +46,7 @@
     },
     "num_chars": 3990,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 800974,
@@ -117,6 +117,28 @@
             ],
             "timestamp": "2019-12-03T08:30:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=803698"
+        },
+        {
+            "post_id": 805355,
+            "text": [
+                "Ciao",
+                "Il tuo commento mi ha fatto molto piacere (è sempre facile quando si ricevono complimenti!), tra l'altro non ho letto il saggio di Galimberti di cui parli, ma lo farò certamente.",
+                "Mi interessa sempre moltissimo tutto quello che ci consente di uscire dall'ipocrisia a cui senza accorgercene lentamente ci assuefacciamo.",
+                "Le tue parole sono interessanti e molto condivisibili. Soprattutto mi piace che inciti a non adeguarsi al pensiero irrealistico del tutto buono o tutto cattivo, pensiero infantile e primitivo che giustifica guerre, violenze, pena di morte, ecc.. Il giudizio ci allontana dalla verità, ci acceca e ci impedisce di capire.",
+                "Una volta ho sentito un'intervista a Vittorino Andreoli in cui sosteneva che tutte le volte che ha inervistato un assassino durante la sua carriera, non ha potuto fare a meno di pensare che avrebbe potuto non uccidere in altre circostanze. I problemi insorgono quando la parte buona e la parte cattiva che sono insite in ognuno di noi non comunicano.",
+                "È molto difficile ammettere la propria cattiveria, ma se ci si riesce finalmente si è davvero liberi.",
+                "Grazie davvero per il tempo che mi hai dedicato e per le riflessioni che mi hai suscitato."
+            ],
+            "timestamp": "2019-12-11T21:53:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=805355"
+        },
+        {
+            "post_id": 805359,
+            "text": [
+                "Hai ragione \"cattiveria\" è la parola sbagliata, è il riconoscimento dell'umana imperfezione. Dire cattivi non è clemente, è già un giudizio. A presto"
+            ],
+            "timestamp": "2019-12-11T22:11:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45276-mio-figlio//?do=findComment&comment=805359"
         }
     ],
     "post_staff": [],
