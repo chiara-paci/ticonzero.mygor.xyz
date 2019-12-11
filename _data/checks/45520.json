@@ -60,7 +60,7 @@
     },
     "num_chars": 7753,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 804734,
@@ -131,7 +131,24 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45520-il-male-e-la-cura//?do=findComment&comment=804883"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 805238,
+            "text": [
+                "Ciao",
+                "Sono d'accordo con , c'è quel che serve per farne un libro. Non riesco a leggerlo come un racconto, vedo una trama condensata e narrativizzata.",
+                "È come se qui avessi proposto una trama di un romanzo che ti piacerebbe scrivere, dall'inizio alla fine, ora mancano lo sviluppo dei personaggi lo svolgimento, i dialoghi, le ambientazioni, le sensazioni e tutto il resto.",
+                "I punti deboli della trama sono già stati evidenziati; secondo me c'è una buona ossatura, classica ormai, ma comunque sempre d'effetto e che si presta a diverse elaborazioni, riflessioni e creazioni; ora c'è da aggiungere la ciccia"
+            ],
+            "timestamp": "2019-12-11T09:08:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45520-il-male-e-la-cura//?do=findComment&comment=805238"
+        }
+    ],
     "text": [
         "Commento:",
         "(tag: wtf )",
