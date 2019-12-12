@@ -1,0 +1,96 @@
+{
+    "author": {
+        "author_id": 34051,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Freedom Writer",
+        "url": "https://www.writersdream.org/forum/profile/34051-freedom-writer/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buonasera,",
+                    "ho letto il tuo racconto e mi accingo a recensirlo.",
+                    "Dico anzitutto che mi è piaciuto, anche se devo adattare il giudizio ad alcuni elementi e lasciarne fuori altri; il contenuto è apprezzabile e originale, ma credo non costruito nel modo più congeniale. L'aspetto che ha stimolato il parere positivo è la ricorrenza delle frasi legate alle visioni, come quella che secondo me termina molto bene il testo.",
+                    "Un po' tutto il brano ha il carattere di enumeratio dai connotati fortemente paratattici. Per quello che concerne il mio stile (ed è quindi una questione soggettiva) non apprezzo questa costruzione, che dà un po' l'impressione di incertezza; avrei quindi utilizzato periodi più lunghi.",
+                    "Per quanto concerne il lessico, ne avrei utilizzato uno più forbito; il racconto sembra volersi assumere la responsabilità di far trasparire una buona dose di ironia, dunque questo effetto deve essere generato in qualche modo (la barzelletta non deve essere spiegata). Credo, ammesso di aver compreso bene il tuo obiettivo, che una costruzione lessicale più mirata e una maggiore ipotassi avrebbero significato un raccontino coi fiocchi.",
+                    "Leggendo il tuo testo mi è parso di vedere lo scheletro di un racconto, l'impalcatura, l'idea; credo tuttavia che dovresti allungarlo, arricchirlo e aggiungere dettagli legati al ladro (ha le visioni, mica cosa da poco su cui lavorare!), al mondo in cui vive e magari, perché no, creare una struttura temporale che guardi anche al futuro.",
+                    "Ti lascio qualche dettaglio sulla forma:",
+                    "Questo è quanto definisco enumeratio che, a parer mio, è eccessiva. Non avrei utilizzato parolacce, anche se connotano il personaggio, mi danno l'impressione di stonare. Inoltre, non è coerente con la scelta attuata più in basso di censurare una parola, anche se comprendo che quella di cui sotto possa esserti apparsa più pesante.",
+                    "L'enumeratio nel tuo racconto continua, ma questo esempio era solo per fartelo notare; ogni qualvolta apponi un punto e cominci con 'faccio', 'dico', 'prendo' e simili crei un effetto di ripetizione evitabile (a meno che, beninteso, non si tratti di una tua precisa scelta stilistica).",
+                    "Piccolo refuso.",
+                    "Oltre al censurare, di cui ho parlato sopra, credo che questa frase sia superflua. E' la spiegazione della barzelletta di cui ti parlavo; il lettore vede quello che intende il personaggio attraverso la costruzione, non la spiegazione, altrimenti viene fuori l'artificio e si capisce che non è il personaggio intradiegetico a parlare, bensì l'autore.",
+                    "Troppe domande nel primo periodo, a parer mio; inoltre toglierei la virgola dopo il 'me' nel secondo periodo.",
+                    "Troppi mannaggia, ma possono anche starci; tuttavia non mi piace l'italianizzazione del dialetto, perché altrimenti tanto valeva usare l'italiano.",
+                    "Mi piace l'idea del dialetto, anzi, la trovo addirittura poetica in senso comico (un napoletano a Betlemme sa molto di Federico Salvatore), per questo credo che non dovresti italianizzarlo.",
+                    "Il secondo periodo è superfluo.",
+                    "Mi piace il terzo periodo, ma dovresti spiegarlo più lentamente; così è troppo immediato il legame col futuro.",
+                    "L'ultimo periodo mi piace, ma come ha fatto ad arrivare all'orecchio del bambino? E poi di nuovo la spiegazione della barzelletta.",
+                    "Come ti ho scritto, il tuo racconto mi è piaciuto per quanto riguarda l'idea, che ho trovato originale, ma limerei l'uso delle parolacce, userei un linguaggio più forbito, arricchirei la trama e eviterei l'eccessiva paratassi.",
+                    "Mi auguro di rileggerti presto,",
+                    "Buona scrittura",
+                    "P.s: perdonami nel caso in cui ti sia apparso eccessivamente severo."
+                ]
+            ],
+            "timestamp": "2019-12-12T20:58:30Z",
+            "title": "Cinico presepe: Il fabbro con le visioni (iceberg)",
+            "url": "https://www.writersdream.org/forum/forums/topic/45525-cinico-presepe-il-fabbro-con-le-visioni-iceberg//?do=findComment&comment=805526",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6470,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il cielo era conteso tra un sole iracondo e una moltitudine di nuvole dispettose di volta in volta dimezzate; era incerto sin dalle prime luci dell’alba chi l’avrebbe avuta meglio, ma alla fine Pietro Mezzodì ebbe da portarsi l’ombrello.",
+        "L’aprì lui solo, urtato dalle poche gocce che lottavano contro il vento per baciarlo in fronte, in mezzo a quella folla di estranei che si scontravano per strada senza fermarsi o guardarsi indietro, senza tentare di rubare gli spiccioli caduti alla signora Del Giorno che puntualmente disseminavano il marciapiede all’angolo di via Ahah.",
+        "Col braccio alzato in alto, tenendo l’ombrello ben più su di quanto avrebbe dovuto, con una mano dietro la schiena e con una ventiquattrore dal bel manico lucido che si portava da sola, Pietro camminava a falcate di pinguino (quindi ben strette, immaginerete!) con le labbra rivolte verso l’interno come uno scontrino che si sia rigirato tra le dita per svariati minuti, nel suo vestito grigio e con al collo quell'accesissima cravatta rossa.",
+        "Camminava con un sopracciglio alzato e guardava di sottecchi tutti quelli che gli passavano accanto, che sembravano incredibilmente più bassi mentre rimestavano materia nelle loro zucche come polenta in un tegamone; cogitazioni prive di senso, come sono quelle suggerite dall’intimo furore che fuoriesce da un orgoglio schiappato; d’altra parte ben quello doveva pensare chi aveva a misurare i volti con l’obbligo di guardare all’insù.",
+        "C’è da spiegare infatti, perché il detto trovi senso a partire almeno da ora, che Pietro era già di per sé piuttosto alto e che quell’ombrello posto lassù in cima acuiva non di poco quell’impressione di vetta montana; il volto con le labbra serrate, il sopracciglio alzato e un mazzo di capelli a spaccare in due la fronte, levitava a metà tra i piedi e la punta dell’ombrello.",
+        "Una gran strana figura quel Pietro Mezzodì. E mica solo per voi! O io che l’ho dovuto seguire, mentre da solo sembrava volersi pitturare come un brutto affresco in una brutta chiesa in un giorno di pioggia come quello che si narra? Mica facile. E poi c’è da pensare al carattere del personaggio.",
+        "Chiunque sia buono a pigliare una penna in mano e a far esistere coi grafemi un corpo, due braccia, due gambe e una testa sa bene quanto sia difficile tenere dietro a quanto ne viene fuori; per un segmento di pagina fila tutto regolare, poi però il Pinocchio inizia a ragionare per conto suo, acchiappa la prima finestra aperta e piglia la via di dentro, si infiltra nel tessuto soffice dei corridoi e inciampa in una ‘l’; si rialza e principia a correre, si infila in un pozzo e divaga in racconti forestieri come sto facendo adesso io.",
+        "Ecco, chiunque sappia di cosa sto parlando, e ho motivo di pensare che lo sappia, sa bene che il personaggio si può solo seguire, e stando per di più ben attenti a non farsi sgamare.",
+        "Nel mentre si discorreva il Mezzodì è giunto al palazzone presso cui voleva giungere, con l’ombrello sempre spalancato, con la pioggia che batte un po’ più forte e con la stessa espressione da torsolo di mela i cui semi abbiano dato adito alla vista di scorgervi una rientranza, come il punto di congiuntura di un libro.",
+        "Appena dentro, con l’ombrello sempre aperto, becca la signorina sull’uscio, a mezzo tra il gabbiotto e il tappeto che dice Benvenuti ; lei lo guarda un po’ stupefatta, specialmente quando l’occhio mascarato si tuffa sulla ventiquattrore volante. Capisce subito di trovarsi di fronte al mitico Pietro Mezzodì, quello di cui raramente si era parlato con timore e una goccia di raccapriccio, quello che arrivava quando meno lo si aspettava, quello che tutti sapevano essere sparito per un pezzo sperando fosse morto e che a dispetto di tutte le migliori ipotesi resuscitava e tornava a dar tormento.",
+        "Eccolo che sale le scale con l’ombrello gocciolante, mentre schiaccia con forza la suola contro il marmo grigio e bianco per far più rumore, per far sentire ai fedifraghi che è alla soglia. Tutti temono la sua venuta.",
+        "Da dentro l’ufficio il pavido Carlino Gagarò alza gli occhietti tondi e li butta al di là degli occhiali lo stesso tondi; ha il muso che sembra un porcelletto, con le guance rosee e un’amorevole calvizie proprio sul cocuzzolo, mentre un’aureola di capelli, macché peli, gli dipinge una striscia sottile tutt’attorno.",
+        "Indossa un ridicolo panciotto scozzese che ricorda vagamente una palandrana da vecchia inglese in punto di morte; ridicolo, come ridicolo è il suo sorriso dai denti grigiastri, proprio da vecchio topo saggio.",
+        "Tutti rispettano Gagarò, se non altro per la sua capacità di placare l’ira del maledetto; quando questi arriva e comincia a stracciare carte e a stiracchiare le dita fastidiosamente lunghe sulle spalle rattrappite della gente impaurita, Gagarò appare come evocato e comincia a balbettare fastidiosamente, fin quando il padrone non si stanca e decide che le sue orecchie ne hanno avuto abbastanza.",
+        "Buio; buio. Buio. Una parola che detta tre volte può risultare fastidiosa, ancor più se accompagnata da una punteggiatura fittizia, applicata col solo pretesto di infastidire chi legge.",
+        "Pietro Mezzodì ha sognato, quello era un sogno, un’invenzione della mente in fase di debolezza; la debolezza del muscolo che si è appena sottoposto a uno sforzo e conosce il dolore lancinante di un colpo dato a tradimento, come negli scherzi tra idioti.",
+        "Mezzodì è un disgraziato che dorme alla stazione e sogna di avere una valigetta che lo segue come un cagnetto di pelle nera.",
+        "È vero, a spiegarlo così pare solo d’aver perso tempo, di aver raccontato qualcosa che non valeva la pena raccontare; ma due cose a proposito meritano di essere dette: la prima è che tanto è vero che i personaggi decidono da soli, nessuno può dire cosa e chi debba essere raccontato; la seconda è che Pietro Mezzodì in ufficio ci andava davvero ogni tanto, alla maniera in cui andava in spiaggia o in campagna o a mangiare caviale con qualche bella donna.",
+        "È che lo sapeva solo lui.",
+        "Chi lo vedeva se lo poteva solo immaginare, così come lo state immaginando voi nell’abito grigio, con la cravatta rossa e quella bella valigetta scodinzolante a seguirlo; così come se lo saranno immaginato i porta-morti nell’atto di raccattarlo, quando pareva strizzare qualcosa nelle mani mezzo guantate.",
+        "Magari loro avranno pensato trattarsi di un tozzolino di pane, un mozzicone di sigaretta, una pagina strappata da una rivista osé o, ancor più probabile, lo spicciolame del giorno; macché, solo un vecchio manico di pelle lucida."
+    ],
+    "timestamp": "2019-12-12T21:04:38Z",
+    "title": "Storia di Pietro Mezzodì",
+    "topic_id": 45551,
+    "url": "https://www.writersdream.org/forum/forums/topic/45551-storia-di-pietro-mezzod%C3%AC/"
+}

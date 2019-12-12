@@ -57,8 +57,19 @@
     },
     "num_chars": 5566,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 805523,
+            "text": [
+                "Grazie per le tue lusinghe, sono davvero contento che ti piaccia e le parole che mi riferisci del tuo insegnante sono quantomai giuste e valide; davvero onorato che Manto ti abbia portato un poco di piacere e magari di saggezza",
+                "Ci rifletterò: intendi un punto tra galassie e il brillare o dopo il sole ?",
+                "Al piacere di leggerti, a presto !"
+            ],
+            "timestamp": "2019-12-12T20:46:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45538-la-schiatta-di-manto-pt-2//?do=findComment&comment=805523"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Ecco il mio commento =)",

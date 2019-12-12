@@ -52,7 +52,7 @@
     },
     "num_chars": 6011,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 805089,
@@ -67,6 +67,22 @@
             ],
             "timestamp": "2019-12-10T12:50:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45517-la-schiatta-di-manto-1//?do=findComment&comment=805089"
+        },
+        {
+            "post_id": 805524,
+            "text": [
+                "Ciao sono davvero felice che ti sia piaciuta Manto, davvero; tuttavia questo mi pare davvero un complimento esagerato",
+                "ma ti ringrazio comunque",
+                "Qualche impressione sulle tue osservazioni:",
+                "hai ragione e applicherò la correzione, grazie per l'osservazione acuta",
+                "Me lo aveva già suggerito chi aveva commentato e l'ho già messo, grazie comunque per la conferma",
+                "Lo troverei inutilmente ridondante e spezzerebbe il ritmo, ma ci rifletterò su.",
+                "Ho problemi con ciò che è 'obsoleto' : sono filologo classico di mestiere e leggo raramente testi successivi al 1900 per mio piacere personale (fantasy escluso, anche se son più del genere Tolkien e Lewis). Non distinguo bene perché donde sarebbe obsoleto (ho controllato e in Treccani è dato come lett . e non arc. o ant . e dopotutto siam qui per fare letteratura, no? ). Idem per precipuo (con la sola differenza che per quello Treccani non scrive manco lett . per cui lo desumo di uso comune).",
+                "Fatto, ne ho inserite in tutto 13 nel racconto completo (di cui giuro, la terza parte arriva). Trovo tuttavia pretenzioso mettere delle note in un testo di narrativa, mi pare di dare al lettore dell'ignorante dando per scontato che non sa determinate cose. Comunque le ho messe a fine racconto e non a piè di pagina.",
+                "Grazie mille per i tuoi commenti e spero di leggerti presto !!"
+            ],
+            "timestamp": "2019-12-12T20:54:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45517-la-schiatta-di-manto-1//?do=findComment&comment=805524"
         }
     ],
     "post_staff": [],
