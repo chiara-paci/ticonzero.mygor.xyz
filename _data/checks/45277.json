@@ -68,7 +68,7 @@
     },
     "num_chars": 9462,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 800775,
@@ -124,6 +124,15 @@
             ],
             "timestamp": "2019-12-12T14:18:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45277-il-conte-filippo-revisionato//?do=findComment&comment=805450"
+        },
+        {
+            "post_id": 805490,
+            "text": [
+                "Grazie, che bel complimento!",
+                "Viva Palermo e Santa Rusulia (a questo punto, è d'obbligo)"
+            ],
+            "timestamp": "2019-12-12T17:41:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45277-il-conte-filippo-revisionato//?do=findComment&comment=805490"
         }
     ],
     "post_staff": [
