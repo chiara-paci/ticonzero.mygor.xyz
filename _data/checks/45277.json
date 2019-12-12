@@ -68,7 +68,7 @@
     },
     "num_chars": 9462,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 800775,
@@ -116,6 +116,14 @@
             ],
             "timestamp": "2019-12-12T06:55:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45277-il-conte-filippo-revisionato//?do=findComment&comment=805376"
+        },
+        {
+            "post_id": 805450,
+            "text": [
+                "Sicilia orientale arancini, Sicilia occidentale arancine. Niente da fare tra oriente e occidente non andiamo d'accordo manco in questo."
+            ],
+            "timestamp": "2019-12-12T14:18:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45277-il-conte-filippo-revisionato//?do=findComment&comment=805450"
         }
     ],
     "post_staff": [

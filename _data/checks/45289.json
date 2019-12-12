@@ -43,7 +43,7 @@
     },
     "num_chars": 15797,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 803842,
@@ -52,6 +52,14 @@
             ],
             "timestamp": "2019-12-03T19:11:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45289-c-a-g-a-v-o-d-k-a//?do=findComment&comment=803842"
+        },
+        {
+            "post_id": 805454,
+            "text": [
+                "Ti ringrazio di cuore della pazienza che hai nel commentarmi essa pur non conoscendovi denota la tua nobiltà d'animo che per mia esperienza ritengo la qualità più preziosa di un essere umano. Ti auguro tanta fortuna"
+            ],
+            "timestamp": "2019-12-12T14:44:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45289-c-a-g-a-v-o-d-k-a//?do=findComment&comment=805454"
         }
     ],
     "post_staff": [],
