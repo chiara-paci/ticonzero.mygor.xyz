@@ -63,7 +63,7 @@
     },
     "num_chars": 452,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 804952,
@@ -89,6 +89,14 @@
             ],
             "timestamp": "2019-12-11T13:12:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=805282"
+        },
+        {
+            "post_id": 805373,
+            "text": [
+                "Talia"
+            ],
+            "timestamp": "2019-12-12T06:49:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=805373"
         }
     ],
     "post_staff": [],

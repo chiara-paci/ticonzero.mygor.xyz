@@ -47,7 +47,7 @@
     },
     "num_chars": 3319,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 805220,
@@ -59,6 +59,14 @@
             ],
             "timestamp": "2019-12-11T07:10:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45525-cinico-presepe-il-fabbro-con-le-visioni-iceberg//?do=findComment&comment=805220"
+        },
+        {
+            "post_id": 805374,
+            "text": [
+                ", non sei stato frettoloso e ho apprezzato molto il tuo commento, e ho compreso perfettamente il tuo suggerimento. Nella mia risposto volevo spiegare l'origine del lavoro perché ho capito (solo dopo i commenti) quanto il pezzo risultasse strambo."
+            ],
+            "timestamp": "2019-12-12T06:49:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45525-cinico-presepe-il-fabbro-con-le-visioni-iceberg//?do=findComment&comment=805374"
         }
     ],
     "post_staff": [],
