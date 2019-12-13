@@ -47,7 +47,7 @@
     },
     "num_chars": 3319,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 805220,
@@ -67,6 +67,14 @@
             ],
             "timestamp": "2019-12-12T06:49:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45525-cinico-presepe-il-fabbro-con-le-visioni-iceberg//?do=findComment&comment=805374"
+        },
+        {
+            "post_id": 805543,
+            "text": [
+                "severo? Assolutamente no, mi hai saputo spiegare molto bene ciò che non va nel pezzo e ti ringrazio; non è sempre facile essere chiari. Sicuramente l'ho penalizzato riadattandolo in italiano. L'unica cosa che non mi convince è il suggerimento di usare un lessico forbito. Usare un linguaggio terra-terra è stata una scelta precisa, ma capisco che tutto nasca proprio dalla traduzione. Grazie ancora e alla prossimaq"
+            ],
+            "timestamp": "2019-12-12T22:57:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45525-cinico-presepe-il-fabbro-con-le-visioni-iceberg//?do=findComment&comment=805543"
         }
     ],
     "post_staff": [],
