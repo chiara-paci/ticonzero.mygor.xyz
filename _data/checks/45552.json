@@ -60,7 +60,7 @@
     },
     "num_chars": 4990,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 805609,
@@ -126,6 +126,22 @@
             ],
             "timestamp": "2019-12-13T01:04:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805550"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 805699,
+            "text": [
+                "Tranquillo, non ho fatto uno strappo alle regole per te: sono abituato a coricarmi tardi .",
+                "ok, perché no? L'importante, come dicevo sopra, è evitare di spiegare sentimenti e sensazioni provate dai personaggi",
+                "Può darsi che venga percepito come un termine elitario, però secondo me il significato è chiaro e non si confonde più con una specifica branca della fisica, quindi direi di sì: è accettabile, a mio modo di vedere",
+                "Contraccambio, grazie ."
+            ],
+            "timestamp": "2019-12-13T16:19:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805699"
         }
     ],
     "text": [

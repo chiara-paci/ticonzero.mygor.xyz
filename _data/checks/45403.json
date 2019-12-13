@@ -52,7 +52,7 @@
     },
     "num_chars": 15762,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 803398,
@@ -93,6 +93,16 @@
             ],
             "timestamp": "2019-12-08T20:11:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45403-i-tempi-belli//?do=findComment&comment=804729"
+        },
+        {
+            "post_id": 805663,
+            "text": [
+                "Grazie della lettura, del commento e dei consigli.",
+                "La signora Gina ha una lavanderia e la sala da barba di Totó si trova fra la lavanderia e il tabacchino. L’abbondanza di “e” è una scelta voluta, per ricreare un linguaggio popolare fondato sulla paratassi evitando periodi complessi, ricchi di subordinate. Terrò comunque conto delle tue osservazioni.",
+                "Grazie ancora, alla prossima! 🤗"
+            ],
+            "timestamp": "2019-12-13T13:26:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45403-i-tempi-belli//?do=findComment&comment=805663"
         }
     ],
     "post_staff": [],
