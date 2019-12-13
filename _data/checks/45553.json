@@ -1,0 +1,93 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Per mancanza di tempo non riesco a commentarteli tutti, uno per uno, ma fino a qui ci sono arrivato eh, nel senso che ho letto tutto. Anzi, sto già un po' più avanti ma siccome io sono sempre tanto buono, mi soffermo su questo perché qui ho spuntato più note che negli altri (pochissime, negli altri).",
+                    "Io qui ci ravviso un difetto. Dopo avermi edotto sulla cena con gli ex compagni, sei passata ai Gothan Project e addirittura a San Pietroburgo. Tutto molto affascinante, per carità, ma io sono arrivato al punto e allo stacco confidando in un collegamento con la prima informazione, che non ho trovato.",
+                    "Quello che ammiro della tua scrittura e un po' ti invidio (non che possa metterlo in pratica eh, mica ce lo scegliamo il nostro modo di scrivere) è l'assoluta mancanza di metafore. Hai un linguaggio sempre molto diretto e semplice, il che è secondo me sintomo di modernità e di una certa umiltà autoriale assolutamente ben accetta. Quella frase lì mi sembra un po' forzata. Mi sarei aspettato da te un più semplice cerco di vestirmi bene.",
+                    "E questo è tutto, quindi direi che confermi la buona qualità della prosa. E anche per quello che riguarda lo sviluppo hai inserito dei buoni spunti che movimentano e tengono desto l'interesse: i sospetti su Roberto, il ritorno di Jessie, il suo silenzio, l'attrazione tra Erica e Davide (ci sta alla grande, ma spero sinceramente che non tolga spazio alle ragazze , dato che sono loro le protagoniste eh) . Una curiosità, nel capitolo 9 Erica sembra avere una intensa voglia di salame. Cioè sembra farne il sintomo di un suo stato d'animo autolesionista. Sarà che sono vegetariano, ma a me sarebbe venuto in mente prima il cioccolato. Non c'era un doppio senso sessuale, vero? No, certo che no. Vero?",
+                    "Mi è venuto in mente un bel film in tema piuttosto vecchio, credo. Non sto ad andare a controllare ma credo si intitolasse Whore, che la protagonista fosse Teresa Russel e il regista Ken Russell. L'anno non lo ricordo ma non sono sicurissimo nemmeno delle informazioni date (a parte il titolo). Vado sulla seconda parte."
+                ]
+            ],
+            "timestamp": "2019-12-13T06:38:23Z",
+            "title": "Le ragazze - Capitolo 12 - 1/2",
+            "url": "https://www.writersdream.org/forum/forums/topic/44472-le-ragazze-capitolo-12-12//?do=findComment&comment=805553",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Eccomi qua.",
+                    "Troppo lunga. Direi di fermarsi al primo che . Magari un punto e riprendi, così non butti via nulla.",
+                    "Essendo così ben dettagliato, immagino che questo punto della città esista davvero, e tuttavia io non riesco a figurarmelo e certo non andrò a Bologna per verificare. Voglio dire, usando i punti cardinali, se a nord c'è la cinta muraria, a sud i viali, a ovest ed est le due strade non troppo trafficate, ma questo marciapiede quant'è corto? Non sarà un'isola pedonale?",
+                    "Tutto qui. Solo due note, mannaggia. Devo impegnarmi di più, o tu di meno forse. Scherzi a parte, brava. Hai fatto un buon lavoro. Per il mio cervello che ambisce a perdersi nei meandri narrativi della fantasia, sento un po' troppo il piglio giornalistico ma non è un difetto, immagino. Voglio dire che fin qui è andato tutto bene, hai introdotto i personaggi dell'associazione e anche le ragazze, ce li hai fatti memorizzare e ora li fai interagire. Quella che è la mia impressione, ma lo dico consapevole di essere a metà dell'opera e che i giochi sono ancora tutti aperti, è che la prima persona tende a trattenere la storia negli occhi di Erica, anzi le storie, quelle delle ragazze. Una riflessione che faccio, indotta proprio dal tuo lavoro, è che più che cercare una soluzione e riportare le ragazze sulla retta via (sulla quale ho sempre più dubbi, lo confesso, cioè più vado avanti con gli anni e più vedo i binari cosiddetti giusti di questa società sempre più collusi con le traiettorie cosiddette sbagliate, sempre più interdipendenti, non so se mi spiego) mi piacerebbe entrare nelle loro vite ancora di più, sentire la loro prima persona. Ma sono riflessioni mie che lasciano il tempo che trovano e comunque c'è ancora molto da leggere. Io direi che comunque la si veda, il tuo lavoro fin qui è encomiabile proprio per averci portato, noi che leggiamo, in questo luogo e fra queste persone e averci offerto l'opportunità di ragionarci sopra. Mi ripeto: brava."
+                ]
+            ],
+            "timestamp": "2019-12-13T07:06:49Z",
+            "title": "Le ragazze - Capitolo 12 - 2/2",
+            "url": "https://www.writersdream.org/forum/forums/topic/44481-le-ragazze-capitolo-12-22//?do=findComment&comment=805558",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 221,
+    "num_commenti": 2,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "SETTE PAROLE",
+        "____________________________________________________",
+        "Spezzati, finalmente",
+        "ritrovarsi",
+        "Senza chiedere",
+        "liberi",
+        "Schivare le fedi",
+        "osservare",
+        "Camminare diritto",
+        "consapevoli",
+        "Meritarsi il silenzio",
+        "ascoltare",
+        "Piangere",
+        "Amore",
+        "Ridere",
+        "Amare"
+    ],
+    "timestamp": "2019-12-13T07:31:28Z",
+    "title": "Sette parole",
+    "topic_id": 45553,
+    "url": "https://www.writersdream.org/forum/forums/topic/45553-sette-parole/"
+}
