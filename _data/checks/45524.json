@@ -68,7 +68,7 @@
     },
     "num_chars": 449,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 805596,
@@ -80,7 +80,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45524-tram//?do=findComment&comment=805596"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 805761,
+            "text": [
+                "ho dovuto editare il tuo messaggio. Per proporre un proprio testo in officina occorre aprire una discussione e allegare un commento fatto nello stesso giorno. Inoltre il commento deve essere più approfondito di quello che hai scritto sopra.",
+                "Questa sezione ha molte regole, ma queste permettono di avere letture approfondite a tutti."
+            ],
+            "timestamp": "2019-12-13T20:32:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45524-tram//?do=findComment&comment=805761"
+        }
+    ],
     "text": [
         "Comment",
         "È un quarto d'ora che lo aspetto.",
