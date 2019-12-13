@@ -57,9 +57,47 @@
     },
     "num_chars": 4990,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 805550,
+            "text": [
+                "Qualche nota:",
+                "Un consiglio: non spiegare mai i sentimenti e le sensazioni, devi farli arrivare al lettore attraverso il narrato e gli eventuali dialoghi. Mai dire insomma \"Giorgio era davvero furibondo\": descrivilo mentre accartoccia con rabbia un foglio di giornale o scalcia una sedia. Qui potresti aggiungere qualche dettaglio per rendere la sensazione voluta: che so, uno strano scricchiolio, un lavandino che gocciola, una persiana che sbatte al vento...",
+                "le Ave Maria direi, dal momento che sono preghiere",
+                "te lo segnalo qui, ma lo ripeti anche altrove: toglierei la virgola prima della \"e\", quando non si voglia attribuire un particolare ritmo alla frase. Qui non ne vedo la necessità.",
+                "qui l'uso dei due punti dà la sensazione di una spiegazione dotta e in certo qual modo fa sentire il lettore \"ignorante\"; puoi annullare questo effetto scrivendo:",
+                "un effetto cromatico che indica la calma prima di una burrasca, come i navigatori esperti sanno bene .",
+                "il senso rimane inalterato, ma il lettore non si sente il dito puntato contro",
+                "Vale qui ciò che dicevo all'inizio, anche se non si tratta di sentimenti o sensazioni: la descrizione del personaggio in questo modo risulta troppo statica. Scriverei:",
+                "La capacità di saper resistere in mare anche in condizioni estreme e la grande esperienza gli erano valsi il soprannome di \"El Loco\" , o qualcosa di simile.",
+                "La meccanica non credo abbia un ciclo di vita; scriverei \"i congegni meccanici\"",
+                "vano e inutile sono sinonimi: via uno dei due. Quello che rimane va posposto al nome: sarebbe stato solo un tentativo inutile .",
+                "Attento qui: l'uso del trattino per riportare i dialoghi ha delle regole precise. Non va mai chiuso alla fine, a differenza delle caporali e delle virgolette alte, e il tratto va lungo (Alt0150 sulla tastiera); quello breve si usa per unire due vocaboli, come per esempio grigio-azzurro . In più manca il punto, ma credo che questo sia un refuso, perché nelle battute successive lo hai messo regolarmente.",
+                "Ricapitolando, puoi scrivere in uno dei seguenti modi:",
+                "– Grazie.",
+                "«Grazie.»",
+                "\"Grazie. \"",
+                "sei bottiglie, i numeri vanno riportati in lettere a meno che non si tratti di date.",
+                "mancò per un soffio di essere salvato da un paio di mercantili , come hai scritto tu significa che lui non è riuscito a salvare i mercantili.",
+                "parlava , perché stai scrivendo al passato.",
+                "Nel caso tu voglia intendere che se ne parla ancora oggi, devi aggiungere un'espressione di tempo che lo renda esplicito:",
+                "Divenne presto il caso mediatico di cui tutto il mondo parla ancora oggi ( ancora ai nostri giorni, il caso mediatico di cui non si è spenta l'eco e simili.)",
+                "virgola, non due punti",
+                "È un testo dalla costruzione narrativa molto originale e contiene delle belle descrizioni.",
+                "Qua e là c'è da lavorare sullo stile e sulla punteggiatura, ma il racconto risulta interessante e piacevole da leggere.",
+                "Buon proseguimento."
+            ],
+            "timestamp": "2019-12-13T01:04:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805550"
+        }
+    ],
     "text": [
         "Naufragio interpolare",
         "(Schizofonia, var.1)",
