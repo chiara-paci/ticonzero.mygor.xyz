@@ -68,8 +68,18 @@
     },
     "num_chars": 449,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 805596,
+            "text": [
+                "Ciao Ormai avevo la convinzione di aver scritto l'ennesima schifezza. Le tue parole sono per me inaspettate e sorprendenti. Grazie!",
+                "Bella la canzone di Faber, non la conoscevo."
+            ],
+            "timestamp": "2019-12-13T10:11:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45524-tram//?do=findComment&comment=805596"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Comment",
