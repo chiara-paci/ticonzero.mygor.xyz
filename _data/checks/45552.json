@@ -60,8 +60,35 @@
     },
     "num_chars": 4990,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 805609,
+            "text": [
+                "Carissimo , sono onorato del tempo che mi hai dedicato. Oltretutto, deduco che tu lo abbia fatto a un'ora infame della notte, per cui, grazie di cuore!",
+                "Adesso ti faccio ridere. Mi sono riletto mentalmente la frase in questione, e improvvisamente mi ha suonato nella testa con forte accento piemontese; \"incute veramente timore, eh, oh basta là!\" Ergo, l'ho polverizzata all'istante. Cambierei l'intera frase con \"Un cubo di mattoni a vista; la luce fredda e sfavillante di un neon ormai consunto e il tenue rumore della ventilazione forzata a tratti cancellano la sensazione del mondo esterno, dando l’impressione di galleggiare sperduti nello spazio siderale.\"",
+                "Che dici?",
+                "Sugli altri punti ho provveduto. Poi,",
+                "Sarebbe accettabile, così? Le meccaniche, come gli amori, hanno anch’esse una vita e una morte . Fa un po' slang da musicista, se chiedi a chiunque di noi cos'è una meccanica, subito pensiamo alle chiavi di uno strumento a fiato a al bordello di leve che c'è dentro la pianoforte. Insomma vorrei evitare di aggiungere \"congegni\" o simili, ma non so se in questo modo sia comprensibile a tutti, rischiando addirittura di sembrare un errore.",
+                "Grazie infinite per le dritte successive, che ho prontamente corretto.",
+                "Sono morto dal ridere. Poi sono andato a buttarmi nel lago",
+                "Ti ringrazio ancora, spero di leggerti presto!",
+                "Un abbraccio."
+            ],
+            "timestamp": "2019-12-13T10:58:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805609"
+        },
+        {
+            "post_id": 805615,
+            "text": [
+                "Ciao, sono veramente felice che ti sia piaciuto!",
+                "L'altra volta avevi auspicato più \"schizo\". Ebbene, la prossima (spero) lo sarà ancor più, l'idea è quella di pubblicare una serie di variazioni sul tema dove la follia andrà in crescendo.",
+                "Ci vediamo presto per il terzo capitolo di Manto!"
+            ],
+            "timestamp": "2019-12-13T11:10:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805615"
+        }
+    ],
     "post_staff": [
         {
             "author": {
