@@ -58,8 +58,17 @@
     },
     "num_chars": 3111,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 805840,
+            "text": [
+                "Grazie 💕"
+            ],
+            "timestamp": "2019-12-14T10:00:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805840"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Presenza ingombrante",
