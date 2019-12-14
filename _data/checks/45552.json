@@ -60,7 +60,7 @@
     },
     "num_chars": 4990,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 805609,
@@ -99,6 +99,15 @@
             ],
             "timestamp": "2019-12-13T23:34:49Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805783"
+        },
+        {
+            "post_id": 805876,
+            "text": [
+                "Ma certo , l'intento andava proprio in quella direzione! La \"piccola nota\" era giusto per raccontare come fosse nata l'idea. Ti dirò la verità, appena inviato il commento ho pensato anch'io non fosse stata una buona idea, e la cosa potesse in qualche modo far riscendere a terra l'immaginazione. Buono a sapersi.",
+                "Grazie mille per il tuo contributo e per il commento, a presto!"
+            ],
+            "timestamp": "2019-12-14T13:24:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805876"
         }
     ],
     "post_staff": [
