@@ -1,0 +1,65 @@
+{
+    "author": {
+        "author_id": 23565,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Plop Stories",
+        "url": "https://www.writersdream.org/forum/profile/23565-plop-stories/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , complimenti per il racconto, ironico al punto giusto e molto piacevole.",
+                    "Mi è piaciuto soprattutto lo stile con cui hai reso la protagonista: ci si immagina bene (o almeno l'ho fatto io) questa signora snob che borbotta tra se mentre si sistema addosso i \"vestiti\". Rendi anche molto bene sia l'idea di come la madre si sia relazionata in vita con la figlia e che la trama, che, per quanto lo permette la brevità, è ben gestita: se è vero che ci si aspetta quello che sta per succedere, questo non toglie piacevolezza alla lettura.",
+                    "Due punti potrebbero essere migliorati: 1. La reazione della figlia: stride un po' il modo in cui si comporta con il fatto che è comparso il fantasma della madre. Credo che, dato che la tecnica non ti manca, potrebbe essere reso in maniera più coerente (ad esempio le frasi che dice la ragazza potrebbero essere cose che la madre si immagina la figlia possa dire, mentre questa si limita a rimanere immobile e attonita o a fare azioni per allontanarsi o scappare dal fantasma della madre). 2. Il titolo: non è male ma può forse essere migliorato anche per riflettere meglio lo stile ironico della storia.",
+                    "Per quanto riguarda la grammatica e la sintassi non ho trovato errori (ma sono un pessimo cacciatore di refusi).",
+                    "Complimenti ancora. E' molto difficile valutare i racconti degli altri e so bene come una frase detta male possa risultare spiacevole. Spero che questo non sia il caso di questo commento. Se così fosse, mi scuso in anticipo.",
+                    "Giacomo"
+                ]
+            ],
+            "timestamp": "2019-12-14T16:03:22Z",
+            "title": "Presenza ingombrante",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805908",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2775,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Un uomo si trasferì su un isola in mezzo al mare. L’isola era abbastanza ampia da essere ricca di animali di piccola taglia e da essere coperta da una bassa e densa vegetazione. Era un’isola deserta e fu scelta per iniziare una vita da nuovo Adamo, nudo, solo, e intenzionato a sostenersi per il resto della sua vita solo con quello che sarebbe riuscito a pescare e raccogliere.",
+        "Il primo giorno l’uomo percorse il perimetro della terra emersa e conquistò lo scoglio più alto, rimanendo a fissare l’orizzonte con il sole che iniziava piacevolmente a scaldargli la pelle chiara.",
+        "Il secondo giorno dormì, non essendo riuscito a chiudere occhio per tutta la notte a causa del freddo della caverna dove si era riparato e delle esplosioni delle onde poco distanti. Il terzo giorno raccolse qualche mollusco da mangiare e si annoiò a morte, non sapendo cosa fare. Il quarto giorno si mise a studiare gli animali dell’isola e si accorse come si possa scorgere il rapido battito del cuore delle lucertole che si scaldano al sole, che i granchi muovono incessantemente piccole protuberanze a livello della bocca e che i gabbiani, quando stanno fermi su speroni di roccia, spesso si guardano i piedi, abbassando il capo e piegando alternativamente la testa da una parte e dall’altra. Il quinto giorno, dopo tutte quelle osservazioni, non poté uscire all’aperto perché era completamente ustionato dal sole; provò a cospargersi la pelle di fango bagnato, per alleviare il dolore, ma il fango gli fece allergia e aggiunse alla scottatura anche il prurito. Il decimo giorno riuscì ad accendere il fuoco e fu un giorno piacevole, dato che aveva pescato una decina di granchi che riuscì a cuocere alla brace. Il ventesimo giorno aveva già perso dieci chili, ma cominciava a sentirsi più a suo agio su quel fazzoletto di terra in mezzo al mare. Le piante dei piedi cominciavano a irrobustirsi, la pelle a sopportare il sole e le sue mani avevano ormai appreso come afferrare i polpi tra gli scogli.",
+        "Il quarantesimo giorno l’uomo sapeva riconoscere l’odore di un’iguana che si avvicinava silenziosa, ma soprattutto si accorse di essere felice e di pensare di non essersi mai sentito così libero come lo era su quella piccola isola, talmente piccola da poter essere abbracciata con un unico sguardo.",
+        "Il cinquantesimo giorno era felice e basta, senza che ci fosse più alcun pensiero dietro alla sua felicità. Il sessantesimo giorno non sapeva più che giorno fosse ma poco gli importava e il sessantacinquesimo quasi si era dimenticato che qualche decina di chilometri ad est esistevano altri uomini come lui, ma che a differenza di lui camminavano su un terreno ben battuto, si lavavano con acqua dolce, si coprivano la pelle e vivevano la vita credendo che andare in ferie fosse sinonimo di libertà."
+    ],
+    "timestamp": "2019-12-14T16:06:44Z",
+    "title": "I gabbiani si guardano i piedi",
+    "topic_id": 45570,
+    "url": "https://www.writersdream.org/forum/forums/topic/45570-i-gabbiani-si-guardano-i-piedi/"
+}

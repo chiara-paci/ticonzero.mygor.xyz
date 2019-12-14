@@ -58,7 +58,7 @@
     },
     "num_chars": 3111,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 805840,
@@ -75,6 +75,16 @@
             ],
             "timestamp": "2019-12-14T14:28:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805888"
+        },
+        {
+            "post_id": 805915,
+            "text": [
+                "Ciao , grazie per la lettura e le critiche!",
+                "Per il titolo avevo giocato sull’ambiguità della parola “presenza”, sia per indicare un fantasma che una persona col caratterino della mia protagonista. Dici che non si coglie? O è troppo palese?",
+                "Per quanto riguarda la reazione di Marta non saprei, c’è già suo fratello a restarsene zitto, lei mi è sembrata talmente esasperata da non fare una piega alla comparsa invadente della madre anche al suo funerale. Però proverò a buttarne giù un’altra versione, così vedo quale mi convince di più"
+            ],
+            "timestamp": "2019-12-14T16:18:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805915"
         }
     ],
     "post_staff": [],
