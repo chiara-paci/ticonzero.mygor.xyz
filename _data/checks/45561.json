@@ -58,7 +58,7 @@
     },
     "num_chars": 3111,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 805840,
@@ -85,9 +85,32 @@
             ],
             "timestamp": "2019-12-14T16:18:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805915"
+        },
+        {
+            "post_id": 805960,
+            "text": [
+                "Grazie , sono d’accordo, la prima parte è un po’ troppo didascalica. Ci devo lavorare un po’"
+            ],
+            "timestamp": "2019-12-14T19:30:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805960"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 805959,
+            "text": [
+                "Ciao mi è proprio piaciuto il tuo racconto, mi hai sorpreso, sia per l'argomento che per l'abilità con cui hai trattato la tua protagonista, svelandola poco a poco. Hai dosato bene le informazioni creando aspettativa. Il racconto è corto, ma nasconde retroscena e fa sorgere domande. Trovo che la seconda parte funzioni meglio della prima; all'inizio il personaggio si incastra un po' tra la prima persona e la descrizione accurata di quello che vede, ma senza disturbare troppo.",
+                "Una lettura davvero piacevole"
+            ],
+            "timestamp": "2019-12-14T19:22:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805959"
+        }
+    ],
     "text": [
         "Presenza ingombrante",
         "Bel mortorio, eh. Ve ne siete andati tutti, abbandonandomi qui con solo i vestiti che ho addosso e qualche lenzuolo bucato. Bella famiglia! Begli amici! Ma sapete che non mi faccio certo togliere il sorriso da un po’ di polvere e qualche finestra sbarrata.",
