@@ -43,8 +43,17 @@
     },
     "num_chars": 8050,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 805927,
+            "text": [
+                "ah sì! era un errore di battitura: camminava per casa"
+            ],
+            "timestamp": "2019-12-14T17:25:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45493-una-nuova-strana-indagine-capitolo-1-1-2//?do=findComment&comment=805927"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sono ancora un po' indecisa sul titolo del capitolo. Questo è l'inizio del secondo giallo con gli stessi personaggi principali del primo.",
