@@ -3,8 +3,8 @@
         "author_id": 35074,
         "checks": {
             "contest": 0,
-            "flag": false,
-            "narrativa": 2,
+            "flag": true,
+            "narrativa": 1,
             "poesia": 0
         },
         "name": "Dino Vivaldi",
