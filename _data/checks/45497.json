@@ -55,8 +55,20 @@
     },
     "num_chars": 167,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 806007,
+            "text": [
+                "Più che bloccare la ricerca, volevo dare una sfumatura leggermente diversa, come uno spezzare un incantesimo, una sorta di liberazione dal fatto di doversi cercare e non trovare, riportando a una condizione in cui non si sente il bisogno e non viene nemmeno l'idea di fare questa ricerca perché non ci si è mai persi. ma è complicato renderlo bene, me ne rendo conto.",
+                "Mi è piaciuta molto la tua poesia. Ne ho lette già diverse di quelle che hai postato e le ho anche commentate, quindi ti dico: brava (sei donna, giusto?). Le ho trovate tutte molto gradevoli e azzeccate.",
+                "Talia",
+                "Non ho sesso."
+            ],
+            "timestamp": "2019-12-15T09:06:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45497-nascondino//?do=findComment&comment=806007"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Comment",
