@@ -48,9 +48,25 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806173,
+            "text": [
+                "Sei un folle. Bizarro Fiction pura... grandissima fantasia. Una storia pazzescamente assurda... come ti ho sempre detto, te dovresti scrivere per la tv o per Netfix.",
+                "Se devo proprio farti un appunto, avrei preferito più slang nella prima parte, proprio nell'incipit, fino a alcol a fiumi Non che sia \"sbagliato\" lo stile che hai scelto, intendiamoci... ma è fin troppo \"prudente\". Considerando il resto, un po' di slang, qualche \"Cazzo cazzo cazzo ma dove sono?\" o qualunque cosa del genere, ci poteva stare!",
+                "Bello bello però"
+            ],
+            "timestamp": "2019-12-15T19:56:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806173"
+        }
+    ],
     "text": [
         "prompt di mezzanotte",
         "Freddo.",
