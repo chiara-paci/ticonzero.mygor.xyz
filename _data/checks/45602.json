@@ -1,0 +1,73 @@
+{
+    "author": {
+        "author_id": 24463,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Adelaide J. Pellitteri",
+        "url": "https://www.writersdream.org/forum/profile/24463-adelaide-j-pellitteri/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.3511111111111111,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.3511111111111111
+            },
+            "text": [
+                [
+                    "Ecc,o leggo il tuo e mi passa la voglia di postare, ma ormai la fatica è fatta, quindi chino la testa e procedo.",
+                    "I tuoi pezzi sono sempre av-vincenti.",
+                    "Questo è bellissimo",
+                    "Sono tante le immagini che ho apprezzato, piaciuta anche la trama: il mondo dei pazzi va in pezzi. Una clinica psichiatrica in piena regola. Bravissimo a mostrare senza dire (vabbè, tu il mestiere lo hai nel sangue).",
+                    "Originale l'insalata di pillole."
+                ]
+            ],
+            "timestamp": "2019-12-15T22:26:42Z",
+            "title": "[MI 132] Schizo di mare",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=806225",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 1852,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzogiorno: Lo zoo",
+        "Lo avrebbero trasferito in Inghilterra, al Port Lympne Wild Animal Park, lo zoo più grande d’Europa. Per questo motivo era emozionato. Sarebbe stato il richiamo del secolo, veniva dal Sud America, lui.",
+        "Con quel piumaggio dai colori sgargianti e la vena canterina, avrebbe stupito orde di bambini, flotte di adulti, gente locale e straniera.",
+        "Aveva sempre desiderato viaggiare. Così, resosi conto che nella foresta si aggirava Gauber Brikman – un naturalista di fama mondiale – aveva fatto di tutto per farsi acchiappare .",
+        "Smanioso di evadere per conoscere il mondo, avrebbe abbandonato – ed era ora – la sua vecchia casa, ettari ed ettari di verde, sempre verde, troppo verde, solo verde.",
+        "Si era stufato di svolazzare da un albero all’altro per conquistare le belle , monogamo non era mai stato. Invidiato sì, per la sua stazza, la cresta, i colori assai rari, quel suo petto gonfio d’orgoglio. Un reuccio da foresta pluviale.",
+        "Da anni, lo zoo gli frullava in testa, avesse avuto coraggio avrebbe spiccato il volo e lo avrebbe raggiunto a colpi d’ali e canzoni.",
+        "L’idea che a tutte le razze potesse aggiungersi lui, bello come pochi, importante come nessuno, lo esaltava.",
+        "Ma chi avrebbe mai immaginato esistesse una terra con il cielo mai blu? Chi poteva sapere esistesse un verde tanto cupo da levare il respiro?",
+        "Ai suoi colori venne a mancare la luce.",
+        "I bambini lo guardavano appena e solo da dietro un cellulare, giusto il tempo di scattare una foto e subito passavano ad altro. Un complimento o un sorriso, il pappagallo Toledo, non lo strappava neppure agli adulti; tutti sembravano aver visto di meglio, e tiravano dritto strattonando i figlioli.",
+        "Tre alberi e una stanza con muri e soffitto in rete metallica, la sua nuova casa.",
+        "Provava ancora cantare, ma lì c’è chi grugnisce, chi bela, barrisce…",
+        "E alla fine non lo sente nessuno."
+    ],
+    "timestamp": "2019-12-15T22:33:12Z",
+    "title": "Il Pappagallo Toledo",
+    "topic_id": 45602,
+    "url": "https://www.writersdream.org/forum/forums/topic/45602-il-pappagallo-toledo/"
+}

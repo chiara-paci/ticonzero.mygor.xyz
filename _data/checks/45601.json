@@ -1,0 +1,57 @@
+{
+    "author": {
+        "author_id": 14049,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Emy",
+        "url": "https://www.writersdream.org/forum/profile/14049-emy/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7529,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia di Mezzanotte: bagnato",
+        "Capita che un giorno, al risveglio, il tuo mondo si capovolge e ti trovi davanti a un muro di ghiaccio, le braccia incrociate e gli occhi strabuzzati, a chiederti se sei ubriaco, drogato o forse stai soltanto assistendo a un brutto scherzo del destino o della natura.",
+        "Accendi la tv e fai il primo caffè del mattino, accompagnato dall'immancabile sigaretta, e mentre lo sguardo si perde negli anelli di fumo che escono dalla tua bocca assonata, senti la conduttrice parlare di un fenomeno curioso. Spegni di corsa il fornello e vai davanti allo schermo, che riflette le prime immagini della linea di demarcazione, così l'hanno chiamata gli esperti. Rimani di stucco. È proprio lo stesso colosso ghiacciale che si vede dal tuo balcone, al posto dove fino a ieri c'era il grande parcheggio abusivo che il comune voleva trasformare in un parco giochi per i bambini del quartiere.",
+        "«La città ora — spiega l'inviato, un tipo calvo e occhialuto — è divisa in due da questa muraglia trasparente, che si suppone sia di ghiaccio, ma si tratta solo di una prima ipotesi, avvertono gli studiosi.»",
+        "Non ascolti più il resoconto del tizio perché la tua mente è già dall'altra parte, quella dove le vie sono pulite e il traffico sempre in ordine, i palazzi alti fino a toccare il cielo, e la gente veste come se da un momento all'altro dovesse andare in passerella. Lì, proprio in uno di quei grattacieli moderni, dove basta la propria voce per aprire le porte e accendere le luci, sapere che tempo fa e se la tua squadra ha vinto o perso l'ultima partita, vive lei. Lucilla. Il tuo unico ricordo bello dell'infanzia e del posto in cui è sorto ora il muro, dove giocavate a nascondino tra le macchine parcheggiate storte e senza che l'autista sborsasse un centesimo allo stato.",
+        "Non sai perché, ma hai una voglia matta di mandarle una lettera, tu che non andavi mai d'accordo con la scuola che hai abbandonato subito dopo gli anni d'obbligo, mentre lei si è persino laureata e oggi è una scrittrice affermata. La vedi spesso in televisione, a parlare delle sue opere e i premi vinti in Patria e all'estero. Non menziona mai il passato e il quartiere malfamato in cui è cresciuta. Come tutti che vivono dall'altra parte, si vergogna di quelli come te che nella vita hanno combinato solo guai.",
+        "Ti trascini fino alla stanza da letto e tiri fuori da un cassetto il vecchio quaderno del periodo in cui Lucilla ti guardava ancora con gli occhi meravigliati di chi assapora l'amore per la prima volta, sotto la coperta trasandata e bucata in più punti da una scintilla volata per sbaglio dall'ultima sigaretta condivisa. Tra le pagine c'è ancora la fotografia in bianco in nero che vi ritrae abbracciati sulle scale della scuola, alle vostre spalle la classe e la maestra. Eravate solo bambini spensierati. Poi siete cresciuti e una società consumistica, che non perdona la povertà, vi ha divisi per sempre.",
+        "Strappi dal quaderno un foglio a righe e prendi dall'astuccio una penna a sfera. È una fortuna che funzioni ancora, dopo anni di inattività. Scrivi, la prima cosa che ti viene in mente.",
+        "Cara Lucilla,",
+        "Non so se ti ricordi di me, è passato del tempo da quando, ancora ragazzini, ci rincorrevamo tra le macchine del parcheggio di via dei Sorci. Portavi un vestitino a fiori, che prima di te avevano indossato la tua sorella maggiore e due cugine di secondo grado e le trecce, ai lati della testolina bionda, profumavano di mela cotogna. Ecco, ogni volta che penso all'infanzia e all'adolescenza, e soprattutto ai giorni che precedettero il tuo trasferimento dall'altra parte, io sorrido. Sorrido perché, anche se non ti ho mai detto, quelli erano gli anni più belli della mia vita.",
+        "Corse a piedi nudi e impolverati, tra le viuzze strette e i muri scrostati, su cui con il gesso colorato scrivevamo i nostri nomi all'interno di un cuore dai bordi incerti. Sotto il sole, sotto la pioggia. Persino con la neve che scricchiolava sotto le scarpe consumate e spesso bucate, come i calzini che le nostre madri ci rammendavano alla luce fioca di una candela. Ricordo tutto come se fosse ieri, e tu? Mi avrai dimenticato sicuramente.",
+        "Ti chiederei perché di questa lettera adesso, dopo anni che non ci siamo più visti né scritti, se non per Natale qualche volta, prima che i biglietti si sono rarefatti, per smettere di arrivare del tutto. Da quando stamattina ho visto quella muraglia di ghiaccio, proprio lì dove da bambini ci siamo dati il nostro primo bacio dietro la vecchia citroën di mio padre, non riesco a toglierti dalla testa.",
+        "Non ho idea cosa sia quel coso trasparente, né come è possibile che la pioggia si sia fermata in quel modo, perché è stata la pioggia, di ieri sera, a creare tutto quel casino di cui a quest'ora parleranno le tv di tutto il mondo. Lo penseresti anche tu, se fossi stata sul balcone a fumare quando il cielo si è illuminato a intermittenza, come fosse l'albero di Natale, di tutti i colori dell'arcobaleno. Niente tuoni però, solo una raffica pazzesca, ma non erano le solite gocce, bensì dei chiodi scintillanti che tappezzavano l'aria, fino a bloccarla. Per un po' ho respirato a fatica. Una sensazione spiacevole, che non scorderò mai.",
+        "È un fenomeno del tutto nuovo, dicono. Anche gli esperti sono divisi. Ma questo lo saprai già, dall'altra parte siete sicuramente più informati di noi. Vorrei solo sapere di te, come vivi questi momenti concitati. Se avessi un computer, a malapena sono riuscito a ottenere un televisore che trasmette ancora in bianco e nero, ti scriverei una mail e sarei certo di una risposta rapida. Ora, con quel muro di mezzo, la posta sarà sicuramente sospesa. Eppure imbucherò questa lettera lo stesso. Non si sa mai. Tuo Étienne",
+        "Rileggi la lettera più volte. Forse è un po' stucchevole, ma chi se ne frega. È importante che l'hai scritta con il cuore. Cerchi tra le bollette scadute e mai pagate una busta vuota in cui infilare il foglio. Comprerai un francobollo al tabacchino, con i pochi spicci che ti sono rimasti. Lucilla vale di più di un pasto decente, che in qualche modo riuscirai a rimediare.",
+        "In strada, ovunque guardi, c'è gente. Si sono formati i gruppetti che commentano sottovoce quel muro gigante apparso dal nulla durante la notte. È come se tutta la pioggia si fosse concentrata in un unico luogo. Mentre cammini ti meravigli della totale assenza di pozzanghere. Da qualche parte sarà pure finita tutta quell'acqua. Poi alzi lo sguardo davanti e sorridi. Tu una spiegazione ce l'hai, anche se non sai come giustificarla. Non sei uno scienziato e persino i camici bianchi barcollano nel buio, ma forse la tua idea non è nemmeno così stramba come credi.",
+        "Ti chiedi cosa direbbe Lucilla ora e se anche lei, dall'altra parte, sta osservando la muraglia di ghiaccio. Ti sembra di poterla vedere, con un taccuino e penna in mano, mentre scarabocchia le prime impressioni che forse un giorno faranno parte del suo nuovo romanzo. Chissà se si ricorda di te e del parcheggio in via dei Sorci o si è già dimenticata del vostro primo bacio che non ha avuto alcun significato per lei. Vorresti chiederglielo di persona, ma c'è sempre quel maledetto coso trasparente che vi divide.",
+        "Infili la mano nella tasca. Al tocco con le dita screpolate la carta fruscia. Tiri fuori la lettera e la guardi. Lì, nella busta, c'è la Lucilla della tua infanzia. Dall'altra parte un'estranea che porta il suo nome. Il passato e il futuro e in mezzo un ostacolo in apparenza insormontabile. È un rischio, ma senti che vale la pena di correrlo. Fai un respiro profondo e scatti come un razzo."
+    ],
+    "timestamp": "2019-12-15T22:32:15Z",
+    "title": "[MI132] La città della muraglia ghiacciale",
+    "topic_id": 45601,
+    "url": "https://www.writersdream.org/forum/forums/topic/45601-mi132-la-citt%C3%A0-della-muraglia-ghiacciale/"
+}

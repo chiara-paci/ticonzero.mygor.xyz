@@ -55,8 +55,17 @@
     },
     "num_chars": 8007,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 806195,
+            "text": [
+                "Grazie, socia."
+            ],
+            "timestamp": "2019-12-15T20:45:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45593-mi-132-%C3%A8-morto-lo-zoo-viva-lo-zoo//?do=findComment&comment=806195"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia di mezzogiorno. Nuovo arrivo allo zoo",
