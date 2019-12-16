@@ -56,8 +56,22 @@
     },
     "num_chars": 6212,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 806451,
+            "text": [
+                "Ciao grazie! Sono contenta che ti sia piaciuto. L'ho postato con tanti dubbi, mi sembrava ben lontano dall'essere un racconto compiuto, mi pareva di avere esagerato con i dialoghi, ad esempio. Quindi il tuo commento mi rincuora molto. Grazie ancora!",
+                "Ciao",
+                "Accidenti! A questo non ci avevo proprio pensato! È proprio difficile entrare nella testa di un uomo!",
+                "Ma sì, dai, si può sempre fare una partita di pallanuoto.",
+                "Grazie del passaggio e del commento!",
+                "A presto!"
+            ],
+            "timestamp": "2019-12-16T16:28:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=806451"
+        }
+    ],
     "post_staff": [
         {
             "author": {

@@ -51,7 +51,7 @@
     },
     "num_chars": 1316,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 806304,
@@ -70,6 +70,15 @@
             ],
             "timestamp": "2019-12-16T14:26:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806393"
+        },
+        {
+            "post_id": 806449,
+            "text": [
+                "Ciao Leo, ciao Adelaide. Grazie mille",
+                "Ciao Bef, grazie... maschi nocivi?"
+            ],
+            "timestamp": "2019-12-16T16:24:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806449"
         }
     ],
     "post_staff": [

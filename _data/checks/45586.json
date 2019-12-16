@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 806158,
@@ -87,6 +87,14 @@
             ],
             "timestamp": "2019-12-16T13:28:34Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806373"
+        },
+        {
+            "post_id": 806420,
+            "text": [
+                "Grazie , mi impegno per i Tardigradi."
+            ],
+            "timestamp": "2019-12-16T15:43:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806420"
         }
     ],
     "post_staff": [

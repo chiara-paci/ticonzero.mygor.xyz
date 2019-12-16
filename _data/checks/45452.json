@@ -56,7 +56,7 @@
     },
     "num_chars": 5200,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 803838,
@@ -68,6 +68,15 @@
             ],
             "timestamp": "2019-12-03T19:01:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=803838"
+        },
+        {
+            "post_id": 806382,
+            "text": [
+                "Utilissima, grazie.",
+                "Mi trovo d'accordo con le tue osservazioni. Proverò a seguire i tuoi consigli."
+            ],
+            "timestamp": "2019-12-16T13:57:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=806382"
         }
     ],
     "post_staff": [],
