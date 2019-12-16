@@ -108,7 +108,7 @@
     },
     "num_chars": 7887,
     "num_commenti": 2,
-    "num_posts": 7,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 806091,
@@ -130,6 +130,25 @@
             ],
             "timestamp": "2019-12-16T16:58:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806479"
+        },
+        {
+            "post_id": 806586,
+            "text": [
+                "Ma grazie del ben tornato!",
+                "E grazie anche del commento molto interessante; partendo da ciò che hai detto si potrebbe parlare per ore di narrativa, società, politica, sociologia, didattica ecc...",
+                "Anche il discorso stesso del: \"cosa voglio che sia\" il mio scritto, o \"a chi voglio che arrivi\"...",
+                "E quindi grazie per aver dedicato del tempo per soffermarti a leggere e a riflettere su questo racconto che, in effetti, si presta a digressioni di questo tipo."
+            ],
+            "timestamp": "2019-12-16T22:24:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806586"
+        },
+        {
+            "post_id": 806591,
+            "text": [
+                "Guarda, vengo da due romanzi di Gianni Tetti nell'ultimo mese (un mostro di bravura e di crudezza), e lui lo fa spesso ed è favoloso. Piccoli \"errori\" nel parlato, frasi monche ecc.."
+            ],
+            "timestamp": "2019-12-16T22:32:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806591"
         }
     ],
     "post_staff": [
@@ -163,6 +182,35 @@
             ],
             "timestamp": "2019-12-16T16:58:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806479"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806586,
+            "text": [
+                "Ma grazie del ben tornato!",
+                "E grazie anche del commento molto interessante; partendo da ciò che hai detto si potrebbe parlare per ore di narrativa, società, politica, sociologia, didattica ecc...",
+                "Anche il discorso stesso del: \"cosa voglio che sia\" il mio scritto, o \"a chi voglio che arrivi\"...",
+                "E quindi grazie per aver dedicato del tempo per soffermarti a leggere e a riflettere su questo racconto che, in effetti, si presta a digressioni di questo tipo."
+            ],
+            "timestamp": "2019-12-16T22:24:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806586"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806591,
+            "text": [
+                "Guarda, vengo da due romanzi di Gianni Tetti nell'ultimo mese (un mostro di bravura e di crudezza), e lui lo fa spesso ed è favoloso. Piccoli \"errori\" nel parlato, frasi monche ecc.."
+            ],
+            "timestamp": "2019-12-16T22:32:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806591"
         }
     ],
     "text": [

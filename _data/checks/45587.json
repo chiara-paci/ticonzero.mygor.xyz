@@ -48,8 +48,22 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 806574,
+            "text": [
+                "Io intendevo \"di getto\" come \"subito, istantaneamente\", ma la tua segnalazione mi fa capire che forse era meglio usare altro",
+                "Nel tentativo di voler ambientare un po' di più il testo, ho forse calcato troppo la mano.",
+                "ahahahahah! Mi hai fatto ridere di cuore Grazie per il passaggio e per le belle parole, caro",
+                "Una roba del genere detta da te è praticamente una medaglia da attaccare al petto. Felice per il tuo passaggio e per il tuo apprezzamento. Davvero di cuore.",
+                "L'obiettivo era proprio quello! Meno male che è riuscito Grazie anche a te per il passaggio, carissimo",
+                "P.S.: segnalo che cerco di commentare da tutto il giorno sul forum da cellulare (Samsung Galaxy Note 8) con Firefox come browser e scrivevo, ma il testo non compariva nella casella apposita. Non so che tipo di bug sia, ma magari qualcuno può risolverlo. Ora da pc funziona tutto."
+            ],
+            "timestamp": "2019-12-16T21:54:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806574"
+        }
+    ],
     "post_staff": [
         {
             "author": {
