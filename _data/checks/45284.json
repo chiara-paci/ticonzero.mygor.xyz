@@ -1,0 +1,383 @@
+{
+    "author": {
+        "author_id": 21140,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Elisabeta Gavrilina",
+        "url": "https://www.writersdream.org/forum/profile/21140-elisabeta-gavrilina/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Confesso subito che ho da pubblicare un mio racconto e ti ho scelto come “vittima” per scrivere il commento. Non me ne volere.",
+                    "Il racconto è fluido, salvo alcuni punti. Si legge volentieri e alla fine strappa un sorriso.",
+                    "Da rivedere la punteggiatura (tanto per rigirare il coltello nella piaga) e da alleggerire alcune frasi. Anche io ho questo vizio: mettere in una frase di tutto di più. Invece merita dare più respiro al testo in alcuni passaggi. A volte invece occorre togliere il superfluo (ma te l’hanno già segnalato).",
+                    "Si coglie l’ironia, a tratti quasi caricaturale. Non è facile scrivere racconti ironici e umoristici, di solito sono piatti. Con un po’ di allenamento ci riuscirai senz’altro. Anzi, sei già a buon punto. La stoffa c’è, basta curare di più il testo, i pensieri e i dialoghi.",
+                    "Davide capisce che non è un giorno come un altro; si sente con la schiena a pezzi, al primo sbadiglio resta inclinato per paura di raddrizzarsi troppo presto.",
+                    "- Secondo me, cominci con una frase troppo lunga, la spezzerei. La punteggiatura è da rivedere.",
+                    "…al primo sbadiglio resta inclinato – si rimane inclinati per uno sbadiglio?",
+                    "…ha dolore nel muovere il collo … si stiracchia e si prepara per uscire.",
+                    "- Queste due frasi sono in contraddizione tra loro",
+                    "…va al bagno, si veste,",
+                    "- Avevo capito che va al bagno a vestirsi",
+                    "…apre l'armadio e regala la propria immagine allo specchio",
+                    "- Ben detto!",
+                    "- Io gli avrei fatto scoprire il primo capello bianco nel bagno, mentre si lava i denti. Poi lo farei andare a specchiarsi all'armadio per appurare la scoperta alla luce naturale. Ci giocherei un po’, ecco.",
+                    "Individua un punto preciso sulla tempia destra e solleva un capello tra pollice e indice con le altre dita a ventaglio.",
+                    "È bianco.",
+                    "Un capello bianco.",
+                    "Il terrore lo assale e rivede in un attimo la propria vita.",
+                    "- divertente e scorrevole, riesco a immaginare i gesti",
+                    "…la successiva metafora astronomica è una conferma della saggezza acquisita.",
+                    "- Piaciuta l’ironia. Bravo",
+                    "Si sente vecchio, la foto dell'ultimo compleanno gli sembra un sogno lontano secoli: lui con gli amici davanti a una torta con sopra un ventisei che ardeva di fiammelle.",
+                    "- Accidenti, sentirsi vecchio a 27 anni… Non ti dico quanti ne ho io…",
+                    "La felicità, “tornassi giovane…” L'ha fatto di nuovo, i ricordi; il maledetto capello bianco, come un virus che succhia vita per lasciare obsolescenza.",
+                    "- Mi pare un passaggio un po’ ingarbugliato, non l’ho capito bene. Sicuramente da rivedere la punteggiatura. Provo a rimaneggiare il brano:",
+                    "\"Tornassi giovane...\"",
+                    "Ripensa a quanto era felice e si immerge nei ricordi, come fanno i vecchi. Il maledetto capello bianco è come un virus che succhia vita per lasciare obsolescenza.",
+                    "Basta, sta impazzendo. Demenza senile, \"no!\", un lungo sospiro, deve uscire, ha solo dormito male, niente di più.",
+                    "- anche questo è ingarbugliato.",
+                    "“Demenza senile”. Il pensiero come un lampo gli attraversa la mente. “Basta, sto impazzendo”.",
+                    "Un lungo sospiro. Deve uscire, ha solo dormito male, niente di più.",
+                    "Si ispeziona, \"forse non è vero, forse avevo sonno e non ho visto bene\". No, è sempre lì e ce n'è un altro a circa un centimetro, vicino l'orecchio. \"No! Falso allarme!\" ma potrebbe essercene uno dall'altra parte, per un fatto di simmetria. \"Bella la simmetria\", sorride... bella la simmetria? No, basta, deve davvero uscire e per prima cosa chiude quel maledetto armadio con lo specchio sull'anta destra.",
+                    "- Anche qui rivedrei la sequenza delle frasi e la punteggiatura.",
+                    "\"No! Falso allarme!\" – non l’ho capito. Il cappello bianco c’è o non c’è?",
+                    "Appena uscito di casa, torna indietro e si ferma a controllare se ha chiuso il portone;",
+                    "- Volevi dire: appena si è allontanato.",
+                    "…non ben inquadrata nel proprio ruolo lavorativo.",
+                    "- in che senso? O non fa l’aiutante barista?",
+                    "\"Ha passato da poco la teoria, forse sta facendo le guide\"",
+                    "- ho riletto più volte e mi è venuto il dubbio: parli di scuola guida? Merita specificarlo, altrimenti non si capisce cosa c’entrano i cappuccini.",
+                    "… dicendole che la barista avesse un bel sedere (tanto per avere una scusa per guardarla)",
+                    "- la barista o l’aiutante?",
+                    "…e oggi quella ragazzina è diventata sua figlia o, meglio, la figlia dei vicini.",
+                    "- Un po’ambigua, la frase. Questioni di corna? (scherzo) J",
+                    "«Un cornetto integrale al miele», tocca a lui.",
+                    "- Girerei la frase in questo modo:",
+                    "Tocca a lui. «Un cornetto integrale al miele»",
+                    "…\"Sì, che poi il latte caldo di mattina mi fa male\".",
+                    "- Chi lo dice?",
+                    "Di nuovo, sente di invecchiare di minuto in minuto; il capello bianco si diffonde, non vede nemmeno la ragazza che si muove, fascinosa e aggraziata e che arriva da lui con l'ordinazione.",
+                    "- Divertente, piaciuto. L’unica pecca è che sembra che sia il cappello bianco a non vedere la ragazza. Anche qui da rivedere la punteggiatura.",
+                    "Lo raggiunge una chiamata della fidanzata che gli propone una passeggiata sul lungomare; accetta, gli farà bene per il mal di schiena.",
+                    "- Rivedrei la punteggiatura e fornirei qualche dettaglio in più: e contento della chiamata o infastidito? Metterei anche due battute di dialogo.",
+                    "Già pensa agli acciacchi con le soluzioni,",
+                    "- Già pensa agli acciacchi e alle medicine, alle pasticche da prendere tre volte al giorno, alle gocce sul comodino…",
+                    "Smette di pensare…",
+                    "- la vedo un po’ difficile, smettere di pensare",
+                    "all'angolo della strada dove degli operai stanno scavando un pozzetto e hanno fatto da cui sporgono solo dalle spalle in su.",
+                    "- A parte la svista di copia-incolla (non voglio rigirare il coltello nella piaga), questi operai si visualizzano bene. Non tutti ci riescono nella scrittura evocativa, bravo!",
+                    "Si ferma a guardare, pochi secondi prima di odiarsi.",
+                    "- Vedrei più scorrevole: Si ferma a guardare, e dopo pochi secondi si sente come quei vecchi che passano ore a guardare i cantieri. Così si toglie un riflessivo.",
+                    "«Non è più caldo come questa estate, rischio di prendermi qualcosa», niente da fare.",
+                    "- Toglierei “niente da fare”",
+                    "Poi ho anche un mal di schiena che... guarda, meglio che non te lo dico!»",
+                    "- Sembra che le faccia vedere la schiena",
+                    "Indica la zona dove ha visto il capello incriminato quella mattina.",
+                    "La ragazza si avvicina a lui, lo osserva con accuratezza",
+                    "- Meglio “con attenzione”",
+                    "… con uno scatto deciso lo estirpa sotto gli occhi infastiditi dell'altro.",
+                    "- Bello questo “estirpa”. Ma non sotto gli occhi perché lui non lo può vedere.",
+                    "«Sai...», riprende lui, «la barista ha un bel sedere».",
+                    "- bella la frase finale.",
+                    "A rileggerci!",
+                    "Eli"
+                ]
+            ],
+            "timestamp": "2019-11-19T23:26:48Z",
+            "title": "Autunno e primavera",
+            "url": "https://www.writersdream.org/forum/forums/topic/45053-autunno-e-primavera//?do=findComment&comment=800945",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3197,
+    "num_commenti": 1,
+    "num_posts": 28,
+    "post_after": [
+        {
+            "post_id": 800947,
+            "text": [
+                "Non è un racconto autobiografico"
+            ],
+            "timestamp": "2019-11-19T23:30:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=800947"
+        },
+        {
+            "post_id": 801229,
+            "text": [
+                "Grazie per il commento",
+                "L'idea del racconto è nata da una vecchia intervista a Mariangela Melato. Questa donna straordinaria affermava che la mattina più si vedeva brutta allo specchio, più cercava di provare l'amore per se stessa. (le parole testuali non me le ricordo ma il senso era questo)",
+                "Avevo dimenticato che in Occidente l'idea di amare se stessi si associa al narcisismo. Il messaggio del racconto voleva essere un altro.",
+                "Se non si ama se stessi non si può amare nemmeno gli altri, lo sa ogni psicologo. E di sicuro, in fondo all'animo non ci si sente degni di essere amati.",
+                "Ci sei andato vicino. Quello di cui parlavo però è più dell'accettazione, più dell'autostima. È proprio l'Amore, con la A maiuscola.",
+                "Quello che ci spinge a superare i propri limiti, a turare fuori dal cassetto i nostri sogni, a non dare retta alla vocina interiore che dice \"non ce la farai mai\" e risponderle \"almeno ci provo\". Andare avanti anche quando gli altri ti criticano e ti fanno capire che non vali nulla.",
+                "In altre parole, se non ti accetti così come sei, non puoi cambiare.",
+                "Per questo ho scomodato il Poeta, per cercare di essere più chiara.",
+                "Solo con l'amore si possono curare le proprie ferite interiori. Funziona così, non è questione di egoismo o narcisismo. Le ferite degli altri non si possono curare: ognuno deve fare il proprio percorso.",
+                "Noi donne siamo state educate nello spirito di sacrificio e di sopportazione, e l'amore per se stesse spesso ci manca.",
+                "Solo quando ne siamo colmi da traboccare, possiamo darlo agli altri.",
+                "Sapessi quante persone ne soffrono... Non c'è un limite d'età. I traumi avuti da piccoli ce li portiamo per tutta la vita. A volte ci sembra di aver superato questi problemi, ma in realtà li abbiamo solo \"tamponati\". La psicoanalisi lo chiama \"rimozione\".",
+                "L'amore, l'accettazione incondizionata di se stessi con tutti i difetti, le paure e le insicurezze è l'unica cosa che ci permette di superarli e diventare persone migliori. Anche questo ti dirà ogni psicologo.",
+                "Mi sembrava di aver scritto un'altra cosa:",
+                "Io parlavo di amarsi cosi come siamo. Si vede che il messaggio non è arrivato.",
+                "È pur vero che esistono industrie dei cosmetici e i chirurghi plastici fanno affari d'oro (la questione riguarda anche i maschi ) Questo mi dice quanta insicurezza e paura del giudizio c'è nelle persone.",
+                "Per noi donne truccarsi è normale, lo facciamo ogni mattina. Non avevo pensato che questo gesto abituale potesse infastidire gli uomini e creare l'equivoco.",
+                "La frase chiave non è",
+                "cosa che noi donne, dopo essersi truccate vediamo allo specchio ogni mattina, ma la seguente:",
+                "ciò è trasformata dentro, più fiduciosa.",
+                "E comunque, l'aspetto esteriore non è da trascurare. Il modo di vestire, di camminare, la pettinatura ecc. dicono molto di noi.",
+                "Non voglio negarlo: indossare un bel vestito mi mette di buon umore.",
+                "Il racconto voleva essere un dialogo tra il lato oscuro e il lato illuminato della persona. Evidentemente non sono riuscita nell'intento e dovrò lavorarci sopra.",
+                "Mi piacerebbe avere un parere femminile.",
+                "Grazie di nuovo e a rileggerci."
+            ],
+            "timestamp": "2019-11-21T00:22:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801229"
+        },
+        {
+            "post_id": 801355,
+            "text": [
+                "Grazie per il suggerimento davvero.",
+                "Figurati, ti ho preso per un uomo che si ferma al lato superficiale delle cose (l'essersi truccata) In tal caso la spiegazione che ho dato non poteva che essere semplicistica.",
+                "Felice di aver trovato un'interlocutrice colta che fa a fondo delle cose.",
+                "Mi sembrava di aver descritto una donna che cerca di far emergere da dentro il coraggio per affrontare la vita. Vuol dire che ho sbagliato qualcosa...",
+                "Ci rifletterò sopra.",
+                "Un suggerimento per migliorare il testo?",
+                "A presto!"
+            ],
+            "timestamp": "2019-11-21T17:05:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801355"
+        },
+        {
+            "post_id": 801358,
+            "text": [
+                "Grazie!",
+                "Che bei complimenti hai fatto! Wow! La mia autostima è salita alle stelle",
+                "Hai ragione, dovrei essere più chiara. Ma solo alla fine Il mistero deve durare per tutto il racconto.",
+                "Tutto quello che ho pensato finora mi è sembrato banale.",
+                "Tu cosa potresti suggerire?",
+                "Così è in originale (se l'internet non mente). Controllerò sul libro.",
+                "Sul momento non ho trovato di meglio per spiegare che non si tratta del narcisismo, ma dell'amore più grande che abbraccia tutti.",
+                "Grazie ancora e a rileggerci!"
+            ],
+            "timestamp": "2019-11-21T17:17:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801358"
+        },
+        {
+            "post_id": 801360,
+            "text": [
+                "Dimenticavo di dirti che sono onorata di essere la tua prima \"vittima\". Benvenuto nella mischia!"
+            ],
+            "timestamp": "2019-11-21T17:20:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801360"
+        },
+        {
+            "post_id": 801407,
+            "text": [
+                "Grazie!",
+                "Prima uscire dal bagno do un’ultima occhiata allo specchio e vedo lei, trasformata e ringiovanita, che mi sorride con le labbra colorate di rosso. I suoi occhi sono colmi di luce.",
+                "- una frase tipo questa può andare?"
+            ],
+            "timestamp": "2019-11-21T21:54:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801407"
+        },
+        {
+            "post_id": 801410,
+            "text": [
+                "Wow! Grazie!"
+            ],
+            "timestamp": "2019-11-21T22:00:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801410"
+        },
+        {
+            "post_id": 801416,
+            "text": [
+                "Alla prossima!"
+            ],
+            "timestamp": "2019-11-21T22:10:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801416"
+        },
+        {
+            "post_id": 801580,
+            "text": [
+                "Grazie per aver letto il racconto con attenzione.",
+                "Sei la prima ad aver capito il vero intento:",
+                "E non ero nemmeno sicura di essere riuscita nel intento",
+                "Spesso si crede di aver scritto una cosa ma ne viene fuori un'altra.",
+                "Il nuovo finale sarà questo (lo riscrivo perché tu non debba andare a cercarlo):",
+                "Il \"gioco\" con lo specchio è finito. Lei va a lavorare con una consapevolezza nuova. Non saprei cos'altro aggiungere.",
+                "Tu che ne pensi?",
+                "Ormai quasi tutte le parole sono abusate e \"consumate\", come si consuma una moneta. Bisogna trovare modi per \"svecchiarle\", per riportarle al loro significato vero e vivo.",
+                "L'unico sinonimo è \" tracce \", ma non mi convince...",
+                "Mi riferivo a \"paura\", che è femminile , perché poi c'è tutto un elenco di paure.",
+                "Avevo pensato di scrivere \" Solo di questo ?\" ma poi l'ho scartato. Ho fatto male?",
+                "Per me era l'anticipo del futuro. Avrei bisogno di capire perché non va bene.",
+                "Ok. era il verbo più neutro",
+                "Grazie per il commento e per i complimenti!",
+                "Un caro saluto!"
+            ],
+            "timestamp": "2019-11-22T17:16:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801580"
+        },
+        {
+            "post_id": 801641,
+            "text": [
+                "Grazie per il commento",
+                "Sì, voleva essere ambiguo.",
+                "Si tratta della stessa donna che riflette e si incoraggia guardandosi allo specchio, cosa che si dovrebbe scoprire solo alla fine (almeno secondo le mie intenzioni)",
+                "Penso che questo sia un modo più diretto ed efficace delle lunghe riflessioni che possono stancare il lettore di oggi (nell '800 andava benissimo)",
+                "Per \"alleggerire\" la retorica e per ritornare al senso vero delle parole abusate, faccio dire alla protagonista:",
+                "La protagonista è una sola, e nemmeno tanto vecchia: tra i 45 e i 50 (vedi la descrizione dei segni dell'età)",
+                "Il fatto di truccarsi, dal punto di vista narrativo, mi serve passare alla fase successiva",
+                "un gesto quotidiano che fanno quasi tutte le donne. Ne di più ne di meno. Che il truccarsi trasforma e ringiovanisce, è un altra storia",
+                "Seguirò il tuo consiglio",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-11-22T22:08:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801641"
+        },
+        {
+            "post_id": 801642,
+            "text": [
+                "Grazie per lo commento dettagliato",
+                "Non lo sapevo. Hai una sensibilità e una capacita di introspezione inusuale negli uomini: tanto di cappello!",
+                "Lo vede... ma non lo posso svelare prima dell'ultima frase",
+                "In un racconto che si rispetti ci deve essere un cambiamento interiore e una sorpresa alla fine",
+                "Io lo vedevo più come un gesto quotidiano",
+                "Qual è la tua paura secondo me è un po' forzata in un dialogo \"parlato\"",
+                "Grazie per i suggerimento. Andrebbe trovata una forma alternativa, magari completamente diversa, per conservare l'immediatezza del linguaggio parlato.",
+                "oppure metterlo al maschile, se non è scorretto dal punto di vista linguistico",
+                "Hai ragione. Non ci avevo pensato",
+                "E grazie infinite per tante versioni del finale.",
+                "Ora ho l'imbarazzo di scelta e tanti spunti per riflettere",
+                "Grazie ancora e a presto!"
+            ],
+            "timestamp": "2019-11-22T22:32:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801642"
+        },
+        {
+            "post_id": 801672,
+            "text": [
+                "Сoncordo",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2019-11-23T06:49:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801672"
+        },
+        {
+            "post_id": 801673,
+            "text": [
+                "Ciao!!!",
+                "Mi hai letto nel pensiero",
+                "Grazie per i complimenti!",
+                "La citazione fa parte di un tuo racconto? Mi piace. Come si chiama? Voglio leggerlo",
+                "Un caro saluto!",
+                "A presto!"
+            ],
+            "timestamp": "2019-11-23T06:55:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=801673"
+        },
+        {
+            "post_id": 802174,
+            "text": [
+                "Questa poesia di Alda Merini esprime con parole sublimi ciò che intendevo dire con le mie, molto più povere:",
+                "Sei bella.",
+                "E non per quel filo di trucco.",
+                "Sei bella per quanta vita ti è passata addosso,",
+                "per i sogni che hai dentro",
+                "e che non conosco.",
+                "Bella per tutte le volte che toccava a te,",
+                "ma avanti il prossimo.",
+                "Per le parole spese invano",
+                "e per quelle cercate lontano.",
+                "Per ogni lacrima scesa",
+                "e per quelle nascoste di notte",
+                "al chiaro di luna complice.",
+                "Per il sorriso che provi,",
+                "le attenzioni che non trovi,",
+                "per le emozioni che senti",
+                "e la speranza che inventi.",
+                "Sei bella semplicemente,",
+                "come un fiore raccolto in fretta,",
+                "come un dono inaspettato,",
+                "come uno sguardo rubato",
+                "o un abbraccio sentito.",
+                "Sei bella",
+                "e non importa che il mondo sappia,",
+                "sei bella davvero,",
+                "ma solo per chi ti sa guardare."
+            ],
+            "timestamp": "2019-11-25T13:52:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=802174"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "La vedo ogni mattina.",
+        "Capelli in disordine, viso sgualcito, punta su di me lo sguardo ancora assonnato.",
+        "La studio con un’attenzione di cui quasi mi vergogno, cogliendo segni dell’età: un altro capello grigio, le palpebre cadenti, le borse sotto gli occhi ombrate a semicerchio. L’ovale del viso che giorno dopo giorno perde la nitidezza del contorno, la pelle sotto il mento sempre più flaccida. Le pieghe amare agli angoli della bocca, una nuova ruga sul labbro superiore che ieri non c’era.",
+        "Segni del vissuto.",
+        "Piccole grinze a raggiera agli angoli degli occhi. Queste mi piacciono: sono segni che hanno lasciato i sorrisi.",
+        "Scorgo l’apprensione nel suo sguardo.",
+        "«Tutto bene?»",
+        "Sospira. «Sarà una giornata dura, e stasera ho un incontro importante».",
+        "«Ma è una bella notizia! Di cosa hai paura?»",
+        "«Di non essere all’altezza».",
+        "«Solo questa?»",
+        "«Del giudizio. Del rifiuto…»",
+        "«Suvvia. Ne hai ricevuti di rifiuti e sei sempre qui, viva e in buona salute». Le strizzo l’occhio.",
+        "Mi risponde con un sorriso ancora incerto.",
+        "«Dimentichi che nella vita hai avuto più “sì” che “no”».",
+        "«Vero». Nei suoi occhi passa una luce vispa. «Ma ogni “no” mi ha lasciato una ferita».",
+        "«Alla tua età fai ancora la vittima? Adesso mi dirai che ti è mancato l’affetto».",
+        "Si stringe nelle spalle. «Come a tutti». Poi sbotta: «L’amore mi è mancato, capisci? L’amore! Di avventure, che certi uomini chiamano “affetto”, ne ho avute anche troppe».",
+        "Avvicino il mio viso al suo. I nostri occhi diventano immensi e io posso scrutare nei suoi. E lì, in fondo, si annidano le paure di una bambina fragile.",
+        "«Non pensare al passato», pronuncio con dolcezza. «Ti concentri sulle cose sbagliate. I traumi: chi non ne ha? Il vissuto è l’unica vera ricchezza. Guarda avanti. Diventa più solare e vedrai come tutto cambierà».",
+        "Mi fissa ancora dubbiosa.",
+        "«Se non ami te stessa con tutti i tuoi difetti, errori e ferite, come puoi pretendere che ti amino gli altri?»",
+        "Lei sta per piangere.",
+        "Arretro un po’ per vedere bene il suo viso. Faccio dei respiri profondi.",
+        "Ho bisogno di amarla, questa donna. Con il suo caratterino, le rughe e le borse sotto gli occhi.",
+        "«Ti concentri sulle cose sbagliate», ripeto. «Pensa a quanto puoi dare a tutti quelli che incontri».",
+        "«Tutti tutti?», domanda ironica. «Anche quelli che non mi vogliono bene? E la gente che mette in giro certe maldicenze?»",
+        "«Non ti curar di lor».",
+        "Lei assume un’espressione da monella.",
+        "«Dici cose giuste, peccato che siano banali».",
+        "«A volte è bene rammentarsele».",
+        "Inumidisco con il tonico un dischetto di cotone e lo passo sul viso. Stendo con movimenti carezzevoli un velo di crema.",
+        "Ora anche il viso di lei è diventato più luminoso.",
+        "Sotto il suo sguardo attento mi metto il fondotinta, l’ombretto, il rimmel. L’ultimo tocco: il rossetto. Oggi lo scelgo color fuoco.",
+        "Raddrizzo le spalle. Ho bisogno di colmarmi d’amore per poter anch’io essere amata. Di più: voglio traboccare d’amore per poterlo dare agli altri. È il modo migliore per guarire le mie ferite: l’amor che move il sole e l'altre stelle.",
+        "Mi pettino con cura. Ecco, sono pronta ad affrontare la giornata.",
+        "Prima di spegnere la luce sopra lo specchio guardo lei, trasformata e ringiovanita, che mi sorride con le labbra colorate di rosso. I suoi occhi sono colmi di luce."
+    ],
+    "timestamp": "2019-11-19T23:29:44Z",
+    "title": "Cara Lei",
+    "topic_id": 45284,
+    "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei/"
+}

@@ -1,0 +1,123 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Hai utilizzato aggettivi (chiuso, polveroso, appassiti) che rimandano all'idea di qualcosa che è inevitabilmente passato, riferendoti sia al diario che ai ciclamini. Trovo azzeccato questo parallelismo. è come se tutto, nella stanza, fosse sfiorito, trascorso, nell'oblio.",
+                    "Il vecchio forno ha riempito",
+                    "l'aria di vaniglia.",
+                    "Questa immagine è molto tenera, porta con sé un'idea di domestico, caldo, e famigliare. Anche dolce, come appunto l'aroma di vaniglia.",
+                    "Il tavolo,",
+                    "lo ricordavo più grande:",
+                    "Spesso da piccoli abbiamo una percezione distorta della realtà. Spesso tutto ci sembra più grande, proprio perché siamo piccoli.",
+                    "eravamo tanti, noi cugini,",
+                    "tutti intorno a fare chiasso",
+                    "aspettando la merenda.",
+                    "Questa immagine mi rimanda al calore e all'affetto familiare a cui rimanda già l'immagine precedente del forno e del profumo di vaniglia. Mi piace questa sorta di ideologica continuità tra le strofe.",
+                    "Li ho disposti nel vassoio,",
+                    "scheggiato,",
+                    "su cui nonna ce li porgeva.",
+                    "Anche qui, il termine scheggiato rimanda a qualcosa di passato, andato... E ideologicamente questo concetto di vetusto si ricollega alle immagini della prima strofa (quei ciclamini appassiti, quel diario impolverato...)",
+                    "Squisiti e croccanti",
+                    "ne facevamo scorpacciate",
+                    "tra le risa.",
+                    "Altra immagine che si ricollega ideologicamente al calore domestico.",
+                    "Oggi",
+                    "nel silenzio",
+                    "sanno di chinino.",
+                    "Chiusa estremamente struggente, piena di dolore. Quel silenzio ghiaccia anche il lettore, perché arriva improvviso, dopo tante immagini che evocano un'idea di afflato e calore domestico, con tutte le risa dei cuginetti seduti intorno al tavolo a degustare la merendina. A corroborare il senso di nostalgia per un passato che non c'è più, e a rendere ancora più marcata la malinconia per un presente dominato da un senso di mancanza (perché il silenzio è assenza di parole), quel sapore di chinino.",
+                    "Si tratta di una poesia che alterna in modo sapiente immagini morbide e calde a immagini più malinconiche e cupe. Un chiaroscuro ben tratteggiato, direi.",
+                    "Mi piace il registro utilizzato, un linguaggio colloquiale, senza troppi fronzoli e ricercatezze formali, ma proprio per questo in grado di arrivare dritto al lettore e comunicare efficacemente.",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2019-12-09T13:52:56Z",
+            "title": "I biscotti della nonna",
+            "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=804807",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 449,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 805596,
+            "text": [
+                "Ciao Ormai avevo la convinzione di aver scritto l'ennesima schifezza. Le tue parole sono per me inaspettate e sorprendenti. Grazie!",
+                "Bella la canzone di Faber, non la conoscevo."
+            ],
+            "timestamp": "2019-12-13T10:11:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45524-tram//?do=findComment&comment=805596"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 805761,
+            "text": [
+                "ho dovuto editare il tuo messaggio. Per proporre un proprio testo in officina occorre aprire una discussione e allegare un commento fatto nello stesso giorno. Inoltre il commento deve essere più approfondito di quello che hai scritto sopra.",
+                "Questa sezione ha molte regole, ma queste permettono di avere letture approfondite a tutti."
+            ],
+            "timestamp": "2019-12-13T20:32:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45524-tram//?do=findComment&comment=805761"
+        }
+    ],
+    "text": [
+        "Comment",
+        "È un quarto d'ora che lo aspetto.",
+        "Poco distante da me,",
+        "schiena contro il muro,",
+        "lo aspetta anche un ragazzo.",
+        "Accende la sigaretta",
+        "che ha portato alle labbra.",
+        "Non fa in tempo a fare due tiri",
+        "che arriva il tredici.",
+        "Più volte, durante la corsa,",
+        "il mio occhio corre alla sigaretta",
+        "che il ragazzo ha spento",
+        "prima di salire a bordo,",
+        "ora in stand-by fra le sue dita:",
+        "al capolinea, fuori dalla vettura,",
+        "ritroverei la tua bocca",
+        "se fossimo tu ed io",
+        "ragazzo e sigaretta."
+    ],
+    "timestamp": "2019-12-09T13:57:42Z",
+    "title": "Tram",
+    "topic_id": 45524,
+    "url": "https://www.writersdream.org/forum/forums/topic/45524-tram/"
+}

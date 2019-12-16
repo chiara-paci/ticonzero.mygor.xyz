@@ -1,0 +1,110 @@
+{
+    "author": {
+        "author_id": 13815,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Macleo",
+        "url": "https://www.writersdream.org/forum/profile/13815-macleo/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 0.9166666666666666,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9166666666666666
+            },
+            "text": [
+                [
+                    "Si dice \"vomitare a getto\". Lo so perché mio figlio era un artista in questo nobile sport e arrivava facilmente sino al soffitto.",
+                    "Beh, probabilmente fa freddo indipendentemente dai picchi montuosi. La neve su di loro è un effetto del freddo, non la sua causa. Almeno, qui a Bormio è così.",
+                    "Direi \"fuori c'è solo acqua\"",
+                    "Un solo cazzo di solito è sufficiente.",
+                    "Refuso: \"lo faccio\".",
+                    "Direi \"si trattiene\"",
+                    "Te ne ho levato uno. Tre di seguito mi sembravano troppi.",
+                    "Mi piace di più così.",
+                    "Questo vuole dire non avere mezze misure e osare di brutto. Bravo!",
+                    "Nessuno si sarebbe potuto aspettare un finale del genere.",
+                    "Bel racconto, surreale e umoristico al punto giusto, mi è piaciuto molto.",
+                    "Con le piccole modifiche che ti ho suggerito, poi, è perfetto.",
+                    "Solo che adesso, pensando a quell'affare con la vena gonfia sulla fronte di Ettore, mi viene da ridere, rido sino alle lacrime e poi rido ancora senza poter fermarmi. E temo di sapere come finirà."
+                ]
+            ],
+            "timestamp": "2019-12-15T19:16:35Z",
+            "title": "[MI 132] MEMEnto mori",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806161",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 8007,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 806195,
+            "text": [
+                "Grazie, socia."
+            ],
+            "timestamp": "2019-12-15T20:45:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45593-mi-132-%C3%A8-morto-lo-zoo-viva-lo-zoo//?do=findComment&comment=806195"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzogiorno. Nuovo arrivo allo zoo",
+        "Erano le sette e trenta di mattina quando il direttore entrò nel suo ufficio e si sedette alla scrivania. Certo che ci voleva una buona dose di fantasia per chiamare ufficio quello sgabuzzino, come pure la scrivania era un tavolaccio irregolare dove, per fare una firma senza bucare il foglio, occorreva metterci sotto una superficie liscia.",
+        "L'uomo sospirò. Ogni tanto si chiedeva perché avesse accettato quell’incarico, rinunziando anche ad ogni retribuzione: lui, un veterinario in pensione che avrebbe potuto passare il tempo senza preoccupazioni, bevendo bianchini e giocando a bocce con gli amici. In realtà il motivo lo conosceva benissimo: l’amore infinito per gli animali e il timore che, al suo posto, avrebbe potuto esserci uno squallido burocrate che avrebbe anteposto il proprio interesse a quello degli involontari e indifesi ospiti dello zoo. I quali, come tutte le bestie che aveva conosciuto e curato nella sua vita, non l’avevano mai tradito o deluso: mentre erano stati bravi a farlo molte persone.",
+        "Davanti a lui c’era una comunicazione del Ministero dell’ambiente - Direzione generale per la protezione della natura e del mare -, a firma della dott.ssa Gianna Giannantoni. Nella prima parte, in attuazione della Direttiva Zoo 22/1999 CE, imponeva ai giardini zoologici il raggiungimento un più elevato livello qualitativo nella custodia e cura degli animali attraverso l'attuazione di un programma articolato di trattamenti veterinari, preventivi e curativi, fornendo altresì una corretta alimentazione. Fin qui tutto bene, ma purtroppo nella seconda parte – annegati fra articoli e commi espressi con parole ipocrite – emergevano robusti tagli ai budget.",
+        "Leggendo tra le righe il risultato era chiaro. Pretendere miglioramenti, diminuendo nel contempo le disponibilità finanziarie, significava una marcata diminuzione del numero degli animali: il che, in ultima analisi, equivaleva a decretare la morte dei pochi zoo ancora esistenti sul territorio.",
+        "Del resto la condanna era già stata espressa in precedenti circolari, le quali ordinavano perentoriamente di evitare nuove nascite ricorrendo anche a castrazioni e sterilizzazioni: quando tutti sapevano che gli animali morti non sarebbero mai stati rimpiazzati.",
+        "Così, alla lunga, l’avevano avuta vinta gli animalisti che contestavano i giardini zoologici per le discutibili condizioni di vita in cattività degli animali – cosa solo ogni tanto vera - e ritenevano la loro detenzione eticamente sbagliata: concetto non applicabile, ad esempio, alle specie a rischio di estinzione.",
+        "Ma, in definitiva, forse era meglio così! Gli zoo non erano più quelli di una volta e la frase, trita, ritrita e usata spesso a sproposito, ben si adattatava al caso di specie. Il direttore si ricordava i giardini zoologici della sua giovinezza, uno dei tanti elementi che l’avevano spinto a diventare veterinario. I bimbi, accompagnati dai genitori, guardavano estasiati gli animali esprimendo la loro sorpresa con le boccucce a “o” e gridolini di gioia, mentre gli animali, di moltissime specie, erano tutti puliti, fieri e orgogliosi di suscitare tanto interesse. Poi c’era lo spettacolo dell’elefante che, tutto compreso nel suo ruolo, \"suonava\" alcuni strumenti musicali mentre, a certi orari, il pasto acrobatico di altri animali - primi fra tutti foche e pinguini -, strappava applausi a grandi e piccini.",
+        "I bambini di oggi, invece, si trascinavano annoiati, giocando con cellulari e videogiochi, davanti ad animali altrettanto annoiati e vittime della depressione: forse era proprio ora di chiuderla lì.",
+        "Inoltre, uno zoo senza nuove nascite era triste, disperato e senza futuro. Chi mai si sarebbe potuto divertire andando a visitare l’equivalente di una casa di riposo per anziani? Una volta, invece, ogni nuova nascita era salutata da personale e visitatori come una benedizione e tutti ne erano contenti: anche gli altri animali, magari in gabbie lontane, in qualche modo “sentivano” l’evento e manifestavano la loro felicità ognuno a suo modo.",
+        "Il direttore stava esplorando con le dita la sua barba, solleticata quasi sicuramente dalla presenza di una pulce appartenente a chissà a quale “amico”, quando la porta si aprì ed entrarono i suoi due assistenti. Ruoli e attribuzioni avevano poca importanza nella realtà, in quanto ognuno loro faceva di tutto: dalla pulizia delle gabbie e degli animali, ai loro pranzi, al cambio dell’acqua, all’assistenza a quelli malati, eccetera eccetera. Senza nessuna eccezione.",
+        "«Direttore» disse il primo «è arrivata una mail certificata dalla Giannantoni del Ministero. Domani ci mandano un antilope maschio. E noi abbiamo qui una gabbia con due antilopi femmine.»",
+        "«Sicuramente un altro zoo ha chiuso e stanno distribuendo a caso gli animali rimasti.»",
+        "«E quanti anni ha questo maschio?» domandò il direttore incrociando le dita. Forse era un esemplare vecchio e bacucco.",
+        "«Tre e mezzo, in perfetta salute.»",
+        "«Per la miseria, una bestia appena adulta in piena tempesta ormonale, un vero stallone! E adesso cosa facciamo? Andiamo a fare un giro fra i nostri ospiti, magari ci viene in mente qualcosa per liberare una gabbia. Di vuote e in efficienza non ce n'è.»",
+        "Un compito arduo. L’unica soluzione sarebbe stata quella di mettere nella stessa gabbia animali di specie diverse, ma quali? Avrebbero dovuto essere in qualche modo compatibili, non certo un predatore e una possibile vittima, oppure due bestie nervose, frustrate e irascibili, pronte a litigare con conseguenze facilmente prevedibili.",
+        "Arrivarono davanti alla gabbia delle antilopi femmine, che emisero il loro caratteristico roco muggito.",
+        "«Sembrano le mie zie zitelle. Acide, antipatiche e sempre pronte a tagliare i panni addosso a tutti.»",
+        "Avevano quasi completato il giro, senza aver partorito nessun'idea, quando giunsero davanti alla gabbia dell’unica zebra: un esemplare maschio molto, molto vecchio. Più volte qualche ispettore del Ministero ne aveva suggerito l'eliminazione, ma il direttore non aveva avuto il coraggio di seguire il consiglio, sicuramente razionale.",
+        "Il povero animale, abbandonato per terra mezzo addormentato o rincoglionito, li guardò con un’espressione vacua.",
+        "«E se lo mettessimo insieme alle antilopi? Morirà in loro compagnia e per noi non cambierà nulla: il mangime per antilopi e zebre è lo stesso...»",
+        "Si interruppe perché gli era sembrato di vedere un barlume di interesse brillare in fondo agli occhi dell’animale, ma era stato solo un attimo.",
+        "«Ok facciamolo.» disse.",
+        "Dopo che ebbero finito tornò in ufficio, ma fu presto richiamato da un concerto di urla, muggiti e sbuffi. Uno degli assistenti era davanti alla gabbia, dove il maschio di zebra si stava ingroppando beatamente una delle antilopi, che sembrava ancor più soddisfatta di lui.",
+        "«È già il terzo giro che si fa con ognuna di loro! Ma non doveva essere a un passo dalla morte? Invece stantuffa come un mantice e loro non scappano di sicuro. Sono andato a prendere il kit per il test di gravidanza istantaneo delle antilopi e l’ho usato a turno con quella che, ogni tanto, lascia in pace. Sono incinte tutte e due, e solo Dio sa cosa ne verrà fuori!»",
+        "Poi arrivò di corsa l’altro assistente.",
+        "«Direttore! Un’altra mail del Ministero.»",
+        "«Non mi dire che ci mandano anche un ippopotamo taglia extralarge!»",
+        "«Macché, dice che prima ne avevano il sospetto, ma ora è sicuro. L’antilope maschio che arriva domani ha fatto outing ed è gay al cento per cento!»",
+        "«Maledizione, abbiamo lavorato per nulla e abbiamo anche combinato un bel casino! Chi lo dice adesso alla dottoressa Giannantoni?»",
+        "Poi, però alzarono gli occhi e incrociarono quelli delle tre bestie: pieni non solo di fierezza e felicità, ma anche di gratitudine nei loro confronti. Si guardarono con aria interrogativa.",
+        "«Affanculo la dottoressa e il Ministero, da oggi qui si fa alla vecchia maniera!» ordinò il direttore.",
+        "E poi fu solo un coro di muggiti, grugniti, bramiti, barriti e di ogni altro verso animale. Tutti, nelle loro gabbie, avevano capito: lo zoo stava finalmente per risorgere."
+    ],
+    "timestamp": "2019-12-15T20:25:40Z",
+    "title": "[MI 132] È morto lo zoo, viva lo zoo!",
+    "topic_id": 45593,
+    "url": "https://www.writersdream.org/forum/forums/topic/45593-mi-132-%C3%A8-morto-lo-zoo-viva-lo-zoo/"
+}

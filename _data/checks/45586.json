@@ -1,0 +1,108 @@
+{
+    "author": {
+        "author_id": 30259,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Garrula",
+        "url": "https://www.writersdream.org/forum/profile/30259-garrula/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao !",
+                    "Grazioso apologo, mi hai fatto venire una gran voglia di sole e di guardare le iguane. Ci sono tanti dettagli ben dosati e ben piazzati, ma non mi convince molto il finale. È positivo, certo, ma un po’ troppo vago e moralista. Forse quel tema dei gabbiani che si guardano i piedi poteva essere declinato lì, non saprei dirti se in favore del nuovo Adamo o degli uomini che si mettono le scarpe, guardandosi i piedi e non quello che hanno attorno.",
+                    "Qui le frasi sono un po’ ingessate, penso si riescano ad ammorbidire un pochino. Faccio un mini tentativo, ma non assicuro nulla sulla riuscita.",
+                    "Su un’isola deserta, un giorno, si trasferì un uomo. Voleva essere un nuovo Adamo, nudo, solo, intenzionato a vivere solo di quello che l’isoletta avrebbe potuto dargli, visto che era ricca di animaletti commestibili e di una bassa, ma densa, vegetazione. Pescare, raccogliere: niente di più, niente di meno.",
+                    "La parte successiva, quella con Primo giorno, secondo giorno, ecc. mi piace molto, perché lì ci sta la ripresa biblica, e poi come ti ho già detto hai dosato molto bene le informazioni, dando immagini visibilissime.",
+                    "Qui penso ci sia da fare un’inversione, perché al cinquantesimo giorno già non pensa a nulla, ma in quelli dopo gli fai fare delle considerazioni. Poi non so se tu ti sia confuso tra sessantesimo e sessantacinquesimo, perché nel testo risultano uno di seguito all’altro. Ti rinnovo l’invito a utilizzare quel gabbiano, mi piace troppo 😄",
+                    "Ripetizione",
+                    "Spero di esserti stata utile, alla prossima!"
+                ]
+            ],
+            "timestamp": "2019-12-15T11:17:21Z",
+            "title": "I gabbiani si guardano i piedi",
+            "url": "https://www.writersdream.org/forum/forums/topic/45570-i-gabbiani-si-guardano-i-piedi//?do=findComment&comment=806027",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 4932,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 806158,
+            "text": [
+                "Grazie , accolgo con piacere tutte le critiche, cercherò di sistemare al più presto.",
+                "E grazie,",
+                "Ora sono di un bel bordeaux"
+            ],
+            "timestamp": "2019-12-15T19:10:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806158"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzanotte",
+        "Venezia, 2089",
+        "Mia nonna non ha sempre avuto gli occhi chiari. Anche il suo naso è cambiato, incurvandosi ancora di più, e i capelli biondi ora sono spenti, ravvivati solo dalle tinte; alle sue palpebre si è appesa la vecchiaia, ma sono sempre state pesanti, violacee, pronte a sparire insieme alla linea dell’eye-liner ogni volta che mia nonna ti guardava fisso - e lo faceva spesso, scrutandoti con quei suoi liquidi occhi marroni.",
+        "Ora è cieca, ma ti guarda fisso lo stesso.",
+        "«Copriti, bambino. E mettiti gli stivali»",
+        "La nonna non sa che Venezia è salva ormai da una ventina d’anni. Forse lo sapeva quando hanno chiuso la laguna, perché all’epoca aveva ancora gli occhi scuri, ma ora no. Si mette alla finestra e annusa l’aria, un gatto col collo dritto, i capelli lunghi che scendono ordinati, sfiorando i fiori del poggiolo.",
+        "«Oggi c’è acqua alta.»",
+        "Vorrei rassicurarla. No, nonna, non c’è acqua alta, non ci sarà mai più. La laguna è chiusa, la laguna è salva. Non li vedi i cormorani al sole, come brillano meno senza tutto quel salso sulle penne? Non senti che le sirene non suonano più, non ti accorgi che le moeche sulle rive sono scomparse, che i cefali si tengono fuori dalle mura subacquee?",
+        "Però non lo faccio. Le appoggio una mano sul polso, che era piccolo e stretto anche prima della vecchiaia, e le vene guizzano via sotto le mie dita, in fuga. Lei continua a non guardarmi, gli occhi chiari fissi sulla laguna.",
+        "«Copriti. E mettiti gli stivali.»",
+        "«Sì, nonna.»",
+        "Dentro a uno sgabuzzino, tra la lavatrice e un cestello crepato per la biancheria, dietro a un esercito di manici di scopa decapitati, trovo un sacchetto di plastica logoro, che scrocchia sotto alle dita. Dentro ci sono un paio di stivali di gomma.",
+        "Sono alti, almeno fino al ginocchio, con la suola beige e il corpo verde fango. Sanno di detersivo, di polvere e di ammorbidente, lo stesso odore dello sgabuzzino, che mi porto in giro anche dopo averli infilati e averci fatto qualche passo.",
+        "Probabilmente la nonna lo sente, perché sorride.",
+        "«Li hai trovati?»",
+        "«Sì, nonna.»",
+        "«Bravo, piccolo. Lo senti lo scirocco? Oggi è alta. Mai così alta.»",
+        "Sorride, mostrando le gengive chiare, gettandole in faccia alla vecchia laguna addormentata.",
+        "«Ma tanto abbiamo gli stivali. Il mare non ci fa niente. Vai a prendere il pane e dimmi quanto è alta. Non ci fermiamo mica, sai, ci vuole ben altro.»",
+        "Mentre chiudo la porta la guardo ancora, ferma, immobile, le mani sottili con le nocche bianche, seccate dal vento che viene dal mare.",
+        "Sì, Venezia è salva. La gente cammina dentro le calli al sicuro, all’asciutto, portandosi dietro gli ombrelli solo per scaramanzia. I marmi bianchi dei palazzi brillano intonsi, gli scuri verdi alle finestre sembrano verniciati di fresco, ma forse non serve neanche più farlo. Ormai è una città eterna.",
+        "Il pane. Sono rimasti pochi panifici, questo è vero. Vendono ancora spumiglie, zaletti, baicoli, qualche bussolà, ma di pane ne vedo poco. Sulle cestine di plastica c’è una sola rosetta, dispersa in mezzo alle briciole, ormai un po’ secca, una delle ultime della giornata. La commessa mi fissa i piedi, la pinza col panino sospesa sopra il sacchetto di carta per qualche istante di troppo. Turisti, avrà pensato.",
+        "Esco. Fuori dal panificio c’è un rivo morto. È l’orario di chiusura, devo essere stato l’ultimo cliente.",
+        "Nell’acqua di fronte a me la luce sparisce con un click, mentre la serranda si abbassa alle mie spalle. Le commesse si salutano ridendo, alle cinque di nuovo qui, eh.",
+        "Il canale è immobile, mentre la luce cala.",
+        "Appoggio il sacchetto con la mia rosetta sulla balaustra di marmo, sentendone tutto il freddo d’autunno: senza il sole a scaldarlo è gelido. Dei gradini scendono verso l’acqua, scivolosi di alghe brune e verdi, tenaci, che forse non si sono accorte che la laguna non è più lei, ma un grande lago dolce, sicuro e immobile.",
+        "Con un piede saggio l’acqua, infilandomici fino al ginocchio con una gamba, poi con l’altra.",
+        "Uno degli stivali deve essersi bucato col tempo, perché sento l’acqua insinuarsi tra le dita, penetrando i calzini pesanti e avvolgendo i pantaloni in una stretta bagnata e gelida contro la pelle.",
+        "Rimango per qualche secondo nell’acqua, guardando le luci dei lampioni scaldarsi e illuminare la sera, come se anche la notte, oltre al mare, dovesse essere bandita per sempre.",
+        "«Ci hai messo un sacco di tempo. C’era tanta gente?»",
+        "«Non troppa. Ho dovuto allungare la strada.»",
+        "«Avevi gli stivali?»",
+        "«Sì, ma mi sono inzuppato lo stesso. Mai vista acqua tanto alta dal 2019. Per fortuna mi avevi avvisato, le sirene devono essersi rotte».",
+        "Le porgo gli stivali zuppi, appoggiandoglieli in grembo. Gocce di fango rotolano sulla lana della sua gonna, ma so che non le importa. Li solleva con cautela, tenendoli come fossero un gattino, e se li porta al volto. Il lungo naso li studia, gli occhi azzurri e ciechi fissi, le palpebre nascoste.",
+        "Dalla finestra aperta entra lo scirocco e, lontano nel tempo, l’odore del mare."
+    ],
+    "timestamp": "2019-12-15T16:35:49Z",
+    "title": "[MI 132] Venezia, 2089",
+    "topic_id": 45586,
+    "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089/"
+}
