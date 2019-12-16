@@ -56,9 +56,23 @@
     },
     "num_chars": 6212,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806294,
+            "text": [
+                "Molto divertente piacevole da leggere, ironico, amaro e dolce allo stesso tempo. Sei stata molto brava a dipingere un paesaggio completo di esterno e interno, presente, passato e futuro, sentimenti e pensieri. Non cambierei una virgola, mi sembra perfetto così: autoconclusivo, ma anche aperto a un futuro sviluppo."
+            ],
+            "timestamp": "2019-12-16T08:55:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=806294"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "Allerta rossa",

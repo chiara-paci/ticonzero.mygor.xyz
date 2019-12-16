@@ -53,9 +53,24 @@
     },
     "num_chars": 8023,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806296,
+            "text": [
+                "Racconto molto simpatico e scritto nel modo giusto. È un'idea che ho già trovato altrove, ma non è importante. Hai tirato tanto l'elastico che mi aspettavo che nel finale si strappasse e basta: Sandro muore, non vede l'animale, punto. Invece lo vede, ci dici addirittura che il Paccochilofano è incredibilmente bello. In questo modo è come se lo vedessimo anche noi. Forse ti avrei amato e odiato di più se avessi scelto il finale stronzo, ma sono comunque molto contento per Sandro, che è riuscito a raggiungere il suo obiettivo. Se lo meritava.",
+                "Mi sono divertito, bravo"
+            ],
+            "timestamp": "2019-12-16T09:15:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806296"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno: Lo zoo",
         "Il Paccochilofano",

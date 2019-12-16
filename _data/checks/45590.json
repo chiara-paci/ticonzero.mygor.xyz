@@ -71,7 +71,7 @@
     },
     "num_chars": 7355,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 806157,
@@ -82,7 +82,28 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45590-mi-132-il-mare-dinverno//?do=findComment&comment=806157"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806295,
+            "text": [
+                "Ciao , è tanto che non ti leggo",
+                "Villa Rosa o Villarosa? L'hai usato in entrambi i modi.",
+                "refuso: presumibili",
+                "refuso, ti è scappato l'accento: perché",
+                "un",
+                "hai perso uno spazio",
+                "riuscii",
+                "Il mare tira sempre fuori malinconia e nostalgia, c'è sempre riflessione di fronte al mare, benché per molti sia il paesaggio del divertimento, soprattutto da giovani. Mi piace non sentire alcun giudizio nelle tue parole, come se avessi scattato delle fotografie alle diverse scene e le avessi poste sotto l'occhio del lettore."
+            ],
+            "timestamp": "2019-12-16T09:12:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45590-mi-132-il-mare-dinverno//?do=findComment&comment=806295"
+        }
+    ],
     "text": [
         "Passiamo il capodanno nel nostro vecchio chalet di Villa Rosa? Ho già parlato con i nuovi proprietari. Nel caso, lo tengono aperto per noi. Fatemi sapere. Scacco",
         "Questa era stata la proposta di Luigi Splendori, detto Scacco, nel gruppo WhatsApp Gli irriduciibili di Villarosa.",

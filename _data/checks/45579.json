@@ -51,8 +51,19 @@
     },
     "num_chars": 1316,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 806304,
+            "text": [
+                "Grazie mille, ragazzi",
+                "Conoscevo il racconto linkato da Bango. L'ho in una raccolta \"Le meraviglie del possibile\", che raccoglie i cult del genere.",
+                "Vale la pena di lasciarsi ispirare"
+            ],
+            "timestamp": "2019-12-16T09:39:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806304"
+        }
+    ],
     "post_staff": [
         {
             "author": {

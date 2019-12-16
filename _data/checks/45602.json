@@ -47,7 +47,7 @@
     },
     "num_chars": 1852,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 806252,
@@ -56,9 +56,32 @@
             ],
             "timestamp": "2019-12-15T22:52:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806252"
+        },
+        {
+            "post_id": 806298,
+            "text": [
+                "grazie per essere passata per prima. Certo un'aggiustatina potrei ancora darla. Ma in due ore non ho potuto fare di meglio (letta la traccia alle 12,30, ho avuto subito il titolo in testa, ma le mani al racconto le ho messe alle 21,00). Hai visto il gran casino che ho combinato per postare? Da sbellicarsi dalle risate, quindi chiedo venia. In riferimento alle tue giuste osservazioni ti dico che mi era balenata l'idea di scrivere che dopo la cattura il Brikman avesse spifferato al telefono la destinazione dell'esemplare, ma non ho saputo gestire le frasi ed ho preferito tagliare. Poi. Quando Toledo si rende conto che in giro c'era il Brikman avevo pensato di scrivere \"era tornato\" in modo da suggerire il fatto che già lo conoscesse. Ma anche qui, fretta e paura di sbagliare. Sappiamo bene che aggiungere una sola parola implica ulteriori spiegazioni, eppure mi sarebbe bastato davvero poco per migliorare il testo; le idee c'erano tutte."
+            ],
+            "timestamp": "2019-12-16T09:16:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806298"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806282,
+            "text": [
+                "Ciao un racconto breve, ma intenso. Si passa dalla curiosità, emozione e orgoglio alla tristezza deluysa e senza speranza di una realtà che il pappagallo non era stato in grado di immaginare. L'unica cosa che chiarirei meglio è come fa il pappagallo a sapere dello zoo? E perché usare dei nomi reali, sia dello zoo che del naturalista. Questi elementi mi fanno pensare all'inizio di una storia per bambini. È l'unico elemento \"fatastico\" del tuo racconto, tutto il resto potrebbe essere abbastanza reale, sempre considerando che a parlare è il pappagallo.",
+                "anche nella foresta ci saranno stati altri animali, certo non tanto vicini. Forse avrei evidenziato il fatto che qui gli animali sono sempre nello stesso punto a fare i loro versi, che non si scappa e non c'è nessun punto dove nascondersi e rimanere soli."
+            ],
+            "timestamp": "2019-12-16T07:49:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806282"
+        }
+    ],
     "text": [
         "Traccia di mezzogiorno: Lo zoo",
         "Lo avrebbero trasferito in Inghilterra, al Port Lympne Wild Animal Park, lo zoo più grande d’Europa. Per questo motivo era emozionato. Sarebbe stato il richiamo del secolo, veniva dal Sud America, lui.",
