@@ -53,7 +53,7 @@
     },
     "num_chars": 8023,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [],
     "post_staff": [
         {
@@ -69,6 +69,19 @@
             ],
             "timestamp": "2019-12-16T09:15:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806296"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806321,
+            "text": [
+                "Fantastico, ! Credo che sia il tuo racconto più bello che ho mai letto, mi hai fatto morire dal ridere e correre per arrivare al finale"
+            ],
+            "timestamp": "2019-12-16T10:50:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806321"
         }
     ],
     "text": [

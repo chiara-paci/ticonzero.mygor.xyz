@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806158,
@@ -61,9 +61,58 @@
             ],
             "timestamp": "2019-12-15T19:10:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806158"
+        },
+        {
+            "post_id": 806306,
+            "text": [
+                "Grazie !"
+            ],
+            "timestamp": "2019-12-16T09:52:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806306"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806309,
+            "text": [
+                "Ciao . Inizio con il dirti che il tuo racconto mi è piaciuto. Trovo però che a livello formale il testo necessiti di qualche ritocco. Di seguito, per esempio, cito tutti i gerundi che ho trovato. Sono molti. Non ho niente contro i gerundi, ma alcuni mi sembrano facili da eliminare o sostituire con alternative meno pigre.",
+                "La gente che cammina dentro le calli, all'asciutto, porta gli ombrelli solo per scaramanzia.",
+                "La gente cammina dentro le calli, all'asciutto. Alcuni si portano dietro l'ombrello, ma è solo per scaramanzia.",
+                "Quando appoggio il saccchetto sulla balaustra di marmo sento tutto il freddo dell'autunno.",
+                "Appoggio il sacchhetto sulla balaustra e il marmo mi trasmette tutto il freddo dell'autunno.",
+                "Prima saggia l'acqua con il piede, poi si immerge con tutta la gamba. Non accade tutto nello stesso momento. Quindi:",
+                "Con un piede saggio l'acqua, poi mi decido a infilare entrambe le gambe, fino al ginocchio.",
+                "Sento l'acqua penetrare i calzini pesanti e insinuarsi tra le dita...",
+                "Le appoggio gli stivali zuppi in grembo",
+                "Li solleva con cautela, come fossero gattini",
+                "Le mie alternative sono orribili, eh, le ho buttate così, senza pensarci. Te le propongo solo per farti capire come mi muoverei, grosso modo.",
+                "Naturalmente non credo sia necesssario sterminare tutti i gerundi, ma siccome ho notato che ne usi davvero davvero tanti, ho pensato che magari li infili nel testo senza neanche rendertene conto, come se ti venisse naturale scegliere sempre e comunque il gerundio e non pensarci più.",
+                "Tutto qui.",
+                "Sulla storia non ho molto da dire, mi sembra abbastanza chiara e ben gestita. Paradossale che il protagonista sia costretto a mentire alla nonna, perché sapere che Venezia non è in pericolo le darebbe un dispiacere troppo grande. È un racconto originale, come altri tuoi che ho letto. Mi ha convinto"
+            ],
+            "timestamp": "2019-12-16T09:59:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806309"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806312,
+            "text": [
+                "Un bel racconto , mi piace molto questo continuo parallelismo nelle differenze tra la fisicità della nonna invecchiata e la città snaturata. La nonna e Venezia sono due facce della stessa medaglia. Mi fa tenerezza che per far sentire la nonna al sicuro il nipote debba dire che Venezia è ancora in pericolo. L'unica cosa che mi sorprende è la questione del poco pane che il nipote affronta come se scoprisse solo nel momento in cui noi leggiamo che sono rimasti pochi panifici",
+                "forse è questa la frase che mi confonde, il verbo vendere mi fa pensare al generale, mentre credo che tu intendessi in questo momento nei negozi il pane è già tutto venduto e sono rimasti solo dolci e biscotti? O forse sono io che non ho capito, scusa."
+            ],
+            "timestamp": "2019-12-16T10:05:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806312"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "Venezia, 2089",

@@ -52,7 +52,7 @@
     },
     "num_chars": 2951,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 806106,
@@ -63,7 +63,25 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806106"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806328,
+            "text": [
+                "Ciao piacere di leggerti",
+                "Un racconto ristretto, gli avrei dato più spazio e più parole. Avrei speso più parole per descrivere la fuga di Martina e sua madre dalla loro casa, erano state avvertite o no? Hanno avuto tempo o sono uscite in pigiama? Come sono arrivati in questa casa dove si trovano adesso? Si sono bagnate? Avevano freddo?",
+                "Non mi è chiaro perché si siano dovute trasferire se il loro appartamento è comunque rimasto asciutto al terzo piano, c'è una ragione che mi sfugge?",
+                "Inizialmente sembra che la protagonista sia triste ripensando alla sua casa vuota che dà un senso di solitudine, ai suoi vicini nelle varie situazioni personali, ma salta fuori questo saluto inaspettato che non riuscirà a dare e credo che, essendo lei una sedicenne, non avrebbe avuto spazio nella testa o nel cuore da dedicare a nessun altro che non fosse il suo Ruben e a questa separazione forzata. In sostanza, darei più spazio anche a Ruben.",
+                "Buona scrittura"
+            ],
+            "timestamp": "2019-12-16T11:06:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806328"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte: bagnato.",
         "NOVEMBRE 2003",

@@ -51,7 +51,7 @@
     },
     "num_chars": 1316,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 806304,
@@ -91,6 +91,19 @@
             ],
             "timestamp": "2019-12-15T20:25:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806186"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806311,
+            "text": [
+                "Brevo!"
+            ],
+            "timestamp": "2019-12-16T10:04:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806311"
         }
     ],
     "text": [
