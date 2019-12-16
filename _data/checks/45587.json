@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -65,6 +65,25 @@
             ],
             "timestamp": "2019-12-15T19:56:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806173"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806498,
+            "text": [
+                "Non ho capito",
+                "EDIT: Ah, ok, adesso sì.",
+                "è proprio un racconto alla Inc.",
+                "Le correzioni proposte da Macleo mi sembrano azzeccate e non ho altro da segnalare.",
+                "La cosa migliore del racconto è che non si capisce niente finché Giacomo non ci spiega la situazione.",
+                "Il monaco è bellissimo.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-12-16T18:13:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806498"
         }
     ],
     "text": [

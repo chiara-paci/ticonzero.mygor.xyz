@@ -68,9 +68,68 @@
     },
     "num_chars": 7083,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 806515,
+            "text": [
+                "(in effetto... )",
+                "Sì, ho cercato di usare uno stile che fosse particolare per ognuno dei tre: con il bambino non avrei usato frasi così cariche e articolate e neppure con il giovane, ritenendole invece adatte all'anziano.",
+                "Ne prendo nota volentieri"
+            ],
+            "timestamp": "2019-12-16T19:21:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806515"
+        },
+        {
+            "post_id": 806526,
+            "text": [
+                "Nei lavori lunghi lo faccio anch'io. In questo racconto, dividendolo in tre parti, e con lo spazio a disposizione, ho optato per la scelta vista perché mi sembrava quella che poteva servirmi nell'intento.",
+                "Abituato come sono a lavorare più per adulti, quando mi occupo di piccoli devo stare molto attento (e ritornarci sopra più volte) perché faccio fatica a perdere lo stile che solitamente uso. Come dici tu, va semplificato, usare frasi più brevi e termini meno ricercati, dal significato immediato."
+            ],
+            "timestamp": "2019-12-16T19:44:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806526"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806514,
+            "text": [
+                "Molto bello, mi è piaciuto come hai legato le storie e come hai diviso il racconto, anche concettualmente: bel ricordo, brutto ricordo, un bambino che sogna come fanno i bambini e chissà cosa riserverà per lui in futuro, quel mare... magari un bel ricordo, magari uno brutto.",
+                "Apprezzo molto la tua scrittura, anche se è agli antipodi rispetto al mio stile. Credo che potresti migliorare andando a lavorare sulle frasi troppo cariche. Provo a lasciarti qualche suggerimento, valuta tu se può tornarti utile o se in effetti è solo \"un'intrusione stilistica\".",
+                "Questa frase ad esempio: prima il vetro, poi l'inciso in cui specifichi che il paesaggio è distorto, poi il vecchio e infine il mare. In una riga carichi il lettore un po' troppo, e rischi di fargli perdere il focus sulle immagini evocative che vuoi fargli arrivare.",
+                "Qui ad esempio potresti dividerla in due: prima parte parli del vetro rigato e di come la pioggia distorca tutto. Poi un punto e parti con il vecchio.",
+                "Qui ad esempio io avrei sacrificato. Mi spiego: senza il grassettato la frase ne giova. Ora il amre è opaco, ma la sua mente lo fa vedere ecc. Quella negazione messa lì in mezzo rallenta il ritmo. In questo caso sacrifichi quella frase, e vai a prendere il concetto: \"rimirare il fondale\" metendolo alla fine. ( ... dal paradiso, così limpide che potevi vedere il fondale. )",
+                "gli portò un profumo diverso. risolvi così il doppio \"aveva\" che rende un po' ingessato il periodo.",
+                "Devo dire che queste frasi cariche le hai usate molto, molto di più nella prima parte, con il vecchio. Non nella seconda e nella terza. Una scelta consapevole?",
+                "Bella prova!"
+            ],
+            "timestamp": "2019-12-16T19:09:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806514"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806520,
+            "text": [
+                "Mi permetto di darti qualche suggerimento a questo proposito, basandomi su come mi comporto io, poi vedi tu se possono esserti utili.",
+                "Quando voglio caratterizzare, cerco la differenziazione nel linguaggio, più che nello stile di scrittura. O meglio: una volta che ho individuato uno stile che mi piace e che funziona, cerco di mantenerlo più o meno uguale, con piccole variazioni. La differenza la fa poi l'utilizzo delle parole, la ricercatezza del periodo, delle metafore o delle altre figure retoriche ecc.",
+                "Quindi un anziano sognatore lo \"carico\" non andando a caricare la frase a livello di costrutto, ma concettuialmente. Con i bambini semplifico molto.",
+                "Per dire, una frase come",
+                "Potrebbe essere più \"bambinesca\" con",
+                "Voleva tuffarsi nel mare e andare alla ricerca di quei tesori. Era sicuro che erano lì, sotto la sabbia e le rocce, e che aspettavano solo lui."
+            ],
+            "timestamp": "2019-12-16T19:32:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806520"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte. Bagnato",
         "L’acqua scendeva fitta e sottile dal cielo plumbeo. Il vetro era rigato dalla pioggia, distorcendo il paesaggio, ma il vecchio vedeva benissimo il mare che lambiva la spiaggia e le pietre della baia. Ora era di un blu cupo, opaco, non limpido come nelle giornate di sole che permettevano di rimirare il fondale, ma la sua mente glielo faceva vedere come la prima volta in cui ci era venuto da giovane: un mare più azzurro del cielo, pieno di riflessi del sole, con acque fresche che parevano venire direttamente dal paradiso. Restava delle ore, seduto sulle rocce della baia, a rimirare il lento scivolare delle onde sulla spiaggia, a bearsi dell’odore salmastro. Un giorno la brezza marina gli aveva però portato un profumo diverso, che gli aveva fatto abbassare lo sguardo per capire da dove veniva: poco sotto da dove si sedeva sempre, una ragazza, con un cappello di paglia in testa e vestita di bianco, stava disegnando. Per una settimana la ragazza continuò a venire, sistemandosi sempre nello stesso punto. Di lei vedeva i capelli castani poggiati sempre sulla spalla destra, una catenina di perle al collo, i piedi che calzavano sandali di cuoio; il volto però non riusciva mai a scorgerlo. Quando l’ottavo giorno non la vide, fu un brutto colpo: si sentì sprofondare, come se gli avessero legato una macina al collo e l'avessero gettato nella buca più profonda del mare. La aspettò fino alla sera, ma il posto dove disegnava sempre rimase vuoto, come il suo cuore. Quando si voltò per riprendere il sentiero che lo avrebbe riportato all’albergo, lei era seduta dietro di lui, un sorriso leggero dipinto sulle labbra.",

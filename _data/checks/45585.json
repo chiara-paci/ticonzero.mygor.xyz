@@ -52,7 +52,7 @@
     },
     "num_chars": 2951,
     "num_commenti": 1,
-    "num_posts": 5,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806106,
@@ -61,6 +61,14 @@
             ],
             "timestamp": "2019-12-15T16:06:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806106"
+        },
+        {
+            "post_id": 806522,
+            "text": [
+                "nella fretta mi sono fidato della mia memoria e ho cannato l'anno: esondazione del fiume Noncello a Pordenone, novembre 2002!"
+            ],
+            "timestamp": "2019-12-16T19:35:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806522"
         }
     ],
     "post_staff": [

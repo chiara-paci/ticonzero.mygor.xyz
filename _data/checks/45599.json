@@ -51,7 +51,7 @@
     },
     "num_chars": 6378,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -80,6 +80,24 @@
             ],
             "timestamp": "2019-12-16T11:58:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45599-mi-132-%C3%BCbermensch//?do=findComment&comment=806337"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806493,
+            "text": [
+                "Per una volta che non mi usano il maledetto francese, ma una lingua che conosco...",
+                "Non ho molto da dirti, , ma visto che ho deciso di commentarvi tutti ti lascio due parole.",
+                "Scrivi in modo semplice, ma preciso. Mi pare che tu abbia descritto bene il protagonista. Forse è meno chiara la personalità di lei, ma in fondo i due si conoscono appena.",
+                "Ho apprezzato la decisione di spiegare il modo in cui il protagonista cala la barca per poi aspettare il momento giusto per salire a bordo. Per questo mi ha stupito non leggere nemmeno mezza riga sulle difficoltà incontrate in mesi e mesi di navigazione. Entrambi lucidissimi, sfamati e ben idratati?",
+                "La tua mi sembra una buona prova.",
+                "Ciao"
+            ],
+            "timestamp": "2019-12-16T17:52:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45599-mi-132-%C3%BCbermensch//?do=findComment&comment=806493"
         }
     ],
     "text": [
