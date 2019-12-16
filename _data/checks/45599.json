@@ -51,9 +51,37 @@
     },
     "num_chars": 6378,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 806337,
+            "text": [
+                "sa un po' di frase fatta: in quella situazione come farebbe a ritrovarla, anche volendo?",
+                "e quando uscì dalla porta",
+                "esce solo lei in realtà, quindi non puoi usare il gerundio perché il soggetto della subordinata non è lo stesso della principale.",
+                "attraversante mi ha ricordato \"allenante\" di Capello, a proposito del campionato di calcio di serie A .",
+                "Meglio risolvere con una relativa.",
+                "ci pensò , stai scrivendo al passato.",
+                "Un po' didascalico direi, ma Greta ti appoggerebbe",
+                "scrivi in lettere",
+                "mettevano in risalto , \"risaltare\" è transitivo soltanto nell'accezione di \"saltare di nuovo\": risaltarono l'ostacolo .",
+                "con tutti i nomi propri femminili dovevi sceglierne proprio uno che facesse la rima?",
+                "di ottanta chili",
+                "che penetravano tra le tende , la costruzione intransitiva è decisamente più comune",
+                "Traccia rispettata in pieno: l'acqua c'è, non lo si può negare .",
+                "A parte le due o tre cose che ti ho segnalato, è un racconto ben scritto, con un linguaggio semplice e uno stile lineare. Forse in certi passaggi si sente un po' troppo il pensiero dell'autore dietro al testo, ma rimane comunque un racconto piacevole da leggere.",
+                "Non ho capito il motivo del titolo in tedesco..."
+            ],
+            "timestamp": "2019-12-16T11:58:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45599-mi-132-%C3%BCbermensch//?do=findComment&comment=806337"
+        }
+    ],
     "text": [
         "Traccia di mezzanotte",
         "Non so per quale motivo, ma ero certo che la pioggia non si sarebbe fermata. Forse, questa consapevolezza si materializzò nella mia mente nel momento in cui decisi di acquistare una barca a remi, per poterci così spostare lungo le strade veronesi, dato che da lì a poco le macchine sarebbero divenute inutilizzabili.",

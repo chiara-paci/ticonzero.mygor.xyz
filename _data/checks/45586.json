@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 806158,
@@ -69,6 +69,16 @@
             ],
             "timestamp": "2019-12-16T09:52:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806306"
+        },
+        {
+            "post_id": 806334,
+            "text": [
+                "Ciao , grazie per l’attenta lettura.",
+                "Sono contenta che tu mi abbia fatto notare tutti quei gerundi, perché sono un mio tic: quando scrivo di getto mi vengono spontanei e non mi rendo conto di usarli. Già in un altro racconto li ho dovuti eliminare, lo farò al più presto anche da questo.",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2019-12-16T11:50:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806334"
         }
     ],
     "post_staff": [

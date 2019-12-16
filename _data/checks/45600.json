@@ -69,9 +69,29 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806354,
+            "text": [
+                "Frase dell’anno.",
+                "We. Allora. Commento breve, ma difficile. Sono confuso, devo ancora decidere se il racconto mi piace o meno.",
+                "Mipiace: Credo che con questo genere di racconti tu dia il meglio di te. Mi riferisco proprio allo stile, ai dialoghi, alle descrizioni dei personaggi. È uno stile che non annoia, che ti tiene sveglio e incollato al testo. Racconti in modo vivave, ma non cretino. Quando arrivo in fondo mi sento sempre soddisfatto di quello che ho letto, il che in genere equivale a dire che non mi pento di aver letto il testo.",
+                "Poi però devo fermarmi e pensare: ok, ma cosa hai letto? Ti è piaciuta la storia? L’hai capita? Non puoi innamorarti delle singole frasette, delle piccole trovate, della battutine, e non giudicare il tutto. Ragiona.",
+                "Omeno : E infatti ora devo ragionare sulla tua storia. Non sono sicuro di aver capito il collegamento che fai tra l’acqua e l’insensatezza, qual è il vincolo che unisce le due cose. Cioè, o non l’ho capito io (molto probabile) o il vincolo è un po’ debole. L’insensatezza spiega l’acqua? L’insensatezza unisce la spazzatura buttata per strada e la studentessa spiata? E la ciclista?",
+                "Insomma, non sono sicuro di aver capito quello che vuoi dire. L’ho già letto tre volte, ma finora non ho trovato nulla dietro i dialoghi surreali e divertenti.",
+                "Ora devo leggere gli altri racconti, ma tornerò per studiarmi i commenti che ti lasceranno gli altri utenti."
+            ],
+            "timestamp": "2019-12-16T12:39:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806354"
+        }
+    ],
     "text": [
         "Ho pasticciato col commento pubblicando prima della fine. Devo inserire due link.",
         "Traccia di mezzanotte: bagnato",

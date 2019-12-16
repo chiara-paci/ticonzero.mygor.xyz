@@ -67,9 +67,44 @@
     },
     "num_chars": 5770,
     "num_commenti": 1,
-    "num_posts": 6,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 806349,
+            "text": [
+                "hai assolutamente ragione, questa frase si è perduta",
+                "forse perché non sono riuscita a esprimermi nella maniera giusta. Volevo che potesse passare come un incubo che poi si tramuta in realtà, un momento di indecisione al risveglio",
+                "e dire che di solito mi sento dire che la mia prosa è semplice e diretta, ma è vero, ieri avevo voglia di aggiungere e cercare, quindi probabilmente ho esagerato",
+                "più che altro influenza e un gran raffreddore",
+                "Grazie",
+                "giusto, di solito condivido, ma a quanto pare non ieri",
+                "Grazie mille"
+            ],
+            "timestamp": "2019-12-16T12:34:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806349"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806349,
+            "text": [
+                "hai assolutamente ragione, questa frase si è perduta",
+                "forse perché non sono riuscita a esprimermi nella maniera giusta. Volevo che potesse passare come un incubo che poi si tramuta in realtà, un momento di indecisione al risveglio",
+                "e dire che di solito mi sento dire che la mia prosa è semplice e diretta, ma è vero, ieri avevo voglia di aggiungere e cercare, quindi probabilmente ho esagerato",
+                "più che altro influenza e un gran raffreddore",
+                "Grazie",
+                "giusto, di solito condivido, ma a quanto pare non ieri",
+                "Grazie mille"
+            ],
+            "timestamp": "2019-12-16T12:34:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806349"
+        }
+    ],
     "text": [
         "Traccia di Mezzogiorno.",
         "«Lasciatemi andare, lasciatemi andare! Aiuto! Aiutatemi, vi prego! Aiuto!»",
