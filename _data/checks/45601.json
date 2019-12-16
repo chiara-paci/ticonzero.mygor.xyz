@@ -12,13 +12,40 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao . Piacere di leggerti per la prima volta. Innanzitutto, grazie di aver scelto la mia traccia dello scorso MI. Mi ero scordata di passare da te, ma eccomi. Prima di passare alle impressioni generali, qualche osservazione sullo stile.",
+                    "L'incipit, anche come richiesto dalla traccia, ci catapulta subito sulla scena. Non mi convincono però frasi, che danno un ritmo a singhiozzo. Per esempio: Sentii il bisogno di urlare. Non ci riuscii. Se vuoi dare un ritmo secco alla narrazione, è meglio se separi le parti in due frasi. Altrimenti potresti mettere la congiunzione ma. Magari nella frase successiva: Provai a muovere le braccia, ma non risposero. Cercai di capire dove ci trovassimo. Gli unici indizi che trovai furono ecc. Se lui non riesce a muoversi, come riesce a sapere che il finestrone è largo se solo lo intravede? Dopo dici anche che ha il collo rigido, quindi è poco plausibile che riesce a stabilire la larghezza della finestra. È troppo preciso per uno in quello stato.",
+                    "Questa mi ha un po' stonato. Non li aveva già riconosciuti quando gli hanno buttato l'acqua gelata in faccia? Dovresti o togliere quella parte iniziale, oppure rendere il protagonista più disorientato. Mi sembra troppo vigile date le circostanze.",
+                    "Vedo che ti piacciono frasi lunghe, però fare un po' attenzione alla punteggiatura. Il mio è solo un suggerimento, poi vedi tu. Cazzo Mick, quella pasticca era una bomba! Merda, non dovevi fargliela prendere. Cazzo, guardalo. Direi: gli ha fritto il cervello. Tecnicamente è stata la pasticca, non Mick, a friggergli il cervello.",
+                    "Anche qui spezzerei: Zitto, Frank. Forse si riprende. L'abbiamo presa anche noi e non ci ha fatto nulla.",
+                    "Qui al posto della virgola metterei :. Mi trovai di fronte agli occhi la faccia barbuta di Frankie: sembrava esaminarmi.",
+                    "No Micky, non dobbiamo. Si riprenderà, ne parleremo tutti e tre come abbiamo sempre fatto, e risolveremo tutto.",
+                    "Ho citato questi passaggi perché, come dicevo in un'osservazione precedente, date le circostanze in cui si trova il personaggio, l'hai reso troppo pensante. Va bene se fosse solo legato e questi gli parlassero male alle spalle, ma visto quello che gli hanno fatto, oltre alla pasticca presa, dovrebbe essere più stordito e non in grado di dare giudizi così netti.",
+                    "concluse con la minuscola e va subito dopo la chiusura delle caporali.",
+                    "Ripetizione. Lascerei solo: Mi trovai davanti il viso ecc.",
+                    "La chiusura non mi convince. Cioè, ci sta che pensi alla vendetta, però ma per come hai presentato il personaggio, lo trovo incoerente per come sta vivendo la situazione. Mi sembra più plausibile che si senta sollevato dall'arrivo del salvatore. Per me è prematuro che pensi già al dopo.",
+                    "In conclusione: il racconto ha una base interessante, ma l'idea secondo me non è stata sviluppata e sfruttata del tutto. Dovessi ampliare la storia, potresti lavorare sul personaggio per renderlo più coerente con l'ambientazione, lavorando sui suoi stati d'animo mostrando e non solo raccontando quello che vede/sente. Oltre ai dialoghi, che sono abbastanza naturali, lavorerei sui rapporti e sulla motivazione che ha spinto il gruppo a \"sequestrare\" il personaggio. Ok, hai menzionato Milena, ma solo di sfuggita. Inoltre, la cascina e il luogo in cui si trovano sono solo accennati. Potresti rafforzare con le descrizioni anche quel lato del racconto. Manca come dire un forte impatto emotivo, il lettore non sente ansia, il ritmo narrativo è abbastanza piato. Spero di esserti stata utile. A rileggerci."
+                ]
+            ],
+            "timestamp": "2019-12-15T22:27:41Z",
+            "title": "[MI 131- Fuori concorso] Tre amici in cascina.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=806226",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,7 +53,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7529,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
