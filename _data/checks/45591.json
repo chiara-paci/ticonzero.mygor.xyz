@@ -59,7 +59,7 @@
     },
     "num_chars": 7256,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [],
     "post_staff": [
         {
@@ -79,6 +79,21 @@
             ],
             "timestamp": "2019-12-15T20:16:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=806179"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806381,
+            "text": [
+                "È un racconto in due parti e non lo nascondi, visto che hai scelto di mettere una riga bianca a separare i due episodi. In entrambi sono protagonisti il narratore e il mare. Dovresti scrivere un romanzo. Cioè, molti romanzi, ma uno almeno deve essere la storia di questa spiaggia.",
+                "Molto bello, come sempre.",
+                "Ottimo"
+            ],
+            "timestamp": "2019-12-16T13:51:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=806381"
         }
     ],
     "text": [

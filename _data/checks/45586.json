@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 806158,
@@ -79,6 +79,14 @@
             ],
             "timestamp": "2019-12-16T11:50:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806334"
+        },
+        {
+            "post_id": 806373,
+            "text": [
+                "Ciao , la sua considerazione diventa generale vedendo quanto poco pane sia rimasto nel panificio. Vedere poco pane prodotto e rimasto gli fa pensare che ci siano pochi residenti a mangiarlo, lo spazio occupato solo dai dolci."
+            ],
+            "timestamp": "2019-12-16T13:28:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806373"
         }
     ],
     "post_staff": [

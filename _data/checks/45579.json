@@ -51,7 +51,7 @@
     },
     "num_chars": 1316,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 806304,
@@ -62,6 +62,14 @@
             ],
             "timestamp": "2019-12-16T09:39:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806304"
+        },
+        {
+            "post_id": 806393,
+            "text": [
+                "Ueilà, grazie mille, ragazzi"
+            ],
+            "timestamp": "2019-12-16T14:26:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806393"
         }
     ],
     "post_staff": [
