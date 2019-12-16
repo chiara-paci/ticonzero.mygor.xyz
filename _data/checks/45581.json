@@ -108,13 +108,28 @@
     },
     "num_chars": 7887,
     "num_commenti": 2,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806091,
             "text": [],
             "timestamp": "2019-12-15T15:31:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806091"
+        },
+        {
+            "post_id": 806479,
+            "text": [
+                "Ciao! Non c'è nulla da perdonare, ci mancherebbe altro. Quello che hai detto è corretto: smussandolo, il testo arriverebbe a più lettori. Considera che se qualcuno mi presentasse un testo come questo chiedendomi consiglio su come editarlo, io stesso gli direi di utilizzare un linguaggio meno esplicito e con meno violenza. Non perché, però, credo sia più o meno incisivo in una scala oggettiva; personalmente credo che sia un discorso di fruizione (ed è qui oggettivamente vero che questo tipo di narrativa sfacciatamente \"hard core\" non sia per tutti, e non c'è assolutamente nulla di male a dire che non piace o che addirittura la si sopporta poco... ci mancherebbe altro).",
+                "Personalmente, da lettore la apprezzo molto se fatta bene (la trovo addirittura più incisiva delle altre, ma ripeto: deve essere davvero davvero ben scritta e ben equilibrata), pur non essendo il genere che scrivo nei romanzi lunghi; quindi approfitto di questo spazio per \"provarci\", diacimo .",
+                "Grazie mille, e non farti mai, mai problemi a dire quello che non ti quadra!",
+                "Non ho usato virgolette in nessun discorso diretto per scelta, per dare più ritmo. Più che una scelta corretta o meno, può essere una scelta felice o meno. Nel senso che da un punto di vista \"canonico\" dipende tutto ed esclusivamente dal rapporto matematico: norme redazionali dell'editore VS peso (bravura) dell'autore. Nel senso che se io dovessi presentare un testo senza virgolettato \"per dare ritmo\" a una grande CE, l'editor mi riderebbe in faccia. Se a farlo era Saramago... vabbè, era Saramago.",
+                "Nel caso specifico di questo racconto non sono ancora del tutto sicuro che sia stata una scelta felice... di norma sono un fanatico di virgolette e affini",
+                "Ho voluto provare proprio perchè mi sono lanciato nel \"proviamo a scrivere in quel modo lì\", e già che c'ero ho detto via, leviamo anche le virgolette!",
+                "Parole sante...",
+                "Ti ringrazio. Per amor di cronaca, la poesia è solo attribuita a Martin Niemoller, ma probabilmente non è la sua. Lui scrisse un discorso simile ma molto più politico, poi qualcuno lo modificò in questa poesia e vabbè, alla fine viene attribuita a lui."
+            ],
+            "timestamp": "2019-12-16T16:58:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806479"
         }
     ],
     "post_staff": [
@@ -128,6 +143,26 @@
             "text": [],
             "timestamp": "2019-12-15T15:31:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806091"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 806479,
+            "text": [
+                "Ciao! Non c'è nulla da perdonare, ci mancherebbe altro. Quello che hai detto è corretto: smussandolo, il testo arriverebbe a più lettori. Considera che se qualcuno mi presentasse un testo come questo chiedendomi consiglio su come editarlo, io stesso gli direi di utilizzare un linguaggio meno esplicito e con meno violenza. Non perché, però, credo sia più o meno incisivo in una scala oggettiva; personalmente credo che sia un discorso di fruizione (ed è qui oggettivamente vero che questo tipo di narrativa sfacciatamente \"hard core\" non sia per tutti, e non c'è assolutamente nulla di male a dire che non piace o che addirittura la si sopporta poco... ci mancherebbe altro).",
+                "Personalmente, da lettore la apprezzo molto se fatta bene (la trovo addirittura più incisiva delle altre, ma ripeto: deve essere davvero davvero ben scritta e ben equilibrata), pur non essendo il genere che scrivo nei romanzi lunghi; quindi approfitto di questo spazio per \"provarci\", diacimo .",
+                "Grazie mille, e non farti mai, mai problemi a dire quello che non ti quadra!",
+                "Non ho usato virgolette in nessun discorso diretto per scelta, per dare più ritmo. Più che una scelta corretta o meno, può essere una scelta felice o meno. Nel senso che da un punto di vista \"canonico\" dipende tutto ed esclusivamente dal rapporto matematico: norme redazionali dell'editore VS peso (bravura) dell'autore. Nel senso che se io dovessi presentare un testo senza virgolettato \"per dare ritmo\" a una grande CE, l'editor mi riderebbe in faccia. Se a farlo era Saramago... vabbè, era Saramago.",
+                "Nel caso specifico di questo racconto non sono ancora del tutto sicuro che sia stata una scelta felice... di norma sono un fanatico di virgolette e affini",
+                "Ho voluto provare proprio perchè mi sono lanciato nel \"proviamo a scrivere in quel modo lì\", e già che c'ero ho detto via, leviamo anche le virgolette!",
+                "Parole sante...",
+                "Ti ringrazio. Per amor di cronaca, la poesia è solo attribuita a Martin Niemoller, ma probabilmente non è la sua. Lui scrisse un discorso simile ma molto più politico, poi qualcuno lo modificò in questa poesia e vabbè, alla fine viene attribuita a lui."
+            ],
+            "timestamp": "2019-12-16T16:58:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806479"
         }
     ],
     "text": [

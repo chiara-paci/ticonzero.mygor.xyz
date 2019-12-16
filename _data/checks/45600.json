@@ -69,7 +69,7 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [],
     "post_staff": [
         {
@@ -90,6 +90,19 @@
             ],
             "timestamp": "2019-12-16T12:39:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806354"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806471,
+            "text": [
+                "Mi sa che ripeto cose già dette, : l'ho letto tutto d'un fiato e ho riso, ma alla fine mi sono persino chiesta se l'acqua fosse reale o meno. L'ho riletto e non sono arrivata a capire il collegamento tra acqua, spazzatura, insensatezza, ciclista e il resto. Eppure ho la sensazione che mi sia piaciuto molto"
+            ],
+            "timestamp": "2019-12-16T16:50:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806471"
         }
     ],
     "text": [

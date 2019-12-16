@@ -56,7 +56,7 @@
     },
     "num_chars": 6212,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806451,
@@ -85,6 +85,24 @@
             ],
             "timestamp": "2019-12-16T08:55:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=806294"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806488,
+            "text": [
+                "Simpatico.",
+                "Pure lei rompicoglioni forte.",
+                "Hai deciso di rimanere sul concreto, niente alluvioni metafisiche e affogati psicologici e correnti divine.",
+                "Realistici anche i protagonisti, infatti li affogherei entrambi.",
+                "Il testo mi sembra corretto, lo stile è asciutto: abbiamo dialoghi, pensieri, ma pochissime descrizioni. Trama minimal e storia che si chiude all'improvviso, con un colpo di mannaia.",
+                "Bene. Ciao"
+            ],
+            "timestamp": "2019-12-16T17:23:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=806488"
         }
     ],
     "text": [

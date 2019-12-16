@@ -55,7 +55,7 @@
     },
     "num_chars": 8007,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 806195,
@@ -79,6 +79,22 @@
             ],
             "timestamp": "2019-12-16T12:57:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45593-mi-132-%C3%A8-morto-lo-zoo-viva-lo-zoo//?do=findComment&comment=806360"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806481,
+            "text": [
+                "ma esiste?",
+                "Sempre bravo anche se trovo che la prima parte, più o meno fino qui",
+                "sia meno fluida e un po' troppo apertamente didascalica.",
+                "In più, trovo che il tuo zoo potrebbe essere una metafora della nostra società: noia, abbandono e troppe regole che si scontrano e creano apatia."
+            ],
+            "timestamp": "2019-12-16T17:03:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45593-mi-132-%C3%A8-morto-lo-zoo-viva-lo-zoo//?do=findComment&comment=806481"
         }
     ],
     "text": [
