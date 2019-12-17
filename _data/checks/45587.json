@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 806574,
@@ -98,6 +98,20 @@
             ],
             "timestamp": "2019-12-16T18:13:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806498"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806640,
+            "text": [
+                "Davvero ben gestito continuavo a leggere e a chiedermi come sarebbe andata a finire, ma mai mi sarei aspettata un mondo sommerso di lacrime da risata! Ma come ti è venuta una storia così? Certo che cominciando a bere alle dieci di mattina era dura che finisse in altro modo",
+                "Grazie mille, mi sono proprio divertita!"
+            ],
+            "timestamp": "2019-12-17T09:00:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806640"
         }
     ],
     "text": [

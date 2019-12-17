@@ -67,7 +67,7 @@
     },
     "num_chars": 5770,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 806349,
@@ -82,6 +82,24 @@
             ],
             "timestamp": "2019-12-16T12:34:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806349"
+        },
+        {
+            "post_id": 806657,
+            "text": [
+                "non so più se è tanto inconscio , grazie del passaggio",
+                "possiamo organizzare un gemellaggio",
+                "nel senso che è un dolore pungente e a tratti. Mi sa che non l'ho espresso bene, per me è chiarissimo con due ernie al disco",
+                "ho proprio sbagliato la costruzione della frase che è tutta da rivedere",
+                "giusto",
+                "volevo far intendere che si feriva le mani lottando con le sbarre della gabbia, cercando di uscire. Le croste vecchie vengono sostituite dalle nuove.",
+                "i visitatori sono animali, non so in che epoca siamo, ho solo voluto ipotizzare che i ruoli si fossero invertiti, ma non ho pensato a molto altro riguardo la società intorno",
+                "Ti ringrazio molto per le tue osservazioni,",
+                "non ho mica capito di quale serie parli",
+                "Con l'abbondanza delle frasi ho un po' esagerato, lo so. Volevo fare un esperimento visto che di solito la mia scrittura viene definita semplice e diretta.",
+                "Ti ringrazio della lettura"
+            ],
+            "timestamp": "2019-12-17T10:04:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806657"
         }
     ],
     "post_staff": [
@@ -103,6 +121,29 @@
             ],
             "timestamp": "2019-12-16T12:34:25Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806349"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 806657,
+            "text": [
+                "non so più se è tanto inconscio , grazie del passaggio",
+                "possiamo organizzare un gemellaggio",
+                "nel senso che è un dolore pungente e a tratti. Mi sa che non l'ho espresso bene, per me è chiarissimo con due ernie al disco",
+                "ho proprio sbagliato la costruzione della frase che è tutta da rivedere",
+                "giusto",
+                "volevo far intendere che si feriva le mani lottando con le sbarre della gabbia, cercando di uscire. Le croste vecchie vengono sostituite dalle nuove.",
+                "i visitatori sono animali, non so in che epoca siamo, ho solo voluto ipotizzare che i ruoli si fossero invertiti, ma non ho pensato a molto altro riguardo la società intorno",
+                "Ti ringrazio molto per le tue osservazioni,",
+                "non ho mica capito di quale serie parli",
+                "Con l'abbondanza delle frasi ho un po' esagerato, lo so. Volevo fare un esperimento visto che di solito la mia scrittura viene definita semplice e diretta.",
+                "Ti ringrazio della lettura"
+            ],
+            "timestamp": "2019-12-17T10:04:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806657"
         }
     ],
     "text": [

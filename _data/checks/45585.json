@@ -52,7 +52,7 @@
     },
     "num_chars": 2951,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 806106,
@@ -94,6 +94,14 @@
             ],
             "timestamp": "2019-12-17T07:51:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806627"
+        },
+        {
+            "post_id": 806658,
+            "text": [
+                "Grazie per le segnalazioni. Gli spiegoni sono proprio quello che cerco di evitare. In fondo la parte che tu citi sono tre frasi di cui solo la prima descrittiva. Le altre volevano più far arrivare l'effetto del fiume sulla vita delle persone. Ruben come ho già detto DEVE arrivare alla fine, per quella mia fissa dei finali."
+            ],
+            "timestamp": "2019-12-17T10:40:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806658"
         }
     ],
     "post_staff": [
@@ -113,6 +121,29 @@
             ],
             "timestamp": "2019-12-16T11:06:55Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806328"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806652,
+            "text": [
+                "Ti segnalo questa piccola ripetizione, niente di importante. Potrebbe non stare male una virgola in più:",
+                "Sicuramente anche sua madre lo era, nonostante cercasse di nasconderlo.",
+                "Un'altra segnalazione inutile, giusto perché ci ho fatto caso.",
+                "Qui sento un leggero olezzo di spiegone",
+                "Riesci a propinarci queste informazioni in modo più subdolo, spalmandole ovunque?",
+                "Tipo affidandoti agli occhi della ragazza, mostrandoci quello che vede dalla finestra. O magari Martina che pensa ai posti in cui di solito va con Ruben e prova a immaginarseli (o li vede) sommersi.",
+                "Bello che la ragazza parta dal pensiero della sua cameretta per poi dispiacersi per gli altri inquilini.",
+                "Testo molto breve, ci lasci giusto un paio di flash. Forse potresti impreziosirlo sostituendo qualche informazione nuda e cruda con la descrizione di un dettaglio, di un rumore, di un ricordo. Mi riferisco sempre alla parte centrale, quella più spiegata . Zooma di più sui parcheggi, sulle case, sulle spiagge... leggere semplicemente che sono inondate non mi aiuta molto a vedere la scena.",
+                "Più che altro, lascerei più spazio a Ruben: non fosse stato per l'alluvione si sarebbero incontrati? Si erano dati un appuntamento per \"dirsi addio\"?",
+                "Queste sono le prime cose che mi sono venute in mente leggendo il tuo testo.",
+                "Ciao e benvenuto al MI"
+            ],
+            "timestamp": "2019-12-17T09:56:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806652"
         }
     ],
     "text": [

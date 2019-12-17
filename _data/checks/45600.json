@@ -69,8 +69,17 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 806649,
+            "text": [
+                "Grazie a tutti. Vedo che qualcosina, a proposito dei dubbi di Kuno, sta venendo nei commenti. Quindi mi astengo dl fornirvi la mia risposta su un piatto d'argento e attendo. Però vi do una dritta: faccio pronunciare la risposta ai vostri dubbi, per esplicito, al protagonista"
+            ],
+            "timestamp": "2019-12-17T09:48:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806649"
+        }
+    ],
     "post_staff": [
         {
             "author": {
