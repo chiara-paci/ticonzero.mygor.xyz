@@ -12,29 +12,12 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 0.5144444444444445,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.3088888888888889,
+        "weight": false
     },
     "closed": false,
     "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.4111111111111111
-            },
-            "text": [
-                [
-                    "Ho dovuto leggere il racconto due volte per cogliere il nocciolo della questione, anche se il titolo, azzecatissimo, mi avrebbe dovuto indirizzare bene.",
-                    "Mentre le descrizioni della paura del \"mancare il corridoio\", dei sentimenti provati per Aurora, sono chiare e belle, si fa difficoltá a capire che il dialogo iniziale in realtá é un monologo interiore, forse col padre defunto.",
-                    "L'idea mi piace molto, peró, a mio personalissimo e sindacabilissimo avviso, manca di sale."
-                ]
-            ],
-            "timestamp": "2019-12-10T09:58:21Z",
-            "title": "Schizofonia",
-            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=805014",
-            "weight": 1
-        },
         {
             "checks": {
                 "timestamp": true,
@@ -54,7 +37,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 2,
+    "commenti_weight": 1,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -62,7 +45,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 0,
-    "num_commenti": 2,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
