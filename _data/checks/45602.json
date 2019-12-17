@@ -47,7 +47,7 @@
     },
     "num_chars": 1852,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806252,
@@ -88,6 +88,21 @@
             ],
             "timestamp": "2019-12-16T07:49:51Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806282"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806763,
+            "text": [
+                "A me sta anche bene che il pappagallo conosca lo zoo e la professione dell'uomo che si aggira nella foresta, magari gli animali di tutto il mondo comunicano tra loro e conoscono noi umani come noi conosciamo loro.",
+                "Un racconto piccolino, scritto con la giusta leggerezza. C'è un buon equilibrio: metà testo per il sogno, l'altra metà per la disillusione. Ecco, a dire il vero la seconda parte ha giusto un paio di righe in meno, vedi tu se vale la pena rimediare per farla terminare in pareggio.",
+                "Ciao"
+            ],
+            "timestamp": "2019-12-17T17:32:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806763"
         }
     ],
     "text": [

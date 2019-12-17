@@ -69,7 +69,7 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 806649,
@@ -78,6 +78,17 @@
             ],
             "timestamp": "2019-12-17T09:48:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806649"
+        },
+        {
+            "post_id": 806765,
+            "text": [
+                "biricchino",
+                "e no, ho scelto l'happy ending",
+                "e io gongolo",
+                "Ragazzi, è l'insensatezza... l'insensatezzaaaaaaaaaaa!"
+            ],
+            "timestamp": "2019-12-17T17:50:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806765"
         }
     ],
     "post_staff": [

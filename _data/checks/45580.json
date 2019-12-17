@@ -67,7 +67,7 @@
     },
     "num_chars": 5770,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 806349,
@@ -144,6 +144,23 @@
             ],
             "timestamp": "2019-12-17T10:04:09Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806657"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 806762,
+            "text": [
+                "Tito il Piumone, celeberrimo imperatore romano che in estate torturava i nemici costringendoli a dormire sotto una coperta molto pesante.",
+                "L'altro giorno mi è capitato di leggere il commento di Edu, qua sopra, prima ancora di leggere il tuo testo, e devo dire di essere d'accordo con lui quando consiglia di \"asciugare la prosa\": ci sono frasi parecchio contorte e immagini molto particolari, interessanti ma forse troppo coraggiose. Sei stata più prudente, invece, con la trama. Abbiamo un umano dietro le sbarre, in uno zoo gestito da animali. Sapevo che almeno un paio di racconti avrebbero ronzato intorno a questa idea, e in un MI va più che bene.",
+                "Mi ha stupito (in positivo) il fatto che tu l'abbia voluto trasformare in un vero e proprio horror! Sangue, botte, braccia tirate in posizioni innaturali, oggetti lanciati, panico. Anche il modo in cui descrivi gli aguzzini mette una certa agitazione:",
+                "In altre gabbie ci sono persino dei bambini soli.",
+                "Sei stata molto cattiva"
+            ],
+            "timestamp": "2019-12-17T17:11:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806762"
         }
     ],
     "text": [

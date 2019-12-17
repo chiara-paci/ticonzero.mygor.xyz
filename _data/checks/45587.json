@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 806574,
@@ -62,6 +62,22 @@
             ],
             "timestamp": "2019-12-16T21:54:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806574"
+        },
+        {
+            "post_id": 806771,
+            "text": [
+                "ragazzi, ma grazie infinitamente a tutti! Sono felice che abbiate capito l'intento grottesco/umoristico e chi vi sia piaciuto Fra stasera e domani passo da tutti voi e ricambio con le mie impressioni! Grazie ancora"
+            ],
+            "timestamp": "2019-12-17T18:18:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806771"
+        },
+        {
+            "post_id": 806773,
+            "text": [
+                "Hai colto perfettamente il tipo di risata che avevo in mente di trasporre! Grazie"
+            ],
+            "timestamp": "2019-12-17T18:40:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806773"
         }
     ],
     "post_staff": [
