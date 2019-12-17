@@ -1,0 +1,105 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace molto quest'incipit, che in nuce racchiude tutta l'essenza di questo testo, ovvero il senso di alienazione dei protagonisti, la loro insofferenza, il loro senso di mancanza, molto ben delineato in queste parole: a uno manca la testa, a un altro tutto il resto, a un altro ancora la voglia, a un altro l'ascolto. Ma ciò che più manca a loro stessi è appunto se stessi, un po' come io manco a me stesso. Questi bei versi, come i successivi, esprimono in modo efficace il tendere di questi giovani protagonisti verso un qualcosa di diverso dal loro presente, un qualcosa di più sostanzioso e concreto, ma soprattutto un ritrovare se stessi e la propria serenità.",
+                    "Il ritmo della poesia è veloce, serrato, come la velocità della macchina in cui si trovano i protagonisti, in una sorta di viaggio metaforico alla ricerca di sé, nel buio della notte.",
+                    "Abbiamo tutti occhi cupi e persi",
+                    "sulla sera di provincia spenta.",
+                    "Bella immagine che esprime in modo efficace il senso di smarrimento di questi giovani.",
+                    "Abbiamo momenti tesi",
+                    "e piani per il futuro",
+                    "destinati al niente",
+                    "e voglie troppo grandi",
+                    "per ignorare il presente.",
+                    "L'auto alza polvere e pietrisco",
+                    "al cielo sorco, alla luna a picco,",
+                    "Forse intendevi cielo sporco. bella l'immagine della luna a picco. Suggestiva ma allo stesso tempo inquietante, minacciosa come il cielo sporco. Cielo sporco e luna a picco mi sembrano molto in linea con lo stato d'animo sperduto dei protagonisti.",
+                    "Sono momenti arresi,",
+                    "dopo essere nati,",
+                    "presi per i piedi,",
+                    "maturati stanchi,",
+                    "lancinati in tanti",
+                    "contro l'illusione",
+                    "d'essere vincenti,",
+                    "abbiam visto il trucco",
+                    "dietro i tendoni",
+                    "comodi e sgargianti",
+                    "di chi faceva i premi.",
+                    "Queste strofe tutte in rima, alternate alle altra strofe, mi danno l'idea di una canzone. In senso positivo, ovviamente. E mi sono venuti in mente, istintivamente, Bersani e Carboni. Potrebbe essere un bel testo musicale sulla giovanile inquietudine.",
+                    "denaro o sempieterna gloria,",
+                    "Forse meglio \"sempiterna\".",
+                    "non lasceremo il segno",
+                    "sulla pietra e nella storia.",
+                    "Non saremo neppure eroi o dei,",
+                    "ma lungo la strada sporca,",
+                    "io e questi amici miei,",
+                    "troveremo disperata forza",
+                    "per spingerci più avanti,",
+                    "superare tutto questo niente",
+                    "che ci fa cinici e distanti.",
+                    "Questi versi esprimono bene il desiderio di lasciare un segno nella vita, se non nella vita in generale, almeno nella propria. è costante in tutta la poesia la ricerca di una profondità che dia un senso al vuoto di quest'esistenza. La poesia comunica con un linguaggio chiaro, colloquiale e senza troppi fronzoli tutto questo senso di disagio e di ricerca, quindi è una poesia che sa arrivare dritto e comunicare, più che suggestionare in modo vago.",
+                    "Complimenti . Che bel nick!"
+                ]
+            ],
+            "timestamp": "2019-12-17T18:47:07Z",
+            "title": "Abbiamo momenti tesi",
+            "url": "https://www.writersdream.org/forum/forums/topic/45531-abbiamo-momenti-tesi//?do=findComment&comment=806776",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 240,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Comment",
+        "(Mi piace visitare e rivisitare, quindi rivisito).",
+        "Sognavo",
+        "sbocciassi alla mia finestra",
+        "come primula in un vaso",
+        "da ritrovare ogni mattina",
+        "aprendo la persiana",
+        "ma tu",
+        "hai abitato questi vetri",
+        "come un fiore",
+        "disegnato col fiato",
+        "svanito",
+        "di lì a poco."
+    ],
+    "timestamp": "2019-12-17T18:50:35Z",
+    "title": "Window",
+    "topic_id": 45619,
+    "url": "https://www.writersdream.org/forum/forums/topic/45619-window/"
+}

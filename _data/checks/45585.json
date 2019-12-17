@@ -52,7 +52,7 @@
     },
     "num_chars": 2951,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 806106,
@@ -102,6 +102,14 @@
             ],
             "timestamp": "2019-12-17T10:40:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806658"
+        },
+        {
+            "post_id": 806790,
+            "text": [
+                "grazie per il tuo commento. La frase sulla tristezza effettivamente non mi è riuscita bene. Invece non sono d'accordo sulle frasi fatte: secondo me vanno usate il giusto senza abusarne ma anche senza evitarle come la peste confezionando dannose acrobazie stilistiche. Mi fa piacere aver azzeccato il nome del moroso!"
+            ],
+            "timestamp": "2019-12-17T19:54:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45585-mi-132-novembre-2003//?do=findComment&comment=806790"
         }
     ],
     "post_staff": [

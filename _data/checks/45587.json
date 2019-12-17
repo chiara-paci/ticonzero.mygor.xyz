@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 806574,
@@ -78,6 +78,14 @@
             ],
             "timestamp": "2019-12-17T18:40:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806773"
+        },
+        {
+            "post_id": 806774,
+            "text": [
+                "Sì, era mio! Grande memoria Ho voluto indirizzarlo verso una roba più soft qui"
+            ],
+            "timestamp": "2019-12-17T18:42:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806774"
         }
     ],
     "post_staff": [
