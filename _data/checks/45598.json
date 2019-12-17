@@ -53,8 +53,39 @@
     },
     "num_chars": 8023,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 14,
+    "post_after": [
+        {
+            "post_id": 806805,
+            "text": [
+                "Grazie. SErchiapone l'ho sentito a volte rammentare da mio babbo, ma non so cosa sia. Forse 41 sono pochi Grazie per il bel commento.",
+                "Li avevo scritti entrambi (stavolta avevo addirittura due ore) e li ho riletti fino all'ultimo. Quello in cui moriva non c'era il vigile. Perso tra i suoi pensieri sul Paccochilofano attraversava col rosso e lo mettevano sotto. FAceva in tempo a vedere tutti che accorrevano perché era arrivato e moriva. Certo, era molto più stronzo, però mi lasciava un senso di incompiutezza, allora ho optato per la seconda versione, dove muore ugualmente, ma felice di averlo visto. Grazie del commento.",
+                "grazie davvero!",
+                "Ti dico solo che è stupendo",
+                "Grazie tantissimo per l'apprezzamento!",
+                "Per il nome dobbiamo ringraziare mio babbo. Lo aveva inventato quando eravamo piccoli che giocavamo io lui e mio fratello sul letto. ERano due gli animali, Funduc e Paccochilofano Grazie per il commento, lieto di averti intrattenuta!"
+            ],
+            "timestamp": "2019-12-17T20:49:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806805"
+        },
+        {
+            "post_id": 806808,
+            "text": [
+                "Sai che l'ho aggiunto solo dopo in fase di rilettura...",
+                "Grazie mille dei complimenti"
+            ],
+            "timestamp": "2019-12-17T20:58:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806808"
+        },
+        {
+            "post_id": 806815,
+            "text": [
+                "Non avevo colto nemmeno la sua citazione. Autofustigazione per ogni pelo del Paccochilofano"
+            ],
+            "timestamp": "2019-12-17T21:13:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806815"
+        }
+    ],
     "post_staff": [
         {
             "author": {
