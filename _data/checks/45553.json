@@ -68,7 +68,7 @@
     },
     "num_chars": 221,
     "num_commenti": 2,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 805987,
@@ -106,6 +106,15 @@
             ],
             "timestamp": "2019-12-16T07:17:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45553-sette-parole//?do=findComment&comment=806277"
+        },
+        {
+            "post_id": 806611,
+            "text": [
+                "L'ho scampata bella eh",
+                "Che dire ? Un commento così vale come il primo premio di un concorso. Da incorniciare. Grazie di cuore."
+            ],
+            "timestamp": "2019-12-17T06:23:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45553-sette-parole//?do=findComment&comment=806611"
         }
     ],
     "post_staff": [
