@@ -1,0 +1,99 @@
+{
+    "author": {
+        "author_id": 34492,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "silvana.turi",
+        "url": "https://www.writersdream.org/forum/profile/34492-silvanaturi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il titolo è originale, mi piace \"Cara Lei\", sembra una persona lontana e invece",
+                    "è dentro, tutta dentro in un colloquio alternato.",
+                    "Non ho trovato errori grammaticali, né sintattici",
+                    "Lo stile è scorrevole, ti mette direttamente in contatto con il",
+                    "mondo della protagonista.",
+                    "Bel racconto intimista, scorrevole e sintetico nello stesso tempo:",
+                    "ricco d'immagini, di sguardi nascosti, di sguardi svelati.",
+                    "E' lei che parla che si riconosce, si prende per mano e si guarda, si ascolta, si incoraggia.",
+                    "E nel momento stesso che lo afferma, che decide di uscire, fa pace con quella parte di lei più cara, più femminile, più sicura.",
+                    "Sono i quattro elementi che la seguono, il vento che le accarezza il viso, aria, aria, respiro; i piedi ben piantati in",
+                    "terra, un rossetto le infuoca le labbra, gli occhi sono umidi dall'emozione.",
+                    "Sussurra piano \"cara, cara Lei...\"",
+                    "E' quel di più che le risuona dentro e che la rappresenta in pieno: nessuno può amare l'altro senza prima amare fortemente se",
+                    "stesso.",
+                    "L'unico appunto, questa frase mi sembra superflua."
+                ]
+            ],
+            "timestamp": "2019-12-07T10:40:27Z",
+            "title": "Cara Lei",
+            "url": "https://www.writersdream.org/forum/forums/topic/45284-cara-lei//?do=findComment&comment=804465",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 1384,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 804877,
+            "text": [],
+            "timestamp": "2019-12-09T20:23:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45502-la-fiamma//?do=findComment&comment=804877"
+        },
+        {
+            "post_id": 804878,
+            "text": [
+                "Grazieeee Floriana..."
+            ],
+            "timestamp": "2019-12-09T20:24:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45502-la-fiamma//?do=findComment&comment=804878"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Una candela ci divide e un tavolo con due sedie di velluto blu, l’uno di fronte all’altra.",
+        "La musica di un piano bar attutisce i rumori stonati.",
+        "La fiamma si muove come un’onda del mare, un microfono animato dalla voglia di sapere.",
+        "Appoggio una mano sul tavolo e accarezzo un lembo di tovaglia.",
+        "Lui la vede, la raccoglie fra le sue e vi soffia dentro il suo alito caldo, per rianimarla.",
+        "Mi stupisco e mi commuovo.",
+        "Lui se ne accorge e inciampa dentro le sue stesse parole.",
+        "- Non te ne andare, non ora...",
+        "Mentre mi avvicino, scuoto un poco la testa, il mio è un no, ma tiepido.",
+        "La fiamma si muove nell’oscurità della stanza. Le pareti sono carta assorbente: curiose come spie, vogliono sapere di più di questa storia; alzo gli occhi, Michele ha il naso gonfio d’aria, la fronte increspata da molti perché. Le labbra sono nascoste da una nuova barba grigia.",
+        "Con esitazione raccoglie anche l’altra mano fra le sue, le accarezza insieme, l’incavo trasmette l’idea di un possibile ritorno a casa; loro si lasciano andare in modo irragionevole.",
+        "Una parola, uno sguardo che fugge. Un senso di colpa mai detto.",
+        "Evito di guardarlo, capirebbe che non dico la verità; sto rivestendo le parole di fumo, di sicuro non appartengono alla nostra storia di un tempo.",
+        "Sento un’urgenza: la verità, dirgli la verità subito, e il mio petto si scuote dentro; prendo un respiro profondo e inizio....",
+        "- Ti ricordi di Alino?"
+    ],
+    "timestamp": "2019-12-07T10:47:35Z",
+    "title": "La fiamma",
+    "topic_id": 45502,
+    "url": "https://www.writersdream.org/forum/forums/topic/45502-la-fiamma/"
+}

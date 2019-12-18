@@ -1,0 +1,171 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Questo incipit lo trovo grandioso. Mi è piaciuto molto. Il linguaggio è crudo e violento, affilato e tagliente, ma non lo trovo fine a se stesso; comunica con grande efficacia ed incisività uno stato di dolore e di esasperazione. Sono versi di grande impatto, anche visivo. Leggendoli, ho avuto davanti agli occhi la scena del sangue e dei pezzetti di cervello sparsi sulla parete. L'immagine mi ha anche richiamato alla memoria Kurt Cobain, che, se non erro, dovrebbe essersi ucciso proprio allo stesso modo. Molto bello quel leggere nella carne le pagine di dolore e angoscia: una metafora ben riuscita, dolorosa ma suggestiva.",
+                    "Impiccarmi, impiccarmi proprio no.",
+                    "Agitarmi per qualche secondo,",
+                    "soffocare, se non si spezza il collo …",
+                    "Bollo auto, tasse, casse",
+                    "silenziose in chiese nere,",
+                    "preghiere e dichiarazione dei redditi ….",
+                    "volevo solamente scrivere",
+                    "qualche parola del cazzo",
+                    "e farla suonare bene,",
+                    "alleggerire le pene",
+                    "e scaricarle in qualche verso,",
+                    "nel vortice che porta alle fogne",
+                    "della liberazione.",
+                    "Qualche canzone, qualche rimetta",
+                    "che mi facesse ricordare",
+                    "la tetta focosa di una lupa in calore,",
+                    "l’amore ululato di una spiaggia",
+                    "selvaggia nei chiarori di luna.",
+                    "La poesia mi ha deluso,",
+                    "è stata l’abuso di vizi",
+                    "nei quali ho cercato l’infinito,",
+                    "sfinito dell’essere uno scarafaggio,",
+                    "un raggio di sole occasionale,",
+                    "un petardo inesploso.",
+                    "In tutto questo pezzo, a mio avviso (ma è un'opinione personale) ti perdi. Il testo diventa un po' caotico e ripetitivo, e si perde quella magia piena di dolore, ma pulita e concisa, dell'incipit. Ci sono punti ridondanti, ripetitivi (l'atto dello scrivere, le parole del cazzo, i versi, la canzone, la poesia... ); secondo me potresti asciugare un po' il tutto. Ci sono anche punti che trovo un po' oscuri, cioè possono anche risultare suggestivi per come sono scritti, ma a mio avviso troppo artefatti e poco comprensibili, come questi versi:",
+                    "La poesia mi ha deluso,",
+                    "è stata l’abuso di vizi",
+                    "nei quali ho cercato l’infinito.",
+                    "A parte il vago senso di malessere a cui rimandano, mi sfugge il loro significato preciso.",
+                    "In altri punti trovo poi un eccesso di melodramma, troppa teatralità resa con metafore, tra l'altro, di dubbio gusto (sempre a mio avviso) come il \"vortice che porta alle fogne della liberazione\", \"la tetta focosa di una lupa in calore\", \"l'amore ululato di una spiaggia\".",
+                    "Sono sincero.",
+                    "Mi sparerei, se non fossi un codardo.",
+                    "Dicono che i suicidi sono dei vigliacchi,",
+                    "ma sono gli unici ad aver compreso",
+                    "che in questa partita a scacchi",
+                    "non abbiamo mai avuto un re.",
+                    "La chiusa non l'ho capita. Il re che non abbiamo mai avuto si riferisce a un dio? Ma anche se così fosse, colore che si suicidano non sono vigliacchi perché sono gli unici ad aver capito che un dio non c'è? Quindi, in base a questo ragionamento, se un dio non c'è è giusto suicidarsi?",
+                    "Non c'è alcun giudizio nelle mie considerazioni e ipotesi, è solo per capire.",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2019-11-22T22:36:13Z",
+            "title": "Con un fucile in bocca",
+            "url": "https://www.writersdream.org/forum/forums/topic/45184-con-un-fucile-in-bocca//?do=findComment&comment=801643",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 354,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 801736,
+            "text": [
+                "Versione riveduta con l'aggiunta di un verso.",
+                "Football",
+                "La mia finestra",
+                "si affaccia su un campo da calcio.",
+                "Cos'ho in comune con un simile panorama?",
+                "mi chiedo spesso,",
+                "io che al pallone",
+                "preferisco il divano.",
+                "Ma questa sera d'autunno",
+                "i ragazzi stanno giocando",
+                "perfino sotto la pioggia,",
+                "zuppi come stracci.",
+                "Li guardo dai vetri,",
+                "grondante della tua assenza",
+                "che cade fitta.",
+                "Potrei essere",
+                "loro compagno di squadra."
+            ],
+            "timestamp": "2019-11-23T11:49:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801736"
+        },
+        {
+            "post_id": 801755,
+            "text": [
+                "Sì, ti ringrazio . Vorrei mantenere solo la seconda versione, quindi procedi pure alla modifica."
+            ],
+            "timestamp": "2019-11-23T13:01:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801755"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 801752,
+            "text": [
+                "visto che hai solo aggiunto un verso e non ci sono commenti prima della modifica, se vuoi mantenere la seconda versione posso modificare il testo iniziale, dammi conferma perché non si posso lasciare più testi nella stessa discussione e uno dei due post va tolto."
+            ],
+            "timestamp": "2019-11-23T12:24:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801752"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 801782,
+            "text": [
+                "Fatto."
+            ],
+            "timestamp": "2019-11-23T16:58:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45326-football//?do=findComment&comment=801782"
+        }
+    ],
+    "text": [
+        "Comment:",
+        "Football",
+        "La mia finestra",
+        "si affaccia su un campo da calcio.",
+        "Cos'ho in comune con un simile panorama?",
+        "mi chiedo spesso,",
+        "io che al pallone",
+        "preferisco il divano.",
+        "Ma questa sera d'autunno",
+        "i ragazzi stanno giocando",
+        "perfino sotto la pioggia,",
+        "zuppi come stracci.",
+        "Li guardo dai vetri,",
+        "grondante della tua assenza",
+        "che cade fitta.",
+        "Potrei essere",
+        "loro compagno di squadra.﻿"
+    ],
+    "timestamp": "2019-11-22T22:44:52Z",
+    "title": "Football",
+    "topic_id": 45326,
+    "url": "https://www.writersdream.org/forum/forums/topic/45326-football/"
+}

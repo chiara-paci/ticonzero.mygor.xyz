@@ -1,0 +1,199 @@
+{
+    "author": {
+        "author_id": 34956,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Jolly Roger",
+        "url": "https://www.writersdream.org/forum/profile/34956-jolly-roger/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Gran bel racconto. Hai preso un tema che avrebbe potuto essere addirittura banale, e lo hai reso intrigante con un’intuizione tanto semplice quanto originale: il potere di infondere La Sapienza diventa esso stesso causa di rigenerazione dell’’agognato testo magico, e tutta la storia dell’umanità, in realtà, ruota attorno questo manoscritto, “più antico dell’invenzione stessa della pergamena” (stupendo!). Conteso con il sangue, ovviamente, e comprensibile solo da alcune menti elette.",
+                    "Scrivi meravigliosamente bene, non credo di essere il primo che te lo dice. A volte ho avuto un po’ (non è vero, parecchia, hahaha) di difficoltà a districarmi in questo stile arcaico, ma presumo sia più che altro colpa dei miei limiti.",
+                    "Se tu dovessi pubblicarlo, considera l’opzione di aggiungere un buon numero di note a piè pagina; i poveracci come me, che non hanno una buona cultura classica, te ne sarebbero immensamente grati.",
+                    "Questo è il mio primo commento, ti confesso che la qual cosa mi inquieta non poco. Sappi d’anticipo che tutto ciò che ti dirò vuole avere l’umiltà di chi, da scrittori come te, ha solo da imparare.",
+                    "Cit. Poche ore dopo l’arrivo di sua sorella, una carrozza che conduceva l’arcivescovo di Parigi, Pietro II d’Orgemont si presentò alla sua porta.",
+                    "Ecco, qui mi sono un po’ perso. Bello ed elegante, ma ho fatto fatica, questo passaggio l’ho trovato poco chiaro.",
+                    "Cit. Le fu intimato di salirvi con ciò che la sorella le aveva consegnato, presa alla sprovvista, ella obbedì.",
+                    "Dopo “consegnato” metterei un ;",
+                    "Cit. Nei domini di Francia nella penisola italica, Guglielmo di Challant, abbate dell’Abbazia di San Michele della Chiusa",
+                    "Scusatemi l’OT! Gran bel posto; se passate dal mio bel Piemonte, fateci un giro.",
+                    "Cit. Riconosceva geroglifici, ideogrammi dell’abbecedario azteco, grafi ittiti e semiti",
+                    "Ho qualche dubbio sul vocabolo “grafi”, quelli che conosco (poco) io sono altra cosa, nel caso una nota qui sarebbe auspicabile.",
+                    "Cit. Più arcano del Codex Gigas, più imponente e meraviglioso di quest’ultimo, il testo che le capeggiava",
+                    "Non è che avrebbe dovuto essere “campeggiare”? Immagino intendessi il volume che risalta sullo sfondo del tavolo.",
+                    "Cit. Isaac Newton scaraventò lungi da sé un ammasso di fogli sui quali aveva scarabocchiato alcune formule di poco conto.",
+                    "Ecco, qui ho avuto un orgasmo. Genio!",
+                    "Ci rivediamo per la seconda parte, grazie ancora per il bel viaggio!",
+                    "Ps. Stasera ho avuto difficoltà col tasto “cita”. Me ne scuso, spero che anche così possa essere considerato accettabile."
+                ],
+                [
+                    "Ciao .",
+                    "Sì, le note a fine racconto sarebbero la cosa migliore, secondo me.",
+                    "Per il resto, mi riconosco appieno: il correttore automatico, oggi, è la cosa più crudele dell'universo, dopo il secondo principio della termodinamica.",
+                    "A presto!"
+                ]
+            ],
+            "timestamp": "2019-12-09T20:39:39Z",
+            "title": "La schiatta di Manto - 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/45517-la-schiatta-di-manto-1//?do=findComment&comment=804884",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7820,
+    "num_commenti": 1,
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 804958,
+            "text": [
+                "Ciao , grazie per avermi letto e per i consigli!",
+                "Sì, concordo in tutto. Le ripetizioni, ahimè, sono un cruccio, devo ancora farci l'occhio",
+                "Riguardo la scorrevolezza, ti cito cosa mi ha detto poco fa un amico, anch'esso musicista, al quale avevo fatto leggere una cosa scritta da me: \"E meno male che quando suoni non tiri indietro in quel modo!\"",
+                "Forse è anche per la voglia di dire troppe cose in una volta, la ricerca di una maggiore fluidità ha la priorità, in questo momento.",
+                "Grazie di nuovo! W la musica, ora e sempre."
+            ],
+            "timestamp": "2019-12-10T07:13:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=804958"
+        },
+        {
+            "post_id": 805181,
+            "text": [
+                "Dunque, andando con ordine:",
+                "Ecco cos'erano, i punti reputazione! Chiedo venia, sono nuovo di zecca, qui. Non lo faccio più",
+                "Interessante l'idea di un monologo interiore col padre defunto; ci potrebbe anche stare, in effetti. Io desideravo più che altro trasmettere una sensazione che si prova alle volte prima di andare in scena: in testa cominciano a ronzarti pensieri di ogni genere, anche i più assurdi, e quando succede è molto difficile ritrovare la concentrazione. Cosa che a maggior ragione potrebbe capitare a un personaggio come quello del racconto, il cui padre sta morendo (io lo immaginavo ancora in vita, la \"paura\" di Maurice sarebbe quella di perdere il padre. Ma funziona anche come lo hai letto tu, in quel caso sarebbe proprio la paura della morte.)",
+                "Grazie mille per il tuo punto di vista!",
+                "Finita l'esperienza in officina, credo che lascerò il racconto per un po', a \"stagionare\" nel cassetto, ma mi riprometto di tornare presto a lavorarci su. Mi ha fatto molto piacere che tu abbia apprezzato: vorrei chiedere a te, e naturalmente anche agli altri utenti, un parere sulla descrizione dei personaggi; la loro descrizione è sufficiente, o sarebbero auspicabili maggiori dettagli?",
+                "Grazie davvero, un abbraccio!"
+            ],
+            "timestamp": "2019-12-10T20:27:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=805181"
+        },
+        {
+            "post_id": 806606,
+            "text": [
+                "Ciao ! Eccomi qui, a risponderti.",
+                "Anzitutto grazie per le segnalazioni precedenti, che ho prontamente corretto.",
+                "Esatto. Maurice è una persona stanca, anche un po' confusa. Aurora è veramente una storia importante, e il pensiero di prima era solo un momento di scazzo dovuto alla tensione di andare in scena? Oppure è una storia satura, e lui alla fine cerca solo un momento di conforto? E beh, questa interpretazione la volevo lasciare al lettore.",
+                "Voleva essere un'imprecazione sì, ma vedo che si capisce male. Ci penso su.",
+                "Tipo: \"La prendevo in giro sovente per i colori che aveva dato in camera da letto. Diosanto! Un muro giallo, un altro azzurro vivace, il soffitto panna, quella stanza era un casino pazzesco.\"",
+                "È ovviamente un'esasperazione, se fa sorridere la cosa non mi dispiace. Magari getta un manto di squallore esagerato, ma Aurora gli orgasmi avrebbe anche potuto simularli."
+            ],
+            "timestamp": "2019-12-17T01:03:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=806606"
+        },
+        {
+            "post_id": 806607,
+            "text": [
+                "Continuo",
+                "Sì, è 'na palla. Cambio o taglio.",
+                "No! Non sta \"suonando e scopando\", l'azione dovrebbe essere una sola, ma confusa. Maurice sente la botta di adrenalina dello stare sul palco, ma la confonde nel sogno con quella di una sfrucugliata con una bella gnoccolona.",
+                "Non saprei ora come diamine descriverlo meglio, ci penso su",
+                "Eh, qui mi sono fatto prendere dalla deformazione professionale.",
+                "C'è un vecchio detto, tra i musicisti, \"il miglior maestro che puoi avere sei te stesso\". Chissà se funziona anche con la scrittura.",
+                "A rileggerti con piacere, !"
+            ],
+            "timestamp": "2019-12-17T01:21:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=806607"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 10911,
+                "name": "ElleryQ",
+                "url": "https://www.writersdream.org/forum/profile/10911-elleryq/"
+            },
+            "post_id": 804989,
+            "text": [
+                "Ciao , ti ricordo che purtroppo è vietato inserire reazioni e punti reputazione in Officina."
+            ],
+            "timestamp": "2019-12-10T09:23:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=804989"
+        }
+    ],
+    "text": [
+        "Ore 20.45. La città grigia: un teatro, un musicista nel camerino numero 2 poco prima di entrare in scena.",
+        "- 5 minuti!-",
+        "-Grazie. Lei è veramente gentile-",
+        "- Come? Beh, dovere-",
+        "I collaboratori di palcoscenico restano sempre attoniti, quando li ringrazio: che dire, a me pare il minimo.",
+        "Mi resta solo una manciata di secondi, ne approfitto per rifare i passaggi critici un paio di volte: in questi momenti tutto diventa incredibilmente difficile, eppure sto suonando praticamente alla metà del tempo.",
+        "Maurice dovrebbe essere nell’altro camerino: strano, però, non sentire i suoi soliti preludi di riscaldamento. Lui per me ha sempre rappresentato il musicista ideale, prima o poi vorrei diventare come lui: potrebbe essere il mio maestro, anche se si incazza nero quando mi azzardo a chiamarlo in quel modo.",
+        "-Sono io, il tuo allievo!-",
+        "Un giorno mi aveva ribattuto così, anche se sono convinto mi stesse prendendo in giro; d’altronde, non sarebbe nemmeno la prima volta. Meglio andare a bussargli alla porta, va a finire che si è addormentato davanti allo specchio; ormai è ora di scendere insieme dietro le quinte.",
+        "Eccolo lì, subito si mette a scherzare con il personale tecnico; è così sereno da sembrare qualcuno che chiacchiera aspettando l’autobus, al contrario di me. Col tempo mi sono costruito una buona corazza e riesco a non darlo a vedere, ma prima di ogni concerto mi sento un condannato.",
+        "Sapere che non entrerò in scena da solo, ma ci sarà lui a farmi strada, mi infonde una certa sicurezza. La mia angoscia principale è sempre stata quella di non riuscire a indovinare il corridoio in mezzo agli archi dell’orchestra per raggiungere lo spazio del solista; la peggiore stupidaggine del mondo. Quando ho trovato il coraggio di raccontarlo a qualche collega, l’effetto è sempre stato lo stesso: sono morti dal ridere. Cavolo, io invece ero serissimo. Immaginate la scena: applausi, e un cretino che non riesce ad arrivare lì davanti perché inciampa in tutto ciò che trova. Mi sono sempre chiesto che senso avesse portarsi le borsette sul palco; mica ci si può rifare il trucco tra una pausa e l’altra, no? Eppure, ultimamente pare una mania collettiva.",
+        "Insomma, ogni volta mi tocca pianificare il percorso in ogni dettaglio: un po’ come feci al mio primo appuntamento con Aurora, un anno fa.",
+        "Ero terrorizzato all’idea di sbagliare strada e perdermi in un dedalo che mi avrebbe portato dritto filato in Groenlandia. Avrò studiato il percorso mille volte, nemmeno fosse stata una missione segreta del Mossad, ma alla fine ce l’avevo fatta: lei era lì, bellissima, ad aspettarmi vestita nel suo solito modo semplice: jeans, camicetta, un paio di scarpe basse. Uno stile che ben si accordava con i suoi occhi da bimba azzurrissimi e la pelle del volto chiara, la quale evidenziava l’ombra di alcuni peletti impalpabili sopra il labbro. Tra noi era nata una storia tenera, ora probabilmente il problema sarà un altro: trovarne la via d’uscita.",
+        "La prendevo in giro sovente per i colori che aveva dato in camera da letto: diosanto, un muro giallo, un altro azzurro vivace, il soffitto panna, quella stanza era un casino pazzesco. Semmai fosse entrato lì dentro qualcuno afflitto dal fenomeno sensoriale della sinestesia, costui avrebbe udito immediatamente un cluster suonato di peso con entrambi gli avambracci.",
+        "Con l’abitudine, però, certe tinte ho quasi imparato ad apprezzarle; tutto sommato è quello, il luogo dove diamo sfogo alle nostre intime effusioni. Ieri mi aveva cinto la vita con le sue braccia scarne; sentivo il suo respiro dietro al collo, il suo alito metallico aveva il sapore dolciastro del mattino. Poi mi aveva dato una carezza, sussurrandomi qualcosa all’orecchio.",
+        "-Sei strano, oggi. Sembri quasi timoroso-",
+        "-Sì. Un po’. Ma sono tuo; non ti fermare per nulla al mondo, ti prego.-",
+        "Mentivo. Ormai sapevo già filo per segno come sarebbe stato far l’amore con lei. Tutto era diventato così consueto: posizioni, gemiti, orgasmi. Avrei avuto tanta voglia di un po’ di paura: che sensazione assurda, desiderare ardentemente qualcosa di forte, un impeto che ti potesse far sentire un leone e un cerbiatto indifeso al tempo stesso. Chiamarla paura credo sia sbagliato, ma non riesco a trovare un buon vocabolo per descrivere quell’agognato stato d’animo.",
+        "Alla fine ero riuscito a liberarmi dalla morsa dei pensieri, e l’avevo scopata con la veemenza e la tristezza dell’ultima volta di un condannato, assillato da un fastidio insopportabile provocato dall’incapacità di annullarmi dentro lei.",
+        "Qualche volta ho un sogno ricorrente: applausi, sono sul palcoscenico, ma sto scopando. Suonando. Scopando. Le due cose sono confuse, sfocate, indistinguibili.",
+        "Basta! Sto perdendo la concentrazione: il silenzio turchese è calato improvvisamente, ed è arrivata l’ora di entrare. Respiro un paio di volte, più profondo che posso.",
+        "-Maurice. Come si fa, a non avere paura?-",
+        "-La paura è una cattiva compagna, qui-",
+        "-Per questo te lo chiedo-",
+        "-Ma cazzo, ti pare il momento? Ne parliamo dopo, a cena-",
+        "-C’è anche Aurora-",
+        "-Tanto meglio. Andiamo.-",
+        "Atterriamo sul pianeta spettacolo, le luci prepotenti abbagliano senza pietà e gli applausi sono ancora lontani. Lui si volta di tre quarti, con un sorrisetto sornione e le sue sopracciglia beffarde.",
+        "-Amuse-toi, con! (Divertiti, minchione)-",
+        "Oh, vecchio Maurice, puoi starne certo. Mi basta solo arrivare fin lì, poi tutto non avrà più lo stesso senso: nemmeno il tempo. Oggi raggiungerò quel magico stato di grazia, me lo sento: nel mio cervello si scateneranno le onde gamma, il concerto comincerà e terminerà nello stesso istante. Di tutto il resto non mi importa.",
+        "Ore 23.30 La città grigia, un ristorante argentino aperto fino a tardi.",
+        "A volte l’adrenalina dello stare in pubblico mi anestetizza la fame, stasera invece mangerei da solo un muflone intero. Aurora mi parla allegra delle sue cose, io annuisco ma sono distratto. Troppo.",
+        "-Maurice, ora dobbiamo parlare. Ricordi cosa ti ho chiesto, prima?-",
+        "-Ah già, la paura-",
+        "-Paura è una parola sbagliata, qui però il tedesco mi soccorre. Lampenfieber. Perfetta e intraducibile-",
+        "-Ho capito. Vedi, mon petit (quando vuole sfottere mi chiama così), io non posso e non voglio darti ricette. Nessuno può dirti come vincere il drago, ma intanto puoi cavalcarlo-",
+        "-E quindi?-",
+        "-L’amore. L’amore per quello che stai facendo. Coltivalo, fallo crescere; fa sì che diventi forte, così forte che non potrai più avere paura. Nemmeno se lo vorrai-",
+        "Già. Mica facile.",
+        "E tu, dolce Aurora. Abbiamo parlato, riso, ti ho versato addosso il vino e ti sei incazzata, ma coltivo ancora la speranza che tu non ti sia accorta del mio essere altrove.",
+        "-Portatemi il conto, per favore!-",
+        "Ho voglia di tornare a casa. Che colori assurdi su questi muri, tesoro mio. Abbiamo fatto l’amore, e adesso li rivedo in tutta la loro arroganza. Sudore, saliva, liquidi organici di ogni sorta, tutto fa brodo per tenerci incollati.",
+        "-Maurice, mi spieghi cos’hai? Mi sembri così distante: prima, al ristorante muovevi addirittura le labbra, come se stessi parlottando da solo-",
+        "-Lo so, scusami. È tutto il giorno che mi capita-",
+        "-Non mi hai ascoltata; nemmeno una parola, ci scommetto-",
+        "-Ti ho chiesto scusa-",
+        "-Di solito mi imbufalivo, stavolta mi sono quasi divertita. Oddio, mi hai fatto tenerezza, ecco. A parte il conto della lavanderia, eh. Tu e i tuoi tormenti, ogni tanto vi meritereste un po’ di pace-",
+        "-Aurora, altro che pace, a me servirebbe un interruttore. Mi sento così stanco.-",
+        "-Pensi a papà, vero?-",
+        "-Anche. Diciamo che quella è… è una paura che non vorrei avere-",
+        "-Tutti l’abbiamo; l'avremo, o l’abbiamo avuta-",
+        "-Sì, vabbè-",
+        "-lo so, lo so. È tutto quello che ho. E credimi: mi spiace immensamente, non poterti offrire di meglio-",
+        "Va bene così, Aurora; tu promettimi solo che resterai qui, nell’incavo della mia spalla. Lascia la mia mano tra i tuoi splendidi capelli: in questo istante, di tutto il resto non mi importa."
+    ],
+    "timestamp": "2019-12-09T21:48:04Z",
+    "title": "Schizofonia",
+    "topic_id": 45528,
+    "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia/"
+}

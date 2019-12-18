@@ -1,0 +1,116 @@
+{
+    "author": {
+        "author_id": 34774,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Tonino123",
+        "url": "https://www.writersdream.org/forum/profile/34774-tonino123/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0
+            },
+            "text": [
+                [
+                    "Questo racconto mi ha divertito! mi piace.",
+                    "Pardon per il commento lampo, scrivo col cellulare."
+                ],
+                [
+                    "Ok, ora che ho qualche minuto posso fare un commento come si deve.",
+                    "Il racconto è divertente, ammetto di essermi fatto una risata in almeno due punti. Complimenti per l'originalità, ho trovato geniale l'idea dei gattini.",
+                    "L'incipit mi è piaciuto, certo è un po' strano svegliarsi in un sogno con una secchiata d'acqua, però volendo ci può stare. Il personaggio principale mi è piaciuto molto, anche la Carla onirica è un personaggio interessante. Bella punizione.",
+                    "Per il resto, nella mia modesta opinione:",
+                    "Non mi piace tantissimo, avrei scritto \"Ti consiglio di non sbagliare\" per rispondere al \"Se sbaglio?\" del protagonista",
+                    "Qui mi ha convinto poco la pizzeria con lo champagne Però la frase fa sorridere.",
+                    "Anche questo mi ha convinto un po' poco. Che pubblicità dovrebbe essere?",
+                    "Qui ho riso, davvero!",
+                    "L'unica altra cosa che non mi convince è il fatto dell'essersi addormentato durante la cena. Il sogno poi dura un po', non è brevissimo, secondo me è abbastanza strano che Maria non se ne sia accorta prima.",
+                    "In definitiva mi piace questa storia che non si prende molto sul serio e deride un po' la mania social di cuoricini, gattini e foto delle vacanze."
+                ]
+            ],
+            "timestamp": "2019-12-02T15:05:38Z",
+            "title": "[MI 131- fuori concorso] Quasi quasi smetto...",
+            "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto//?do=findComment&comment=803594",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5200,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 803838,
+            "text": [
+                "Ciao , grazie mille per il commento!",
+                "Diciamo che questo racconto non ha convinto neppure me, l'ho scritto in un paio di orette domenica sera, l'ho trovato privo di mordente e non l'ho terminato per il MI. Sinceramente non avevo compreso dove risiedesse il problema principale finché non me lo hai indicato tu, di questo ti ringrazio sinceramente. Il narratore è troppo freddo, quasi distaccato, rileggendolo ora me ne rendo perfettamente conto.",
+                "Credo di averlo reso male, lui li vede a tratti. Ha una visuale statica essendo paralizzato, spesso capisce chi è a parlare chi è a parlare dalla voce e non perché lo vede direttamente farlo. Avrei dovuto inserire meglio questa cosa o eliminare il riferimento, diciamo che mi è sfuggito.",
+                "Credo di aver iniziato con lo stile sbagliato e tutto è venuto di seguito. Grazie ancora ed un saluto!"
+            ],
+            "timestamp": "2019-12-03T19:01:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=803838"
+        },
+        {
+            "post_id": 806382,
+            "text": [
+                "Utilissima, grazie.",
+                "Mi trovo d'accordo con le tue osservazioni. Proverò a seguire i tuoi consigli."
+            ],
+            "timestamp": "2019-12-16T13:57:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina//?do=findComment&comment=806382"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzanotte. Non mi ha convinto molto questo racconto e quindi ieri, in mancanza di buone idee in corso di scrittura, l'ho lasciato a metà. Oggi ho deciso di inviarlo comunque come fuori concorso.",
+        "L’acqua gelata risvegliò i miei sensi ottenebrati. Sentii il bisogno di urlare, non ci riuscii. Michael e Frank mi stavano fissando sconvolti, il secondo aveva ancora in mano un secchio arrugginito. Provai a muovere le braccia, non risposero ai comandi. Cercai di capire dove ci trovassimo, gli unici indizi che trovai furono le pareti in legno divelto e un tavolino pieno di bottiglie di alcolici semivuote. Non ricordavo di essere mai stato lì. La luce filtrava dagli spazi tra le tavole e da un largo finestrone alle mie spalle che riuscivo solo ad intravedere. Provai a muovere la testa ma anche il collo era rigido, sentii qualcosa di ruvido che mi stringeva le mani.",
+        "«Cazzo Mick, quella pasticca era una bomba, merda non dovevi fargliela prendere, cazzo guardalo. Gli hai fritto il cervello.» Riconobbi subito la voce, era mio cugino Frankie, ansimava tra una parola e l’altra.",
+        "«Zitto Frank, forse si riprende, l’abbiamo presa anche noi e non ci ha fatto nulla. Forse ha solo avuto… non so, un ictus?» disse Michael, da sempre il più risoluto del nostro trio.",
+        "«E… Se fosse stata la botta?» ipotizzò il mio adorato cuginetto.",
+        "«Quale botta Frank? Non c’è stata nessuna botta, ok?» Riuscii a vedere con la coda dell’occhio lo sguardo minaccioso di Mick.",
+        "Mi trovai di fronte agli occhi la faccia barbuta di Frankie, sembrava esaminarmi. La sua mano pelosa mi aprii meglio le palpebre e poi le labbra. Iniziò a muovere l’indice di fronte al mio naso, io fissai lo sguardo sulle unghie nere.",
+        "Portatemi all’ospedale, cazzo . Pensai. Avrei voluto riuscire a ripetere quelle parole ad alta voce, magari si sarebbero decisi.",
+        "«Mick, segue il mio dito, forse si sta riprendendo.»",
+        "«A me non sembra, è solo un riflesso Frank. Vedi quello che vorresti vedere, sai cosa dobbiamo fare.»",
+        "«No Micky, non dobbiamo, si riprenderà ne parleremo tutti e tre come abbiamo sempre fatto e risolveremo tutto.»",
+        "«Frank. È tuo cugino, lo so, ma si è fatto la mia ragazza, che altro potevo fare? E poi se adesso si riprende ci denuncerà e finiremo entrambi in galera. Lo sai tu, lo so io». Oh, merda, sono fottuto. Lo sa.",
+        "«Micky, no. Non lo farebbe mai, non il nostro Stephen, gli spiegheremo tutto...» Frank si coprii il viso con le mani e iniziò a singhiozzare.",
+        "«Smettila bambino del cazzo, cresci. Lo abbiamo bastonato e legato al letto!» lo liquidò Mick, il caro Mick, che già conoscevo quando portavamo entrambi il pannolino.",
+        "«Io non gli farò nulla, portiamolo in ospedale, sapranno cosa fare. Si riprenderà e finirà tutto.»",
+        "«Si, certo, lo spieghi tu ai tuoi genitori che ci stavamo facendo allegramente tutti e tre? Che lui ha iniziato a parlare senza freni e io, quando ha ammesso di essersi fottuto Milena, gli ho dato una sediata in testa? Che tu eri d’accordo con me e lo hai legato, gli dirai tutto questo?»",
+        "«No» sussurrò Frank. Grazie cuginetto del cazzo, e io che ti ho sempre difeso. Ipocrita tra l’altro, Milena mi ha detto che ci hai provato anche tu con lei.",
+        "«Bene, non abbiamo alternative, se si sveglia siamo fottuti e se rimane così pure. Deve scomparire…» Concluse risoluto Mick. Frankie annuì coprendosi gli occhi con i palmi delle mani, io iniziai a muovere le pupille a destra e sinistra nella speranza capissero il mio “no” .",
+        "Mi trovai davanti agli occhi il viso di Micky, il mio migliore amico. Mi stava fissando con occhi allucinati. Alzò le mani, reggevano un cuscino coprisedia. Un polveroso e merdoso coprisedia. Lo piegò in due e me lo poggiò sul viso, non vidi più nulla. Provai a muovermi, mi sarebbe bastato girare un po’ il collo. Iniziai a sentire la fame d’aria. La mia vita stava per finire. Un tonfo leggero, Micky mollò la presa e il cuscino cadde a terra.",
+        "«Che cazzo… Merda che schifo!» Un topolino bianco era caduto dal tetto, esattamente sulla testa di Micky. Era ingrovigliato tra i suoi capelli e il mio caro amico iniziò a muoversi come in preda agli spasmi. Nel frattempo si schiaffeggiava il capo terrorizzato come una ragazzina.",
+        "Frank, forse ancora stordito dalle droghe, era immobile a qualche metro di distanza. Finalmente il topolino si liberò dallo scalpo di Mick, cadde a terra e iniziò a correre verso la porta esterna.",
+        "«Bastardo di un topo, che schifo, ammazzalo Frank» urlò Mick, come avrebbe fatto il bambinetto isterico che era stato solo qualche anno prima.",
+        "Frank non rispose, stava fissando un punto fisso dietro di me, verso la luce.",
+        "«Frankie?»",
+        "«Shhh» rispose il cuginetto.",
+        "«Chi va là? Chi c’è nel capanno?» Una voce roca proveniente dall’esterno, «Vi ho sentiti, se siete i soliti ragazzini vandali vi avverto: Ho il fucile da caccia con me.»",
+        "I due amici si scambiarono uno sguardo d’intesa, poi come mossi da una sola coscienza guardarono me. Scomparvero di corsa dal mio ristretto campo visivo. Ero salvo, c’era solo da aspettare che il mio benefattore si decidesse ad entrare nel suo riparo. Sarei finalmente tornato al sicuro, a casa. Non dubitai neppure per un attimo che la paralisi fosse solo temporanea. Già pregustavo la decisione più ardua: dimenticare tutto o vendicarmi?"
+    ],
+    "timestamp": "2019-12-02T22:40:01Z",
+    "title": "[MI 131- Fuori concorso] Tre amici in cascina.",
+    "topic_id": 45452,
+    "url": "https://www.writersdream.org/forum/forums/topic/45452-mi-131-fuori-concorso-tre-amici-in-cascina/"
+}

@@ -1,0 +1,202 @@
+{
+    "author": {
+        "author_id": 34956,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Jolly Roger",
+        "url": "https://www.writersdream.org/forum/profile/34956-jolly-roger/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Arrivò sul posto con largo anticipo, indossando una felpa che la valorizzava più che mai; non le fu facile riuscire a incontrarmi",
+                    "Così a mio avviso scorre meglio.",
+                    "Coniugherei così, trattandosi di un appuntamento concordato precedentemente",
+                    "C'era un po' di affollamento",
+                    "Secondo me puoi tranquillamente tagliarlo, eviti così una ripetizione di \"per\" .",
+                    "Perdonami, non ho capito cosa significa \"dimosin\".",
+                    "Vale per tutti i dialoghi : metti il trattino - poi lo spazio, il testo, di nuovo spazio e poi - chiudi con un altro trattino",
+                    "Due punti e punto e virgola nella stessa frase li trovo un po' pesanti, gusto mio personale",
+                    "Due volte i due punti nella stessa frase invece credo sia proprio sbagliato. Troverei un'alternativa.",
+                    "C'è una svista. E toglierei il \"Ma\"",
+                    "Ripetizione, valuta se riscrivere la frase, secondo me non funziona molto bene.",
+                    "Eviterei la ripetizione \"che\". tipo: \"Mi resi conto che aveva una gran voglia di parlare, per cui la lasciai libera di scegliere l'argomento da discutere\" (È solo un suggerimento, eh, la frase è tua!)",
+                    "Via la \"e\"",
+                    "Suggerisco: \"Vivo in questo quartiere da sempre, non è facile riuscire a capire se le persone che conosci siano veramente come le immagini. Lo sai bene anche tu.\"",
+                    "Comunque cambierei anche questa frase, semplificando il più possibile. Secondo me in generale tendi ad abusare della punteggiatura e a complicare le cose inutilmente; cosa che ahimè faccio spesso anche io . Spero di essere stato utile, buona continuazione della tua intervista! Saluti."
+                ],
+                [
+                    "Ho detto una bestialità, il trattino alla fine non ci vuole. Pardon"
+                ]
+            ],
+            "timestamp": "2019-12-12T23:12:26Z",
+            "title": "Intervista al personaggio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45399-intervista-al-personaggio//?do=findComment&comment=805544",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4990,
+    "num_commenti": 1,
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 805609,
+            "text": [
+                "Carissimo , sono onorato del tempo che mi hai dedicato. Oltretutto, deduco che tu lo abbia fatto a un'ora infame della notte, per cui, grazie di cuore!",
+                "Adesso ti faccio ridere. Mi sono riletto mentalmente la frase in questione, e improvvisamente mi ha suonato nella testa con forte accento piemontese; \"incute veramente timore, eh, oh basta là!\" Ergo, l'ho polverizzata all'istante. Cambierei l'intera frase con \"Un cubo di mattoni a vista; la luce fredda e sfavillante di un neon ormai consunto e il tenue rumore della ventilazione forzata a tratti cancellano la sensazione del mondo esterno, dando l’impressione di galleggiare sperduti nello spazio siderale.\"",
+                "Che dici?",
+                "Sugli altri punti ho provveduto. Poi,",
+                "Sarebbe accettabile, così? Le meccaniche, come gli amori, hanno anch’esse una vita e una morte . Fa un po' slang da musicista, se chiedi a chiunque di noi cos'è una meccanica, subito pensiamo alle chiavi di uno strumento a fiato a al bordello di leve che c'è dentro la pianoforte. Insomma vorrei evitare di aggiungere \"congegni\" o simili, ma non so se in questo modo sia comprensibile a tutti, rischiando addirittura di sembrare un errore.",
+                "Grazie infinite per le dritte successive, che ho prontamente corretto.",
+                "Sono morto dal ridere. Poi sono andato a buttarmi nel lago",
+                "Ti ringrazio ancora, spero di leggerti presto!",
+                "Un abbraccio."
+            ],
+            "timestamp": "2019-12-13T10:58:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805609"
+        },
+        {
+            "post_id": 805615,
+            "text": [
+                "Ciao, sono veramente felice che ti sia piaciuto!",
+                "L'altra volta avevi auspicato più \"schizo\". Ebbene, la prossima (spero) lo sarà ancor più, l'idea è quella di pubblicare una serie di variazioni sul tema dove la follia andrà in crescendo.",
+                "Ci vediamo presto per il terzo capitolo di Manto!"
+            ],
+            "timestamp": "2019-12-13T11:10:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805615"
+        },
+        {
+            "post_id": 805783,
+            "text": [
+                "Piccola nota.",
+                "Josè salvador Alvarenga (a cui si ispira il personaggio di Mauricio) sopravvisse quattrocentotrentotto giorni in mezzo al Pacifico senza cibo né acqua. Durante il naufragio andò alla deriva per circa diecimila chilometri, dal Messico per approdare finalmente sulla spiaggia di un atollo delle Isole Marshall.",
+                "Il racconto è vagamente autobiografico, ricordi di ore e ore di studio per preparare una tournée in Giappone. Ammetto di essermi concesso qualche chilometro di licenza poetica , in ogni caso direi che ci ha azzeccato.",
+                "e , grazie per i vostri commenti, sono contento",
+                "E ancora un sentito grazie a per le preziose dritte. Buona serata, e occhio al mare verde!"
+            ],
+            "timestamp": "2019-12-13T23:34:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805783"
+        },
+        {
+            "post_id": 805876,
+            "text": [
+                "Ma certo , l'intento andava proprio in quella direzione! La \"piccola nota\" era giusto per raccontare come fosse nata l'idea. Ti dirò la verità, appena inviato il commento ho pensato anch'io non fosse stata una buona idea, e la cosa potesse in qualche modo far riscendere a terra l'immaginazione. Buono a sapersi.",
+                "Grazie mille per il tuo contributo e per il commento, a presto!"
+            ],
+            "timestamp": "2019-12-14T13:24:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805876"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 805550,
+            "text": [
+                "Qualche nota:",
+                "Un consiglio: non spiegare mai i sentimenti e le sensazioni, devi farli arrivare al lettore attraverso il narrato e gli eventuali dialoghi. Mai dire insomma \"Giorgio era davvero furibondo\": descrivilo mentre accartoccia con rabbia un foglio di giornale o scalcia una sedia. Qui potresti aggiungere qualche dettaglio per rendere la sensazione voluta: che so, uno strano scricchiolio, un lavandino che gocciola, una persiana che sbatte al vento...",
+                "le Ave Maria direi, dal momento che sono preghiere",
+                "te lo segnalo qui, ma lo ripeti anche altrove: toglierei la virgola prima della \"e\", quando non si voglia attribuire un particolare ritmo alla frase. Qui non ne vedo la necessità.",
+                "qui l'uso dei due punti dà la sensazione di una spiegazione dotta e in certo qual modo fa sentire il lettore \"ignorante\"; puoi annullare questo effetto scrivendo:",
+                "un effetto cromatico che indica la calma prima di una burrasca, come i navigatori esperti sanno bene .",
+                "il senso rimane inalterato, ma il lettore non si sente il dito puntato contro",
+                "Vale qui ciò che dicevo all'inizio, anche se non si tratta di sentimenti o sensazioni: la descrizione del personaggio in questo modo risulta troppo statica. Scriverei:",
+                "La capacità di saper resistere in mare anche in condizioni estreme e la grande esperienza gli erano valsi il soprannome di \"El Loco\" , o qualcosa di simile.",
+                "La meccanica non credo abbia un ciclo di vita; scriverei \"i congegni meccanici\"",
+                "vano e inutile sono sinonimi: via uno dei due. Quello che rimane va posposto al nome: sarebbe stato solo un tentativo inutile .",
+                "Attento qui: l'uso del trattino per riportare i dialoghi ha delle regole precise. Non va mai chiuso alla fine, a differenza delle caporali e delle virgolette alte, e il tratto va lungo (Alt0150 sulla tastiera); quello breve si usa per unire due vocaboli, come per esempio grigio-azzurro . In più manca il punto, ma credo che questo sia un refuso, perché nelle battute successive lo hai messo regolarmente.",
+                "Ricapitolando, puoi scrivere in uno dei seguenti modi:",
+                "– Grazie.",
+                "«Grazie.»",
+                "\"Grazie. \"",
+                "sei bottiglie, i numeri vanno riportati in lettere a meno che non si tratti di date.",
+                "mancò per un soffio di essere salvato da un paio di mercantili , come hai scritto tu significa che lui non è riuscito a salvare i mercantili.",
+                "parlava , perché stai scrivendo al passato.",
+                "Nel caso tu voglia intendere che se ne parla ancora oggi, devi aggiungere un'espressione di tempo che lo renda esplicito:",
+                "Divenne presto il caso mediatico di cui tutto il mondo parla ancora oggi ( ancora ai nostri giorni, il caso mediatico di cui non si è spenta l'eco e simili.)",
+                "virgola, non due punti",
+                "È un testo dalla costruzione narrativa molto originale e contiene delle belle descrizioni.",
+                "Qua e là c'è da lavorare sullo stile e sulla punteggiatura, ma il racconto risulta interessante e piacevole da leggere.",
+                "Buon proseguimento."
+            ],
+            "timestamp": "2019-12-13T01:04:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805550"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 805699,
+            "text": [
+                "Tranquillo, non ho fatto uno strappo alle regole per te: sono abituato a coricarmi tardi .",
+                "ok, perché no? L'importante, come dicevo sopra, è evitare di spiegare sentimenti e sensazioni provate dai personaggi",
+                "Può darsi che venga percepito come un termine elitario, però secondo me il significato è chiaro e non si confonde più con una specifica branca della fisica, quindi direi di sì: è accettabile, a mio modo di vedere",
+                "Contraccambio, grazie ."
+            ],
+            "timestamp": "2019-12-13T16:19:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare//?do=findComment&comment=805699"
+        }
+    ],
+    "text": [
+        "Naufragio interpolare",
+        "(Schizofonia, var.1)",
+        "Liberamente tratto dalla storia vera di J.S. Alvarenga",
+        "Una stanza senza finestra con dentro solo una sedia e una partitura appoggiata sul leggio. Con le sue pareti di mattoni a vista e quella luce fredda e sfavillante del vecchio neon incute veramente timore, sembra quasi una camera di tortura.",
+        "Devo lavorare su un brano maledetto; ripeterò le cose fino a che ce ne sarà bisogno, come fossero gli Ave Maria di un rosario.",
+        "La ripetizione non solo giova, ma sa anche fermare il tempo e spedire i pensieri altrove lasciando spazio libero ai sogni. Uscirò di qua solo quando mi sentirò pronto, prevedo già allucinazioni e un mal di schiena da mettersi a bestemmiare.",
+        "Mauricio pensò che era arrivato ormai il tempo di rientrare in porto; il mare non era stato generoso, e soprattutto cominciava a diventare verde, un effetto cromatico che i navigatori esperti conoscono bene: indica la calma prima di una burrasca. Dei cumulonembi all’orizzonte cominciarono a lampeggiare come gigantesche lanterne di sale, e i suoi compagni si erano già messi sulla via del ritorno. Lui era soprannominato “El Loco”, per la sua resistenza in mare anche in condizioni estreme; molto stimato nell’ambiente, aveva capacità ed esperienza da vendere.",
+        "Il suo fido motore, però, di esperienza ne aveva accumulata forse un po’ troppa: la meccanica, come gli amori, ha anch’essa una vita e una morte.",
+        "Minuscole ondine crestate correvano rapidissime sul pelo dell’acqua, come un esercito di topi bianchi in corsa; ben presto la loro altezza sarebbe aumentata in modo esponenziale.",
+        "L’unica reazione di Mauricio fu quella di gettare in acqua un grosso salvagente assicurato con alcuni metri di sagola; l’ancora galleggiante avrebbe scongiurato il rovesciamento dell’imbarcazione. Cercare di riparare il motore in quel bordello sarebbe stato solo un vano, inutile tentativo.",
+        "Ho bestemmiato per il mal di schiena.",
+        "E sì che ero stato da poco al centro massaggi. Non serve a un tubo, lo so, ma almeno fa un po’ di effetto placebo.",
+        "Complici anche quelle mani d’acciaio, eh; cazzo, quanto fanno male.",
+        "- Grazie -",
+        "- Grazie un par di palle, sono 60 sacchi, e senza sconto. Mi è venuto un infarto, con tutto il lavoro che c’era da fare. -",
+        "- Ellosò. La mia schiena di merda è a pezzi da cima a fondo. -",
+        "- Ma tu stìrati, ogni tanto, sant’iddio: sembri un gomitolo. -",
+        "Ricominciamo. Dove ero rimasto?",
+        "Ripeti. Ancora e ancora, più volte che puoi.",
+        "La tempesta fu peggiore del previsto; Mauricio si rese presto conto che era praticamente fottuto. Nessuna terra all’orizzonte, motore inspiegabilmente defunto, 6 bottiglie d’acqua, un po’ di attrezzatura da pesca e una borsa con del vestiario fradicio.",
+        "Per fortuna il mare era già diventato una discarica a cielo aperto; riuscì in breve tempo a recuperare una ventina di bottiglie di plastica vuote, che lavorate a dovere sarebbero diventate dei distillatori solari.",
+        "La pesca e la caccia agli uccelli forniva una buona fonte di cibo, insieme alle alghe e alla spazzatura che a volte riusciva a recuperare. Un giorno, beccò addirittura un sacco con dello scatolame dentro; l’aria intrappolata all’interno gli aveva impedito di affondare.",
+        "La sua arma più potente era tuttavia l’immaginazione: lui non era più un naufrago alla deriva, ma il condottiero di una superba nave con il Jolly Roger svolazzante. Il pezzo di legno che rosicchiava la sera diventò nella sua mente un sigaro Avana carta oro, il pesce crudo delle bistecche al sangue, l’acqua distillata e rimescolata con una minima parte di quella di mare del pregiato Chateau Lafitte del ’72. La sua mano destra… beh, avete capito. Ce l’aveva sempre nel culo, intendiamoci. Ma forse aveva stretto le chiappe al momento giusto.",
+        "Si ferì spesso, si ammalò di otite, mancò per un soffio il salvataggio di un paio di mercantili che non era riuscito ad avvisare; rischiò seriamente la pellaccia diverse volte. Quando le speranze sembravano ormai una lontana chimera, una striscia di stelline apparve sul filo dell’orizzonte ribaltando la situazione.",
+        "Chissà che ore sono. Sono entrato qua dentro che fuori splendeva un sole rovente, ora potrebbe anche essere buio. Fatemi dare un’occhiata: infatti. Sembra che le cose comincino a girare; mi piazzo il leggio distante e provo il tutto un paio di volte a tempo, poi lo rifaccio ancora una volta alla metà della velocità. Il cosiddetto “fissativo”.",
+        "Mauricio era denutrito, la barba e i capelli ridotti a un cumulo di nodi e sporco, ma felice. C’era quasi rimasto secco proprio al momento di scendere a terra: a ripensarci ora, sarebbe stata una beffa insopportabile. Divenne presto il caso mediatico di cui tutto il mondo parla: mai un essere umano era sopravvissuto così a lungo in quelle condizioni, approdando addirittura dall’altra parte del mondo.",
+        "Ho finito, mi farò una meritata birra. Tra un po’ me ne partirò per l’altro capo del mondo, se chiudo gli occhi mi sembra già di scorgere dei lampi provenienti da una terra lontana.",
+        "Caro Mauricio: ti andrebbe un sakè, una sera?"
+    ],
+    "timestamp": "2019-12-12T23:25:15Z",
+    "title": "Naufragio interpolare",
+    "topic_id": 45552,
+    "url": "https://www.writersdream.org/forum/forums/topic/45552-naufragio-interpolare/"
+}
