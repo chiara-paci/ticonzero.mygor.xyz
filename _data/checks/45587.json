@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 806574,
@@ -86,6 +86,14 @@
             ],
             "timestamp": "2019-12-17T18:42:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806774"
+        },
+        {
+            "post_id": 807036,
+            "text": [
+                "Ciao caro! Quanto tempo? Grazie per i complimenti e per aver colto il significato un po' critico che volevo dare al testo!"
+            ],
+            "timestamp": "2019-12-18T21:00:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=807036"
         }
     ],
     "post_staff": [

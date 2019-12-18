@@ -59,7 +59,7 @@
     },
     "num_chars": 7256,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 806943,
@@ -145,6 +145,19 @@
             ],
             "timestamp": "2019-12-16T13:51:54Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=806381"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 807038,
+            "text": [
+                "credo che questo andrebbe inserito almeno in parte all'interno del racconto, anche io me lo sono chiesto e per questo sono andata a leggere i commenti. Varrebbe la pena aggiungere qualche parola anche per dare un collegamento più diretto ai due episodi. Scrivi sempre molto bene, con una delicatezza e una malinconia che connotano i tuoi testi e riempie tutto di poesia"
+            ],
+            "timestamp": "2019-12-18T21:11:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=807038"
         }
     ],
     "text": [
