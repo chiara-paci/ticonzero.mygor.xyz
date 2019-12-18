@@ -51,8 +51,17 @@
     },
     "num_chars": 6378,
     "num_commenti": 1,
-    "num_posts": 6,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 806887,
+            "text": [
+                "grazie per essere passati, per le correzioni e le opinioni. Come sempre sono spunti fondamentali per tentare di migliorare."
+            ],
+            "timestamp": "2019-12-18T10:25:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45599-mi-132-%C3%BCbermensch//?do=findComment&comment=806887"
+        }
+    ],
     "post_staff": [
         {
             "author": {

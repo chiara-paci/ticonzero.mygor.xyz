@@ -12,13 +12,44 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Caro , mi accingo a commentare il tuo frammento, \"Neuronauta incipit\".",
+                    "Adoro la fantascienza e so bene quanto sia difficile trovare idee originali. La tua potrebbe essere un’intuizione inedita, uso il condizionale perché molto dipenderà da come svilupperai la trama. Comunque, un “umano mutante dotato di neuroni d’interfaccia” lo sento per la prima volta, direi quindi che potrebbe essere un buon inizio. Alterni momenti molto belli con altri meno grintosi, ma in generale il ritmo mi ha catturato. Qui di seguito metterò qualche osservazione, ma ti prego di prenderle con le molle; i miei sono solo spunti di chi è ancora alle prime armi.",
+                    "Semplificherei. \"Intorno a lui le familiari pareti della sua stanza e nessun altro\". Anche perché \"Soprattutto\" lo userai di nuovo",
+                    "qui",
+                    "Volendo, puoi eliminare il \"soprattutto\" qui, costruendo la frase in questo modo: \"Era una bella fortuna essere uno dei pochi umani mutanti dotati di neuroni d’interfaccia; questi permettevano di entrare e uscire dal cyberspazio a piacimento senza il bisogno di costosi e facilmente hackerabili innesti cibernetici, garantendo una totale irrintracciabilità.\"",
+                    "Gli ICE sono i treni ad alta velocità tedeschi. Chissenefrega, d'accordo, però tienine conto se mai dovessi pubblicarlo in Germania (Dai, sto scherzando)",
+                    "Mah, non è una vera ripetizione ma io varierei: \"una miriade di stille\", oppure \"gocce pregne di fuliggine\". Giusto come esempio.",
+                    "\"Non che una giornata di sole avrebbe fatto molta differenza, laggiù. Nei bassifondi la luce non arrivava che di rimbalzo…\"",
+                    "Alternativa, dopo ci sono parecchie virgole consecutive. Occhio comunque che bassifondi non va maiuscolo (a meno che tu non lo consideri proprio nome di località)",
+                    "\"le guglie del “mondo di sopra”, (se tu dovessi adottare il mio suggerimento precedente, qui valuterei un ; ) interdetto (direi interdette , visto che si parla di guglie) a tutti coloro che…",
+                    "Qui semplificherei: \"una volta giunti quei dati a destinazione\"",
+                    "È abbastanza distante, c'è una bella frase in mezzo. Ciononostante, io varierei. Anche perché la ripeti ancora poco dopo, verso la fine:",
+                    "Appunto. Proprio bella!",
+                    "Secondo me quelle due cosette sono superflue. Prova a rileggerti la frase senza, magari anche a te piace di più così.",
+                    "Spero troverai qualcosa di utile nel mio intervento. Nella sezione “Frammenti” credo sia comune il desiderio di sapere come la storia andrà avanti. insomma, adesso aspetto il seguito!",
+                    "Buon lavoro, a presto!"
+                ]
+            ],
+            "timestamp": "2019-12-18T08:50:10Z",
+            "title": "Neuronauta incipit",
+            "url": "https://www.writersdream.org/forum/forums/topic/45463-neuronauta-incipit//?do=findComment&comment=806873",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,9 +57,22 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 6521,
-    "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 806884,
+            "text": [
+                "Ciao !",
+                "Caspita, grazie mille davvero, sono onorato. Sì, di sicuro le variazioni si allungheranno un po' anche perché l'idea sarebbe quella di aggiungere una personalità ogni racconto.",
+                "Per il \"trionfo finale\"… eh, beh, sarebbe bello. Ci proverò!",
+                "Sto ridendo per non sterminarmi tout court, ti giuro; ieri notte l'avrò cambiata almeno duecento volte. A. Come. A. Come. Alla fine ho optato per il \"come\" dallo sfinimento. Vediamo se qualcun altro si esprimerà su questo punto",
+                "Grazie ancora, a presto!"
+            ],
+            "timestamp": "2019-12-18T10:00:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45624-duello-delle-doppie-ombre//?do=findComment&comment=806884"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Duello delle doppie ombre",

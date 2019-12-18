@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 27188,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Talia",
+        "url": "https://www.writersdream.org/forum/profile/27188-talia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Mi lancio nel commento alla tua poesia. Come sempre, spero che mi scuserai se non dovessi cogliere a pieno il senso, sai che sono una dilettante.",
+                    "Come sempre apprezzo moltissimo le tue scelte grafiche che danno \"volume\" alle tue parole. Mi verrebbe da definire le tue liriche \"poesie tridimensionali\", perché danno spazio alle parole come fossero inserite in un luogo geometrico.",
+                    "In questo caso la tua scelta di mettere \"allunga\" spaziato destra mi ha strappato anche un sorriso, ci ho visto qualcosa di ironico. Quasi un tentativo di disegnare l'organo maschile, di cui parli nel testo (\"mascolinità \") Con le parole.",
+                    "Qui parli di ipocrisia, dove si tace per non sentirsi diversi dagli altri oppure per non fare polemiche. Se non si creano problemi tutti ci meritiamo divertimento superficiale in vita e piccoli onori in morte.",
+                    "Molto bello questo gioco di associazioni. Parti dall'idea che non è poetico sentirsi senza armi, cioè senza capacità di ahire/reagire, per associazione passi al concetto di arma come esercito e quindi fare corpo, cioè nel fare le pecore e seguire la massa e poi il riferimento al fascismo con quel \"camerata\" che si lega all'altare la mano, che può essere inteso come il saluto fascista ma anche come chiedere la parola. Tante cose in questi versi, davvero densi e ben costruiti.",
+                    "Non so, ho la sensazione qui ti riferisci ai viaggi di gruppo, magari aziendali, dove gente abbastanza ignorante si imbarca in viaggi di moda senza avere grande consapevolezza di cosa visita.",
+                    "Qui fai un elenco, sempre usando questa tecnica dell'associazione per cbio di significato, di tante magagne dal sapore tutto italiano. L'abusivismo edilizio, i patti più o meno leciti tra sindaci e periti, case sfitte, e poi parli di vino a buon mercato e di gente che ne abusa dopo che ha avuto una giovinezza promettente ma l'ha mandata in fumo. E poi la figura della madre che cerca di aiutarlo senza speranza. E infine citi le attività artigianali o piccolo industriali fallite.",
+                    "Prosegui ancora nel citare aspetti poco lusinghieri di certe abitudini italiane, tipo la fissazione per il calcio.",
+                    "La fine di tutti i personaggi protagonisti di questo paese corrotto, brutto e poco poetico che ci descrivi fanno tutti una fine poco lusinghiere.",
+                    "La chiusura è molto bella: il poeta non può, e secondo me non deve, abbellire e cambiare la realtà perché solo con una presa di coscienza concreta, rendendosi conto di quanto poco poetica sia la realtà, è possibile tentare un cambiamento.",
+                    "La tua è una poesia sia di denuncia di una situazione degradante sia una dichiarazione del ruolo del poeta. Il poeta non deve cercare di abbellire la realtà con le sue parole ma deve mettere tutti davanti ai fatti concreti.",
+                    "È ricca di concetti, di cose, di immagini e anche di emozioni la tua poesia, sopratutto di indignazione, che è un sentimento di cui, oggi, hanno poco coraggio di riconoscersi e di esternare. Mi è molto piaciuta.",
+                    "Talia"
+                ]
+            ],
+            "timestamp": "2019-12-18T09:37:41Z",
+            "title": "Le bilance poetiche",
+            "url": "https://www.writersdream.org/forum/forums/topic/45584-le-bilance-poetiche//?do=findComment&comment=806878",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 246,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Solo una voluta magra",
+        "dal mozzicone inchinato",
+        "fuma in alto leggera.",
+        "Nel vasetto non è rimasta",
+        "la tanta cenere caduta:",
+        "lontano l'ha sparsa il vento.",
+        "Con fastidio schiacciata,",
+        "spenta con indifferenza,",
+        "è già stata dimenticata.",
+        "Corpo di donna vinto dal tempo."
+    ],
+    "timestamp": "2019-12-18T09:44:48Z",
+    "title": "Sigaretta finita",
+    "topic_id": 45625,
+    "url": "https://www.writersdream.org/forum/forums/topic/45625-sigaretta-finita/"
+}
