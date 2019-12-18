@@ -47,7 +47,7 @@
     },
     "num_chars": 1852,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 806252,
@@ -72,6 +72,18 @@
             ],
             "timestamp": "2019-12-16T13:13:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806367"
+        },
+        {
+            "post_id": 806833,
+            "text": [
+                "Grazie",
+                "grazie per aver colto anche questa sfumatura",
+                "Uno dei miei soliti... iceberg (faccio fatica a togliere tutta l'acqua intorno).",
+                "Sono felice che sia piaciuto anche a te",
+                "Un solo \"brava\" era già sufficiente e più che gratificante"
+            ],
+            "timestamp": "2019-12-17T22:55:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=806833"
         }
     ],
     "post_staff": [
