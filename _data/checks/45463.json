@@ -57,8 +57,24 @@
     },
     "num_chars": 3224,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 806990,
+            "text": [
+                "Ciao , grazie per il passaggio e il commento! Sono contento di essere riuscito a catturarti con questo incipit. In realtà l'opera è già terminata e si tratta di un libro-game in cui sta al lettore decidere come si svolgerà la trama mediante bivi tra cui è chiamato a scegliere o risolvendo enigmi di varia natura. L'idea è quella di tentare l'invio a qualche casa editrice, una volta che avrò ricevuto i pareri dai miei beta readers e nel frattempo ho voluto pubblicare qui l'inizio per vedere se funziona.",
+                "Ti ringrazio di avermi fatto notare varie criticità, quel \"soprattutto\" ripetuto più volte mi era proprio sfuggito!",
+                "Per quanto riguarda la parola \"ICE\", l'ho ripresa dalla terminologia usata da William Gibson nella Trilogia dello Sprawl ed è l'acronimo di Intrusion Countermeasures Electronics, ma ignoravo che fossero anche dei treni!",
+                "\"Bassifondi\" invece ho scelto di scriverlo con la lettera maiuscola perché è il nome dell'intera parte di città che si trova al livello del terreno, un po' come se fosse il nome di un quartiere per intenderci.",
+                "Avevo scritto \"interdetto\" perché è riferito al \"mondo di sopra\", ma forse la comprensione non era immediata, per cui ora ho tolto la virgola che li separa.",
+                "Già che ci sono faccio spam (spero che i moderatori non me ne vogliano). Se sei curioso di sapere come va avanti, ho pubblicato un annuncio in cui cercavo beta readers:",
+                "Qui trovi tutte le informazioni necessarie, se ti va sei il benvenuto.",
+                "A rileggerci!"
+            ],
+            "timestamp": "2019-12-18T16:53:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45463-neuronauta-incipit//?do=findComment&comment=806990"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Riaprì gli occhi. Quel semplice gesto gli confermò che era ancora vivo, e ciò bastò a dissipare i suoi timori. Intorno a lui le familiari pareti della sua stanza, e soprattutto nessun altro. Gli ICE, i sistemi di protezione informatica che pattugliavano i siti, erano rimasti dall’altra parte, nel mondo virtuale da cui era appena uscito. Stavolta c’era mancato davvero poco, ancora qualche secondo e sarebbe stato spacciato, ma la missione era compiuta e poteva dire che ne era valsa la pena.",

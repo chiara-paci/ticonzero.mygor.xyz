@@ -59,7 +59,7 @@
     },
     "num_chars": 7256,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 806943,
@@ -102,6 +102,14 @@
             ],
             "timestamp": "2019-12-18T16:23:48Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=806980"
+        },
+        {
+            "post_id": 806988,
+            "text": [
+                "Già fatto nel file del computer. Grazie ancora."
+            ],
+            "timestamp": "2019-12-18T16:48:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45591-mi-132-il-mare-non-piange//?do=findComment&comment=806988"
         }
     ],
     "post_staff": [

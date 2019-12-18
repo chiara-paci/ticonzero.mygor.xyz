@@ -58,8 +58,33 @@
     },
     "num_chars": 7340,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 806958,
+            "text": [
+                "Ciao,",
+                "Grazie per la lettura e il commento.",
+                "No, il protagonista varia tra discorso diretto e pensiero. In questo caso non è un dialogo",
+                "Potrebbe non essere morto, oppure potrebbe esserlo e in quel caso sarebbe la voce in testa ad essersi impossessato del cadavere per una sorta di vendetta",
+                "Grazie mille per il commento e le belle parole."
+            ],
+            "timestamp": "2019-12-18T15:51:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=806958"
+        },
+        {
+            "post_id": 806965,
+            "text": [
+                "Ciao,",
+                "No, il protagonista ela ragazza che chiude il racconto non si conoscono.",
+                "cito la risposta data a Jolly Roger",
+                "volevo inserire nel finale un elemento macabro che staccasse un poco dal realismo iniziale per abbracciare l'irreale.",
+                "Grazie per il tuo tempo. A presto."
+            ],
+            "timestamp": "2019-12-18T15:59:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=806965"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Inspiro.",
