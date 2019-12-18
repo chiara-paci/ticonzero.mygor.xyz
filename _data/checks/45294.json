@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 8977,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "U'",
+        "url": "https://www.writersdream.org/forum/profile/8977-u/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Uè uè, ciao. A me ha convinto, soprattutto la prima parte. Trovo tu abba una prosa disinvolta, credibile, senza fronzoli e parecchio efficace. Infatti dispiace non averne potuto leggere un po' di più.",
+                    "\" Affidati al centro di accoglienza di un paesino della Calabria, erano evasi dall’infermeria\".",
+                    "questa frase mi piace molto, anche perchè in una riga riesci a dare molte informazioni senza troppi giri di parole. Funziona!",
+                    "Mi permetto di segnalarti due o tre cose:",
+                    "\"Dopo un viaggio, tremendo e durato più di un anno, attraverso Etiopia, Sudan e Libia, erano sbarcati a Lampedusa su di una carretta sgangherata e stracolma di umanità sofferente e di ogni etnia .\". In questa frase toglierei le parole in bold, sono ridondanti. Che il viaggio possa essere stato tremendo ce lo fai capire già bene dal contesto; che le persone fossero di ogni etnia lo capiamo già da qui: \"attraverso Etiopia, Sudan e Libia\".",
+                    "\"all’apparenza arabi, quasi sicuramente magrebini.\"",
+                    "Qui qualcosa non quaglia dal punto di vista logico secondo me.",
+                    "\"Magrebini\" è più specifico di \"arabi\", perchè i magrebini sono solo una delle etnie della penisola arabica. Nel senso: è più facile intuire quasi certamente che uno è arabo, piuttosto che magrebino.",
+                    "Quindi forse avrebbe più senso \"all’apparenza magrebini, quasi sicuramente arabi\".",
+                    "Boh spero di essermi spiegato.",
+                    "Bravo comunque!"
+                ]
+            ],
+            "timestamp": "2019-11-20T17:52:02Z",
+            "title": "Sulla spiaggia d'autunno",
+            "url": "https://www.writersdream.org/forum/forums/topic/43945-sulla-spiaggia-dautunno//?do=findComment&comment=801136",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 4018,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 801152,
+            "text": [
+                "Ciao , purtroppo devo chiudere il tuo frammento in quanto: per prima cosa è troppo lungo per poter essere postato nella sezione frammenti (supera i 3500 caratteri spazi inclusi, che è il massimo consentito per questa sezione); in secondo luogo il commento che hai scritto non è abbastanza approfondito.",
+                "Puoi scrivere un nuovo commento e quindi ripostare il racconto nella sezione appropriata (Racconti, che prevede un massimo di 8000 battute)."
+            ],
+            "timestamp": "2019-11-20T18:30:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45294-l%E2%80%99italienischen-freund//?do=findComment&comment=801152"
+        }
+    ],
+    "text": [
+        "Avevo sperato un’intrusione nel budello metropolitaine fatto di mercati, spesa quotidiana, pizzicagnoli e soffitte e invece Suplice mi presenta a un’amica sua, figlia in vista di antichi ugonotti, e grazie a dio si limita a una presentazione sommaria e frugale. ‘Tolto il dente tolto il dolore, direste voi’, dice Suplice sulla soglia, nel suo vestito biancolatte e con le Kickers da bambina, mentre io controllo che la suola della mie tiger sia netta per non macchiare parquet, moquette, mattoni d’oro o qualunque altro genere di arazzi e passamanerie potrei scovare all’interno.",
+        "Il nostro anfitrione è una donna asciutta e ben vestita, non priva di una certa austera bellezza, peccato gli occhi rossi e il fazzoletto ciancicato. Mentre tira su dal naso ci fa accomodare su un divano blu di prussia con i cuscini di velluto sui quali mi ritrovo a tracciare con le dita prima fragili figure astratte, poi timidi cazzetti che diventano sempre più sfacciati finché non è Suplice a mettere fine di suo pugno alla frenetica cazzomachìa e con un gesto della mano, stende il velluto e cancella ogni fellatio come gesso sulla lavagna.",
+        "Con la mia tazza di caffè americano posso finalmente ammirare lo scorcio della Neue Synagoge con la cupola in stile moresco e le decorazioni a traliccio ed ignorare bellamente il nostro ospite che ormai credo di aver inquadrato come una donna scopata male dentro un matrimonio nato stanco da cui avrebbe fatto bene a saltar fuori alla prima occasione o quantomeno al primo accenno di corna. Perché oltre ad aver compreso che suo marito non la toccherebbe più neanche con il cazzo del giardiniere yemenita – si tratta evidentemente di un’iperbole visto che non ho niente contro yemeniti, giardinieri o cazzi in genere-, questa ragazza si rammarica per un’esistenza di cui ha solo vagheggiato, dopo averne assaggiato uno scampolo durante il primo anno da sposina.",
+        "Capirai la noia quando la pendola - la pendola!!! - ha suonato la prima ora passata a raccogliere confessioni di scopate tristi come un Natale senza neve. Non ce l’ho fatta più: mi sono acceso una sigaretta e le ho chiesto, bitte, che mi facesse avere qualcosa di più alcolico di un vov o avrebbe finito per disperarsi mentre strappavo lunghe strisce di carta da parati dai muri, o mentre le tormentavo il bordo della boiserie con le chiavi dell’auto.",
+        "Cosa che ovviamente ho solo pensato, ma Suplice, la faunetta dall’animo wikka, deve aver avvertito la parabola discendente di ogni mio bioritmo e ha domandato alla frau ‘sii cortese Janis, è possibile avere una birra per l’ italienischen freund? ’.",
+        "Di nuovo liberi abbandoniamo la regina del cristianesimo ai mugugnii e ai suoi ‘se fossi’ e Suplice lascia finalmente che la guidi nel quartiere con la bussola del mio incredibile, indomito cuore e mi osserva ritrovare il sorriso ogni volta che riconosco un volto, l’insegna di un negozio o il beccuccio di una fontanella che piscia di traverso. La trascino al mercato in piazza dove ci adoperiamo in un poco di spesa quotidiana; le bancarelle itineranti mi son sempre piaciute per quell’idea di informalità e nomadismo che li porta ad apparecchiare i bancali ogni giorno in un luogo diverso, con la fatica nelle mani e quell’aria da zingari per bene. Ma forse tutto si riduce alla mancanza dell’odioso sottofondo musicale dei supermercati o allo spiffero del reparto surgelati, alla tessera coi punti e al catalogo coi premi. Un’idea di modernità che non riesco a fare mia, i prodotti sugli scaffali mi mettono tristezza.",
+        "La dignità compita di un banchetto montato con la brugola invece – abusivo o meno – riesce sempre a rallegrarmi.",
+        "Va a finire che compro un po’ di tutto, dalla primizia al cavolo cappuccio, seguendo sostanzialmente una logica cromatica. La trattativa mi costringe a rispolverare un lessico lontano da quello del turista quasi sempre ‘mbuttunato di orrendi complementi di moto a luogo, totalmente inadatto per scoprire quale sia il taglio di vitello migliore per servire un Abgebraunte Kalbshaxe come dio comanda."
+    ],
+    "timestamp": "2019-11-20T18:19:56Z",
+    "title": "l’italienischen freund",
+    "topic_id": 45294,
+    "url": "https://www.writersdream.org/forum/forums/topic/45294-l%E2%80%99italienischen-freund/"
+}

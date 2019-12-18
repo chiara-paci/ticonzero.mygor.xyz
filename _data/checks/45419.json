@@ -1,0 +1,89 @@
+{
+    "author": {
+        "author_id": 33287,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "La*cla",
+        "url": "https://www.writersdream.org/forum/profile/33287-lacla/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.6455555555555555,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6455555555555555
+            },
+            "text": [
+                [
+                    "Ciao che forza la tua poesia. A me quelle brevi piacciono molto, quando riescono a esprimere il loro tutto.",
+                    "Un po' mi fa venire in mente l'Antologia di Spoon River 😍",
+                    "Mi piace il ritmo, appunto il suo essere stringata. E anche se le immagini non hanno un'originalità di base, proprio per il loro essere così comuni, comunicano un senso di pace, nonostante la malinconia che le accompagna.",
+                    "Visto che è così corta, ti potrei suggerire di provare a lavorare sulla metrica, per mantenere un a costante tra le due strofe (tipo 5-6-7 della prima).",
+                    "Ti faccio un esempio, che ovviamente non devi seguire, per la seconda:",
+                    "Di tutta casa",
+                    "lo specchio che meglio",
+                    "rende la mia immagine.",
+                    "Comunque bella! 😊"
+                ]
+            ],
+            "timestamp": "2019-11-29T15:19:10Z",
+            "title": "Specchio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44933-specchio//?do=findComment&comment=803114",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 210,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 803163,
+            "text": [
+                "Ops, grazie prima o poi capirò come si fa... 😌"
+            ],
+            "timestamp": "2019-11-29T21:30:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45419-mercatini-di-natale//?do=findComment&comment=803163"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        ".",
+        ".",
+        "Luci",
+        "su prefabbricati in legno,",
+        "biglie di pioggia",
+        "che giocano al rimbalzo",
+        "tra le sedie d'alluminio:",
+        "ologrammi su strada.",
+        "Neon",
+        "vs",
+        "Intermittenze",
+        "Finestrelle chiuse",
+        "stasera -",
+        "non vin brulè",
+        "ma finestroni",
+        "vista kebab."
+    ],
+    "timestamp": "2019-11-29T15:25:52Z",
+    "title": "Mercatini di Natale",
+    "topic_id": 45419,
+    "url": "https://www.writersdream.org/forum/forums/topic/45419-mercatini-di-natale/"
+}

@@ -1,0 +1,88 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace moltissimo questa poesia, perché hai gestito lo stile prosaico e colloquiale con estrema scioltezza e disinvoltura. Il ritmo è sempre sostenuto, non si inceppa nemmeno per un attimo. Lo stile è curatissimo e si districa in modo sapiente anche nei dialoghi, brevi, veloci, incisivi. In questa strofa, in particolare , mi piace come la narrazione torna dalla follia omicida letta sui giornali (situazione che potrebbe essere esterna e /o estranea all'io lirico) all'io lirico, riprendendo la frase del dialogo precedente. C'è quasi un salto sintattico, un senso di sospensione, ma ne deriva un chiaro continuum logico strutturato con molta arguzia sul piano formale. Mi ha suggestionato l'idea che la paura del bravo ragazzo è che egli stesso possa un giorno uscire fuori di testa e compiere qualche atto scellerato. Questo richiama anche una situazione ricorrente: quante volte si sente dire, quando si verificano tali situazioni, \"Che strano! Era un ragazzo così a modo\"... ?",
+                    "Ho paura, di cos'altro ho paura?",
+                    "Aspetta, che mi accendo una sigaretta e ci pensi?",
+                    "Bellissimo anche qui, il modo in cui passi con estrema disinvoltura da un interlocutore all'altro, ma senza formalizzare questo passaggio sul piano sintattico. Questo contribuisce ulteriormente a rendere veloce e scorrevole il testo.",
+                    "Ma certo! Dell'aereo.",
+                    "Ho paura",
+                    "perché amo viaggiare,",
+                    "sempre sui libri. Sapesse!",
+                    "Anche qui. Potrei definirlo un salto sintattico, perché non è tutto esplicato sul piano formale, ma il continuum logico è chiarissimo. Mi suggestione l'idea che l'io lirico ami viaggiare per mezzo della fantasia e delle storie lette sui libri, e quindi ha paura dell'aereo non essendo solito a compiere viaggi \"fisici\".",
+                    "che col tuo volto strofina gli specchi.",
+                    "Meraviglioso questo verso, estremamente suggestivo.",
+                    "Oltretutto, nell'intero componimento, leggo anche una sorta, quasi, di ironia. O forse, meglio definirla vena caustica, il che alleggerisce il dramma e il disagio sui cui è incentrato il testo.",
+                    "Complimenti"
+                ]
+            ],
+            "timestamp": "2019-12-06T13:06:56Z",
+            "title": "[LP 6] Sapessi!",
+            "url": "https://www.writersdream.org/forum/forums/topic/45331-lp-6-sapessi//?do=findComment&comment=804319",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 167,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 806007,
+            "text": [
+                "Più che bloccare la ricerca, volevo dare una sfumatura leggermente diversa, come uno spezzare un incantesimo, una sorta di liberazione dal fatto di doversi cercare e non trovare, riportando a una condizione in cui non si sente il bisogno e non viene nemmeno l'idea di fare questa ricerca perché non ci si è mai persi. ma è complicato renderlo bene, me ne rendo conto.",
+                "Mi è piaciuta molto la tua poesia. Ne ho lette già diverse di quelle che hai postato e le ho anche commentate, quindi ti dico: brava (sei donna, giusto?). Le ho trovate tutte molto gradevoli e azzeccate.",
+                "Talia",
+                "Non ho sesso."
+            ],
+            "timestamp": "2019-12-15T09:06:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45497-nascondino//?do=findComment&comment=806007"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Comment",
+        "Mi cerco",
+        "e non mi trovo.",
+        "Come a nascondino.",
+        "E vorrei tornare",
+        "a quando era solo un gioco",
+        "e a spezzarlo bastava mia mamma",
+        "che alla finestra diceva sali",
+        "la cena è pronta."
+    ],
+    "timestamp": "2019-12-06T19:30:16Z",
+    "title": "Nascondino",
+    "topic_id": 45497,
+    "url": "https://www.writersdream.org/forum/forums/topic/45497-nascondino/"
+}

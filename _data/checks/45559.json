@@ -1,0 +1,131 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Partirò a razzo, senza convenevoli e senza paragoni che, dal canto mio, in questo caso sarebbero insensati. Apprezzo la scelta stilistica ma trovo assolutamente \"banale\" l'immagine pittorica. Spiegherò il motivo di questa mia affermazione. Non vi è alcun rimando metaforico alla mia persona, alla mia intimità. Non vi è persona \"ma solo natura\", come fosse un semplice ritratto di un'alba come quei quadri venduti alle bancarelle a quattro soldi. L'unico cambio di prospettiva interessante, dal mio punto di vista, è l'inquadratura del sole che sorge fra le spighe di grano, immagine che fa pensare come se il sole bucasse la terra e si sollevasse in aria. E' un immagine che, stranamente, mi fa venir voglia di pane.",
+                    "Qui si inizia ad intravedere una personificazione del sole, con le sue piccole chiome (dorate, immagino), ma le altre immagini sono \"denti d'avorio e pelle come pesca\".",
+                    "Anche qui una bella sinestesia (colline aspre) che si perde in questa noiosissima danza di spighe nello zeffiro. Non trovo \"pace\" nei tuoi versi armoniosi, ma solo superficie. Non scavano a fondo nella mia intimità e non sfiorano il mio scheletro.",
+                    "L'attacco sembra promettente: \"nelle notti serene morirò calpestando la mia terra fredda\". Cosa intendi? Un misterioso ma affascinante attacco che si perde in quel germoglio ... non mi capacito della chiusa con quel \"fata silente delle sere più silenti, nelle sere\". Non so se refuso o meno ma, nel caso in cui non dovesse esserlo, è decisamente una tagliola su una poesia già cigolante. A presto, per rileggerti."
+                ]
+            ],
+            "timestamp": "2019-12-13T15:04:38Z",
+            "title": "Strofa 20ª",
+            "url": "https://www.writersdream.org/forum/forums/topic/45542-strofa-20%C2%AA//?do=findComment&comment=805681",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1295,
+    "num_commenti": 1,
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 805685,
+            "text": [
+                "Mi sono dimenticato di aggiungere il link del mio commento ma non sono riuscito a capire come modificare il mio precedente contenuto."
+            ],
+            "timestamp": "2019-12-13T15:09:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45559-altair//?do=findComment&comment=805685"
+        },
+        {
+            "post_id": 806184,
+            "text": [
+                "Grazie mille del tuo interessante commento. Farò tesoro dei tuoi consigli e cercherò di metterli a frutto. Essendo però Altair il componimento di un'opera dal nome \"melodie di vetro\" dovrò tener conto della mia promessa/premessa iniziale. A presto e grazie ancora."
+            ],
+            "timestamp": "2019-12-15T20:25:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45559-altair//?do=findComment&comment=806184"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "ALTAIR",
+        "Cammino nel blu,",
+        "annusando un mi bemolle",
+        "mentre una gru solleva",
+        "una nuvola.",
+        "Mangio rucola e bianco",
+        "stanco del fu.",
+        "Mi arrangio, mentre ruoto",
+        "in questo nero vuoto",
+        "su questa palla di protoni,",
+        "procioni, incubi.",
+        "Non si tappa una falla",
+        "con le parole del capitano.",
+        "Non è comodo un divano",
+        "dove si affonda nella disperazione.",
+        "Mastico il buio",
+        "e rutto malinconia.",
+        "Le tenebre vanno di traverso",
+        "e bisogna mandarle giù",
+        "con un po' di vino,",
+        "se non si vuole soffocare.",
+        "Le scuole non ci hanno mai",
+        "insegnato a contare",
+        "i giorni di tristezza,",
+        "gli storni da fare sul bilancio",
+        "di questo mortale respiro.",
+        "Mi sento preso in giro.",
+        "Ho pianto appena uscito",
+        "dalla figa di mia madre",
+        "e, forse, me ne andrò",
+        "con un sorriso beffardo",
+        "sulla faccia.",
+        "È aperta la caccia, siamo pronti",
+        "a cercare gli sconti ai centri commerciali",
+        "per vestire i nostri fantasmi.",
+        "I marasmi di questo sangue",
+        "di poeta li sa solo chi vede",
+        "nello scolo della merda",
+        "un piede vicino la tazza.",
+        "Che razza infima che siamo,",
+        "sacerdoti del vento,",
+        "profeti dell'amo.",
+        "Cammino nell'opale",
+        "mentre la luna",
+        "fiorisce come una magnolia",
+        "in quel prato di tenebre.",
+        "Sono mal nato,",
+        "alieno sbucato",
+        "da una stella del sombrero.",
+        "Sarei potuto essere un torero",
+        "intergalattico schivando comete:",
+        "avrei avuto monete, in apparenza",
+        "piccole, come premio.",
+        "Se solo fossi ben nato",
+        "avrei potuto sognare una grande villa",
+        "anziché la piccola Altair."
+    ],
+    "timestamp": "2019-12-13T15:07:16Z",
+    "title": "Altair",
+    "topic_id": 45559,
+    "url": "https://www.writersdream.org/forum/forums/topic/45559-altair/"
+}

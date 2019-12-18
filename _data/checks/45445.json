@@ -1,0 +1,122 @@
+{
+    "author": {
+        "author_id": 24300,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Silverwillow",
+        "url": "https://www.writersdream.org/forum/profile/24300-silverwillow/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, mi fa sempre piacere quando mi capita di leggere i tuoi racconti (ma sono un po' pigra in quanto a letture ultimamente ).",
+                    "Il racconto mi è piaciuto molto per la sua atmosfera sospesa, con un tocco poetico e un qualcosa di straniante che mi ricorda Buzzati. Hai gestito bene anche il cambio di tempi tra il presente, il passato e di nuovo il presente, che non è mai facile in un racconto breve. Molto bella la serie di eventi minuziosi e numerati che scandiscono questo tempo sempre uguale, contribuendo a costruire l'atmosfera.",
+                    "La storia di per sé è semplice e chiara, l'unica parte che forse poteva essere approfondita di più (caratteri permettendo) è quella della fuga.",
+                    "La frase di lei è molto poetica, ma lascia un senso di incompiutezza sul perché lui si è rassegnato a lasciare andare la donna che ama e tornare indietro. È tutto un po' irreale, come fosse un sogno anche questo. Non è chiaro nemmeno come abbiano attraversato il fiume (a nuoto, con una barca? Ci sono barche da pesca? O ne hanno costruita una?). Da come è messa la storia sembra un po' troppo facile, quindi viene da chiedersi come mai Sara è l'unica ad averci pensato",
+                    "mi suonerebbe meglio \"Guarda quale forza mi muove\", non so, più immediato forse. La seconda parte della similitudine, per quanto originale, è anch'essa poco immediata (almeno alle mie orecchie) quindi ci sono inciampata un po' per visualizzarne il significato",
+                    "frase molto bella e ben costruita come ritmo (anche se personalmente non amo i : doppi, sostituirei il primo con una virgola ); Non mi suona bene quel riflessivo, \"spaccarsela\" , ma ora non saprei come migliorarla. Forse: \"si gettava sulle rocce spaccandosi la testa di spuma\"",
+                    "è leggermente ambigua, perché si potrebbe riferire quel \"per\" a \"interesse\", cioè l'interesse che ha il figlio nella felicità della moglie. Ovviamente si capisce che non è quello il senso, ma per togliere ogni ambiguità basterebbe cambiare \"per\" con \"a favore della felicità di sua moglie\". Non suona perfettamente lo stesso perché c'è la doppia preposizione \"della/di\", ma magari riesci a pensare qualcosa di meglio",
+                    "Non è poco credibile che lei lo sogni, ma viene da chiedersi, se nessuno lì ha mai visto o conosciuto il mare, come può lui nominarlo, sapere cos'è la distesa d'acqua che lei vede. È un po' banale come espediente, ma si potrebbe immaginare che in questa città ci siano dei libri che ne parlano, magari molto antichi...",
+                    "Queste sono riflessioni che ho fatto io leggendo, poi magari altri non le hanno avute, ma spero ti siano di qualche utilità come spunto di riflessione.",
+                    "Per il resto come ho detto il racconto è molto bello. Mi piace soprattutto la simbologia che permea tutto il racconto, il fiume chiamato Sole, il mare collegato al desiderio di libertà, che finisce per diventare una malattia e rompere l'equilibrio sicuro ma monotono della vita dei protagonisti.",
+                    "Diversi frasi bellissime mi hanno colpita, te ne segnalo solo qualcuna:",
+                    "Bello il finale, asciutto e poetico. A rileggerti"
+                ]
+            ],
+            "timestamp": "2019-12-02T00:21:55Z",
+            "title": "[MI 131] Il mare",
+            "url": "https://www.writersdream.org/forum/forums/topic/45438-mi-131-il-mare//?do=findComment&comment=803489",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4741,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 803784,
+            "text": [
+                ", Ciao e grazie mille a entrambi per i commenti e per le correzioni e i consigli, mi sono accorta poi di qualche svista.",
+                "Pensavo al topo del Parmareggio, ma potrebbe anche essere un'imitazione con un altro topo bianco",
+                "Si può appisolarsi anche per pochi istanti e fare un sogno completo. Ho immaginato che un po' il troppo \"champagne\" (che ovvviamente non è vero champagne, ma qualche imitazione) e un po' la conversazione noiosa gli avessero fatto quest'effetto...",
+                "In ogni caso è un raccontino un po' surreale senza troppe pretese di verosimiglianza, ma sono contenta se strappa almeno un sorriso."
+            ],
+            "timestamp": "2019-12-03T13:44:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto//?do=findComment&comment=803784"
+        },
+        {
+            "post_id": 803819,
+            "text": [
+                "Grazie! Sono contenta di risentirti e anche che ti sia piaciuto il racconto. Mi spiace solo di non essere riuscita a partecipare al MI, magari ci incroceremo ancora al prossimo contest"
+            ],
+            "timestamp": "2019-12-03T17:19:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto//?do=findComment&comment=803819"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzanotte-Risvegli",
+        "La sete era la cosa peggiore, o forse il fastidio ai polsi, dove qualcosa di ruvido sfregava la pelle. Finché l’acqua gelida non lo destò del tutto e aprì gli occhi, boccheggiando.",
+        "Davanti a lui c’era una donna, ma non Maria, quella che aveva conosciuto in chat. L’ultima cosa che ricordava era che il loro appuntamento stava andando bene, Maria continuava a sorridere a annuire. Poi tutto si era fatto confuso. Il programma, dopo il ristorante, era di riaccompagnarla a casa, magari fino al letto.",
+        "Certo, quello su cui stava sdraiato era un letto, ma non ricordava di esserci arrivato. E non riusciva a collegare la donna elegante che aveva brindato al loro primo incontro con lo \"champagne\" più caro della pizzeria e quella stanzetta squallida, con le pareti butterate dalla muffa e le sbarre all’unica finestra. Una luce malaticcia entrava a illuminare la sconosciuta, che abbassò il secchio e sorrise. Era davvero brutta.",
+        "«Ti sei svegliato» disse.",
+        "«Chi cazzo sei?» chiese Enzo, cercando di liberare almeno una mano, senza riuscirci. Erano legate al letto con delle corde.",
+        "La donna si accigliò e gli tirò il secchio, ma per fortuna aveva una pessima mira. «Sono Carla.»",
+        "Silenzio.",
+        "«Quella notte di cinque anni fa.»",
+        "«Cinque anni... Mi prendi per il culo? Come faccio a ricordarmi?» Cercò di calmare l’ansia e schiarirsi la mente. «E che fine ha fatto Maria?»",
+        "«Maria è mia sorella. Il suo compito era solo di attirarti qui.»",
+        "Ora che la guardava meglio, in effetti notava una vaga somiglianza. Molto vaga. «Dove ci saremmo conosciuti io e te?»",
+        "«In un caffè a Parigi. Mi avevi promesso una gita in battello lungo la Senna, la mattina dopo. Invece sei sparito.»",
+        "«Questo spiega tutto.» La vacanza francese risaliva a un periodo in cui beveva molto. Troppo: andare a Parigi per rimorchiare una befana italiana era proprio da sfigati. Ora in effetti si ricordava di essersi svegliato una mattina, aver guardato bene la faccia accanto alla sua sul cuscino ed essere sgattaiolato fuori dalla stanza d’hotel senza far rumore. «Scusa, ma che ci faccio qui? Che vuoi?»",
+        "Anziché rispondere, la donna si portò dietro il letto e armeggiò con qualcosa. Sul muro sporco di fronte apparvero delle immagini: un proiettore.",
+        "«Sono tutte le foto e i video delle mie vacanze» spiegò Carla, con voce morbida come carta vetrata sul velluto. «Ventitré ore in tutto.»",
+        "«No...»",
+        "«Sì, e in mezzo ci sono le foto che ho fatto per un calendario osè e quelle dell’ultimo Natale in famiglia.»",
+        "«No...»",
+        "«Sì, e ci ho messo anche tutti i video di gatti più stupidi che ho trovato su facebook.»",
+        "Lui cominciò a respirare sempre più in fretta, gli mancava l’aria. «E se io... Se chiudessi gli occhi?»",
+        "«Non puoi.» La faccia di Carla comparve sopra di lui, distorta da un ghigno sadico. «Tra ventitré ore ti chiederò quanti gatti c’erano, e quanti cuoricini nei commenti. E se sbagli...»",
+        "«Se sbaglio?» chiese, col battito sempre più accelerato.",
+        "«Ti consiglio di non farlo.» E con questa frase sibillina lasciò la stanza, mentre il primo gattino compariva sullo schermo per scivolare dalle scale, tra le risate fuori campo. Poi venne una foto di Carla con uno striminzito perizoma rosa confetto e nient’altro, seguita da un bambino occhialuto che scartava un regalo di Natale e subito dopo si ingrugniva e lo scagliava verso il nonno. In mezzo, simpatiche foto turistiche di monumenti irriconoscibili, ornate sui bordi da pollici e ali di piccione.",
+        "Lo strazio sembrò andare avanti all’infinito, e quando infine comparve un topolino bianco, che lasciò lo schermo per arrampicarsi sul letto e rosicchiare le corde ai suoi polsi, Enzo era tanto stordito che borbottò solo: «Tu non conti come gatto».",
+        "«Enzo?»",
+        "Si svegliò di soprassalto e trovò una mano dalle lunghe unghie laccate che gli accarezzava il polso. Questa a sua volta poggiava su una tovaglia bianca macchiata di pomodoro e bagnata dallo \"champagne\" rovesciato. Un topolino bianco lo guardava dalla pubblicità sul coperchio della formaggiera. Batté le palpebre, confuso, e alzò gli occhi sulla donna. «Maria...»",
+        "«È la prima volta che qualcuno si addormenta durante un appuntamento. Ti annoio così tanto?»",
+        "«No, no» si affrettò a dire lui. «Di cosa stavamo parlando?»",
+        "«Delle mie vacanze a Parigi il prossimo Natale, e del fatto che dovrò lasciare il gatto a mia sorella.»",
+        "Enzo annuì, sovrappensiero. «E i cuoricini?»",
+        "Maria si accigliò. «Quali cuoricini?»",
+        "«No, niente. Meglio che vada, non mi sento molto bene.»",
+        "«Ma...»",
+        "Ignorò le proteste e gli insulti di Maria, si alzò barcollando e si diresse all’uscita. Appena fuori dal locale c’era una hostess che faceva la pubblicità a una macchina del caffè, con un vestito rosso a cuori. «Tutto bene?» gli chiese, guardandolo fisso.",
+        "«Duecentoventitré» rispose lui, e se ne andò più tranquillo."
+    ],
+    "timestamp": "2019-12-02T00:48:34Z",
+    "title": "[MI 131- fuori concorso] Quasi quasi smetto...",
+    "topic_id": 45445,
+    "url": "https://www.writersdream.org/forum/forums/topic/45445-mi-131-fuori-concorso-quasi-quasi-smetto/"
+}

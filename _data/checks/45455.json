@@ -1,0 +1,343 @@
+{
+    "author": {
+        "author_id": 24806,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kikki",
+        "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buongiorno",
+                    "serve uno spazio dopo il trattino, che dovrebbe essere lungo",
+                    "o lo fa o non lo fa. Che ne dici di abbozza un mezzo inchino? Vai a capo con questa frase perché se no sembra che sia l'uomo a parlare, invece l'uomo reagisce a queste parole",
+                    "a quale signora?",
+                    "eliminerei con un avanti, lo trovo superfluo dal momento che la voce è cordiale. Se invece è importante che avanti stia nella narrazione lo inserirei come dialogo allora",
+                    "sì",
+                    "il trattino non serve quando il dialogo non prosegue",
+                    "niente accento su do",
+                    "da qui in poi usi le maiuscole, ma prima non c'erano. Se è una scelta non la capisco, voglio dire a livello di narrazione non vedo che sia successo niente che giustifica il cambiamento",
+                    "non capisco bene questo scambio, che scheda? Mi sembra di capire che il protagonista va a questo incontro una volta a settimana da anni, giusto? Certamente avrà una sua scheda che il dottore compila ogni volta che finisce la seduta con le nuove informazioni... non lo so come funziona nella realtà, ma mi pare una strana dinamica.",
+                    "metterei due punti al posto della virgola",
+                    "comincia con non lo so ma poi spiega il perché della sensazione, quindi lo sa. Trovo tutta la frase molto complicata, cercherei di renderla più diretta",
+                    "credo che qui ti sia sfuggito qualcosa o forse hai dimenticato qualcosa. E' non esiste in italiano, benché sia molto usato. È è quello giusto",
+                    "e chi è Aristide? Se è il nome del protagonista, per introdurlo, potresti farlo dire al dottore quando Aristide entra nello studio",
+                    "Quando esce (Aristide), Elena entra nell'ufficio; Gianni... Bisogna che tutti questi nomi entrino in scena prima in altro modo perché inseriti così, con le spiegazioni di chi sono accanto, non funzionano. Sono palesemente informazioni che senti, com'è giusto, di dover fornire al lettore perché non si perda e che hai deciso di infilare qui. Cerca di inserirle all'inizio. Aristide ed Elena si inseriscono facilmente dala momento che i due si vedono da anni ogni settimana. Se lui è spaesato o altro, lei no. Lei conosce i nomi e li ricorda.",
+                    "anche questo lo spieghi al lettore che non c'era, ma tra moglie e marito non credo che sia un'informazione da ripetere in un dialogo, stessa cosa vale per la frase successiva che ti riporto sotto",
+                    "a parte che io ci avevo creduto che quello fosse un dottore vero, anche quando confessa di essere il fratello. Secondo me devi svelarmelo (al lettore) in una maniera più da lasciare a bocca aperta. Fai succedere qualcosa che sveli il mistero, se è proprio arrivato il momento di svelarlo, ma non mettere la spiegazione in bocca ai tuoi personaggi per sciogliere la situazione, non è credibile come dialogo e rende questi due delle macchiette",
+                    "ti è scappato uno spazio prima della virgola",
+                    "e Gianni quando è uscito? Non era Elena che se n'era andata sbattendo la porta?",
+                    "leggo e rileggo, ma non riesco a capire cosa intendi",
+                    "chi è Luca?",
+                    "ma non sono clienti dello studio dentistico? Queste donne che nominano intendo",
+                    "ma quindi chi è che parla di donne? Pensavo che la battuta fosse di Gianni, invece da questa credo sia di Luca.",
+                    "Secondo me c'è una trama che si prospetta come minimo curiosa, ma il testo ha bisogno di un po' di cura supplementare sia nella punteggiatura che nella descrizione dei personaggi che mi risultano poco umani. C'è bisogno di attenzione anche nella dinamica dei fatti che, in certi momenti, sono poco logici secondo me e creano un po' di confusione."
+                ]
+            ],
+            "timestamp": "2019-12-03T09:33:43Z",
+            "title": "Mio fratello  Capitolo 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/45404-mio-fratello-capitolo-1//?do=findComment&comment=803712",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
+                    "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
+                    "Una risata fragorosa si alza dal pollaio in un groviglio di cocodè e chichirichì.",
+                    "La gallina rimane sulla porta del pollaio con una zampa per aria e l'altra ben piantata a terra. È abituata a schiamazzi e sberleffi, ma questo non significa che le piaccia venire presa in giro dalla famiglia e dalle amiche.",
+                    "All'apparenza, Carlotta è una gallina proprio come le altre: due ali, una coda piumata (quasi sempre), un becco, due zampe forti dotate di unghioni e la capacità di deporre uova. Eppure, Carlotta è diversa, perché lei vuole di più. Il suo sogno è viaggiare. La gallina Carlotta fantastica di spiagge e sentieri in montagna, di enormi cumuli di grano al sapore di soia e di pollai sotto i ghiacci più spessi.",
+                    "Invece le sue giornate sono identiche a quelle di tutte le altre galline: si sveglia all'alba al canto di re Gallo, sprimaccia le piume, si schiarisce la gola ed esce nell'aia becchettando qua e là tutto quanto incontra sul suo cammino, in attesa dell'arrivo del mangime. Ma poi si annoia: non c'è altro da fare nel pollaio e a lei non interessa chiacchierare tutto il giorno dell'ultimo ritrovato per avere penne lucenti e deporre uova giganti.",
+                    "«Che ne dite se oggi andiamo in gita?»",
+                    "«In gita?»",
+                    "«E dove?»",
+                    "«Il cancello è chiuso, Carlotta», esclama re Gallo. «Vuol dire che non è ancora il momento della passeggiata».",
+                    "Tutti i giorni il cancello si apre e le galline razzolano nel cortile; solo Carlotta si spinge nel bosco e lungo la strada. Per questo spesso torna con meno piume di quando è partita.",
+                    "«Ma non siete stufe di uscire a comando?»",
+                    "Le galline si guardano smarrite: cosa devono rispondere?",
+                    "«Io voglio uscire adesso!» grida Carlotta.",
+                    "Le galline sprofondano nel silenzio.",
+                    "«E come pensi di fare, chichirichì?» chiede re Gallo con la risata nella voce. «Tu sei solo una gallina».",
+                    "«Esatto, cocodé», dice Carlotta.",
+                    "Il pollaio è costruito di rete metallica: quattro pareti e un soffitto, tutti pieni di buchi. Da una parte c'è una porta fatta di rete e pezzi di legno e nessuna gallina ha mai provato ad aprirla. Carlotta si attacca con le zampe alle maglie della rete e, aiutandosi con il becco, comincia a salire verso la chiusura.",
+                    "Le altre galline e re Gallo la guardano trattenendo il respiro.",
+                    "La salita è difficile, Carlotta sente le piume umide di sudore, ma ci riuscirà: deve uscire dalla gabbia.",
+                    "«Attenzione, cocodé, cococò!» grida una gallina mentre una zampa di Carlotta scivola dopo aver perso l'appiglio e lei rimane appesa alla rete metallica solo per il forte becco giallo.",
+                    "Carlotta deglutisce, muove gli occhietti a destra e a sinistra e si rende conto di essere in alto. Non può cadere. Si fa coraggio, tende i muscoli delle cosce e aggrappa di nuovo gli unghioni alla rete. Tira un sospiro di sollievo e poi dà un colpo di reni e uno di becco, e il blocco della porta salta. La porta si apre cigolando sui cardini arrugginiti.",
+                    "«Siete libere, cocodé, cococò!» Carlotta balza a terra, si infila nell'apertura e si precipita lungo il sentiero dandosi il ritmo avanti e indietro con la testa.",
+                    "Finalmente vedrò il mondo intero! pensa Carlotta felice, poi si rende conto che intorno a lei c'è solo il silenzio. Si ferma, si gira e scopre che nessuna delle sue sorelle è uscita dal pollaio.",
+                    "«Venite! Cosa state aspettando?»",
+                    "Tutte la fissano, immobili dietro la porta spalancata del pollaio.",
+                    "«A me piace la mia coda piumata, cocodé, cococò», esclama una.",
+                    "«Chi ci darà da mangiare là fuori?» chiede un'altra.",
+                    "Carlotta torna al pollaio: è incredula! Nessuno vuole scoprire il mondo insieme a lei!",
+                    "«Qualcosa troveremo, ne sono sicura!»",
+                    "«E tu che ne sai, chicchirichì?»",
+                    "«Non lo so, ma non posso stare qui dentro chiusa a mangiare e fare uova tutti i giorni e a domandarmi cosa c'è là fuori».",
+                    "«Qui c'è il cibo, l'importante è questo, chichirichì», tutte le galline annuiscono. E continuano a beccare con grande impegno senza lasciarsi distogliere dai sogni di Carlotta e dal cancello aperto.",
+                    "La gallina Carlotta guarda prima il pollaio e poi il sentiero: vuoto e ignoto. Fa un passo indietro, verso le sorelle. Si volta osserva il sentiero e poi il pollaio: pieno di galline e cibo sicuro.",
+                    "«Io vado», esclama Carlotta. «Voglio scoprire il mondo».",
+                    "«Fai la brava gallina, Carlotta, chicchirichì!» dice re Gallo.",
+                    "Carlotta rimane perplessa: che significa fare la brava gallina? Non volere fare mai niente di diverso dalle sue sorelle?",
+                    "«Io sono una brava gallina, re Gallo!»",
+                    "Tutte le galline e anche re Gallo smettono di beccare per guardare Carlotta.",
+                    "«Sono una brava gallina e per me è arrivata l'ora di lasciare il pollaio».",
+                    "La gallina Carlotta si volta e s'incammina da sola lungo il sentiero: si sente triste ed emozionata allo stesso tempo. Non sa cosa troverà là fuori, ha paura, ma è anche curiosa. Dovrà stare molto attenta a ogni cosa. Anche se le mancherà il pollaio, per essere una brava gallina deve fare quello che le dicono il cuore e l'istinto.",
+                    "«Buon viaggio, Carlotta!» le augura tutto il pollaio. «Noi ti aspetteremo, cocodé, cococò»."
+                ],
+                [
+                    "Buongiorno , grazie per avermi letto!",
+                    "credo proprio che lo farò! Ti ringrazio",
+                    "Migliore, sono d'accordo, ma secondo me ancora non ci siamo. Credo che si senta la mia insicurezza nel narrare questa storia. Non avevo mai perso tanto tempo con una gallina!",
+                    "Grazie per essere tornato a confrontare",
+                    "Caro ho avuto grossi problemi con questa gallina nello specifico! La verità è che qui sull'isola esiste davvero una gallina Carlotta, scappata dal suo pollaio e che vive tra due ristoranti che le danno i resti nel cortile sul retro. È davvero una gallina di cui vale la pena raccontare le gesta. Qui di fronte a casa mia invece ho un pollaio e spesso le galline scappano nel bosco, attraversano la strada e vengono in casa mia. Una volta pure le capre mi trovavo in cucina, ora le hanno date via e ci limitiamo alle galline. Non ho mai visto chickens run, ma ci ho pensato, credo che il rimando sia impossibile da evitare, mi sa che dovrò vederlo subito. Comunque era tanto che pensavo alla gallina Carlotta, che si chiama proprio così, questa è una sua biografia non autorizzata.",
+                    "giusto per il corsivo, per le doppie stavo andando al risparmio",
+                    "qui intendevo quando piegano una zampa tanto che sembra ne abbiamo solo una, quella piegata sembra scomparire, mi sa che non l'ho spiegato bene",
+                    "Comunque niente di entusiasmante questa storiella, non riesco a venirne fuori, e ci tenevo tanto a raccontare la storia di Carlotta, è un personaggio servito su un piatto d'argento secondo me!",
+                    "Grazie per essere passato da me, vengo a leggerti appena ho un attimo!"
+                ],
+                [
+                    "grazie per essere passata a leggermi e commentarmi, hai fatto benissimo",
+                    "mi sembra che questa sia una buona domanda, sono contenta che la mia storia ti porti a riflettere su questo",
+                    "no, i post non si correggono a posteriori, mi dispiace",
+                    "Ciao",
+                    "sì, l'ho notato in ritardo, grazie",
+                    "giusto, la riguardo meglio. Perché dovresti essere scortese? Esprimi il tuo parere e offri un commento a un racconto, lo fai con gentilezza e onestà e nessuno si offende, anzi, ti è grato per la risposta",
+                    "giusto anche qui, grazie!",
+                    "forse hai ragione, questo non lo avevo pensato. L'idea non era far convertire le altre galline, ma solo sottolineare il fatto che la famiglia la appoggia nonostante non sia d'accordo con il suo comportamento. Un concetto grosso per una frase tanto piccola, vedo di trasformarla un po' per farcelo stare tutto dentro",
+                    "ne sarà molto felice! Grazie ancora"
+                ]
+            ],
+            "timestamp": "2019-12-07T06:41:52Z",
+            "title": "La brava gallina [La gallina Carlotta revisionato e rinnovato]",
+            "url": "https://www.writersdream.org/forum/forums/topic/45499-la-brava-gallina-la-gallina-carlotta-revisionato-e-rinnovato//?do=findComment&comment=804438",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
+                    "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
+                    "Una risata fragorosa si alza dal pollaio in un groviglio di cocodè e chichirichì.",
+                    "La gallina rimane sulla porta del pollaio con una zampa per aria e l'altra ben piantata a terra. È abituata a schiamazzi e sberleffi, ma questo non significa che le piaccia venire presa in giro dalla famiglia e dalle amiche.",
+                    "All'apparenza, Carlotta è una gallina proprio come le altre: due ali, una coda piumata (quasi sempre), un becco, due zampe forti dotate di unghioni e la capacità di deporre uova. Eppure, Carlotta è diversa, perché lei vuole di più. Il suo sogno è viaggiare. La gallina Carlotta fantastica di spiagge e sentieri in montagna, di enormi cumuli di grano al sapore di soia e di pollai sotto i ghiacci più spessi.",
+                    "Invece le sue giornate sono identiche a quelle di tutte le altre galline: si sveglia all'alba al canto di re Gallo, sprimaccia le piume, si schiarisce la gola ed esce nell'aia becchettando qua e là tutto quanto incontra sul suo cammino, in attesa dell'arrivo del mangime. Ma poi si annoia: non c'è altro da fare nel pollaio e a lei non interessa chiacchierare tutto il giorno dell'ultimo ritrovato per avere penne lucenti e deporre uova giganti.",
+                    "«Che ne dite se oggi andiamo in gita?»",
+                    "«In gita?»",
+                    "«E dove?»",
+                    "«Il cancello è chiuso, Carlotta», esclama re Gallo. «Vuol dire che non è ancora il momento della passeggiata».",
+                    "Tutti i giorni il cancello si apre e le galline razzolano nel cortile; solo Carlotta si spinge nel bosco e lungo la strada. Per questo spesso torna con meno piume di quando è partita.",
+                    "«Ma non siete stufe di uscire a comando?»",
+                    "Le galline si guardano smarrite: cosa devono rispondere?",
+                    "«Io voglio uscire adesso!» grida Carlotta.",
+                    "Le galline sprofondano nel silenzio.",
+                    "«E come pensi di fare, chichirichì?» chiede re Gallo con la risata nella voce. «Tu sei solo una gallina».",
+                    "«Esatto, cocodé», dice Carlotta.",
+                    "Il pollaio è costruito di rete metallica: quattro pareti e un soffitto, tutti pieni di buchi. Da una parte c'è una porta fatta di rete e pezzi di legno e nessuna gallina ha mai provato ad aprirla. Carlotta si attacca con le zampe alle maglie della rete e, aiutandosi con il becco, comincia a salire verso la chiusura.",
+                    "Le altre galline e re Gallo la guardano trattenendo il respiro.",
+                    "La salita è difficile, Carlotta sente le piume umide di sudore, ma ci riuscirà: deve uscire dalla gabbia.",
+                    "«Attenzione, cocodé, cococò!» grida una gallina mentre una zampa di Carlotta scivola dopo aver perso l'appiglio e lei rimane appesa alla rete metallica solo per il forte becco giallo.",
+                    "Carlotta deglutisce, muove gli occhietti a destra e a sinistra e si rende conto di essere in alto. Non può cadere. Si fa coraggio, tende i muscoli delle cosce e aggrappa di nuovo gli unghioni alla rete. Tira un sospiro di sollievo e poi dà un colpo di reni e uno di becco, e il blocco della porta salta. La porta si apre cigolando sui cardini arrugginiti.",
+                    "«Siete libere, cocodé, cococò!» Carlotta balza a terra, si infila nell'apertura e si precipita lungo il sentiero dandosi il ritmo avanti e indietro con la testa.",
+                    "Finalmente vedrò il mondo intero! pensa Carlotta felice, poi si rende conto che intorno a lei c'è solo il silenzio. Si ferma, si gira e scopre che nessuna delle sue sorelle è uscita dal pollaio.",
+                    "«Venite! Cosa state aspettando?»",
+                    "Tutte la fissano, immobili dietro la porta spalancata del pollaio.",
+                    "«A me piace la mia coda piumata, cocodé, cococò», esclama una.",
+                    "«Chi ci darà da mangiare là fuori?» chiede un'altra.",
+                    "Carlotta torna al pollaio: è incredula! Nessuno vuole scoprire il mondo insieme a lei!",
+                    "«Qualcosa troveremo, ne sono sicura!»",
+                    "«E tu che ne sai, chicchirichì?»",
+                    "«Non lo so, ma non posso stare qui dentro chiusa a mangiare e fare uova tutti i giorni e a domandarmi cosa c'è là fuori».",
+                    "«Qui c'è il cibo, l'importante è questo, chichirichì», tutte le galline annuiscono. E continuano a beccare con grande impegno senza lasciarsi distogliere dai sogni di Carlotta e dal cancello aperto.",
+                    "La gallina Carlotta guarda prima il pollaio e poi il sentiero: vuoto e ignoto. Fa un passo indietro, verso le sorelle. Si volta osserva il sentiero e poi il pollaio: pieno di galline e cibo sicuro.",
+                    "«Io vado», esclama Carlotta. «Voglio scoprire il mondo».",
+                    "«Fai la brava gallina, Carlotta, chicchirichì!» dice re Gallo.",
+                    "Carlotta rimane perplessa: che significa fare la brava gallina? Non volere fare mai niente di diverso dalle sue sorelle?",
+                    "«Io sono una brava gallina, re Gallo!»",
+                    "Tutte le galline e anche re Gallo smettono di beccare per guardare Carlotta.",
+                    "«Sono una brava gallina e per me è arrivata l'ora di lasciare il pollaio».",
+                    "La gallina Carlotta si volta e s'incammina da sola lungo il sentiero: si sente triste ed emozionata allo stesso tempo. Non sa cosa troverà là fuori, ha paura, ma è anche curiosa. Dovrà stare molto attenta a ogni cosa. Anche se le mancherà il pollaio, per essere una brava gallina deve fare quello che le dicono il cuore e l'istinto.",
+                    "«Buon viaggio, Carlotta!» le augura tutto il pollaio. «Noi ti aspetteremo, cocodé, cococò»."
+                ],
+                [
+                    "Buongiorno , grazie per avermi letto!",
+                    "credo proprio che lo farò! Ti ringrazio",
+                    "Migliore, sono d'accordo, ma secondo me ancora non ci siamo. Credo che si senta la mia insicurezza nel narrare questa storia. Non avevo mai perso tanto tempo con una gallina!",
+                    "Grazie per essere tornato a confrontare",
+                    "Caro ho avuto grossi problemi con questa gallina nello specifico! La verità è che qui sull'isola esiste davvero una gallina Carlotta, scappata dal suo pollaio e che vive tra due ristoranti che le danno i resti nel cortile sul retro. È davvero una gallina di cui vale la pena raccontare le gesta. Qui di fronte a casa mia invece ho un pollaio e spesso le galline scappano nel bosco, attraversano la strada e vengono in casa mia. Una volta pure le capre mi trovavo in cucina, ora le hanno date via e ci limitiamo alle galline. Non ho mai visto chickens run, ma ci ho pensato, credo che il rimando sia impossibile da evitare, mi sa che dovrò vederlo subito. Comunque era tanto che pensavo alla gallina Carlotta, che si chiama proprio così, questa è una sua biografia non autorizzata.",
+                    "giusto per il corsivo, per le doppie stavo andando al risparmio",
+                    "qui intendevo quando piegano una zampa tanto che sembra ne abbiamo solo una, quella piegata sembra scomparire, mi sa che non l'ho spiegato bene",
+                    "Comunque niente di entusiasmante questa storiella, non riesco a venirne fuori, e ci tenevo tanto a raccontare la storia di Carlotta, è un personaggio servito su un piatto d'argento secondo me!",
+                    "Grazie per essere passato da me, vengo a leggerti appena ho un attimo!"
+                ],
+                [
+                    "grazie per essere passata a leggermi e commentarmi, hai fatto benissimo",
+                    "mi sembra che questa sia una buona domanda, sono contenta che la mia storia ti porti a riflettere su questo",
+                    "no, i post non si correggono a posteriori, mi dispiace",
+                    "Ciao",
+                    "sì, l'ho notato in ritardo, grazie",
+                    "giusto, la riguardo meglio. Perché dovresti essere scortese? Esprimi il tuo parere e offri un commento a un racconto, lo fai con gentilezza e onestà e nessuno si offende, anzi, ti è grato per la risposta",
+                    "giusto anche qui, grazie!",
+                    "forse hai ragione, questo non lo avevo pensato. L'idea non era far convertire le altre galline, ma solo sottolineare il fatto che la famiglia la appoggia nonostante non sia d'accordo con il suo comportamento. Un concetto grosso per una frase tanto piccola, vedo di trasformarla un po' per farcelo stare tutto dentro",
+                    "ne sarà molto felice! Grazie ancora"
+                ]
+            ],
+            "timestamp": "2019-12-07T06:41:52Z",
+            "title": "La brava gallina [La gallina Carlotta revisionato e rinnovato]",
+            "url": "https://www.writersdream.org/forum/forums/topic/45499-la-brava-gallina-la-gallina-carlotta-revisionato-e-rinnovato//?do=findComment&comment=804438",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 3,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5519,
+    "num_commenti": 3,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 803896,
+            "text": [
+                "Grazie mille e i vostri commenti mi sono estremamente utili per sciogliere nodi e dubbi in cui mi sono persa.",
+                "è esattamente quello che è successo, bravo! Sono partita con una storia in testa che poi si è perduta nelle diverse alternative che vedevo possibili per Carlotta",
+                "sono d'accordo con te!",
+                "e sono d'accordo anche qui. Si sono intrecciate troppe tematiche che non possono stare dentro così pochi caratteri e che hanno finito per perdersi togliendo significato e coerenza alla storia.",
+                "Ciao cara e , ancora grazie mille"
+            ],
+            "timestamp": "2019-12-04T07:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=803896"
+        },
+        {
+            "post_id": 804758,
+            "text": [
+                "Ciao cara Flo",
+                "vuol dire scuotere e sbattere, guarda qua",
+                "che dà da mangiare alle galline senza nessun entusiasmo, solo perché deve farlo",
+                "Matilde è l'umana padrona delle galline che va a dare da mangiare",
+                "verissimo, sono molto d'accordo",
+                "nemmeno io so le risposte. Infatti ho riscritto questa storia perché proprio non mi piaceva, la nuova versione è",
+                "Buona giornata cara Flo, grazie di essere passata a leggermi"
+            ],
+            "timestamp": "2019-12-09T05:15:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=804758"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 803896,
+            "text": [
+                "Grazie mille e i vostri commenti mi sono estremamente utili per sciogliere nodi e dubbi in cui mi sono persa.",
+                "è esattamente quello che è successo, bravo! Sono partita con una storia in testa che poi si è perduta nelle diverse alternative che vedevo possibili per Carlotta",
+                "sono d'accordo con te!",
+                "e sono d'accordo anche qui. Si sono intrecciate troppe tematiche che non possono stare dentro così pochi caratteri e che hanno finito per perdersi togliendo significato e coerenza alla storia.",
+                "Ciao cara e , ancora grazie mille"
+            ],
+            "timestamp": "2019-12-04T07:06:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=803896"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 804758,
+            "text": [
+                "Ciao cara Flo",
+                "vuol dire scuotere e sbattere, guarda qua",
+                "che dà da mangiare alle galline senza nessun entusiasmo, solo perché deve farlo",
+                "Matilde è l'umana padrona delle galline che va a dare da mangiare",
+                "verissimo, sono molto d'accordo",
+                "nemmeno io so le risposte. Infatti ho riscritto questa storia perché proprio non mi piaceva, la nuova versione è",
+                "Buona giornata cara Flo, grazie di essere passata a leggermi"
+            ],
+            "timestamp": "2019-12-09T05:15:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta//?do=findComment&comment=804758"
+        }
+    ],
+    "text": [
+        "«Guardate! Carlotta ha di nuovo perso le penne della coda!»",
+        "«Hai affrontato un coccodrillo questa volta, Carlotta?»",
+        "Una risata fragorosa si alza dal pollaio in un groviglio di cocodè e chichirichì.",
+        "La gallina rimane sulla porta del pollaio con una zampa per aria e l'altra ben piantata a terra. È abituata a schiamazzi e sberleffi, ma questo non significa che le piaccia venire presa in giro dalla famiglia e dalle amiche.",
+        "All'apparenza, Carlotta è una gallina proprio come le altre: due ali, una coda piumata (quasi sempre), un becco, due zampe forti dotate di unghioni e la capacità di deporre uova. Eppure, Carlotta è diversa, perché lei vuole di più. Il suo sogno è viaggiare. La gallina Carlotta fantastica di spiagge e sentieri in montagna, di enormi cumuli di grano al sapore di soia e di pollai sotto i ghiacci più spessi.",
+        "Invece le sue giornate sono identiche a quelle di tutte le altre galline: si sveglia all'alba al canto di re Gallo, sprimaccia le piume, si schiarisce la gola ed esce nell'aia becchettando qua e là tutto quanto incontra sul suo cammino, in attesa dell'arrivo di Matilde.",
+        "In questi giorni, Matilde, che è sempre stata puntuale alle sette del mattino, le fa aspettare. Per tutta la vita di Carlotta, fin da quando è uscita dall'uovo, Matilde si è presentata con dei bei chicchi grassi che sparge in abbondanza, il sorriso sulle labbra e un saluto allegro:",
+        "«Buongiorno, galline!» grida sempre scendendo lungo il viottolo in mezzo al campo.",
+        "Invece, in questi giorni, arriva silenziosa. Quasi quasi, non alza nemmeno gli occhi dal sacco del mangime stretto tra le braccia, non saluta, non canta, non sorride, butta le granaglie senza voglia, si gira e se ne torna verso casa senza guardare né di qua né di là.",
+        "A nessuno importa niente dell'umore di Matilde, infatti, le altre galline dicono a Carlotta:",
+        "«Ma che ti interessa? Il cibo c'è, l'importante è quello.» E continuano a beccare con grande impegno senza lasciarsi distogliere dalla preoccupazione di Carlotta o dallo strano comportamento di Matilde.",
+        "Un giorno Matilde non si presenta all'appuntamento mattutino e allora sì che le galline cominciano a interessarsi a lei:",
+        "«Ve l'avevo detto che qualcosa non andava, cocodé, cocodé!»",
+        "«E se non torna più, noi che cosa faremo, cococò, cococò?»",
+        "«Moriremo con lo stomaco vuoto!»",
+        "Dallo spavento, tutte le galline, eccetto Carlotta, piegano le zampe, appoggiano il sedere a terra e depongono un uovo proprio lì dove si trovavano.",
+        "«Non lasciatevi prendere dal panico!» dice Carlotta agitando appena le ali. «Sono sicura che Matilde non ci abbandonerà così, di punto in bianco».",
+        "«E tu che ne sai, chicchirichì? È per caso una tua amica Matilde? Non è nemmeno una gallina, chicchiricù!»",
+        "Il giorno dopo Matilde di nuovo non si presenta all'appuntamento e di nuovo le galline si disperano e svolazzano da una parte all'altra del pollaio.",
+        "«Povere noi, cocodé, cocodé!»",
+        "«Salvaci tu, re Gallo, cococò, cococò!»",
+        "«Non preoccupatevi, gallinelle del mio cuore, c'è qui il vostro re, chicchirichì, chicchiricù!»",
+        "Ma Carlotta non è affatto convinta. Cosa può mai fare re Gallo di diverso da quello che può fare lei? Le uniche differenze tra loro sono che Carlotta fa coccodé e re Gallo chicchirichì, lui ha una cresta rossa in cima alla testa e lei fa le uova. Entrambi hanno due zampe dotate di unghioni, due ali e un becco forte.",
+        "Così, Carlotta decide di andare a vedere che cosa è successo alla sua amica Matilde. Non starà ad aspettare che re Gallo finisca di farsi bello con le sue galline per poi scoprire che non sa come sbattere le ali. No, Carlotta farà quello che ritiene giusto e lo farà da sola.",
+        "«Vado a casa di Matilde. Chi viene con me?»",
+        "Le galline sprofondano nel silenzio.",
+        "«E come pensi di fare?» chiede re Gallo con la risata nella voce. «Tu sei solo una gallina».",
+        "«Esatto», dice Carlotta.",
+        "Il pollaio è costruito di rete metallica: quattro lati e un soffitto. Da una parte c'è una porta di rete e pezzi di legno, Matilde è l'unica che la apre e la chiude. Carlotta si attacca con le zampe alle maglie della rete e, aiutandosi con il becco, comincia a salire verso la chiusura della porta.",
+        "Le altre galline e re Gallo la guardano trattenendo il respiro.",
+        "La salita è difficile, Carlotta sente le piume umide di sudore, ma ci riuscirà: aprirà la porta e andrà a vedere cosa succede a Matilde.",
+        "«Attenzione, cocodé, cocodé!» grida una gallina mentre una zampa di Carlotta scivola senza trovare appiglio e lei rimane appesa alla rete metallica solo per il forte becco giallo.",
+        "Carlotta si fa coraggio e aggrappa di nuovo gli unghioni alla rete; un colpo di reni e uno di becco, e il blocco della porta salta, mentre la porta si apre cigolando sui cardini arrugginiti.",
+        "«Adesso potete uscire se volete». Carlotta si infila nell'apertura e si precipita lungo il sentiero trotterellando e dandosi il ritmo avanti e indietro con la testa.",
+        "Non è mai stata a casa di Matilde, ma vede subito che qualcosa non va: la porta d'entrata è spalancata e Matilde sdraiata per terra!",
+        "«Cocodè, cocodè, Matilde!» grida Carlotta piena di spavento e saltellandole sul petto. «Cococò, cococò, svegliati!»",
+        "Cocodè, cococò, cocodé, cococò, Matilde apre gli occhi e si ritrova il becco di Carlotta a un centimetro dal naso.",
+        "«Ah!» grida spaventata Matilde sollevandosi a sedere.",
+        "«Cocodè, cococò!» grida Carlotta che dalla paura depone un uovo sulla pancia di Matilde.",
+        "Lei fissa prima la gallina e poi l'uovo.",
+        "«Stai bene, Matilde?»",
+        "«Mi hai svegliato da un sogno orribile dove non c'erano uova e nemmeno galline».",
+        "«Un incubo».",
+        "«Andiamo a mangiare adesso!»",
+        "«Cocodé, cococò»."
+    ],
+    "timestamp": "2019-12-03T11:21:06Z",
+    "title": "La gallina Carlotta",
+    "topic_id": 45455,
+    "url": "https://www.writersdream.org/forum/forums/topic/45455-la-gallina-carlotta/"
+}
