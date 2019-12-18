@@ -51,7 +51,7 @@
     },
     "num_chars": 1316,
     "num_commenti": 1,
-    "num_posts": 21,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 806304,
@@ -98,6 +98,15 @@
             ],
             "timestamp": "2019-12-17T12:23:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806695"
+        },
+        {
+            "post_id": 806946,
+            "text": [
+                "Ciao Edu grazie",
+                "Il racconto e' La sentinella, che ha citato sopra garrula."
+            ],
+            "timestamp": "2019-12-18T15:33:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45579-mi-132-nuovo-arrivo-allo-zoo//?do=findComment&comment=806946"
         }
     ],
     "post_staff": [
