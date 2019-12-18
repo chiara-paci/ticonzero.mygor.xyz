@@ -52,8 +52,25 @@
     },
     "num_chars": 3243,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 806847,
+            "text": [
+                "Perduta nelle droghe, nelle fantasie, nelle vaghe illusioni"
+            ],
+            "timestamp": "2019-12-18T04:53:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45623-lettera-di-un-poeta-sconosciuto//?do=findComment&comment=806847"
+        },
+        {
+            "post_id": 806848,
+            "text": [
+                "Errore di battitura"
+            ],
+            "timestamp": "2019-12-18T04:56:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45623-lettera-di-un-poeta-sconosciuto//?do=findComment&comment=806848"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Mia cara Marienne, ho sognato per molto tempo sogni che mai mi sarei reso conto di vedere e per molto tempo, per molto tempo ancora, resterò per settimane in un totale stato d'inerzia paralizzante aspettando con entusiasmo una tua improvvisa chiamata. Nelle nostre ultime conversazioni mi è parso noto con mio relativo stupore, che qualcosa stia germogliando nel tuo cuore giovane. Qualcuno ti ha ferita lasciandoti ferite così sanguinolenti che mai nessuno plasmerà: perché sei ancora più bella quando sfiorisci come le rose in autunno sanno fare. Con quei petali caduti conserverai ogni tua lacrima e proprio quella lacrima scivolerà sulle tue guance di miele, proprio quella lacrima.",
