@@ -69,7 +69,7 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 806649,
@@ -103,6 +103,15 @@
             "text": [],
             "timestamp": "2019-12-19T12:01:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807141"
+        },
+        {
+            "post_id": 807190,
+            "text": [
+                "Grazie , i premi inufficiali sono quelli a cui tengo di più",
+                "wah, questo me lo stavo perdendo, onoratissimo di cotale accostamento!"
+            ],
+            "timestamp": "2019-12-19T14:40:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807190"
         }
     ],
     "post_staff": [
