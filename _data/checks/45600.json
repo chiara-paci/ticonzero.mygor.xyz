@@ -69,7 +69,7 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 806649,
@@ -89,6 +89,20 @@
             ],
             "timestamp": "2019-12-17T17:50:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=806765"
+        },
+        {
+            "post_id": 807140,
+            "text": [
+                "direi di sì. Come dare una logica all'insensato? è insensato"
+            ],
+            "timestamp": "2019-12-19T12:00:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807140"
+        },
+        {
+            "post_id": 807141,
+            "text": [],
+            "timestamp": "2019-12-19T12:01:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807141"
         }
     ],
     "post_staff": [
