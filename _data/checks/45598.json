@@ -53,7 +53,7 @@
     },
     "num_chars": 8023,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 806805,
@@ -92,6 +92,14 @@
             ],
             "timestamp": "2019-12-18T04:24:06Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806845"
+        },
+        {
+            "post_id": 807282,
+            "text": [
+                "Hai colto in pieno la mia metafora. Grazie del bel commento"
+            ],
+            "timestamp": "2019-12-19T18:20:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=807282"
         }
     ],
     "post_staff": [

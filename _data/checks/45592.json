@@ -68,7 +68,7 @@
     },
     "num_chars": 7083,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 806515,
@@ -120,6 +120,18 @@
             ],
             "timestamp": "2019-12-17T13:46:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806714"
+        },
+        {
+            "post_id": 807279,
+            "text": [
+                "due lettrici agli opposti",
+                "sì, è un po' da fare",
+                "molto gentile",
+                "non avevo pensato che la frase potesse far sorgere dubbi: mi avete fatto riflettere. E di questo vi ringrazio",
+                "Cavolo, ho messo in crisi anche la Treccani (bisogna essere bravi per farlo ; certo, sarebbe meglio essere bravi in altre cose che non in creare dubbi )"
+            ],
+            "timestamp": "2019-12-19T18:12:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=807279"
         }
     ],
     "post_staff": [
@@ -204,6 +216,27 @@
             ],
             "timestamp": "2019-12-17T09:50:31Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=806651"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 807262,
+            "text": [
+                "Ah, eccomi.",
+                "Innanzitutto mi scuso con Mirco per questo intervento a gamba tesa nel suo racconto, senza commento. A mia discolpa confesso però di averlo letto tutto e che mi è piaciuto molto, uno dei suoi più belli che mi è capitato di leggere. Aggiungo anche i complimenti per l'originalità del modo in cui ha svolto la traccia, riuscendo a eludere l'idea dell'inondazione, che era la più facile e immediata.",
+                "E veniamo alla frase \"incriminata\".",
+                "Sapete che sono un killer di gerundi e questo non fa eccezione... . Chi è a distorcere l'immagine, innanzitutto? Il vetro o la pioggia? Secondo me più la seconda del primo, che in sé per sé non distorce nulla (ma, se rigato dalla pioggia, sì ). Se si vuole incentrare l'immagine sulla pioggia trovo che la soluzione più semplice sia rendere la principale attiva e in quel caso allora sì che il gerundio può starci:",
+                "La pioggia rigava il vetro, distorcendo il paesaggio .",
+                "Se invece si desidera porre l'attenzione sul vetro, scriverei:",
+                "Rigato dalla pioggia, il vetro distorceva il paesaggio .",
+                "Se poi sia un errore da matita blu o rossa, o semplicemente un'espressione poco fluida non so certificarlo con sicurezza: mi baso molto più sull'orecchio che sulle grammatiche e anche un passaggio su Treccani non mi ha risolto il dubbio. Il mio orecchio però non la recepisce bene .",
+                "Ancora complimenti a Mirco per il bel racconto e un caro saluto a entrambi."
+            ],
+            "timestamp": "2019-12-19T17:38:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=807262"
         }
     ],
     "text": [
