@@ -58,7 +58,7 @@
     },
     "num_chars": 3111,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 805840,
@@ -93,6 +93,16 @@
             ],
             "timestamp": "2019-12-14T19:30:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=805960"
+        },
+        {
+            "post_id": 807102,
+            "text": [
+                "Ciao ,",
+                "grazie per l’attento commento. Mi stupisce un po’ che ci sia stata letta tutta questa drammaticità, scrivendolo ero lì a ridermela come una scema",
+                "Comunque è il bello dei racconti, a tutti comunicano cose diverse!"
+            ],
+            "timestamp": "2019-12-19T09:48:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45561-presenza-ingombrante//?do=findComment&comment=807102"
         }
     ],
     "post_staff": [
