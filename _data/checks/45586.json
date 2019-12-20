@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 806158,
@@ -135,6 +135,23 @@
             ],
             "timestamp": "2019-12-19T09:45:07Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807101"
+        },
+        {
+            "post_id": 807324,
+            "text": [
+                "Ciao , grazie del commento!",
+                "In effetti non mi viene spontaneo pensare a trame con più azione, a meno che io non scriva racconti per ragazzi. Ci pensavo leggendo il commento di , è una sfida che mi devo imporre. Grazie ancora"
+            ],
+            "timestamp": "2019-12-19T23:08:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807324"
+        },
+        {
+            "post_id": 807328,
+            "text": [
+                "grazie! ☺️"
+            ],
+            "timestamp": "2019-12-19T23:19:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807328"
         }
     ],
     "post_staff": [
