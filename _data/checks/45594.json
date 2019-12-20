@@ -56,7 +56,7 @@
     },
     "num_chars": 6212,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 806451,
@@ -84,6 +84,15 @@
             ],
             "timestamp": "2019-12-17T13:36:19Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=806711"
+        },
+        {
+            "post_id": 807523,
+            "text": [
+                "Un ringraziamento collettivo e ritardatario a e",
+                "grazie a tutti per il passaggio, l'apprezzamento e le considerazioni!"
+            ],
+            "timestamp": "2019-12-20T19:11:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45594-mi-132-allerta-rossa//?do=findComment&comment=807523"
         }
     ],
     "post_staff": [

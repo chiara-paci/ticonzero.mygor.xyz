@@ -52,7 +52,7 @@
     },
     "num_chars": 3243,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 806847,
@@ -69,6 +69,16 @@
             ],
             "timestamp": "2019-12-18T04:56:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45623-lettera-di-un-poeta-sconosciuto//?do=findComment&comment=806848"
+        },
+        {
+            "post_id": 807515,
+            "text": [
+                "È un frammento scritto di getto,",
+                "non sono stato attento alle correzioni, alla forma, al contenuto.",
+                "Ti ringrazio per essere stato sincero"
+            ],
+            "timestamp": "2019-12-20T18:37:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45623-lettera-di-un-poeta-sconosciuto//?do=findComment&comment=807515"
         }
     ],
     "post_staff": [],
