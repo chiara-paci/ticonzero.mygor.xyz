@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 26,
+    "num_posts": 30,
     "post_after": [
         {
             "post_id": 806158,
@@ -152,6 +152,25 @@
             ],
             "timestamp": "2019-12-19T23:19:12Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807328"
+        },
+        {
+            "post_id": 807516,
+            "text": [
+                "Ciao !",
+                "Grazie per la tua lettura così attenta. Non ti preoccupare, a me piace fare la vittima sacrificale 😂",
+                "Riguardo agli a capo: non mi piacciono i muri di parole, anche perché da lettrice faccio fatica a digerirli, quindi quando posso cerco di spezzare.",
+                "Però lei sente proprio l’odore, non il rumore"
+            ],
+            "timestamp": "2019-12-20T18:38:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807516"
+        },
+        {
+            "post_id": 807519,
+            "text": [
+                "Grazie !"
+            ],
+            "timestamp": "2019-12-20T18:39:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807519"
         }
     ],
     "post_staff": [
