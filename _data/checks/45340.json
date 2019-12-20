@@ -48,7 +48,7 @@
     },
     "num_chars": 385,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 802656,
@@ -70,6 +70,16 @@
             ],
             "timestamp": "2019-12-01T23:00:44Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza//?do=findComment&comment=803478"
+        },
+        {
+            "post_id": 807427,
+            "text": [
+                "Grazie per il tuo commento sincero.",
+                "Saluti,",
+                "Mirko"
+            ],
+            "timestamp": "2019-12-20T13:59:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45340-lp-6-mi-terrorizza//?do=findComment&comment=807427"
         }
     ],
     "post_staff": [

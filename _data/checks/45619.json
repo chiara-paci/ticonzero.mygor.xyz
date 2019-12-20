@@ -80,8 +80,18 @@
     },
     "num_chars": 240,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 807425,
+            "text": [
+                "In realtà era nelle mie intenzioni intendere \"sognavo\" come \"desideravo\", o \"Volevo\". Non si tratta dell'atto di sognare di notte. L'io lirico guarda al passato e riflette su ciò che è stato, quindi il tempo degli avvenimenti nelle due strofe è il medesimo.",
+                "Grazie dell'apprezzamento"
+            ],
+            "timestamp": "2019-12-20T13:55:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45619-window//?do=findComment&comment=807425"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Comment",
