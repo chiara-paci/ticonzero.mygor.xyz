@@ -1,0 +1,114 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Sostituirei \"tagliare\" con \"tagliano\" e anteporrei \"piccoli\" al sostantivo a cui si riferiscono. Ma è solo un appunto dettato dal mio gusto personale. Questa strofa è particolarmente suggestiva e oltretutto esprime con efficacia il senso della solitudine che campeggia a inizio componimento a caratteri cubitali. Le mura remote mi danno l'idea di un qualcosa di lontano e perduto, forse un ricordo. Un ricordo che soffoca e ingabbia: non a caso, le mura tagliano l'azzurro (il cielo, la serenità) in piccoli spazi chiusi. Costringono a uno stato di sofferenza e pena. Le parole da te scelte sono delicate e al contempo trasmettono una sensazione quasi claustrofobica. Di solitudine che incatena. Sei riuscito a trasmettere in modo cristallino questa sensazione.",
+                    "S",
+                    "i",
+                    "l",
+                    "e",
+                    "n",
+                    "z",
+                    "i",
+                    "o.",
+                    "Un luogo",
+                    "senza uscita",
+                    "senza voce.",
+                    "Pensieri neri.",
+                    "File",
+                    "in",
+                    "ter",
+                    "mi",
+                    "na",
+                    "bi",
+                    "li.",
+                    "Chiedere aiuto",
+                    "al niente.",
+                    "Bella l'immagine dei pensieri neri. Suggestiva e dark. Bella anche la scelta stilistica e grafica. Quelle file interminabili danno l'idea di una serie di pensieri che non finisce; interminabile, per l'appunto. Una matassa che non si riesce a districare. Un luogo senza uscita.",
+                    "A s p e t t a r e.",
+                    "Chi? Cosa?",
+                    "Una vendetta. Una coincidenza. Cadaveri al fiume. Occasioni. Sconti. Cadute. Esitazioni. Deficienti.",
+                    "Una vita che non arriva,",
+                    "mai facile,",
+                    "mai come,",
+                    "mai quando.",
+                    "Tu.",
+                    "Qui ritrovo, come nella tua precedente poesie, il senso dell'attesa. L'attesa di una vita migliore, un riscatto che sembra non arrivare. E questa vita migliore sembra includere anche una persona, come indica quel \"Tu\" alla fine della strofa. Persona, amore che non arriva, o che non decolla. Mi piace moltissimo il taglio vagamente sentimentale che assume qui la poesia.",
+                    "Su di una foto",
+                    "smorta",
+                    "i tuoi occhi",
+                    "sempre vivi.",
+                    "Due buchi neri",
+                    "dove cadere.",
+                    "E dopo la caduta,",
+                    "tornare a vivere.",
+                    "Bellissima chiusa. Gli occhi vivi nonostante la foto sia smorta, ingiallita. Come a indicare che il ricordo della persona amata è ancora vivido, come una ferita aperta, nonostante sia passato del tempo. I buchi neri in cui sprofondare danno il senso di quanto il dolore e il vuoto possano inghiottire. ma alla fine c'è la volontà di rialzarsi e reagire, tornando a vivere.",
+                    "Mi ha emozionato molto questa poesia, mi dà l'idea di qualcosa di molto viscerale, sanguigno e sofferto.",
+                    "Permettimi una battuta: potresti anche intitolarla \"buco nerio\" Ciao . Complimenti."
+                ]
+            ],
+            "timestamp": "2019-12-20T14:49:45Z",
+            "title": "Buco nero",
+            "url": "https://www.writersdream.org/forum/forums/topic/45649-buco-nero//?do=findComment&comment=807439",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 362,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento",
+        "Giornata di pioggia. Così cupa",
+        "che tocca pranzare a luce accesa.",
+        "Due bocconi. Un po' di zapping.",
+        "Metto rai uno",
+        "per il TG delle venti",
+        "ma mi sfugge che sono le dodici.",
+        "Sembra già sera",
+        "al lume della plafoniera.",
+        "Poi il mio sguardo",
+        "incrocia l'orologio",
+        "e ritrovo il filo perduto",
+        "mentre tu -",
+        "che mi stai accanto",
+        "provando a dare un nome",
+        "al tuo sentimento -",
+        "continui a cercarlo."
+    ],
+    "timestamp": "2019-12-20T14:55:50Z",
+    "title": "Il filo",
+    "topic_id": 45664,
+    "url": "https://www.writersdream.org/forum/forums/topic/45664-il-filo/"
+}

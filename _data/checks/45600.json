@@ -69,7 +69,7 @@
     },
     "num_chars": 8104,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 806649,
@@ -112,6 +112,14 @@
             ],
             "timestamp": "2019-12-19T14:40:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807190"
+        },
+        {
+            "post_id": 807467,
+            "text": [
+                ", grazie del passaggio. A quanto pare la \"storia\" è arrivata meno di quanto credevo mentre i dialoghi hanno avuto successo. OK, registro"
+            ],
+            "timestamp": "2019-12-20T16:29:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45600-mi-132-straordinaria-amministrazione//?do=findComment&comment=807467"
         }
     ],
     "post_staff": [

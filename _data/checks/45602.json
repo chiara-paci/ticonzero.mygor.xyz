@@ -47,7 +47,7 @@
     },
     "num_chars": 1852,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 806252,
@@ -94,6 +94,15 @@
             ],
             "timestamp": "2019-12-19T10:41:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=807110"
+        },
+        {
+            "post_id": 807462,
+            "text": [
+                "grazie infinite per il pollice in su",
+                "grazie, ognuno di voi ha colto uno o più aspetti del racconto. Sono davvero felice."
+            ],
+            "timestamp": "2019-12-20T16:13:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=807462"
         }
     ],
     "post_staff": [
