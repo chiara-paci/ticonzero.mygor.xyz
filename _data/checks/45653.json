@@ -45,7 +45,7 @@
     },
     "num_chars": 878,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 807612,
@@ -56,7 +56,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45653-sangue-nero//?do=findComment&comment=807612"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 807645,
+            "text": [
+                "benvenuto nel WD.",
+                "Invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso:"
+            ],
+            "timestamp": "2019-12-21T14:47:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45653-sangue-nero//?do=findComment&comment=807645"
+        }
+    ],
     "text": [
         "SANGUE NERO",
         "Togliti quella giacca di eternit,",

@@ -47,7 +47,7 @@
     },
     "num_chars": 1852,
     "num_commenti": 1,
-    "num_posts": 19,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 806252,
@@ -103,6 +103,14 @@
             ],
             "timestamp": "2019-12-20T16:13:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=807462"
+        },
+        {
+            "post_id": 807637,
+            "text": [
+                "grazie per esserti fermata a commentare e per avere apprezzato. Auguri di buone feste"
+            ],
+            "timestamp": "2019-12-21T14:18:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45602-mi-132-il-pappagallo-toledo//?do=findComment&comment=807637"
         }
     ],
     "post_staff": [

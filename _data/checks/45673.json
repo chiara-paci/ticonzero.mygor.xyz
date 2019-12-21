@@ -51,15 +51,74 @@
         "title": "Poesia",
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
-    "num_chars": 188,
+    "num_chars": 194,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 807632,
+            "text": [
+                "John Wayne (riveduta)",
+                "Ho vestito i panni di John Wayne",
+                "e messo in fila come bottiglie",
+                "i ricordi con te vissuti,",
+                "per frantumarli fino all'ultimo proiettile.",
+                "Ho sparato tutto il giorno.",
+                "Nessun colpo è andato a segno."
+            ],
+            "timestamp": "2019-12-21T13:36:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807632"
+        },
+        {
+            "post_id": 807648,
+            "text": [
+                "Grazie (anche il tuo nick mi piace tantissimo. Ma si pronuncia alla francese, anglarè?) Sì, sostituisci pure. Non mi disturbarti in pvt."
+            ],
+            "timestamp": "2019-12-21T15:11:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807648"
+        },
+        {
+            "post_id": 807649,
+            "text": [
+                "* Non volevo disturbarti in pvt."
+            ],
+            "timestamp": "2019-12-21T15:12:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807649"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 807643,
+            "text": [
+                "non si possono postare più versioni nella stessa discussione. Presumo che l'ultima sia quella corretta per cui se mi dai conferma la sostituisco alla prima . Per le prossime volte avvisami tramite MP e se possibile faccio direttamente la modifica."
+            ],
+            "timestamp": "2019-12-21T14:44:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807643"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 807653,
+            "text": [
+                "Grazie.",
+                "Certo, è francese. Il nome con cui Queneau chiamò Breton in un suo libro."
+            ],
+            "timestamp": "2019-12-21T15:17:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807653"
+        }
+    ],
     "text": [
         "Comment",
-        "Ho fatto come John Wayne:",
-        "ho messo in fila come bottiglie",
+        "Ho vestito i panni di John Wayne",
+        "e messo in fila come bottiglie",
         "i ricordi con te vissuti,",
         "per frantumarli fino all'ultimo proiettile.",
         "Ho sparato tutto il giorno.",

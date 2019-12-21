@@ -49,8 +49,30 @@
     },
     "num_chars": 6934,
     "num_commenti": 1,
-    "num_posts": 17,
-    "post_after": [],
+    "num_posts": 21,
+    "post_after": [
+        {
+            "post_id": 807638,
+            "text": [
+                "Grazie per averlo letto e sopportato",
+                "Lo so, ci penso sempre anch'io... Chi mi legge qui poi non ritrova la stessa \"roba\" nel romanzo. E vale anche per me. Sarà che il tempo passa, si cambia, si cerca di migliorare. Capace che il prossimo racconto farà schifo"
+            ],
+            "timestamp": "2019-12-21T14:24:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807638"
+        },
+        {
+            "post_id": 807640,
+            "text": [
+                "Faccio un ringraziamento globale, spero lo coglierete. Grazie per il tempo e i pareri.",
+                "Mi pare di aver capito che il gioco del pannolone non è piaciuto Come detto da",
+                "Spesso mi risulta difficile controllarmi, vedo delle immagini e penso \"bum, mi piace, la metto!\" quando invece sarebbe meglio frenare. Spero di riuscirci.",
+                "Il racconto l'ho scritto in mezz'ora più o meno, ed è stato un bel rush creativo. L'ho postato così come è nato, mi sono divertito.",
+                "Un abbraccio a tutti"
+            ],
+            "timestamp": "2019-12-21T14:31:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807640"
+        }
+    ],
     "post_staff": [
         {
             "author": {
@@ -93,6 +115,39 @@
             ],
             "timestamp": "2019-12-18T21:02:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807037"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 807642,
+            "text": [
+                "Boh, io ero in treno e ho riso come un pony, tipo: ihihihihihih!",
+                "Una signora accanto a me s’è spaventata e ha stretto la borsa tra le braccia.",
+                "Però io sono scemo, quindi forse è meglio se ti fidi degli altri e la togli."
+            ],
+            "timestamp": "2019-12-21T14:38:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807642"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 807652,
+            "text": [
+                "Ti dico la mia, perché comunque è bello confrontarsi su certe scelte.",
+                "Il punto non è se una cosa è forte o no.",
+                "O meglio, è anche quello, ma per motivi diversi.",
+                "Roba forte: vai su una nicchia, hai meno pubblico di base: tutto ciò che si può dire in modo \"estremo\" si può dire anche in altri modi, ovvio. Ma dirlo in modo estremo è una precisa scelta stilistica, e l'autore ha tutto il diritto di narrare ciò che vuole con lo stile che vuole. La balla che si debba scrivere per piacere a tutti è il male dello \"standard educativo\" dei tempi moderni. Su questo non ho dubbi. L'importante è che l'autore che estremizza lo faccia bene.",
+                "Il punto, in questo caso specifico (e se fossi il tuo editor) è un altro. Ti direi: i pannoloni pieni di merda in testa vanno benissimo, se mi scrivi tutto il racconto in uno stile gore estremo . Fammi vedere anche che se la spalmano addosso, fammi vedere che se la mangiano, questa merda. Ti direi. Avrai 2 lettori su 100 forse, ma vediamo di fare in modo che quei 2 su 100 si ricordino del tuo racconto come un piccolo gioiello.",
+                "Ma in un racconto di questo tipo, con questo stile e questo registro, quel pannolone stride e viene percepito come gratuito."
+            ],
+            "timestamp": "2019-12-21T15:16:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807652"
         }
     ],
     "text": [
