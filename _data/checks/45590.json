@@ -71,7 +71,7 @@
     },
     "num_chars": 7355,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 806157,
@@ -109,6 +109,14 @@
             ],
             "timestamp": "2019-12-20T12:37:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45590-mi-132-il-mare-dinverno//?do=findComment&comment=807399"
+        },
+        {
+            "post_id": 807633,
+            "text": [
+                ", grazie mille per essere passati e per il commento, sempre gradito . Un saluto, ci vediamo a Scrittopoli"
+            ],
+            "timestamp": "2019-12-21T13:43:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45590-mi-132-il-mare-dinverno//?do=findComment&comment=807633"
         }
     ],
     "post_staff": [

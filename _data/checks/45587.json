@@ -48,7 +48,7 @@
     },
     "num_chars": 7379,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 806574,
@@ -144,6 +144,22 @@
             ],
             "timestamp": "2019-12-17T09:00:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=806640"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 807628,
+            "text": [
+                "Date le premesse, mi ero pregustato un testo di natura differente da quello che poi si è rivelato. Un aspetto che si riscontra spesso nelle prime stesure di getto, in cui si parte in un modo e si conclude in un altro – anche quando l’idea è chiara in testa. Nel caso in questione è più una faccenda di tono. Sottoscrivo quanto detto dal buon Bango: con una partenza meno misteriosa, thirlleristica, il racconto avrebbe centrato meglio l’obiettivo.",
+                "I punti di forza? Una scrittura con la S maiuscola, capace di destreggiarsi con lessico, ritmo, dialoghi, pensieri e una certa impronta autoriale che dà solidità a tutto l’insieme.",
+                "Nonché un’idea bizzarra che porta la traccia sul terreno del grottesco e della follia.",
+                "Il nemici giurati del legno sono i tarli . Le tarme sono ugualmente fastidiose, ma se la prendono con altro."
+            ],
+            "timestamp": "2019-12-21T13:11:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45587-mi-132-memento-mori//?do=findComment&comment=807628"
         }
     ],
     "text": [

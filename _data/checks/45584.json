@@ -56,7 +56,7 @@
     },
     "num_chars": 1769,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 806909,
@@ -79,6 +79,15 @@
             ],
             "timestamp": "2019-12-18T23:33:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45584-le-bilance-poetiche//?do=findComment&comment=807060"
+        },
+        {
+            "post_id": 807622,
+            "text": [
+                "In realtà lo faccio (e anche nella vita, nel senso di impegno). Però la poesia deve precludersi qualcosa? Deve essere intimistica e, quando parla di territorio, deve farlo solo in termini di attaccamento alla terra?",
+                "Ps ora dovrò guardarmi quella serie accidenti e io non amo le serie, richiedono troppo 'impegno' diluito nel tempo. Però sono abbastanza nerd pure io."
+            ],
+            "timestamp": "2019-12-21T12:27:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45584-le-bilance-poetiche//?do=findComment&comment=807622"
         }
     ],
     "post_staff": [],
