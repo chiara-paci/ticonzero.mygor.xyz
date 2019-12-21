@@ -67,7 +67,7 @@
     },
     "num_chars": 5770,
     "num_commenti": 1,
-    "num_posts": 20,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 806349,
@@ -126,6 +126,16 @@
             ],
             "timestamp": "2019-12-18T07:12:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806853"
+        },
+        {
+            "post_id": 807587,
+            "text": [
+                "Grazie , consiglio accettato",
+                "Grazie per le parole di incoraggiamento",
+                "Grazie , credo proprio che lo sistemerò, mi ci sono affezionata"
+            ],
+            "timestamp": "2019-12-21T07:36:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=807587"
         }
     ],
     "post_staff": [
@@ -218,6 +228,21 @@
             ],
             "timestamp": "2019-12-18T07:12:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=806853"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 807587,
+            "text": [
+                "Grazie , consiglio accettato",
+                "Grazie per le parole di incoraggiamento",
+                "Grazie , credo proprio che lo sistemerò, mi ci sono affezionata"
+            ],
+            "timestamp": "2019-12-21T07:36:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=807587"
         }
     ],
     "text": [
