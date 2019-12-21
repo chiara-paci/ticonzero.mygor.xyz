@@ -108,7 +108,7 @@
     },
     "num_chars": 7887,
     "num_commenti": 2,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 806091,
@@ -157,6 +157,15 @@
             ],
             "timestamp": "2019-12-21T10:13:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807609"
+        },
+        {
+            "post_id": 807668,
+            "text": [
+                "Ciao Frank!",
+                "In effetti sì, tra le altre cose. Se dovessi mai rimettere mano al racconto ed editarlo, comunque, credo che seguirei il suggerimento di qualcuno e non inserirei la poesia nel finale, lasciando solo la citazione del nome dell'autore..."
+            ],
+            "timestamp": "2019-12-21T16:51:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807668"
         }
     ],
     "post_staff": [
@@ -270,6 +279,20 @@
             ],
             "timestamp": "2019-12-21T10:13:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807609"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 807668,
+            "text": [
+                "Ciao Frank!",
+                "In effetti sì, tra le altre cose. Se dovessi mai rimettere mano al racconto ed editarlo, comunque, credo che seguirei il suggerimento di qualcuno e non inserirei la poesia nel finale, lasciando solo la citazione del nome dell'autore..."
+            ],
+            "timestamp": "2019-12-21T16:51:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807668"
         }
     ],
     "text": [

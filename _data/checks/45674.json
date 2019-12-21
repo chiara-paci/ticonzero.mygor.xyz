@@ -1,0 +1,65 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 8474,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento",
+        "A bordo di un filo d'aria",
+        "Conobbi Vanessa in un’afosa sera estiva di qualche anno fa. Non pensiate a uscite mondane o cose simili. Rimanevo quasi sempre chiuso nel guscio della mia stanza, lasciando il mondo fuori dalla finestra. Poiché la finestra era spesso aperta, però, capitava che una piccola parte del mondo, a bordo di un filo d’aria, trovasse nel buio una via per entrare; a indicargliela, dal ripiano dello scrittoio accostato alla parete, la magnetica luce di una lampada. Fino a pochi centimetri da essa si avventurava, così, qualche falena, e attorno vi volteggiava come fosse ipnotizzata. Non c’era una volta che non distogliessi lo sguardo dal libro che stavo leggendo, o dai due versi provati a comporre su un foglio, per assistere a quel singolare spettacolo: una vera e propria danza, mossa da invincibile attrazione, che spesso terminava con una bruciatura d’ali e una caduta tanto rovinosa da arrestare qualsiasi risalita. Rappresentazione fedele di ciò che era stata, fino ad allora, la mia vita sentimentale.",
+        "A ogni disastroso epilogo provavo con un dito a pungolare la sventurata di turno, riversa al suolo. Puntualmente si rivelava inutile il tentativo di spronarla a riprendersi dal crollo, tanto profondo era il malessere che la affliggeva. Del resto, con incontenibile trasporto, e piroette mozzafiato, aveva risposto al richiamo di un fuoco fatuo che, dopo averla ammaliata, non si era fatto scrupolo di ridurla in cenere. Logico, quindi, che si sentisse devastata, oltre che nel corpo, anche nello spirito. E quando un essere è distrutto, qualunque esso sia, perde la voglia di risollevarsi da terra. Parlo con cognizione di causa.",
+        "Sera dopo sera la lampada continuava a essere il nucleo attorno al quale avevano luogo appassionate esibizioni che, a parte qualcuna caratterizzata da esito felice, contribuivano in gran numero a rimpolpare la già nutrita schiera di vittime.",
+        "Una volta decisi di prendere in mano la situazione. La falena dell’episodio in questione aveva appena cominciato a volteggiare, mantenendo dapprima un ponderato distacco dal vetro incandescente. Quando si ridusse la distanza di sicurezza portai il tasto di accensione in posizione Off per impedire che si consumasse l’ennesimo dramma. Due secondi di buio, e riaccesi. La falena stava ancora volteggiando, ma il passo era tornato a essere più dosato e trattenuto, e lo spazio idoneo a preservarla dalla fonte di calore appariva ripristinato.",
+        "Era bastato quel breve intervallo a permettere alla danzatrice di riacquistare l’autodisciplina necessaria a non esporsi troppo al rischio di una possibile scottatura, per quanto irresistibile fosse il fascino dello scintillio.",
+        "Come un accorto direttore artistico lasciai che l’esibizione proseguisse fino al momento in cui i passi tornarono a essere eseguiti senza un adeguato calcolo di distanza. A quel punto riportai il tasto in posizione Off per altri due secondi, poi riaccesi. L’opportuno margine di tutela si era già ristabilito e con maggior esercizio, e prove su prove, non venne più a mancare, rendendo superfluo un ulteriore mio intervento.",
+        "Raggiunti risultati soddisfacenti, congedai, accompagnandola verso il davanzale con un gesto, quella che ormai potevo definire una vera e propria allieva. Credo avesse messo in giro delle buone voci sul mio conto, perché dalla sera seguente mi vennero a fare visita due o tre falene per volta, interessate ad apprendere i fondamenti di una tecnica tanto prodigiosa.",
+        "Istituii, così, una vera e propria scuola in cui insegnavo alle mie discepole a non lasciarsi travolgere da deleteri slanci verso ciò che avrebbe potuto polverizzarle; in pratica, a non compiere i miei stessi errori.",
+        "L’iniziativa ebbe un successo clamoroso. Una sera, mentre ero nel bel mezzo di una lezione, fece il suo ingresso Vanessa. Non saprei dire per quale motivo le avessi appioppato il nome di una vecchia amica d’infanzia, una ragazzina piuttosto irrequieta. Forse perché, fin da subito, avevo letto nei suoi occhi che mi avrebbe dato parecchi grattacapi.",
+        "Nonostante il brutto presentimento la invitai a prendere posto sul bracciolo della poltrona, accanto alle sue compagne, e ad assistere con attenzione a ogni fase dell’addestramento. Già dal primo minuto mostrò una condotta tutt’altro che irreprensibile, disturbando le altre con un continuo bisbiglio di fondo. A un certo punto spiccò perfino il volo verso l’allieva che stavo esaminando e con le ali le diede uno spintone, facendole perdere la giusta rotta. In un battibaleno si creò il caos. Le falene abbandonarono le loro postazioni, spaventate dalla nuova arrivata ormai ritenuta una sobillatrice. Le inflissi una punizione esemplare, bandendola dalla classe.",
+        "Qualche giorno dopo, a sorpresa, si ripresentò sulla soglia della finestra. Sembrava davvero pentita del gesto compiuto. Consultandomi con le altre, decisi di concederle una seconda opportunità. Questa volta, durante la lezione non si udì alcun vociare che ne disturbasse il normale svolgimento. Tutto filò liscio fino a quando non giunse il momento di esaminare proprio lei. Vanessa.",
+        "Esordì con un po’ di giri attorno alla lampada, dapprima ben studiati, poi sempre più istintivi e prossimi a una scottatura. Nulla di nuovo, si potrebbe dire, se non fosse per il fatto che, spenta e riaccesa la luce, la situazione era rimasta la stessa. Vanessa stava continuando a vorticare seguendo solamente il proprio impulso, vicinissima alla fonte di calore. Ripetei l’operazione di spegnimento e accensione. Nulla era cambiato; le giravolte risultavano ancora prive del calcolo necessario a evitare un possibile e disastroso incidente di percorso. Com’era spiegabile? Avevo testato quel metodo su decine e decine di falene, e la reazione di tutte era stata quella da me sperata.",
+        "Il panico subentrò nella mia testa e nella stanza. Tra il vociare allarmato delle allieve mi sembrò di distinguere una parola: fiducia. Quella che, nei miei confronti, avevano perso. In seguito ne udii un’altra, più forte e cristallina. “Libera!”",
+        "Ad articolarla fu Vanessa, che aveva smesso di volteggiare e ora stava dando sfoggio di sorprendenti doti di linguaggio – non chiedetemi, vi prego, dove le avesse apprese.",
+        "“Libera!” replicò decisa. “Attorno a ciò che mi attrae voglio danzare libera. Con slancio pieno e spontaneo, senza imbrigliarlo in passi troppo controllati che indubbiamente mi risparmierebbero una possibile scottatura, negandomi, però, la ricchezza che si assapora soltanto vivendo ogni attimo fino in fondo, in modo genuino.”",
+        "Il tono vibrava della sicurezza tipica di chi è convinto di elargire perle di sapienza.",
+        "“E poi,” precisò, “per quanto effettivo sia il pericolo di rimanere scottata, chi l’ha detto che io debba per forza andare incontro a una simile batosta? Ti sarà pur capitato di notare che, fra le esibizioni lasciate al loro corso naturale, qualcuna, a volte, non si conclude affatto in modo pessimo!”",
+        "Ci fu un momento di silenzio, subito interrotto dall’ovazione delle altre falene che, estasiate dalla riflessione della pazza invasata, si misero a scuotere le ali come ad applaudirla.",
+        "“Bla bla bla”, obiettai contrariato. “Tutte banalità che non portano da nessuna parte.”",
+        "E, sospesa la lezione, le invitai a guadagnare l’uscita.",
+        "Vanessa fu l’ultima a lasciare la stanza. Il suo sfarfallio sulla mia spalla era paragonabile a una morbida carezza, donata in segno di comprensione. Ebbene sì. Aveva capito che in quegli insegnamenti, mirati a eludere cocenti ferite, riversavo gran parte del mio vissuto e delle mie paure.",
+        "Meditai una notte intera sulle parole da lei pronunciate, quell’attribuire così tanta importanza al darsi pienamente in ogni esperienza, a vantaggio di una crescita personale. Che argomentazioni stucchevoli! mi ripetevo nella mente. Eppure riconoscevo in esse un fondo di verità. Per questo il loro suono non si attenuava.",
+        "Soltanto un attimo prima di addormentarmi, accarezzato dalla timida luce dell’alba che già filtrava dalla persiana, riuscii ad ammetterlo: era stata proprio la più indisciplinata delle mie allieve a impartirmi una bella lezione.",
+        "Al risveglio presi coraggio e affissi all’ingresso della scuola il cartello di cessata attività; da allora, cominciai a uscire di casa con maggiore frequenza. E con il proposito, che ancora non ho perso, di vivere con più fervore le mie emozioni, senza soffocarne l’impeto in un eccesso di autodifesa. Del resto, come aveva sottolineato Vanessa, chi l’ha detto che io debba per forza andare incontro a una batosta?"
+    ],
+    "timestamp": "2019-12-21T17:17:16Z",
+    "title": "A bordo di un filo d'aria",
+    "topic_id": 45674,
+    "url": "https://www.writersdream.org/forum/forums/topic/45674-a-bordo-di-un-filo-daria/"
+}
