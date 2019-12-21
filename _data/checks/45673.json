@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Sostituirei anch'io \"inchinato\" con chinato. Mi sembra suoni meglio. L'immagine da te ricreata è molto malinconica. Delicata ma allo stesso tempo lacerante. L'idea che mi suscita è una situazione (concreta, o un sentimento) giunta al capolinea. Il mozzicone infatti è chinato ed è rimasta solo una voluta leggera, come un ultimo respiro condiviso. E poi nient'altro più da condividere. Mi sembra di vederlo quel mozzicone, con quel debole disegno di fumo, e immagino la stanza avvolta nel buio, un buio concreto e interiore.",
+                    "Nel vasetto non è rimasta",
+                    "la tanta cenere caduta:",
+                    "lontano l'ha sparsa il vento.",
+                    "Mi suggestiona l'ìdea di un ricordo così debole che nemmeno rimane, come questa cenere che il vento sparge per la stanza. Un'immagine bella, molto dolorosa. Soltanto non mi convince la parola vasetto.",
+                    "Con fastidio schiacciata,",
+                    "spenta con indifferenza,",
+                    "è già stata dimenticata.",
+                    "Corpo di donna vinto dal tempo.",
+                    "Tutto era così evanescente che è stato spento con indifferenza, e quasi dimenticato. Mi dà l'idea di un sentimento, un rapporto che non ha avuto lo spessore che avrebbe dovuto avere, e quindi si lascia dimenticare con un po' di rabbia e distacco.",
+                    "Lo stile di questa tua poesia è molto delicato, assume tinte pastello. I colori sono molto malinconici, in linea con l'immagine evocata. Negli occhi ho l'immagine di un salotto nella penombra. Tutta la poesia trasmette con efficacia un senso di fine ineluttabile, la sofferenza che ne deriva, ma anche la consapevolezza che quella situazione doveva essere portata a termine perché non più in grado di dare alcun frutto, proprio come la sigaretta che prima o poi finisce. Ma alla fine si intravede nel testo anche una sorta di reazione, un volersi lasciare tutto alle spalle. Un desiderio di rinascita."
+                ]
+            ],
+            "timestamp": "2019-12-21T10:01:42Z",
+            "title": "Sigaretta finita",
+            "url": "https://www.writersdream.org/forum/forums/topic/45625-sigaretta-finita//?do=findComment&comment=807606",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 188,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Comment",
+        "Ho fatto come John Wayne:",
+        "ho messo in fila come bottiglie",
+        "i ricordi con te vissuti,",
+        "per frantumarli fino all'ultimo proiettile.",
+        "Ho sparato tutto il giorno.",
+        "Nessun colpo è andato a segno."
+    ],
+    "timestamp": "2019-12-21T10:05:05Z",
+    "title": "John Wayne",
+    "topic_id": 45673,
+    "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne/"
+}

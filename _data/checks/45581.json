@@ -108,7 +108,7 @@
     },
     "num_chars": 7887,
     "num_commenti": 2,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 806091,
@@ -149,6 +149,14 @@
             ],
             "timestamp": "2019-12-16T22:32:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806591"
+        },
+        {
+            "post_id": 807609,
+            "text": [
+                "Grazie a tutti per le opinioni e i suggerimenti, mi avete dato molto su cui riflettere!"
+            ],
+            "timestamp": "2019-12-21T10:13:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807609"
         }
     ],
     "post_staff": [
@@ -249,6 +257,19 @@
             ],
             "timestamp": "2019-12-17T09:09:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=806642"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 807609,
+            "text": [
+                "Grazie a tutti per le opinioni e i suggerimenti, mi avete dato molto su cui riflettere!"
+            ],
+            "timestamp": "2019-12-21T10:13:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45581-mi-132-il-nuovo-esemplare//?do=findComment&comment=807609"
         }
     ],
     "text": [

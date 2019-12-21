@@ -45,8 +45,17 @@
     },
     "num_chars": 878,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 807612,
+            "text": [
+                "Grazie Roberto, sono contento che , in generale, ti piacciono le mie poesie. E' un lavoraccio, la poesia, che chi non fa non può comprendere."
+            ],
+            "timestamp": "2019-12-21T10:19:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45653-sangue-nero//?do=findComment&comment=807612"
+        }
+    ],
     "post_staff": [],
     "text": [
         "SANGUE NERO",
