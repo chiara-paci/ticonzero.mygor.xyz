@@ -49,7 +49,7 @@
     },
     "num_chars": 6934,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 807638,
@@ -71,6 +71,18 @@
             ],
             "timestamp": "2019-12-21T14:31:42Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807640"
+        },
+        {
+            "post_id": 807706,
+            "text": [
+                "i pareri anche da chi di solito non legge narrativa di genere sono i benvenuti (forse ancora di più), quindi non preoccuparti di apparire come persona troppo per bene",
+                "Per dire, anche io non leggo e non gradisco le storie ampollose, poetiche, romantiche, il cosidetto mainstrem, ma solo perché nella lettura e nella scrittura cerco altro. Questo non fa di me una persona priva di sentimenti. Magari cerco di esprimerli con la narrativa di genere, e sono consapevole che eccedere può portare a far storcere il naso, l'ho fatto anch'io leggendo il mio scrittore preferito quando ha esagerato volutamente per schifare il lettore, per il gusto di esagerare.",
+                "Sposo in toto le riflessioni di Bango.",
+                "Forse non mi è mai capitato, o non capitava da tanto il trovarmi degli utenti che ragionano sotto un mio racconto prendendolo come spunto per una più ampia analisi, è questo non può che essere utile e portare (si spera) a una crescita e maggiore consapevolezza da parte dell'autore.",
+                "Quindi grazie mille"
+            ],
+            "timestamp": "2019-12-21T19:01:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807706"
         }
     ],
     "post_staff": [
@@ -169,6 +181,36 @@
             ],
             "timestamp": "2019-12-21T17:34:41Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807684"
+        },
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 807695,
+            "text": [
+                "Ma è giusto che sia così, ci mancherebbe. A un autore consapevole \"il commento di pancia\" va benissimo comunque, proprio perché gli restituisce in modo \"puro\" quello che poi è il feedback ultimo del \"lettore in senso lato\"... zero problemi, davvero.",
+                "E di questo ne sono felicissimo, credimi"
+            ],
+            "timestamp": "2019-12-21T18:03:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807695"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 807699,
+            "text": [
+                "è un bel racconto, pieno di visioni folli a cui però si accosta la giusta vena di dolore, quella di uomini in bilico fra malattia e consapevolezza delle proprie condizioni.",
+                "La speranza affidata a un fantoccio mutilato di Gesù è emblematica di tutto. Un aspetto da non sottovalutare del racconto è che puoi leggerlo “da dentro” e “da fuori”. Da fuori puoi deridere quei poveracci, puoi compatirli, puoi inorridire o sbellicarti di fronte alla “corona imperiale” piena di escrementi.",
+                "Oppure puoi vedere con i loro occhi, e allora tutto può trovare la sua collocazione.",
+                "E non c’è nulla da ridere, né da compatire. Perché ciò che viene rappresentata qui, in fin dei conti, è l’essenza della condizione umana."
+            ],
+            "timestamp": "2019-12-21T18:31:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45596-mi-132-schizo-di-mare//?do=findComment&comment=807699"
         }
     ],
     "text": [

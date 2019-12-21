@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 30,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 806158,
@@ -213,6 +213,24 @@
             ],
             "timestamp": "2019-12-16T10:05:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=806312"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 807705,
+            "text": [
+                "Trovo efficace questo quadretto statico di una Venezia placida e al sicuro. Ci leggo il riflesso della condizione dell’uomo, nella misura in cui pace e calma piatta distruggono vitalità e inventiva. È un dato di fatto, al di là del giudicarlo un bene o un male, che l’essere umano ha dato e dà il meglio di sé sotto pressione, quando c’è una minaccia che incombe o una grande opportunità di guadagno all’orizzonte... insomma, quando lottare o non lottare, ingegnarsi o non ingegnarsi sono discriminanti fra il successo e il fallimento – o, per tirare in ballo emozioni più primordiali, fra la vita e la morte.",
+                "Il ritratto che questo testo fa di Venezia non sfugge al suddetto meccanismo: la stasi regna sovrana, tanto che per far muovere i protagonisti è necessario il ricordo lontano di un’anziana donna che non può vedere ciò che la sua casa è diventata.",
+                "Dal punto di vista della scrittura, mi è piaciuta la delicatezza della narrazione grazie a cui le tematiche messe in campo affiora soltanto, in modo fedele a quanto vene comunemente definito “show don’t tell”.",
+                "In un’eventuale revisione, soprattutto stilistica, consiglierei di rendere la forma più ricca, specie dove il testo ricorre alla “facile” soluzione del gerundio per costruire i periodi.",
+                "Complimenti.",
+                "Una nota curiosa a margine: quando ho pensato alla traccia, nei vari esercizi che ho fatto per sperimentare alcune implementazioni ho proprio pensato all’acqua alta di Venezia (anche se il primo pensiero è andato al Vecchio e il mare)."
+            ],
+            "timestamp": "2019-12-21T18:57:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807705"
         }
     ],
     "text": [

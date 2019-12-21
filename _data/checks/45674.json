@@ -13,12 +13,35 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
+        "valid": 0.5,
         "weight": false
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Stilisticamente impeccabile. Il registro utilizzato rifiuta inutili orpelli e metafore, ma è comunque estremamente curato nella sintassi e nel lessico. I periodi brevi rendono la lettura scorrevole. Il ritmo è sostenuto, come si confà per ogni racconto horror che si rispetti. Perché, del resto, anche se non sono presenti mostri o vampiri, questo testo è pieno di orrore. Un orrore concreto, reale umano. Per quanto il testo sia breve, i personaggi sono ben caratterizzati soprattutto dal punto di vista psicologico, più che fisico. Tangibile e ben delineata è il loro terrore quando iniziano ad accorgersi che qualcosa non va come dovrebbe andare. Claudio capisce che lui e i suoi colleghi sono costretti a lavorare in un modo tutt'altro che sicuro, ma nonostante questo prova a farsi forza, pensando al sorriso dei suoi figli quando rincaserà. Sembra di vedere quest'uomo che, pur di mantenere la sua famiglia, china la testa e si mette al lavoro.",
+                    "Ben delineato anche Domenico, sia nel suo spavento quando Gianni gli fa capire che si tratta di un lavoro piuttosto pesante, sia nel terrore che lo assale quando all'interno del condotto la situazione precipita. Ed è commovente che il suo pensiero voli alla sua famiglia, la quale non potrà percepire alcun risarcimento perché il lavoro è in nero.",
+                    "Hai tratteggiato con abilità anche il personaggio di Gianni, la sua risata sadica e sguaiata, con la testa reclinata, degna dei migliori film di Dario Argento.",
+                    "Le descrizioni della stiva sono davvero accurate, minuziose. Hai descritto nei dettagli anche le particolarità tecniche dell'operazione di pulitura. Sembra di avere davanti agli occhi lo scenario della nave e dei lavoratori all'opera.",
+                    "Hai descritto bene anche le condizioni poco sicure in cui essi vertono, e l'orrore che si intensifica a poco a poco. Vomito, topi... il ritmo incalza, come la tensione.",
+                    "Il finale non arriva del tutto inaspettato, ma non è un difetto: hai saputo costruire efficacemente l'impianto testuale per portare a poco a poco il lettore alla tragedia conclusiva, che lascia un nodo alla gola.",
+                    "Un brano toccante, che denuncia l'orrore umano. E lo espliciti chiaramente in un passaggio, in cui affermi che, pur di vincere un appalto in tempi record, chi è al potere non si fa alcun scrupolo di mettere a repentaglio la vita dei sottoposti, costretti a lavorare con strumenti inadeguati, abiti con buchi, condizioni pericolose e non sicure.",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2019-12-21T16:55:34Z",
+            "title": "[MI 121] Fiamme Blu",
+            "url": "https://www.writersdream.org/forum/forums/topic/41658-mi-121-fiamme-blu//?do=findComment&comment=807672",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -26,7 +49,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 8474,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
