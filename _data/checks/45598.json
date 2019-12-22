@@ -53,7 +53,7 @@
     },
     "num_chars": 8023,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 806805,
@@ -129,6 +129,22 @@
             ],
             "timestamp": "2019-12-16T10:50:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=806321"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 807860,
+            "text": [
+                "Un buon racconto, gestito molto bene fino all’ultima parte, in cui cambia di tono. Ottima l’idea di non svelare mai la natura dell’animale.",
+                "Davvero efficaci anche i dialoghi, grazie ai quali emerge una forte caratterizzazione dei personaggi, e in poche cartelle richiede abilità.",
+                "Se volessi revisionarlo, il mio suggerimento è quello di mantenere inalterata l’atmosfera fino alla fine, con disavventure meno rocambolesche di Sandro. Gli elementi per fargli succedere cose strane sul turno di lavoro stesso ci sono tutti, del resto. L’ho trovata un’accelerazione non adeguatamente giustificata, e finisce per non dare il giusto climax alla vicenda.",
+                "Certo che a Livorno avete animali proprio strani."
+            ],
+            "timestamp": "2019-12-22T13:34:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45598-mi-132-il-paccochilofano//?do=findComment&comment=807860"
         }
     ],
     "text": [
