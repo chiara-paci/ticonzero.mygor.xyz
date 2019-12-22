@@ -52,7 +52,7 @@
     },
     "num_chars": 7933,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 806150,
@@ -210,6 +210,21 @@
             ],
             "timestamp": "2019-12-16T18:50:04Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45589-mi-132-al-di-l%C3%A0-del-mare//?do=findComment&comment=806509"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 807724,
+            "text": [
+                "La storia presentata nel testo è commovente, e non nego di averla sentita dritta nelle viscere. C’è un soffermarsi su certi dettagli che mi hanno fatto percepire molto vera l’ambientazione e il personaggio. Non c’è alcun intento retorico che traspare, ed è un ulteriore aspetto che ho gradito davvero.",
+                "Dal punto di vista tecnico, trovo che il racconto soffra dell’effetto sinossi: appare come il progetto di qualcosa che poi andrebbe sviluppato. Perché non c’è drammatizzazione alcuna, neppure di una scena. Una scelta che paga in pochi casi, secondo me, e solo dove una voce autoriale forte commenta ciò che racconta. Ma non è questo il caso, perché il racconto si affida a un punto di vista e lo “riassume” con un linguaggio posato e calibrato.",
+                "Meglio affidarsi alla drammatizzazione, secondo me, specie dove il PoV è in gradi di “arrivare” così tanto alle corde più sensibile di chi legge."
+            ],
+            "timestamp": "2019-12-21T20:52:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45589-mi-132-al-di-l%C3%A0-del-mare//?do=findComment&comment=807724"
         }
     ],
     "text": [
