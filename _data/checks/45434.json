@@ -1,0 +1,141 @@
+{
+    "author": {
+        "author_id": 17729,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Vincenzo Iennaco",
+        "url": "https://www.writersdream.org/forum/profile/17729-vincenzo-iennaco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Sia il tipo di scarpa che il colore andrebbero senza maiuscola.",
+                    "Qui mi sembra ci sia una sfasatura coi tempi. Mi pare poco probabile che se il ritrovamento del corpo è avvenuto nelle prime ore del mattino compaia l'articolo di giornale, che sarebbe già in stampa.",
+                    "Manca il ?",
+                    "Se intendevi che l'accende per breve tempo penso che sarebbe meglio specificare, perché così sembra che ne calibri la quantità. Es: Accende l'aria condizionata per qualche minuto oppure Da un colpo d'aria condizionata per aerare...",
+                    "Anche qui riformulerei perché così sembra che la serratura si trovi dentro il locale.",
+                    "Qui invece manca una virgola dopo \"guida\".",
+                    "Ciao . Un racconto sull'etica stradale ma anche sul rimorso (e la coda di paglia del protagonista). Secondo il mio modesto parere lo hai sviluppato bene, instillando nel protagonista e nel lettore quella giusta dose di dubbio che propende a far credere nella sua colpevolezza, mentre invece le ultime battute svelano la verità. Però sarebbe potuto benissimo essere stato lui, così come io o te o qualunque altro. Ma il mandante, almeno, è quasi sempre la distrazione, quell'attimo che è niente ma diviene fatale. Difatti trovo apprezzabile che tu non abbia tirato in ballo alcol o fumo, ma ti sia tenuta su un registro meramente umano, privo di contaminazioni. Al di là della guida in stato alterato da alcol e fumo (che personalmente considero criminali) quello dell'attenzione dovrebbe essere un tasto su cui battere quotidianamente, con tutte le fonti tecnologiche che ormai concorrono a strapparci lo sguardo dalla strada anche solo per quell'istante fatidico.",
+                    "L'unica cosa che non ho capito, o afferrato del tutto, è quell'intermezzo della scala, che mi risulta in sospeso. Cioè, se l'hai inserito credo che per te abbia una sua funzionalità al racconto, ma che io non ho colto. Perché quella scala ha calamitato l'interesse del protagonista? Forse che gli abbia suggestionato inconsciamente un segno premonitore o qualcosa di scaramantico? Secondo me, inserendo questo elemento avresti dovuto riprenderlo e richiamarlo alla mente del protagonista così da poter esplicare il proprio turbamento a quella visione.",
+                    "In conclusione, l'ho apprezzato perché è uno di quei racconti che ti portano a riflettere e ringraziare la clemenza di tutti quei minimali attimi di distrazione che ci siamo concessi e fortunatamente non ci hanno cambiato la vita."
+                ]
+            ],
+            "timestamp": "2019-12-01T20:08:04Z",
+            "title": "Colpevole?",
+            "url": "https://www.writersdream.org/forum/forums/topic/45396-colpevole//?do=findComment&comment=803435",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3863,
+    "num_commenti": 1,
+    "num_posts": 18,
+    "post_after": [
+        {
+            "post_id": 803639,
+            "text": [
+                "Grazie per aver lasciato un commento nonostante vi abbia disorientati.",
+                "No. Metempsicosi è il primo termine che mi è venuto in mente e il racconto avrei voluto intitolarlo Metempsycho. Però sono andato a leggere bene la definizione sul dizionario, se potesse riferirsi in senso lato anche solo a una parte della persona. Ma no, l'ho scartata proprio perché non volevo dar adito a nessuna reincarnazione. Ho usato allora trasmigrazione perché può assumere anche un senso figurato, seppur usato più raramente (es: una qualità trasmigrata da padre a figlio). Ammetto però una mia pigrizia a cercare un titolo migliore e meno fuorviante.",
+                "La storia in sè è semplice (da spiegare):",
+                "sul lettino c'è la donna A, nella gabbietta alla parete c'è il topo B;",
+                "sul lettino c'è la mente di B, nella gabbietta la mente di A.",
+                "Facciadigatto (così lo vede la donna con la mente di B) è il veterinario Lezzi, dove ha portato il suo gatto Robespierre. Il Lezzi, come dopolavoro, conduce in segreto esperimenti sulla psiche animale."
+            ],
+            "timestamp": "2019-12-02T19:06:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803639"
+        },
+        {
+            "post_id": 803658,
+            "text": [
+                "Grazie.",
+                "grazie per avermi instillato il dubbio pure a me. Non sono del tutto sicuro di poterlo dirimere, ma suona meglio anche a me. D'altronde, se giriamo la frase al gerundio sarebbe \"è come se stesse attraversando\", mentre come l'ho declinato io darebbe \"è come se stia attraversando\"."
+            ],
+            "timestamp": "2019-12-02T20:58:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803658"
+        },
+        {
+            "post_id": 803668,
+            "text": [
+                "No problem. Certe volte passerei anche termini come diuretico o lassativo.",
+                "Grazie del commento."
+            ],
+            "timestamp": "2019-12-02T21:52:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803668"
+        },
+        {
+            "post_id": 803846,
+            "text": [
+                "Grazie."
+            ],
+            "timestamp": "2019-12-03T19:45:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=803846"
+        },
+        {
+            "post_id": 804151,
+            "text": [
+                "Grazie del passaggio.",
+                "Bella domanda, perché sinceramente io non me la sono posta. Non per mancanza di riguardo verso il lettore, ma in primis perché la mia pigrizia mi ha fatto ritenere sufficenti tutti gli elementi dati: la donna sul lettino, la cavia nella gabbietta, i macchinari e far dire al doctor che l'esperimento è riuscito. Ma mi rendo conto di essermi fermato al senno dell'io so.",
+                "no, mi sono semplicemente imbrogliato da solo con lo sdoppiamento di topo e donna.",
+                "sì, io mi sono figurato che l'avesse addormentata col cloroformio quando è andata allo studio veterinario. Ho perciò sommato l'intontimento da anestetico alla nuova forma mentis topesca."
+            ],
+            "timestamp": "2019-12-05T13:03:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=804151"
+        },
+        {
+            "post_id": 804250,
+            "text": [
+                "Grazie.",
+                "Può darsi. Sicuramente a livello inconscio qualcosa ci dev'essere, perché anche nella lettura ultimamente mi urta il gran dispendio di parole."
+            ],
+            "timestamp": "2019-12-06T07:33:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione//?do=findComment&comment=804250"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di mezzanotte - Risveglio",
+        "Una luna gialla splende alta sulla notte scura. La piazza è deserta, tutt'attorno una teoria di buie aperture: porte, finestre, androni. Freddo, sento molto freddo... e mi scopro nuda. E sola, al centro di questa piazza. I sampietrini hanno un sobbalzo sotto i piedi, è come se una grossa talpa attraversi la piazza sottoterra. Vacillo per un istante. I blocchetti si alzano e riabbassano, cozzano tra loro, un batter di denti echeggia dietro la scia di pietre smosse.",
+        "«Svegliati» sussurra un vento agliato. Un brivido mi scuote, io odio l'aglio.",
+        "La luna tremola in cielo, una grossa lacrima gialla si allunga e si allunga, sempre più, è quasi sopra la mia testa, cremosa e profumata. L'annuso, tiro fuori la lingua a saggiarla. Mmm, emmental! Ora la piazza è illuminata dalla luce chiara e gialla della luna; porte, finestre e androni si rivelano semplici cavità vuote. La piazza è un immenso groviera. Wow, da sballo...",
+        "Un acquazzone improvviso rompe l'idillio e Serina Invernizzio è travolta in pieno dalla secchiata d'acqua gelida e limacciosa che Facciadigatto gli getta sul volto.",
+        "Serina annaspa e tossisce, sputa foglioline e aghi di pino che condivano l'acqua piovana del secchio. Quando emerge dall'iniziale smarrimento si scopre legata a una rete brunita dalla ruggine, spesse cinghie di cuoio le mordono braccia e gambe.",
+        "Facciadigatto le sta sorridendo da sotto le vibrisse folte e rossicce: «Ben svegliata, topolina», le soffia addosso, l'alito speziato di aglio.",
+        "[Dove mi trovo? Cos'è questo posto? Chi è quel tizio in camice? Che sta facendo?] Serina è confusa, un senso d'oppressione alla testa. Sente il cervello come dilatarsi, premere alle pareti del cranio. Poi una contrazione, una sorta di risucchio che avverte quasi sonoramente, le orecchie si tappano, il mondo si attutisce in un ronzio di fondo, persistente e fastidioso; i contorni delle cose si smarginano, si dilatano: il tizio in camice bianco si slunga e scioglie in una forma di brie, il secchio ai suoi piedi si assottiglia in un tondo di roquefort. [Ahia, la testa!].",
+        "Facciadigatto sta armeggiando ai macchinari del suo laboratorio segreto.",
+        "«È proprio una fortuna aver trovato questo cascinale abbandonato, non trovi, topina mia?»",
+        "Serina non comprende cosa stia dicendo, si guarda intorno con scatti convulsi del capo. Destra, sinistra, ancora destra. Quella tana le appare immensa, piena di scatole metalliche e tubi intricati. Il pavimento è disseminato di secchi che raccolgono l'acqua piovana che filtra dalle tegole dissestate sul soffitto. Allungando lo sguardo un po' oltre Serina nota il tavolo alla parete con la gabbietta adagiata sopra.",
+        "“Squiiit! Squiiit!” riesce soltanto a dire.",
+        "Il topolino bianco si affaccia intimorito dalla gabbietta, arriccia il musetto ad annusare l'ambiente e la paura. [Ma che ci faccio su quel lettino? Che sta facendo quello lì?]. Facciadigatto si china ai piedi del lettino. Alla gabbietta ai piedi del lettino. [Ma quello è Robespierre! Che vuoi fare tu col mio gatto? Ma sì, ora ricordo. Lo stavo portando dal veterinario, dal dottor Lezzi e... e... e poi non ricordo più niente]. Facciadigatto tira fuori Robespierre dalla gabbietta, lo tiene tra le braccia e si volta verso il topolino bianco. [MACCHECAZ... QUELLO È IL DOTTOR LEZZI].",
+        "Il topolino s'inquieta nella gabbia, zampetta malfermo in tondo, si avventa sulle sbarre a testa bassa. E sbatte. Una, due, tre volte... E ancora... E ancora.",
+        "Facciadigatto, del tutto soddisfatto di quel primo esito dell'esperimento, si volta allora verso la donna sul lettino.",
+        "«Allora, signora Invernizzio! Ecco qui il suo Robespierre bello in salute».",
+        "La donna sul lettino si dimena violentemente, uno squittio le deforma la bocca, gli schiocchi delle ossa che si spezzano nella morsa inesorabile delle cinghie.",
+        "«Sì, direi che possiamo ritenerci soddisfatti. Nevvero, Robespierre?»."
+    ],
+    "timestamp": "2019-12-01T20:40:39Z",
+    "title": "[MI 131] Trasmigrazione",
+    "topic_id": 45434,
+    "url": "https://www.writersdream.org/forum/forums/topic/45434-mi-131-trasmigrazione/"
+}

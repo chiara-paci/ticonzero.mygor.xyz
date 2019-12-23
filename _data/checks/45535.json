@@ -1,0 +1,201 @@
+{
+    "author": {
+        "author_id": 35020,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 2,
+            "poesia": 0
+        },
+        "name": "Almissima",
+        "url": "https://www.writersdream.org/forum/profile/35020-almissima/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8088888888888889,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4111111111111111
+            },
+            "text": [
+                [
+                    "Ho dovuto leggere il racconto due volte per cogliere il nocciolo della questione, anche se il titolo, azzecatissimo, mi avrebbe dovuto indirizzare bene.",
+                    "Mentre le descrizioni della paura del \"mancare il corridoio\", dei sentimenti provati per Aurora, sono chiare e belle, si fa difficoltá a capire che il dialogo iniziale in realtá é un monologo interiore, forse col padre defunto.",
+                    "L'idea mi piace molto, peró, a mio personalissimo e sindacabilissimo avviso, manca di sale."
+                ]
+            ],
+            "timestamp": "2019-12-10T09:58:21Z",
+            "title": "Schizofonia",
+            "url": "https://www.writersdream.org/forum/forums/topic/45528-schizofonia//?do=findComment&comment=805014",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.6177777777777778
+            },
+            "text": [
+                [
+                    "Bella idea, bel racconto, si legge tutto d'un fiato incuriositi da Valbert, e mentre si legge ci si rende conto di essere alla mercé dello scrittore il cui compito pare sia menar per il naso il lettore. Non avrei pensato di dover pretendere lealtá dallo scrittore.",
+                    "Mi piace molto il cambio di atmosfera che di colpo diviene inquietante, che rende il lettore \"vittima\" dello scrittore.",
+                    "Avrei alleggerito un pochino le frasi, che alle volte sembrano troppo lunghe per sostenere il ritmo giocoso e dispettoso di questo racconto.",
+                    "Ma la parte migliore é il finale, equilibrato e sospeso, che sazia il lettore lasciandogli peró l'appetito per qualche parola in piú."
+                ]
+            ],
+            "timestamp": "2019-12-10T10:14:30Z",
+            "title": "Valbert",
+            "url": "https://www.writersdream.org/forum/forums/topic/45530-valbert//?do=findComment&comment=805023",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Folgorabile, se non ti dispiace vorrei fare con il tuo racconto, che molto mi é piaciuto, il mio esercizio di \"critica letteraria\" per imparare a conformarmi a questo forum.",
+                    "Ho trovato l'incipit molto originale e mi ha dato l'idea di essere negli anni 70 del secolo scorso quando ancora imperversavano le Kodak Instamatic e cosí mi sono immaginsta anche l'aula del tribunale, polverosa e consumata. In modo particolare mi ha toccato il \"calare le grigie palpebre\" che tanto mi ricorda una poesia di Magrelli.",
+                    "Trovo peró che questo sia solo l'inizio di una storia ben piú lunga, dato che pare chiaro che Marcellus non sia stato a Cesenatico e si capisce benissimo che ha qualcosa da nascondere, il suo essere losco traspare subito. Peccato che i due gemelli in uno non godano di tanta credibilitá quando lo accusano di essere lo spacciatore, indizio che ci sia una storia molto piú complessa ad aspettarci.",
+                    "La figura dei gemelli in uno sembra una vecchia cartolina tridimesionale, se li guardi da una parte é una sola persona che monologa fra sé, se li guardi dall'altra si moltiplicano le teste e gli arti senza mai capire bene come siano fatti. La trovo una grande invenzione che porterei fino alla fine (della storia che ancora non c'é) senza mai rivelare davvero come stanno le cose.",
+                    "Insomma é una storia surreale, divertente, interessante, promette grandi sorprese.",
+                    "I personaggi sono ben caratterizzati e i dialoghi hanno un buon ritmo e fluiscono bene.",
+                    "La signora Pina, che é il mio alter ego, dice che é un racconto bella, scorrevole e avvincente, ma lascia insoddisfatti perché quei personaggi avrebbero ancora parecchio da dire e da fare."
+                ]
+            ],
+            "timestamp": "2019-12-10T15:36:02Z",
+            "title": "I gemelli siamesi ElleryQueffe. Processo e condanna.",
+            "url": "https://www.writersdream.org/forum/forums/topic/45430-i-gemelli-siamesi-elleryqueffe-processo-e-condanna//?do=findComment&comment=805117",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 4,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 12138,
+    "num_commenti": 3,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 805706,
+            "text": [
+                "Adelaide, grazie mille! Non mi sarei mai aspettata un commento così positivo. 😁"
+            ],
+            "timestamp": "2019-12-13T16:46:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45535-alma//?do=findComment&comment=805706"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9751,
+                "name": "Niko",
+                "url": "https://www.writersdream.org/forum/profile/9751-niko/"
+            },
+            "post_id": 805055,
+            "text": [
+                "Ciao,",
+                "Purtroppo i tuoi commenti non sono sufficienti per pubblicare un racconto lungo. Ti consiglio di leggere con attenzione il regolamento di sezione (lo inserisco qui sotto come link) e di seguire lo schema proposto per i commenti. Col tempo imparerai a farne di approfonditi senza nemmeno guardare quello schema, che serve solo a prenderci la mano.",
+                "Quando avrai commenti validi, puoi segnalarli a qualsiasi membro dello Staff online via messaggistica privata.",
+                "Chiudo."
+            ],
+            "timestamp": "2019-12-10T10:52:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45535-alma//?do=findComment&comment=805055"
+        },
+        {
+            "author": {
+                "author_id": 9751,
+                "name": "Niko",
+                "url": "https://www.writersdream.org/forum/profile/9751-niko/"
+            },
+            "post_id": 805155,
+            "text": [
+                "l'utente ha dimostrato di impegnarsi per crescere e commentare sempre meglio. Confido che in futuro riuscirà a fare ancora di più"
+            ],
+            "timestamp": "2019-12-10T18:23:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45535-alma//?do=findComment&comment=805155"
+        }
+    ],
+    "text": [
+        "Era una notte buia e tempestosa… e io sono il barone rosso seduto sul tettuccio di una cuccia per cani.",
+        "Invece sono qui fuori al freddo e guardo fisso la finestra illuminata della baita davanti a me. Nemmeno sanno che sono qui e nessuno sa che spio.",
+        "Spio le volute di fumo che si alzano verso il cielo, le tendine rosse leggermente scostate, le ombre dentro alla stanza, la legna impilata lungo il muro esterno, la porta che non si apre dalle quattro di oggi pomeriggio. E dire che adesso sono le sei passate.",
+        "Ho le mani congelate, il thermos col tè l’ho finito da un pezzo e non capisco come mi sia potuto venire in mente di fare quello che sto facendo in pieno inverno.",
+        "Ma cosa sto facendo esattamente qui sdraiata nella neve?",
+        "Mi sembrava un’ottima idea quella di venire alla baita per prima, trovarmi un bel posticino protetto e stare a guardare, anche se aveva appena nevicato. Avevo osservato che i cerbiatti d’inverno si mettono sotto ai rami bassi degli abeti, lì dove si formano delle fosse che offrono protezione; ai cerbiatti, appunto, non alle cinquantenni sventate che si credono particolarmente furbe.",
+        "Oltretutto mi ero anche comprata delle ciaspole nuove, quelle tecnologiche, per camminare sulla neve, convinta che non solo sarei arrivata fresca come una rosa alla mia postazione scelta con così tanta cura, ma sarebbe stato anche un buon allenamento per i miei quarti posteriori che stavano miseramente cedendo. Non avevo, però, preso in considerazione la fatica, il sudore, il dolore alle braccia e alle gambe; d’inverno il paese sembrava tanto più lontano. Quando ero arrivata mi ero lasciata cadere esausta nella neve soffice, felice di avere lo zaino pieno di provviste, di sentirmi protetta.",
+        "Invece nonostante la tuta, gli strati di pile e la coperta isotermica, il sudore mi si era gelato addosso. Così mi è toccato camminare piano in tondo per mantenere la temperatura finché mi sono asciugata.",
+        "Adesso sono qui a sentire il vento che fruscia fra i rami, i blocchi di neve che cadono dagli alberi, a contare le stelle, se solo sporgo un po’ la testa, e ad annusare questo meraviglioso, fantastico odore di legno bruciato, che promette il caldo di cui io non godrò.",
+        "Si allarga uno spicchio di luce. È lei che apre la porta, si sposta per far passare lui che con una cassetta va a prendere altra legna. Finiranno arrosto se continuano a scaldare così, con quei bei maglioni svedesi con i fiocchi di neve enormi.",
+        "Una volta ho provato a farne uno grigio e blu, molto elegante. Sono arrivata a metà della schiena che avevo un garbuglio di gomitoli. Ho dato tutto alla perpetua, che l’ha finito e adesso gira col mio maglione dei sogni.",
+        "Lei è proprio bella, ma insignificante. E lui, non ho parole per descriverlo. L’eloquenza di una patata fuori stagione, l’aspetto ordinario con la panzetta di chi prova a controllarsi, ma fallisce all’ultimo.",
+        "Certo, io non dovrei nemmeno permettermi di criticare, visto che tutta la mia persona pare concentrarsi attorno all’ombelico. È pur vero che un bel balcone distrae da questa circostanza, ma ciò non toglie che questa sia la realtà dei fatti.",
+        "Tornano dentro con tutta la loro legna, e lui la bacia pure mentre oltrepassa la soglia.",
+        "Ma dico io, non è che penseranno di togliersi i maglioni e anche tutto il resto già adesso?",
+        "Mi rigiro sulla schiena e guardo il cielo mentre mangio una barretta dietetica, consapevole del fatto che sono come lui, incapace di controllarmi fino alla fine. Ma sono anche un po’ come lei, ma solo dentro, perché se perdessi quei venti trenta chili, sarei meglio, ma molto meglio. Lui si perderebbe solo a vedermi e io potrei rifiutarlo con eleganza e passare al prossimo.",
+        "Peccato che io non possa passare al prossimo, perché nemmeno il primo c’è stato.",
+        "Non che sia colpa mia, avendo cinque fratelli è toccato a me curare mia mamma. Certo, loro hanno contribuito economicamente, ma nessuno di loro mi ha sostituito nemmeno un giorno, nemmeno un giorno di ferie o una serata. A parte il fatto che la mamma non avrebbe tollerato che io uscissi alla sera. A casa si stava meglio, secondo lei, la TV meglio di un cinema, i pasti meglio che al ristorante, tanto cucinavo io. Del resto, dovevo pur far qualcosa per svagarmi, per passare più tempo possibile al supermercato alla ricerca di ingredienti esotici per far schiattare di invidia tutte quelle malefiche beghine che mi guardavano con compassione, perché loro una famiglia ce l’avevano. Le sentivo, o forse lo immaginavo solo, come, con una mano davanti alla bocca, mormoravano “Poverina, probabilmente è ancora vergine, e dire che era una gran bella ragazza. Tutta colpa della madre.”",
+        "Stronze!",
+        "Stronze, ma avevano ragione!",
+        "Mia madre, quella megera, rimasta vedova giovane, quando mio padre è morto sotto a un albero nei boschi, ci ha allevato con pugno di ferro. Il più grande all’università, adesso è ingegnere a Milano, che nemmeno so com’è fatta. Il secondo ragioniere, che lavora agli impianti di risalita. Il terzo geometra con il suo posticino in comune. Il quarto elettricista che ne servono sempre e il quinto boscaiolo come papà; e io, l’ultima, “non c’è bisogno che studi, bella come sei”. Così dopo le medie, due anni di segretaria di azienda e “finché trovi lavoro, stai dalla mamma e le dai una mano”.",
+        "Ho assistito a cinque matrimoni, sempre con lo stesso abito, sempre allo stesso posto. Sono stata invitata a otto battesimi, sempre con lo stesso vestito, sempre allo stesso posto, mai come madrina. E ogni volta sono tornata a casa con mia madre.",
+        "Al matrimonio del terzo c’era un amico della sposa, al quale avevo fatto fatica a spiegare che non potevo dargli il mio numero di telefono, per il semplice fatto che un telefono non ce l’avevo. Ma lui mi chiedeva, un po’ sbronzo “ma allora devo baciarti adesso, altrimenti come ti ritrovo”. Mi ricordo che il cuore mi batteva forte all’idea di essere baciata, le sue labbra sulle mie, forse anche la sua lingua nella mia bocca, come mi dicevano le mie amiche ormai sposate da un pezzo. Lo guardavo e non sapevo decidermi se mi piaceva o meno, ma pensavo che vivendo nell’ultima baita prima del ghiaione a duemila e passa metri, non mi sarebbe mai più capitata l’occasione di baciare qualcuno. Mi chiedevo se la lingua fosse ruvida come quella dei gatti o morbida come la mia, se il sapore che avrebbe prevalso, sarebbe stato quello della birra, con cui aveva esagerato oppure dell’ultimo Jägermeister che aveva bevuto; forse ci sarebbe stata anche una nota di tabacco. Così quando mi ha preso la mano, con passo incerto, per portarmi dietro al tendone di velluto della sala parrocchiale, mentre io mi ripetevo che sarà romantico come nei film americani, e mi umettavo le labbra, terrorizzata all’idea di rimanere appiccicata a lui a causa delle labbra secche, mia madre mi ha raggiunto per salvarmi da quel molestatore ubriaco. Ma non mi stava molestando, era il mio principe azzurro per una sera.",
+        "“Non devi buttarti via così”",
+        "Non c’era assolutamente nulla da buttare, avevo già 25 anni, non avevo mai baciato un uomo, e nessun uomo sobrio mi aveva mai guardato due volte.",
+        "“Devi aspettare quello giusto!”",
+        "Volevo giusto chiederle dove fosse la fermata di quelli giusti, la fermata con la panchina dove potevo sedermi ad aspettare, perché davanti a casa, ai piedi delle pareti di roccia, di certo non sarebbe passato nessuno, né giusto, né sbagliato.",
+        "Ma con la mamma era inutile discutere.",
+        "Negli anni ne parlai col parroco, anzi con i parroci, visto che nel mentre, nel paesino a due ore a piedi da noi, ne erano passati tre. E tutti e tre mi dicevano di avere fede, che sarei stata ricompensata, che il mio compito era quello di seguire mia madre, che aveva una salute di ferro, che l’amore sarebbe arrivato e che anche questa era una forma d’amore, forse la più sublime, la più disinteressata.",
+        "Ma vaffanculo, ho pensato, vaffanculo a voi, ai miei fratelli e a tutto il mondo.",
+        "Finché un giorno la salute della mamma ha mostrato i primi segni di cedimento. Era confusa, non sapeva più bene dove si trovasse, malediceva mio padre che l’aveva obbligata a vivere isolata ai confini del cielo, era disorientata, rancorosa e mi diceva in faccia la sua verità.",
+        "“Non saprai mai cos’è l’amore, perché l’amore non esiste, men che meno per te!”",
+        "Sono andata a parlare coi miei fratelli in paese, ho scritto al fratello di Milano. Mi sembrava importante mettere la mamma in casa di riposo, mi sembrava una buona soluzione, avrei potuto vivere da sola, in pace, capire se davvero l’amore non avesse ragione di esistere. Invece loro no.",
+        "“Non puoi portare via la mamma da tutto ciò che conosce, ne morirebbe. Ti mandiamo tutti i mesi i soldi per vivere, e continueremo per sempre, ma la mamma deve stare a casa sua fino alla fine”",
+        "Già.",
+        "Bene.",
+        "Col passare del tempo diventava anche volgare.",
+        "“Tu non lo sai, ma noi donne siamo qui solo per fare da svuotapalle ai maschi. Io ti ho salvato, non avresti fatto altro che partorire, per poi essere lasciata sola ad allevare altri maschi che cercano altre svuotapalle e allevarne altre ancora e ancora e ancora e ancora…”",
+        "Era proprio matta, me lo ha confermato anche il medico in paese.",
+        "“Fisicamente sta una meraviglia, è la mente che cede, capita ai vecchi. Ma per fortuna di questo non si muore, la tua mamma ce l’avrai ancora per anni!”",
+        "Non sapeva di cosa parlava, o forse si, ed era solo un bastardo ipocrita.",
+        "Così ho preso l’abitudine di lasciare la porta aperta quando andavo a fare la legna nel bosco e lei mi inseguiva urlando.",
+        "“Non ti permetterò di buttare via la tua vita così, non ti lascio andare a far la puttana in paese! Ascoltami, gli uomini sono tutti porci e tu non ne devi vedere, mai!”",
+        "Mi affrettavo per i sentieri e dopo un po’ lei tornava a casa in silenzio. Ma ogni volta mi seguiva un pochino di più, e di quando in quando la ritrovavo nel bosco smarrita incapace di tornare a casa.",
+        "Finché un giorno sono andata nel bosco al limitare del precipizio, e lei mi seguiva strepitando. Avevo una giacca rossa e sapevo che lei mi poteva vedere. Camminavo veloce, ma non troppo, così che potesse continuare a vedermi. A pochi metri dall’orlo del burrone mi sono levata la giacca sparendo dietro a un albero.",
+        "Quando è arrivata sul bordo si è ammutolita. Sembrava rinsavita di colpo",
+        "“Alma! Alma!” chiamava “Alma, dove sei!” la paura.",
+        "“Sono qui dietro di te” pensavo, ma mi guardavo bene dall’aprire bocca, volevo vedere cosa sarebbe successo.",
+        "“Alma! Alma! Dove sei! Vieni fuori! Scherzavo, l’amore esiste e anche tu lo troverai, farai dei bei bambini come i tuoi fratelli e io te li terrò!” dolce come il miele avariato.",
+        "Come no.",
+        "“Alma! Non vedo più la casa! Alma, vieni subito! Non fare la zoccola, vieni fuori subito! Sei puttana anche se non ti ha mai scopato nessuno! E se non fosse per me baciavi pure quell’ubriacone di merda! Alma, esci subito!” la rabbia.",
+        "Infatti.",
+        "“Alma! Perché non rispondi? Ti è successo qualcosa bambina mia?” Il dubbio.",
+        "Ecco.",
+        "“Alma, sei caduta? Alma!”",
+        "Si è sporta.",
+        "Troppo.",
+        "Non sono andata a vedere. Sono tornata a casa, ho preso la Panda 4x4, il telefono ancora non ce lo avevamo, perché non serviva, e sono andata ad avvisare il soccorso alpino che mia mamma era scomparsa.",
+        "“Non so dove è andata: ero a fare la legna e quando sono tornata non c’era più.”",
+        "L’hanno trovata sei ore dopo, sfracellata, pare fosse morta sul momento.",
+        "I miei fratelli, bugiardi, non mi hanno più versato denaro, ma io ho amministrato bene quello di prima. Così sono andata a vivere in paese, ho ristrutturato la baita e la affitto solo ed unicamente a coppie.",
+        "Posso venire a spiare, a vedere cos’è l’amore, perché bisogna amarsi davvero molto per passare le vacanze da soli, isolati dal mondo.",
+        "Durante l’estate è stato facile, ma questa è la prima volta dopo una nevicata e dovrò anche stare attenta a non lasciare impronte.",
+        "Però ho già imparato un sacco di cose sull’amore.",
+        "È fatto di carezze, di baci, mani sulle guance, parole, abbracci, coccole, sguardi, di perdere il controllo davanti al camino, e - che imbarazzo! - non potevo nemmeno immaginare quante cose possono fare due corpi che si desiderano. Ma è fatto anche di tazze di caffè portate a letto e di tanto buon cibo.",
+        "E io sono forte nel fare buon cibo, per cui c’è ancora speranza, anche per me!"
+    ],
+    "timestamp": "2019-12-10T10:44:05Z",
+    "title": "Alma",
+    "topic_id": 45535,
+    "url": "https://www.writersdream.org/forum/forums/topic/45535-alma/"
+}
