@@ -60,8 +60,18 @@
     },
     "num_chars": 6108,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 808093,
+            "text": [
+                "Grazie per le impeccabili precisazioni e per il commento. Nutre la voglia di continuare.",
+                ", hai perfettamente ragione sulla voce narrante, me ne ero accorto anch'io ma ho soprasseduto (da non fare in generale, ne terrò conto). Sono un istintivo della punteggiatura e ho solo da imparare, grazie"
+            ],
+            "timestamp": "2019-12-23T22:25:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45638-padre-e-figlio//?do=findComment&comment=808093"
+        }
+    ],
     "post_staff": [],
     "text": [
         "“Cosa dire della luce che attraversa le fronde dopo un temporale. L'abbaglio del chiarore riflesso dall'acqua, depositata sulla foglia di frassino rigata. Il vapore che sale e mi assale insieme all'odore fungino di tronco umido e fogliame.”",
