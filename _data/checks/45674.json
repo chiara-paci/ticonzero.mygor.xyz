@@ -16,7 +16,7 @@
         "valid": 0.5,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [
         {
             "checks": {
@@ -50,9 +50,24 @@
     },
     "num_chars": 8474,
     "num_commenti": 1,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 807966,
+            "text": [
+                "per postare un racconto lungo occorre commentare un racconto della stessa sezione o due di un'altra sezione dell'officina. Dunque manca un commento.",
+                "Sto valutando i racconti della settimana e se regolarizzi subito posso includere anche il tuo racconto."
+            ],
+            "timestamp": "2019-12-23T05:33:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45674-a-bordo-di-un-filo-daria//?do=findComment&comment=807966"
+        }
+    ],
     "text": [
         "Commento",
         "A bordo di un filo d'aria",
