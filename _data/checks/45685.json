@@ -1,0 +1,94 @@
+{
+    "author": {
+        "author_id": 24928,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "domino3",
+        "url": "https://www.writersdream.org/forum/profile/24928-domino3/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.4077777777777778,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.4077777777777778
+            },
+            "text": [
+                [
+                    "La poesia mi è piaciuta. Rimanda a un sentimento nostalgico. A un aggrapparsi ai ricordi felici ma inevitabilmente passati, mentre ora si è relegati in un presente infelice.",
+                    "Almeno, questa è stata la mia impressione. Belle le immagini scelte, quella dei fiori appassiti, dal tavolo più piccolo di quel che ci si ricordava e del vassoio scheggiato.",
+                    "I versi finali sono un pugno nello stomaco, freddo, tombale. Lo stile è asciutto e ottiene l'effetto voluto. Complimenti."
+                ]
+            ],
+            "timestamp": "2019-12-22T22:04:39Z",
+            "title": "I biscotti della nonna",
+            "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=807945",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 911,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Una volta ho visto",
+        "la madre di un mio amico",
+        "indossare i tacchi alti.",
+        "Era una cosa normale per tutti.",
+        "Per me invece era straordinaria.",
+        "Ho pensato: allora sono così",
+        "le madri degli altri?",
+        "Che lavorano,",
+        "che usano i tacchi,",
+        "che a volte vanno al ristorante,",
+        "che se tra un impegno e l'altro",
+        "trovano il tempo",
+        "fanno sport",
+        "o vanno a camminare",
+        "con le amiche,",
+        "perché 6 chili",
+        "da perdere in due sono più facili.",
+        "Mentre mia madre sta ferma,",
+        "bloccata a letto,",
+        "con la pelle come bruciata,",
+        "il ventre gonfio e teso,",
+        "che non coordina le mani,",
+        "con un'imminente piaga",
+        "pronta a formarsi",
+        "nell'osso sacro,",
+        "non appena ci distraiamo.",
+        "Che ha dolore ma non può muoversi,",
+        "che ha prurito ma non può grattarsi,",
+        "che non può bere ogni volta che ha sete,",
+        "che deve essere lavata,",
+        "che deve essere cambiata,",
+        "che deve essere vestita,",
+        "che ha bisogno di aiuto per tutto.",
+        "Che mi dice: lasciami la porta aperta,",
+        "che mi sento come in prigione.",
+        "Che ringrazia ogni secondo",
+        "di non avere la SLA."
+    ],
+    "timestamp": "2019-12-22T23:10:20Z",
+    "title": "Una volta ho visto",
+    "topic_id": 45685,
+    "url": "https://www.writersdream.org/forum/forums/topic/45685-una-volta-ho-visto/"
+}
