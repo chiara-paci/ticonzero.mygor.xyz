@@ -13,21 +13,58 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.4077777777777778,
+        "valid": 0.5813186813186814,
         "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.4077777777777778
+                "valid": 0.5813186813186814
             },
             "text": [
                 [
                     "La poesia mi è piaciuta. Rimanda a un sentimento nostalgico. A un aggrapparsi ai ricordi felici ma inevitabilmente passati, mentre ora si è relegati in un presente infelice.",
                     "Almeno, questa è stata la mia impressione. Belle le immagini scelte, quella dei fiori appassiti, dal tavolo più piccolo di quel che ci si ricordava e del vassoio scheggiato.",
                     "I versi finali sono un pugno nello stomaco, freddo, tombale. Lo stile è asciutto e ottiene l'effetto voluto. Complimenti."
+                ],
+                [
+                    "Mi immagino una ragazza entrare nella casa della nonna, morta da tempo, cosa confermata dai fiori dimenticati nel vaso e ora appassiti, dove tutto è rimasto immutato, eppure diverso, più triste. Mi viene in mente una stanza polverosa, la nipote che pulisce il tavolo prima di preparare i biscotti.",
+                    "Bella l'immagine del forno che seppur vecchio funziona ancora e della stanza dove l'odore di polvere e di chiuso vengono sostituiti da quello dolce della vaniglia. Come se si tornasse indietro nel tempo, a quando la nonna era viva.",
+                    "Qui la prima vera immagine felice del passato che non può ritornare. Il ricordo di quando si era bambini, e si vedeva tutto con occhi incantati e non c'era preoccupazione per il presente né per il tempo a venire.",
+                    "Il disporre i biscotti sullo stesso vassoio che usava la nonna, scheggiato perché sarà stato usato mille volte, mostra un attaccamento al passato, un voler ricreare qualcosa che non c'è più. Qui la seconda immagine felice, nostalgica.",
+                    "Ora immagino la ragazza che li mangia da sola e in silenzio, in contrapposizione alla compagnia e all'allegro chiasso del passato. Neanche il sapore dei biscotti è più lo stesso.",
+                    "La poesia mi è piaciuta. Rimanda a un sentimento nostalgico. A un aggrapparsi ai ricordi felici ma inevitabilmente passati, mentre ora si è relegati in un presente infelice.",
+                    "Almeno, questa è stata la mia impressione. Belle le immagini scelte, quella dei fiori appassiti, dal tavolo più piccolo di quel che ci si ricordava e del vassoio scheggiato.",
+                    "I versi finali sono un pugno nello stomaco, freddo, tombale. Lo stile è asciutto e ottiene l'effetto voluto. Compli﻿menti."
+                ]
+            ],
+            "timestamp": "2019-12-22T22:04:39Z",
+            "title": "I biscotti della nonna",
+            "url": "https://www.writersdream.org/forum/forums/topic/45504-i-biscotti-della-nonna//?do=findComment&comment=807945",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5813186813186814
+            },
+            "text": [
+                [
+                    "La poesia mi è piaciuta. Rimanda a un sentimento nostalgico. A un aggrapparsi ai ricordi felici ma inevitabilmente passati, mentre ora si è relegati in un presente infelice.",
+                    "Almeno, questa è stata la mia impressione. Belle le immagini scelte, quella dei fiori appassiti, dal tavolo più piccolo di quel che ci si ricordava e del vassoio scheggiato.",
+                    "I versi finali sono un pugno nello stomaco, freddo, tombale. Lo stile è asciutto e ottiene l'effetto voluto. Complimenti."
+                ],
+                [
+                    "Mi immagino una ragazza entrare nella casa della nonna, morta da tempo, cosa confermata dai fiori dimenticati nel vaso e ora appassiti, dove tutto è rimasto immutato, eppure diverso, più triste. Mi viene in mente una stanza polverosa, la nipote che pulisce il tavolo prima di preparare i biscotti.",
+                    "Bella l'immagine del forno che seppur vecchio funziona ancora e della stanza dove l'odore di polvere e di chiuso vengono sostituiti da quello dolce della vaniglia. Come se si tornasse indietro nel tempo, a quando la nonna era viva.",
+                    "Qui la prima vera immagine felice del passato che non può ritornare. Il ricordo di quando si era bambini, e si vedeva tutto con occhi incantati e non c'era preoccupazione per il presente né per il tempo a venire.",
+                    "Il disporre i biscotti sullo stesso vassoio che usava la nonna, scheggiato perché sarà stato usato mille volte, mostra un attaccamento al passato, un voler ricreare qualcosa che non c'è più. Qui la seconda immagine felice, nostalgica.",
+                    "Ora immagino la ragazza che li mangia da sola e in silenzio, in contrapposizione alla compagnia e all'allegro chiasso del passato. Neanche il sapore dei biscotti è più lo stesso.",
+                    "La poesia mi è piaciuta. Rimanda a un sentimento nostalgico. A un aggrapparsi ai ricordi felici ma inevitabilmente passati, mentre ora si è relegati in un presente infelice.",
+                    "Almeno, questa è stata la mia impressione. Belle le immagini scelte, quella dei fiori appassiti, dal tavolo più piccolo di quel che ci si ricordava e del vassoio scheggiato.",
+                    "I versi finali sono un pugno nello stomaco, freddo, tombale. Lo stile è asciutto e ottiene l'effetto voluto. Compli﻿menti."
                 ]
             ],
             "timestamp": "2019-12-22T22:04:39Z",
@@ -36,7 +73,7 @@
             "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -44,8 +81,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 911,
-    "num_commenti": 1,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -61,6 +98,17 @@
             ],
             "timestamp": "2019-12-23T01:55:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45685-una-volta-ho-visto//?do=findComment&comment=807964"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 808019,
+            "text": [],
+            "timestamp": "2019-12-23T14:48:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45685-una-volta-ho-visto//?do=findComment&comment=808019"
         }
     ],
     "text": [

@@ -13,10 +13,10 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.5,
-        "weight": false
+        "valid": 1.0,
+        "weight": true
     },
-    "closed": true,
+    "closed": false,
     "commenti": [
         {
             "checks": {
@@ -39,9 +39,30 @@
             "title": "[MI 121] Fiamme Blu",
             "url": "https://www.writersdream.org/forum/forums/topic/41658-mi-121-fiamme-blu//?do=findComment&comment=807672",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Bel racconto, in cui l'orrore non è fatto di spiriti e fantasmi, ma ha contorni umani; interiori, per l'esattezza. Con uno stile asciutto e senza tanti fronzoli, hai reso con efficacia il dramma di una donna, che non riesce a sopravvivere alla morte del marito (molto struggente l'immagine del marito col cranio fracassato, appoggiato alle gambe di lei, la stessa posa di molti momenti di intimità tra di loro. Si percepisce ancora una grande dipendenza della donna nei confronti di quest'uomo, che continua a vivere nelle foto, nei ricordi, in tutti i momenti quotidiani divisi tra realtà e allucinazioni, e soprattutto negli occhi del bambino. E questa è la cosa più devastante. è molto toccante il passaggio in cui la donna non riesce a sostenere gli occhi del bambino perché le ricordano troppo gli occhi del marito; allo stesso modo anche il sorriso del piccolo le causa dolore, perché le riporta sempre alla memoria il compagno defunto, che è morto durante un incidente in auto mentre stava cercando di proteggere proprio lei, sua moglie.",
+                    "Lo spazio temporale è dilatato, perché all'inizio il figlio è ancora nel grembo della donna, mentre invece nei passaggi successivi è nella culla; quindi il dramma di questa donna va avanti da tempo.",
+                    "L'atmosfera ricreata è molto cupa, spesso onirica; in linea col buio che perversa nell'animo della donna. Il racconto mi ha riportato alla memoria, a tratti, Rosemary's baby.",
+                    "Il dramma è soprattutto in questa madre combattuta tra l'amore per il figlio e una sorta di rigetto nei confronti di quest'ultimo, che è l'immagine vivente del marito morto, e quindi continua a farle rivivere l'assenza del marito anche se lei vorrebbe lasciarsela alle spalle e superarla. Hai caratterizzato molto bene questa donna, in tutta la sua disperazione. Non riesce più a vivere, vorrebbe solo dormire per sottrarsi al presente ma senza le pillole non riuscirebbe nemmeno a dormire.",
+                    "Tutto il racconto dà un senso di claustrofobia; la sensazione di essere imprigionati in una gabbia da cui non si riesce a uscire, proprio come la protagonista, quindi sei stato molto abile a farci entrare in empatia col dramma della donna.",
+                    "Il finale, suggerito ma non esplicitato del tutto, è agghiacciante. Ucciderà se stessa o il figlio?",
+                    "Un racconto da brivido."
+                ]
+            ],
+            "timestamp": "2019-12-23T09:15:45Z",
+            "title": "Tutto quel buio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45074-tutto-quel-buio//?do=findComment&comment=807972",
+            "weight": 2
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 3,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -49,8 +70,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 8474,
-    "num_commenti": 1,
-    "num_posts": 2,
+    "num_commenti": 2,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [
         {
@@ -66,6 +87,17 @@
             ],
             "timestamp": "2019-12-23T05:33:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45674-a-bordo-di-un-filo-daria//?do=findComment&comment=807966"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 807978,
+            "text": [],
+            "timestamp": "2019-12-23T10:15:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45674-a-bordo-di-un-filo-daria//?do=findComment&comment=807978"
         }
     ],
     "text": [

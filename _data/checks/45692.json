@@ -1,0 +1,112 @@
+{
+    "author": {
+        "author_id": 22817,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Mister Frank",
+        "url": "https://www.writersdream.org/forum/profile/22817-mister-frank/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Frase iniziale davvero bella, complimenti.",
+                    "Ci sono quattro aggettivi, tre dei quali iniziano con la consonante \"s\" (questa cosa mi piace) e l'ultimo racchiude anche un concetto (negativo?) che piace ugualmente.",
+                    "Invece \"dolci\" non mi fa impazzire (è pertinente, non lo metto in dubbio) per un semplice gioco di suoni, per così dire (visi sereni, sorridenti, stampati). La consonante \"s\" è una sibilante, ricorda il serpente, è un suono che si insinua; \"dolci\" spezza il gioco di suoni e quattro aggettivi sono molti (al massimo tre).",
+                    "Neanche a farlo apposta, io mi chiamo così!",
+                    "Qui è perfetta l'abbondanza dei termini al fine della descrizione. Ho letteralmente visto il luogo; mi piace.",
+                    "Simpaticissimo.",
+                    "Qui hai catturato ancora di più la mia attenzione; sono vampiri o persone defunte?",
+                    "Già, è proprio così.",
+                    "Sto ancora ridendo, grande.",
+                    "La giusta risposta.",
+                    "Una conclusione delicata e bilanciata, molto toccante. Complimenti.",
+                    "Il titolo mi ha tratto in inganno, e mi piace, perché adesso ho capito"
+                ],
+                [
+                    "[mi è partito il tasto invio ahahah]",
+                    "perché adesso ho capito qual è il luogo tranquillo del racconto (all'inizio non l'avevo capito).",
+                    "Hai fatto ciò che più mi piace: ribaltare la realtà, o meglio ribaltare la nostra visione delle cose, e dei luoghi.",
+                    "Il cimitero è solitario, tranquillo, ma anche triste e un po' cupo (una volta i cimiteri erano collocati fuori dalla città).",
+                    "Tu hai scardinato tutto e donato un senso positivo (prima si ride, poi si riflette, e si riflette abbastanza per un racconto così breve ma incisivo).",
+                    "Non sono bravo a scrivere commenti né a lasciare eventuali \"correzioni\", per così dire.",
+                    "Il racconto è scritto molto bene, i personaggi sono tanti, diversi, parlano sempre (mi ha ricordato un po' una scena teatrale), infine c'è un messaggio.",
+                    "Mi rendo conto del commento arzigogolato e un po' fuori di testa, ma ci tenevo a scriverlo."
+                ]
+            ],
+            "timestamp": "2019-12-23T11:34:28Z",
+            "title": "Un luogo tranquillo",
+            "url": "https://www.writersdream.org/forum/forums/topic/45686-un-luogo-tranquillo//?do=findComment&comment=807998",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 6388,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "Traccia: La cena",
+        "L'inganno di Alceo",
+        "Quando la potente città dell'Ellesponto era ormai caduta e la dinastia troiana estinta, una trireme approdò sulle coste rocciose e frastagliate di Nauplia. Al seguito di due servitori e un ambasciatore l'erede al trono di Euromos si recò a Micene per stipulare un'alleanza con il re dell'Argolide. Per festeggiare l'evento Agamennone organizzò un banchetto nel palazzo reale.",
+        "L'araldo miceneo presentò l'ospite all'aristocrazia guerriera riunita nella sala del banchetto. «Achei di Micene, questa sera festeggiamo Alceo, figlio di Nereo, re di Euromos, città della Caria».",
+        "Alceo avanzò nell'androne e si inginocchiò dinanzi al trono di Agamennone, il quale afferrò la coppa a due manici e bevve il vino mischiato all'acqua.",
+        "«Oro e stoffe pregiate da Euromos per il re dell'Argolide!» disse a gran voce Alceo, e i suoi servitori consegnarono i doni a quelli micenei. «Un augurio per l'alleanza tra i nostri regni» concluse, e Agamennone si alzò dal trono, lo abbracciò in segno di amicizia e fratellanza, poi si rivolse ai commensali: «Mangiamo e beviamo insieme perché oggi è stata stipulata un'alleanza» e i commensali sollevarono euforici le coppe a due manici. «A Re Agamennone, conquistatore di Ilio!».",
+        "Un nugolo di serve, seguito dall'aedo, entrò nella sala del banchetto. Alceo posò lo guardo su ognuna di esse, come un generale passa in rassegna le truppe. Poi, all'improvviso, una donna fasciata da una veste fine e trasparente, la pelle leggermente scura e un seno appena accennato catturò la sua attenzione.",
+        "Alceo ebbe un groppo in gola, sudò freddo.",
+        "La donna aveva lunghi capelli corvini raccolti in una treccia, gli occhi verdi insolitamente grandi, piedi scalzi e svelti che non si confacevano né a una serva né a una sposa.",
+        "Alceo la fissò a lungo, così a lungo che un dignitario miceneo seduto di fianco lo ammonì: «Non è saggio indugiare sulle concubine di Agamennone, men che meno sulla sua prediletta».",
+        "«Notavo solo la sua bellezza» convenne Alceo, «ella è un dono di Afrodite».",
+        "Il dignitario annuì severo. «Briseide è una tra le migliori prede conquistate a Ilio» spiegò a voce bassa e avvicinando le labbra all'orecchio di Alceo. «Agamennone non vuole che la si osservi a lungo, perché è sua, e di nessun altro. È geloso come un cane con il proprio osso».",
+        "«Allora io mostrerò rispetto, in quanto ospite» concluse Alceo e bevve dalla coppa a due manici.",
+        "Le musiche e i canti dell'aedo allietarono i presenti fino a notte inoltrata, il quale strimpellò la cetra e raccontò la vita tragicomica degli eroi greci.",
+        "Ben presto alcuni dei presenti si addormentarono ubriachi mentre altri si ritirarono vacillando. Le danzatrici smisero di rallegrare gli ultimi ospiti, i bracieri si spensero e la notte scese sull'androne. Clitennestra accompagnò al talamo il marito Agamennone ed Egisto li seguì armato di spada. Alceo ne profittò per allontanarsi dalla sala del banchetto e intrufolarsi nelle stanze del gineceo, dove accoccolata su una lettiga in legno intarsiato giaceva addormentata Briseide.",
+        "Alceo le si avvicinò con passo felpato, le pose una mano sulla bocca e con l'altra le fece cenno di tacere. Lei annuì e gli occhi le si riempirono di lacrime, così quelli di Alceo, il cui sguardo duro si incrinò. «Mia dolce amata» sussurrò, e le carezzò i capelli corvini che odoravano di lavanda, «dobbiamo lasciare immediatamente il palazzo reale di Agamennone».",
+        "Briseide schiuse le labbra ma non articolò alcuna parola; l'emozione le aveva sigillato la voce.",
+        "Allora Alceo la baciò. «Sono io, Minete» e le afferrò una mano per poi portarla al viso irsuto.",
+        "Briseide lo guardò esterrefatta. «Ho visto la spada di Achille trafiggerti il costato e il tuo sangue macchiare l'armatura bronzea. Giacevi al suolo, morto».",
+        "«Apollo ha ingannato gli occhi tuoi e di Achille. Entrambi avete creduto di avermi visto morto, invece il dio del sole vi ha mostrato una menzogna; a me ha imposto di abbandonare te e la città di Lirnesso per recarmi a Ilio affinché combattessi i greci sulle spiagge dell'Ellesponto».",
+        "Briseide si portò una mano al petto e sollevò lo sguardo; sussurrò un ringraziamento al dio del sole. «Mio padre e i miei fratelli che destino hanno avuto?».",
+        "«I tuoi fratelli sono caduti in battaglia e tuo padre si è tolto la vita» confessò Minete, «il dolore e la sconfitta sono stati troppo grandi per il suo vecchio cuore».",
+        "«Almeno tu sei vivo» disse in tono consolatorio, soggiungendo: «Achille è morto, Paride lo ha ucciso».",
+        "Minete annuì. «Mia dolce amata, fuggiamo ora che i micenei, storditi dal vino, dormono profondamente».",
+        "«Minete, sposo adorato, io ho partorito un figlio di Agamennone!».",
+        "«Non tormentarti, Briseide! Tu non hai alcuna colpa. Questo figlio di Agamennone crescerà con noi a Lirnesso. Prendilo ora, o mai più, perché Clitennestra ed Egisto tramano vendetta, e noi dobbiamo fuggire entro l'alba».",
+        "Briseide si allontanò rapidamente dalle stanze del gineceo.",
+        "* * *",
+        "«Brucia questa tua veste da concubina e indossa il peplo della donna libera» ordinò Minete, «prendi gli orecchini, la collana e il bracciale, affinché le guardie del palazzo e i soldati in città non ti riconoscano».",
+        "Briseide si vestì e adornò di gioielli. Poi, avvolto in un fagotto di stoffe, afferrò tra le braccia il neonato Aleso.",
+        "«Adesso lui è nostro» disse Minete, e scostò un lembo di stoffa dal viso del figlio di Agamennone, «il mio amore, come il mare, non conosce confini per te».",
+        "«Oggi gli dei ci hanno benedetti entrambi. Torniamo a Lirnesso prima che Agamennone scopra la mia fuga e il tuo inganno».",
+        "Minete la baciò. «Una trireme ci attende a Nauplia. Andiamo!».",
+        "Con il favore della notte sgattaiolarono fuori dal palazzo reale di Agamennone, oltrepassarono le Porte dei Leoni, discesero l'acropoli e attraversarono i vicoli della città ancora avvolta dal silenzio che precede il sorgere del sole. Nessuno si accorse di Minete e Briseide, e del neonato Aleso, i quali fuggivano velocemente da Micene.",
+        "Al di là delle mura della città i due servitori e l'ambasciatore attendevano l'arrivo del loro signore, alla cui vista sistemarono i cavalli così da permetterne la celere fuga. Minete e Briseide montarono in sella e galopparono lungo il sentiero ciottoloso che costeggiava i campi arati, fino a raggiungere la costa rocciosa e frastagliata di Nauplia, il luogo in cui li attendeva in segreto una trireme, già pronta a salpare per Lirnesso alle prime luci dell'alba."
+    ],
+    "timestamp": "2019-12-23T14:25:41Z",
+    "title": "[N2019-1A] L'inganno di Alceo",
+    "topic_id": 45692,
+    "url": "https://www.writersdream.org/forum/forums/topic/45692-n2019-1a-linganno-di-alceo/"
+}

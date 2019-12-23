@@ -57,9 +57,49 @@
     },
     "num_chars": 8059,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 8,
+    "post_after": [
+        {
+            "post_id": 807939,
+            "text": [
+                ", mai complimenti sono stati più graditi. Grazie!"
+            ],
+            "timestamp": "2019-12-22T21:13:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=807939"
+        },
+        {
+            "post_id": 807987,
+            "text": [
+                "Grazie del commento favorevole. Ho scritto delitto perfetto \"inutile\" perché se Gaio non fosse stato trucidato, sarebbe morto lo stesso sotto la lava. Per quanto riguarda lo schiavo, al suo ritorno troverà solo una distesa di cenere e magma e nessuno che lo potrà affrancare."
+            ],
+            "timestamp": "2019-12-23T10:58:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=807987"
+        },
+        {
+            "post_id": 807988,
+            "text": [
+                "Grazie, Adelaide."
+            ],
+            "timestamp": "2019-12-23T10:59:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=807988"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 807933,
+            "text": [
+                "Ho trovato questo racconto geniale.",
+                "I miei complimenti."
+            ],
+            "timestamp": "2019-12-22T20:57:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=807933"
+        }
+    ],
     "text": [
         "(che continua nella discussione che lo segue)",
         "Traccia : la cena",

@@ -54,8 +54,18 @@
     },
     "num_chars": 7660,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 807947,
+            "text": [
+                "Ciao , e bentrovata. Ti ringrazio per essere passata in veste di CddS ( :",
+                "Grazie per i tuoi pareri, e per gli apprezzamenti. Mi fa molto piacere che ti sia piaciuto il racconto. Alla prossima!"
+            ],
+            "timestamp": "2019-12-22T22:19:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45680-n2019-1a-mirror-box//?do=findComment&comment=807947"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia: Alterazione",
