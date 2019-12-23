@@ -50,7 +50,7 @@
     },
     "num_chars": 4932,
     "num_commenti": 1,
-    "num_posts": 31,
+    "num_posts": 32,
     "post_after": [
         {
             "post_id": 806158,
@@ -171,6 +171,14 @@
             ],
             "timestamp": "2019-12-20T18:39:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807519"
+        },
+        {
+            "post_id": 807963,
+            "text": [
+                "Ciao , grazie per il tuo commento e gli apprezzamenti. Vogliono dire molto."
+            ],
+            "timestamp": "2019-12-23T01:23:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45586-mi-132-venezia-2089//?do=findComment&comment=807963"
         }
     ],
     "post_staff": [
