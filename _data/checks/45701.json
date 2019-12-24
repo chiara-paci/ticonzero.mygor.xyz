@@ -1,0 +1,112 @@
+{
+    "author": {
+        "author_id": 28485,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "julia1983",
+        "url": "https://www.writersdream.org/forum/profile/28485-julia1983/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao inizio con il dirti che il tuo racconto mi è piaciuto davvero tanto, in particolare la riflessione su quale sia il vero senso della felicità descritto nella prima parte. Qui il personaggio di Enlil manifesta con la sua insofferenza il desiderio di evadere da questa atmosfera idilliaca ma monotona, alla ricerca di qualcosa di più autentico. Notevole anche l'inaspettato finale nel quale Enlil e Rame approdano sulle rive innevate e scoprono a mio avviso la genuinità dell'essere felici senza sovrastrutture.",
+                    "qui ci vedrei meglio Chi ci assicura che questo sia davvero la felicità?",
+                    "qui secondo me l'uso dell'aggettivo furioso stona con il fatto che Enlil sia incantato dalle parole della ragazza, ti suggerirei si passa frenetico se vuoi mantenere il concetto",
+                    "Bellissimo passaggio",
+                    "qui ti segnalo la ripetizione di mio padre, sostituirei la seconda frase mettendo Gli ho rubato la barca ad esempio. Inoltre metterei ad andare a pesca.",
+                    "Ottima chiusura con finale sorprendente come ti dicevo in apertura di commento.",
+                    "Nel complesso un racconto davvero interessante, riflessivo e scritto in buono stile, complimenti."
+                ]
+            ],
+            "timestamp": "2019-12-24T10:26:04Z",
+            "title": "[MI 131] Cosa c'è dall'altra parte",
+            "url": "https://www.writersdream.org/forum/forums/topic/45439-mi-131-cosa-c%C3%A8-dallaltra-parte//?do=findComment&comment=808160",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7924,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "traccia: la consegna",
+        "La cubana",
+        "Gambe da femmina lunghe e affusolate percorrevano la via e nel loro incedere uno sbattere di tacchi risuonava tra i rumori caotici della metropoli. La donna di colore stringeva a sé un pacco di medie dimensioni e procedeva stretta nel suo tubino succinto, che lasciava poco spazio all’immaginazione. Un venditore di hot dog le ammiccò e la invitò a fermarsi al suo carretto.",
+        "«Solo due dollari signorina bella» le disse mentre lei esitava e rallentava il passo. Era affamata: il viaggio aereo da Cuba le aveva messo appetito, ma sapeva anche che doveva a tutti i costi consegnare quel pacco in giornata.",
+        "«Conosce Nigel Thompson?» chiese la donna con accento spagnolo, decidendosi a poggiare per qualche istante, con cautela, il pacco sul marciapiede, non perdendolo di vista con le sue insolite iridi indaco.",
+        "«Il famoso investigatore privato?» replicò il venditore, intento a farcire il panino «è un mio cliente e la sua agenzia è a due isolati da qui» Detto ciò le porse l’hot dog, impregnandolo di mostarda e ketchup. A quel punto la donna tirò fuori un centone dalla sua borsa griffata Dior color vinaccia.",
+        "Il venditore sgranò gli occhi. «Non ho il resto, signorina!»",
+        "«Va bene così» e quando si voltò, si accorse che un barboncino si era avvicinato al suo pacco per odorarlo e lo cacciò via in malo modo.",
+        "«Deve essere attratto dal contenuto» disse il padrone, un vecchio con la coppola stretto nel suo impermeabile ècru.",
+        "«Impossibile! Non contiene niente di interessante per il suo cane» replicò stizzita la donna, mentre cercava di sollevare il pacco con fatica perché aveva una mano impegnata con l’hot dog.",
+        "«Le occorre aiuto? Guardi che il ketchup le sta sporcando di rosso la parte inferiore dell’involucro di cartone» disse un ragazzetto lentigginoso, che aveva assistito alla scena.",
+        "«Oh il ketchup certo…» disse impacciata la donna. Uno sconosciuto le si avvicinò.",
+        "«Sono Archie Goldman» si presentò con un leggero inchino e aggiunse «Lavoro per Nigel Thompson come assistente da quando Marlin, il suo ex socio, si è licenziato».",
+        "«Yanelis, la donna di Marlin».",
+        "Archie, che era un tipo sveglio, comprese che la giovane era intenta a trasportare il pacco che il suo capo stava aspettando da Cuba e rise imbarazzato.",
+        "«Credevo che Marlin lo avrebbe spedito».",
+        "«Ne era impossibilitato» tagliò corto la donna «sono venuta di persona a consegnarlo».",
+        "«Sono i sigari che Marlin ci ha promesso?»",
+        "«Sigari? Oh, è qualcosa di più scottante» e Yanelis fece seguire alle sue parole una risatina nervosa. Archie la fissò, si grattò il capo e poi fece per prendere il pacco che gli sembrava avere uno strano odore, ma non diede troppo peso alla cosa.",
+        "«Avete fatto buon viaggio?» le chiese e nel sollevare lo scatolone imballato ne approfittò per sbirciare le sue curve procaci.",
+        "Yanelis, dopo aver mangiato con foga l’hot dog, si accese una Lucky Strike. Gli rispose di sì distratta, poi si guardò attorno come se temesse di essere stata seguita.",
+        "«C’è qualcosa che vi turba?» chiese Archie, mentre stavano per dirigersi ad attraversare il primo isolato. Lui cercava di tenere ben stretto il pacco, anche se l’olezzo proveniente da esso si stava facendo insopportabile.",
+        "«Forse è meglio che lo portiate voi a Nigel» disse all’improvviso Yanelis «Ho paura che finisca in mani sbagliate» e indicò un gruppo di giovani vestiti di nero con borchie e piercing, che sostavano davanti a un bar.",
+        "«Stia tranquilla, quei ragazzi non la disturberanno, ci sono io a proteggerla».",
+        "Yanelis però non era convinta e mentre passavano osservò la corporatura mingherlina di Archie e si sentì in pericolo.",
+        "«Ciao bellezza» le disse quello che sembrava il capobranco e aveva una prominente cresta.",
+        "«State lontani!» gridò isterica Yanelis, estrasse fulminea dalla sua borsetta un revolver e sparò alla gamba del ragazzo che dolorante si rotolò a terra, mentre il resto dei suoi compari rimase immobile per la sorpresa. «Via, lasciatemi in pace!» e fece fuoco di nuovo, stavolta mirando in aria per allontanare il gruppo. Ad Archie sbigottito cadde in terra il pacco, ma la cubana lo raggiunse alle spalle e gli puntò la pistola dietro la schiena «Raccoglilo subito!»",
+        "Il giovane era un investigatore alle prime armi, abituato a redigere rapporti per il suo capo e non era pronto per l’azione e così, tremante, fece come gli ordinava la donna. «Uscite subito tutti dal bar!» gridò Yanelis, mentre si cominciavano a sentire delle sirene in lontananza, e si rifugiò all’interno del locale tenendo in ostaggio Archie. Gli avventori e il barista uscirono subito, mentre qualche passante prestava soccorso al ragazzo con la cresta ferito e riverso sul marciapiede.",
+        "Archie era sconvolto e le chiese: «Cosa ci sarà mai al suo interno, da rischiare di finire arrestata?»",
+        "«Non faccia domande e chiami il suo capo al telefono» .",
+        "Il giovane non se lo fece ripetere due volte e compose il numero dell’agenzia investigativa, mentre fuori dal bar iniziavano ad ammassarsi volanti della polizia e un’ambulanza.",
+        "«Nigel Thompson» la voce cavernosa dall’altro capo del filo confortò, anche se per brevi istanti, Archie che si affrettò a informare l’investigatore che si trovava ostaggio nel bar a un isolato dal loro ufficio.",
+        "«Devo sempre salvarti il culo!» replicò spazientito Nigel, ma poi affermò che sarebbe accorso in suo aiuto.",
+        "Un megafono fece sussultare Archie che si era seduto in terra, mentre continuava a tenere in grembo il pacco, che cominciava a trasudare uno strano liquido dal fondo e l’odore che emanava era diventato insopportabile.",
+        "«Signorina è circondata, rilasci l’ostaggio e esca con le mani in vista!» gridò la voce metallica di un sergente e Archie cercò di convincere Yanelis, che però non voleva sentire ragioni e gridò verso l’esterno.",
+        "«Voglio che entri Nigel Thompson, per consegnargli il pacco».",
+        "«Sergente, i tiratori sono pronti, se si riavvicina alla finestra le spariamo» disse un agente, ma proprio in quel momento sopraggiunse un uomo di mezz’età, stretto nel suo impermeabile avana con un cappello a tesa larga del medesimo colore.",
+        "«La donna vuole me, come biasimarla del resto…» disse con fare ironico l’investigatore Thompson e senza attendere indicazioni dai poliziotti, dopo essersi acceso una parliament e aver dato alcune boccate, si diresse a passo spedito nel bar.",
+        "«Così siete la donna di Marlin, quell’idiota si è innamorato di voi e mi ha piantato in asso e ora la mia agenzia va a rotoli e sono costretto a dormire in ufficio!» la apostrofò duro Nigel una volta all’interno del locale.",
+        "«Ho un pacco per voi» replicò mansueta la donna che però continuava a puntare il suo revolver verso Archie.",
+        "«Sì, lo stavo aspettando. Sono i sigari che Marlin ha detto che mi avrebbe spedito?» domandò Nigel e si diresse dietro al bancone per versarsi un bicchiere di Ballantine's.",
+        "«Non credo che si tratti di cubani, capo… c’è qualcosa andato a male qua dentro» disse Archie che recuperò un minimo di coraggio per intervenire nella discussione.",
+        "«Fate silenzio!» gridò di nuovo isterica Yanelis e alternava a puntare il revolver tra i due uomini.",
+        "«Cazzo signorina! Non fatela tanto lunga e consegnatemi questo pacco!» affermò seccato Nigel, dopo essersi scolato il suo scotch.",
+        "Archie chiuse gli occhi, temeva che il fare misogino e sfrontato del suo capo facesse perdere la pazienza alla cubana, ma Yanelis sembrava affascinata dal comportamento rude dell’investigatore e intimò ad Archie di consegnare il pacco a una condizione.",
+        "«Io uscirò dal retro del locale e voi aprirete lo scatolone solo quando sarò lontana».",
+        "«Bene, signorina, facciamo in fretta, dannazione!» replicò Nigel e lei si allontanò dal bar fuggendo indisturbata.",
+        "«La lascia andare così, capo?» chiese Archie mentre gli porgeva il pacco.",
+        "«È pur sempre la donna del mio ex socio» replicò laconico, e si accinse ad aprire la confezione.",
+        "Quello che vide al suo interno lo lasciò di stucco nonostante vent’anni di carriera come investigatore: nello scatolone giaceva la testa mozzata di Marlin."
+    ],
+    "timestamp": "2019-12-24T10:44:48Z",
+    "title": "[N2019-1B] La cubana",
+    "topic_id": 45701,
+    "url": "https://www.writersdream.org/forum/forums/topic/45701-n2019-1b-la-cubana/"
+}
