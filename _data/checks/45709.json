@@ -1,0 +1,113 @@
+{
+    "author": {
+        "author_id": 186,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Joyopi",
+        "url": "https://www.writersdream.org/forum/profile/186-joyopi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "non mi convince l'accostamento tra rumore e il verbo finire. Forse meglio qualcosa tipo \"rumore che pare non zittirsi mai\".",
+                    "non mi convince nemmeno la costruzione di questa frase. Riformuliamo:",
+                    "1) sul soffitto vedo ombre che entrano dall'esterno attraverso la finestra.",
+                    "2) ombre entrano dal mondo attraverso la finestra e camminano/si proiettano sul soffitto.",
+                    "bella.",
+                    "mi ha fatto schifo, ma mi complimento per l'originalità della similitudine.",
+                    "Bellissima.",
+                    "Sei ispirato con queste metafore",
+                    "trovo molto azzeccata la scelta dell'aggettivo.",
+                    "Perché al passato? Ho avuto un senso di smarrimento perché credevo si trattasse di un ricordo del protagonista.",
+                    "Questo è un passaggio che mi ha lasciato leggermente perplesso. Ho letto che hai voluto inserire una specie di elemento irreale, però non ne ho capito del tutto il motivo. Comunque, da un lato mi è piaciuto, mi ha fatto pensare a qualche immagine di Stephen King; dall'altro, forse proprio perché stona con il realismo che pervade tutto il pezzo fino ad allora, magari ho avvertito un leggero fastidio.",
+                    "Ciononostante, è una sciocchezza. Il racconto mi è piaciuto, soprattutto per lo stile molto secco e duro (alla McCartney) che comunque non ti ha impedito di inserire diverse immagini suggestive. L'atmosfera è riuscita a catturarmi. Il protagonista con le sue vocine nella testa è ben disegnato. Insomma, un racconto ottimo che ti è servito (credo) anche come ennesimo esercizio di stile su temi e atmosfere in cui sei sempre più tuo agio."
+                ]
+            ],
+            "timestamp": "2019-12-24T10:33:22Z",
+            "title": "Maschere e pistole",
+            "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=808163",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7867,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia 3: La consegna",
+        "Genere: Fantastico",
+        "Un po' di felicità",
+        "Il Natale in cui Dario Borghin si sveglia intorno a mezzogiorno, zeppo di sudore e nauseato dai bagordi della notte precedente, è il trentottesimo della sua vita e il tredicesimo dalla prima consegna. Come prima cosa, agguanta il cellulare dal comodino per controllare l’orario. La smorfia che gli compare sul viso e un curioso miscuglio di timore e confusione.",
+        "Sarebbe dovuto già arrivare .",
+        "Allora si stiracchia e allunga la mano destra verso l’altro lato del letto. Le dita scorrono rapaci sulla pelle nuda e calda di Alina, fino a quando con il palmo non stringe delicatamente il sedere che la rivista Vip’s ha definito – a ben ragione, ritiene lui – il più sexy d’Italia . Basta questo contatto per riportare almeno per qualche secondo un po' di serenità sul suo volto, oltre che per smuovere le lenzuola che gli ricoprono il pube. Dario getta un’occhiata. Per qualche momento accarezza l’idea di assecondare l’erezione, ma Alina continua a dormire profondamente e a lui ancora non va di svegliarla, non dopo averla costretta ad addormentarsi ben oltre le prime luci dell’alba. Di certo non contro la sua volontà – gli viene da pensare con una ricca dose di presunzione mentre continua a guardare il suo membro, al quale stenta ad abituarsi del tutto nonostante sia trascorso ormai un anno esatto. Se ripensa a com’era prima della dodicesima ‘consegna’ gli viene da urlare per la gioia. Nel caso gli dovessero chiedere quale, tra tutte, sia stata quella gli abbia donato più soddisfazione – anche se non di certo la più importante, questo lo sa bene! – non avrebbe alcun dubbio. Se Alina è finita nel suo letto forse è grazie al fatto che lui sia ricco e bello, ma se c’è restata è merito anche di quell'ultimo desiderio realizzato.",
+        "È proprio quando il suo pensiero va alle ‘consegne’, però, che ritorna l’agitazione e di conseguenza l’eccitazione svanisce. Si mette seduto e afferra una bottiglia mezza vuota di qualunque cosa fosse, era bello forte a giudicare dal mal di testa! e ne butta giù un sorso.",
+        "Riafferra il cellulare, apre WhatsApp, clicca su Maurizio e invia l'emoticon del caffè. Poi si alza e infila un paio di boxer e la vestaglia di seta color écru: secondo lo stilista che l’ha disegnata e se l’è fatta pagare profumatamente è un colore che si addice meravigliosamente al suo viso, gli dona un fascino orientale!",
+        "Esce dalla camera da letto. “Alexa, che ore sono esattamente?” chiede al buio del corridoio.",
+        "“Ciao, Dario. Sono le dodici e sedici del venticinque dicembre. A proposito… Jingle bell’s… Jingle bel…”",
+        "“Basta così, Alexa, non mi piacciono le canzoni natalizie!” A tale risposta l’apparecchio si zittisce. “Anzi, mi fanno proprio schifo” borbotta tra sé. Mentre scende al piano di sotto della sua villa di trecentottanta metri quadri con annessa maestranza",
+        "Era la sesta o la settima consegna? Non me le ricordo nemmeno più tutte",
+        "si ritrova a chiedersi da dove venga tutto quest’astio verso le Sante Feste, un astio tutt’altro che giustificato nel suo caso. Pensandoci bene, se ne vergogna. Non c’è un Natale che la ‘consegna' non venga effettuata. Non c'è regalo che non arrivi, da dodici anni. Eppure c'è qualcosa…",
+        "Per il tredicesimo non sarà diverso? È davvero in ritardo.",
+        "Al piano di sotto un altro Alexa è programmato per dargli il benvenuto accendendo lo schermo gigante del soggiorno. L’app Musica si avvia. Le note dei Bluejuices lo accolgono nella sala, dove un vassoio su cui sono poggiate due tazzine fumanti gli conferma che Maurizio ha fatto il suo dovere come ogni mattina. Ne prende una. Si mette a sedere sul divano che, per l’insolito color vinaccia del tessuto, risalta al centro della stanza come un chicco d'uva in un secchio vuoto.",
+        "Walking around on broken leg, Well, I can't get you outta my head. Well, I can't get you outta my head, You don't want to know me.",
+        "Broken Leg.",
+        "Gamba rotta.",
+        "È proprio con una gamba rotta che è cominciato. Non le ricorderà tutte, Dario, ma la prima ‘consegna’ non può togliersela dalla testa.",
+        "Aveva venticinque anni. Una scivolata sul vespino quasi lo ammazzava. Due costole rotte, frattura al bacino, tibia e perone frantumati, interventi su interventi, complicazioni su complicazioni, dolore. Natale immobilizzato in un letto d'ospedale che puzzava di ammoniaca e di gabbia per uccelli. Un solo desiderio: scappare via.",
+        "Poi al reparto era arrivato un pacco indirizzato a lui, proprio il mattino del venticinque dicembre. Il nome del mittente era illeggibile. Sulle prime, Dario aveva creduto si trattasse di un pensiero da parte degli amici, una specie di Buon Natale Ciccio, riprenditi presto, scusa se non passiamo a portartelo di persona ma abbiamo da fare, sai, è Natale, si fa festa…",
+        "Dopo averlo aperto era rimasto a bocca aperta: il pacco era vuoto. Ma in pochi minuti lo stupore era aumentato a dismisura, i dolori cessati di colpo e la gamba guarita del tutto.",
+        "“Signore, il pranzo di Natale è pronto. Ho apparecchiato per una persona come disposto, ma se la signorina…” La voce del domestico lo riporta al presente.",
+        "“Ah? No, no, la signorina Alina ha altri programmi.”",
+        "“Bene. Allora se è tutto io andrei, signore. Buon Natale.”",
+        "“Grazie, Maurizio, anche a te”.",
+        "La porta si chiude e lascia Dario nella solitudine dei suoi ricordi, di nuovo.",
+        "Un miracolo di Natale .",
+        "Così era stato per i medici. Un fatto inspiegabile. Figurarsi per lui. E il Natale seguente, quando un secondo pacco vuoto gli fu recapitato a casa, sempre privo di mittente, quasi svenne per l’incredulità. Il giorno dopo la lettera d'assunzione per la quale aveva pregato un anno intero. Ora che ci ripensa si sente uno stupido. Un lavoro tanto voluto e lasciato troppo in fretta una volta capite le regole di quel gioco incredibile: ad ogni mattina di Natale una ‘consegna’, un pacco vuoto e un desiderio realizzato.",
+        "A cosa serviva più quel lavoro?",
+        "Ricchezza. Salute. Bellezza.",
+        "Cosa può volere un uomo?",
+        "Preso dai ricordi quasi non vede Alina che è scesa giù a salutarlo prima di andare. Lei gli schiocca un bacio, lui s’inebria del suo profumo e pensa che magari non sarebbe male se restasse ancora un po’. Potrebbe chiederglielo, ma dubita che accetterebbe. Il Natale lo si passa in famiglia, e lui non è la sua.",
+        "Quando anche lei è andata, Dario si alza e va nella sala da pranzo. Mangia, beve, aspetta.",
+        "Qualche ora dopo è alla vetrata che da’ sui colli romani. Il panorama è bellissimo, ma mai quanto lo era stato alla decima 'consegna': allora la neve si era adagiata sulla città, come il Pan degli Angeli ricopriva le torte che la mamma preparava una volta al mese e che non mangiava più. Che l’avesse desiderata così tanto proprio per quello, la neve? O forse era stato solo un modo per non veder mancata una ‘consegna’, il capriccio di chi ha tanto da comandare ma nulla da chiedere?",
+        "Stavolta no, quello che ha chiesto lo vuole davvero.",
+        "E ancora non arriva .",
+        "Nel riflesso della vetrata, mentre fuori imbrunisce, Dario osserva il suo viso. Se pure si avvicina ai quarant’anni, non c’è nessuna traccia d'invecchiamento, e anzi più passa il tempo e più sembra ringiovanire e imbellire.",
+        "Quinta consegna",
+        "Gli occhi, di un indaco profondissimo,",
+        "Nona consegna",
+        "scavano nella testa e nel petto. Il cuore gli batte all’impazzata perché lui lo ha già capito che quest’anno la ‘consegna' non ci sarà; cuore che una volta faceva le bizze, affaticato da un ritmo di vita sempre più difficile da sostenere e che l’ennesimo pacco vuoto aveva rimesso in forze.",
+        "Ottava consegna",
+        "Quando ormai è notte, Dario è nel letto e ha smesso di aspettare. Nel buio l’azzurro dei suoi occhi è solo una sfumatura invisibile del nero. A nulla gli servono la sua ricchezza e la bellezza. Il cuore – forse s'inganna? – non gli sembra più così indistruttibile.",
+        "Dario ha capito che stavolta non arriverà più.",
+        "Eppure cosa ha chiesto di così impossibile? Cosa ha voluto di tanto grande da fermare la magia?",
+        "Solo un po’ di felicità."
+    ],
+    "timestamp": "2019-12-24T17:38:17Z",
+    "title": "[N2019 - 1B] Un po' di felicità",
+    "topic_id": 45709,
+    "url": "https://www.writersdream.org/forum/forums/topic/45709-n2019-1b-un-po-di-felicit%C3%A0/"
+}

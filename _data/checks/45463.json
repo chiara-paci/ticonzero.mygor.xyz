@@ -57,7 +57,7 @@
     },
     "num_chars": 3224,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 806990,
@@ -73,6 +73,21 @@
             ],
             "timestamp": "2019-12-18T16:53:24Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45463-neuronauta-incipit//?do=findComment&comment=806990"
+        },
+        {
+            "post_id": 808268,
+            "text": [
+                "Ciao , grazie per la lettura e il commento.",
+                "Per venire ai tuoi dubbi:",
+                "Gli ICE, come spiegato nell'inciso, sono \"sistemi di protezione informatica\", in pratica un'evoluzione di firewall e antivirus. Ho ripreso la parola dalla Trilogia dello Sprawl, di William Gibson, ed essa è l'acronimo di Intrusion Countermeasures Electronics.",
+                "Riporto la definizione della Treccani: \"motivo di coronamento architettonico, sovrapposto di regola a strutture di sviluppo verticale, come campanili, pinnacoli, contrafforti; è costituito da un elemento piramidale molto allungato, arricchito di membrature architettoniche e sculture ornamentali e figurate. È uno dei motivi più comuni nell’architettura medievale, specialmente del periodo gotico.\"",
+                "Nel mio testo l'immagine è usata in senso metaforico: i grattacieli svettano come guglie sopra la città.",
+                "In effetti questa frase è un po' difficile da spiegare. Il protagonista si immerge nella realtà virtuale ed è dunque in grado di percepirne l'essenza: un flusso continuo di dati che prendono forma di oggetti, suoni, colori.",
+                "Buon Natale anche a te e a rileggerci!",
+                "Luca"
+            ],
+            "timestamp": "2019-12-24T17:06:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45463-neuronauta-incipit//?do=findComment&comment=808268"
         }
     ],
     "post_staff": [],

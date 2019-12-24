@@ -93,7 +93,7 @@
     },
     "num_chars": 6242,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 808199,
@@ -121,6 +121,15 @@
             ],
             "timestamp": "2019-12-24T14:32:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808231"
+        },
+        {
+            "post_id": 808248,
+            "text": [
+                "Grazie mille a te per il commento (e anche per aver condiviso la tua esperienza bella e terribile )",
+                "Ciao e auguri"
+            ],
+            "timestamp": "2019-12-24T15:57:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808248"
         }
     ],
     "post_staff": [
@@ -165,6 +174,20 @@
             ],
             "timestamp": "2019-12-24T14:32:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808231"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808248,
+            "text": [
+                "Grazie mille a te per il commento (e anche per aver condiviso la tua esperienza bella e terribile )",
+                "Ciao e auguri"
+            ],
+            "timestamp": "2019-12-24T15:57:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808248"
         }
     ],
     "text": [
