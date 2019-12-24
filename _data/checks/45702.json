@@ -93,7 +93,7 @@
     },
     "num_chars": 6242,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 808199,
@@ -103,6 +103,24 @@
             ],
             "timestamp": "2019-12-24T13:04:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808199"
+        },
+        {
+            "post_id": 808208,
+            "text": [
+                "Grazie, magico",
+                "Una carezza natalizia anche a te"
+            ],
+            "timestamp": "2019-12-24T13:28:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808208"
+        },
+        {
+            "post_id": 808231,
+            "text": [
+                "Grazie . Per fortuna non è morto nessuno, per ora. Quello di Laura è un problema mentale, mentre Sergio se ne andrà presto per una brutta malattia. Ma lei non se ne renderà neanche conto, dato che lo vede praticamente ovunque. Direi che in un certo senso è un lieto fine, in qualche modo ci ho messo l’amore eterno",
+                "Ciao, auguri."
+            ],
+            "timestamp": "2019-12-24T14:32:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808231"
         }
     ],
     "post_staff": [
@@ -119,6 +137,34 @@
             ],
             "timestamp": "2019-12-24T13:04:15Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808199"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808208,
+            "text": [
+                "Grazie, magico",
+                "Una carezza natalizia anche a te"
+            ],
+            "timestamp": "2019-12-24T13:28:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808208"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808231,
+            "text": [
+                "Grazie . Per fortuna non è morto nessuno, per ora. Quello di Laura è un problema mentale, mentre Sergio se ne andrà presto per una brutta malattia. Ma lei non se ne renderà neanche conto, dato che lo vede praticamente ovunque. Direi che in un certo senso è un lieto fine, in qualche modo ci ho messo l’amore eterno",
+                "Ciao, auguri."
+            ],
+            "timestamp": "2019-12-24T14:32:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808231"
         }
     ],
     "text": [

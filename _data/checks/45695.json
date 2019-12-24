@@ -78,9 +78,25 @@
     },
     "num_chars": 7968,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 4,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 808236,
+            "text": [
+                "Non è un racconto facile. Proprio per niente.",
+                "Ti dirò cosa mi convince e cosa meno.",
+                "La doppia personalità del protagonista-narratore: non che non sia plausibile. Lui narra da un tempo successivo alla comprensione (della realtà, di ciò che avrebbe voluto essere e non ha avuto il coraggio di essere, sottoposto, invece, a una ferrea disciplina che ne ha fatto, a quanto pare, un top-gun). Quindi il registro sporchissimo, da relitto, da maledetto, ci può pure stare. Ma contrasta decisamente troppo, e smarrisce, in una lettura che già è ostica, perché lascia molto al non detto (qui si sta parlando di sperimentare una \"macchina del tempo\", in una delle sue forme che - non tutti sanno - è fra le più plausibili e, forse, prossime per il genere umano: quella del tunnel spaziotemporale). Personalmente il non detto l'ho molto apprezzato, ma io sono un nerd della sci-fi e mi chiedo quanti potranno sorvolare, in un racconto così, sui presupposti che stanno alla base della scelta di lui di offrirsi come cavia, e ai responsabili del progetto di sacrificare un pilota altamente addestrato... Vero, anche, che pare non ci sia più tempo (altra cose che mi è piaciuta solo in parte è come comunichi che siamo agli sgoccioli, dopo ci torno) e"
+            ],
+            "timestamp": "2019-12-24T15:08:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45695-n2019-1a-orizzonte-degli-eventi//?do=findComment&comment=808236"
+        }
+    ],
     "text": [
         "(una raccomandazione, se potete, di ascoltare L'orizzonte degli eventi dei Baustelle come sottofondo musicale di questo pezzo)",
         "Genere : sentimentale",

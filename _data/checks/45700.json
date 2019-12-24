@@ -12,13 +12,40 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Eccomi, .",
+                    "L'incipit in generale mi piace, solo: fino alle frasi che ho evidenziato, non ero sicura di quanti fossero i personaggi coinvolti, cioè non capivo se fosse Marija la persona il cui cui ricordo sconvolge Eugenio, se fosse il suo nome quello che non sentiva da tanti anni, oppure se si parlasse di una terza persona. L'incertezza dura poco (cinque righe in tutto) ma mi chiedo se sia voluta oppure no. Eventualmente, si potrebbe eliminarla aggiungendo:",
+                    "Marija parla di Calista, lui l'ascolta in silenzio.",
+                    "*questa è l'unica nota descrittiva dell'arredamento in tutto il racconto , non aggiunge nulla, dato che nemmeno sappiamo dove Eugenio viva adesso (o con chi), come sia la sua casa, eccetera. L'indefinitezza del luogo da cui Eugenio parte crea secondo me un bel contrasto con la descrizione di Sarajevo che è invece molto importante nel racconto. Per questo eliminerei.",
+                    "Refusi",
+                    "L'espressione è \"chiudendosi la porta alle spalle\", immagino che tu non abbia messo il \"si\" enclitico per non fare ripetizioni. In realtà ho sempre trovato questa espressione strana: per chiudere un porta a chiave (come immagino si chiuda la porta di casa) bisogna starci di fronte. Immagino quindi sia un modo dire che sottolinea la volontà di chi se ne va di guardare avanti. Però in questo caso non mi sembra un'espressione adatta, in più, non ho trovato altre frasi fatte in questo racconto (brava!) e allora potresti togliere anche questa.",
+                    "Direi piuttosto \"lo stile\", io per un po' ho creduto che la mano di Calista fosse immortalata nella fotografia. Non capisco poi perché hai usato il condizionale: Eugenio non \"riconoscerebbe\", bensì \"riconosce\" (perché effettivamente il riconoscimento delle fotografie fatte da Calista avviene). Azzardo: avevi scritto nella prima versione \"riconoscerebbe la mano di Calista tra mille\" (o qualcosa di simile) e poi hai corretto. Dato che le mani non sono mille, però, qui ci va l'indicativo.",
+                    "Via l'articolo.",
+                    "\"Ometto\" è di solito un termine un po' spregiativo per indicare una persona particolarmente bassa e esile, oppure meschina. Credo che in questo caso sia più indicato \"giovane\" oppure \"ragazzo\".",
+                    "Emy, mi sforzo di trovare qualche altro inciampo. Non lo trovo: non ho visto refusi, te la sei cavata egregiamente con gli articoli. Lo stile ha elementi un po' desueti (es. \"calpestio\") che ormai riconosco come un tuo tratto personale, ma non sei stata \"cronachistica\" come ti succede a volte quando hai un racconto troppo complesso per gli ottomila caratteri a disposizione. I personaggi e le loro motivazioni sono limpidi. Il finale è un po' troppo dolce per i miei gusti, ma riconosco che si tratti di gusto personale e che in realtà va benissimo così.",
+                    "La verità è che quando scrivi questi racconti ambientati nella Ex Jugoslavia, parlando di storia, parlando della guerra e degli strascichi che ha lasciato e di personaggi che l'hanno attraversata, la mia capacità critica vacilla un po'. Sono talmente incuriosita e affascinata che perdo il disbelief e riesco solo a pensare \"porca miseria, è già finito vorrei leggerne ancora!\".",
+                    "Devo ancora leggere il racconto di Vincenzo, ma per quanto mi riguarda la tua è un'ottima prova."
+                ]
+            ],
+            "timestamp": "2019-12-24T09:56:33Z",
+            "title": "[Sfida 26] Calista",
+            "url": "https://www.writersdream.org/forum/forums/topic/45670-sfida-26-calista//?do=findComment&comment=808148",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -26,8 +53,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 4146,
-    "num_commenti": 0,
-    "num_posts": 4,
+    "num_commenti": 1,
+    "num_posts": 5,
     "post_after": [],
     "post_staff": [],
     "text": [
