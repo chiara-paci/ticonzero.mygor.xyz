@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 30259,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Garrula",
+        "url": "https://www.writersdream.org/forum/profile/30259-garrula/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , mi piace questo inizio lento, scandito dai respiri. Non mi convince moltissimo la quantità di frasi nominali: un paio vicine possono starci bene, ma rischia di diventare una costrizione nei confronti del lettore, che si sente chiamato a inserire i verbi al tuo posto.",
+                    "Mi piace molto la prima frase, ma non riesco a cogliere la connessione con la seconda",
+                    "Tra le due metterei un punto e virgola, perché passa un po’ di tempo tra la preparazione e l’ebollizione dell’eroina",
+                    "Giubbino?",
+                    "Come sopra, tante frasi nominali, un po’ troppo vicine. A me di norma non dispiacciono, ma non vorrei fosse una cosa che ti viene automatica.",
+                    "Mi è piaciuto molto, anche senza spiegazioni sulla voce nella sua testa e sul rapporto ambiguo con la ragazza (che ci sarà stato? Non ci sarà stato?) Sei riuscito a farmi vedere le cose, dalla pubblicità alla televisione, e a caratterizzare un personaggio passivo della propria violenza. E la cosa non è facile. La storia funziona, l’azione c’è, così come le giuste informazioni taciute.",
+                    "Ho apprezzato la lettura e passerò a rileggerti volentieri."
+                ]
+            ],
+            "timestamp": "2019-12-24T11:27:33Z",
+            "title": "Maschere e pistole",
+            "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=808173",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 6073,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia﻿: La consegna",
+        "Boa: inserire le parole ecrù, indaco e vinaccia",
+        "﻿",
+        "Il nano della procrastinazione",
+        "La strada è bloccata da una vigilessa bionda, che gli fa cenno di fermarsi.",
+        "Lavorare sotto le feste, a meno che non si sia dotati di orecchie a punta, dovrebbe essere illegale.",
+        "E Giovanni non ce le ha, le orecchie a punta. Non ha neanche un cappellino rosso, se è per questo, né delle babbucce arcuate per proteggerlo dal freddo di questa città inerpicata sui monti, che Dio solo sa se anche qui devono esserci dei bastardi che ordinano i pacchi online.",
+        "Ci sono.",
+        "Neanche la vigilessa ha le orecchie a punta, né un po’ di spirito natalizio: lo costringe a parcheggiare il camioncino delle consegne fuori dal centro, ai piedi di una ripida salita acciottolata, sulla quale l’uomo sa già che rischierà di inciampare ad ogni passo. Dopo aver scaricato il camion non ci vede un accidenti, colpa della mezza dozzina di pacchi ecrù che gli stanno impilati tra le mani, coprendogli la vista. Un albero di natale di cartone. Che tristezza.",
+        "Le feste hanno paralizzato il paese﻿; centinaia di bancarelle ne ostruiscono le strade, ma non possono bloccare la ditta: quella deve filare sempre che è un piacere.",
+        "Mai un intoppo: se vi chiedono di consegnare in Cina, voi lo fate. Se la casa è in vetta, vi arrampicate. Se chi ordina è un naufrago, voi nuotate. Per ogni ritardo o pacco perso rischiate di brutto, sappiatelo.",
+        "Sicuro. Per Giovanni passare dal reparto impacchettamenti a quello delle consegne era sembrato un grande passo avanti. Almeno poteva starsene fuori, respirare un po’ d’aria, e non sempre quella puzzolente di scotch dei magazzini. Però non aveva pensato che quei ritmi frenetici – impacchetta, scotchetta, etichetta – dovessero essere rispettati anche fuori.",
+        "«Questo è l’ultimo pacco. Poi basta, mollo tutto. Andrò a vendere frittelle alle giostre, piuttosto, sicuro che me la passerei meglio di così». Ma non dice sul serio. Come lo trova un altro lavoro, a quest’età? I magazzini si sono mangiati i suoi anni migliori, lasciandolo come un torsolo di mela ingiallito. E ora la folla lo sballotta da una bancherella all’altra, come se il suddetto torsolo fosse stato impacchettato, scotchettato e etichettato, un ammaccato pacco postale. Il profumo del vin brûlé lo intontisce, colpendolo al naso con forza, mentre le nenie natalizie gli appesantiscono i passi. Vorrebbe fermarsi, per una volta. Sedersi, magari.",
+        "Ora che è quasi arrivato alla fine della via la massa di gente si assottiglia. Il flusso delle poche persone rimaste scorre attorno a una bancarella, un isolotto a punta sormontato da un pesante panno indaco. Attorno alla tenda sono accatastati rottami, detriti del tempo foderati di stoffe floreali o rivestiti d’ottone: poltrone, credenze, candelabri, un orologio a pendolo fermo alle sei e un quarto di chissà quale secolo.",
+        "Sopra a un pouf verdognolo c’è un ca﻿rtello giallo, piegato a metà perché possa starsene in piedi, ben in vista.",
+        "“Ritrovate la meraviglia del tempo perduto. Solo qui, solo oggi.”",
+        "Davanti al tavolino, unico elemento d’arredo sotto alla tenda, c’è una coppia, che parla con il proprietario della bancarella. Sono entrambi di spalle. Giovanni vede la donna indietreggiare, due dita che tirano l’orlo della giacca del fidanzato. L’ambulante non cede: ha guance rotonde, con labbra simili a lombrichi. I vermi si contorcono, decantando chissà quale meraviglia, e dalle loro estremità scorrono due rughe profonde.",
+        "«Mi sembra un semplice nano da giardino».",
+        "L’oggetto in questione è seduto a gambe incrociate sul tavolino dell’ambulante, spiegazzandone un poco la ruvida tovaglia color vinaccia. Il nano sembra fissare la coppia che si allontana, deluso. Giovanni ora è solo, con l’ometto e la sua bocca vermosa.",
+        "«E io non ho il giardino.»",
+        "«Mio caro -posso darti del tu?- sembra un semplice nano da giardino, ma ti posso assicurare che è il massimo ritrovato della ricerca alchemica, la risposta a tutte le crisi della società moderna post rivoluzione industriale. Non ti senti mai sopraffatto dalla frenesia delle tempistiche? Dalla scure delle consegne? Non vorresti poterti fermare, ogni tanto, senza l’incubo del tempo che passa?»",
+        "Giovanni ingoia un bolo di saliva e di a﻿nsia, sentendo il gelo del ferro sul collo. Il capo era stato chiaro: niente ritardi, mai, neanche con l’apocalisse, altrimenti è licenziato. Finito. Tace mentre l’uomo continua a parlare, le guance rubizze da pupazzo da ventriloquo che gli si accendono di un rosso sempre più caldo.",
+        "«In molti ti diranno che l’unico mezzo per ricavarti del tempo sia l’accelerare, ma si sbagliano! Checché ne dicano, noi, noi – le mani corrono da sé al nanetto, più volte – abbiamo la soluzione: basta appoggiarsi questo piccolino sul petto e il tempo si dilaterà fin tanto che ne avrai bisogno. Potrai pensare alla vita, al mondo, l’universo e tutto quanto senza sensi di colpa, perché non perderai un solo secondo di tutto quello che sta al di fuori di te.»",
+        "«Soddisfatti o rimborsati?»",
+        "«Soddisfatti o rimborsati, amico mio. E posso farti anche un ottimo prezzo, visto che mi stai simpatico».",
+        "Due ore dopo l’uomo è disteso sui sedili posteriori del camioncino, con l’ultimo pacco da consegnare sotto la testa, a mo’ di cuscino, un bicchierino di brûlé fumante tra le mani e la giacca della ditta a scaldargli i piedi.",
+        "Il nano è seduto a gambe incrociate sul suo sterno, un piccolo peso di ceramica lucida, con un vago odore di gesso. Non ha una barba vera e propria, ma solo qualche peletto dipinto di grigio, in fretta e malamente, forse alle cinque del pomeriggio. Gli occhi guardano al nuovo proprietario da fessurine scure con un luccichio divertito, mentre Giovanni prova a parlare.",
+        "«Ti prego, fammi tornare nel tempo reale, non ne posso più di restare bloccato qui. Riprenderò persino il lavoro, se mi chiederanno di consegnare in Cina, giu﻿ro che lo farò. Se la casa è in vetta, mi arrampicherò. Se chi ordina è un naufrago, nuoterò. Ma lasciami andare!»",
+        "«Ma mio caro, sai cosa me ne faccio io delle tue promesse? Hai voluto fermarti, e quindi goditela; ma chi si ferma, carino, è perduto»."
+    ],
+    "timestamp": "2019-12-24T20:36:46Z",
+    "title": "[N2019-1B] Il nano della procrastinazione",
+    "topic_id": 45715,
+    "url": "https://www.writersdream.org/forum/forums/topic/45715-n2019-1b-il-nano-della-procrastinazione/"
+}
