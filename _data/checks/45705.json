@@ -50,8 +50,20 @@
     },
     "num_chars": 8026,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 808336,
+            "text": [
+                "e Grazie per i commenti!",
+                "Mi sa che ho unito il mio esaurimento da preparativi natalizi con quello da social. Sono contenta se almeno ne è venuto qualcosa di buono",
+                "Se passa di qua volentieri, ma sconsiglio a tutti e due i ravioli in brodo",
+                "Sì, l'idea era proprio che dovesse essere un po' folle (mi sono sincerata con le mie socie che non lo fosse troppo ) Un bellissimo complimento quindi, grazie!"
+            ],
+            "timestamp": "2019-12-24T19:34:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45705-n2019-1b-un-magico-tragico-natale//?do=findComment&comment=808336"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Genere: fantastico",

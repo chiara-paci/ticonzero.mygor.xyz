@@ -1,0 +1,143 @@
+{
+    "author": {
+        "author_id": 11057,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "ITG",
+        "url": "https://www.writersdream.org/forum/profile/11057-itg/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Talia, hai scelto un argomento tosto. Si parte ragionando sulla felicità ma si finisce con l'allargare il discorso a qualcosa di più ampio: la natura umana, la voglia di esplorare, di capire.",
+                    "Leggendo il tuo brano mi sono venute in mente diverse cose, a tratti mi ha ricordato \"Il mondo nuovo\" di Huxley e l'idea che, paradossalmente, l'infelicità sia un diritto non meno importante del diritto alla felicità. Che poi cosa è la felicità? restare chiusi in una scatola perfetta, in un recinto ben arredato? limitare gli orizzonti sacrificandoli per una siepe che alla fine risulta esserci addirittura cara? e quando ne abbiamo la possibilità cosa scegliamo di fare? restiamo chiusi nel nostro recinto oppure rischiamo di sbirciare verso l'esterno?",
+                    "Quando citi le giornate che si somigliano tutte mi è, invece, venuta in mente una storia molto bella di Dylan Dog, dove in un paese in cui non si muore le giornate si ripetono in maniera identica. Da qui parte un'altra riflessione molto complessa, può resistere l'uomo in un mondo che ti fa stare così bene da non concedere ambizioni? E' una domanda vecchia come il mondo, il frutto proibito che, nonostante tutto, l'uomo non rinuncerebbe mai a cogliere.",
+                    "Lo trovo scritto abbastanza bene, anche considerando che è un racconto per il MI ed è quindi stato scritto di fretta. Cambierei qualcosina, ma sono considerazioni legate al gusto personale.Ti lascio qualche considerazione sparsa.",
+                    "Asciugherei qualche dialogo, soprattutto all'inizio quando mi appare troppo esplicativa la domanda.",
+                    "La eliminerei lasciando",
+                    "Magari inserendo il punto in modo da evidenziare la parola felicità senza ripeterla due volte.",
+                    "Ho apprezzato le descrizioni inserite senza fermare l'azione, tipo:",
+                    "Eviterei qualche ridondanza.",
+                    "Mi piace questo dialogo, semplice e potente, carico di significato. Racchiude l'intera idea del racconto.",
+                    "Cosa c'è oltre il fiume? Chi non si è mai chiesto cosa c'è oltre il fiume? Una domanda potente la cui importanza evidenzi (giustamente) nel paragrafo successivo.",
+                    "Forse questo paragrafo va un po' sistemato, magari asciugato un po'.",
+                    "Questa figura appena accennata del sindaco mi piace. Il sindaco che parla dell'infelicità altrui rappresenta tutto ciò che ci frena nell'andare \"oltre\": le nostre paure, i nostri limiti, la nostra educazione.",
+                    "Il finale mi è piaciuto, anche se, mentre leggevo, avrei scommesso che alla fine sarebbero tornate ad Al Madina. Hai dotato i tuoi protagonisti di molto coraggio, complimenti a te e a loro."
+                ]
+            ],
+            "timestamp": "2019-12-24T18:21:18Z",
+            "title": "[MI 131] Cosa c'è dall'altra parte",
+            "url": "https://www.writersdream.org/forum/forums/topic/45439-mi-131-cosa-c%C3%A8-dallaltra-parte//?do=findComment&comment=808308",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7760,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 808333,
+            "text": [],
+            "timestamp": "2019-12-24T19:29:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45712-n2019-1a-c%C3%A8-gente-che-festeggia//?do=findComment&comment=808333"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Grazie Pasquali’.",
+        "Mi hai versato dell’acqua, fa bene bere alla mia età, anche perché non si avverte più la sete come quando si è giovani. La natura a volte pare organizzarsi come lo sceneggiatore di un film e dispone i pezzi per arrivare alla fine della storia.",
+        "Sei un bravo ragazzo e un po’ mi dispiace che devi startene qui stasera, stai tranquillo però ché svegli fino a mezzanotte non ci arriviamo e magari avrai il tempo di andartene in giro per i fatti tuoi.",
+        "2010, chi lo avrebbe detto che sarei arrivato a vedere il dieci dopo il duemila, nemmeno lo concepivo un numero così e ci vuole una buona dose di tristezza per apprezzare a pieno lo scenario.",
+        "Quante facce.",
+        "Occhi lenti e guance accartocciate, di alcuni non conosco nemmeno i nomi ma ne riconosco le storie. Sono tutte simili a un certo punto, declinati al passato sbiadiscono anche i colori più accesi e restano monotoni quadri in scale di grigio.",
+        "No, non mi va il vino, non stasera.",
+        "Le ricorrenze: feste di compleanno, cene di capodanno, non le reggo; ne ho fatte troppe e, chissà se lo avverti già, sono solo un tragicomico tentativo di prendere in giro il tempo che passa.",
+        "Avevo una clessidra su di uno scaffale nel salone. Delle volte la ruotavo e mi mettevo a osservare i granelli di sabbia che cadevano.",
+        "Uno alla volta.",
+        "Quanto è grande un granello di sabbia? Te lo sei mai chiesto?",
+        "La conosco questa canzone Pasquali’.",
+        "Sei stato bravo a scegliere la musica. Racconta di un amore di un uomo per una donna che ha sposato un altro. Le parole sono semplici, chiare. Ho provato ad ascoltare canzoni moderne e non ci ho capito niente. Non è colpa mia, sono nato quando la gente non capiva e le cose le dovevano spiegare per bene, anche le canzoni.",
+        "Siamo sempre silenziosi a cena, ognuno resta assorto nei suoi pensieri. Per l’occasione alcuni sono andati con la propria famiglia, poveracci, raccogliere briciole di affetto lanciate da chi non vuole sentirsi troppo in colpa.",
+        "Io i miei figli li vedo un paio di volte al mese, chiameranno domani per gli auguri.",
+        "È meglio così.",
+        "Da ragazzino vivevo al primo piano di un palazzo a corte, il tizio al piano terra teneva delle galline a cui avevo dato i nomi. Quando iniziarono a sparire una alla volta, non ebbi il coraggio di chiedere che fine avessero fatto.",
+        "È quello che provo quando vedo una sedia vuota a ora di cena e che strano effetto fa starci dentro al pollaio invece che guardarlo dall'alto.",
+        "Qui siamo tutti clessidre che hanno pochi granelli da lasciar cadere.",
+        "Prendi un po' di pesce grigliato, non è cucinato un granché e non è fresco, ma è pur meglio di un pugno in faccia. Del cibo non mi lamento mai, sono uno dei pochi qui a mangiare sempre tutto, abbiamo sofferto la fame e non me ne sono mai dimenticato.",
+        "Potresti alzare un po’ il volume?",
+        "Mi piace veramente la canzone, lui non accetta che il suo amore possa vivere lontano.",
+        "Sei innamorato tu Pasquali’? Lo sei mai stato? Hai mai sofferto per amore?",
+        "Finisce sempre male, basta guardare tutti noi. È che non si possono sincronizzare due clessidre, una finisce sempre prima di un’altra, anche solo per qualche granello.",
+        "Passami anche un po’ di pane, non dirmi niente, ché mi viene uno strano dolore dietro la schiena se stendo troppo le braccia. Sei un bravo ragazzo, dico sul serio, e poi hai gli occhi buoni, neri come ne ho visti pochi e carichi di cose belle.",
+        "Usali bene i tuoi occhi Pasquali’, rivolgili a chi vuoi e non stare troppo ad ascoltare.",
+        "Ti stai annoiando vero? Anche io mi annoierei al tuo posto.",
+        "Non siamo stati sempre vecchi, lo so che è difficile a crederci, neanche io ci credevo alla tua età.",
+        "Non avevo gli occhi come i tuoi, sono figlio della fame io. E della guerra.",
+        "Mio padre mi ha cresciuto con un solo braccio, l’altro lo aveva dato per la Patria. Ci hanno fatto una testa così con la Patria, fai bene tu a non saperne niente.",
+        "Dicevano che mi stava bene la divisa.",
+        "A mia moglie piaceva, mi guardava piena di orgoglio quando la indossavo. Ci siamo sposati nella chiesa di paese e io la misi solo per far piacere a lei. Aveva degli occhi buoni come i tuoi che io ho visto scaricarsi poco a poco di tutte le cose belle.",
+        "La conobbi a una cena, nulla a che vedere con questa, c’erano meno cose da mangiare ma il pesce era fresco.",
+        "E quante facce.",
+        "Così diverse, con colori chiusi dentro che spingevano per uscire. E non tutte hanno avuto la fortuna di invecchiare. Quanti colori ha tenuto chiusi la guerra.",
+        "Mi ci portò Giovanni. Occhi neri pure lui, ma meno buoni dei tuoi. Li teneva carichi ma non ho mai capito se fossero solo cose belle.",
+        "C’erano le canzoni quella sera e voglia di ballare, con la guerra impari a ritagliarti sprazzi di spensieratezza dentro i quali infilare un po’ di vita.",
+        "Mani grosse quelle di Giovanni che quasi pareva poterci tenere il mondo.",
+        "Mi passò un bicchiere con del vino e brindammo guardandoci negli occhi. A volte non lo reggevo lo sguardo di Giovanni e non capivo perché.",
+        "Te l’ho detto, a noi le cose ce le dovevano spiegare.",
+        "Si mise a ballare con una ragazza bassina con dei capelli ricci che le ondeggiavano dolcemente sulle spalle. Lo guardavo mentre glieli accarezzava con quelle sue mani così grosse da poterci prendere il mondo. Presi un altro bicchiere di vino mentre quel mondo lo sentivo mancare sotto i piedi. Notai le mani della ragazza che era seduta di fronte, così piccole e dolci che, invece, nel mondo sembravano esserci arrivate per caso.",
+        "La invitai a ballare come avevo visto fare a Giovanni. Cercavo di incrociare il suo sguardo mentre carezzavo anche io dei capelli di una donna.",
+        "Partimmo per il fronte quattro giorni dopo.",
+        "Mio padre mi abbracciò con l’unico braccio che gli era rimasto, mia madre mi diede un bacio sulla fronte. Giovanni non disse una parola per le prime tre ore di viaggio, aveva gli occhi fissi nel vuoto e svuotati di ogni cosa.",
+        "Lo sai che quando passa un aereo alcuni di noi sobbalzano? Certe paure sono più forti del tempo, ti rimangono attaccate addosso come i granelli di sabbia bagnata.",
+        "Giovanni non è più tornato, gli spararono dopo venti giorni. Le sue mani grosse hanno lasciato il mondo senza avere nemmeno il tempo di provare a prenderlo.",
+        "Io fui più fortunato. Forse.",
+        "Ho ammazzato invece di essere ammazzato. Non ci vuole tanto coraggio a sparare a un uomo, è qualcosa di più simile alla vigliaccheria, ma una vigliaccheria collettiva dentro cui finisci per perderti.",
+        "Quando vidi la salma di Giovanni le strinsi forte quelle mani grosse, fredde come non credevo potesse essere possibile.",
+        "Avevo vent’anni.",
+        "Quanto vale un granello di sabbia Pasquali’?",
+        "Forse tu sai dirmelo. Sembravano così tanti quando osservavo la clessidra, eppure si arrivava al punto in cui quelli della parte di sotto diventavano più di quelli di sopra.",
+        "Ci sono notti che ancora sogno quella cena.",
+        "Ci ho messo più di sessant’anni per capirlo. Ma non è colpa mia Pasquali’, a noi le cose ce le dovevano spiegare, non potevi permetterti di capirle da solo.",
+        "E poi mica è facile essere frocio per un figlio della guerra.",
+        "Brutti tempi i miei.",
+        "Abbassa un po’ il volume se puoi, mi mette tristezza questa canzone.",
+        "Racconta di un uomo lontano dalla sua amata perché è al fronte a combattere.",
+        "Certo che l’ho amata mia moglie. L’ho amata come mi hanno spiegato si faceva ad amare, e le ho dedicato canzoni belle, facili da capire.",
+        "È così che dovrebbe essere l’amore: facile.",
+        "E spero che lo sia adesso, per voi che capite quello che noi non riuscivamo a capire.",
+        "E avete canzoni a cui noi non arriviamo.",
+        "E potete addirittura permettervi di capirle da soli, le cose.",
+        "Da soli Pasquali’…",
+        "Ci vuole coraggio a capire da soli. E io sono uno che nella vigliaccheria si è perso, e ora ha paura di guardare i granelli di sabbia ai due lati della clessidra.",
+        "Quanto coraggio che tenete Pasquali’.",
+        "Brutti tempi i tuoi.",
+        "Accompagnami in camera per piacere. Non ho voglia di vedere la gente che festeggia."
+    ],
+    "timestamp": "2019-12-24T19:28:02Z",
+    "title": "[N2019-1A] C'è gente che festeggia",
+    "topic_id": 45712,
+    "url": "https://www.writersdream.org/forum/forums/topic/45712-n2019-1a-c%C3%A8-gente-che-festeggia/"
+}
