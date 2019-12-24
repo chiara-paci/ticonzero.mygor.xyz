@@ -1,0 +1,80 @@
+{
+    "author": {
+        "author_id": 13892,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Cerusico",
+        "url": "https://www.writersdream.org/forum/profile/13892-cerusico/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, , bentrovato.",
+                    "Mi sono imbattuto nel tuo testo, breve e compatto, ed è stato facile passare dal leggere la prima riga al proseguire fino all’ultimo punto.",
+                    "Credo che tu abbia trovato un parallelismo originale tra l’ascensore e l’assassino, mi hai convinto e divertito, in un certo senso, proprio perché è arrivato inatteso, spiazzante, quelle cose che leggi e ti chiedi “caspita, come ho fatto a non pensarci mai?” e ti ritrovi ad ammirare la capacità di pensare lateralmente da parte dell’autore, in questo caso tu.",
+                    "Credo che nel complesso il testo funzioni anche in virtù della scelta di mantenerlo compatto, senza fronzoli e dettagli, e in tal senso forse potresti pensare, per esempio, di eliminare quei puntini sospensivi, che usi in un paio di occasioni e che non trovo granché necessari. Nel testo c’è una certa “freddezza” di fondo, che può essere in linea rispetto al protagonista e al suo mestiere, tuttavia questo può anche rappresentare il limite più evidente del racconto, che rischia di passare in maniera fin troppo asettica (proprio come l’ascensore e il sicario) anche nella mente del lettore.",
+                    "In quest’ottica, posso suggerirti di provare a sfruttare questo testo come idea in nuce da sviluppare in una forma racconto più esaustiva, che metta in evidenza una situazione più chiara e immersiva, in modo da empatizzare (anche in modo negativo) col protagonista e ritrovarsi spaesato con lui nell’ascensore bloccato, accadimento che in questa versione passa un po’ così, non troppo sentito, così come i suoi pensieri rispetto alle conseguenze di quell’evento, che forse mi suonano un po’ tirate.",
+                    "Quindi, qualora tu decidessi di rimetter mano al tuo testo e di sfruttarne appieno le potenzialità narrative, il mio suggerimento è di puntare su una costruzione di una scena drammatica più consistente, più ricca di dettagli, più completa a tutti i livelli. Ma bada, questo se e soltanto se a te interessa farlo. Se invece ti ritieni soddisfatto di questa istantanea, un po’ ironica un po’ amara, allora puoi tranquillamente tenerla per ciò che è, ovvero una immagine interessante e che nella sua brevità risulta ficcante e diretta.",
+                    "Come sempre, l’invito è quello di sfruttare ciò che può interessarti ed esserti utile, e di scartare ogni segnalazione o suggerimento non in linea coi tuoi obiettivi.",
+                    "A rileggerti!"
+                ]
+            ],
+            "timestamp": "2019-12-24T14:02:37Z",
+            "title": "Tutto procede secondo i piani",
+            "url": "https://www.writersdream.org/forum/forums/topic/45079-tutto-procede-secondo-i-piani//?do=findComment&comment=808222",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 6893,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia: Alterazione",
+        "Genere: sentimentale",
+        "...poi perse il nome",
+        "E capitò così, con la stessa naturalezza con cui il sole sorge ogni mattina. L’anziano, di cui si parla ancora oggi nei bar, nei circoli e per le strade del paese, si addormentò che il mondo sembrava ancora al suo posto, ma al risveglio, mentre tirava indietro i capelli sottilissimi, incrociò il proprio sguardo in una fotografia: era in compagnia di una donna sorridente, felice nella maniera assoluta e incondizionata che è propria soltanto delle donne. Lui mise gli occhiali per osservarla meglio, per trovare ciò che la carta opaca pareva celargli, chiedendosi chi fosse e perché non riuscisse a ricordarne nemmeno il nome.",
+        "Ci aveva provato in molti modi ad arginare la perdita di pezzi di sé e della propria vita. Aveva tenuto un diario, scritto note, riorganizzato in maniera maniacale le fotografie, catalogato ogni soprammobile e oggetto che fosse ancora in grado di legare a un momento preciso. Aveva preso l’abitudine di portare un pennarello bianco sempre con sé, lo rigirava tra le mani anche mentre era a tavola, lo usava per apporre segni di cui poi dimenticava il senso e, dopo un po’, aveva rimosso anche la ragione per cui lo teneva in tasca. Si era sforzato così tanto in quell’impresa che aveva finito per aggrovigliarsi ancora di più nel turbinio di pensieri sfilacciati che ormai seguiva a fatica. Tutto ciò che aveva imparato e applicato in una vita da uomo di scienza si rivelò vano, assorbito dai vuoti che, come buchi neri del cervello, inghiottivano ogni cosa, anche la donna della fotografia e il bell’uomo che andava a trovarlo quasi ogni sera, lo abbracciava con affetto e lui non sapeva perché lo facesse, ricambiava senza calore e, quando la porta si richiudeva e rimaneva solo con un’estranea che guardava la tv e parlava al telefono, stava in bagno a lungo per dare pugni alle piastrelle.",
+        "Travolto dall’irrazionale timore che qualcuno potesse leggere i suoi appunti, aveva cominciato a cercare i posti più strani per nasconderli, talmente impensabili che aveva finito per dimenticarli. Si era reso conto che alcune cose non le avrebbe riavute, erano ormai perdute non come oggetti, ma come istantanee di qualche luogo del mondo in cui due persone avevano trascorso del tempo, scoperto qualcosa, magari erano state felici. Il mondo intero doveva sentirsi più povero quando capitava una cosa del genere: tutta la fatica per riscaldare gli uomini e per alternare le stagioni affinché pittori e bambini fossero felici sprecata così, ogni gesto risucchiato troppo in profondità nell’abisso delle storie, irraggiungibile e remoto come le cose mai vissute.",
+        "L’uomo guardò la foto a lungo, mentre dentro di sé tutto cedeva. Si vestì, controllò di avere il pennarello e si preparò per uscire, come ogni giorno da quando era in pensione, sebbene questa cosa lui ormai non la sapesse più, la faceva e basta, sempre lo stesso percorso che costeggiava la scogliera, il mare mosso da un vento impetuoso che quasi lo sollevava da terra, la salsedine a inumidirgli il soprabito e i lampioni spenti che sembravano sul punto di piegarsi.",
+        "Incurante, l’anziano continuava a replicare il rituale con la testardaggine dei vecchi. E proprio lì, la mattina in cui perse il nome della donna amata, lesse la scritta sul primo lampione, una scritta a mano, bianca e con una grafia tremante, grossolana: Milena, mia moglie, 3/6/1946 , c’era scritto, e capì subito che quella frase lo riguardava, che quello era il giorno in cui l’aveva sposata, e al diavolo se non riusciva a evocare né un luogo né un odore né uno sguardo carico di promesse. In un sussulto di entusiasmo, si illuse che nemmeno la memoria scivolosa avrebbe potuto cancellare i momenti vissuti, e che forse in un altro mondo, in un’altra realtà o dimensione, in un pianeta diverso eppure uguale, distante qualche secolo o qualche anno luce, tutto si sarebbe ripetuto, e un altro sé sarebbe stato bene di nuovo.",
+        "Milena.",
+        "Il nome gli rigirò nella mente abbastanza a lungo da confonderlo, in un fluire sfrenato di immagini che si facevano fumose proprio quando lui provava a diradare la foschia. Nei pochi passi che lo separavano dal lampione successivo recitò il nome della moglie a voce alta, una litania pagana per esorcizzare il pericolo di lasciarlo affondare una volta ancora.",
+        "Viaggio di nozze a Venezia . Si immaginò più giovane in gondola o in piazza a farsi foto tra i piccioni, le cose scontate che per gli innamorati sembrano così speciali, e non importa se magari qualche volta si erano persi, avevano mangiato male, trovato uno scarafaggio in camera o sentito un cattivo odore per strada, se si erano raffreddati o avevano discusso per motivi futili.",
+        "Nascita di Biagio, 12/10/1949 . Lo trovò scritto poco dopo, e per qualche istante riuscì a lavorare sull’associazione tra quel nuovo nome e il volto dell’uomo che gli faceva visita e lo abbracciava stretto, forte.",
+        "— De l'aube claire jusqu’à la fin du jour",
+        "Je t'aime encore, tu sais, je t'aime —",
+        "ballata a Montmartre sotto la pioggia, 1968",
+        "Recitava così il quarto lampione, senza che risvegliasse alcuna immagine se non la sensazione, discreta e indistinta, di essere stato felice. Poi qualcosa cambiò, apparvero delle scuse, frasi che lasciavano trasparire colpe e mancanze. E ancora, ringraziamenti per i massaggi alle gambe, parole di cui si vergognò, tanto da arrivare a sperare che non fosse stato lui a scriverle, ma per ironia della mente proprio di quei ricordi finì per visualizzare immagini precise, serate in cui Milena lo faceva accomodare sulla sua poltrona preferita, si inginocchiava e usava l’olio di mandorle per lenirgli i dolori alle gambe.",
+        "Giunse in fondo alla passeggiata, all’ultimo lampione. Il sentiero lungo le tracce della sua vita si completò quando lesse le parole finali: Ti chiedo perdono, Milena, per il giorno in cui mi dimenticherò di te . Forse le lacrime gli inumidirono gli occhi, o copiose gli bagnarono il volto, o si mise a urlare contro il cielo, o forse rimase in silenzio, preda del vento: le versioni sono diverse, ma quel che conta è che tornò a casa, prese la foto che aveva guardato al risveglio e, quando provò a rivolgersi alla donna sorridente, già non ne ricordava il nome.",
+        "Ed è così che, ancora oggi, le donne del paese custodiscono la storia dell’uomo che scriveva sui lampioni. Ricalcano le scritte ogni volta che il tempo, avido di vite, le rende quasi illeggibili, poi aggiungono qualche dettaglio sempre nuovo. L’episodio che raccontano più spesso è quello del giorno in cui l’anziano mostrò la foto al bell’uomo che gli faceva visita, gli indicò la donna e gli chiese se ne conoscesse il nome. L’uomo annuì, gli occhi attraversati da tristezza oppure da dolcezza, stati d’animo distanti eppure così simili; prese una penna e scrisse Milena . Il vecchio sorrise appena, se ne tornò in camera, si stese con la foto poggiata sul cuore e dal letto non si alzò più."
+    ],
+    "timestamp": "2019-12-24T17:52:47Z",
+    "title": "[N2019-1B] ...poi perse il nome",
+    "topic_id": 45710,
+    "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome/"
+}
