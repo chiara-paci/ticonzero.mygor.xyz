@@ -71,8 +71,17 @@
     },
     "num_chars": 8474,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 808167,
+            "text": [
+                "Che belle parole! Grazie."
+            ],
+            "timestamp": "2019-12-24T10:47:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45674-a-bordo-di-un-filo-daria//?do=findComment&comment=808167"
+        }
+    ],
     "post_staff": [
         {
             "author": {
