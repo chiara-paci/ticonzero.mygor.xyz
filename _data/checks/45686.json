@@ -60,8 +60,19 @@
     },
     "num_chars": 4370,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 808109,
+            "text": [
+                "mi fa molto piacere che hai apprezzato questa breve storia. Ti dico che la parte finale l'ho vissuta veramente ed è stato un momento molto commovente dal quale ho sentito la necessità di costruirci un racconto.",
+                "Non è per niente un commento arzigogolato o fuori di testa, anzi, hai colto molti particolari di mia intenzione. E grazie per il \"ci tenevo a dirtelo\", ho stimato molto questa volontà.",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-12-24T00:34:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45686-un-luogo-tranquillo//?do=findComment&comment=808109"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Camminava osservando i loro volti, immaginandosi le loro vite. Visi dolci, sereni, sorridenti, stampati, ma che trasmettevano una vibrazione, almeno in Davide. Si soffermava a contemplare, dialogare con quelle presenze sconosciute nella quiete e anche il suo animo si quietava.",
