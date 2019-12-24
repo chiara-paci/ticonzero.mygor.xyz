@@ -12,48 +12,22 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": true,
-        "valid": 1.0,
-        "weight": true
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
     },
     "closed": false,
-    "commenti": [
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 1
-            },
-            "text": [
-                [
-                    "Sostituirei anch'io \"inchinato\" con chinato. Mi sembra suoni meglio. L'immagine da te ricreata è molto malinconica. Delicata ma allo stesso tempo lacerante. L'idea che mi suscita è una situazione (concreta, o un sentimento) giunta al capolinea. Il mozzicone infatti è chinato ed è rimasta solo una voluta leggera, come un ultimo respiro condiviso. E poi nient'altro più da condividere. Mi sembra di vederlo quel mozzicone, con quel debole disegno di fumo, e immagino la stanza avvolta nel buio, un buio concreto e interiore.",
-                    "Nel vasetto non è rimasta",
-                    "la tanta cenere caduta:",
-                    "lontano l'ha sparsa il vento.",
-                    "Mi suggestiona l'ìdea di un ricordo così debole che nemmeno rimane, come questa cenere che il vento sparge per la stanza. Un'immagine bella, molto dolorosa. Soltanto non mi convince la parola vasetto.",
-                    "Con fastidio schiacciata,",
-                    "spenta con indifferenza,",
-                    "è già stata dimenticata.",
-                    "Corpo di donna vinto dal tempo.",
-                    "Tutto era così evanescente che è stato spento con indifferenza, e quasi dimenticato. Mi dà l'idea di un sentimento, un rapporto che non ha avuto lo spessore che avrebbe dovuto avere, e quindi si lascia dimenticare con un po' di rabbia e distacco.",
-                    "Lo stile di questa tua poesia è molto delicato, assume tinte pastello. I colori sono molto malinconici, in linea con l'immagine evocata. Negli occhi ho l'immagine di un salotto nella penombra. Tutta la poesia trasmette con efficacia un senso di fine ineluttabile, la sofferenza che ne deriva, ma anche la consapevolezza che quella situazione doveva essere portata a termine perché non più in grado di dare alcun frutto, proprio come la sigaretta che prima o poi finisce. Ma alla fine si intravede nel testo anche una sorta di reazione, un volersi lasciare tutto alle spalle. Un desiderio di rinascita."
-                ]
-            ],
-            "timestamp": "2019-12-21T10:01:42Z",
-            "title": "Sigaretta finita",
-            "url": "https://www.writersdream.org/forum/forums/topic/45625-sigaretta-finita//?do=findComment&comment=807606",
-            "weight": 1
-        }
-    ],
-    "commenti_weight": 1,
+    "commenti": [],
+    "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
         "title": "Poesia",
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
-    "num_chars": 194,
-    "num_commenti": 1,
-    "num_posts": 6,
+    "num_chars": 44,
+    "num_commenti": 0,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 807632,
@@ -113,16 +87,29 @@
             ],
             "timestamp": "2019-12-21T15:17:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=807653"
+        },
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 808183,
+            "text": [
+                "ciao, provo a lasciarti qualche impressione sulla tua poesia.",
+                "Nella prima strofa presenti una situazione, quella del pistolero che spara a delle bottiglie, che nel finale mediante una metafora si trasforma nel fare i conti con dei ricordi. Quello di ritrarre una situazione per poi decontestualizzarla tramite una figura retorica, dirottando il senso verso qualcos'altro che esprime il messaggio della poesia è una buona tecnica per rendere poetico un testo. E nel tuo caso la metafora è calzante e sostiene bene il componimento.",
+                "La parte su cui lavorerei e come viene condotta nello svolgimento, mancano un po' di elementi a sostegno di questo meccanismo. Possiamo avere una metafora anche all'interno di un discorso e sebbene possa dare un tocco poetico al dialogo, forse non lo rende una poesia. Lo schema che usi è tipico, prendiamo un classico della poesia italiana: San Martino del Carso di Ungaretti; il parallelo tra il paese devastato e lo strazio del cuore-cimitero, svolge una funzione simile.",
+                "Può sembrare ingeneroso un confronto con Ungaretti ma è utile per cogliere dei dettagli. Infondo siamo qui per migliorarci.",
+                "La struttura dei versi, troppo conforme a una cadenzatura prosaica (assenza di enjambements) e la scelta di frasi che descrivono azioni: ho vestito, ho messo, ho sparato. Asciugano la dimensione visionaria del testo rendendo troppo schematica la metafora. Forse un lavoro sensoriale, musicale, o altro, l'avrebbe servita in maniera più ricca. Nella poesia di Ungaretti l'iterazione e una geometria formale (seppur nel verso libero) \"vestono\" poeticamente tutto il componimento. A mio avviso manca un tocco di magia in più, perché la prima parte della metafora dovrebbe contenere già un potenziale poetico sufficiente, tale da essere amplificato nella trasformazione di significato svolto dalla metafora. Questo senza voler introdurre un tono aulico nella tua poesia.",
+                "Dunque direi un buona intuizione formale per quel che riguarda lo schema della poesia, però manca di ricchezza, che si può esprimere anche in un componimento breve. Anche perché la sintesi è un altro punto di forza di questo componimento.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-12-24T11:59:41Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45673-john-wayne//?do=findComment&comment=808183"
         }
     ],
     "text": [
-        "Comment",
-        "Ho vestito i panni di John Wayne",
-        "e messo in fila come bottiglie",
-        "i ricordi con te vissuti,",
-        "per frantumarli fino all'ultimo proiettile.",
-        "Ho sparato tutto il giorno.",
-        "Nessun colpo è andato a segno."
+        "*Contenuto rimosso su richiesta dell'utente*"
     ],
     "timestamp": "2019-12-21T10:05:05Z",
     "title": "John Wayne",
