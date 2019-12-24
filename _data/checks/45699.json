@@ -1,0 +1,107 @@
+{
+    "author": {
+        "author_id": 17729,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Vincenzo Iennaco",
+        "url": "https://www.writersdream.org/forum/profile/17729-vincenzo-iennaco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "rimirare lo associo a qualcosa di apertamente esposto, mentre qui vedrei più aderente scorgere, intravedere.",
+                    "si sta riferendo alla spiaggia, che in questo momento sta vedendo dall'albergo e non vi si trova fisicamente, quindi dovrebbe essere il luogo in cui ci era andato per la prima volta da giovane.",
+                    "ho stentato a cogliere questa associazione. La gabbia mentale dello stereotipo mi colloca il paradiso prettamente in cielo e da qui il piccolo cortocircuito nel paragone. Nella metafora direi più che le acque fresche lo rendevano un piccolo angolo di paradiso, o qualcosa del genere.",
+                    "dall'apertura del racconto sappiamo che si sta riferendo a una spiaggia incastonata in una baia, ripeterlo qui è un po' pleonastico. Ma questa osservazione l'ho fatta più a titolo d'esempio per dire che nel racconto ho riscontrato altri periodi che possono essere sfoltiti del superfluo, ma non interverrò ogni volta per non risultare pedante.",
+                    "questa è un'osservazione più sensoriale. A livello fonetico la doppia iterazione mi ha prodotto un ritmo da tiritera. Il primo può essere eluso, il secondo ne sottintende già il senso.",
+                    "invertirei i soggetti dando il moto alla schiena, che va a cozzare contro la roccia.",
+                    "Il racconto emana un fascino melanconico e poetico. C'e il mare e la sua cornice ad accomunare i tre protagonisti e, in senso traslato, la simbologia del perpetuo scorrere del Tempo.",
+                    "Il brano poi si dirama in tre temporalità distinte: il paragrafo del vecchio è volto al passato, dove il mare è screziato di ricordi e malinconie; quello del giovane è volto al presente virato nelle sue battaglie e paure; e infine quello sognante del bimbo e della beata primavera nel Tempo, quando si è ancora ignari del suo concetto.",
+                    "Il racconto lo hai poi strutturato molto bene, a mio parere, legando i tre tempi con i personaggi e la loro entrata in scena.",
+                    "Sulla forma ci sono periodi che potrebbero essere sfoltiti, non sono intervenuto al riguardo perché di tratta di piccole limature che vanno incontro anche al gusto personale. Il brano è comunque scorrevole e mi è piaciuto particolarmente per la levità e la tenerezza in cui scorrono e s'intrecciano le diverse stagionalità della vita. Certo la brevità del racconto ha dovuto costringerle a una stilizzazione, ma per me sei riuscito con pochi ingredienti a ottenere una congrua amalgama emozionale."
+                ]
+            ],
+            "timestamp": "2019-12-24T09:44:22Z",
+            "title": "[MI 132] La baia",
+            "url": "https://www.writersdream.org/forum/forums/topic/45592-mi-132-la-baia//?do=findComment&comment=808145",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 7874,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia - La consegna (ma và? )",
+        "Zigulì entrò nel colorificio alle dieci del mattino. L'odore di vernici e solventi non bastava a stemperare la puzza di guai che si portava appresso. Solo a vederlo ti faceva desiderare di scomparire all'istante piuttosto che averci a che fare.",
+        "Lo sfregio obliquo che gli correva lungo l'occhio di vetro, che copriva con una benda solo quando gli girava bene. Cioè quasi mai. Il ghigno perennemente storto sul naso a rampogna, anche questo ricordo del KGB, come l’occhio. Il cappellaccio color vinaccia sulla zazzera bionda, ma più vicina a una stoppa ecrù.",
+        "Si chiamava Sergej Uprancevich – o qualcosa del genere – ma il nomignolo gli era rimasto incollato dai tempi del suo Fiat 124, che si ostinava a chiamare Zigulì perché così era conosciuto quel modello in Unione Sovietica.",
+        "Era arrivato da lì nel lontano millenovecento-e-vattelapesca, e qui di strada ne aveva fatta parecchia, sotto le grazie di Tonello Trauro, il camorrista.",
+        "E adesso me lo ritrovavo davanti al banco.",
+        "Non cercai di sostenerne lo sguardo né tanto meno gli domandai cosa desiderasse. Era assai più salubre fare finta di non esistere proprio. Mi limitai a tenere lo sguardo chino su dei pennelli, saggiando col pollice la morbidezza delle setole.",
+        "«Una latta grande d'indaco e del solvente» chiese, tamburellando sul banco un paio di salsicciotti ingioiellati.",
+        "Evasi l'ordine in un minuto e quarantacinque secondi spaccati e lo trovai con una sigaretta tra le labbra.",
+        "«Hai da accendere?» masticò tra i denti.",
+        "Alzai lo sguardo per dimostrargli che c'ero e avevo inteso. Ma non dissi niente, non ce n'era bisogno.",
+        "«Vabbuò» e s'intascò la sigaretta. «Stasera alle otto alle vasche. Col furgone.»",
+        "Prese le latte, girò i tacchi e “chi s'è visto s'è visto”.",
+        "Cosa potevo fare? Quel trattamento di favore abbuonava il pizzo assieme alla mesata che i Trauro passavano per mio fratello. Ora che era in carcere toccava al bravo fratellino fare la sua parte. Da queste parti non è che puoi decidere con la tua testa.",
+        "Le “vasche” erano degli sparuti laghetti artificiali del Circolo Pesca Sportiva Trauro, a ridosso della tangenziale. Voleva essere una piccola oasi di verde e tranquillità ma si riduceva a un lotto spelacchiato incastrato tra le discariche della Terra dei Fuochi. In quanto alla tranquillità… be’, bastava andare a cercarla sui fondali, e chiedere a quelli che avevano fatto da cibo per i pesci.",
+        "Arrivai un quarto d'ora prima e accostai alla recinzione. La strada era deserta e male illuminata da pochi lampioni. Più avanti, un capannone di stoccaggio era invece illuminato a giorno, e da lì giungeva il chiacchiericcio intermittente dei muletti.",
+        "Spensi il motore e aspettai. Nonostante avessi lasciato il riscaldamento acceso, un sudore freddo mi prese alle mani e ai piedi, sentivo il fiato raggrumarsi in gola. Da quando Zigulì era uscito dal negozio mi ero macerato nell'ansia, e la preoccupazione per quella consegna si era attagliata alle lancette dell'orologio, che presero a girare inesorabili. Dovetti salire sulla scala e scollegare le batterie dal grande orologio con il logo Sikkens, perché il ticchettio dei secondi mi rimbombava in testa.",
+        "Col furgone, aveva detto Zigulì. Ciò significava solo una cosa: avrei dovuto fare da corriere.",
+        "Droga? Armi? Organi? Che importava?",
+        "Quello sarebbe stato comunque un battesimo del fuoco, il mio debutto nel mondo della criminalità.",
+        "Alle otto in punto una luce si accese nel prefabbricato, all'ingresso della peschiera. Anche se non avevo visto entrare nessuno, capii che qualcuno da dentro mi stava dicendo “ora puoi entrare”.",
+        "Aprii la portiera, la lucina dell'abitacolo si accese e sussultai come un ladro colto in flagrante: dire che avevo i nervi a fior di pelle sarebbe un eufemismo.",
+        "Nello scendere incrociai il mio sguardo nello specchietto del parasole: gli occhietti di un passerotto spaurito. Anche le gambe si erano ritratte nell'angoscia, andavano un po' come volevano, tanto che dovetti reggermi al cofano per non cadere giù come una pera cotta. In tutti i modi, raggiunsi il cancelletto e feci per suonare il campanello, ma la serratura scattò come per telepatia.",
+        "La porta del prefabbricato era invece già aperta. Zigulì mi fece cenno di entrare, il cappellaccio da corvo in testa e la benda sull'occhio. Non sapevo se rasserenarmi o meno in quel segno propizio.",
+        "«Passato bene la giornata?», disse, con il ghigno ancor più storto del solito. Pensai che c'era poco da star sereni.",
+        "«Che volete da me?» chiesi.",
+        "«Oh, nulla di che. Devi solo consegnare un regalino a Tonello. Lo farei volentieri io, ma si è guastata la macchina.»",
+        "Guardai il “regalino” sul tavolo. Era la latta da 14 litri che gli avevo venduto al mattino. I bordi presentavano sbavature di colore, segno che era stata aperta, svuotata e riempita con chissà cosa.",
+        "«Che ci sta dentro?» mi uscì dalla bocca.",
+        "Il ghigno di Zigulì si raddrizzò in una fessura stretta stretta.",
+        "«Caramelle, ananassi, 'a capa 'e fratete... nun t'adda fottere proprio» rispose, con un dialetto quasi perfetto che mi stupì.",
+        "Rimasi qualche istante con lo sguardo fisso sulla latta, poi il ghigno storto tornò a illuminare il volto di Zigulì. E tanto bastò a farmi vincere qualsiasi renitenza: tutto pur di sottrarmi a quel ghigno.",
+        "Non so come raggiunsi il furgone; a ogni passo il contenuto della latta sciabordava e cozzava alle pareti con tonfi sordi. Allo stesso modo il mio battito sciabordava ora in petto ora in gola, ora non lo sentivo proprio. Sistemai la latta nel retro, montai in cabina e partii. Imballai il motore. Riavviai e di nuovo il furgone ebbe un sussulto. Le gambe non ne volevano sapere del gioco di pedali. Mi massaggiai le cosce, strappai per i capelli la padronanza del corpo e rimisi in moto.",
+        "Lasciai quelle buie strade disastrate e presi lo svincolo per Nola.",
+        "Guidavo a settanta all'ora, il finestrino abbassato per il bisogno di sentire l'aria fresca della notte frustarmi il viso, scacciare il tarlo che si era insinuato nella testa e girava, girava.",
+        "Caramelle ... Ananassi ... Davvero aveva infilato in quella latta pasticche di ecstasy e bombe a mano? Ne dubitavo. 'A capa 'e fratete ... Questo lo trovavo più plausibile, ma lo sapevo ancora in carcere. Però non ero andato mai una volta a trovarlo, né chiedevo spesso sue notizie. Provai a far mente locale di quando lo avevo fatto l'ultima volta, ma non ricordavo. Doveva trattarsi senza dubbio di mesi. Quanti? E se nel frattempo era uscito? O, peggio ancora, si era pentito? Forse c’era davvero la testa di mio fratello, là dentro.",
+        "Ripensai a quello sciabordare e cozzare dentro la latta. Un conato acido mi prese alla gola; fortuna che non avevo nessuno dietro, perché inchiodai accostando nella corsia d'emergenza. Scapicollai dal furgone e mi aggrappai al guardrail a vomitare, poi mi concessi qualche minuto per rifiatare.",
+        "Il resto del viaggio fu un tormento unico. Mi arrovellavo nella tentazione di fermarmi e gettare la latta. E se Zigulì mi aveva solo preso in giro e buttavo alle ortiche un gruzzolo di diamanti? Ci sarei finito io in cento latte di vernice. O su un fondale della peschiera a ingrassare trote. Aprire la latta per sincerarmi del contenuto non me lo feci passare neanche per l'anticamera del cervello.",
+        "Il luogo della consegna era un elettrauto di cui Zigulì mi aveva scritto l'indirizzo su un foglietto; una nota aggiungeva di bussare tre volte alla saracinesca. Così feci. Un clangore di ferraglia echeggiò nella via e Tonello Trauro apparve sulla soglia.",
+        "«Dov'è il mio regalo?» disse, senza convenevoli.",
+        "Presi la latta con due mani, attento a non scuoterla troppo, e gliela porsi. Nel prenderla mi trattenne le mani. Restammo un istante così, a fissarci negli occhi.",
+        "«Indaco, perfetto! Colore rilassante, aiuta a meditare» fece mentre l’apriva, con un sorriso strano. «A meditare su quello che succede ai traditori. Ora tocca a te, guagliò.»",
+        "No, da queste parti non si può decidere di testa propria."
+    ],
+    "timestamp": "2019-12-24T10:02:42Z",
+    "title": "[N2019-1A] La consegna",
+    "topic_id": 45699,
+    "url": "https://www.writersdream.org/forum/forums/topic/45699-n2019-1a-la-consegna/"
+}
