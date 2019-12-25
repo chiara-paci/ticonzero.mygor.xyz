@@ -54,7 +54,7 @@
     },
     "num_chars": 7684,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 807947,
@@ -77,7 +77,23 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45680-n2019-1a-mirror-box//?do=findComment&comment=808147"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 808426,
+            "text": [
+                "Ben scritto, sia dal punto di vista linguistico sia da quello stilistico. Le allucinazioni del protagonista sono efficaci e molto visive e in tutto ciò sei riuscito a inserire anche giochi di parole e rimandi ad altre discipline artistiche. Il ritmo non ha cedimenti e ti trascina spedito dalla prima immagine all'ultima; durante la lettura ho cercato di decifrare quale strana associazione di idee il racconto mi stesse suggerendo e solo ora sono arrivato a capirlo. Hai presente quei giochi da luna-park, tipo \"tunnel dell'orrore\", in cui ti siedi su una carrozzina che ti porta dentro a un castello infestato o simili? Ecco, è proprio la sensazione che mi ha lasciato: un viaggio veloce all'interno della mente devastata del personaggio, dove appaiono allucinazioni paragonabili a mostri, streghe e assassini che si succedono veloci, senza gli effetti horror-splatter dei baracconi del luna-park, che qui non erano richiesti.",
+                "Funziona tutto in questo racconto; non avevo letto molti pezzi tuoi in precedenza, ma questo è di certo quello che più mi ha impressionato.",
+                "Bravo."
+            ],
+            "timestamp": "2019-12-25T11:08:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45680-n2019-1a-mirror-box//?do=findComment&comment=808426"
+        }
+    ],
     "text": [
         "Traccia: Alterazione",
         "Macro-genere: fantastico",

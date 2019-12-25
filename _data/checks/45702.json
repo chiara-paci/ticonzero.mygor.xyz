@@ -93,7 +93,7 @@
     },
     "num_chars": 6242,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 808199,
@@ -139,6 +139,15 @@
             ],
             "timestamp": "2019-12-24T21:23:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808359"
+        },
+        {
+            "post_id": 808428,
+            "text": [
+                "Mi sono ispirato all’ agnosia , ma ho voluto dargli un taglio più pissicologico e tipo ribbaltato. Cioè.",
+                "Grazie, . Ti rispondo prima del pranzo di Natale che a farlo dopo mi rovineresti la digestione."
+            ],
+            "timestamp": "2019-12-25T11:36:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808428"
         }
     ],
     "post_staff": [
@@ -211,6 +220,20 @@
             ],
             "timestamp": "2019-12-24T21:23:45Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808359"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808428,
+            "text": [
+                "Mi sono ispirato all’ agnosia , ma ho voluto dargli un taglio più pissicologico e tipo ribbaltato. Cioè.",
+                "Grazie, . Ti rispondo prima del pranzo di Natale che a farlo dopo mi rovineresti la digestione."
+            ],
+            "timestamp": "2019-12-25T11:36:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808428"
         }
     ],
     "text": [
