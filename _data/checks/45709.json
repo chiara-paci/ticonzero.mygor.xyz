@@ -54,7 +54,7 @@
     },
     "num_chars": 7867,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 5,
     "post_after": [
         {
             "post_id": 808416,
@@ -68,6 +68,15 @@
             ],
             "timestamp": "2019-12-25T10:08:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45709-n2019-1b-un-po-di-felicit%C3%A0//?do=findComment&comment=808416"
+        },
+        {
+            "post_id": 808464,
+            "text": [
+                ", grazie infinite per il passaggio e per le belle parole, sono davvero contento che il racconto ti sia piaciuto!",
+                "Buon Natale!"
+            ],
+            "timestamp": "2019-12-25T17:19:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45709-n2019-1b-un-po-di-felicit%C3%A0//?do=findComment&comment=808464"
         }
     ],
     "post_staff": [],

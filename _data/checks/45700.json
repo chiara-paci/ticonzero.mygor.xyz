@@ -54,8 +54,19 @@
     },
     "num_chars": 4146,
     "num_commenti": 1,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 808462,
+            "text": [
+                ", , , e , grazie per essere passati e per il vostro apprezzamento!",
+                "Userò il poco tempo a disposizione in questi giorni per lasciare qualche commento ai racconti in gara.",
+                "Buon Natale, intanto a voi e al mio compagno di squadra/supporter ."
+            ],
+            "timestamp": "2019-12-25T17:12:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45700-n2019-1b-23_12_2016//?do=findComment&comment=808462"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia : alterazione.",
