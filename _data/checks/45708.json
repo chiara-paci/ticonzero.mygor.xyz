@@ -36,9 +36,36 @@
             "title": "Maschere e pistole",
             "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=808242",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Povero Agamennone. A quanto pare non ha molto successo con le donne. Qui viene abbandonato da una concubina, lo attende ancora il tradimento della moglie Clitennestra e l’assassinio per mano del suo amante Egisto. Sarà poi la figlia Elettra a vendicarlo, dando così origine ad una figura amata dagli psicanalisti moderni ricordiamo che il complesso di Elettra è l’equivalente femminile di quello di Edipo). Non mi risulta un Alceo. Nella mitologia Briseide è il patronimico di Ippodamia, sacerdotessa di Apollo e figlia di Briseo. Ma il fatto che non riusciamo a collocare Alceo, né sappiamo se Briseide di cui si parla sia o meno la scedotessa di Apollo citata da Omero, nulla toglie alla storia, che si lascia leggere con piacere. L’intreccio ci riporta comunque agli intrighi tipici delle tragedie greche dell’epoca di Sofocle.",
+                    "L'unica inesattezza \"storica\" è che forse Egisto e Clitennestra forse non attesero così tanto prima di assassinare Agamennone. Ma a noi lettori non cambia niente.",
+                    "Che Apollo fosse intervenuto per ingannare un Acheo è più che credibile, oltretutto stava mancando di rispetto a una sua sacerdotessa.",
+                    "Apprezzabile ricordare che c'era l'usanza di mescolare il vino con l'acqua per renderlo una bevanda dissetante.",
+                    "nelle stanze del gineceo, dov e, accoccolata su una lettiga in legno intarsiat o, g iaceva addormentata Briseide. Aggiungerei le due virgole.",
+                    "Paragonare il proprio re a un cane potrebbe però suonare un po' irrispettoso. Non trovi?",
+                    "L'impressione che si ha è di un moderno impianto con interruttore, in realtà un braciere subisce una progressiva attenuazione del calore e lo spegnimento è tutt'altro che istantaneo.",
+                    "Mi piace.",
+                    "L'interesse per il figlio di un altro uomo è giustificato dal fatto che all'epoca non di rado gli uomini importanti decidevano di allevare un figlio altrui come proprio. Hai fatto bene a riportarlo.",
+                    "gattaiolare, e poi sgattaiolare è un termine dell'inizio 1800. Mi stride un po' leggerlo in un racconto ambientato nell'antica Grecia. Ma d'altronde il racconto è del 2019, quindi ci può anche stare.",
+                    "Perché attendere l'alba? Solitamente si confidava nella complicità della notte.",
+                    "Bel racconto. Mi è piaciuto. A dire il vero, forse ti ho fatto un po' troppe osservazioni.",
+                    "Alla prossima."
+                ]
+            ],
+            "timestamp": "2019-12-25T10:37:26Z",
+            "title": "[N2019-1A] L'inganno di Alceo",
+            "url": "https://www.writersdream.org/forum/forums/topic/45692-n2019-1a-linganno-di-alceo//?do=findComment&comment=808419",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -46,10 +73,24 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 7986,
-    "num_commenti": 1,
-    "num_posts": 1,
+    "num_commenti": 2,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 808491,
+            "text": [
+                "Racconto . Il commento indicato per postare, in apice al racconto, era insufficiente."
+            ],
+            "timestamp": "2019-12-25T20:15:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=808491"
+        }
+    ],
     "text": [
         "(macrogenere: sentimentale , traccia: alterazione)",
         "Iniziai a ricredermi sulla pericolosità di un aneurisma cerebrale a sessant’anni quando mi resi conto che i bigliettini che mia moglie distribuiva agli uomini che incrociavamo, mentre mi portava in giro sulla sedia a rotelle lungo i corridoi dell’ospedale, erano i suoi biglietti da visita con l’aggiunta di “prossimamente vedova”.",

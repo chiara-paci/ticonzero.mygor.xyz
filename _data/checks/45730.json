@@ -1,0 +1,42 @@
+{
+    "author": {
+        "author_id": 35195,
+        "checks": {
+            "contest": 0,
+            "flag": false,
+            "narrativa": 4,
+            "poesia": 1
+        },
+        "name": "Nero Infinito",
+        "url": "https://www.writersdream.org/forum/profile/35195-nero-infinito/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 669,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Se davvero non possiamo evitare le grinfie di colei che dal giorno in cui nasciamo inizia il conto alla rovescia per trascinarci nel suo regno fetido e oscuro così distante dalla luce a cui ci abituiamo a ogni battito di ciglia, allora perché affannarci a costruire qualcosa di caduco ed effimero?",
+        "Quale il motivo di cotanto clamore e trambusto? Perché calpestare ogni giorno gli stessi sassi e le stesse pietre di chi ha già provato a trovarne il senso?",
+        "In questo momento il mio presente è già passato e proprio riga dopo riga sto restituendo tempo a chi già me ne vuole sottrarre e allora basta, smetto di contare e mi lascio cullare dall’attesa del mio fatale sparire."
+    ],
+    "timestamp": "2019-12-26T01:17:36Z",
+    "title": "\"Tempo sprecato\"",
+    "topic_id": 45730,
+    "url": "https://www.writersdream.org/forum/forums/topic/45730-tempo-sprecato/"
+}
