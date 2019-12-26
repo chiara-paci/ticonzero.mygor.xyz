@@ -27,8 +27,38 @@
     },
     "num_chars": 7961,
     "num_commenti": 0,
-    "num_posts": 7,
-    "post_after": [],
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 808666,
+            "text": [
+                "Grazie del passaggio",
+                "In realtà mi piace un sacco il sentimentale per me dolcezza e semplicità vanno a braccetto^^",
+                "Il finale non voleva essere inaspettato, ho inserito volutamente vari flag qua e là",
+                "Grazie ancora a tutti"
+            ],
+            "timestamp": "2019-12-26T18:22:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45714-n2019-1b-mentre-il-mio-violino-suona-dolcemente//?do=findComment&comment=808666"
+        },
+        {
+            "post_id": 808673,
+            "text": [
+                "Ma non preoccuparti^^ in effetti qui sul WD pubblico quasi solo cose di un certo tipo... Ma è più un caso che altro"
+            ],
+            "timestamp": "2019-12-26T18:45:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45714-n2019-1b-mentre-il-mio-violino-suona-dolcemente//?do=findComment&comment=808673"
+        },
+        {
+            "post_id": 808694,
+            "text": [
+                "grazie mille del passaggio e delle belle parole",
+                "Col taglio ho dovuto ridurre all'osso molte descrizioni; quando ordina da mangiare è passato da poco il tramonto (d'estate, quindi è abbastanza tardi), lo dico qui:",
+                "A presto!"
+            ],
+            "timestamp": "2019-12-26T20:12:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45714-n2019-1b-mentre-il-mio-violino-suona-dolcemente//?do=findComment&comment=808694"
+        }
+    ],
     "post_staff": [],
     "text": [
         "commento",
