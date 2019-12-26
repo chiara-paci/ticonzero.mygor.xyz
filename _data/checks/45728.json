@@ -4,7 +4,7 @@
         "checks": {
             "contest": 0,
             "flag": false,
-            "narrativa": 4,
+            "narrativa": 3,
             "poesia": 1
         },
         "name": "Nero Infinito",
@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,26 @@
     },
     "num_chars": 26943,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 808529,
+            "text": [
+                "Buongiorno , perdona se i miei post sono tutti uguali: ti invito a leggere meglio le regole da seguire per postare un racconto. Prima di tutto bisogna commentare in maniera esausituva e rispettosa un altro racconto e metterne il link nello stesso post del tuo racconto, e poi si devono rispettare gli 8000 caratteri. Oltre questo, si puè pubblicare un solo racconto al giorno.",
+                "Elimino l'altro racconto con lo stesso titolo perché risulta pubblicato due volte lo stesso racconto.",
+                "Quindi chiudo, ti invito a leggere il regolamento di ogni sezione e a pubblicare in racconti lunghi o a capitoli. Ricordati che serve il commento.",
+                "Buona permanenza e buone feste!"
+            ],
+            "timestamp": "2019-12-26T07:16:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45728-mademoiselle-juliette//?do=findComment&comment=808529"
+        }
+    ],
     "text": [
         "Quello che state per leggere, è tutto vero. Non c’è finzione nella malattia, non c’è spazio per il dubbio nel dolore altrui. Anche quando può sembrare irrazionale, il dolore è incontestabile. Questa è la tragica storia di una fragile donna e della sua discesa all’inferno dai risultati infausti.",
         "“È così importante sapere dove una storia comincia o finisce? Saperne l’origine cambierebbe il finale? Non credo ma che questa storia sia avvenuta nella seconda metà degli anni ’90 in una cittadina operaia di poco più 60 mila anime nel sud della Francia è un’informazione che aiuta a inquadrarne il contesto socio-culturale e a dare credito e realismo a questa discesa all’inferno.”",

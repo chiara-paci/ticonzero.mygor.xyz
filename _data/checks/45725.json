@@ -4,7 +4,7 @@
         "checks": {
             "contest": 0,
             "flag": false,
-            "narrativa": 4,
+            "narrativa": 3,
             "poesia": 1
         },
         "name": "Nero Infinito",
@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,25 @@
     },
     "num_chars": 9321,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 808530,
+            "text": [
+                "Buongiorno ti invito a leggere meglio le regole da seguire per postare un racconto. Prima di tutto bisogna commentare in maniera esaustiuva e rispettosa un altro racconto e metterne il link nello stesso post del tuo racconto, e poi si devono rispettare gli 8000 caratteri. Oltre questo, si puè pubblicare un solo racconto al giorno.",
+                "Quindi chiudo, ti invito a leggere il regolamento di ogni sezione e a pubblicare in racconti lunghi o a capitoli. Ricordati che serve il commento.",
+                "Buona permanenza e buone feste!"
+            ],
+            "timestamp": "2019-12-26T07:21:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45725-corvo-bianco//?do=findComment&comment=808530"
+        }
+    ],
     "text": [
         "Quanti possono affermare di aver visto un corvo bianco? Chi ha avuto la fortuna di vederlo, può affermare di non aver creduto fermamente che fosse solo un corvo albino? La verità è che i corvi bianchi esistono e nascono insieme agli altri pennuti nella stessa covata. Un corvo bianco ha la vita difficile da subito: nel 90% dei casi, i fratellini e la stessa madre, non lo riconoscono come uno di loro e famelici, si avventano sul minuscolo corpicino implume, dilaniandolo e facendo di esso il loro primo pasto. Questo meraviglioso volatile bianco e dagli occhi azzurri, ha un unica soluzione per salvarsi: buttarsi giù dal nido e sperare di sopravvivere all’impatto con il terreno in quanto ancora sprovvisto di ali ben sviluppate: un salto nel vuoto, nella paura dell’ignoto.",
         "Questa è la storia di Maddalena, una ragazza dalla pelle di porcellana e gli occhi color azzurro cielo d’Irlanda, capelli color carota e lievemente mossi, un sorriso di convenienza che sapeva di malinconia e di chi dentro si sente morire poco a poco.",

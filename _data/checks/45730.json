@@ -4,7 +4,7 @@
         "checks": {
             "contest": 0,
             "flag": false,
-            "narrativa": 4,
+            "narrativa": 3,
             "poesia": 1
         },
         "name": "Nero Infinito",
@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,25 @@
     },
     "num_chars": 669,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 808527,
+            "text": [
+                "benvenuto nel WD.",
+                "Invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso.",
+                "Inoltre per postare un proprio testo in officina occorre allegare il link a un commento esaustivo di un altro testo. Devo chiudere. Per riaprire dovrai inviare tramite messaggio privato a uno staffer il link a un commento secondo il regolamento."
+            ],
+            "timestamp": "2019-12-26T07:06:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45730-tempo-sprecato//?do=findComment&comment=808527"
+        }
+    ],
     "text": [
         "Se davvero non possiamo evitare le grinfie di colei che dal giorno in cui nasciamo inizia il conto alla rovescia per trascinarci nel suo regno fetido e oscuro così distante dalla luce a cui ci abituiamo a ogni battito di ciglia, allora perché affannarci a costruire qualcosa di caduco ed effimero?",
         "Quale il motivo di cotanto clamore e trambusto? Perché calpestare ogni giorno gli stessi sassi e le stesse pietre di chi ha già provato a trovarne il senso?",

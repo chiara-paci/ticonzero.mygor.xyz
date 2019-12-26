@@ -4,7 +4,7 @@
         "checks": {
             "contest": 0,
             "flag": false,
-            "narrativa": 4,
+            "narrativa": 3,
             "poesia": 1
         },
         "name": "Nero Infinito",
@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,25 @@
     },
     "num_chars": 12130,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 808528,
+            "text": [
+                "Buongiorno ti invito a leggere meglio le regole da seguire per postare un racconto. Prima di tutto bisogna commentare in maniera esausituva e rispettosa un altro racconto e metterne il link nello stesso post del tuo racconto, e poi si devono rispettare gli 8000 caratteri. Oltre questo, si puè pubblicare un solo racconto al giorno.",
+                "Quindi chiudo, ti invito a leggere il regolamento di ogni sezione e a pubblicare in racconti lunghi o a capitoli. Ricordati che serve il commento.",
+                "Buona permanenza e buone feste!"
+            ],
+            "timestamp": "2019-12-26T07:14:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45729-terra-alla-terra//?do=findComment&comment=808528"
+        }
+    ],
     "text": [
         "Da sempre la terra è fonte di vita: dall’inizio dei tempi fornisce i suoi frutti al fine di provvedere alle necessità dell’uomo. In cambio, l’uomo ha sempre dovuto sudare per poter coglierne i frutti. Un “do ut des” piuttosto equo.",
         "Al giorno d’oggi, le macchine hanno sostituito in buona parte la mano d’opera, sollevando così i contadini da compiti particolarmente onerosi e permettono una raccolta e una distribuzione infinitamente maggiore rispetto alla manovalanza. Tuttavia, nel paesino in cui questa storia trova il suo spazio conta ben 1800 abitanti, il lavoro manuale è rimasto intatto e la metà degli abitanti si occupa ancora di agricoltura.",
