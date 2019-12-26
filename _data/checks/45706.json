@@ -72,7 +72,7 @@
     },
     "num_chars": 8064,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 808506,
@@ -100,6 +100,25 @@
             ],
             "timestamp": "2019-12-26T00:44:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808517"
+        },
+        {
+            "post_id": 808559,
+            "text": [
+                "Dici che avrei dovuto insistere ancora?",
+                "Ho parlato di popolani vestiti a festa, di lui che indossava sempre calzoncini e ciabatte, dell'amico che era il figlio del bottaio, di lei che andava in sposa a un barone, dello champagne e delle birre... Non so, a me insistere ancora sulla questione avrebbe fatto l'effetto di scrivere \" ehi, lettore: hai capito bene che loro appartengono a due ceti sociali molto diversi? No, perché se non hai capito aggiungo anche che ...\". Magari mi sbaglio, però penso che qualcuno avrebbe mugugnato tra sé e sé: \" Eddai, ho capito! \"",
+                "Seee, magari!",
+                "Grazie mille carissima del tuo passaggio e del commento!"
+            ],
+            "timestamp": "2019-12-26T10:49:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808559"
+        },
+        {
+            "post_id": 808576,
+            "text": [
+                "Non lo sapevo, questa è bellissima! Buon Santo Stefano anche a te!"
+            ],
+            "timestamp": "2019-12-26T11:16:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808576"
         }
     ],
     "post_staff": [
@@ -139,6 +158,35 @@
             ],
             "timestamp": "2019-12-26T00:44:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808517"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 808559,
+            "text": [
+                "Dici che avrei dovuto insistere ancora?",
+                "Ho parlato di popolani vestiti a festa, di lui che indossava sempre calzoncini e ciabatte, dell'amico che era il figlio del bottaio, di lei che andava in sposa a un barone, dello champagne e delle birre... Non so, a me insistere ancora sulla questione avrebbe fatto l'effetto di scrivere \" ehi, lettore: hai capito bene che loro appartengono a due ceti sociali molto diversi? No, perché se non hai capito aggiungo anche che ...\". Magari mi sbaglio, però penso che qualcuno avrebbe mugugnato tra sé e sé: \" Eddai, ho capito! \"",
+                "Seee, magari!",
+                "Grazie mille carissima del tuo passaggio e del commento!"
+            ],
+            "timestamp": "2019-12-26T10:49:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808559"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 808576,
+            "text": [
+                "Non lo sapevo, questa è bellissima! Buon Santo Stefano anche a te!"
+            ],
+            "timestamp": "2019-12-26T11:16:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808576"
         }
     ],
     "text": [
