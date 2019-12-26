@@ -63,8 +63,20 @@
     },
     "num_chars": 7850,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 808588,
+            "text": [
+                "dillo che stai solo cercando di eliminare la competizione dei presentisti dal mercato della scrittura",
+                "È vero, è sperimentale, ma se non si sperimenta qui, allora dove? Il WD mi piace proprio per la \"roba strana\" che ci si trova",
+                "Poi il fatto che la mia sia una sperimentazione mal riuscita, è un altro conto",
+                "Ciao! Grazie per il commento Io qualche ossicino l'ho lasciato, ma anche qualche spazio per collegare i puntini della follia come si preferisce Se però hai qualche dubbio specifico, sarò felice di (provare a) risponderti"
+            ],
+            "timestamp": "2019-12-26T12:07:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45718-n2019-1a-occhi-di-lupo-e-sorriso-da-alligatore//?do=findComment&comment=808588"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Genere: Fantastico",
