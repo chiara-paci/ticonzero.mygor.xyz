@@ -45,7 +45,7 @@
     },
     "num_chars": 878,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 807612,
@@ -54,6 +54,14 @@
             ],
             "timestamp": "2019-12-21T10:19:36Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45653-sangue-nero//?do=findComment&comment=807612"
+        },
+        {
+            "post_id": 808595,
+            "text": [
+                "Grazie mille Nerio. Sono molto contento del fatto che ti sia piaciuta, visto la stima che nutro per i tuoi versi."
+            ],
+            "timestamp": "2019-12-26T12:17:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45653-sangue-nero//?do=findComment&comment=808595"
         }
     ],
     "post_staff": [
