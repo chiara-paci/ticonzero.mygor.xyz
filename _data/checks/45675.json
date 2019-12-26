@@ -57,7 +57,7 @@
     },
     "num_chars": 8059,
     "num_commenti": 1,
-    "num_posts": 14,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 807939,
@@ -99,6 +99,23 @@
             ],
             "timestamp": "2019-12-25T17:04:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=808460"
+        },
+        {
+            "post_id": 808635,
+            "text": [
+                "Grazie,"
+            ],
+            "timestamp": "2019-12-26T16:19:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=808635"
+        },
+        {
+            "post_id": 808651,
+            "text": [
+                "Veramente il padrone era alle terme con l'amico e poi è tornato a casa con lui. Glielo ha detto alla prima occasione.",
+                "Grazie molte e buon fine anno."
+            ],
+            "timestamp": "2019-12-26T17:00:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=808651"
         }
     ],
     "post_staff": [

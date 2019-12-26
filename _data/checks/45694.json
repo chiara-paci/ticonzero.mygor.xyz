@@ -76,7 +76,7 @@
     },
     "num_chars": 8050,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 808149,
@@ -164,6 +164,15 @@
             ],
             "timestamp": "2019-12-25T08:17:10Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808406"
+        },
+        {
+            "post_id": 808648,
+            "text": [
+                "Grazie di !",
+                "Sì, 8.000 questa volta erano davvero, davvero stretti..."
+            ],
+            "timestamp": "2019-12-26T16:55:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808648"
         }
     ],
     "post_staff": [],

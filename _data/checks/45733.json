@@ -1,0 +1,63 @@
+{
+    "author": {
+        "author_id": 35007,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Raffaele Di Poma",
+        "url": "https://www.writersdream.org/forum/profile/35007-raffaele-di-poma/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8477777777777777,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8477777777777777
+            },
+            "text": [
+                [
+                    "Ho già letto circa tre poesie che hai scritto. La cosa che più mi ha colpito è la tua capacità di sintesi e l’immediatezza delle immagini che riesci ad evocare. Però non voglio parlare troppo dei grandi sistemi ed entro nel merito. Ad ogni modo ti faccio un applauso perché sei molto brava.",
+                    "Purtroppo non sono un esperto di metrica, però, cercando di fare una breve analisi tecnica, ho notato che il terzo verso della poesia “ lo stesso, di neuroni” è un settenario (un tipo di verso che conosco bene perché lo utilizzo tantissimo). Interessante la collocazione che hai fatto di questo verso per la costruzione della poesia.",
+                    "Mi è piaciuto moltissimo la chiusura che hai adottato utilizzando la rima baciata nel distico finale: “alla meninge / ...e il tempo stringe!” Hai costruito un ottimo finale.",
+                    "Non vedo l'ora di leggere altra poesie che hai scritto.",
+                    "Buona serata"
+                ]
+            ],
+            "timestamp": "2019-12-26T16:45:43Z",
+            "title": "Pensa laterale",
+            "url": "https://www.writersdream.org/forum/forums/topic/40636-pensa-laterale//?do=findComment&comment=808646",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 78,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Un punto che sospeso",
+        "nel vuoto non si ferma,",
+        "un eterno secondo",
+        "immobile e veloce."
+    ],
+    "timestamp": "2019-12-26T16:55:24Z",
+    "title": "L'idea",
+    "topic_id": 45733,
+    "url": "https://www.writersdream.org/forum/forums/topic/45733-lidea/"
+}

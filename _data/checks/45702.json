@@ -93,7 +93,7 @@
     },
     "num_chars": 6242,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 808199,
@@ -148,6 +148,23 @@
             ],
             "timestamp": "2019-12-25T11:36:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808428"
+        },
+        {
+            "post_id": 808627,
+            "text": [
+                "Grazie mille",
+                "Molto contento."
+            ],
+            "timestamp": "2019-12-26T15:32:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808627"
+        },
+        {
+            "post_id": 808644,
+            "text": [
+                "Grazie"
+            ],
+            "timestamp": "2019-12-26T16:43:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808644"
         }
     ],
     "post_staff": [
@@ -234,6 +251,33 @@
             ],
             "timestamp": "2019-12-25T11:36:50Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808428"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808627,
+            "text": [
+                "Grazie mille",
+                "Molto contento."
+            ],
+            "timestamp": "2019-12-26T15:32:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808627"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808644,
+            "text": [
+                "Grazie"
+            ],
+            "timestamp": "2019-12-26T16:43:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808644"
         }
     ],
     "text": [
