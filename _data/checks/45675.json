@@ -57,7 +57,7 @@
     },
     "num_chars": 8059,
     "num_commenti": 1,
-    "num_posts": 17,
+    "num_posts": 19,
     "post_after": [
         {
             "post_id": 807939,
@@ -116,6 +116,14 @@
             ],
             "timestamp": "2019-12-26T17:00:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=808651"
+        },
+        {
+            "post_id": 808869,
+            "text": [
+                "Grazie del commento, ."
+            ],
+            "timestamp": "2019-12-27T14:35:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45675-n2019-1b-un-inutile-delitto-perfetto//?do=findComment&comment=808869"
         }
     ],
     "post_staff": [

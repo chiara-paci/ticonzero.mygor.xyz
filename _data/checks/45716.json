@@ -61,8 +61,21 @@
     },
     "num_chars": 7851,
     "num_commenti": 1,
-    "num_posts": 5,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 808860,
+            "text": [
+                ", , e",
+                "Grazie mille per aver letto e lasciato le vostre interessanti osservazioni .",
+                "Scusate il ringraziamento breve, ma, vista la mole di racconti, preferisco dedicarmi ai commenti.",
+                "Grazie ancora",
+                "Talia"
+            ],
+            "timestamp": "2019-12-27T14:12:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45716-n2019-1a-il-simposio-dinverno//?do=findComment&comment=808860"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia: la cena",
