@@ -52,8 +52,20 @@
     },
     "num_chars": 7866,
     "num_commenti": 1,
-    "num_posts": 6,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 808711,
+            "text": [
+                "Grazie di tutto.",
+                "La frase tranchant del finale è esclusivamente pensata nel POV soggettivo del dato personaggio in data situazione. Non vuole, né può essere il ritratto di un'unica realtà.",
+                "Di fronte a qualunque mafia c'è sempre chi ha continuato e continua a ribellarsi e a pensare con la propria testa (anche a costo della propria vita). Certo che se il mio brano dovesse leggerlo il negoziante che sottostà al pizzo direbbe \"giusto, è proprio così\". Ma se, al contrario, dovesse leggerlo il negoziante che non si piega alla volontà criminale nonostante continuino a dargli fuoco al locale, son certo che esclamerebbe un solenne \"stocazzo\" (scusa per la parolaccia).",
+                "Il gioco di squadra lo sottende, ma trovo comunque doveroso menzionare il prezioso editing di mister Bango in panchina."
+            ],
+            "timestamp": "2019-12-26T22:06:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45699-n2019-1a-la-consegna//?do=findComment&comment=808711"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia - La consegna (ma và? )",

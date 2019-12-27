@@ -50,7 +50,7 @@
     },
     "num_chars": 6893,
     "num_commenti": 1,
-    "num_posts": 15,
+    "num_posts": 18,
     "post_after": [
         {
             "post_id": 808422,
@@ -83,9 +83,39 @@
             ],
             "timestamp": "2019-12-26T10:40:21Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808556"
+        },
+        {
+            "post_id": 808702,
+            "text": [
+                "Caro #gab, hai colto il mio tentativo, o meglio, ti è arrivato proprio come avrei voluto che arrivasse al lettore: sussurrato. Bello che tu lo abbia notato e che me lo abbia detto. Poi, sei o non sei l’ispiratore di una delle boe?",
+                "Grazie mille, , per il passaggio e per le belle parole che hai speso per me.",
+                "Mi fa piacere che tu abbia fatto un accenno a questo personaggio, che ha un suo peso e soprattutto, come giustamente affermi, è presente. Denota un occhio attento e sensibile. Grazie, .",
+                "Ammetto di essere contento, , per averti emozionata ancora. La trovo una cosa non scontata, anzi, ed è sempre un po’ magico.",
+                "Grazie per la stima di cui mi onori.",
+                "Che dirti, ... sono contento di averti provocato un’emozione. Come dicevo a Emy qui su, è una specie di piccola magia.",
+                "Felice del tuo passaggio."
+            ],
+            "timestamp": "2019-12-26T21:38:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808702"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 808720,
+            "text": [
+                "Fino a che non sono arrivato a questa frase ero consapevole di aver letto un bel racconto, delicato e \"sommesso\" come nel tuo stile, che non sfruttava il tema della demenza senile per muovere il lettore a versare facili lacrime.",
+                "Questo passaggio, a mio modo di vedere, eleva il racconto a uno \"status\" superiore, perché trasforma la tragedia personale del protagonista, non così rara, purtroppo, a dramma condiviso da un'intera comunità. Oltre a ricollegarsi all'incipit, e quindi a chiudere simbolicamente il cerchio della narrazione, ci fa capire quanto la vicenda dell'uomo avesse mosso a commozione i compaesani. Ed è bello il particolare che le donne non si limitino a ricalcare le scritte, ma aggiungano ogni volta qualche nuovo dettaglio: in questo modo la tragedia dell'uomo, di cui non a caso non è detto il nome, da individuale si fa universale.",
+                "Ottima prova."
+            ],
+            "timestamp": "2019-12-26T22:29:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808720"
+        }
+    ],
     "text": [
         "Traccia: Alterazione",
         "Genere: sentimentale",

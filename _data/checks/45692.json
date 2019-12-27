@@ -64,7 +64,7 @@
     },
     "num_chars": 6388,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 13,
     "post_after": [
         {
             "post_id": 808455,
@@ -126,6 +126,17 @@
             ],
             "timestamp": "2019-12-25T20:13:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45692-n2019-1a-linganno-di-alceo//?do=findComment&comment=808490"
+        },
+        {
+            "post_id": 808717,
+            "text": [
+                "Ciao",
+                "Grazie per essere passata a leggere, ne sono lusingato (vale anche per tutti gli altri, naturalmente. Chi ha deciso solo di leggere e chi ha scelto di lasciare un commento costruttivo).",
+                "Sì, devo imparare a evitare gli spiegoni (è un errore che commento spesso).",
+                "Grazie"
+            ],
+            "timestamp": "2019-12-26T22:21:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45692-n2019-1a-linganno-di-alceo//?do=findComment&comment=808717"
         }
     ],
     "post_staff": [],
