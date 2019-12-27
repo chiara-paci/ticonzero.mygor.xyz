@@ -76,7 +76,7 @@
     },
     "num_chars": 8050,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 808149,
@@ -184,6 +184,14 @@
             ],
             "timestamp": "2019-12-27T08:54:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808788"
+        },
+        {
+            "post_id": 808877,
+            "text": [
+                "Ti voto comunque anch'io!"
+            ],
+            "timestamp": "2019-12-27T15:01:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808877"
         }
     ],
     "post_staff": [],

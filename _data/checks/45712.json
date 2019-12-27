@@ -56,7 +56,7 @@
     },
     "num_chars": 7760,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 808333,
@@ -65,7 +65,23 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45712-n2019-1a-c%C3%A8-gente-che-festeggia//?do=findComment&comment=808333"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808836,
+            "text": [
+                "Alcuni potrebbero dire che tu ed io ci siamo buttati sul drammone: malattie con contorno di malattie, vecchi omosessuali che raccontano la guerra.",
+                "Dettagli neri su sfondo grigio scuro. Però a me alla fine frega solo di leggere bei racconti e il tuo mi è piaciuto molto. Arrivi secondo nella mia classifica (ho letto solo il girone A), ma con gli stessi punti del primo: ti ha fregato la differenza reti e un fuorigioco dubbio fischiato al minuto 89.",
+                "Molto bravo"
+            ],
+            "timestamp": "2019-12-27T12:58:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45712-n2019-1a-c%C3%A8-gente-che-festeggia//?do=findComment&comment=808836"
+        }
+    ],
     "text": [
         "Grazie Pasquali’.",
         "Mi hai versato dell’acqua, fa bene bere alla mia età, anche perché non si avverte più la sete come quando si è giovani. La natura a volte pare organizzarsi come lo sceneggiatore di un film e dispone i pezzi per arrivare alla fine della storia.",

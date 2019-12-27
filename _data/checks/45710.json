@@ -39,9 +39,33 @@
             "title": "Tutto procede secondo i piani",
             "url": "https://www.writersdream.org/forum/forums/topic/45079-tutto-procede-secondo-i-piani//?do=findComment&comment=808222",
             "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.06695652173913043
+            },
+            "text": [
+                [
+                    "Istituisco il Premio Cerusico .",
+                    "Lo vincerà il racconto che sceglierò io senza criterio alcuno.",
+                    "Con ottime probabilità, lo assegnerò a me stesso."
+                ],
+                [
+                    "Buon Natale!",
+                    "Scofanatevi qualsiasi cosa, per digerire un Amaro Cerusico, oppure passo da voi e porto la mia cassetta degli attrezzi."
+                ],
+                [
+                    "Il premio agognato per una vita. Fatemi la medaglietta, vi prego."
+                ]
+            ],
+            "timestamp": "2019-12-24T17:17:46Z",
+            "title": "Scrittopoli 2019 – Off topic",
+            "url": "https://www.writersdream.org/forum/forums/topic/45349-scrittopoli-2019-%E2%80%93-off-topic//?do=findComment&comment=808280",
+            "weight": 1
         }
     ],
-    "commenti_weight": 1,
+    "commenti_weight": 2,
     "expected_weight": 1,
     "forum": {
         "forum_id": 145,
@@ -49,8 +73,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
     "num_chars": 6893,
-    "num_commenti": 1,
-    "num_posts": 21,
+    "num_commenti": 2,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 808422,
@@ -125,6 +149,20 @@
             ],
             "timestamp": "2019-12-26T22:29:01Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808720"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 808882,
+            "text": [
+                "Eh, beh... Purché il criterio con cui il viene assegnato non sia \"per meriti oggettivi\". Altrimenti per questo primo turno ti vedo almeno finalista (e indiscutibilmente) .",
+                "Complimenti: davvero un bel racconto, che riesce anche ad essere una storia (cosa tutt'altro che automatica)."
+            ],
+            "timestamp": "2019-12-27T15:31:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808882"
         }
     ],
     "text": [
