@@ -76,7 +76,7 @@
     },
     "num_chars": 8050,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 808149,
@@ -173,6 +173,17 @@
             ],
             "timestamp": "2019-12-26T16:55:39Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808648"
+        },
+        {
+            "post_id": 808788,
+            "text": [
+                "Paura, eh?!",
+                "(scherzo!)",
+                "Grazie davvero davvero grazie!",
+                "Ciao!"
+            ],
+            "timestamp": "2019-12-27T08:54:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45694-n2019-1a-niente-di-speciale//?do=findComment&comment=808788"
         }
     ],
     "post_staff": [],

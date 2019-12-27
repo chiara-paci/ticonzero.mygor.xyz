@@ -1,0 +1,130 @@
+{
+    "author": {
+        "author_id": 35174,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Seta",
+        "url": "https://www.writersdream.org/forum/profile/35174-seta/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.7638888888888888,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5277777777777778
+            },
+            "text": [
+                [
+                    "Ciao , un piccolo refuso.",
+                    "una bella e inquietante idea. L'unica cosa è che non sono riuscita a capire la temporalità, cioè da quando è lì dentro il protagonista? Non so ho un po' di confusione sul perché sia così massacrato. Se è stato appena catturato, oppure è in gabbia da tanto e la sua mente comincia a perdere il contatto con la realtà.",
+                    "Qui sembra che sia appena successo.",
+                    "Qui sembra da tanto tempo, ma perché gli sanguinano così tanto le mani?",
+                    "Insomma la linea temporale è l'unica cosa che mi sfugge, per il resto è scritto molto bene, molto scorrevole. Molto inquietante!"
+                ]
+            ],
+            "timestamp": "2019-12-26T01:05:23Z",
+            "title": "[MI 132] Homo sapiens",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=808520",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "mi ha incuriosito il titolo e ho deciso di leggere il racconto, e ne sono stata contenta.",
+                    "Stile decisamente affascinante, per quanto mi riguarda, perché complesso e ricercato, ma evocativo con un retrogusto antico.",
+                    "Essendo io una visiva, vedevo disegnato il personaggio come se fosse in un fumetto di \"Tintin\" e mi ha divertito.",
+                    "Non ti nego che alcuni passaggi ho dovuto rileggerli più volte per entrare nel filo del discorso, per cui immagino ci siano dei punti da sistemare, e vedo che già altri lettori hanno dato spunti interessanti su cui lavorare.",
+                    "Provo a dirti i punti più ostici per me:",
+                    "Questa frase posso intuirla, ma non mi è chiarissima; magari potresti aiutarmi a capirla riscrivendola in un altro modo.",
+                    "Anche questa mi pare troppo contorta, e tocca rileggerla più e più volte per arrivare ad intuire cosa intendi.",
+                    "questo mi fa intuire che solitamente, in quel luogo, si parla con personaggi che mettono timore e raccapriccio. Giusto?",
+                    "Io credo che tu hai scritto un sogno che poteva essere un ricordo di un passato ormai quasi dimenticato, perché nel sogno esistono altri personaggi bene delineati, come Gagarò. E forse questo tuo personaggio, in realtà, nello scrivere di lui, ti ha raccontato la sua storia precedente al tuo porre l'attenzione su di lui.",
+                    "Ecco, mi è piaciuto, mi è piaciuto più che altro lo stile."
+                ]
+            ],
+            "timestamp": "2019-12-26T00:27:49Z",
+            "title": "Storia di Pietro Mezzodì",
+            "url": "https://www.writersdream.org/forum/forums/topic/45551-storia-di-pietro-mezzod%C3%AC//?do=findComment&comment=808516",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 9511,
+    "num_commenti": 2,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il mare che osservo dalla finestra del mio studio, mi permette di vagare con la mente verso mete lontane.",
+        "I pensieri si formano già liquidi, e prendono la forma del mio esistere. Divagando nei ricordi, ripenso al primo giorno che lo vidi. Al tramonto sulla spiaggia. Camminava a piedi nudi e testa alta sul bagnasciuga verso la mia direzione.",
+        "Io ero andata a trovare conforto nel rumore ipnotico delle onde e nel profumo salmastro del vento. Senza meta, mi fermai dove si fermò il mio corpo e mi sedetti sulla stessa spiaggia che si offriva al suo passaggio.",
+        "Lo vidi subito, anche se era ancora lontano; richiamò la mia attenzione ancora più dei miei problemi che mi causavano il mal d’anima, un dolore invasivo che offuscava tutto di me e dal quale mi stavo curando.",
+        "Lo vidi raccogliere qualcosa e proseguire verso di me. Ricordo bene i suoi capelli dorati giocare con il vento, i suoi lineamenti forti e il suo passo costante.",
+        "Era bellissimo.",
+        "Notai che nel suo procedere tranquillo mi guardava e io feci lo stesso con lui, finché fu talmente vicino che vidi il colore azzurro intenso dei suoi occhi. Mi sorrise.",
+        "Io, rimasi seduta con le braccia attorno alle ginocchia, piegate verso il petto, solo il mio viso si era scomposto per guardarlo e la mia espressione stupita lo interrogava senza perdere il contatto visivo.",
+        "Ricordo bene quel momento, dal sapore surreale: si chinò leggermente e allungò un braccio con la mano aperta verso di me e mentre io guardavo la conchiglia che riposava sul suo palmo, lui mi disse “Tieni, dicono che avvicinandola all’orecchio si riesce a sentire il rumore del mare.” La sua voce dolce riscaldava l’aria, come il sole del mattino. Lo guardai di nuovo in viso non sapendo cosa fare, ma lui rimase in quella posizione, mantenendo quel sorriso così spontaneo e disinteressato, finché non mi decisi ad accettare quel dono inaspettato.",
+        "“Si dice anche che quella voce lenisce il dolore profondo.”",
+        "Poi senza aggiungere altro si rialzò e con un semplice cenno di saluto proseguì il suo cammino.",
+        "Lo guardai allontanarsi. Statuario come un David di Raffaello, pareva un essere non terreno, come lo era stato quell’incontro.",
+        "Quando fu abbastanza lontano da non distinguerlo più, guardai quella conchiglia che nelle sue mani sembrava piccola, ma nelle mie diventava un guscio di dimensioni discrete, tanto grande da poterla appoggiare all'orecchio per ascoltare il rumore del mare, come aveva consigliato lui.",
+        "E così feci. Chiusi gli occhi e mi lasciai cullare dalla brezza della sera che avanzava, dal tiepido calore del sole che ancora scaldava la sabbia su cui ero seduta e dal rumore delle onde che si frangevano dolcemente vicino ai miei piedi, senza toccarmi.",
+        "Nella mia mente rivedo quegli occhi e quel sorriso, allora non sapevo che quella sarebbe stata solo la prima di molte altre volte.",
+        "Passarono giorni, prima che potessi ritornare in spiaggia, ma il mio pensiero riusciva a rimanere ancorato a quel ricordo, rivivendolo ogni volta che appoggiavo la conchiglia all’orecchio per ascoltare il mare. Lo facevo spesso, era diventato un atto magico, un rituale, pareva avesse davvero delle proprietà mistiche e curative.",
+        "Non so se fosse un’illusione, o sentissi davvero il rumore delle onde che usciva dalla conchiglia, ma era così piacevole e rilassante che rimanevo per diversi minuti sdraiata sul letto ascoltando quel bianco rumore cullarmi. Una volta mi addormentai perfino.",
+        "In quei momenti, il volto di quell'uomo di cui non conoscevo niente, nemmeno il nome, ritornava vivido nella mia mente. E ancora adesso, penso che mai se ne andrà.",
+        "“Chiamami Mare, è così che molti mi chiamano.” Così mi rispose la terza volta che lo incontrai su quella spiaggia.",
+        "Avevo notato che lo incontravo ogni volta che andavo in spiaggia all’ora del tramonto, come se fosse sua abitudine quotidiana fare una passeggiata in riva al mare in quel momento del giorno. Decisi quindi di imitarlo, ma solo per il piacere di vedere l’azzurra distesa di acqua che spesso cambiava di intensità, a seconda del cielo e del clima.",
+        "Fu così che, la terza volta che mi rivolse un sorriso per salutarmi e poi proseguire il suo cammino, anziché stupirmi di incontrarlo e rimanere seduta al mio posto, mi alzai e lo rincorsi per conoscerlo.",
+        "“Ehi! Scusami…!” Si fermò girandosi verso di me che mi affrettavo a raggiungerlo. Ripresi fiato per il breve ma intenso sforzo fatto, non solo fisico, ma anche emotivo. Il cuore pulsava forte nel petto. “Scusa…” gli dissi goffamente “ti incontro sempre, ogni volta che riesco a venire in spiaggia e…” non sapevo come continuare, cosa dire, cosa fare, mi sentivo stupida per aver fatto un’azione tanto azzardata, non volevo pensasse fossi una di quelle donne che abbordano sconosciuti. Ma lo guardai negli occhi che si confondevano con lo sfondo azzurro del mare, quel mare diventato il luogo di un incontro magico e inaspettato.",
+        "“Cammina con me.” Mi disse semplicemente senza aspettare che io finissi la frase. Quasi ipnotizzata mi misi al suo fianco sentendo che le mie gambe prendevano da sole l’iniziativa di muoversi, passo dopo passo.",
+        "“Cosa vorresti sapere?” mi chiese delicatamente come fosse un alito di vento del primo mattino.",
+        "“Beh… per esempio come ti chiami?”",
+        "“Chiamami Mare, è così che molti mi chiamano.”",
+        "Mi rispose girando leggermente la testa dalla mia parte, continuando a camminare senza perdere il ritmo e io a fianco cercando di non rimanere indietro.",
+        "‘Mare…’ non mi venne da chiedere il perché di quell’insolito soprannome, in effetti quel nome gli stava perfettamente addosso. Se il mare avesse avuto sembianze umane, probabilmente sarebbe stato come lui.",
+        "Sosteneva di essere cittadino del mondo, poiché non aveva residenza, nessuna fissa dimora. Andava dove sentiva che c’era bisogno di lui. Di cosa si occupasse, non mi fu subito chiaro, diceva di dedicarsi alla salvaguardia dell’ambiente, e soprattutto gli piaceva accudire le Anime. Trovava la gente molto interessante, “…Profonda tanto quanto basta per poterci fare un tuffo dentro e scoprire i loro tesori nascosti e perduti.” Diceva.",
+        "Un giorno ci sedemmo sul bagnasciuga.",
+        "“Sediamoci, stasera il tramonto sarà uno spettacolo magnifico, un dono della natura.”",
+        "“Volentieri.” E mi lasciai cadere con le gambe incrociate per lasciare che i miei occhi potessero godere di quel panorama e la mia anima potesse ritemprarsi. Gli sorrisi mentre si sedeva accanto a me.",
+        "Era diventato un amico silenzioso con cui condividere momenti, istanti magici del quotidiano spesso celati dall’inedia e dalla velocità del vivere.",
+        "I colori cominciarono ad accendersi e il cielo divenne la tela di un Dio pittore, capace di esaltare i sensi di chi stava osservando la creazione di quell’opera d’arte.",
+        "Respirai a fondo e sentii le mie cellule riempirsi di bellezza, sentii il mio spirito rigenerarsi e la mia anima finalmente, dopo tanto, era in Pace.",
+        "“Grazie Mare. Grazie per avermi fatto vivere questo momento.”",
+        "“Tu l’hai permesso. Solo tu puoi permettere alla bellezza del mondo di entrare dentro di te. E per farlo sei costretta a far uscire il dolore che invade la tua anima.”",
+        "Istintivamente risposi: “Non è sempre così semplice. Adesso è facile perché ci sei tu, qui.” Sospirai.",
+        "“In cuor tuo sai che non è così.” Mi rispose guardandomi intensamente, uno sguardo talmente forte da scuotermi e da creare dentro di me confusione e stordimento. “In cuor tuo sai che tu non dipendi da me per creare momenti di estasi e di bellezza nel tuo mondo, nel modo di vedere il mondo.” Mi prese la mano e sentii il mio cuore espandersi verso un infinito esistere. “In cuor tuo sai che io ci sono sempre, così come mi hai trovato su questa spiaggia, mi puoi trovare negli angoli degli occhi delle persone che incontri, nelle radici di un fiore che cresce in una fessura dell’asfalto. Mi trovi in un abbraccio, in un sorriso, in un tramonto.”",
+        "Lo guardavo sentendo di essere in un’intimità profonda, ma non con bellissimo uomo, bensì con un’anima di un infinito immenso che mi trasportava oltre i confini di me stessa.",
+        "Il giorno dopo tornai, stessa ora, stesso posto, ma con mia grande sorpresa e rammarico, non lo vidi, non passò. E così fu il giorno dopo e quello dopo ancora.",
+        "Inizialmente mi preoccupai, ma era solo una parte di me che si agitava, era la parte umana, mentale ed ansiosa. In cuor mio sapevo che Mare stava bene e che forse c’era bisogno di lui da qualche altra parte, come mi aveva detto, e speravo che forse sarebbe tornato un giorno. Ad ogni modo sentivo la sua mancanza.",
+        "Presi l’abitudine di andare a passeggiare all’ora del tramonto sulla spiaggia con la conchiglia che mi aveva regalato. E un giorno, seduta davanti allo spettacolo pittorico del tramonto me la avvicinai all’orecchio e chiusi gli occhi. Mi lasciai trasportare dal ritmo di quel respiro che mi sembrava di sentire rimbombare all’interno delle camere nascoste di quel frammento di mare.",
+        "Respiravo la salsedine, mentre la brezza giocava sulla mia pelle, e nella mente rividi quell’azzurro profondo dei suoi occhi, il suo sorriso gentile e i suoi capelli morbidi, finché sprofondai in uno spazio senza tempo in cui potevo galleggiare e lasciare andare ogni cosa.",
+        "Riaprii gli occhi e in un’esplosione convulsiva di lacrime e ampie consapevolezze, ebbi la più grande intuizione che cambiò per sempre la mia vita.",
+        "Comprai questa casa sul mare, per fare entrare ogni mattina la bellezza nella mia vita, e anche se mi aveva insegnato che non era merito suo, Mare mi aiuta a ricordare che il mio compito come Essere umano è quello di generare momenti di bellezza nel mondo, dentro e fuori di me."
+    ],
+    "timestamp": "2019-12-26T01:10:46Z",
+    "title": "Mare",
+    "topic_id": 45726,
+    "url": "https://www.writersdream.org/forum/forums/topic/45726-mare/"
+}

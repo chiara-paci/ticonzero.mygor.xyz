@@ -72,7 +72,7 @@
     },
     "num_chars": 8064,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 808506,
@@ -119,6 +119,17 @@
             ],
             "timestamp": "2019-12-26T11:16:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808576"
+        },
+        {
+            "post_id": 808704,
+            "text": [
+                "Oh, grazie!",
+                "Se ci avessi pensato mi sarebbe anche servito, dal momento che la prima stesura contemplava una sessantina di caratteri di troppo .",
+                "Grazie , fin troppo buono .",
+                "grazie mille anche a voi!"
+            ],
+            "timestamp": "2019-12-26T21:44:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808704"
         }
     ],
     "post_staff": [
@@ -187,6 +198,22 @@
             ],
             "timestamp": "2019-12-26T11:16:16Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808576"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 808704,
+            "text": [
+                "Oh, grazie!",
+                "Se ci avessi pensato mi sarebbe anche servito, dal momento che la prima stesura contemplava una sessantina di caratteri di troppo .",
+                "Grazie , fin troppo buono .",
+                "grazie mille anche a voi!"
+            ],
+            "timestamp": "2019-12-26T21:44:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45706-n2019-1b-la-magia-delle-nubi-nottilucenti//?do=findComment&comment=808704"
         }
     ],
     "text": [

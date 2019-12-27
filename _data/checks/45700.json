@@ -54,7 +54,7 @@
     },
     "num_chars": 4146,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 15,
     "post_after": [
         {
             "post_id": 808462,
@@ -65,6 +65,18 @@
             ],
             "timestamp": "2019-12-25T17:12:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45700-n2019-1b-23_12_2016//?do=findComment&comment=808462"
+        },
+        {
+            "post_id": 808805,
+            "text": [
+                "Vorrei rispondere a tutti con calma, ma preferisco dare la precedenza ai commenti piuttosto che ai contro-commenti.",
+                "Grazie per le belle parole, e mi avete fatto arrossire un poco.",
+                "E grazie anche a che è stato insieme gentile e sincero. Sono molto curiosa di scoprire se il racconto è comprensibile oppure no.",
+                ", ci sarebbe molto, moltissimo da scrivere su questa storia politicamente, socialmente, umanamente parlando. Ho scelto di trattarla in modo semplicistico, assumendomi il rischio di risultare superficiale e poco rispettosa perché, come hai osservato tu, non è questo il luogo - spero mi scuserete. Ti ringrazio per il commento così generoso e beh,",
+                "All praise the great Cthulhu!"
+            ],
+            "timestamp": "2019-12-27T09:56:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45700-n2019-1b-23_12_2016//?do=findComment&comment=808805"
         }
     ],
     "post_staff": [],
