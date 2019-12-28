@@ -77,8 +77,17 @@
     },
     "num_chars": 9511,
     "num_commenti": 2,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 808846,
+            "text": [
+                "Grazie , terrò sicuramente conto dei tuoi consigli. In realtà è quasi un esperimento di trama poetica, devo ancora esercitarmi."
+            ],
+            "timestamp": "2019-12-27T13:27:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45726-mare//?do=findComment&comment=808846"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Il mare che osservo dalla finestra del mio studio, mi permette di vagare con la mente verso mete lontane.",
