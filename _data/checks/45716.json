@@ -61,7 +61,7 @@
     },
     "num_chars": 7851,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 808860,
@@ -74,6 +74,16 @@
             ],
             "timestamp": "2019-12-27T14:12:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45716-n2019-1a-il-simposio-dinverno//?do=findComment&comment=808860"
+        },
+        {
+            "post_id": 809012,
+            "text": [
+                ", e",
+                "Grazie per i commenti e che dire: c'ho provato. Mi sono divertita a scriverlo, a immaginare e inventare. Il prossimo mi verrà meglio, grazie a tutte le vostre osservazioni, sono sicura.",
+                "Talia"
+            ],
+            "timestamp": "2019-12-28T12:26:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45716-n2019-1a-il-simposio-dinverno//?do=findComment&comment=809012"
         }
     ],
     "post_staff": [],
