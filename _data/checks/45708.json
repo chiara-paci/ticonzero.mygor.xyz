@@ -74,7 +74,7 @@
     },
     "num_chars": 7986,
     "num_commenti": 2,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 809023,
@@ -117,6 +117,16 @@
             ],
             "timestamp": "2019-12-28T13:46:57Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809035"
+        },
+        {
+            "post_id": 809093,
+            "text": [
+                "Seguirò senz'altro il tuo consiglio.",
+                "Grazie per il commento.",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-12-28T17:47:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809093"
         }
     ],
     "post_staff": [

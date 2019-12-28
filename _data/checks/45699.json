@@ -52,7 +52,7 @@
     },
     "num_chars": 7866,
     "num_commenti": 1,
-    "num_posts": 12,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 808711,
@@ -64,6 +64,16 @@
             ],
             "timestamp": "2019-12-26T22:06:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45699-n2019-1a-la-consegna//?do=findComment&comment=808711"
+        },
+        {
+            "post_id": 809096,
+            "text": [
+                "Grazie di tutto.",
+                "Ce n'è ce n'è, basta ravanare dentro l'officina",
+                "Coi congiuntivi ho un rapporto conflittuale, specialmente nell'immediatezza del parlato. Può darsi che ne abbia cannati altri, ma quelli da te segnalati mi suonavano un po' artefatti nella loro forma pulita, in quanto meno spontanei nella subitaneità del pensiero. Rifacendomi a me, mi è quindi suonato meglio che gli uscissero fuori così, sporcati dall'immediatezza."
+            ],
+            "timestamp": "2019-12-28T18:00:49Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45699-n2019-1a-la-consegna//?do=findComment&comment=809096"
         }
     ],
     "post_staff": [],
