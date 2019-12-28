@@ -47,8 +47,21 @@
     },
     "num_chars": 78,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 809073,
+            "text": [
+                "Ciao Talia",
+                "Anche per me è la prima volta che pubblico sulla piattaforma.",
+                "Prima di tutto ti ringrazio per aver letto e commentato.",
+                "Ho strutturato la poesia utilizzando il verso settenario quindi ogni volta che vado a capo è per un preciso motivo metrico.",
+                "Per quanto riguarda il significato generale sostanzialmente quello che hai scritto è corretto. Voglio aggiungere che, con i versi, ho provato a descrivere le mie sensazioni o esperienze che riguardano la fase che precede la stesura di un soggetto, racconto, testo teatrale o le parole di una canzone. Se l'artista riesce ad avere \"L'idea\" giusta, ossia quella che può coinvolgere il lettore o colui che deve usufruire dell'opera artistica, \"L'idea\" diventa \"eterna\" perché vive per sempre nella mente del lettore o spettatore."
+            ],
+            "timestamp": "2019-12-28T16:11:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45733-lidea//?do=findComment&comment=809073"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Un punto che sospeso",

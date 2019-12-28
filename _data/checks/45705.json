@@ -50,7 +50,7 @@
     },
     "num_chars": 8026,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 808336,
@@ -80,6 +80,16 @@
             ],
             "timestamp": "2019-12-27T20:20:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45705-n2019-1b-un-magico-tragico-natale//?do=findComment&comment=808938"
+        },
+        {
+            "post_id": 809043,
+            "text": [
+                "Grazie ! Sono contenta che la pestifera PF ti sia piaciuta",
+                "Non te le consiglio, perché ogni tanto fanno i capricci. Se ad esempio si mette il like a una foto davvero molto brutta, ti trasformano per ripicca in un burattino di legno (poi sei costretto a seguire la pagina della Fata Turchina per poter tornare normale). Appena avranno corretto i bug ti faccio un fischio",
+                "A parte gli scherzi, grazie per il simpatico commento. Mi ha fatto molto piacere"
+            ],
+            "timestamp": "2019-12-28T14:05:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45705-n2019-1b-un-magico-tragico-natale//?do=findComment&comment=809043"
         }
     ],
     "post_staff": [],

@@ -74,8 +74,51 @@
     },
     "num_chars": 7986,
     "num_commenti": 2,
-    "num_posts": 6,
-    "post_after": [],
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 809023,
+            "text": [
+                "Niente da dire",
+                "Ogni eliminazione di un \"che\" mi aumentava eccessivamente le battute. Ci penserò se dovessi decidere di allungare il racconto.",
+                "Acuta osservazione.",
+                "Grazie per il tuo commento.",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-12-28T13:28:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809023"
+        },
+        {
+            "post_id": 809028,
+            "text": [
+                "Mi avrebbe fatto piacere sapere quali, poiché facilità per un'eventuale revisione",
+                "Grazie comunque per il commento"
+            ],
+            "timestamp": "2019-12-28T13:37:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809028"
+        },
+        {
+            "post_id": 809030,
+            "text": [
+                "Buone idea: avevo pensato a qualcosa di simile, ma il conteggio delle battute è tiranno.",
+                "Effettivamente, mi viene voglia di riscriverlo, senza il limite di battute,né quello della boa che vieta il punto interrogativo.",
+                "Grazie per il commento.",
+                "Alla prossima"
+            ],
+            "timestamp": "2019-12-28T13:40:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809030"
+        },
+        {
+            "post_id": 809035,
+            "text": [
+                "Mi spiace per l'impressione sbagliata: il racconto è stato concepito mentre venivo spinto da mia moglie su una sedia a rotelle in una casa di cura. Magari saranno state poco felici, ma le battute sono state concepite sul \"campo di battaglia\".",
+                "grazie per il commento",
+                "Alla prossima."
+            ],
+            "timestamp": "2019-12-28T13:46:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45708-n2019-1b-una-dichiarazione-d%E2%80%99amore//?do=findComment&comment=809035"
+        }
+    ],
     "post_staff": [
         {
             "author": {
