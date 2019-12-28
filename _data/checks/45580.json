@@ -67,7 +67,7 @@
     },
     "num_chars": 5770,
     "num_commenti": 1,
-    "num_posts": 22,
+    "num_posts": 23,
     "post_after": [
         {
             "post_id": 806349,
@@ -136,6 +136,18 @@
             ],
             "timestamp": "2019-12-21T07:36:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=807587"
+        },
+        {
+            "post_id": 808973,
+            "text": [
+                "Ciao grazie di essere passata da me!",
+                "ho diviso il testo con delle linee proprio per rendere il passare del tempo, ma forse avrei anche dovuto esplicitarlo un po' meglio. All'inizio è appena successo, la sera prima, poi il tempo passa e si formano le croste, per me quello bastava per rendere lo scorrere del tempo, ma a quanto pare non è così",
+                "Comunque non ero partita con un'idea precisa su quello che sarebbe venuto fuori da questo racconto, mentre ora credo che ci possa essere del materiale su cui lavorare per renderlo ancora più inquietante.",
+                "Ti ringrazio davvero molto",
+                "Buone feste!"
+            ],
+            "timestamp": "2019-12-28T06:35:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=808973"
         }
     ],
     "post_staff": [
@@ -243,6 +255,23 @@
             ],
             "timestamp": "2019-12-21T07:36:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=807587"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 808973,
+            "text": [
+                "Ciao grazie di essere passata da me!",
+                "ho diviso il testo con delle linee proprio per rendere il passare del tempo, ma forse avrei anche dovuto esplicitarlo un po' meglio. All'inizio è appena successo, la sera prima, poi il tempo passa e si formano le croste, per me quello bastava per rendere lo scorrere del tempo, ma a quanto pare non è così",
+                "Comunque non ero partita con un'idea precisa su quello che sarebbe venuto fuori da questo racconto, mentre ora credo che ci possa essere del materiale su cui lavorare per renderlo ancora più inquietante.",
+                "Ti ringrazio davvero molto",
+                "Buone feste!"
+            ],
+            "timestamp": "2019-12-28T06:35:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45580-mi-132-homo-sapiens//?do=findComment&comment=808973"
         }
     ],
     "text": [
