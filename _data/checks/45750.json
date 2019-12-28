@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 809081,
@@ -75,6 +75,16 @@
             ],
             "timestamp": "2019-12-28T18:58:46Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809103"
+        },
+        {
+            "post_id": 809127,
+            "text": [
+                "Ciao! Confesso una cosa: per sbaglio, ho saltato la riga in cui apparivano gli altri angeli (avevo notato un errore nel testo e, nel correggerlo, ho scordato di fare l'aggiunta).",
+                "Poi, grazie dei suggerimenti.",
+                "Sui principati, è il nome della casta angelica. Ho parlato con un amico e ho fatto ricerche, ed è venuto fuori che, mitologicamente, gli angeli NON sono uomini alati, ma creature bio-meccaniche, quindi ho voluto dare ai principati l'aspetto di navi volanti."
+            ],
+            "timestamp": "2019-12-28T21:16:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809127"
         }
     ],
     "post_staff": [],
