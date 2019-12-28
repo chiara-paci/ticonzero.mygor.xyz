@@ -43,8 +43,18 @@
     },
     "num_chars": 7476,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 808959,
+            "text": [
+                "Innanzitutto, grazie per i complimenti, che mi fanno immensamente piacere, soprattutto se mi dici che personaggi e descrizioni non sono banali; quella è la cosa più importante, soprattutto in una storia di per sé tendente al banale",
+                "Il \"romanzo\" comunque è finito, pubblicandolo a spezzoni di questa lunghezza diventerà una specie di telenovela ma tant'è!"
+            ],
+            "timestamp": "2019-12-27T23:04:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45734-come-veduto-volentieri-tavrei-atto-i-scene-1-e-2//?do=findComment&comment=808959"
+        }
+    ],
     "post_staff": [],
     "text": [
         "- Il Prologo -",
