@@ -50,7 +50,7 @@
     },
     "num_chars": 8026,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 808336,
@@ -72,6 +72,14 @@
             ],
             "timestamp": "2019-12-27T01:06:32Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45705-n2019-1b-un-magico-tragico-natale//?do=findComment&comment=808769"
+        },
+        {
+            "post_id": 808938,
+            "text": [
+                "e Grazie per il passaggio! Sono contenta che abbiate trovato la lettura piacevole"
+            ],
+            "timestamp": "2019-12-27T20:20:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45705-n2019-1b-un-magico-tragico-natale//?do=findComment&comment=808938"
         }
     ],
     "post_staff": [],
