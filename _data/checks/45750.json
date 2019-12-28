@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 809081,
@@ -67,6 +67,14 @@
             ],
             "timestamp": "2019-12-28T16:43:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809081"
+        },
+        {
+            "post_id": 809103,
+            "text": [
+                "Beh, buona cosa!"
+            ],
+            "timestamp": "2019-12-28T18:58:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809103"
         }
     ],
     "post_staff": [],
