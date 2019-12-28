@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 0.7638888888888888,
+        "valid": 0.7698351648351649,
         "weight": true
     },
     "closed": false,
@@ -21,7 +21,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.5277777777777778
+                "valid": 0.5396703296703297
             },
             "text": [
                 [
@@ -30,6 +30,11 @@
                     "Qui sembra che sia appena successo.",
                     "Qui sembra da tanto tempo, ma perché gli sanguinano così tanto le mani?",
                     "Insomma la linea temporale è l'unica cosa che mi sfugge, per il resto è scritto molto bene, molto scorrevole. Molto inquietante!"
+                ],
+                [
+                    "@Kikki",
+                    "magari sono io che non ho colto !! bisogna sentire anche altri.",
+                    "Comunque sì.. materiale ce n'è. Più inquietante... forse, a me fa venire i brividi già così!"
                 ]
             ],
             "timestamp": "2019-12-26T01:05:23Z",
