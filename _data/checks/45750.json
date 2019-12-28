@@ -58,8 +58,17 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 809081,
+            "text": [
+                "Ciao! Intanto, grazie per il commento. Poi, i militari in realtà sono quelli che cavalcano le viverne. I principati invece sono le navi volanti. Nel contesto, Ain e Naos sono dei militari che si ritrovano in un fuoco incrociato tra forze superiori. E' una versione fantasy del soldato di fanteria che si ritrova tra il fuoco incrociato di carri armati, elicotteri e così via."
+            ],
+            "timestamp": "2019-12-28T16:43:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809081"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Link del commento che ho lasciato:",
