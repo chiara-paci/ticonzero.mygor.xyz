@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 16,
+    "num_posts": 17,
     "post_after": [
         {
             "post_id": 809081,
@@ -109,6 +109,14 @@
             ],
             "timestamp": "2019-12-29T17:02:03Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809282"
+        },
+        {
+            "post_id": 809321,
+            "text": [
+                "Tu ridi e scherzi, ma ci sono intere guide che ti spiegano come classificare le creature mitologiche in base al numero di arti."
+            ],
+            "timestamp": "2019-12-29T19:29:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809321"
         }
     ],
     "post_staff": [

@@ -1,0 +1,104 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "qui ci sta una congiunzione o una virgola",
+                    "poi lo fece tintinnare con il suo.",
+                    "«Forse è questo: è come non avere niente.»",
+                    "giusta scelta quella che hai fatto: è la donna che convince l’uomo, non il contrario",
+                    "Si abbracciarono stretti e rimasero a guardare il feto galleggiare nella teca: impossibile amarlo.",
+                    "Ecco, so che hai voluto dire così. Ma se si è \"comunque\" genitori, si spiega solo una cosa guardando il feto de proprio figlio: impossibile non amarlo!",
+                    "Rimasero nelle turbolente acque dello Stige per tre giorni e tre notti, a all’alba del terzo giorno riuscirono finalmente ad aggrapparsi a una roccia che si protendeva verso le acque nere quasi con compassione.",
+                    "Avevano creduto di morire davvero, non per finta come accadeva là, e questo li aveva fatti sentire incredibilmente vivi.",
+                    "Si sdraiarono sulla roccia, rotolarono sulla sabbia fine di quel mondo strano, quasi incomprensibile, ma carichi di una strana felicità che li fece sentire sazi, come da tempo non erano più.",
+                    "Laggiù, all’orizzonte, tra la foschia, potevano scorgere le torri di Al Medina.",
+                    "Uno sguardo lungo, intenso; poi si voltarono e lasciarono il passato alle loro spalle.",
+                    "Fu a quel punto che il sibilo dei chip che avevano impiantato sottopelle, squillò a una frequenza tale che entrambi caddero a terra svenuti.",
+                    "E la voce parlò.",
+                    "Avete scelto e questo è giusto.",
+                    "Avete rinnegato e anche questo è giusto.",
+                    "Non avete gli strumenti, ma volete creare il vostro futuro.",
+                    "Ebbene, fatelo.",
+                    "Dimostrate cosa significa creare.",
+                    "Dimostrate il vostro valore.",
+                    "Noi vi osserveremo.",
+                    "E poi torneremo a giudicare.",
+                    "A pesare il valore della libertà.",
+                    "Ho apprezzato l’inserimento dell’esortazione in forma di enfasi poetica. Negli ultimi due versi, vedo una bilancia e una piuma su un piatto. Al posto del cuore, la libertà.",
+                    "Lei si alzò e prese la mano che lui le tendeva.",
+                    "Non sapevano che il sole potesse essere così cocente, che la terra potesse graffiare la pelle così in profondità.",
+                    "Il cuore galoppava, la testa vorticava i sensi erano all’erta e una lama di panico iniziò a brillare da qualche parte.",
+                    "Non sapevano che l’adrenalina impazzita nel loro corpo potesse dare quelle scariche così dolorose.",
+                    "«Vieni, Eva, ripariamoci all’ombra di quell’albero laggiù.»",
+                    "La similitudine coi nostri progenitori tenuta nascosta sino alla fine.",
+                    "Lei annuì e lo seguì.",
+                    "Una genesi “sui generis” dove Adamo ed Eva fuggono volontariamente dall’Eden.",
+                    "Questo luogo tu lo rappresenti come un posto dove non si soffre né per nascere, né per vivere né per morire. Fai capire che non ci sia libertà per essere se stessi, e che la propria individualità o sete di esperienze venga troncata sul nascere. La noia la fa da padrona nelle – sempre soleggiate e ben tramontate – giornate perennemente uguali.",
+                    "Stupisce che siano in pochi a fuggire.",
+                    "I versi finali sono un ravviluppare il nastro biblico.",
+                    "Il “deus ex machina” della situazione darà tempo al tempo e poi tornerà (torneranno)a giudicare l’operato di quelli che hanno scelto di fare da soli.",
+                    "Un suggerimento per il titolo: Non “Genesi” bensì: Rigenesi”.",
+                    "Un saluto e a rileggerci!"
+                ]
+            ],
+            "timestamp": "2019-12-29T19:32:24Z",
+            "title": "[M 131] La genesi",
+            "url": "https://www.writersdream.org/forum/forums/topic/45442-m-131-la-genesi//?do=findComment&comment=809323",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 296,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Hanno colori pastosi",
+        "o temperati,",
+        "vivaci o tenebrosi,",
+        "tinte smorte o brillanti",
+        "le esperienze...",
+        "- trattengono il tepore d’ogni nido -",
+        "- fan luce d’un sorriso -",
+        "- chiaroscuri di ombre nei dolori",
+        "che marcano indelebili i percorsi",
+        "coi rimorsi -",
+        "- scarabocchi sull’anima -",
+        "Su tutto passa il tempo",
+        "e sfuma a sera."
+    ],
+    "timestamp": "2019-12-29T19:34:24Z",
+    "title": "Tutto sfuma a sera",
+    "topic_id": 45765,
+    "url": "https://www.writersdream.org/forum/forums/topic/45765-tutto-sfuma-a-sera/"
+}
