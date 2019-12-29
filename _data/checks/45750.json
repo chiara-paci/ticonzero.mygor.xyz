@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 809081,
@@ -95,7 +95,22 @@
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809167"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 809241,
+            "text": [
+                "come ti ha fatto gentilmente notare , chiediamo ai nuovi iscritti di presentarsi in , così da poter dare loro il benvenuto ufficiale nel forum e i link al regolamento.",
+                "Ti aspettiamo!"
+            ],
+            "timestamp": "2019-12-29T14:26:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809241"
+        }
+    ],
     "text": [
         "Link del commento che ho lasciato:",
         "Estratto:",

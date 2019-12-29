@@ -2,9 +2,9 @@
     "author": {
         "author_id": 9701,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
-            "narrativa": 0,
+            "narrativa": 1,
             "poesia": 0
         },
         "name": "Kuno",
@@ -160,6 +160,11 @@
                     "EDIT: Anzi...",
                     "...direi proprio che il messaggio è arrivato comunque, nonostante il fraintendimento.",
                     "Sembra incredibile, ma l'incomprenesione dona al testo più dignità: prova che Sergio, vivo o morto che sia, occupa lo stesso ruolo all'interno del racconto come nella vita della moglie. La sua vita fisica non vale più nulla."
+                ],
+                [
+                    "Grazie anche a te",
+                    "Contento che il racconto ti sia piaciuto.",
+                    "Ciao!"
                 ]
             ],
             "timestamp": "2019-12-24T11:42:23Z",
@@ -244,6 +249,11 @@
                     "EDIT: Anzi...",
                     "...direi proprio che il messaggio è arrivato comunque, nonostante il fraintendimento.",
                     "Sembra incredibile, ma l'incomprenesione dona al testo più dignità: prova che Sergio, vivo o morto che sia, occupa lo stesso ruolo all'interno del racconto come nella vita della moglie. La sua vita fisica non vale più nulla."
+                ],
+                [
+                    "Grazie anche a te",
+                    "Contento che il racconto ti sia piaciuto.",
+                    "Ciao!"
                 ]
             ],
             "timestamp": "2019-12-24T11:42:23Z",
@@ -255,13 +265,13 @@
     "commenti_weight": 3,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 6242,
     "num_commenti": 3,
-    "num_posts": 26,
+    "num_posts": 27,
     "post_after": [
         {
             "post_id": 808199,
@@ -356,6 +366,16 @@
             ],
             "timestamp": "2019-12-27T13:15:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808844"
+        },
+        {
+            "post_id": 808875,
+            "text": [
+                "Grazie anche a te",
+                "Contento che il racconto ti sia piaciuto.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-12-27T14:57:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808875"
         }
     ],
     "post_staff": [
@@ -502,6 +522,21 @@
             ],
             "timestamp": "2019-12-27T13:15:29Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808844"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 808875,
+            "text": [
+                "Grazie anche a te",
+                "Contento che il racconto ti sia piaciuto.",
+                "Ciao!"
+            ],
+            "timestamp": "2019-12-27T14:57:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45702-n2019-1b-suo-marito-sergio//?do=findComment&comment=808875"
         }
     ],
     "text": [
