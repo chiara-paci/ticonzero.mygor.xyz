@@ -82,8 +82,18 @@
     },
     "num_chars": 911,
     "num_commenti": 2,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 809268,
+            "text": [
+                "Grazie mille per il tuo commento estremamente accurato . Trovo la tua analisi molto originale e profonda. Mi fa piacere che tu abbia colto tutti i punti del mio componimento, che come giustamente noti è autobiografico. Mi fa uno strano effetto leggere una così bella analisi delle mie parole, che ho scritto di getto qualche settimana fa. Ti ringrazio anche per le correzioni: permettono di rileggere la poesia con occhi diversi. In un certo senso la trasformano.",
+                "Comunque il piacere è mio!"
+            ],
+            "timestamp": "2019-12-29T15:48:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45685-una-volta-ho-visto//?do=findComment&comment=809268"
+        }
+    ],
     "post_staff": [
         {
             "author": {
