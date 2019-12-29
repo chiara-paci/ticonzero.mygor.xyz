@@ -43,7 +43,7 @@
         {
             "checks": {
                 "timestamp": true,
-                "valid": 0.06695652173913043
+                "valid": 0.13129032258064519
             },
             "text": [
                 [
@@ -57,6 +57,14 @@
                 ],
                 [
                     "Il premio agognato per una vita. Fatemi la medaglietta, vi prego."
+                ],
+                [
+                    "Dunque, mi aggancio alla faccenda dei premi non ufficiali.",
+                    "Negli scorsi giorni ho ricevuto una marea di messaggi da parte di utenti che mi chiedevano cosa bisognasse fare per vincere il Premio Cerusico, e ovviamente non ho risposto a nessuno.",
+                    "Posso finalmente svelare il vincitore della prima edizione del prestigioso Premio Cerusico",
+                    "Motivazione : per questa tornata, il premio era in palio per chi si fosse aggiudicato la Medaglietta Cerusico di e il Premio Orsacchiottone di peluche di .",
+                    "Per la prossima tappa — udite udite — potrebbe essere assegnato a un concorrente che non scenderà in campo.",
+                    "Si festeggi."
                 ]
             ],
             "timestamp": "2019-12-24T17:17:46Z",
@@ -74,7 +82,7 @@
     },
     "num_chars": 6893,
     "num_commenti": 2,
-    "num_posts": 24,
+    "num_posts": 25,
     "post_after": [
         {
             "post_id": 808422,
@@ -132,6 +140,16 @@
             ],
             "timestamp": "2019-12-27T13:18:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=808845"
+        },
+        {
+            "post_id": 809182,
+            "text": [
+                "ci stanno le tue considerazioni, le comprendo perfettamente. Credo che a un certo punto occorra compiere delle scelte, e tali scelte possono anche far sì che alcuni lettori non ti apprezzino. Lo trovo naturale. Ti ringrazio per il passaggio e per l’onestà.",
+                "come avrai visto, ho dovuto rifletterci molto, e sono stato assai combattuto, ma alla fine mi sono assegnato il Premio Cerusico grazie mille per la lettura!",
+                "grazie di cuore per la lettura e per le belle parole."
+            ],
+            "timestamp": "2019-12-29T10:28:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45710-n2019-1b-poi-perse-il-nome//?do=findComment&comment=809182"
         }
     ],
     "post_staff": [
