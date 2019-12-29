@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 809081,
@@ -85,6 +85,14 @@
             ],
             "timestamp": "2019-12-28T21:16:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809127"
+        },
+        {
+            "post_id": 809167,
+            "text": [
+                "Ciao , grazie del commento, ma non ho potuto fare a meno di notare che è il tuo primo messaggio. Prima dovresti presentarti"
+            ],
+            "timestamp": "2019-12-29T09:46:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809167"
         }
     ],
     "post_staff": [],
