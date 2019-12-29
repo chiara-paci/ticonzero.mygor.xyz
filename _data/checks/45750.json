@@ -58,7 +58,7 @@
     },
     "num_chars": 2700,
     "num_commenti": 1,
-    "num_posts": 13,
+    "num_posts": 16,
     "post_after": [
         {
             "post_id": 809081,
@@ -101,6 +101,14 @@
             ],
             "timestamp": "2019-12-29T16:24:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809275"
+        },
+        {
+            "post_id": 809282,
+            "text": [
+                "Hai presente i draghi di Daenerys? Ecco, sono viverne perché hanno 4 arti in totale. I draghi ne hanno sei. Anche in Lo Hobbit (film) Smaug è in realtà una viverna."
+            ],
+            "timestamp": "2019-12-29T17:02:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45750-battaglia-fantasy//?do=findComment&comment=809282"
         }
     ],
     "post_staff": [
