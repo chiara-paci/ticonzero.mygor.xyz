@@ -12,13 +12,58 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , ho appena finito di leggere il tuo racconto e non mi sono soffermato sui commenti di altri utenti, dunque chiedo scusa se dovessi farti notare qualcosa che ti è già stato fatto presente.",
+                    "L'argomento trattato mi dà l'impressione di essere un cliché, di fatto mi è parso di leggere una storia già letta e di cui è possibile prevedere l'epilogo.",
+                    "Ho pensato che non volessi puntare molto sull'originalità, ma sulla forma. Anche questa, tuttavia, mi ha lasciato con un po' di amaro in bocca. Ho trovato alcuni periodi, che non mancherò di quotarti, molto evocativi, ma per quanto concerne il racconto nel suo complesso non l'ho trovato particolarmente stimolante.",
+                    "Lo stile fortemente, e credo volutamente, paratattico è, come nel caso del racconto 'Cinico Presepe', una sorta di enumeratio che a mio giudizio non va a soddisfare la voglia di sapere del lettore; nel mio caso gradirei entrare nella psicologia di un personaggio, al di là di quanto gli avviene intorno.",
+                    "Vado a quotarti quanto credo sia degno di nota:",
+                    "Qui inizia l'enumeratio di cui ti parlavo; costruisce una determinata atmosfera, ma a gusto personale preferisco un'argomentazione più dettagliata. Non sono esperto di stile pulp, quindi posso rifarmi unicamente al mio gusto quale metro di giudizio.",
+                    "Come fa il protagonista a sapere che a vent'anni l'attore era pieno di capelli?",
+                    "Ovvierei in modo differente, spero di non disturbare proponendoti un esempio:",
+                    "\"[...] come per magia è pieno di capelli come se avesse vent'anni\".",
+                    "Lo trovo un periodo a scopo riempitivo che non apprezzo; ho letto dozzine di volte la stessa immagine che trovo, dunque, un gran cliché.",
+                    "Estemporaneo in che senso?",
+                    "Non sembra, nel racconto, che il protagonista stia scrivendo per qualcuno, ma che stia piuttosto enumerando ciò che fa in attesa della rapina in banca. La rapina sembrerebbe essere l'acme della narrazione e quindi pare un po' strano che il protagonista si ricordi in quel modo di avere una semiautomatica nel cassetto. Inoltre, quel 'ah, giusto' iniziale, fa pensare proprio che stia cercando di comunicare con qualcuno.",
+                    "Bella frase, molto evocativa.",
+                    "Altra bella frase, altrettanto evocativa.",
+                    "Troppo spinta e, a mio giudizio, un'immagine superflua visto il contesto. Non c'è un crescendo o qualcosa che abbia fatto intendere prima che il protagonista possa assumere questo tipo di linguaggio, anzi! Questa rudezza è nel mezzo del nulla, a mio avviso. Poi, perché proprio di un cane? La struttura non è proprio la medesima dell'essere umano.",
+                    "Mi piace questa frase.",
+                    "Altra bella frase.",
+                    "Nonostante cosa?",
+                    "Si presume che la pianificazione della rapina sia avvenuta in precedenza, a mio avviso è poco credibile che la modalità d'impiego di armi venga discussa a pochi secondi dal fattaccio",
+                    "Credo che l'immagine che vuoi evocare sia quella dei pensieri che si dileguano pian piano, come assorbiti da un unico punto. Forse sarebbe meglio 'prosciugano' o 'diradano'.",
+                    "Che dire, il tuo modo di scrivere è fluente, forse in questo racconto anche troppo, però non riesco a cogliere il tuo stile.",
+                    "Non mi sono piaciute le immagini legate al cane e alla vacca, semplicemente perché le ho trovate aliene al contesto.",
+                    "Il finale non l'ho capito molto bene, anche se credo di aver preso il significato. Forse il protagonista uccide la voce nella sua testa e per questo non muore fin quando non lo uccidono i poliziotti, o è il contrario?",
+                    "Non ho compreso il ruolo della ragazza in finale, era il protagonista il ragazzo con cui ha fatto l'amore?",
+                    "Non ho apprezzato particolarmente questo racconto per vari motivi:",
+                    "Una paratassi sicuramente voluta ma, a mio giudizio, non doverosamente studiata e collocata, che quindi stride un po' (gusto personale); consecuzione logica che a tratti va perdendosi, frutto a mio avviso di un lavoro di fantasia mal proiettato sulla realtà; l'ho trovato un cliché letterario, poco originale. Potrebbe diventarlo con un'elaborazione più dettagliata; il focus all'inizio sembra essere sulla rapina, quando in realtà l'argomento centrale è il rapporto tra il protagonista e la voce nella sua testa.",
+                    "non ho riscontrato refusi o anomalie per quanto concerne la sintassi.",
+                    "Credo che la mancanza di originalità sia, sempre a mio avviso, la dinamica più permeante del tuo racconto.",
+                    "Ti rileggerò volentieri, sono curioso di leggere un tuo testo più ipotattico e argomentativo.",
+                    "A presto!"
+                ]
+            ],
+            "timestamp": "2019-12-29T16:03:27Z",
+            "title": "Maschere e pistole",
+            "url": "https://www.writersdream.org/forum/forums/topic/45603-maschere-e-pistole//?do=findComment&comment=809270",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,10 +71,24 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 6960,
-    "num_commenti": 0,
-    "num_posts": 1,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 809362,
+            "text": [
+                "fai attenzione, avevi dimenticato il ."
+            ],
+            "timestamp": "2019-12-30T02:46:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45763-i-bambini-della-stazione-devono-saper-lanciare-i-sassi//?do=findComment&comment=809362"
+        }
+    ],
     "text": [
         "Il cane viene scosso dai fremiti, forse le pulci.",
         "La stazione è piuttosto fredda in questo periodo dell’anno e le anime buone preferiscono volare altrove, verso il centro, dove quelle perse sono più di qualità e gli occhi abbondano.",
