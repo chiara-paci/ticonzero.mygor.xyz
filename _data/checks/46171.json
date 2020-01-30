@@ -1,0 +1,49 @@
+{
+    "author": {
+        "author_id": 16444,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Mir.outloud",
+        "url": "https://www.writersdream.org/forum/profile/16444-miroutloud/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 489,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Quello era l'angolo che profumava di Oriente,",
+        "di cibo speziato e resistenza;",
+        "l'antica resistenza del subalterno, del colonizzato, del clandestino.",
+        "In quell'angolo, e solo lì, poteva dare spazio alla verità.",
+        "Aveva il permesso di sentirsi connesso alla sua identità,",
+        "a qualcosa, a qualcuno a cui era stato strappato.",
+        "Io, ogni volta che mi avvicinavo all'angolo dell'Oriente,",
+        "potevo quasi sentirmi anche io strappata da qualcosa, o da qualcuno,",
+        "anche se non lo ero.",
+        "Perchè io sono quella ha strappato."
+    ],
+    "timestamp": "2020-01-30T22:46:38Z",
+    "title": "L'angolo dell'Oriente",
+    "topic_id": 46171,
+    "url": "https://www.writersdream.org/forum/forums/topic/46171-langolo-delloriente/"
+}
