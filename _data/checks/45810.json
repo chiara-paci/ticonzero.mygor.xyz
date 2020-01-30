@@ -1,0 +1,157 @@
+{
+    "author": {
+        "author_id": 30926,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Stevesteve",
+        "url": "https://www.writersdream.org/forum/profile/30926-stevesteve/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "L'abbozzo di storia c'è: omicidi incombenti, contesto familiare e personaggi da esplorare, una fidanzata.",
+                    "Lo stile l'ho trovato piuttosto piatto, forse è voluto per rappresentare un protagonista \"normale\" che poi farà cose inaspettate?",
+                    "Alcune osservazioni più specifiche:",
+                    "una virgola?",
+                    "bene, l'ultima qualifica ci dà un annuncio che ci incuriosisce. Le precedenti ti danno l'occasione per esplorare altri ambiti.",
+                    "la \"d\" di \"ad\" ci dovrebbe andare solo se la vocale iniziale della parola successiva è una \"a\".",
+                    "già detto per \"ad\", \"in imbarazzo\" è raddoppiato (non hai riletto?), se non dici altro su questa sorella non si capisce il senso delle potenziali domande \"scomode\".",
+                    "è esplicitamente una festa di compleanno, come una torta può essere una sorpresa?",
+                    "suggerirei una virgola, e \"a letto non se la cavava male\" non è un clichè banalotto?",
+                    "imperfetto, passato prossimo e passato remoto... ti tocca decidere dove vuoi stare. Per \"ed\" vale quanto detto sopra per \"ad\".",
+                    "che manchi poco all'estate - mi pare siamo a maggio, di sera - non mi sembra una contraddizione rispetto al fatto che la panca, di marmo, sia fredda. Inoltre, le panche sono di legno, per il marmo direi sedile o altro.",
+                    "\"Fredda, umida, macchiata\": ben tre aggettivi. Lascerei \"umida\", che a suo modo può comprendere \"fredda\", mentre \"macchiata\" mi pare proprio superfluo rispetto al contesto, a meno che non abbia qualche significato rispetto all'omicida.",
+                    "Mi sarebbe piaciuto leggere di qualche \"azione\" del protagonista che sugerisse gli stati d'animo, il solo sedersi da solo a guardare il mare mi è sembrato poco.",
+                    "Nel complesso, è un inizio che denota che tu abbia una visione di come proseguirai. Sarà impegnativo caratterizzare un personaggio così, bella sfida, auguri!",
+                    "Stefano"
+                ]
+            ],
+            "timestamp": "2020-01-02T20:34:20Z",
+            "title": "Insoddisfazione",
+            "url": "https://www.writersdream.org/forum/forums/topic/45350-insoddisfazione//?do=findComment&comment=809901",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 14256,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 810060,
+            "text": [
+                "Il geometra Messana, infatti, non era tipo di grandi iniziative, pur essendo scrupoloso esecutore di direttive. Certo, si rendeva ben conto che un capo – sia pure intermedio – in quanto tale doveva averne",
+                "Il \"ne\" finale si riferisce a iniziative. Forse non è chiaro, forse sarebbe meglio invertire iniziative e direttive, in modo che il \"ne\" sia più vicino. Così:",
+                "Il geometra Messana, infatti, pur essendo scrupoloso esecutore di direttive, non era tipo di grandi iniziative. Certo, si rendeva ben conto che un capo – sia pure intermedio – in quanto tale doveva averne",
+                "... invece \"averlo\", che proponi, come sarebbe collegato?",
+                "Per il resto, grazie delle tante osservazioni puntuali, e contento che ti sia piaciuto.",
+                "Stefano",
+                "PS: per la cronaca cinematografica: si tratta della scena iniziale de \"La bestia\", di Borowczyk, che riesce a essere insieme erotico - fra i più erotici che io abbia visto - e divertente.",
+                "PPS",
+                "nel rileggere: qui ci sono cascato , e pensare che avevo fatto il maestrino proprio su questo nel recensire un racconto!"
+            ],
+            "timestamp": "2020-01-03T14:57:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45810-la-minzione-del-geometra-messana//?do=findComment&comment=810060"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 810757,
+            "text": [
+                "Il racconto è lungo 14224 caratteri contro il massimo di ottomila consentito in questa sezione.",
+                "Chiudo."
+            ],
+            "timestamp": "2020-01-06T15:21:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45810-la-minzione-del-geometra-messana//?do=findComment&comment=810757"
+        }
+    ],
+    "text": [
+        "LA MINZIONE DEL GEOMETRA MESSANA",
+        "Si rialzò sonnacchioso dal breve riposo pomeridiano.",
+        "Si sentiva appiccicato. I calzini aggrumati, la camicia spiegazzata, il cervello confuso.",
+        "Avrebbe fatto meglio, prima di coricarsi, a spogliarsi e mettersi in pigiama, invece di limitarsi a slacciare la cintura e allentare la lampo dei pantaloni.",
+        "Se lo diceva ogni giorno, da trentadue anni, tanti quanti ne erano trascorsi da quando si era sposato con Elvira. La finzione con se stesso gli serviva, forse, a mantenersi la possibilità di un qualche miglioramento, nella sua vita, che dipendesse unicamente da lui.",
+        "Doveva tornare al lavoro, dove sperava che la nuova impiegata, convinta dai suoi discreti consigli che, per carità, non erano assolutamente da interpretare come pressioni, fosse rimasta per gli straordinari.",
+        "Il fastidio per sentirsi trasandato si acuiva perché non voleva fare brutta figura con la signora Laura (così si chiamava la nuova impiegata). Ma cambiarsi avrebbe significato rompere un’abitudine. Di più. Avrebbe consumato quella possibilità di miglioramento di cui si diceva. La quale valeva finché restava una possibilità. E se avesse verificato che cambiarsi d’abito dopo aver dormito era effettivamente un miglioramento della sua vita, che cosa avrebbe dovuto concludere, che aveva sbagliato per più di trent’anni? No no, meglio rinviare la verifica.",
+        "Si sciacquò la faccia e si cosparse di lavanda. Francese comprata a Parigi. Scusi eh. Ravviò i capelli ancora scuri e ondulati. Tirò indietro le guance un po’ cascanti. Si chiuse il colletto della camicia, rifece il nodo della cravatta, allacciò le scarpe che Elvira aveva lucidato mentre lui riposava. Infilò il gilet di lana inglese – questo comprato in un buon negozio del centro, perché a Londra non era ancora stato – e indossò la giacca.",
+        "Si guardò allo specchio. Non andava. Decise che era una giornata in cui era giusto cambiare qualcosa.",
+        "Oh solo per oggi sia ben inteso, senza mettere in discussione le regole insomma l’eccezione che conferma, come si dice.",
+        "Ordinò a Elvira di preparargli una camicia pulita e l’altro vestito. Il che implicava non più le scarpe nere ma quelle marroni. Ma questo non lo disse perché Elvira avrebbe capito.",
+        "Elvira eseguì. Era però inquieta. Ogni giorno, da trentadue anni, esaudiva amorevolmente le richieste del marito. Si era sempre, però, rifiutata di collegare– come pure sarebbe stata in grado anche senza essere molto colta né tantomeno esperta di statistica – i repentini mutamenti di abitudine del marito con le crisi familiari che erano regolarmente seguite. Così si era rassegnata all’insicurezza permanente, che sfogava con meschine scenate per la cena raffreddatasi o per la scelta del canale televisivo. In tal modo, senza saperlo – ma poi chissà – svolgeva l’utile funzione di compensare i sensi di colpa che il buon geometra Messana, se ne fosse stato capace, avrebbe potuto provare.",
+        "Il geometra Messana, alle 16 in punto, vestito a nuovo e profumato, scese in garage, borbottò per il coinquilino che lasciava sempre l’auto fuori del box rendendogli così più difficile la manovra, e si diresse in ufficio.",
+        "La signora Laura c’era. Mora, più alta della media.",
+        "Le scarpe con i tacchi le imponevano una camminata che, non riuscendo alla signora Laura di assumere il portamento cui peraltro aspirava (passo lungo flessuoso nonchalante), risultava piuttosto legnosa.",
+        "Certe doti di portamento, d’altra parte, non basta l’applicazione e la volontà a conquistarle, se non le si è respirate fin dall’infanzia. E la signora Laura era di famiglia che qualcuno avrebbe potuto definire «modesta ma decorosa». Non esattamente, quindi, «nobile» né «alto borghese» che, come è noto, sono i luoghi dove certe attitudini si acquisiscono.",
+        "Il geometra Messana salutò la signora Laura, fingendo professionale sorpresa per averla trovata ancora al lavoro e si chiuse, come sempre, nella stanza.",
+        "Lì stava bene.",
+        "Una poltrona comoda, girevole e pieghevole, bei quadri forniti dalla ditta, piante ben curate, moquette blu scuro, un salottino ricavato in un angolo, ampia scrivania con su carte ben ordinate. L’insieme doveva trasmettere, a chi vi entrasse, efficienza nell’ordine e potere nella giustizia. La seconda espressione era un po’ forte ma pazienza: il geometra Messana aveva altre qualità che non un vocabolario forbito.",
+        "Era un posto di responsabilità, che il geometra Messana aveva meritato per la sue capacità di lavoratore instancabile, in nome delle quali sapeva di poter pretendere altrettanto impegno, se non dedizione, dai suoi sottoposti.",
+        "Qualche collega di malanimo, come ce ne sono, sospettava che il geometra Messana fosse arrivato in quella posizione per due interessi diversi ma parzialmente concomitanti: le proteste per i modi bruschi e villani con i sottoposti e la volontà dell’Amministratore delegato di tenere per un po’ in frigorifero il settore – in altri momenti importante ma con pochi dipendenti – a cui il geometra Messana era stato preposto.",
+        "Il geometra Messana, infatti, non era tipo di grandi iniziative, pur essendo scrupoloso esecutore di direttive. Certo, si rendeva ben conto che un capo – sia pure intermedio – in quanto tale doveva averne. Aveva risolto il problema accontentandosi di presentare ai suoi sottoposti, ed ai colleghi di pari grado, le istruzioni che riceveva come frutti di sue proposte fatte ingoiare dopo lunghe discussioni all’Amministratore delegato, su cui pensava così di rifarsi per il modo supponente con cui lo trattava.",
+        "Il geometra Messana stava bene nella sua poltrona, nella sua stanza. I momenti critici con l’Amministratore delegato erano tutto sommato pochi, e gli restava molto tempo per compensare le frustrazioni che lì accumulava.",
+        "Il che faceva, come del resto la generalità dei suoi pari grado – ma che sia un’attitudine ancora più diffusa? – riversando sui sottoposti le angherie che riteneva di subire. Il conto, tuttavia, non tornava. Infatti, il geometra Messana in qualche modo riconosceva all’Amministratore delegato il diritto di infliggergli – e a sé il dovere di subire – tali angherie, ma non gli sembrava di trovare analoga disposizione nei suoi sottoposti.",
+        "Quel giovane architetto, per esempio, che ogni tanto pretendeva di scrivere relazioni infarcite di paroloni, quando tutto si poteva dire con le buone cento parole del linguaggio di ufficio. Parole sicure, sperimentate, non aggredibili da equivoci, non soggette a richieste di precisazioni.",
+        "Più facile, ma anche di minor soddisfazione, con l’uomo delle pulizie. L’ufficio era uno specchio, ma il geometra Messana gli aveva fatto una scenata, due giorni dopo esservisi insediato, perché a metà mattinata i cessi erano sporchi. Naturalmente egli sapeva benissimo che l’uomo delle pulizie svolgeva il suo lavoro prima dell’inizio e dopo la fine dell’orario d’ufficio e che perciò non poteva essere responsabile della sporcizia degli impiegati. Ma serviva a definire le distanze. Non per niente, dopo la scenata l’uomo delle pulizie salutava sempre con deferenza il geometra Messana, il quale peraltro, qualche settimana dopo, lo gratificò con un «effettivamente da qualche tempo i cessi sono un po’ meno zozzi».",
+        "Il pensiero gli fece venire lo stimolo di mingere. La signora Laura lo vide passare nel corridoio e poco dopo lo osservò ritornare con aria soddisfatta.",
+        "Il geometra Messana aveva una sua teoria, cui teneva molto e di cui era tanto geloso da non averne fatto parola con alcuno: che ciascuno sfrutti per sé le proprie conoscenze, si diceva, se ho un vantaggio sugli altri perché mai dovrei starlo a dividere?",
+        "La teoria, dunque, consisteva nella considerazione che l’urina, al momento della minzione, costituiva una via di comunicazione tra il corpo di chi mingeva e il cesso. Vero che l’urina andava in direzione corpo-cesso, ma vero pure che non si poteva del tutto escludere la possibilità che microrganismi batteri virus e insomma tutto il bestiario che si annida nelle latrine avesse imparato a risalire lungo l’urina con velocità superiore a quella con cui l’urina scendeva e a penetrare così nel corpo.",
+        "Faremmo torto al geometra Messana se non gli dessimo credito di rendersi conto della scarsa probabilità che i microrganismi batteri virus etc. fossero così veloci. Ma egli era particolarmente fiero di aver trovato un campo di applicazione a sé stesso di un complesso concetto – il principio di precauzione –di cui aveva letto su qualche titolo di giornale. Del resto, chi potrebbe dimostrarvi che egli avesse torto?",
+        "Così, dopo la prima folgorazione, pisciava – pardon, mingeva – in una boccetta che si portava appresso e che vuotava poi nel cesso ripulendola ogni volta scrupolosamente. In seguito, rivelatosi il sistema troppo complicato e fastidioso, si limitava ad evitare di mingere tutto di seguito e orinava a schizzi.",
+        "In tal modo, argomentava tra sé il geometra Messana, che non era privo di intuito circa i principi della teoria delle probabilità, non aveva la certezza del risultato ma certo rendeva difficilissimo – e per il tempo più breve e per lo schizzo più veloce – il compito dei microrganismi batteri virus etc.",
+        "Questa, e non altra, era la ragione per cui il geometra Messana appariva così soddisfatto di sé dopo aver orinato, il che faceva spesso.",
+        "Si risiedette in poltrona, sparse ordinatamente alcune carte sulla scrivania – tutte rigorosamente parallele o perpendicolari sia tra loro che rispetto ai margini della scrivania – e chiamò la signora Laura spingendo due volte il segnale dell’interfono.",
+        "Quella si presentò dopo un attimo con in mano un blocco notes per stenografia e una matita, pronta ed efficiente.",
+        "Una bella cavallona, con quei capelli neri e anche il viso un po’ allungato. La invitò a sedersi e cominciò a dettarle una lettera. Si interruppe spesso, come a concentrarsi, con gli occhi chiusi e le mani strette sulle tempie.",
+        "La signora Laura lo osservava con curiosità riemergere da queste brevi apnee mentali, sembrandole apprezzabile lo sforzo che il geometra Messana compiva per rendere in buon italiano i suoi pensieri.",
+        "Forse avrebbe apprezzato meno – ma era stata assunta da pochi giorni – se avesse avuto modo di sfogliare il velinario dell’ufficio, dove giacevano decine di lettere identiche a quella che stava stenografando con tanto impegno, desiderosa di fare bella figura.",
+        "Certo che lo sforzo di controllo del proprio intelletto di cui il geometra Messana dava mostra doveva apparirle un tantino eccessivo. Tuttavia avrebbe cambiato idea, al riguardo, ammirandone invece la capacità di autocontrollo, se avesse potuto seguire i pensieri del geometra Messana: tutto concentrato, nel suo chiudere gli occhi, a rivivere la scena – da un film – di uno stallone che nella nebbia umida della brughiera montava una splendida cavalla.",
+        "Il geometra Messana si compiaceva, rientrando dalle sue brevi assenze ad occhi chiusi, di rivedere la scena in tutti i particolari – lo zoccolo scalpitante, le froge fumanti, l’equuspisello vermiglio e spenzolante, i muscoli della coscia saettanti sotto pelle – riuscendo a non sovrapporre i suoi piani sulla signora Laura alle immagini che ricreava.",
+        "Finita la dettatura ristette qualche attimo in silenzio ad osservare la signora Laura. Questa, prima restò per un po’ in attesa di altre disposizioni, poi prese a gingillarsi con la matita, infine si sistemò meglio sulla poltrona appoggiandosi all’indietro.",
+        "Si rassettò la gonna, si aggiustò i capelli spostandoli con i mignoli delle due mani dietro le orecchie.",
+        "Si guardò intorno nella stanza mentre il geometra Messana aveva preso a consultare un libro.",
+        "Restò a guardarlo per qualche minuto imbarazzata.",
+        "La lettera era finita. Lui non la congedava ma sembrava ignorarla. Doveva restare con le mani in mano, rischiando la figura della sciocca, o doveva andare di là a battere a macchina la lettera, col timore di essere ripresa?",
+        "Fece un paio di «ehm». Accavallò le gambe da una parte. Poi dall’altra. Ogni volta riassettando la gonna e risistemandosi sulla poltrona.",
+        "Si decise, seduta ora sul pizzo della poltrona e con la mano sul bracciolo pronta ad alzarsi, ad un «posso andare» che uscì smozzicato perché mentre lo esalava le venne in mente che sarebbe stato preferibile un «ha ancora bisogno di me».",
+        "Lo «scccc» del geometra Messana la lasciò a mezz’aria, col sedere sollevato e il peso del corpo distribuito malamente tra il polso sinistro sul bracciolo della poltrona ed il gomito destro sulla scrivania.",
+        "Ricadde sulla poltrona. Arrossì violentemente quando il geometra Messana, poco dopo, chiese brusco che cosa mai facesse lì impalata e come mai non avesse ancora battuto la lettera, che poi era così breve e semplice, tanto per farla abituare alla dettatura senza impegnarla troppo dato che era alle prime armi.",
+        "Sentì che dalle gote la rabbia passava fino alla radice dei capelli, s’impappinò, non trovò le parole giuste e si limitò a tornare nella sua stanza reprimendo le assurde lacrime che insistevano per spuntare.",
+        "Il geometra Messana sorrise indulgente e compiaciuto per la propria capacità di controllo del personale.",
+        "Esercitarsi nel mettere in imbarazzo gli inferiori, renderli insicuri, era uno dei sistemi preferiti di far valere il suo potere, ed il geometra Messana era intimamente convinto che facesse parte delle qualità del buon capo usare di quando in quando questi trucchetti.",
+        "La prossima volta la signora Laura si sarebbe alzata appena finita la dettatura e lui l’avrebbe bloccata sulla porta – non prima, non prima! – con un gelido «signora, chi le ha detto di andarsene? Si accomodi, prego». E l’avrebbe tenuta lì per qualche minuto. Dopodiché, l’avrebbe congedata.",
+        "La volta successiva, il copione era collaudato, la signora Laura sarebbe stata tesa ed incerta, timorosa di sbagliare, e per lui sarebbe stato più facile cominciare ad aprire qualche breccia. Mostrandosi premuroso, gentile, e preoccupato per il disagio evidente della signora Laura.",
+        "Così che, dopo averla sollecitata ad esporre con franchezza il perché di quella mancanza di serenità, quando ella avesse cominciato a girare intorno al problema ed egli avesse fatto un gesto di conforto – come una carezza rapida sui capelli – la signora Laura avrebbe «dovuto» considerarla un moto paternalistico, pur percependone in pieno l’ambiguità.",
+        "Il geometra Messana si alzò per pisciare. Non poteva davvero dire che la vita fosse avara, con lui."
+    ],
+    "timestamp": "2020-01-02T20:46:49Z",
+    "title": "La minzione del geometra Messana",
+    "topic_id": 45810,
+    "url": "https://www.writersdream.org/forum/forums/topic/45810-la-minzione-del-geometra-messana/"
+}

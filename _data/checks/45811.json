@@ -1,0 +1,188 @@
+{
+    "author": {
+        "author_id": 9889,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "simone volponi",
+        "url": "https://www.writersdream.org/forum/profile/9889-simone-volponi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5732967032967033,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.5732967032967033
+            },
+            "text": [
+                [
+                    "Ciao capitano. Mi serve un commento e ho provato a lasciare qualche indicazione per correggere il testo.",
+                    "Un'altra storia avventurosa racconto di vita. Spero lei si sia comportato un po' meglio nella realtà, ma faccio il tifo affinché sia andata proprio così",
+                    "Il discorso è sempre quello, con una corretta costruzione narrativa queste storie sarebbero più luminose e ficcanti. Già così, difettoso, se vogliamo artigianale, si riesce a leggere il racconto con gusto e voglia di proseguire, sapere come va a finire. Con una cura tecnica ne gioverebbe il tutto.",
+                    "Molto divertente, comunque.",
+                    "Un saluto alla farfallina!"
+                ],
+                [
+                    "Serviva un commento per postare nel contest",
+                    "Era un lei scherzoso, capità. Grazie per l'augurio, è iniziato di m... ma vediamo come prosegue sto 2020"
+                ]
+            ],
+            "timestamp": "2020-01-02T20:48:22Z",
+            "title": "\"M a r g h e r i t a \"",
+            "url": "https://www.writersdream.org/forum/forums/topic/45799-m-a-r-g-h-e-r-i-t-a//?do=findComment&comment=809908",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 44,
+        "title": "Narrativa over 18",
+        "url": "https://www.writersdream.org/forum/forums/forum/44-narrativa-over-18/"
+    },
+    "num_chars": 7563,
+    "num_commenti": 1,
+    "num_posts": 26,
+    "post_after": [
+        {
+            "post_id": 810144,
+            "text": [
+                "Tranquillo, è il rischio che si corre con la narrativa di genere. Capita, ma l'horror di per sé vuole colpire la sensibilità del lettore.",
+                "Grazie a te per averlo letto."
+            ],
+            "timestamp": "2020-01-03T18:08:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810144"
+        },
+        {
+            "post_id": 810391,
+            "text": [
+                ", sei rimasto indietro nel tempo. Arretrato nelle scelte. Guarda qua:"
+            ],
+            "timestamp": "2020-01-04T18:09:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810391"
+        },
+        {
+            "post_id": 810393,
+            "text": [
+                "Immaginalo tipo batterista schizoide che richiama i confratelli mazzurellando le campane tibetane... (hai ragione tu )",
+                "Ho brutti ricordi con il veterinaio dell'Asl che mi ha operato i gatti...",
+                "Se in due la bocciate allora è sbagliata... devo finirla di cercare per forza delle metafore anche quando non mi vengono.",
+                "La verità? Non mi andava di trovare nomi adatti Poi ho pensato che la sola lettera puntata sapesse troppo di massoneria, setta, club segreto etc.",
+                "Utilissima, grazie per esserci tornata"
+            ],
+            "timestamp": "2020-01-04T18:17:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810393"
+        },
+        {
+            "post_id": 810398,
+            "text": [
+                "Un sacco! Anche a me vengono spesso immagini e idee a sfondo religioso (ne una che mi gira in testa da settimane e che, si spera, svilupperò in un racconto lungo). Forse perché è uno scenario che urta maggiormente la sensibilità delle persone, e l'horror nasce come esigenza di creare repulsione, fastidio, dire al lettore \"qua c'è da sudare\", anche se poi dentro il messaggio ce lo metti.",
+                "Se mi hai trovato un pizzico originale, ti ringrazio",
+                "Per le campane e le iniziali vedi sopra"
+            ],
+            "timestamp": "2020-01-04T18:22:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810398"
+        },
+        {
+            "post_id": 810405,
+            "text": [
+                "Poi fammi sapere...",
+                "Mi dà speranza che i messaggi, anche se declinati nello schifido, alla fine vengano colti. Purtroppo la narrativa di genere a volte diventa la pecora nera (o vuole esserlo? Chissà...)",
+                "Grazie Tà"
+            ],
+            "timestamp": "2020-01-04T18:27:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810405"
+        },
+        {
+            "post_id": 810448,
+            "text": [
+                "Infatti mi hanno spostato qua perché \"ommiodddddio\"",
+                "L'incipit è preso da una storia vera, la mia...",
+                "Cazzo, Vanzina? Addirittura...",
+                "Buco/Cubo non l'ha capito nessuno fuori da qui, si può dire che sia stato un fallimento.",
+                "Sul resto ci ragiono, lo rileggo a mente lucida. Ci sta pure che abbia voluto giochicchiare a spararla più grossa, tanto resta tra noi...",
+                "Il videogioco pare figo dalla descrizione, ma io non gioco. Sono uno dei pochi che non ha consolle e cose del genere, a parte un antico Nintendo.",
+                "Vabbè, poi rileggo tutto con calma, vedo di imparare. Hai fatto bene a dirlo, un abbraso"
+            ],
+            "timestamp": "2020-01-04T20:48:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810448"
+        },
+        {
+            "post_id": 810606,
+            "text": [
+                "Agorà è zona di guerra per me in questo momento",
+                "ho messo i coprispigoli in casa per non andare a sbattere. Ho una personalità complessa (come molti), ma le critiche se devono esserci ci siano. Sono qui per questo (come tutti), quindi grazie per aver espresso la tua opinione, che mi fa riflettere non poco...",
+                "memoria tentacolare...",
+                "Ho visto il sito che mi hai indicato, sono scarso in queste conoscenze... mi serve un traduttore... mi serve un traduttore... mi serve un traduttore...",
+                "Magari rimetto mano al Cubo, mi serve un traduttore..."
+            ],
+            "timestamp": "2020-01-05T15:36:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810606"
+        },
+        {
+            "post_id": 810756,
+            "text": [
+                "Hai ragione. Ho fatto con google translate Poi sì, la fretta e i tempi stretti, immerso nelle difficoltà non mi ha agevolato.",
+                "Cara , sei piena di cultura e conoscienza e mi trovo in difficoltà nel risponderti perché sono un piccolo scrutatore di se stesso e del mondo. Mi hai offerto un punto di vista totalmente diverso dagli altri e che nemmeno io avevo previsto, ma forse stava lì, subdolo a esprimersi mentre scrivevo... è il bello della narrativa",
+                "Qui hai colto un punto sul quale mi ritrovo impantanato quando scrivo: l'impazienza. Me lo riconosco nell'atto dello scrivere, specie sulla lunga distanza, e ancora ci sbatto la testa. e l'impazienza sfocia nel grossolano.",
+                "Sinceramente questo mi emoziona... Il romanzo è un passo, imperfetto, ma un passo di un cammino che spero di sviluppare. Le poesie invece appartengono al periodo precedente, erano un mezzo per dare sfogo a un sacco di tribolazioni (che nel tempo mutano ma ci sono) e le ho buttate in giro per dargli una forma, senza aspettative. Sapere che qualcuno le va a pescare e le legga è emozionante",
+                "Grazie a te."
+            ],
+            "timestamp": "2020-01-06T15:14:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi//?do=findComment&comment=810756"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: Superstizione﻿﻿﻿",
+        "« Ave Maria, piena di grazia, il Signore è con… Cazzo! »",
+        "Padre O… diede un pugno alla parete, sotto al crocifisso.",
+        "«Ma cosa sto farneticando?» disse a voce alta. «Stupide parole prive di senso, e poi rivolte a chi? A chi!» urlò.",
+        "Andò a suonare le campane tibetane con rabbia, poi chiamò a raccolta i confratelli. Lì, seduti in cerchio nella stanza del priore, padre O… disse loro: «Fratelli, ho perso la fede.»",
+        "I sacerdoti dalle barbe canute si guardarono tra loro, preoccupati. Solo il priore accolse la notizia con sguardo e sorriso gioiosi.",
+        "«Ne sei sicuro, fratello?» chiese.",
+        "«Sì» confermò padre O… «Mi ritrovo a recitare le preghiere, e mi sembrano delle grandi… non oso dirlo, ma ecco, mi sembra di compiere un atto stupido e inutile.»",
+        "«E come ti fa sentire?» chiese il priore.",
+        "«Freddo. Perso. Vedo il baratro, l’oscuro e infinito baratro pronto a inghiottirmi. E poi l’inutilità della vita. Che senso ha tutto questo…»",
+        "«Bene!» Il priore scattò in piedi, eccitato. «Un nostro fratello ha perduto la fede, pensavo che quest’anno non accadesse.» Si sfregò le mani. «Dobbiamo subito porre rimedio alla situazione, altrimenti Dio ci punirà con piaghe e sventure che colpiranno la nostra comunità.»",
+        "I sacerdoti annuirono e mormorarono consensi. Il priore continuò a sfregarsi le mani, eccitato come un cane che se la sta per fare addosso.",
+        "«Bene, bene. Sappiamo cosa va fatto per rimediare, dobbiamo solo comunicarlo ai nostri parrocchiani.»",
+        "Al mattino i cittadini di Z… furono richiamati dalle campane. Era tempo di messa. Fu il priore a bardarsi per celebrare la funzione. Padre O… intonò macabre melodie all’organo.",
+        "«Cari fratelli, care sorelle» disse con gravità il priore. «Purtroppo questa notte padre O… ha perso la fede.»",
+        "Dai banconi si sollevò un brusio preoccupato. Le mogli si strinsero al braccio dei loro mariti e si aggrapparono con una mano ai rosari, i mariti misero il petto in fuori come si fa quando si deve affrontare con fierezza un pericolo e poggiarono una mano sul culo delle amanti.",
+        "«Voi tutti sapete cosa la nostra tradizione comanda» proseguì il priore. «Quando un fratello della nostra chiesa perde la fede va officiato il Christus Sacrificium Novum, altrimenti Dio onnipotente ci punirà e sarà la nostra fine!»",
+        "Note di organo tremarono nell’aria. I compaesani annuirono e si scambiarono sguardi e parole di assenso.",
+        "La scelta ricadde su S…, trentatreenne, perpetua e amante occasionale del priore. Quando questi le disse di essere la prescelta lei si inginocchiò e lo ringraziò baciando più volte l’anello pastorale e concedendogli un’ultima fellatio.",
+        "Il giorno stabilito, S… lo passò in famiglia, a riempirsi lo stomaco di alcol e droghe. I genitori, un robusto falegname – il lavoro più diffuso nella cittadina, insieme a quello del pastore – e una esile e taciturna donna pregarono con fervore, la gioia nei cuori.",
+        "Giunta la notte, nella strada principale i cittadini si raggrupparono per la processione. Le fiamme sulle candele danzavano a scatti, vista dall’alto la strada sembrava pullulare di lucciole allineate come soldatini. Il priore giunse insieme a padre O… e agli altri confratelli davanti alla casa di S…",
+        "La madre aprì loro la porta e i sacerdoti puntarono spediti verso il divano dove la ragazza li attendeva. La trascinarono fuori, il priore la teneva per i capelli. La gettò con sdegno in terra, S… simulò come meglio poteva, ottenebrata dall’alcol e dalle droghe, la sofferenza del momento.",
+        "I sacerdoti, priore in testa, la circondarono, le strapparono la maglietta e iniziarono a frustarla con il cilicio. Mentre la pelle della ragazza di squarciava sotto i colpi e sulla schiena le si formavano lingue rosse di sangue, i sacerdoti cercavano di tenere celate le erezioni che gonfiavano le loro vesti.",
+        "Venne portata la croce, costruita dal padre di S…. La poggiarono sulla spalla destra della ragazza. A suon di frustate la spinsero a camminare verso la collina.",
+        "S… continuò a interpretare la parte come meglio poteva, sofferente mentre la gente intorno la riempiva di insulti e le sputava contro e il priore ordinava di frustarla. In realtà era felice di essere stata scelta. Quante possibilità c’erano che un sacerdote perdesse la fede proprio durante i suoi trentatré anni? L’anno passato padre R… aveva perso la fede e il prescelto era stato T…, il suo dirimpettaio. Quanto lo aveva invidiato! E non era stato nemmeno tanto bravo a tenere la parte. Però così lei aveva potuto lasciare la sua offerta votiva, con il desiderio di essere prescelta. Ed eccola accontentata, era valsa la pena invidiare T…",
+        "Dietro di lei il popolo inveiva e, S… lo sapeva, tutti portavano con sé le offerte votive.",
+        "Le dispiaceva non poter vivere anche quella parte del rituale. Doveva accontentarsi di vivere il dolore che le apriva le carni, e si sforzava di trattenere le risa di goduria.",
+        "Certo, le sostanze che le scaldavano le vene pompavano l’euforia del momento, ma era davvero felice. Felice di sacrificarsi per salvare la comunità, felice di assurgere a eterna figura simbolica della speranza e del ritrovato amore di Dio.",
+        "Cadde più volte sulle ginocchia. Erano l’alcol e le droghe a dare sbandamenti, non certo la violenza delle frustate.",
+        "Dietro la chiesa, la strada si fece in salita verso la cima della collina. Lassù, stagliate contro il tramonto c’erano le altre croci. I corpi inchiodati al legno erano sformati dalla decomposizione e dagli oggetti che contenevano, ed erano cosparsi dei biglietti con le preghiere dei cittadini.",
+        "S…, durante la salita, riconobbe i tanti amici fortunati sacrificati prima di lei. Ed eccolo sulla cima, T…, gonfio e piagato come l’anno scorso. Lei l’offerta votiva l’aveva infilata nella gola di T…, e doveva essere ancora incastrata lì.",
+        "S… venne stesa sulla croce. Il priore si fece passare chiodi e martello da padre T… Posizionò la punta del primo chiodo sul polso destro di S… e, senza esitare, calò la prima martellata. Lei urlò, il sangue prese a scorrere, il martello spinse il chiodo nella carne fino in fondo. Il priore ripeté l’operazione sull’altro polso, e poi sulle caviglie incrociate di S…, e tutte le volte lei urlò, ma meno e con soddisfazione.",
+        "Issarono la croce, proprio accanto a quella dell’anno precedente. Il popolo passò in fila ai piedi della croce, urlando invocazioni al cielo. Per S… fu una lunga agonia estatica, a parte l’inconveniente del vomito che non riuscì a trattenere, con tutto il vino bevuto spruzzato a getti con rozzi conati. Spruzzi che bagnarono il priore intento a pregare. Poi arrivò la lancia e la lama nel costato.",
+        "Gli ultimi pensieri di S… furono un grazie alla comunità per essere stata scelta e un rimpianto di non poter vivere nella carne il rito degli ex voto.",
+        "Tirarono giù la croce, lì sul terreno della collina il priore, padre T… e gli altri sacerdoti, armati di lame da macellai, aprirono il cadavere, lo svuotarono degli organi e delle viscere e invitarono i cittadini a deporre le offerte votive, a turno. Trecce di capelli, gioielli, semplici biglietti, croci in legno, fotografie vennero infilate nel corpo di S…. Il veterinario del paese depose un mucchio di feti di gatto lì dove stava l’utero. Poi il cadavere venne richiuso come un baccello di carne rigonfia.",
+        "Chi non era riuscito ad infilare la propria offerta dentro si accontentò di inchiodarla al cadavere. Una volta accontentato tutti, la croce venne di nuovo issata.",
+        "S… divenne il simbolo della salvezza di un popolo, il priore e i suoi confratelli tirarono un sospiro di sollievo, ben convinti che Dio avrebbe perdonato loro quella piccola, ennesima e momentanea perdita di fede."
+    ],
+    "timestamp": "2020-01-02T20:58:18Z",
+    "title": "[N2019-2B] Fede che perdi, Passione che trovi",
+    "topic_id": 45811,
+    "url": "https://www.writersdream.org/forum/forums/topic/45811-n2019-2b-fede-che-perdi-passione-che-trovi/"
+}

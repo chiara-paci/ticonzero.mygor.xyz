@@ -1,0 +1,96 @@
+{
+    "author": {
+        "author_id": 35314,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 1
+        },
+        "name": "Trillian",
+        "url": "https://www.writersdream.org/forum/profile/35314-trillian/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Nash, commentare la poesia è sempre difficile perché è estremamente varia per contenuti e stili, che è strettamente personale. La tua poesia, inoltre, è volutamente oscura, fa intuire il tema e il tuo messaggio ma credo più che altro che faccia provare delle sensazioni. Ti racconterò quello che penso e vediamo se mi sono avvicinata a ciò che volevi trasmettere. Ciò che sento, leggendo, è precarietà. I fiori sono vita, sono profumo, ma sono anche morte e decomposizione. Il lasciarsi cullare, il contemplare dell'io poetico trasmettono calma. L'essere consapevoli di questa precarietà non è negativo. Più oscura è l'immagine dell'uomo e del bimbo. L'uomo \"dorme\" ma non posso non pensare che sia legato alla morte, visto l'utilizzo del verbo \"veglia\".",
+                    "La luce finale fa pensare a una qualche forma di verità.",
+                    "Andiamo ora passo per passo e ti dico ciò che mi è piaciuto e cosa no. Ovviamente sono pareri personali e consigli che vorrebbero essere costruttivi.",
+                    "La struttura della poesia mi ha stupito, perché visualmente mi ha colpito. Ma poi mi sono resa conto che ogni strofa corrispondeva a ogni frase. Personalmente non le avrei divise così. Magari per contenuto (ma è solo un'idea).",
+                    "Splendida l'immagine iniziale della pena infinita di vita. Superflui, secondo me, i tre aggettivi finali. Superflui perché il concetto esprime già tutto.",
+                    "Questo paragone non ho capito se si riferisce al fiore morto o alla vita. Perché se fosse il primo caso, anche sarebbe secondo me un po' inutile perché un fiore morto è un corpo morto che si decompone.",
+                    "Ottima, secondo me, questa costruzione. L'ultimo verso sorprende e costringe il lettore a ragionare.",
+                    "Spero di essere stata esaustiva.",
+                    "A rileggerti!"
+                ]
+            ],
+            "timestamp": "2020-01-06T15:54:00Z",
+            "title": "Su sentieri semplici",
+            "url": "https://www.writersdream.org/forum/forums/topic/45848-su-sentieri-semplici//?do=findComment&comment=810762",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 614,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 813036,
+            "text": [
+                "Ciao Zaza, grazie per la lettura e per avermi lasciato un commento. Sulla questione credito/debito, quello del finale non è un refuso. Probabilmente non sono riuscita a farlo comprendere dal contesto della poesia, ma è fatto apposta. Provo a spiegarti in breve cosa intendevo dire.",
+                "La vita è in debito con noi per tutto ciò che abbiamo subito, per ciò che viene esplicitato nella poesia (lutti, abbandoni, ecc.). Pensiamo di meritarci qualcosa di meglio, pensiamo di aver subito delle ingiustizie. In realtà, però, il debito siamo noi ad averlo nei confronti della vita, perché senza vita non ci sarebbe nulla, sia nel bene che nel male. Noi siamo in debito nei confronti della vita, come la vita lo è nei nostri. E la rabbia finale scaturisce proprio da questa presa di coscienza. Non abbiamo subito ingiustizie, la vita non ci ha trattato male. Siamo solo fortunati ad essere vivi."
+            ],
+            "timestamp": "2020-01-17T09:13:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45869-vita-e-debiti//?do=findComment&comment=813036"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Link al commento ->",
+        "Abbiamo qualche credito",
+        "nei confronti della vita, non è vero?",
+        "E non possiamo continuare così,",
+        "a soffrire,",
+        "a subire lutti e abbandoni",
+        "e i tragici effetti delle scelte sbagliate.",
+        "Abbiamo una grande macchia",
+        "lasciata dalla malattia, ti ricordi?",
+        "E una pesante sensazione di vuoto",
+        "allo stomaco.",
+        "Abbiamo gli occhi stanchi",
+        "di guardare i nostri corpi e le mani",
+        "inermi agli schiaffi.",
+        "Dobbiamo pur,",
+        "in qualche punto,",
+        "in qualche tempo,",
+        "in qualche modo,",
+        "iniziare, sai?",
+        "Iniziare a riscattare",
+        "quest’assurdo debito,",
+        "quest’assurda rabbia.",
+        "Ps: non sono abituata a mettere titoli alle poesie. La prossima volta cercherò di fare meglio."
+    ],
+    "timestamp": "2020-01-06T16:01:20Z",
+    "title": "Vita e debiti",
+    "topic_id": 45869,
+    "url": "https://www.writersdream.org/forum/forums/topic/45869-vita-e-debiti/"
+}

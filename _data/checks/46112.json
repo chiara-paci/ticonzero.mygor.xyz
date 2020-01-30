@@ -1,0 +1,62 @@
+{
+    "author": {
+        "author_id": 35577,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Alevalen",
+        "url": "https://www.writersdream.org/forum/profile/35577-alevalen/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 161,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 814819,
+            "text": [
+                "ho visto che hai fatto un commento, di regola va allegato il link alla discussione aperta. In questo caso il commento è comunque insufficiente per postare un proprio testo: il regolamento richiede un commento approfondito.",
+                "Devo chiudere. Per riaprire la discussione dovrai inviare tramite messaggio privato a uno staffer il link di un commento più approfondito."
+            ],
+            "timestamp": "2020-01-25T18:28:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46112-fotografie//?do=findComment&comment=814819"
+        }
+    ],
+    "text": [
+        "Fotografia d’un ricordo",
+        "m’è tanto eloquente",
+        "il tuo silenzio sordo.",
+        "M’osserva, il tuo istante,",
+        "che or non è più.",
+        "E forse, in inverno,",
+        "la primavera che fu",
+        "è già l’eterno."
+    ],
+    "timestamp": "2020-01-25T17:22:43Z",
+    "title": "Fotografie",
+    "topic_id": 46112,
+    "url": "https://www.writersdream.org/forum/forums/topic/46112-fotografie/"
+}

@@ -1,0 +1,134 @@
+{
+    "author": {
+        "author_id": 17761,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Marty12",
+        "url": "https://www.writersdream.org/forum/profile/17761-marty12/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao è stato un piacere leggere il tuo racconto, l'ho trovato l'ho trovato molto equilibrato nello sfruttare la traccia delle superstizioni.",
+                    "Non ho granchè da segnalare per quanto riguarda la forma, e in merito al contenuto, è tutto riassumibile attraverso questa massima.",
+                    "è stato divertentissimo leggere la battuta del ferro di cavallo per ferrare il marito!",
+                    "Divertente anche il modo in cui hai sfruttato la boa, mi sono persa un attimo a immaginare come deve essere il pesto in questa maniera tibetana.",
+                    "Mi è piaciuto molto il tono leggero con cui hai affrontato \"l'involuzione\" dell'uomo di scienza che da' retta alle superstizioni, allo stesso modo ho notato che questo \"declino\" coinvolge anche la figura del marito perfetto e premuroso che poi tuttavia diventa il primo a fare qualcosa di tangibile per scacciare quanto di negativo c'è nelle superstizioni delle collane delle donne in gravidanza. Ho notato anche il tono di critica leggera con cui hai voluto presentare i superstiziosi anche se poi leggendo come vira il racconto mi sono fermata a pensare a che fine farà il rapporto di Sara e Carlo perchè ovviamente eventuali sospetti di lei al mattino ricadranno su di lui.",
+                    "E la zia Teresa funziona un po' da \"uomo nero\" della situazione, che viene abilmente taciuto con una manciata di grani di sale.",
+                    "L'unico \"errore\"che ho trovato è questo, per il quale io direi di cambiare in \"si crogiolò in quel meritato successo\"",
+                    "Nel complesso devo dire che è un testo molto carino."
+                ]
+            ],
+            "timestamp": "2020-01-02T18:18:20Z",
+            "title": "[N2019-2A] La collana",
+            "url": "https://www.writersdream.org/forum/forums/topic/45801-n2019-2a-la-collana//?do=findComment&comment=809874",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7648,
+    "num_commenti": 1,
+    "num_posts": 16,
+    "post_after": [
+        {
+            "post_id": 810000,
+            "text": [
+                "ciao , ti ringrazio infinitamente delle osservazioni, anzitutto devo dire che molto del merito della forma va a e che oltre alla consulenza linguistica sul veneziano hanno snellito non poco una forma che ti avrebbe fatto mettere le mani nei capelli, se l'avessi postata alla prima stesura."
+            ],
+            "timestamp": "2020-01-03T11:21:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45817-n2019-2b-il-re-rosso//?do=findComment&comment=810000"
+        },
+        {
+            "post_id": 810011,
+            "text": [
+                "buon anno a te e grazie per essere passato, ho ripreso di sopra quelli che mi sono sembrati i punti più significativi.",
+                "Per quanto riguarda lo stile, sì è vero è macchinoso, è una vita che non scrivo e devo snellire se non ci fossero stati i miei compagni di squadra a cui va il merito di avermi fatto notare che la trama andava chiarita e la consulenza sul dialetto.",
+                "Nella versione scritta in word le espressioni in dialetto sono in corsivo, solo che ho rischiato di postare fuori tempo e ho fatto questo errore di distrazione.",
+                "Il senso di apnea che percepisci c'era tutto perchè non avendo mai scritto thriller scrivevo contro il tempo e contro i caratteri (non che contro le tracce visto che fino all'ultimo ho oscillato tra la prima e la terza) da qui, immagino, il senso di affollamento che si deve essere percepito.",
+                "Grazie davvero per quello che mi hai fatto notare"
+            ],
+            "timestamp": "2020-01-03T11:41:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45817-n2019-2b-il-re-rosso//?do=findComment&comment=810011"
+        },
+        {
+            "post_id": 810260,
+            "text": [
+                "buongiorno a voi e grazie per essere passati",
+                ", non ci conosciamo, perciò piacere e grazie per l'attenta analisi che hai fatto del mio racconto. Metto le mani avanti capendo che io e le virgole non ci capiamo proprio e decisamente devo migliorare l'uso della punteggiatura, ma nel complesso ti ringrazio per i complimenti, essendo un po' arrugginita con la scrittura lo prendo veramente come un super complimento.",
+                "cara ti ringrazio, facciamo che tutti i complimenti che hai fatto a Ghigo li raccolgo e li faccio miei tranquilla si era capito che i trattava di una svista nel nominare l'autore, anzi ti ringrazio per aver detto che potrebbe essere un progetto più grande, vado a gongolare in un angolo",
+                "grazie mille per il tuo commento, e per i complimenti, oltre al fatto di esserti preso altri complimenti oltre a quelli per il tuo racconto , l'atmosfera un po' didascalica che percepisci è data dal fatto che prima di scrivere mi sono documentata un po', forse troppo e ogni tanto butto qua e là qualche informazione che forse rallenta il ritmo."
+            ],
+            "timestamp": "2020-01-04T09:26:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45817-n2019-2b-il-re-rosso//?do=findComment&comment=810260"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: la superstizione",
+        "Genere: Thriller",
+        "Il Re Rosso",
+        "Il cielo si adagiava su Venezia come un drappo damascato, nascondendone i tetti alla vista. Gli orli della notte scivolavano lungo i muri, tentando di addormentare la città, ma alle finestre del Ridotto di San Moisè brillavano migliaia di candele: un’unica fiamma per dissolvere il sonno dell’intera nobiltà veneziana riversatasi lì per festeggiare il Carnevale, per sperperare averi in omaggio a Madonna Fortuna e per ingraziarsi la Sorte che già molte vite aveva preso con sé nella battaglia di Candia.",
+        "I Barnabotti distribuivano le carte ai tavoli da gioco sperando segretamente che anche altri nobili sarebbero stati puniti dalla Sorte, come un tempo era toccato a loro.",
+        "Un florilegio di maschere ghignanti si muoveva tra i tavoli. Le stanze del casinò erano un tripudio di gioielli, stoffe e profumi intensi, che quasi facevano passare in secondo piano gli ubriachi e goliardici Pantalone che scherzavano con le cameriere per un’ombra in più.",
+        "Clotilde ne stava giusto evitando uno quando sbatté il bel petto contro un Balanzone, rovesciando il piatto che questo aveva in mano. Tutto il sale delle sarde caduto in terra scrocchiava sotto i suoi piedi. L’espressione dell’uomo era nascosta dalla maschera, ma da come tentava di strapparle l’intero vassoio coi calici di vino non sembrava contento. La ragazza gli sorrise, tentando di rabbonirlo:",
+        "- Messere, volete bever un’ombra?",
+        "Il bolognese scosse la testa, le fece segno di sedersi sulle sue ginocchia.",
+        "- Ho bisogno di buona sorte, io, e tu mi fai pestare il sale!-",
+        "il Balanzone allungò una mano per punirla della sua impertinenza. Forse voleva schiaffeggiarla, o toglierle la maschera, ma era così ubriaco che il suo gesto mancò il viso, facendole cadere la cuffia che copriva i capelli intrecciati. Una cascata di riccioli rossi le ricadde sulle spalle Tutte le dame al tavolo sussultarono, muovendo i ventagli, in evidente stato di agitazione, persino le morette, sgranarono gli occhi stringendo di più i denti attorno al bottoncino della maschera.",
+        "Clotilde andò a nascondersi dietro una tenda per riparare al danno fatto dall’aristocratico alticcio. Non era semplice trovare lavoro con la fama di figlia del diavolo che la seguiva ovunque. Alla comparsa del proprietario del San Moisè, che la raggiunse come comparando dal nulla, la ragazza seppe che avrebbe dovuto cambiar maschera per quella sera. Era tutta colpa del sale, di sicuro!",
+        "Uscendo, sperò che l’aria fresca le rischiarasse le idee: Pur sapendo che il rosso era un colore di moda da tempo per i fulvi capelli delle aristocratiche, sapeva che la vita nella liberale Serenissima non era semplice per quelle come lei… il popolo per primo era preda di stupide superstizioni…",
+        "- Avete bisogno di assistenza, signorina?- una voce maschile alterata da una bauta. Il tabarro ed il tricorno, della stessa tonalità della notte, facevano apparire la maschera bianca sospesa nel vuoto, opaca come un osso.",
+        "Era la prima volta che veniva apostrofata così: forse la gentilezza approfittava di starsene ben nascosta dietro all’anonimato di una maschera, per venire fuori? O forse era il caso di tenere i muscoli pronti a scattare, al primo passo che lo sconosciuto avesse fatto verso di lei.",
+        "- Perché vi ostinate a nascondere quanto avete di più bello?- continuò la maschera.",
+        "Bello. Non demoniaco, non terribile, non osceno. Bello.",
+        "- Buonasera siora maschera.- sussurrò lei con le forcine in bocca, ammaliata. La vanità l’avrebbe uccisa, diceva spesso sua sorella. Ma cosa poteva saperne lei, degli sguardi atterriti, che la seguivano mentre camminava, delle donne che mormoravano scongiuri, quando faceva per seder loro vicino? Per una volta voleva essere vista. E amata. Per quello che era.",
+        "- Lasciatemi osservare la vostra chioma da vicino, poeti e pittori hanno cercato mille modi per riprodurre un tale tesoro che a voi è dato in dote.- le fece notare la maschera.",
+        "Clotilde afferrò la mano guantata che l’uomo le tendeva, lasciandosi alle spalle le luci delle candele ed addentrandosi tra le calli sconosciute. Il corpo minuto già inghiottito dal profilo del tabarro.",
+        "***",
+        "Il cadavere molle e pesante riemerse tra le acque del canale, il volto nascosto dalla chioma scarlatta come una moltitudine di alghe rosse.",
+        "- Oh Madonna! Xe sta el Re Rosso !- urlò una servetta coprendosi la bocca.",
+        "- Non abbiamo perso niente, è una figlia del diavolo in meno!- la riprese una suora, con voce stridula, mentre si segnava il petto. Agata, convocata dal prefetto, strinse le mani a pugno. Era sua sorella, quella! Guardò Alessandro che, al suo fianco la tratteneva avvolgendole le spalle con un braccio. Nell’osservare la sua statura rigida seppe che il promesso sposo l’avrebbe seguita nella ricerca di quel folle seminando il terrore per le calli veneziane che aveva fatto della superstizione la sua missione, si era guadagnato il soprannome di Re Rosso, come le chiome delle sue vittime.",
+        "***",
+        "I barcaioli che remavano fino al cimitero cercavano di non guardare Agata e il suo compagno, né la bara di assi caricata in fondo alla barca. Sia mai che se svegi, par carità.",
+        "Ma quando la barca sobbalzò, il coperchio si spostò di poco, mostrando una mano bianca. Le dita della ragazza erano sporche, ma non di sangue: solo un rosso può mantenersi nel tempo senza coagulare.",
+        "Pittura.",
+        "- Lo voglio morto, quel bastardo.- mormorò contro il bavero della giacca di Alessandro. Passando sul Canal Grande la facciata di Ca’ Dario, la Casa che condannava a morte violenta, si stagliò su di loro come a voler esaudire quella preghiera.",
+        "***",
+        "L’uomo si svegliò con un peso sul petto. Il gatto nero della fantesca, gli stava acciambellato sullo sterno. Pessimo presagio. Non capiva perché le avesse permesso di tenerlo, visto che il micio si avvicinava ai suoi quadri con troppo interesse, forse attirato dall’odore del sangue.",
+        "Lo sguardo del pittore percorse quel luogo palmo a palmo: dalle pareti dodici giovani donne dallo sguardo vuoto, etereo, lo fissavano di rimando. Aveva gettato il corpo martoriato dell’ultima sua modella nel canale proprio all’imbrunire ed ora, che era calata la notte, si impegnò a diffondere il suono ipnotico della campana tibetana nella stanza, per scacciare la paura che lo spirito dell’ultima, Colombina dalla bellezza dannata, disturbasse i suoi sogni.",
+        "Aveva provato a dare le spalle a Ca’ Dario, la Maledetta. Era da tempo abbandonata dai Barbaro e questo gli metteva i brividi. La sapeva in rovina, eppure… il barlume di una candela dietro la finestra che gli stava di fronte, la chioma scarlatta proprio lì vicino, non poteva essersele immaginate!",
+        "***",
+        "Entrare dalla porta per la servitù era stato più semplice del previsto. Il legno marcio lasciava quell’entrata socchiusa.",
+        "Il pittore tentò di muoversi silenziosamente alla ricerca della candela e della Colombina dai capelli color fiamma che lo aveva richiamato lì. Tremava. Non riusciva a credere che la campana non avesse funzionato quella volta.",
+        "Dovette salire fino in cima per quietare quei sussurri che sentiva nelle orecchie. Quando stava per demordere, tra le ombre dai riflessi ciano, scorse l’abito bianco che le aveva visto addosso prima di disfarsene nei canali…dietro una colonna.",
+        "Il fantasma di lei era venuto per fargliela pagare. Lo sapeva.",
+        "- Dovresti vedere come sei bella nel quadro che ho dipinto per te. Lo chiameranno Rosso Veneziano.- le disse, ammaliato e tetro.",
+        "La donna non rispose, e gli piantò gli occhi addosso accusatrice e quando lui fece per avanzare e toccarla, per pregarla di non perseguitarlo più in nome della bellezza che avevano creato insieme, Alessandro lo spinse da dietro, spezzando le sue urla nelle acque del Canal Grande."
+    ],
+    "timestamp": "2020-01-02T22:07:02Z",
+    "title": "[N2019-2B] Il Re Rosso",
+    "topic_id": 45817,
+    "url": "https://www.writersdream.org/forum/forums/topic/45817-n2019-2b-il-re-rosso/"
+}

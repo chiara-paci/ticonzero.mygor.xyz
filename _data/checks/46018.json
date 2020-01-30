@@ -1,0 +1,84 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Questa poesia potremmo definirla \"la caduta\"? Questa è la tua prima poesia che mi lascia completamente indifferente. Il motivo non è (come si potrebbe pensare) il tema, forse distante per un uomo. Come al solito, analizziamo i dettagli:",
+                    "\"Vortice di gioia\", \"annidano nel petto\": metafore assai superficiali e comuni. Tutte le persone che leggono le mie poesie e i miei commenti conoscono perfettamente il mio amore per la semplicità e, al contempo, il mio disprezzo per gli eccessi di artifici retorici che servono esclusivamente a gonfiarsi il petto dimostrando abilità poetiche che poi non c'entrano un cazzo con la poesia. Nonostante la piacevole semplicità, questa prima parte del tuo componimento è assai piatta, non scava nel profondo, fino al feto o allo scheletro, per intenderci.",
+                    "Anche qui, dalla seconda parte in poi, non vi è alcuna \"montagna russa\" metaforica che ho sempre riscontrato nelle tue opere. Mancano quelle immagini soffuse, evanescenti, quel ritmo vorticoso che ti hanno sempre caratterizzato. Sicuramente, qui, non abbiamo quella mirabile abilità pittorica che ti ha sempre contraddistinto e che mi ha reso un tuo \"fan\" (permettimi questa orribile parola). \"Latte della vita\", \"sangue che ribolle\", \"la tigre che battaglia\", \"la forza dell'eterno amore\" ... sono immagini e significati così usuali che non rendono un sentimento puro, ma banale, comune. Ecco, per dirla tutta, in questa poesia non ho trovato la tua unicità, la tua diversità, la tua cifra stilistica. E' come un giocatore di grande talento con una giornata storta, che fa una partita al pari degli altri, magari non perché non ne ha voglia, magari non perché vuole uniformarsi, ma semplicemente perché oggi aveva i \"piedi\" di tutti gli altri bravi giocatori. A presto"
+                ]
+            ],
+            "timestamp": "2020-01-17T14:53:29Z",
+            "title": "Nascita di una madre",
+            "url": "https://www.writersdream.org/forum/forums/topic/45905-nascita-di-una-madre//?do=findComment&comment=813134",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 688,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "FRATELLO DOLORE",
+        "Dolore, caro fratello,",
+        "oggi ho visto un fiore",
+        "risorgere dalla neve.",
+        "Era lieve il vento,",
+        "gelido come un fantasma.",
+        "Ho l'asma, ma la mia anima",
+        "ha sempre bisogno di nicotina e grigio.",
+        "Non sapevo se ad uscire",
+        "dai miei polmoni fosse il cancro",
+        "o quel freddo brutale.",
+        "Ho visto il male negli occhi:",
+        "puzza di silenzio e di giallino.",
+        "Dolore, caro fratello,",
+        "ho un fardello sul cuore:",
+        "quanto pesa il nulla?",
+        "C'è chi dice quanto infinite stelle",
+        "e chi quanto la propria culla.",
+        "Dolore, caro fratello,",
+        "il vento scivola sul mare,",
+        "lo increspa come una mano",
+        "innamorata una gamba nuda.",
+        "E invano mi affretto,",
+        "in questo silente mezzodì,",
+        "e come penna raccolgo",
+        "un raggio di sole sotto un ulivo",
+        "e scrivo del niente nel petto."
+    ],
+    "timestamp": "2020-01-17T15:10:44Z",
+    "title": "Fratello Dolore",
+    "topic_id": 46018,
+    "url": "https://www.writersdream.org/forum/forums/topic/46018-fratello-dolore/"
+}

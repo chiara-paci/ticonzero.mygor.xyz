@@ -1,0 +1,79 @@
+{
+    "author": {
+        "author_id": 35189,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Danny Rochester",
+        "url": "https://www.writersdream.org/forum/profile/35189-danny-rochester/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.3,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.3
+            },
+            "text": [
+                [
+                    "Io avrei usato l'aggettivo \"carica\", più naturale e anche più elegante",
+                    "Questo passaggio è veramente bello ed evocativo, anche inquietante da un certo punto di vista.",
+                    "Un buon modo di concludere, piacevole contrasto con il frammento precedente.",
+                    "A parte questo poco da dire, è un incipit sci-fi/thriller molto accattivante e scritto bene, che invoglia a continuare la lettura."
+                ]
+            ],
+            "timestamp": "2020-01-07T20:33:18Z",
+            "title": "Neuronauta incipit",
+            "url": "https://www.writersdream.org/forum/forums/topic/45463-neuronauta-incipit//?do=findComment&comment=811007",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 26,
+        "title": "Racconti a capitoli",
+        "url": "https://www.writersdream.org/forum/forums/forum/26-racconti-a-capitoli/"
+    },
+    "num_chars": 5557,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 811187,
+            "text": [
+                "non vado a leggere i commenti usati per postare le precedenti scene per paura che siano tutti uguali a questo che, citazioni escluse, è lungo a malapena tre righe. Davvero troppo poco, questo commento non è in linea con ciò che pretendiamo dagli utenti e sono costretto a chiudere la discussione. Ti invito a produrre un commento esaustivo, come da regolamento: una volta eseguito linkalo a uno qualsiasi degli staffer che vedi online e quello ti riaprirà la discussione.",
+                "Buon proseguimento."
+            ],
+            "timestamp": "2020-01-08T21:09:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45886-come-veduto-volentieri-tavrei-atto-i-scena-7//?do=findComment&comment=811187"
+        }
+    ],
+    "text": [
+        "- Sommer lächelt erstaunt und matt -",
+        "è un periodo strano; dolcissimo, ma strano. Un periodo di attesa, di indecisione, di tattica. \"Per me ce l'hai in pugno, Lord Mountbatten, solo che lui non lo sa ancora. Ora devi sono passare all'attacco, e al più presto!\" Questa è Tamara, ovviamente, che la fa un po' troppo facile ma sostanzialmente ha ragione. Ci sono però delle domande a cui non riesco a trovare una risposta precisa, e uno stratega come me fatica a lanciarsi senza conoscere perfettamente il terreno; è uno dei miei tanti limiti. Prima di tutto, cosa siamo di preciso l'uno per l'altro? Ormai ci conosciamo da due mesi e siamo entrati in piena confidenza; lui si è sistemato in un appartamento molto carino, in compagnia di un pianoforte e una chitarra, e quasi sempre mangiamo insieme. Finora, da parte di Mario, non una sola domanda stupida o una battuta idiota; è molto discreto, cosa che di solito apprezzo molto, non fosse che quel tipo di discrezione non è compatibile con i sentimenti che provo per lui. Per il resto parliamo di tutto e tra le nostre anime è in atto uno scambio reciproco e fecondo; ha proprio ragione Oscar Wilde quando dice che influenzare un altro essere è uno dei più grandi piaceri della vita, ma le mie motivazioni sono ben diverse da quelle di Lord Henry e Mario non mi sembra affatto come Dorian Gray. Lui, d'altro canto si è messo in testa di insegnarmi a suonare il piano, e a poco a poco, con infinita pazienza, ci sta anche riuscendo. Quando siamo insieme, cerco di osservarlo attentamente senza che se ne renda conto, ma senza ricavarci molto. Incredibile come riesca a nascondersi bene dietro a quel sorriso così limpido e sincero. Un bel giorno d'estate, probabilmente ispirato da Afrodite o Freija, che in quei giorni prego spesso, silenziosamente, gli propongo un'escursione nel parco nazionale delle Yorkshire Dales, che lui accetta con la sua solita curiosità.",
+        "In quella giornata così tersa, le Valli sono ancora più belle del solito, belle e solitarie , come uno specchio della mia anima. Camminiamo già da un paio d'ore, parlando pochissimo; Mario sembra quasi perso, fuori dal suo elemento in quel paesaggio brullo, così diverso da quello della sua Slovenia. Ci fermiamo in una brughiera ricoperta di cespugli d'erica; il terreno è un continuo, dolce saliscendi, alla nostra sinistra, un torrente che più in là si inoltra in un fitto bosco, sulla destra, un piccolo, antichissimo Menhir, in lontananza, sullo sfondo, un minuscolo paesino di pastori e agricoltori, con le case in granito; lo circondano pascoli e piccoli appezzamenti coltivati delimitati da bassi muretti. \"Significa tanto per te, questo posto.\"",
+        "\" Heimat .\" Rispondo, semplicemente, in quella parola c’è già tutto. Annuisce. \"Gia, Heimat .\" E in quel momento scivolo in una specie di sogno ad occhi aperti, come a volte mi capita. Al posto del menhir, vedo davanti a me una casa, un bel cottage in mattoni, piccolo, intimo, accogliente. Davanti alla casa ci siamo io e Mario, leggermente invecchiati, vestiti come gentiluomini di campagna d'altri tempi. Sorridenti, fianco a fianco, ognuno con una mano sulla spalla dell'altro, le teste inclinate che si sfiorano leggermente, gli sguardi pieni di indicibile felicità e fierezza. Capisco che quello è il momento di agire, che solo io posso fare in modo che quella visione diventi il mio, il nostro futuro.",
+        "Mi piazzo davanti a lui, frontalmente, gli stringo le braccia intorno al collo e lo bacio, così velocemente e improvvisamente da non dargli neanche il tempo di elaborare una prima reazione. Comunque ,ricambia. Le nostre labbra e lingue si intrecciano alla perfezione, il suo mento ispido solletica il mio, le mie mani gli accarezzano le guance, le sue si avvinghiano alla mia schiena, un vento fresco ci culla entrambi, diffondendo nell'aria il leggero aroma dell'erica. In quel momento, l'estate sorride, stupita e languida , ma per il palpito della nascita, non nel presagio della fine. E poi il distacco: ha il fiato corto e la tempesta perfetta negli occhi. Sarà spaventato? Anche, ma c'è molto altro. Pentito? No, quello che gli leggo in volto è shock, nessuna traccia di rimorso. Eccitato? Certo che sì, ma è anche sopraffatto, in primis da sé stesso. I suoi occhi sono leggermente umidi, tanto che quasi temo possa scoppiare a piangere; guizzano in tutte le direzioni possibili, ma alla fine ritornano sempre su di me. Ho fatto quello che dovevo, ora è il momento di lasciarlo solo con i suoi pensieri, qualsiasi essi siano, fino a quando si sentirà pronto a rispondere, in un modo o nell'altro.",
+        "Ripercorriamo il sentiero a ritroso, fianco a fianco, vicini ma senza mai toccarci, e in assoluto silenzio, e il silenzio continua anche nel viaggio di ritorno verso Leeds. \"Ben, è meglio se per qualche giorno non ci vediamo. Solo qualche giorno, te lo prometto. Ho bisogno di...\" Breve pausa \"Riflettere.\" \"Certo.\" \"Grazie.\" Conclude, sollevato; lo osservo attraverso lo specchietto retrovisore della macchina, ha uno sguardo assorto, solo apparentemente tranquillo. In realtà, posso già intuire i pensieri che si agitano nella sua testa, si capisce che sta prendendo quella situazione tremendamente sul serio. Arrivati in città, mi fermo sotto al suo appartamento, per farlo scendere \"Grazie, Ben. è stata una bellissima giornata.\" \"Sono felice che ti sia piaciuta; sai, se non hai visto la Valli non puoi dire di conoscere lo Yorkshire.\" \"Ora lo conosco, e mi piace. Tutto quanto. Ciao.\" Scende dalla macchina, mi sorride timidamente e scompare nella portineria del suo alloggio."
+    ],
+    "timestamp": "2020-01-07T20:55:39Z",
+    "title": "Come veduto volentieri t'avrei... Atto I, Scena 7",
+    "topic_id": 45886,
+    "url": "https://www.writersdream.org/forum/forums/topic/45886-come-veduto-volentieri-tavrei-atto-i-scena-7/"
+}

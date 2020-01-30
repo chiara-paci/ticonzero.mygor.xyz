@@ -1,0 +1,58 @@
+{
+    "author": {
+        "author_id": 35746,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Mattia Mazzeo",
+        "url": "https://www.writersdream.org/forum/profile/35746-mattia-mazzeo/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 375,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Volavo, fluttuano in",
+        "Un manto di speme",
+        "Come la terra",
+        "Che ospita un seme",
+        "Titubante del suo mutare.",
+        "Ma s'io spengo gli astri",
+        "E miro la in basso",
+        "Sento il terrore",
+        "E la morte ad un passo.",
+        "Ma tu temerario, cangiante",
+        "Di pria statica Natura,",
+        "Gonfia i tuoi lombi",
+        "E fa di tua forza",
+        "La tua fatal rottura;",
+        "Rendezvous di corpi",
+        "Uguali ed opposti",
+        "Tra le acque ed i fuochi",
+        "Atteso da lustri",
+        "Ma ambito da pochi."
+    ],
+    "timestamp": "2020-01-30T14:17:12Z",
+    "title": "Rendezvous",
+    "topic_id": 46164,
+    "url": "https://www.writersdream.org/forum/forums/topic/46164-rendezvous/"
+}

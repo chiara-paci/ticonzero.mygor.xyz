@@ -1,0 +1,110 @@
+{
+    "author": {
+        "author_id": 35314,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 1
+        },
+        "name": "Trillian",
+        "url": "https://www.writersdream.org/forum/profile/35314-trillian/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.9933333333333333,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9933333333333333
+            },
+            "text": [
+                [
+                    "Ciao Alberto, è un piacere leggerti. Il frammento è molto breve ed è estrapolato da un contesto sicuramente più ampio. Quindi non dirò molto dal punto di vista contenutistico, che non mi appare molto chiaro forse perché mi mancano dei pezzi. Il titolo è \"Giorno di festa\" e il frammento si conclude con \"Si sentiva che era domenica\". I giovani, però, seri, spuntati dal nulla, vestiti di nero, che procedono con ritmo cadenzato, mi avevano fatto pensare a dei militari.",
+                    "Per quanto riguarda questa frase, sono d'accordo con Bwv circa la necessità di rivederla.",
+                    "Qui, mi è sembrato eccessivo il contrasto tra la piazza all'apparenza senza confini e la successiva descrizione dei limiti. Dopo \"nei suoi limiti conteneva un mondo\" avrei visto bene la descrizione di ciò che conteneva la piazza e non subito delle costruzioni che la circondavano.",
+                    "Poi credo che \"teorie di infinite finestre\" sia un refuso.",
+                    "Questo credo sia tutto. Il tuo stile procede bene e devo dire che mi hai incuriosito.",
+                    "A rileggerti!"
+                ]
+            ],
+            "timestamp": "2020-01-06T16:41:52Z",
+            "title": "Giorno di festa",
+            "url": "https://www.writersdream.org/forum/forums/topic/45780-giorno-di-festa//?do=findComment&comment=810777",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 44,
+        "title": "Narrativa over 18",
+        "url": "https://www.writersdream.org/forum/forums/forum/44-narrativa-over-18/"
+    },
+    "num_chars": 5669,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 813032,
+            "text": [
+                "Ciao, grazie per il dettagliatissimo commento! Mi sarà molto utile. Allora appena capisco come fare, lo sposto nella sezione racconti."
+            ],
+            "timestamp": "2020-01-17T09:02:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45872-i-dubbi-di-riccardo//?do=findComment&comment=813032"
+        },
+        {
+            "post_id": 813034,
+            "text": [
+                "Ciao Befana, grazie anche a te. Credo che ciò in cui concordiate entrambe è che i dialoghi siano da migliorare in maniera tale da rendere la lettura più scorrevole. Grazie di nuovo per il tempo dedicatomi."
+            ],
+            "timestamp": "2020-01-17T09:04:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45872-i-dubbi-di-riccardo//?do=findComment&comment=813034"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Link al commento ->",
+        "Ho deciso di inserire questo frammento qui perché è un po' forte e non volevo turbare nessuno. Fa parte di un romanzo che ho completato da poco. Inoltre sto cercando qualcuno che possa leggerlo integralmente per darmi la propria opinione. Se ci dovesse essere qualche coraggioso volontario, contattatemi in privato. Aspetto le vostre impressioni!",
+        "L'ostacolo più grande fu capire come cremare Giulia. Bruciare un corpo non è facile. Giulia era magra, ma non di bassa statura.",
+        "Prima della tumulazione, la bara rimane nel cimitero per una notte. Pensai che quello fosse il momento giusto per “colpire”, perché rubare il corpo prima, dall'ospedale, sarebbe stato troppo difficile.",
+        "«Claudio, ma ti rendi conto che è comunque un'effrazione?»",
+        "«Certo, Riccardo. So che non sarà facile, ma è una cosa che va fatta. Sai, Riccardo, spero che così potrò aiutarla, davvero»",
+        "Che cosa c'era, poi, da aiutare, se sia io sia lei credevamo che non ci fosse nulla, oltre la morte?",
+        "«Claudio, io credo che sia il dolore a parlare. Qui rischiamo la galera»",
+        "Ricordo che rimasi costernato a queste parole. Bastò il mio sguardo allibito a fargli abbassare gli occhi. Mi offese il fatto che pensasse che io volessi fare tutto questo soltanto perché soffrivo, che fosse qualcosa di egoistico. Anche se non aveva usato esattamente queste parole, compresi a cosa alludesse. Riccardo non era di certo un grande oratore.",
+        "Ripresi subito il discorso, facendo finta che non fosse successo nulla.",
+        "«La bara si può aprire usando una fiamma ossidrica»",
+        "«Oddio, e dove la vorresti prendere? Noi non siamo ladri, Claudio, neanche fabbri. Non siamo niente, Claudio. Non abbiamo neanche la più pallida idea di come sia fatta una fiamma ossidrica, e neanche di come si usi!»",
+        "Il tono di Riccardo era alterato e lo ammonii con un altro sguardo.",
+        "«La fiamma ossidrica l'ho ordinata con Prime . Arriva domani»",
+        "Riccardo sospirò rumorosamente.",
+        "«E i tuoi che diranno quando vedranno arrivare una fiamma ossidrica a casa?»",
+        "«Niente, perché arriverà a casa tua»",
+        "«A casa mia?»",
+        "«Sì, è perfetto così. Ascoltami e calmati. I miei, soprattutto in questo periodo, mi tengono sempre sotto controllo, pensano che possa fare sciocchezza»",
+        "«Ma pensa...» borbottò",
+        "«I tuoi invece sono tranquilli e tu mi dici sempre che non controllano quello che arriva a nome tuo»",
+        "Riccardo non replicò, perché era la verità.",
+        "«Il problema – continuai – è la crematura»",
+        "«Sì, infatti. Credo che non sia fattibile»",
+        "«Ma no, Riccardo, ascoltami. Ho pensato, in questi giorni, a tantissimi modi in cui potessimo cremarla. Mi sono informato. Tranquillo, non ho googlato cremare un corpo perché so che potrei essere intercettato. E comunque non credo che mi sarebbe stato utile, perché mi sarebbero solo usciti siti di onoranze funebri. Così ho cercato come cremare un cane. Anche questo non è stato molto utile. Cioè, più o meno, ma ci arriverò dopo. Tu sta' fermo, rilassati e ascoltami. Non preoccuparti di nulla, va tutto bene. Sto bene, ti giuro.",
+        "È illegale anche bruciare gli animali morti, perché liberano non so che sostanza tossica. E, sai, gli incendi sono pericolosi. Però quella era stata la mia prima idea, quella di bruciare Giulia in un posto sicuro, magari in una campagna, facendola a pezzi. Perché mi guardi così? Se dopo la dobbiamo comunque bruciare, va bene anche farla a pezzi. Perché comunque, alla fine, diventa tutto cenere. Va bene, ti dico. Tu mi guardi così solo perché sei schiavo della tua morale, dei dogmi della società. Ma si può fare, non c'è nulla di male. Questa idea, comunque, l'ho scartata. Perché gli incendi, sai, sono pericolosi, perché i corpi morti liberano questa sostanza e perché il fuoco potrebbe essere visto. Qualcuno potrebbe chiamare i pompieri, la polizia, e sicuramente finiremmo in galera. Credo anche che ci rimarremmo per un bel po'. Quindi questa idea, l'ho esclusa. Sei contento, no? L'ho esclusa e sono tornato a pensare agli animali. Sapevi che in genere i cani li bruciano tutti insieme? Si fa per risparmiare, ma anche per inquinare meno. Quindi, sai, loro hanno forni molto grandi. Ho pensato inizialmente di contattare qualcuno e chiedere, sai, se fanno “lavori sporchi”. Ma ho desistito. Sì, tranquillo, “ho desistito” significa che non l'ho fatto. Anche se avessi trovato qualcuno disposto a farlo, non avrei saputo come pagarlo. Già, dev'essere abbastanza costoso bruciare un cadavere illegalmente. Già costa tanto quando è legale, figuriamoci quando non lo è.",
+        "Quindi mi sono trovato davanti a un bivio. E sai che ho pensato? Che, visto che di notte andremo a rubare il corpo, potremmo, sempre la stessa notte, portarlo in uno di questi cimiteri per animali e bruciarli lì, attivando uno di questi forni. Sarebbe un'altra effrazione, lo so, ma sarebbe già la seconda, nel corso della stessa notte, quindi non ci sarebbe niente di male. Inoltre avremmo già fatto esperienza, quindi ci risulterebbe più facile.",
+        "Quindi il piano è questo, dimmi se ti piace. Andiamo con l'auto al cimitero, entriamo, apriamo la bara e prendiamo Giulia. Dopodiché la carichiamo in auto – ho già comprato dei sacchi neri, sai, quelli per i cadaveri – e la portiamo al cimitero per animali. Non è lontano, ce n'è uno a circa quaranta chilometri. Entriamo, attiviamo il forno e la cremiamo. Ed è fatta. Ci basta prendere le ceneri e filarcela. Che ne dici? Può funzionare, no?»",
+        "Sorridendo aspettai una risposta. Dopo qualche secondo, Riccardo sospirò – per l'ennesima volta – e mi disse:",
+        "«Il corpo lo bruciamo all'aperto. Compra tanta benzina. Lo faremo in un posto lontano da tutto, ma sull'asfalto, così controlleremo il fuoco»",
+        "«Va bene, mi sembra fattibile»",
+        "«Così almeno ci evitiamo la seconda effrazione»",
+        "E sospirò nuovamente."
+    ],
+    "timestamp": "2020-01-06T17:14:43Z",
+    "title": "I dubbi di Riccardo",
+    "topic_id": 45872,
+    "url": "https://www.writersdream.org/forum/forums/topic/45872-i-dubbi-di-riccardo/"
+}

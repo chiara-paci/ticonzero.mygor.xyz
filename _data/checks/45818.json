@@ -1,0 +1,86 @@
+{
+    "author": {
+        "author_id": 11320,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "mina99",
+        "url": "https://www.writersdream.org/forum/profile/11320-mina99/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 8157,
+    "num_commenti": 0,
+    "num_posts": 15,
+    "post_after": [
+        {
+            "post_id": 810045,
+            "text": [
+                "grazie mille!",
+                "L'idea è che l'anziano stia scolpendo la figura mostruosa con gli occhi persi nel vuoto perché è come se stesse guardando il modello reale della creatura... Però in effetti un concetto così condensato in una frase non è granché",
+                "Se ti piace l'horror, c'è sempre una prima volta",
+                "Grazie ancora"
+            ],
+            "timestamp": "2020-01-03T14:29:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45818-n2019-2b-i-misteri-di-captain-vale//?do=findComment&comment=810045"
+        },
+        {
+            "post_id": 810659,
+            "text": [
+                "grazie mille!",
+                "Avete centrato il punto... La prima stesura aveva più di 5000 caratteri in più, infatti mi è dispiaciuto molto tagliare alcune cose per rientrare nei limiti della gara. In revisione poi lavoro sulla versione più lunga, ha un ritmo più naturale^^",
+                "Inventati solo i nomi dell'insediamento e dei due monti, il resto è vero",
+                "è quello a cui mi sono ispirato di più, infatti; quel racconto mi ha colpito parecchio^^",
+                "In ogni caso, ci tengo a dire che personalmente nutro il più profondo rispetto per la cultura inuk... E infatti gli aspetti più morbosi del loro comportamento li ho inventati di sana pianta",
+                "Grazie ancora a tutti dei complimenti e degli ottimi consigli"
+            ],
+            "timestamp": "2020-01-05T20:00:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45818-n2019-2b-i-misteri-di-captain-vale//?do=findComment&comment=810659"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "commento",
+        "Una raccomandazione, se potete, di ascoltare The Festival of Death dei The Residents come sottofondo musicale di questo pezzo",
+        "Genere: thriller",
+        "Traccia: superstizione",
+        "Illud non moritur quod polleat usque morari:",
+        "temporibus miris, Mors, potes ipsa mori.",
+        "Necronomicon",
+        "Era il 19 marzo quando giunsi all’insediamento di Captain Vale, o Marrukgaitlik in inuktitut, un villaggio sul bacino di Foxe. Ero decollato un’ora prima da Iqaluit, dove ero arrivato da Montréal. Oltre a me c’erano quattro passeggeri, dal volto largo, piatto e scuro, con occhi dal taglio orientale. Fuori dal finestrino sfilava un paesaggio bianco, con laghi su cui galleggiavano lastroni di ghiaccio. Il sole era da lungo appena sotto l’orizzonte, irradiando il cielo della luce rosa e oro del crepuscolo artico. Mi trovavo in un paesaggio alieno, lontano da casa.",
+        "Captain Vale mi sembrò un villaggio inuk come tanti di quelli che avevo sorvolato. Le case erano sparse a casaccio e avevano l’aspetto dei loro abitanti: basse, scure e tarchiate. L’insediamento era all’ombra di due monti minacciosi, Tornatqaqqaq e Tupilatqaqqaq, le montagne degli spiriti, mentre dall’altra parte il confine tra terra e banchisa era nascosto dalla neve.",
+        "L’aeroporto era poco fuori il villaggio. I monti nascondevano la poca luce solare: non avevo mai avuto così freddo in vita mia. Quando uscii un inuk mi si avvicinò e ci mostrammo i distintivi a vicenda. Salii sull’ATV e ci dirigemmo al centro abitato. L’uomo, che mi avrebbe assistito nelle indagini come traduttore, mi mise in guardia: benché tutti fossero cristiani credenti, a Captain Vale lo sciamanesimo aveva ancora un ruolo importante, e in quel periodo il villaggio era in fermento per un’imminente ricorrenza: l’equinozio.",
+        "Il corpo del bambino era tenuto in un capanno di legno vicino al cimitero, in attesa della stagione migliore per poter scavare la tomba. Il cadavere si sarebbe conservato a lungo nel freddo artico, e per impedire sciacallaggi da orsi e lupi c’erano di guardia due uomini e un cane. Il poliziotto che mi accompagnava scambiò qualche parola con le guardie in inuktitut, tra cui mi parve di sentire qallunaaq , “straniero”, e non capii se si riferissero a me o alla vittima. Entrai a svolgere un’indagine preliminare.",
+        "Il volto del bambino era gonfio e bluastro e gli occhi erano spalancati in un’espressione di terrore: era annegato. Sul collo c’erano strane ecchimosi, non del tutto riconducibili a dita umane; un’analisi dello ioide non avrebbe dato informazioni su un ipotetico strangolamento, in quanto, data la giovane età, esso era ancora in buona parte cartilagineo e non si sarebbe fratturato nell’atto.",
+        "La prima persona da cui andammo fu un uomo anziano, molto più dell’insediamento stesso. Lo trovammo davanti a casa, avvolto in un pesante parka, mentre lavorava a una statua di steatite che rappresentava un uccello. Aveva gli occhi persi nel vuoto, come rivolti a un altro mondo, ma lavorava finemente a dettagli grotteschi, innominabili. Per un istante ebbi l’idea di un modello immondo.",
+        "Il vecchio si alzò e ci fece cenno di seguirlo. Ci sfilammo gli scarponcini all’ingresso e ci sedemmo a un tavolo in cucina. Una giovane donna stava preparando stufato di caribù e zuppa di foca. Parlammo a lungo ma ricordo poco. Il vecchio aveva un tono di voce ipnotico e il suo volto sembrava fatto di cera, con occhi immobili rivolti all’altrove. Ebbi l’impressione che fosse cieco. Disse di aver visto il piccolo qallunaaq camminare solo lungo la banchisa e di aver provato a chiamarlo. Sembrava come posseduto da un tuurngaq , disse, uno spirito mostruoso mai appartenuto a questa terra: questo perché i qallunaat non hanno un anirniq , un’anima, disse con disprezzo. Aveva poi sentito un ronzio minaccioso e si era ritirato in casa. La donna ai fornelli esplose in un grido che, tradotto, era qualcosa come: Qalupalik! Qalupalik ha rapito i nostri figli! Si trattava di una creatura che rapiva e affogava i bambini, mi feci spiegare, un vecchio racconto.",
+        "I resoconti degli altri abitanti aumentarono la mia inquietudine: ricordo un’accozzaglia di superstizioni, racconti e leggende, e una generale eccitazione per l’imminente festa. Appresi che l’anziano che avevo interrogato era un angakok , uno sciamano. Notai una strana somiglianza tra tutti gli individui, qualcosa che non riuscivo a cogliere ma che mi ripugnava.",
+        "Feci visita al padre della vittima. La sua casa era costruita su stampo orientale, con tende ecrù tra una stanza e l’altra e cianfrusaglia sui mobili, tra cui una campana tibetana. Egli si era innamorato di una donna inuk a Vancouver e, quando era rimasta incinta, erano tornati nel suo paese d’origine, Captain Vale. Il parto si era rivelato fatale per lei e l’uomo aveva cresciuto il bambino da solo.",
+        "Fummo interrotti da un manipolo di uomini che ci informò che la salma era scomparsa e le guardie morte. Accorremmo al cimitero: davanti al capanno pozze di sangue infradiciavano la neve. Le due guardie erano in brandelli e avevano orribili morsi lungo il corpo: non erano segni di una dentatura eterodonte, come quella di un orso o di un lupo, ma tanti fori uguali, cilindrici, come lasciati dai denti di un’orca.",
+        "Il cane di guardia era scomparso, ma c’era una pista delle sue orme che si allontanava verso la banchisa: gli uomini che la seguirono dissero che terminava davanti a un grosso buco sul mare. Akhlut , gridò un uomo. Akhlut , risposero gli inuit del villaggio: il demone mutaforma, mezzo lupo e mezzo orca, presagio funesto per l’intera comunità.",
+        "L’ angakok si avvicinò reggendosi a un imponente bastone sulla cui sommità c’era un cerchio a rappresentare il sole, con raggi formati da penne di pernice. Prese parola e la sua voce tuonò fino al cielo. Mi faceva sentire stanco e docile. L’uomo al mio fianco tradusse a fatica. Annunciò l’inizio della celebrazione, poiché era giunto il momento di farsi restituire il sole dall’inverno dei defunti. Gli spiriti erano infuriati perché la vittima sacrificale non possedeva un anirniq, e per pregarli di annullare la maledizione dovevano celebrare il rito nella patria degli spiriti, la valle tra il Tornatqaqqaq e il Tupilatqaqqaq. Partirono lasciando alle spalle case vuote e morte e io li seguii.",
+        "Ricordo molto poco: marciammo a lungo, col vento gelido che spirava fin dentro le ossa. La landa tra i monti era un ghiacciaio spoglio e inospitale. Qualcuno soffiava instancabilmente in uno strumento maledetto e le note erano i rumori più odiosi che un uomo possa aver mai sentito. La mostruosa processione era in preda al delirio, e tra le danze e i canti ossessivi persi ogni punto di riferimento. Uentshukumishiteu , Uentshukumishiteu , salmodiavano gli uomini, mentre le donne facevano un ripetitivo canto di gola che sembrava il respiro del mondo.",
+        "Vidi le cime scintillare di strani bagliori ed ebbi la sensazione che sulle montagne ci fosse una strana danza, come se stessero seguendo l’antico rituale anche Dei ubriachi e innominabili, estranei all’umanità. Il cielo si scurì, una tempesta formò un’enorme spirale in cielo che ululando scaraventò i nostri corpi da tutte le parti. Il sole avrebbe dovuto sorgere tra i due monti, ma al suo posto al centro della spirale c’era un astro cremisi, blasfemo, che mi gettò nella più nera disperazione. Vidi un immenso crepaccio e, nei suoi recessi più bui, centinaia di cadaveri, avvolti in spirali immonde e ripugnanti. L’intera comunità era stata sacrificata, punita da forze cieche. Poi il vento mi fece picchiare la testa contro il ghiaccio e persi i sensi.",
+        "All’ospedale mi dissero che ero stato trovato fuori dal villaggio, solo e semicongelato, ai piedi di un ATV ribaltato. Dissero che dall’aeroporto avevo preso la strada sbagliata e mi ero diretto verso il cuore della valle, dove si trovavano le rovine del vecchio accampamento Thule. Era la pista nella neve a rivelarlo. L’ampia finestra davanti a me mostrava un villaggio vitale e allegro, illuminato da un sole splendente. Insistettero che quella era Captain Vale, e certo non potei negarlo. Eppure ero sicuro di quello che avevo visto, le impronte dicano quello che vogliono; quanto al luogo in cui era successo, meglio dimenticarlo."
+    ],
+    "timestamp": "2020-01-02T22:54:06Z",
+    "title": "[N2019-2B] I misteri di Captain Vale",
+    "topic_id": 45818,
+    "url": "https://www.writersdream.org/forum/forums/topic/45818-n2019-2b-i-misteri-di-captain-vale/"
+}

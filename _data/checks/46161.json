@@ -1,0 +1,75 @@
+{
+    "author": {
+        "author_id": 34236,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Io che mi manco",
+        "url": "https://www.writersdream.org/forum/profile/34236-io-che-mi-manco/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ho apprezzato molto questo racconto, che definirei la fotografia di un'anima.",
+                    "Un ritratto cinico, spietato, affilato. Un'intera vita raccontata con poche ed efficaci pennellate che rendono bene il dramma del protagonista, distante dal mondo e dalla vita reale, unicamente concentrato su se stesso; eloquente, a tal proposito, questo passaggio (tra l'altro molto bello): “Il mondo di Pinco Franco aveva una forma e un volume specifico: altezza un metro e settantacinque, peso settantatré chili. Ad allungare la mano non avrebbe tastato che il vuoto.”",
+                    "Un testo a tratti poetico: bella l'idea di chiamare “virgole” le inezie che assillano il protagonista, che sente crollargli il mondo addosso se soltanto scopre una grinza sulla camicia o una ruga.",
+                    "Il vero dramma di quest'uomo è che è completamente avviluppato nel vortice delle sue ossessioni. C'è un passaggio nel testo in cui si afferma che più il protagonista trova virgole e più le virgole aumentano di giorno in giorno; è un passaggio \"chiave\", in quanto rende bene l'idea di quanto l'uomo sia irreversibilmente schiacciato dalle sue ossessioni senza riuscire a venirne a capo.",
+                    "Il linguaggio da te utilizzato è semplice ma curato, scorrevole. Sei riuscita a ricreare una certa tensione fin dalle prime righe, suscitando un sentimento di curiosità nel lettore che avverte che qualcosa di terribile sta per accadere all'uomo; quando poi si arriva alla fine del testo, con quel finale tragicomico, l'effetto è spiazzante ed esilarante.",
+                    "Molto buona l'idea di terminare con i punti di sospensione, senza specificare esattamente quale sia la cosa sconvolgente che vede il protagonista, ma che poi si chiarifica ripensando al titolo.",
+                    "Mi piace anche il fatto che il testo sia incentrato su un dramma esistenziale la cui amarezza viene però stemperata con una certa ironia e un tono vagamente satirico, che alleggerisce la storia narrata e la rende piacevolmente kafkiana.",
+                    "Del protagonista non viene detto molto, non viene raccontata la sua vita nei dettagli: non si sa se sia sposato, ad esempio, e non si conoscono molte altre informazioni sulla sua vita, ma queste mancanze non le ho percepite come “buchi”; o meglio, buchi che il lettore stesso può arrivare a colmare con l'intuito, considerando l'esistenza solipsistica di Pinco Franco e il suo mondo, fatto esclusivamente di se stesso.",
+                    "Quindi, pur dicendo poco, in poche righe hai detto tanto.",
+                    "Complimenti."
+                ]
+            ],
+            "timestamp": "2020-01-30T11:28:24Z",
+            "title": "Capello bianco (iceberg)",
+            "url": "https://www.writersdream.org/forum/forums/topic/46090-capello-bianco-iceberg//?do=findComment&comment=815543",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4272,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento",
+        "Alla porta",
+        "Non saprei dire in quale stanza mi trovassi, e cosa stessi facendo, la prima volta che bussò alla porta. Ricordo soltanto che rimasi spiazzato dal seguente particolare: non aveva premuto il campanello come invece avrebbe fatto chiunque altro. Oltretutto, non aspettavo visite - non a quell’ora, per lo meno.",
+        "Con lo sguardo smarrito, esitai per quasi un minuto. Poi, ancora perplesso, mi diressi lentamente verso l’uscio fino ad avvicinare, con prudenza, l’occhio allo spioncino; guardandovi attraverso, feci appena in tempo a scorgere qualcosa di mosso e poco definito che stava già svanendo dal limitato campo visivo. Supponendo che il mio indugio fosse stato interpretato come indizio di assenza da casa, distolsi lo sguardo e, con un certo sollievo, tornai a dedicarmi alle abituali faccende domestiche.",
+        "L’indomani, riprovò a bussare. Il suo tocco, più incalzante del giorno precedente, mi provocò un diffuso tremore alle gambe. Soltanto dopo essermi più volte ripetuto che per un po’ di irruenza, in fondo, non c’era motivo di allarmarsi, mi decisi a procedere in direzione dell’ingresso. Non del tutto convinto di quanto stessi facendo, però, alternavo movimenti a frequenti attimi d’arresto. Anche a sforzarmi di pensare in modo ottimistico, non riuscivo a vincere i miei timori che, al contrario, crescevano a mano a mano che quel tocco risuonava più insistente; quando, infine, divenne incessante, mi parve oltremodo fondato il sospetto che a cercarmi fosse proprio lui . Ne avevo riconosciuto il carattere minaccioso e aggressivo.",
+        "Senza avanzare ulteriormente, restai immobile a chiedermi come avesse potuto trovarmi; avevo dato per scontato che lasciare la vecchia abitazione, nella quale soleva irrompere disseminando tormento e sofferenza, sarebbe bastato a fargli perdere le mie tracce. Invece era lì, nei suoi tratti sbiaditi, a pretendere che gli aprissi la porta sulla quale, nel frattempo, aveva iniziato a battere con tanta violenza da indurmi a credere che volesse sfondarla.",
+        "In preda al panico indietreggiai. Per poco non pestai una zampa al mio povero Otto che, avvicinatosi tranquillo, era unicamente concentrato a strofinare il muso sulla mia gamba al fine di ricevere qualche carezza. D’impulso mi guardai intorno, in cerca di un posto sicuro in cui nascondermi. Con apprensione setacciai ogni angolo che potesse costituire un valido rifugio; ma poi, resomi conto di non avere via di scampo, mi fermai davanti al divano e, rassegnato, mi ci lasciai cadere come un peso morto. Con un balzo, Otto mi raggiunse e si accucciò al mio fianco scrutandomi con occhi dolci e indagatori; probabilmente si stava domandando perché apparissi così affranto. Allora lo presi in braccio regalandogli la tanto sospirata carezza, in risposta alla quale ricevetti ripetute leccate sul viso. Il suo affetto mi aiutò a sciogliere la tensione e a distrarre la mente da pensieri e affanni, al punto che quel suono assillante cominciò a sembrarmi sempre più lontano e ovattato. Le palpebre si fecero pesanti; mi concessero giusto il tempo di distendermi, prima di chiudersi.",
+        "Il risveglio fu tutt’altro che sereno; a interrompere bruscamente il mio riposo intervenne un boato che mi fece sobbalzare. Lui , tornato all’attacco, con tutta la sua forza aveva sferrato un potentissimo colpo contro la porta provocandone la caduta. Quando misi a fuoco ciò che era accaduto, avevo già al collo la sua stretta; un nodo spietato che mi avviluppava la gola comprimendola con crescente ferocia. Nemmeno Otto, che continuava a dormire ai miei come se nulla fosse, avrebbe potuto aiutarmi, se anche fosse stato sveglio; questa volta il mio nemico era davvero intenzionato a soffocarmi.",
+        "Per quanto provassi a reagire, non riuscivo in alcun modo a sottrarmi a quel supplizio. I miei polmoni stavano esaurendo le riserve d’aria e avevo difficoltà a immagazzinarne dell’altra. Con gli occhi arrossati dalle lacrime, ero convinto che mi rimanessero scarse possibilità di sopravvivenza.",
+        "Soltanto quando mi sforzai di accantonare il risentimento che da mesi serbavo per la fine di una relazione che mai avrei voluto terminasse, tornai a poco a poco a respirare regolarmente.",
+        "Lui – il ricordo di te – aveva smesso di affliggermi e, con fare benevolo, mi stava accarezzando la fronte."
+    ],
+    "timestamp": "2020-01-30T11:34:38Z",
+    "title": "Alla porta",
+    "topic_id": 46161,
+    "url": "https://www.writersdream.org/forum/forums/topic/46161-alla-porta/"
+}

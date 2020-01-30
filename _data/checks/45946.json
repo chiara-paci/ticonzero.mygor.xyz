@@ -1,0 +1,87 @@
+{
+    "author": {
+        "author_id": 11320,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "mina99",
+        "url": "https://www.writersdream.org/forum/profile/11320-mina99/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 8024,
+    "num_commenti": 0,
+    "num_posts": 13,
+    "post_after": [
+        {
+            "post_id": 812198,
+            "text": [
+                "Ciao, grazie mille a tutti del passaggio, degli ottimi consigli e dei complimenti",
+                "Azz, avete ragione non ci avevo minimamente pensato, ma di me non mi stupisco quando avevo dodici anni avevo scritto un fantasy in cui comparivano delle driadi, avevo fatto una lunga descrizione in cui menzionavo il fatto che avessero la linfa invece del sangue nelle vene, e nel paragrafo dopo quando vengono ferite butto giù un bel \"sangue scarlatto\"",
+                "Sì, quando ci stanno bene è anche divertente ~",
+                "Una certa ironia era voluta, un po' come in tutto quello che faccio^^",
+                "Addirittura? Onoratissimo, non sognavo altro",
+                "Sono molto contento sia piaciuta l'ambientazione, già che mi piacerebbe utilizzarla per una visual novel che ho in cantiere... Grazie ancora"
+            ],
+            "timestamp": "2020-01-13T19:55:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45946-n2019-3b-cimitero-allinferno//?do=findComment&comment=812198"
+        },
+        {
+            "post_id": 812804,
+            "text": [
+                "In effetti era stato un mio amico ai tempi a farmelo notare",
+                "ciao, grazie mille dei complimenti e dei consigli ne terrò conto in revisione"
+            ],
+            "timestamp": "2020-01-16T05:46:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45946-n2019-3b-cimitero-allinferno//?do=findComment&comment=812804"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "commento",
+        "Genere: fantastico",
+        "Traccia: estraneità",
+        "Sono avvolto da acqua fredda e scura. Come sono finito qui? Emergo e prendo una lunga boccata d’aria, che mi brucia in gola. La prima cosa che metto a fuoco è il cielo: vermiglio e privo di astri, sembra una massa di carne sanguinolenta e pulsante. Delle mani enormi mi afferrano dalle ascelle e mi sollevano, portandomi verso riva: sono di un ragazzo, dal volto affabile cosparso di lentiggini e con due vispi occhi verdi. Indossa un camice bianco.",
+        "Mi posa al suolo e i miei piedi toccano una terra dura e gelida. Alle spalle del giovane – perché è così alto? – il terreno è innevato e sale dolcemente fino alle prime case. Lui abbassa un piccolo specchio di fronte a me: vedo un neonato nudo e vulnerabile, ritto su due gambe. Il cuore manca un battito, la mente viaggia rapida in cerca di una qualche spiegazione, ma prima che possa elaborare, il ragazzo esordisce:",
+        "«Tu sei morto».",
+        "Ho un mancamento e cado col sedere sulla dura terra. Quel neonato sarei io? Il ragazzo mi porge dei vestiti. Parla, ma le sue parole mi arrivano come suoni privi di significato. Il panico si impadronisce di me. Mi sento la gola secca e mi gira la testa. Mi volto in ogni direzione, cercando di capire, ma ogni nuova immagine che vedo non fa altro che aumentare il mio straniamento. Ritengo superfluo urlare, e non lo faccio.",
+        "«… ci reincarniamo tutti come neonati…» sta dicendo il ragazzo. Lungo le rive dello stagno limaccioso da cui sono emerso, una schiera di persone dai camici bianchi sta aiutando dei neonati a uscire dall’acqua, ci sta conversando, li sta consegnando vestiti. Lo stagno è circondato da alte mura di pietra, che corrono poi a racchiudere l’interno villaggio alle spalle del ragazzo. Ogni cosa è coperta dalla neve.",
+        "«… camminare e parlare da subito…» Il flusso di informazioni continua, e sono troppo turbato per ascoltare o controbattere. Tiro su col naso. E così sono morto?",
+        "Era una giornata come le altre: per distrarmi da quanto fossi un miserabile fallito avevo trascorso il tempo a guardare anime, giocare a videogame e masturbarmi. Erano settimane che non mettevo piede fuori casa. Il mio bell’appartamento in città, comprato coi soldi dei miei dopo tante promesse: ed ecco com’ero finito, cacciato dall’università e disoccupato. Non avevo più neanche i soldi per pagare l’affitto e quel giorno mi avevano staccato la corrente. Quanto ho urlato, quanto ho imprecato contro me stesso. E alla fine la trave, la sedia, la corda.",
+        "Le lacrime mi appannano gli occhi, mentre immagino mia madre che entrando nell’appartamento si trovi un inutile sacco di carne come me penzolare dal soffitto. Tutto ciò che volevo era sparire, non dover mai più aver a che fare con me stesso. Stringo i pugni fino a far diventar bianche le nocche delle manine. Non riesco a smettere di piangere. Non ho mai saputo fare altro: ecco cosa sono, un frignone incapace. Mi odio così tanto…",
+        "Indosso la camicia e i pantaloni. «Vivrai qui: il villaggio si chiama “Solstizio”. Le mura sono state costruite secoli fa da chi è passato prima di noi, come difesa dalle creature là fuori, ed è severamente vietato uscire.» Mi porge una spilla dorata che rappresenta la muraglia. «Entro un mese farai meglio ad aver trovato un’occupazione. Fino ad allora, riceverai tutto ciò che ti serve mostrando questa spilla.»",
+        "Un’occupazione, eh? Alzo gli occhi, sospirando piano, e incrocio quelli del ragazzo. Ha un che di inquietante: non mi sta guardando veramente. Realizzo che sta ripetendo una formula fatta, per chissà quale ennesima volta in un giorno. L’oltretomba… Non credevo che tutte le mie certezze nichiliste potessero crollare così facilmente. Sembra che a un inetto come me neanche il miracolo dell’oblio sia concesso.",
+        "«Come vedi, anche qui le persone crescono. Esiste la gioventù, la vecchiaia, e la morte. Ed essendo che questo è l’altro mondo, una volta che muori qui, be’… molto probabilmente non avrai altra possibilità. Considera questa seconda vita come un dono. In ogni caso, non si sa se altri villaggi…» Come ha detto? Allora forse c’è ancora speranza!",
+        "«Ti prego di seguirmi. Verrai sottoposto a un test psicologico, per capire chi sei e cos’hai fatto nella vita.» Le risposte sono molto semplici: “nessuno” e “niente”. Si dirige verso l’interno del villaggio e io lo seguo, docile. La neve scricchiola sotto le nostre scarpe. Attraversiamo qualche stradina, trafficata da poche persone, di ogni età e ogni etnia. Il ragazzo che mi guida cammina piano, per non farmi restare indietro. Passiamo davanti a un cimitero dai cancelli di metallo. Quindi è qui che mi troverò a breve. In una bara anonima, come mi merito. C’è un che di tragicomico nella distesa di lapidi: un cimitero all’inferno.",
+        "Arriviamo nella vena principale. Il centro della strada è attraversato da carri e, ai lati, c’è un’incredibile calca davanti ai negozi. Adulti e bambini sono immersi negli acquisti, con naturalezza, e fanno a malapena caso a noi. Sembrano del tutto a proprio agio anche con quell’orribile cielo scarlatto e sanguinante. Questo mondo non mi appartiene, e mai mi apparterà; non più di quanto mi appartenesse l’altro.",
+        "«Non preoccuparti, non c’è sempre tutta questa gente. Oggi è il giorno festivo. Di norma…» Senza preavviso scatto a correre, sgattaiolando tra le gambe dei passanti adulti, cercando di seminare il logorroico. Non sono molto rapido, data la statura, ma è grazie a essa che posso scappare agilmente. Striscio via, infilandomi in una via secondaria, viscido come un verme. In fondo è quello che sono.",
+        "Sento il ragazzo urlare alle mie spalle. Se solo riuscissi a seminarlo potrei trovare un modo di fare quello che devo. Nella corsa supero una casa del piacere, e mi sorge involontario un interrogativo: se, pur con l’aspetto di neonati, qui abbiamo la coscienza di adulti, allora…? Sorrido e scaccio il pensiero, concentrandomi sulla fuga. È probabilmente l’ultimo sorriso della mia vita, ed è rivolto a del sesso coi neonati. Sorrido ancora.",
+        "Poco più avanti trovo una macelleria. Può andar bene. Spingere la porta mi è semplice, nonostante il corpo da neonato. Hanno proprio pensato a tutto. Prima di entrare, mi volto brevemente e noto il ragazzo in fondo alla via. I nostri sguardi si incrociano. Non so come, ha recuperato un arco e una faretra. «Fermo!» Urla minaccioso.",
+        "Entro. La porta fa suonare un campanello e, da una stanza illuminata oltre il bancone, un vocione cinguetta: «Arrivo subito!» In vetrina, cadaveri scuoiati di animali che non ho mai visto prima. In preda all’ansia corro dietro al bancone e cerco gli attrezzi del macellaio. Non ho molto tempo. Scelgo il coltello più appuntito e lo sollevo davanti a me, la punta sul mio petto.",
+        "La porta si spalanca. «Non ti muovere». Il ragazzo, ansimante, incocca una freccia e la punta verso di me. Sulla soglia dello stanzino intanto si materializza il macellaio, immobile.",
+        "«Se vuoi uccidermi, ti conviene farlo subito», sibilo. Decido di mentire. «Ero un terrorista, sono morto in un attentato. Non vorreste mai avermi nel vostro villaggio, no? Uccidimi.» Gli lancio uno sguardo feroce.",
+        "Lui abbassa l’arco e vedo i suoi occhi verdi perdere l’ardore dell’inseguimento. «Metti giù quel coltello e seguimi. A me sembri solo un suicida.»",
+        "“Solo un suicida”? È così che sminuisce l’atto più eroico della mia intera esistenza? No, è troppo: questa è l’ultima umiliazione che subisco. Con un colpo secco spingo la lama dritta nel cuore. È larga quanto metà del mio petto e affonda come nel burro. Dolore. Dolore sordo, cieco, muto. La vista si offusca, le urla dei due uomini mi arrivano da molto lontano. Tutto si fa nero. Finalmente l’oblio.",
+        "Sono avvolto da acqua fredda e scura. Emergo e prendo una lunga boccata d’aria, che mi brucia in gola. La prima cosa che metto a fuoco è il cielo: indaco e soleggiato, è il cielo terso di una torrida giornata estiva. Delle mani enormi mi afferrano dalle ascelle e mi sollevano, portandomi verso riva: sono di un ragazzo che indossa un camice bianco, che mi aiuta a uscire dallo stagno nel cuore della foresta."
+    ],
+    "timestamp": "2020-01-11T17:53:26Z",
+    "title": "[N2019-3B] Cimitero all'inferno",
+    "topic_id": 45946,
+    "url": "https://www.writersdream.org/forum/forums/topic/45946-n2019-3b-cimitero-allinferno/"
+}

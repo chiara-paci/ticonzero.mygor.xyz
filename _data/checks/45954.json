@@ -1,0 +1,133 @@
+{
+    "author": {
+        "author_id": 17761,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Marty12",
+        "url": "https://www.writersdream.org/forum/profile/17761-marty12/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.9888888888888889
+            },
+            "text": [
+                [
+                    "ciao , annuncio subito, visto che siamo amorevolmente e amichevolmente \"nemici\" nel contest, per rapidità di post m'hai rubato l'idea!",
+                    "Volevo sviluppare anche io una storia sentimentale che avesse come fulcro una relazione con uno dei due che fosse la versione maschile o femminile di Sheldon Cooper ma...mi tolgo il cappello e non solo mi appresto a commentare ma ti faccio i complimenti per come hai trattato il tema, con estrema delicatezza e attenzione senza mai veramente dire di che tipo di sindrome, tic, \"malattia\" stai trattando.",
+                    "Mi è piaciuto molto, a livello di forma non ho nulla da segnalare perchè mi pare di non aver riscontrato errori; a livello di contenuto devo dire che mi ha divertito particolarmente l'uso che hai fatto della boa, come discoteca in cui potersi sfogare.",
+                    "Il genere sentimentale è sviluppato molto bene, dando attenzione sia all'affetto che lui (la voce narrante) ha per lei, sia al carattere di lei, di cui ho apprezzato tantissimo l'uso dell'ironia finale."
+                ]
+            ],
+            "timestamp": "2020-01-11T19:20:40Z",
+            "title": "[N2019-3A] Una serata Tipica",
+            "url": "https://www.writersdream.org/forum/forums/topic/45904-n2019-3a-una-serata-tipica//?do=findComment&comment=811671",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Eccomi a te , devo dire che questo racconto mi ha davvero piacevolmente coinvolta, soprattutto per l'originalità con cui hai sviluppato la traccia, la boa è ben inserita nel racconto, e il concetto di ineluttabile trasformato nel drago, dopo una sottile analisi sul concetto che prima o poi a tutti tocca morire, è davvero carina.",
+                    "Perciò complimenti, lasciamelo però \"srotolare un pochino\".",
+                    "Passo ad esaminare prima di tutto la lingua: adoro l'uso dei toscanismi, rendono il ritmo dei dialoghi tremendamente divertente, tuttavia secondo me c'è un che di distonico in questa parte",
+                    "anche se l'incessante frequenza di domande serve benissimo a caratterizzare la civetta a cui nulla sfugge devo dire che secondo me in termini di registro linguistico stona veramente.",
+                    "Per quanto riguarda la trama devo dire che è splendida, semplice, divertente e raccontata con stile diretto e tematiche degne della favola (ho trovato un dolcissimo espediente quello di personificare quelli che per noi sono aggettivi o semplici nomi comuni per dare un senso di qualifica in più dei personaggi, il corvo Menagramo e l'oca Giuliva sembrano già di per sé dei quadretti) credo che abbia un'unica pecca: tutto si blocca a livello d'azione nel momento in cui Ragnetto decide di viaggiare. Per carità si capiscono le sue motivazioni a partire ma penso che avresti potuto dedicare dello spazio in più a una sorta di riflessione sul viaggio di formazione appena avvenuto altrimenti corri il rischio di dare un'impressione di un finale che arriva troppo velocemente.",
+                    "Nonostante Ragnetto sia tratteggiato benissimo e rappresenti la semplicità che si prodiga per gli altri, arrivando a credere a tutto quello che sente, sembra l'unico perno della storia e la solidità dell'intreccio infatti si perde quando passa, a metà trama, dall'essere il protagonista a uno di cui ci si scorda perchè il focus viene spostato da Pratofiorito (che onestamente sembra una versione a taglia animale di Hobbiville) e perchè ti perdi secondo me in uno spiegone su come gli uomini vivono le loro vite, che tagliato o trattato in maniera diversa (magari mostrando un singolo episodio che ha fatto cambiare idea a Ragnetto e lo ha spinto a tornare indietro).",
+                    "Unica cosa, mi sono persa sul finale, perchè ragnetto sembra perdere d'importanza e Menagramo fa il solito uccello del malaugurio."
+                ]
+            ],
+            "timestamp": "2020-01-13T16:36:36Z",
+            "title": "[N2019-3A] Ragnetto e Aquilotto. Una fiaba per adulti",
+            "url": "https://www.writersdream.org/forum/forums/topic/45925-n2019-3a-ragnetto-e-aquilotto-una-fiaba-per-adulti//?do=findComment&comment=812131",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4552,
+    "num_commenti": 2,
+    "num_posts": 11,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 23395,
+                "name": "Miss Ribston",
+                "url": "https://www.writersdream.org/forum/profile/23395-miss-ribston/"
+            },
+            "post_id": 811788,
+            "text": [
+                "Il racconto è stato postato con commento insufficiente. Il topic viene lasciato aperto per permettere agli altri partecipanti di poter lasciare un feedback sulla lettura, in attesa del commento riparatore da parte dell'autore, già contattato via MP."
+            ],
+            "timestamp": "2020-01-12T10:38:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45954-n2019-3b-linventore-e-il-corvo//?do=findComment&comment=811788"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 812135,
+            "text": [
+                "Racconto regolarizzato."
+            ],
+            "timestamp": "2020-01-13T16:43:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45954-n2019-3b-linventore-e-il-corvo//?do=findComment&comment=812135"
+        }
+    ],
+    "text": [
+        "Traccia 3- estraneità",
+        "Genere: romantico",
+        "commento",
+        "L'inventore e il corvo",
+        "Benché nessuno dei membri della sua famiglia lo avesse mai qualificato come “Peter l’Inventore”, il ragazzo si era sempre dedicato a quell’occupazione con tutta l’anima: sotto quella zazzera scura, c’erano sempre mille idee pronte a sussurrargli all’orecchio quelli che sarebbero stati nuovi progetti.",
+        "Ad alcuni che lo osservavano, Peter appariva solo un sognatore. Ad altri un disadattato o addirittura un furbastro che, pur di non lavorare, si era inventato questa storia delle invenzioni.",
+        "In ogni caso le sue creazioni mentali, tradotte in realtà, provocavano sempre scompiglio e reazioni contrastanti.",
+        "«Sono fantastiche, solo troppo avanti rispetto al nostro tempo!»",
+        "«Sono solo assurde cagate che non servono a niente!»",
+        "Lui si sentiva un alieno di fronte agli altri, perché quello che faceva gli sembrava semplice, naturale e addirittura non meritevole di commenti. Gli altri non capivano ciò che a lui sembrava assolutamente chiaro, e ne soffriva profondamente cadendo spesso in profonde depressioni.",
+        "Quando smise di andare a scuola e arrivarono i Servizi Sociali, lo psichiatra incaricato espresse un giudizio completamente diverso da quelli precedenti. Fu così che finì nell’Istituto, dove iniziarono a rimpinzarlo di pillole come fosse un tacchino, e la sua mente cessò di partorire idee.",
+        "La lancetta dei minuti dell’orologio da parete avanzò di uno scatto e la ragazza sobbalzò in un turbinio di riccioli biondi. Seppur nascosto dalle ombre calde del tramonto, il suo volto si contrasse in un’espressione di fastidio. Il suono pacato, che segnava l’inesorabile scorrere del tempo, era giunto alle orecchie di lei come un boato mentre dormiva, inebetita dalle pastiglie blu.",
+        "Un altro giorno, uguale a tutti gli altri, stava per finire e una sgradevole sensazione di freddo le penetrò nelle ossa. In quell’ambiente asettico - letto bianco, coperte bianche, cuscino bianco - i muri spogli sembravano volerla soffocare con le loro braccia invisibili, mentre se ne stava rannicchiata sul davanzale della finestra per respirare la luce.",
+        "Quella luce, che scompigliava le creste dei campi di grano, da un po’ le sembrava fosse più duratura del solito, quasi non volesse arrendersi alla notte. Solstizio doveva chiamarsi quell’evento: la natura aveva ritmi molto diversi dai suoi.",
+        "Ma potevano davvero definirsi giorni, i suoi, rinchiusa in quel mondo che si estendeva poco più in là della sua stanza? Nel quale pareva che ogni granello di tempo scandisse solo gli attimi dedicati al cibo, al riposo, alla lettura e a poco altro?",
+        "Il più importante avrebbe dovuto essere quello dedicato alla socializzazione, con gli altri pazienti nel grande salone. Ma così non era mai stato, sino a quando non aveva conosciuto Peter.",
+        "All’inizio aveva pensato che un corvo avesse rubato dei vestiti dalla lavanderia e che li avesse rovesciati su una sedia. Poi l’uomo si voltò e l’idea del corvo prese il volo, lasciando una lucida immagine di capelli neri. Grazie, pastiglie blu. Da qualche parte, in quei vestiti, c’era un corpo magro, accartocciato, con le lunghe dita che piegavano e ripiegavano una lunga strisciolina di carta.",
+        "«Questo tavolo non ha le gambe giuste» le disse, quando lei gli si sedette accanto. Le piaceva l’espressione del suo volto: non era concentrazione, quanto totale assenza di distrazione.",
+        "Il suo opposto.",
+        "Mentre lui si sforzava di sollevare il tavolo, lei prese un’altra strisciolina di carta. La sorvegliante gettava loro giusto qualche occhiata dall’altra parte della stanza, troppo presa dall’impedire al signor Carlo di frugare nel cestino della spazzatura, mentre Anna, una degli schizofrenici, cercava di intrattenere una conversazione con delle fate.",
+        "In meno di venti passaggi una farfalla di carta schiuse le ali dalle pieghe del foglietto. Il tavolo rimase fermo, immobile come un soldato tanto da non sembrare nemmeno più quello spoglio e barcollante di un manicomio. Poteva essere quello di una casa, per entrambi.",
+        "Si innamorarono, e tutto per loro cambiò come se il mondo fosse iniziato in quel momento.",
+        "«Non è che mettendo insieme due disadattati si possa ottenere una coppia normale!» disse il primo dottore.",
+        "«Proprio così!» disse il secondo, ridacchiando «Altrimenti dovremmo cambiar lavoro.»",
+        "«Quindi anche lei, illustre collega, è accordo nel tenerli separati in due padiglioni differenti?»",
+        "«Ma certo! Del resto non è un caso se per prassi consolidata sono proibite, o per lo meno caldamente sconsigliate, le relazioni fra pazienti.»",
+        "«Bene, allora procediamo immediatamente.» ﻿"
+    ],
+    "timestamp": "2020-01-11T21:48:37Z",
+    "title": "[N2019-3B] L'inventore e il corvo",
+    "topic_id": 45954,
+    "url": "https://www.writersdream.org/forum/forums/topic/45954-n2019-3b-linventore-e-il-corvo/"
+}

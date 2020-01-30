@@ -1,0 +1,114 @@
+{
+    "author": {
+        "author_id": 33896,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kasimiro",
+        "url": "https://www.writersdream.org/forum/profile/33896-kasimiro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Il titolo è intrigante e mi ha messo una gran curiosità.",
+                    "Mi è partita subito una riflessione personale. Credo che i miei libri preferiti li ho letti solo una volta, non ho avuto necessità o voglia di riprenderli, forse perché le emozioni legate a quei momenti di lettura sono ancora così impresse e forti anche dopo tanti anni che ho quasi timore che rileggendone il testo possa rimanerne deluso, un po' come è successo al tuo protagonista. Mentre altri libri considerati capolavori ma che a me non hanno trasmesso nulla, li ho letti ripetutamente per capire che cosa in me non funzionava.",
+                    "Troppo ottimista sulla sapienza del genere umano.",
+                    "Bellissima descrizione.",
+                    "Concordo! Se uno ha la facoltà, leggere in lingua originale è la cosa migliore. (Parlo io, che non so neanche una lingua straniera)",
+                    "È una cazzata ma mi ha fatto ridere molto! Forse perché, tutto sommato, è abbastanza plausibile che un bambino possa chiedere di disegnare una pecora. Ma solo un bambino.",
+                    "Qui entriamo in un sottile surrealismo. A rigore un falso ha come riferimento un corrispettivo originale. Qui abbiamo l'aggettivo che si paragona a un oggetto inesistente. Molto potente.",
+                    "Se qualcuno dovesse leggere questo racconto fra cinquant'anni, dovrà fare una ricerca per capire chi era.",
+                    "Un racconto molto amaro e pessimista sul valore del genere umano. Fa riflettere con una scrittura sempre molto esaustiva.",
+                    "Con quello \"scapellamento destrorso\" ci hai illuso su un prosieguo grottesco e demenziale.",
+                    "Si parte da citazioni colte ma poi si cade in basso.",
+                    "Perfettamente d'accordo che la salvezza ci può arrivare da quelli che \"non richiedono nessuna sospensione dell'incredulità\"",
+                    "Forse nella parte prefinale, prima dell'incontro col cane, mi sarei aspettato un po' più di creatività nella sequenza di descrizioni di inganni dell'uomo, anche se la scelta immagino sia stata volutamente scarna ed essenziale, prendendo ad esempio l'ipocrisia della politica e della religione.",
+                    "Trovo sempre, come in altri tuoi testi, una gran capacità di rendere le situazioni con un linguaggio semplice e scorrevole, che non annoia mai.",
+                    "Bello.",
+                    "Adoro il lieto fine, anche se in questo caso è frutto di una casualità e non di una volontà.",
+                    "Ma dalla casualità nasce tutto.",
+                    "Dopo questa perla di saggezza, un saluto e a rileggerti."
+                ]
+            ],
+            "timestamp": "2020-01-29T22:11:27Z",
+            "title": "Sospensione dell'incredulità",
+            "url": "https://www.writersdream.org/forum/forums/topic/46138-sospensione-dellincredulit%C3%A0//?do=findComment&comment=815464",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7287,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il signor Cartozzi abitava in una casa vicino al mare; una mattina, appena svegliato, notò qualcosa di strano dalla finestra, di molto strano.",
+        "Richiuse gli occhi, gli diede una bella stropicciata e li riaprì, ma le cose non cambiarono: “Forse sto sognando!” pensò fra sé, e si riaddormentò.",
+        "Al risveglio, gli apparve la stessa visione: il mare sembrava diverso, come se la superficie dell'acqua fosse ricoperta da un sottile strato di nebbiolina. Uscì fuori e quando alzò lo sguardo gli venne un colpo. Si tastò la testa, il corpo e le gambe: “Non sono appeso come un pipistrello! Cosa sta succedendo? -si chiese esterrefatto- E lassù?”",
+        "In alto, al posto delle nuvole appariva una distesa d'acqua.",
+        "“Sembra che il mare si sia spostato in cielo.” continuò.",
+        "Provò con degli schiaffi in faccia: “No, non sto sognando.”",
+        "Arrivò urlando, con le mani fra capelli una vicina: “Ha visto cosa è successo? La fine del mondo!” esclamò la signora Giulietti.",
+        "In pochi istanti, tutto il quartiere si ritrovò a parlare dell'accaduto.",
+        "“Non è possibile! Un mare sopra e uno sotto! Finiremo schiacciati! Sommersi! Annegati! Morti! Gli squali ci faranno a brandelli e le nostre ossa si accumuleranno sul fondo!” delirò il signor Giunchi.",
+        "“Sì, ma sul fondo del mare sopra o di quello sotto!” aggiunse Cartozzi.",
+        "“Non mi sembra il momento di scherzare.”",
+        "“A meno che...” ebbe un lampo Cartozzi.",
+        "“A meno che, cosa?”",
+        "“Sotto, invece del mare, ci sia finito il cielo. Certo! È l'unica spiegazione! Il mare e il cielo si sono invertiti.”",
+        "“Eh! -risposero in coro sbalorditi- Perché dovrebbe essere successa una cosa del genere?”",
+        "“Non ne ho la più pallida idea.”",
+        "“Sentite, andiamo a toccare con mano.” disse un'altra vicina.",
+        "“Io torno a letto. Questo è soltanto un brutto sogno” concluse la signora Giulietti congedandosi.",
+        "Gli altri cautamente si avvicinarono alla scogliera. Ai loro occhi apparve una distesa di nuvole.",
+        "“Chi ha il coraggio di tuffarsi?” chiese Cartozzi.",
+        "“Ci provo io!” si fece avanti Giunchi. Appoggiò un piede per tastare e sentì un vuoto. Provò più in giù...vrooonn, scivolò verso il basso: “Aiutoooooooooooooooo...”",
+        "“Oddio! Signor Giunchi! Signor Giunchi! Ci sente!” provarono a urlargli a turno. Nessuna risposta.",
+        "Tutta la popolazione fu in preda al panico. La follia divenne la normalità. C'era chi partiva in macchina senza una meta. Chi lanciava sassi con una fionda verso l'alto, per vedere se facevano splash. Chi semplicemente stava sdraiato con le mani dietro la nuca ad osservare il mare in questa nuova prospettiva. Il vero dramma lo vissero i pescatori: dovevano munirsi di razzi anfibi se volevano continuare a lavorare. Ma non ce ne sarebbe stato bisogno: pesci di ogni specie piovevano dal cielo quando meno te lo aspettavi: sardine, sgombri, merluzzi. Chiunque poteva andare a pesca: bastava mettere un retino a mezz'aria ed aspettare. Una volta però, accadde quasi una tragedia. Precipitò una balenottera che per fortuna impattò nella piscina comunale olimpionica, creando un mini tsunami, con qualche spogliatoio allagato.",
+        "“Quanto è alto il mare?” chiese una bambina a suo papà.",
+        "“Non sono pronto per questa domanda” rispose.",
+        "Un giorno venne a piovere, acqua salata naturalmente, ma non quella pioggerellina intensa, battente, costante. No, poche gocce, intervallate, dalla portata di diversi decimetri cubi; secchiate d'acqua di mare che cadevano dall'alto. I bambini si divertivano un sacco, un impiegato di banca che si avviava al luogo di lavoro, un po' meno.",
+        "In molti avevano paura a chiedersi cosa stesse accadendo. Con qualche precauzione ci si stava abituando.",
+        "Questa sorta di atmosfera marina non doveva essere molto spessa, la luce del sole riusciva a filtrare e ad arrivare sulla terra, fioca, come una lampadina da comodino. Inevitabilmente, la temperatura si abbassò di qualche grado: piacevole sensazione nella parte del globo dove era in corso l'estate.",
+        "Ma il tutto durò breve tempo.",
+        "Uno dei maggiori esperti di astrofisica, il professor Korovskj, tenne una conferenza in mondovisione dando la spiegazione all'anomalo fenomeno: “Quello che è successo è da imputare alla luna. Abbiamo fatto una clamorosa scoperta: non è solo un piccolo ed arido satellite, ma un'entità vivente: è sensibile ed ha la capacità di ragionare e pensare. Abbiamo elaborato dei segnali sonori provenienti dallo spazio e codificato un linguaggio partito proprio dal cuore della luna. Voleva comunicarci e spiegarci quello che gli era successo: un fortissimo desiderio di fare un bagno.",
+        "Si è avvicinata vertiginosamente a noi, provocando con la sua forza d'attrazione, uno spostamento parziale degli oceani. Osservando la terra, così ricca di risorse, ha provato amarezza, tristezza e sconsolazione per non poter ospitare nulla di tutto ciò.",
+        "Voleva piangere ma non aveva lacrime da versare e la sua pelle rugosa e screpolata non aveva mai goduto di un po' di sollievo: avere l'acqua è sempre stato un eterno desiderio. Qualche residuo di ghiaccio, aveva ammesso, si era accumulato in prossimità dei poli, ma nulla di paragonabile. Considerata l'influenza sulle maree, ha voluto avvicinarsi pensando di risucchiare un po' di liquido dagli oceani, non immaginando lo scompiglio che avrebbe provocato. Per fortuna si è fermata quando ha capito quello che stava succedendo.",
+        "L'acqua è rimasta così sospesa tra chi voleva prenderla e chi non voleva cederla.",
+        "Siamo riusciti a convincere la nostra amica ad abbandonare l'impresa. Abbiamo provveduto a inviarle una risposta spiegandole che questa situazione instabile stava provocando scenari imprevedibili e che doveva ritornare al suo posto, per il nostro bene (ma a lei sarebbe importato?). Le abbiamo proposto di inviarle una serie di razzi cargo carichi d'acqua e rilasciarli sulla sua superficie. Ci ha risposto immediatamente, soddisfatta dell'offerta e dispiaciuta dei problemi causati.”",
+        "Ma alla vigilia dell'imminente primo viaggio ricevettero un nuovo segnale dalla luna che venne subito codificato: “Non so qual'era la mia posizione di partenza e non saprei proprio come ritrovarla, è un problema?”",
+        "“Un pochino, ma non preoccuparti, la prima spedizione penserà a ricollocarti fino alla posizione originaria” le risposero dalla terra.",
+        "Così, giunti in prossimità, dopo averla reidratata, la sistemarono nella sua posizione aiutandosi da uno speciale riflettore laser che ne ristabilì la distanza precisa. L'acqua versata, a contatto con la crosta lunare, fu risucchiata all'istante, assorbita come una goccia in un mare di spugna.",
+        "“E' una sensazione che aspettavo da un miliardo di anni! Ora quest'acqua sarà sempre con me, mi è entrata dentro e non mi abbandonerà più” rispose con un ultimo messaggio.",
+        "Sulla terra le cose ritornarono come prima: il mare ripiombò in basso ed il cielo riprese la sua ascesa verso l'alto. Ma dopo quello che è successo tutti presero maggiormente consapevolezza della precarietà dell'esistenza e la coscienza che altre azioni stravaganti potevano arrivare dallo spazio oscuro in qualsiasi momento.",
+        "Quando tutto fu ristabilito, il signor Cartozzi e la signora Giulietti notarono qualcosa cadere dal cielo verso il mare. Andarono con una barca a vedere di cosa si trattasse e con sorpresa videro il signor Giunchi, quello caduto in basso nel cielo, che nuotava.",
+        "“Ehiii come sta? Tutto bene?” Gli urlarono.",
+        "“Benissimo!” rispose “Wow, che viaggio pazzesco!”"
+    ],
+    "timestamp": "2020-01-29T22:46:17Z",
+    "title": "Il mare sopra il cielo",
+    "topic_id": 46146,
+    "url": "https://www.writersdream.org/forum/forums/topic/46146-il-mare-sopra-il-cielo/"
+}

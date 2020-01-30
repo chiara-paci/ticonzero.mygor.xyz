@@ -1,0 +1,146 @@
+{
+    "author": {
+        "author_id": 10625,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Thea",
+        "url": "https://www.writersdream.org/forum/profile/10625-thea/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao,",
+                    "io, io, io, ti leggo io!",
+                    "Le due cose non sono correlate quindi il \"ma\" l'ho visto improprio.",
+                    "Giulia era magra e di media statura.",
+                    "Una cosa così.",
+                    "Non so tu, ma io non lo direi mai in una situazione reale di semi-panico come quella descritta.",
+                    "Cercherei una battuta che risulti più naturale.",
+                    "via il secondo \"Riccardo\".",
+                    "questa frase impappina il cervello (troppe ssss) e la virgola finale va tolta.",
+                    "Che cosa c'era, poi, da aiutare? Entrambi credevamo che non ci fosse nulla oltre la morte?",
+                    "Contorta, io metterei:",
+                    "Mi offese: credeva forse che facessi tutto questo soltanto perché soffrivo?",
+                    "In ogni caso riformulala.",
+                    "via il secondo \"Claudio\"",
+                    "via tutti questi \"neanche\"",
+                    "manca un punto, che manca anche alla fine di molte battute, il che mi fa pensare che sia voluto. Ma in realtà ci vuole.",
+                    "Claudio, Riccardo, Claudio, Riccardo. Si chiamano un po' troppo per nome questi due! XD",
+                    "via l'apostrofo",
+                    "Le battute finali (parte del monologo più quelle realmente finali) le ho trovate molto divertenti.",
+                    "Credo che il tuo racconto non abbia motivo di stare nella sezione over 18 ma nel dubbio hai fatto bene a metterlo qui. Se vorrai potrai chiedere allo staff se è possibile e ragionevole spostarlo nella sezione dei racconti normali.",
+                    "Il frammento è grottesco e divertente, secondo me devi migliorare soprattutto i dialoghi che a mio parere suonano piuttosto artificiosi.",
+                    "Qualche frase è un po' contorta ma se lo rileggi ad alta voce e cerchi di alleggerire le frasi sono sicura che potrai renderlo molto più scorrevole.",
+                    "Complessivamente credo che abbia bisogno di essere un po' raffinato per renderlo di più facile lettura e far meglio risaltare la parte comico-grottesca del racconto.",
+                    "A rileggerti.",
+                    "Ciao,"
+                ]
+            ],
+            "timestamp": "2020-01-11T18:30:05Z",
+            "title": "I dubbi di Riccardo",
+            "url": "https://www.writersdream.org/forum/forums/topic/45872-i-dubbi-di-riccardo//?do=findComment&comment=811660",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6690,
+    "num_commenti": 1,
+    "num_posts": 15,
+    "post_after": [
+        {
+            "post_id": 811703,
+            "text": [
+                "Grazie."
+            ],
+            "timestamp": "2020-01-11T21:22:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45953-n2019-3b-sete//?do=findComment&comment=811703"
+        },
+        {
+            "post_id": 811709,
+            "text": [
+                "Hai interpretato meglio di come io avrei potuto dirlo.",
+                "Grazie mille del commento, sono molto contenta che ti sia piaciuto. Hai colto esattamente quello che volevo trasmettere.",
+                "Ora bevi."
+            ],
+            "timestamp": "2020-01-11T21:48:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45953-n2019-3b-sete//?do=findComment&comment=811709"
+        },
+        {
+            "post_id": 811713,
+            "text": [
+                "che pagina?",
+                "Fatto realmente successo con la droga a cui mi sono ispirata: un uomo di è accoltellato diverse volte e poi si è sparato in testa con un fucile.",
+                "In molti casi l'effetto era proprio l'autolesionismo estremo.",
+                "Ma anche la tua idea poteva andare, questa mi pareva più particolare.",
+                "Grazie dei complimenti, gentilissimo. E del commento, ovviamente."
+            ],
+            "timestamp": "2020-01-11T21:53:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45953-n2019-3b-sete//?do=findComment&comment=811713"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: estraneità",
+        "Squadra: Gli Untori",
+        "Genere: Thriller (declinato in horror/pulp)",
+        "Sete",
+        "Acqua fresca che scorre nella gola. Immergerti in un fiume e bere, inghiottire, freschezza. Invece corri, scappi. Dove? Da chi? Da cosa? Non lo sai, ma qui non ci vuoi stare, è pericoloso, ostile. Terribile. Ogni cosa è terribile: la superficie grigia e calda su cui appoggi i piedi, le costruzioni spigolose tra cui ti muovi, la luce bianca che brucia la pelle, la testa, gli occhi, e poi loro, gli altri. Lo sai cosa sono? Creature orrende, animali crudeli, che ti vogliono annientare. Scappa, corri, non pensare alla sete che brucia la gola, raschia la lingua, pulsa nel cervello. La sete ti guiderà, ascoltala.",
+        "Devi fuggire o ti prenderanno, ti legheranno, ti pungeranno con i loro aghi, ti toglieranno la pelle, ti uccideranno, ti appenderanno in cima alle loro torri argentate. Allora per te sarà finita. Corri.",
+        "Mi chiamano “solstizio d’inverno”: cristalli bianchi come la neve, scaldati entrano fluidi nelle vene per una lunga durata, come quella della notte di dicembre.",
+        "Carlo, mi hai accarezzato con la stessa delicatezza che si usa con i diamanti. È stato bello ricevere quel tocco. Hai assaporato con i polpastrelli i miei spigoli irregolari.",
+        "Ho sentito la tua indecisione, succede a molti. Non avevi nessuno che dicesse che no, non avresti dovuto farlo, che ti saresti perso, che non saresti tornato più indietro. Eri solo. Non avevi nessuno, tranne me.",
+        "Carlo, ti attiravo, lo so. È stato bello sentire il tuo desiderio. La coscienza non ti è servita, non ti è mai stata utile. Mi hai scelto. Mi hai ascoltato. Ora siamo assieme: tu e io, il solstizio. Siamo una cosa sola, sentiamo e soffriamo all’unisono.",
+        "Gli altri sono neri e viola, si muovono lentamente, zombie che si avvicinano. Scappa prima che ti afferrino con i loro artigli famelici. Sono bestie affamate. Se non scappi ti prenderanno e sarà la fine. Ti faranno urlare. Ma non ti puoi fermare, lo sai che non puoi. Hai caldo? Togli le scarpe e corri su questo terreno di lava scura. Bravo, così. Lanciagli le scarpe, magari li rallenterai, ma non ti fermare a guardarli. Sono solo mostri di un pianeta rovente e grigio. Non sono come te, loro non sentono, non capiscono. Lanciagli gli oggetti che trovi. Quel sasso lì, bravo, mira alla testa. Ottimo colpo. Non farti raggiungere.",
+        "Non riesci più a correre? Non hai più fiato, i muscoli sono carboni ardenti.",
+        "Ti fermi, la fronte cola, ti pieghi in due, le mani sulle ginocchia. Presto ti raggiungeranno.",
+        "Carlo, il pensiero di lei ti attraversava ancora una volta mentre stringevi la siringa nella mano tremante. Cosa ti avrebbe detto se ti avesse visto allora? Aveva davvero importanza? Ti chiedevi di lei e degli altri, cosa ti avrebbero detto? Sempre occupati a giudicare, gli altri.",
+        "Carlo, non erano lì con te gli altri, non ti hanno mai capito, non sanno chi sei. Non conoscono il tuo dolore, non sanno sentire, non sanno ascoltare. Per questo ti hanno abbandonato. L’unica salvezza era dimenticarli, escluderli, chiuderti nella tua torre, estraniarti. Eppure ancora lo sentivi, quel dolore che passava nel petto e trafiggeva le viscere.",
+        "Carlo, ti serviva il mio aiuto, io ti avrei salvato dal dolore e da loro. Hai inserito l’ago e hai spinto. Bravo, sei stato proprio bravo.",
+        "Ora, Carlo, non esisti più.",
+        "Sete. Devi spegnerla. Lo sai che loro sono fatti di acqua calda e rossa che scorre. Ti disseterà. Ascoltami: attaccali per primo, li prenderai di sorpresa. Fidati di me, ti ho mai tradito io? No, non l’ho fatto. Loro l’hanno fatto. Bevi il sangue e spegni la sete.",
+        "Ti giri e lo vedi, un mostro grigio che si avvicina. Saltagli addosso, bravo, così.",
+        "Punta alla faccia, la parte più molle. Piega il capo all’indietro e affonda con forza i denti. Sì, proprio lì, tra l’occhio e lo zigomo. Mordi, mordi, mordi. La senti la carne? Il sangue caldo? Bevilo, così, ti darà forza. Sbrana, graffia, ingoia. Lascialo perdere ora, non senti che è molle? Non può più farti del male. Riprendi a correre.",
+        "Attento! Ti giri di scatto, ma la lama impugnata dal mostro è già affondata nella carne del braccio. Come osa? Fagli vedere di cosa siamo capaci. Il braccio non ti fa male, brucia come tutto il resto del tuo corpo. Sei in fiamme. Bravo, buttalo a terra. Punta alla gola ora, avrai molto da bere lì. Il sangue schizza e ti acceca. Non ti preoccupare, affonda e bevi di nuovo. Sì, così.",
+        "Ritieni superfluo urlare? Fallo lo stesso. Credi ancora di avere pensieri tuoi? Sbagli, siamo una cosa sola. Allora inclina la testa al cielo, incurante della luce che infiamma gli occhi, spalanca le fauci insanguinate e urla. Brandelli di pelle, carne e peli pendono dalla bocca e vibrano al suono della tua voce. Gridi come non hai mai gridato. Non te l’hanno mai fatto fare gli altri, bestie schifose. Io te lo faccio fare, liberati, fagli sentire la potenza, la forza.",
+        "Sei imbattibile, saranno loro a temerti.",
+        "Mentre sei lì, gambe piegate sul corpo esangue, schiena inclinata all’indietro per l’urlo al cielo, senti un colpo. La pallottola ti entra nella spalla e ti ribalta all’indietro, distraendoti dalla preda.",
+        "Rialzati, ne hai la forza. Assieme siamo invincibili, ricordi? Niente ci può sconfiggere. Ormai sei un unico fuoco, senti ustioni su tutto il corpo, non sarà una pallottola a fermarti. Alzati! Muoviti! Non perdere tempo!",
+        "Ecco, così. Prendi il coltello dalle mani della tua vittima, lo stringe ancora forte, quel morto bastardo. Leccane la lama, è il tuo sangue quello. Ti piace? È dolce, vero? Ne vuoi di più?",
+        "I mostri ti hanno circondato ora, guardati attorno. Ci sono scatole bianche e blu con strane luci che ti feriscono gli occhi. Armi puntate. Voci che non capisci. Cosa urlano quelle bestie?",
+        "Lo sai cosa vogliono: il tuo sangue. Vogliono spegnere la sete e tu sei la loro fonte. È tuo, e tuo soltanto, non lasciarglielo. Non concederti. Non farti trafiggere di nuovo dalle lance di fuoco, berranno il tuo sangue.",
+        "Guarda il coltello che stringi, quel rosso acceso sei tu, è la tua linfa, il tuo siero dissetante. Lo desideri, lo so. Anche io ne voglio sentire il sapore.",
+        "Cosa aspetti? Fallo! No, facciamolo assieme.",
+        "Afferriamo il coltello, stringiamo l’impugnatura con entrambe le mani. Avviciniamolo alla gola, così. Bravo. Vedrai, sarà bello. Più il taglio è profondo più ne avremo da bere, fidati di me. Ti ho mai tradito, io? Mai!",
+        "Ti aiuto io, contiamo: tre, due, uno...",
+        "Sei stato bravo, il taglio è netto. Una fontana di sangue scorre, le ginocchia cedono.",
+        "Lasciati andare. Una pozza si allarga a terra. Sei caduto. Lo senti il sangue sfiorarti le labbra?",
+        "Bevi.",
+        "Bevi finché il corpo non brucerà più, finché il cuore non smetterà di pulsare, finché non ti importerà più dei mostri, finché sarai libero."
+    ],
+    "timestamp": "2020-01-11T21:16:23Z",
+    "title": "[N2019-3B] Sete",
+    "topic_id": 45953,
+    "url": "https://www.writersdream.org/forum/forums/topic/45953-n2019-3b-sete/"
+}

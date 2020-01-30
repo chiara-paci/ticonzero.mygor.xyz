@@ -1,0 +1,112 @@
+{
+    "author": {
+        "author_id": 22817,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Mister Frank",
+        "url": "https://www.writersdream.org/forum/profile/22817-mister-frank/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Mi piace!",
+                    "Evita la doppia ripetizione di \"malinconia\" (per es: usa un sinonimo)",
+                    "La sera, prima di dormire, rilegge \"Alice nel paese delle meraviglie\" (la virgola spezza e rallenta il ritmo della frase)",
+                    "La descrizione della protagonista è interessante.",
+                    "Virgola dopo Romeo (Romeo degli Aristogatti?)",
+                    "Eviterei \"dentro la mente\" (usa il nome della protagonista oppure taglia direttamente, perché è sottinteso che i pensieri e le domande avvengono nella mente)",
+                    "Piccolo refuso: lo spazio dopo la virgola.",
+                    "Qui è da rivedere la sintassi (per es: Una sera, mentre legge prima di andare a letto, Alice vede un'ombra dalla finestra).",
+                    "Il punto interrogativo anche (oppure solamente) alla fine",
+                    "Usi molti punti di sospensione (ricorda che devi sempre lasciare uno spazio alla fine del terzo punto di sospensione).",
+                    "Il ritmo mi piace, aggancia subito l'attenzione.",
+                    "A me è sembrato un buon inizio per un romanzo da ragazzi, naturalmente godibilissimo anche per un adulto",
+                    "(io, almeno anagraficamente, sono un adulto, e a me è piaciuto abbastanza per continuarne la lettura)",
+                    "Adesso vorrei chiederti una cosa, naturalmente sei liberissima di non rispondere: è il tuo primo scritto?",
+                    "Ancora qualche piccolo accorgimento, secondo me.",
+                    "Hai conquistato un lettore",
+                    "Complimenti!"
+                ]
+            ],
+            "timestamp": "2020-01-21T21:16:54Z",
+            "title": "Lilli e il mondo perfetto - Cap 1 parte 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/34337-lilli-e-il-mondo-perfetto-cap-1-parte-1//?do=findComment&comment=813926",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4998,
+    "num_commenti": 1,
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 814427,
+            "text": [
+                "Ciao a tutti!",
+                "Grazie per essere passati a lasciare un commento"
+            ],
+            "timestamp": "2020-01-23T20:26:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46066-n2019-f-il-corridoio-degli-addii//?do=findComment&comment=814427"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: il solco nella Storia",
+        "Boa: nessuna",
+        "Caratteri: 4918",
+        "Tempo di lettura: 4 minuti circa",
+        "Titolo: Il corridoio degli addii",
+        "“A Natale non sarò con voi, impegno di lavoro improvviso” dice Rosario ai bambini. Teresa lo chiama in cucina per chiedergli spiegazioni. Lui farfuglia, si contraddice, mette insieme parole senza senso. Lei alza la voce, pretende la verità. Rosario le tira uno schiaffo. Teresa si affloscia contro la finestra e si copre la bocca con una mano. Ha la nausea, sente esplodergli la febbre e, dentro, l'angoscia di stare per affogare. La frana viene giù quando ha trent’anni, nonostante due bambini, una casa di proprietà, il progetto di costruire una famiglia con un uomo che, adesso, a distanza di tredici anni, non riconosce affatto.",
+        "* * *",
+        "Teresa si era innamorata di un ragazzo della sua stessa età, simpatico, curioso di tutto, abbastanza l'opposto di lei, razionale, solida, attenta alle apparenze. In tre anni si sposano e, dopo una gravidanza difficile, arrivano due gemelli: Carmine e Rosalia. Lei aveva lasciato il lavoro da commessa, allora facevano quasi tutte così, senza vivere particolari conflitti. “La famiglia viene prima di ogni cosa, è un dovere per una donna, ricordalo” . La madre le aveva ripetuto quelle parole così tante volte che Teresa aveva finito per crederci davvero, assorbendole dentro di sé. Rosario era l'uomo giusto, il matrimonio sarebbe stato felice; a vent’anni ci si è appena affacciati alla vita, la fiducia è solida, le aspettative sono alte, gli ostacoli si affrontano meglio in coppia. Ma una crepa si era aperta tredici anni dopo il matrimonio. Era bastato uno schiaffo, un solo schiaffo, al quale però se ne aggiunsero molti altri a distanza di poco tempo. Le parole della madre avevano acquistato una tonalità nuova, diversa, negativa. “La famiglia viene prima di ogni cosa”; della serenità, del rispetto, della libertà?. “È un dovere per una donna” ; subire, restare in silenzio?. “Ricordalo”.",
+        "* * *",
+        "“Stai commettendo un secondo sbaglio” dice la madre.",
+        "“Non ho paura di divorziare”.",
+        "“Invece dovresti... La gente parlerà male di te”.",
+        "“Parlino pure, a me non interessa”.",
+        "“Non pensi ai tuoi figli? Farli crescere senza un padre”.",
+        "Teresa infila il cappotto, afferra la borsa, fa per uscire.",
+        "“Ti avevamo consigliato di non sposare Rosario”.",
+        "“Ho commesso un errore, adesso rimedierò”.",
+        "La madre scuote la testa contrariata. “Sappi che non avrai il nostro appoggio”.",
+        "Teresa neppure la guarda, semplicemente chiude la porta di casa.",
+        "* * *",
+        "La mattina del 12 maggio 1974, il paese è arroventato da un sole particolarmente caldo. Teresa, che ha gli occhi duri come i ciottoli della strada e malinconici come le foglie dopo un acquazzone, ha un livido violaceo ancora pulsante sul viso, nascosto malamente da un trucco raffazzonato. Cammina con passo svelto, deciso, i bambini tenuti per mano, che la seguono ovunque. Entra nella sede elettorale, mostra il documento d'identità e firma il registro. Tutti gli sguardi sono fermi su di lei e i suoi bambini. Teresa fa finta di nulla ed entra nella cabina elettorale con gli sguardi dei presenti ancora incollati addosso. Sente caldo, asciuga la fronte e allarga il colletto troppo stretto della maglia. Finalmente può dire ciò che vuole, anche se è un segno sul foglio. Ma è un segno importante. Afferra la matita.",
+        "REFERENDUM POPOLARE",
+        "per l'abrogazione della legge 1 dicembre 1970, n. 898",
+        "Volete che sia abrogata la legge 1 dicembre 1970, n. 898, “Disciplina dei casi di scioglimento del matrimonio”?",
+        "SI / NO",
+        "Teresa traccia un segno come fosse una incisione sulla pietra. Sorride, è felice. Si augura che il referendum abrogativo venga respinto. È il momento di cambiare, troppe donne sono vittime di mariti violenti e crudeli. Fuori dalla sede elettorale aggiusta un trucco leggermente rovinato e il livido violaceo sul viso torna difficile da vedere. Non a Teresa, però, che guarda entrambi i suoi bambini. “Tu sarai padrona di te stessa” dice a Rosalia, “Non permettere mai a nessuno di farti del male”.",
+        "* * *",
+        "Quando tutto è già stato detto, rinfacciato, vomitato, allora si arriva al terzo piano del palazzo di giustizia di Palermo. È il corridoio degli addii, dove sulle panche in legno si possono cogliere gli echi delle liti tra gli ex coniugi, i clienti e gli avvocati, i pianti sommessi di chi è consapevole di restare solo e i sorrisi di chi pensa di aver vinto alla lotteria. Teresa è una delle prime donne a percorre il corridoio degli addii. Non sospira né fissa il vuoto. Un passo avanti l'altro. Ha trentatré anni, la tenacia di interrompere un matrimonio fallito per salvare la propria famiglia dall'infelicità.",
+        "“L'assurdità è non riuscire a procedere né avanti e né indietro. Restare in mezzo, bloccati come un'automobile in panne sul ciglio della strada”.",
+        "“Ha ragione, Teresa” dice l'avvocato, “Ma è sicura di volerlo fare?”.",
+        "Appoggia una mano sul ventre leggermente rigonfio, poi si volta a guardare Carmine e Rosalia. Sorride, è fiduciosa. “I figli vengono prima di ogni cosa, è un dovere per una madre”."
+    ],
+    "timestamp": "2020-01-21T22:13:47Z",
+    "title": "[N2019-F] Il corridoio degli addii",
+    "topic_id": 46066,
+    "url": "https://www.writersdream.org/forum/forums/topic/46066-n2019-f-il-corridoio-degli-addii/"
+}

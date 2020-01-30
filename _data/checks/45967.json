@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 34803,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "INKLINGS",
+        "url": "https://www.writersdream.org/forum/profile/34803-inklings/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.48444444444444446,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.48444444444444446
+            },
+            "text": [
+                [
+                    "Ho letto con attenzione il tuo frammento di una storia più complessa e tutto sommato mi è piaciuto.",
+                    "Sono rimasto soltanto un pò deluso dal non aver individuato nessun elemento che richiamasse il fantasy, pur rendendomi conto che in così poche battute diviene un'impresa titanica riuscire a farlo.",
+                    "A parte qualche errore di battitura sicuramente trascurabile, l'unico consiglio che mi sento di darti è quello di provare a rendere il tuo scrivere più semplice ed asciutto e come hai ben detto tu \"Medo da D&D\".",
+                    "Ottimo lavoro e continua così."
+                ]
+            ],
+            "timestamp": "2020-01-12T21:15:43Z",
+            "title": "Il bivio",
+            "url": "https://www.writersdream.org/forum/forums/topic/45098-il-bivio//?do=findComment&comment=811946",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 3355,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 811998,
+            "text": [
+                "Ciao. Il commento non è sufficientemente approfondito per essere ritenuto idoneo a postare un frammento.",
+                "Devo chiudere il topic.",
+                "Non appena avrai prodotto un nuovo commento, che dovrà rispettare le nostre , puoi contattare me o qualsiasi altro membro dello staff, e noi si provvederà a riaprire il frammento."
+            ],
+            "timestamp": "2020-01-13T09:29:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45967-la-bottega-delle-streghe//?do=findComment&comment=811998"
+        }
+    ],
+    "text": [
+        "Rimetto al giudizio della community un estratto del mio primo libro che spero presto possa trovare posto in qualche scaffale delle librerie.",
+        "Ringrazio anticipatamente tutti per i commenti che giungeranno.",
+        "...«Scusi Mentor, ma non sembra esserci alcun negozio che faccia al caso nostro?» chiede Luther.",
+        "«Signor Dillard abbia fiducia e prosegua, vedrà che la sua pazienza sarà ricompensata.»",
+        "Infatti, dopo pochi minuti, proprio davanti a loro e dove comincia la fila centrale di edifici, si affaccia maestosa una vetrina, tutta contornata da una vistosa cornice in legno invecchiato ed a forma di ferro di cavallo rovesciato, al cui centro ed in posizione più arretrata trova posto la porta di ingresso, anch’essa completamente a vetri ed al cui interno è appeso il cartello con la scritta -Aperto-.",
+        "L’imponente insegna sopra la vetrina appare invecchiata e consunta ma ben leggibile: La Bottega delle Streghe.",
+        "Tramontane risale quattro dei sette gradini in marmo bianco con venature marrone scuro, che conducono dal piano della strada alla porta di ingresso. Poi si ferma e si volta verso il gruppo.",
+        "«Come immagino avrete facilmente intuito dall’insegna sopra la mia testa, questo è il nostro negozio. Oggi quindi prenderete tutto l’occorrente per le pratiche magiche. Per qualunque dubbio potete fare riferimento ai vostri insegnati che sono con noi oggi proprio per questo.",
+        "Adesso entriamo!»",
+        "Tramontane avanza e gli altri lo seguono, anche se serpeggia tra la folla il dubbio di riuscire ad entrare tutti dentro al negozio, che seppur dalla vetrina possente appare molto piccolo da ciò che si riesce a vedere da fuori. Una volta entrati però i ragazzi rimangono sbalorditi nel constatare che le dimensioni apprezzabili dall’esterno non corrispondono assolutamente a quelle interne. Il negozio al suo interno occupa degli spazi che fisicamente non potrebbero esistere, estendendosi così ben oltre quelli che sono i limiti strutturali apprezzabili dall’esterno.",
+        "«Will, ma come è possibile?», chiede Drake riuscendo ad articolare a fatica la mascella spalancata.",
+        "«E che ne so!»",
+        "«Ma tutto questo spazio fuori non esiste!",
+        "Eppure, guarda qui, sembra di essere dentro un grande magazzino.»",
+        "«Visto ragazzi cosa può la magia?!» esclama Andrea, dirimendo ogni loro perplessità.",
+        "Il negozio all’interno ha un corridoio centrale che comincia in corrispondenza della soglia d’ingresso e prosegue fino in fondo dove è saldamente ancorato al pavimento un grande bancone in legno, alto ad occhio e croce un metro e mezzo. Lungo i lati del corridoio centrale sono posizionate delle teche dalla struttura portante tutta in legno e completamente rivestite da vetri così trasparenti che sembrano non esserci e che permettono di ammirare l’ingente esposizione di oggetti di vario tipo, alcuni dei quali veramente curiosi e particolari.",
+        "Sul lato sinistro, a circa tre passi dalla porta di ingresso, una scala con struttura in ferro e gradini in marmo bianco splendente sale poco ripida, proseguendo fino al fondo del negozio dove si ricongiunge ad un soppalco che percorre da sinistra a destra tutta la parete in fondo, sovrastando il maestoso bancone. Sul soppalco è sistemato un gran numero di scaffali molto scuri, di cui dall’ingresso è visibile solamente il lato corto. Soltanto di quelli defilati si riescono ad intravedere gli scaffali, stracolmi di quelli che sembrano essere libri...."
+    ],
+    "timestamp": "2020-01-12T21:30:53Z",
+    "title": "La Bottega delle Streghe",
+    "topic_id": 45967,
+    "url": "https://www.writersdream.org/forum/forums/topic/45967-la-bottega-delle-streghe/"
+}

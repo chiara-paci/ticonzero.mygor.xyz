@@ -1,0 +1,219 @@
+{
+    "author": {
+        "author_id": 1402,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "H3c70r",
+        "url": "https://www.writersdream.org/forum/profile/1402-h3c70r/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Buonasera e buon proseguimento.",
+                    "Ho letto il suo racconto, che ho trovato davvero particolare e intrigante, anche se mi ha lasciato qualche dubbio che vado ad esporle a breve.",
+                    "A livello di sintassi e ortografia, non ho notato errori di particolare importanza: diciamo che, a mio gusto, in un paio di situazioni avrei preferito l'uso dei due punti alle virgole.",
+                    "Lo stile è molto scorrevole e si lascia leggere tutto d'un fiato (anche se questo passaggio \"Iniziai a leggerla pur di aver qualcosa da fare e rimasi così affascinata da tutti quei regni, battaglie, ammazzamenti e personaggi incredibili che la lessi tutta.\" l'ho dovuto leggere più di tre volte per comprenderlo del tutto), la trama è molto particolare nella sua semplicità: oltre a svolgersi bene per tutto il racconto, mi ha davvero incuriosito, anzi no... letteralmente preso!",
+                    "Mi è piaciuta la caratterizzazione della protagonista e dell'angelo della morte, un po' meno quella della compagna \"non colpevole\" (per farle dire, non mi ha affatto convinto il tono che si intuisce in quel \" Taci e allarga questo buco, delinquente.\") : ora capisco che si tratta di un racconto dal punto di vista di una criminale esasperata dagli anni passati in cella, però qualche parola in più per la coprotagonista (che rimane volutamente subdola?) l'avrei preferita.",
+                    "Passiamo infine ai contenuti: li ho trovati funzionali al racconto, ma un po' troppo minimalisti.",
+                    "Ridurre la Bibbia a \"bel romanzo fantasy\" dopo anni di lettura è un po' una forzatura (reputo difficile che, almeno per sentito dire, una persona comune non sappia cosa sia la Bibbia, anche se non cristiana), inoltre - entrando nello specifico - il passaggio \"Premevo i palmi, spingevo, volevo liberarla, un contatto, dirle che sarebbe andato tutto bene\" mi ha inizialmente fuorviato del tutto, dato che nella frase precedente aveva definito la \"coinquilina\" come \"un ratto\" e che la protagonista aveva appoggiato le mani alla \"parete\". Insomma, subito avevo pensato che nella sua pazzia avesse rivolto le sue attenzioni al muro! Di sicuro è un \"my fault\", però - imho - se si sceglie di \"accompagnare\" il lettore in un mondo \"diverso\", bisogna guidarlo un po' di più nelle intuizioni da fare.",
+                    "Concordo poi con chi mi ha preceduto che l'innamoramento sia stato un po' troppo repentino, ma posso capire che - dopo anni passati a leggere, nella più completa solitudine - un contatto con un'altra persona si possa considerare come una \"manna caduta dal cielo\". A questo, aggiungo anche io che oggetti come matite, candele, poster (arrivati lì come?) siano spuntati un po' all'improvviso... e che abbiano pure il potere di aprire un foro in una parete di cemento, che di sicuro sarà più spessa dei centimetri necessari a far incontrare due lingue, l'ho trovato leggermente eccessivo.",
+                    "Per concludere, secondo me con un minimo di attenzione in più a questi ultimi dettagli, ovvero rendere un po' più plausibile il tutto, avrebbe reso ottimo questo brano più che buono!"
+                ]
+            ],
+            "timestamp": "2020-01-02T21:47:33Z",
+            "title": "[N2019-2B] I ratti di fogna",
+            "url": "https://www.writersdream.org/forum/forums/topic/45793-n2019-2b-i-ratti-di-fogna//?do=findComment&comment=809933",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 8030,
+    "num_commenti": 1,
+    "num_posts": 18,
+    "post_after": [
+        {
+            "post_id": 810279,
+            "text": [
+                "Buongiorno e grazie per essere passati, , , e .",
+                "Ho un paio di minuti per rispondere velocemente ai vostri quesiti: ringrazio per per le ulteriori dritte e... mannaggia, tre \"avevano\" di fila! Son proprio fesso...",
+                ": in primis, giocando a giochi di ruolo ambientati in mondi fantasy, ti informo che termini come vescovo e abbazia vengono utilizzati per definire una qualsiasi divinità (che va specificata, nel caso, come ho fatto alla fine) e non sono propriamente legati alla religione cattolica; comunque hai ragione sul trapassato, il flashback l'ho inserito in un secondo momento e mi è venuto istintivo mantenere lo stesso tempo verbale sin lì usato. Su \"disarticolati\" ti ringrazio, ho controllato ed è corretto il tuo suggerimento: ho scoperto che ne ho sempre fatto un uso improprio finora!",
+                "Infine, in merito alla mattina, mi annoto come sia insufficiente la descrizione del raggio di sole che entra dal rosone ad accecare momentaneamente Gravor. Grazie di cuore!",
+                "grazie anche a te per il passaggio, i complimenti e aver confermato che ho sempre fatto un uso improprio del termine \"disarticolati\"... :p",
+                "grazie per la segnalazione \"sull'incidentale delle frustate\": in precedenza non era fra virgole e - come mi ha anche fatto notare - alla fine avrei fatto meglio a spezzare le frasi. In merito \"alla porta accanto\" - a dire il vero, per come l'ho interpretata io e per le risposte lette in merito nel thread apposito - la traccia non prevedeva che fosse strettamente necessaria la presenza di \"una porta\" e che \"il rumore\" non fosse per forza un rumore indistinto.",
+                "Grazie a tutti ancora!"
+            ],
+            "timestamp": "2020-01-04T11:39:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810279"
+        },
+        {
+            "post_id": 810641,
+            "text": [
+                ", grazie mille del passaggio e contento che ti sia piaciuto.",
+                "ci credo che non abbia letto altro di mio, sono principalmente un lettore che prova a districarsi nel mondo della scrittura: son peggio di un principiante, insomma! Ringrazio per le parole e i suggerimenti, sono contento che abbia notato la mia attenzione nella scrittura (dovuta all'incapacità, più che altro...).",
+                "grazie per essere passato e contento che abbia apprezzato, nonostante tutto; le chiedo la cortesia di bacchettarmi se la prossima volta non le espongo in maniera più esauriente le mie osservazioni.",
+                "Infine...",
+                "Beh, non rido proprio per niente, anzi! Ti ringrazio e ti dico brava! In effetti, il \"cantico degli indegni\" è proprio salmodiato dagli spiriti di coloro che non sono stati ritenuti degni di passare la prova, e i loro scheletri \"tormentano\" i novizi che si presenteranno in seguito..."
+            ],
+            "timestamp": "2020-01-05T18:33:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810641"
+        },
+        {
+            "post_id": 810817,
+            "text": [
+                "Egregio , mi perdoni, ma credo che non abbia letto con la dovuta attenzione il mio racconto (comprendo perfettamente, se poi il tempo stringe e il genere non è il suo preferito).",
+                "Passi la disamina sui termini religiosi utilizzati, dove rispetto i diversi punti di vista, anzi... accetto la sfida e, chissà mi dovesse mai capitare, proverò ad utilizzare dei neologismi per definire le religioni di un ipotetico mondo fantastico.",
+                "Però sul secondo aspetto, l'ipotetico infodump, avviene in un momento in cui gli scheletri stanno avvicinandosi all'altare, vicino all'inginocchiatoio, dove si trova Lyrus, che poco prima ho detto che è cieco: quindi no, gli scheletri non li può vedere e in quel preciso istante non si sta rendendo conto che è a breve risulterebbe sotto attacco, se non lo avvertisse Gravor."
+            ],
+            "timestamp": "2020-01-06T18:50:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810817"
+        },
+        {
+            "post_id": 811226,
+            "text": [
+                "grazie di essere passato. Sapere come scrivi e venire a conoscenza che non ti piace il genere mi ha sorpreso non poco, sinceramente mi pare un controsenso. 😜",
+                "mi scuso io, invece! Perché mi son dimenticato di ringraziare per il passaggio e le impressioni.",
+                "Pellitteri grazie anche a te, a questo punto mi rendo conto di aver calcato forse un po' troppo con l'uso di certe terminologie... E comunque alla fine i due vengono salvati dalla Custodi, perché comunque hanno dimostrato di essere degni di diventare sacerdoti."
+            ],
+            "timestamp": "2020-01-09T11:04:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=811226"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 8859,
+                "name": "Bango Skank",
+                "url": "https://www.writersdream.org/forum/profile/8859-bango-skank/"
+            },
+            "post_id": 810145,
+            "text": [
+                "Bravo H3, rispetto al primo racconto questo è decisamente di un altro livello.",
+                "La trama è comprensibile, hai avuto una e una sola idea e l'hai sviluppata in modo coerente.",
+                "Soprattutto, al lettore non rimangono dubbi di sorta su come si sviluppano gli eventi.",
+                "Qualche consiglio sparso sullo stile, giusto per provare a darti qualche dritta \"generale\"",
+                "Mai fretta nelle descrizioni: fa troppo annuncio da agenzia immobiliare. Se vuoi proprio specificare che l'altare è in marmo bianco ci sono altri modi. Non serve \"di base\" eh, perché alla fine la scrittura è anche un patto tra te che scrivi e io che leggo, e se tu mi dici \"altare\", posso benissimo immaginarmelo da solo quest'altare. Ma se proprio lo vuoi dire perché è importante per la storia o per te perché ci tieni a descriverlo, se insomma vuoi far euna descrizione più accurata, dalle respiro: ci dedichi una riga dopo, andando a specificare per bene, andando a descriverlo per bene e sopratutto andando a legarlo all'azione, ai personaggi, in modo che non rimanga troppo sterile. Una cosa del genere:",
+                ".",
+                "..ai due bracieri posti al suo fianco.",
+                "L'altare, di marmo bianco, era coperto da un panno viola rivestito con finimenti dorati. Sopra il panno, un calice d'avorio a forma di teschio, con due rubini al posto degli occhi. Sembrava osservare i due novizi, quel calice. Sembrava osservarli con un ghigno diabolico.",
+                "Punto dopo avanti.",
+                "Spezza le frasi troppo lunghe e che non filano.",
+                "Ripetizioni: non vanno bene. C'è da cambiare la frase. Questa è sempre una rogna, e fa perdere tempo. Ma va fatto. Tra l'altro, girare e rigirare la frase è sempre un ottimo esercizio.",
+                "Qui ad esempio, una delle tante soluzioni potrebbe essere:",
+                "Le semplici vesti in lana grezza non li proteggevano dal freddo della pietra levigata. Avevano aderito alle piaghe sulle loro schiene, dovute alle frustate della sera precedente. Così si era aperto il cerimoniale di iniziazione.",
+                "Mi fermo qua. Continua così che vai bene",
+                "Saluto!"
+            ],
+            "timestamp": "2020-01-03T18:08:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810145"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 810805,
+            "text": [
+                "Allora: premetto anch'io che il fantasy non è il mio genere preferito, ne ho letto poco, quindi prendi le mie considerazioni come brodo di pollo colato (contrapposizione voluta all'oro. Senza offesa per il brodo di pollo ). Insomma: non consosco nel dettaglio certi topos, certe regole del narrare fantasy, come posso dire di conoscerle per altri generi...",
+                "Prima cosa che osservo: l'uso (abbastanza importante, in questo racconto), di simboli e immagini del cristianesimo, mi pare quasi (perdonami) una mancanza di fantasia. Aver bisogno di attingere a una religione (una qualsiasi religione, bada bene) per crearsi delle stampelle narrative, ecco: mi sembra una semplificazione del lavoro dell'autore, uno scansare la fatica d'inventarsi un'alternativa valida all'abbazia, al chiostro, al vescovo (va bene: \"vescovo\" non è prerogativa esclusiva del cristianesimo, bensì è anche una figura pagana, lo so, ma abbinata agli altri riferimenti non riesco a pensarla come la descrizione di un soprintendente religioso di chissà quale setta pagana e il mio pensiero va allla Chiesa cattolica), e via citando...",
+                "Potrai, forse, insegnarmi che si tratta di simboli che il fantasy anche più nobile usa abitualmente e sono semplicemente io a non consoscerne i casi. Nell'eventualità alzerò le mani e mi convincerò sempre più che il fantasy non fa per me.",
+                "Oppure potrai obiettare (e spiegarmi) che si tratta di una scelta narrativa originale e che l'ibridazione fra simboli cristiani e pagani, reali e di fantasia, è una tua scelta poderata.",
+                "Resterò, in ogni caso, del parere che il racconto potrebbe uscirne potenziato, se mi presentassi un mondo completamente privo di riferimenti sacri reali; se spostassi dalla sostanziale distopia quella che mi aspetterei essere una sorta di narrazione leggendaria completamente parallela e avulsa dall'universo reale.",
+                "Potrai pure evocare come \"attenuante\" (che, nel caso, ti dovrei concedere) il fatto che dover anche spiegare, in 8mila caratteri, che l'ambientazione è quella di un edificio (cui potresti aver dato il seducente nome di XYZ, ma che avresti dovuto caratterizzare in parecchi dettagli) ha sostanzialmente la funzione di \"abbazia\" (nome che ti consente, invece, di dare l'idea voluta al lettore in 7 caratteri e lasciare più spazio alla storia) è quasi un obbligo in un racconto breve. Ma, a rischio di risultare poco comprensibile ai lettori, perché non provarci? XYZ si presenterebbe da sé per gli avvenimenti che vi accadono (che vi fai accadere), non tutto dovrebbe essere caratterizzato, in effetti. Ecco perché sostengo che l'abbazia e il vescovo sono scorciatoie narrative, semplificazioni, che io, come autore, a meno non volessi farne una parodia, eviterei come la peste.",
+                "Poi magari sbaglio eh! E scrivo racconti nei quali, preso dalla smania di inventare, di non usare né luoghi comuni del genere letterario, né simboli che il lettore già conosce, tiro fuori zibaldoni che smarriscono anche il lettore più volenteroso.",
+                "Un altro problema che vedo (perdonami se parlo solo di aspetti non positivi: consapevole che sono pareri opinabili, se non te li presentassi non mi semrerebbe di essere utile. E comunque ne farai l'uso che credi ). In questa frase:",
+                "Ci leggo un diabolico e mix fra \"tell\" e info dump. Cioé: vorresti far credere al lettore che Lyrus non sia in grado di vedere da sé gli scheletri? Che non si renda conto di essere sotto attacco? A me tutto pare, tranne che una frase credibile in un'azione come quella descritta. Sicuramente da rivedere, è il mio consiglio.",
+                "Mi fermo qui. Credo di non aver altro di non già letto in altri commenti (anche se li ho letti molto velocemente) da dirti su questo tuo lavoro.",
+                "A rileggerti."
+            ],
+            "timestamp": "2020-01-06T18:07:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810805"
+        },
+        {
+            "author": {
+                "author_id": 6051,
+                "name": "queffe",
+                "url": "https://www.writersdream.org/forum/profile/6051-queffe/"
+            },
+            "post_id": 810828,
+            "text": [
+                "Allora sul secondo punto chiedo scusa: è una palese disattenzione mia. Il dettaglio mi è proprio sfuggito. Tanto che avevo pensato: \"a meno che la battuta non sia rivolta a un cieco, non si può proprio leggere...\""
+            ],
+            "timestamp": "2020-01-06T19:18:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi//?do=findComment&comment=810828"
+        }
+    ],
+    "text": [
+        "Commento:",
+        "Traccia: Un rumore dalla porta accanto",
+        "Genere: fantasy",
+        "Gli ultimi raggi di sole filtravano dal rosone sopra la navata centrale dell’abbazia; presto avrebbero lasciato il compito di illuminare l’altare in marmo bianco ai due bracieri posti al suo fianco.",
+        "Gravor e Lyrus giacevano proni sul pavimento, in prossimità dell’abside, con le braccia distese in avanti e non osavano alzare gli occhi verso il vescovo, che stava terminando la funzione dedicata ai due novizi.",
+        "Le loro semplici vesti in lana grezza non li proteggevano dal freddo della pietra levigata e avevano aderito alle piaghe che avevano sulla schiena, dovute alle frustate della sera precedente, che avevano aperto il cerimoniale di iniziazione.",
+        "Kaera e Matdua, che avevano sin lì accompagnato i due giovani durante tutto il rito, attesero l'uscita dei confratelli e delle consorelle, poi si avvicinarono all’altare: fecero benedire dal vescovo due bastoni, li posero sopra ai bracieri ardenti per il tempo necessario a verificare che non prendessero fuoco, quindi si chinarono a fianco dei loro protetti.",
+        "«Ora potete alzarvi: la notte della Prima Oscurità vi attende. Scenderemo alla cappella sotterranea, dopo la preghiera di ringraziamento» dissero all’unisono le Custodi dei due ragazzi.",
+        "«Come sarà l'ultima prova?» chiese poco dopo Gravor, mentre attraversavano con studiata lentezza il chiostro, per inspirare a pieni polmoni l’aria fresca e il profumo della magnolia che occupava il centro del cortile.",
+        "«Spero non sia fredda come il marmo che oggi ci ha fatto compagnia...» fu la risposta di Lyrus, che si strinse al braccio del compagno per non incespicare, quando imboccarono la stretta scalinata in pietra che portava ai sotterranei.",
+        "Le Custodi li precedettero, ognuna con il nodoso bastone in mano, fino alla destinazione prevista.",
+        "«Ecco i vostri vincastri benedetti: spogliatevi, poi prendeteli e inginocchiatevi di fronte a noi.» Le voci di Kaera e Matdua sembravano una sola; attesero che i “baldi giovani”, come venivano chiamati da tutta la confraternita, fossero in posizione e poi recitarono un'antica preghiera, imponendo le mani sulle loro teste. Un lieve bagliore azzurrino balenò dalle schiene dei due novelli chierici e le piaghe sparirono, poi furono avvolti da un lampo accecante.",
+        "Come riacquistò la vista, Gravor si guardò intorno: un paio di torce appese alle pareti illuminavano un piccolo ambiente, la cui unica via d'uscita era chiusa da una pesante porta in ferro battuto.",
+        "«Ora siamo in una cripta...» sussurrò a Lyrus, accompagnandolo verso il centro della stanza, ove - di fronte a uno spoglio altare - v'erano due inginocchiatoi in legno scuro. Aiutò l'amico a prendere posizione sul primo, poi si sistemò sul secondo.",
+        "Iniziarono a pregare in silenzio, finchè Lyrus alzò la testa di scatto, sorpreso.",
+        "\" Resistete al cantico degli indegni fino a domattina, quando torneremo a prendervi.\"",
+        "«Resistere a cosa?» chiese ad alta voce, mentre avvertiva un flebile suono indistinto farsi sempre più insistente e nitido «Gravor, lo senti anche tu? Sta succedendo qualcosa...»",
+        "L'altro ragazzo, allarmato dall'espressione spaventata dell'amico cieco e percepiti dei rumori provenire da chissà dove, si alzò e iniziò ad ispezionare i loculi alle pareti.",
+        "«Sembra che stiano raschiando con le unghie sulla pietra... anzi no, sembrano essere più lamenti striduli...»",
+        "«No, Gravor: è un salmo, ora lo percepisco meglio. Ma non comprendo tutte le parole...»",
+        "«Un salmo? Sei davvero sicuro? A me sembra siano solo dei suoni disarticolati!» rispose, mentre proseguiva ad esaminare con circospezione i resti delle salme.",
+        "«Ora lo percepisco meglio: oh, è terribile!»",
+        "«Lyrus, sei proprio sicuro che sia...» un colpo alle spalle gli impedì di finire la frase: si girò e si trovò di fronte ad uno scheletro, pronto a sferrargli un secondo colpo. Con la coda dell'occhio, vide altri scheletri che si dirigevano verso l'altare.",
+        "«Lyrus, agita il tuo bastone intorno a te, degli scheletri ci stanno assalendo!»",
+        "Il compagno si alzò e iniziò a muovere a casaccio il suo vincastro: i rumori secchi delle ossa che cadevano sul pavimento giunsero alle sue orecchie, coprendo per qualche istante la cantilena.",
+        "«Non fermarti dopo che li hai colpiti, si rianimano!» riuscì a dire Grevor, mentre sferrava colpi a destra e a manca con il bastone.",
+        "La litania intanto proseguiva incessante, come gli scheletri che uscivano dalle nicchie polverose, pronti a sferrare un pugno, a dare un calcio o a graffiare i due malcapitati.",
+        "Dopo circa un'ora, i due chierici erano spalla contro spalla dietro all'altare, coperti dai lividi e pieni di graffi sanguinanti, ma ancora pronti a colpire qualsiasi cosa si avvicinasse loro.",
+        "La cantilena non era cessata, così come l'assalto degli scheletri che, ogni volta che erano colpiti, crollavano a terra, per rianimarsi poco dopo e tornare all'attacco: non avevano ancora preso il sopravvento solo perché Lyrus recitava senza sosta una preghiera di protezione, che impediva loro di avvicinarsi a più di mezzo metro.",
+        "Proseguirono a difendersi con tenacia, ma le forze iniziavano a venir meno.",
+        "«Se tu potessi eseguire il rituale di risoluzione del male, forse gli scheletri tornerebbero alle loro tombe! Proviamoci, forse ce la faccio a proteggerti!» esclamò Gravor all'ennesimo colpo portato a segno, non senza aver però ricevuto un altro doloroso graffio all'avambraccio destro.",
+        "«No, l'incantesimo che permea questo luogo è troppo potente! Inoltre la voce è stata chiara: dobbiamo resistere fino a domattina!»",
+        "«Quale voce? Vuoi dirmi che hai avuto una premonizione di ciò che ci accadrà?»",
+        "Non ricevette risposta, perché Lyrus fu colpito alle gambe e cadde a terra: gli scheletri si avventarono su di lui, lasciando a Gravor - in preda al terrore di aver perso l'amico - giusto il tempo per correre alla porta a cercare aiuto.",
+        "Picchiò col bastone sulla traversina di ferro che proteggeva la serratura, ma invano. I rumori alle sue spalle iniziarono a farsi più vicini, così si girò e, compreso il suo destino, si preparò ad affrontare gli scheletri che lo avevano di nuovo preso di mira. Con la coda dell'occhio vide che un grosso mucchio d'ossa ricopriva il corpo di Lyrus.",
+        "\"Non posso morire proprio adesso, non sarà un'odiosa nenia a impedirmi di mantener fede alla promessa!\"",
+        "Quando la sua famiglia fu colpita da un'epidemia, e vide il padre e la sorella morire tra atroci sofferenze, pregò chiunque lo ascoltasse di poter salvare lui e la madre. In cambio avrebbe dedicato la sua vita ai più bisognosi: per questo motivo prese i voti nell'Ordine.",
+        "Raccolse quindi le forze rimaste e, ignorando lividi e ferite, si buttò a testa bassa contro l'orda di non morti. Sferrò colpi con una tale veemenza e velocità che, per un attimo, riuscì a prendere il sopravvento sui mostri: voleva tornare dall'amico, per recuperarne il corpo o morire al suo fianco.",
+        "\"Amico mio, non ti abbandonerò.\" fu il suo primo pensiero, dopo aver subito un violento colpo alla nuca che lo fece crollare a terra.",
+        "Cercò di rialzarsi, ma gli scheletri si gettarono sopra di lui: prima di perdere i sensi, sentì dire da due voci: «Requiescitis in pace.»",
+        "Poi calò l'oscurità assoluta.",
+        "Un coro melodioso e un freddo gelido alle viscere risvegliò Gravor, che alzò d’istinto lo sguardo per capire dove fosse: un raggio di sole, entrato dall'alto rosone, lo accecò per un istante. Si ritrovò disteso di fronte al bianco altare dell'abbazia, con Lyrus al suo fianco.",
+        "Kaera e Matdua si avvicinarono e li aiutarono a rialzarsi in piedi, restituendo loro i bastoni segnati da numerosi graffi.",
+        "Il vescovo si avvicinò e impose loro le mani dicendo: «Pochi novizi hanno dimostrato il vostro coraggio e la vostra determinazione di fronte a un nemico invincibile. Ora siete divenuti in tutto e per tutto nostri confratelli!»",
+        "Custodi e novelli sacerdoti chinarono il capo, l'assemblea si alzò in piedi e il vescovo infine disse: «Ricevete la solenne benedizione della Signora della Luce Bianca, che vi ha ritenuti meritevoli del suo amore. Siate fieri di essere stati consacrati a lei come Chierici della Sacra Battaglia!»"
+    ],
+    "timestamp": "2020-01-02T21:57:46Z",
+    "title": "[N2019-2A] I novizi",
+    "topic_id": 45816,
+    "url": "https://www.writersdream.org/forum/forums/topic/45816-n2019-2a-i-novizi/"
+}

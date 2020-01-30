@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 34224,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "teotode",
+        "url": "https://www.writersdream.org/forum/profile/34224-teotode/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "Premetto che la mitologia antica mi ha attratto sin da quando ero bambino, perciò vedere una trasposizione in versi della vicenda di Osiride e del malvagio fratello Seth mi ha davvero incuriosito.",
+                    "Nonostante io sia un amante del tono drammatico e tragico, mi è davvero piaciuto il tuo tono semplice e bonario che ha reso l'idea di una storia cantata intorno al fuoco per divertire le persone accanto o una filastrocca per insegnare ai bambini un mito. Non so effettivamente se ciò sia dovuto al registro comico, agli ottonari o alla rima baciata, ma il ritmo cantilenante di questo componimento mi ha davvero fatto sentire come se a parlare fosse un cantastorie o un aedo accompagnato dal suo strumento musicale.",
+                    "Credo che la tua trasposizione poetica non abbia smentito il mito originario, in quanto effettivamente nel dialogo compaiono tutti gli elementi del mito, ma il tono apparentemente bonario col quale hai scritto mi ha fatto pensare ai componimenti di Ovidio nei quali le divinità del pantheon romano vengono molto umanizzate in modo da dar loro quasi un aspetto comico, da burla, giocondo.",
+                    "Il titolo mi sembra azzeccato, in quanto, soltanto con esso, una persona che conosce già il mito può intendere di cosa andrai a parlare da subito, senza dover poi cercare nel testo dei riferimenti ai personaggi, alla vicenda, cosicché possa godersi meglio il componimento senza dover stare ad arrovellarsi su quale sia la vicenda narrata.",
+                    "Trovo molto musicali anche le riprese che già dall'inizio anticipano il contenuto ma mantengono sempre una certa velatura di mistero pur rappresentando un filo conduttore tra le altre strofe.",
+                    "Detto questo, la tua poesia mi è piaciuta davvero molto e spero che ne scriverai altre di argomento mitologico a me tanto caro.",
+                    "Saluti!",
+                    "teotode"
+                ],
+                [
+                    "Beh, se ne dovessi scrivere altre di questo genere contami pure come avventore!"
+                ]
+            ],
+            "timestamp": "2020-01-03T14:56:52Z",
+            "title": "Io sono Osiride - parlo a Seth",
+            "url": "https://www.writersdream.org/forum/forums/topic/45804-io-sono-osiride-parlo-a-seth//?do=findComment&comment=810059",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 207,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "Girasole ora colto",
+        "da dita a me ostili,",
+        "danzi oramai nel vento",
+        "insieme ad altri fiori",
+        "maturi e più odorosi",
+        "dei miei petali gialli,",
+        "solitaria giunchiglia,",
+        "decisamente troppo",
+        "verdi per confortare il tuo cuore"
+    ],
+    "timestamp": "2020-01-03T15:01:36Z",
+    "title": "Perdita",
+    "topic_id": 45833,
+    "url": "https://www.writersdream.org/forum/forums/topic/45833-perdita/"
+}

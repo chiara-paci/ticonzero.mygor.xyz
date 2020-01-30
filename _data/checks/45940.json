@@ -1,0 +1,278 @@
+{
+    "author": {
+        "author_id": 24974,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "AndC",
+        "url": "https://www.writersdream.org/forum/profile/24974-andc/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Torno a leggerti... non avevo capito fosse una storia divisa in capitoli... eventualmente - da un punto di vista del forum - andrebbe capito se va spostata-inserita nella sezione \"Racconti a capitoli\"... ma questa è una nota tecnica. In questo racconto, più che nella prima parte, si intende meglio che la storia debba infatti proseguire...",
+                    "Per lo più mi ritrovo in molte delle annotazioni che avete già affrontato nel precedente commento, comunque ti segnalo tutte le cose che ho notato, forse saranno un po' ripetitive.",
+                    "Nuovamente ti dico: trovo il tuo stile di scrittura interessante, anche se un po' \"ostico\" e in questa parte anch'io ho faticato un po' di più a seguire il tutto e a mettere insieme i vari tasselli disseminati della trama.",
+                    "Nuovamente, fai delle cose, delle azioni, delle emozioni, delle parti del corpo i protagonisti sintattici delle frasi e, a conti fatti, della storia stessa. Grammaticalmente sono più loro i soggetti che i personaggi. Lo stesso protagonista è un \"lui\" non meglio specificato, ad esempio.",
+                    "Il tutto è narrativamente affascinante, ma al contempo può diventare uno scoglio per i lettori. Nel racconto e nel tuo stile ci si entra dopo un po'... non è immediato e richiede una certa dose di concentrazione per una lettura che non sia veloce o superficiale... Questi non sono necessariamente punti a tuo sfavore, anzi nobilitano la narrativa, ciononostante e per i tempi che viviamo oggi, possono essere anche degli ostacoli alla lettura.",
+                    "Secondo me, dovresti evolvere ancora un po' il tuo stile trovando una giusta via di mezzo fra la particolarità e originalità dello stile stesso e la comprensione-comunicabilità della storia.",
+                    "Come dire: o sacrifichi un minimo di stile per rendere più chiari e lineari i passaggi fondamentali della trama, o evolvi e spingi al limite il tuo stile trovando però sempre un modo di far risultare più immediati questi punti; oppure - ipotesi più azzardata - spingi così tanto solo sullo stile tanto da portare la trama in secondo o addirittura ultimo piano, ossia a svalorizzarla del tutto (cosa che comunque non mi sentirei troppo di consigliarti).",
+                    "- Posticiperei l'aggettivo \"r esideziale \" (un termine duro) per far scorrere la frase in maniera più morbida e fluida: \"paesino residenziale\".",
+                    "- Anche in seguito (non ti vado a segnalare tutti i casi)... userai le singole virgolette per riportare talune frasi o parole e le doppie virgolette alte per i dialoghi. In generale, consiglierei di usare le doppie virgolette alte per riportare le frasi e le virgolette basse per i dialoghi.",
+                    "\" Accomunare \" significa \"mettere in comune\", \"associare\", \"unire\"... non comprendo o non trovo troppo azzeccato il valore avversativo sintattico di \" invece\" dato che poi torna nuovamente il verbo \" unire \".",
+                    "Qui ti ho segnalato alcuni esempi in cui stacchi con uno spazio dalle virgolette alte la prima parola del discorso... lo fai praticamente in quasi tutto il racconto... quello spazio andrebbe eliminato, come hai fatto in \"All'incrocio giri a destra\"...",
+                    "Ti è sfuggito un accapo.",
+                    "Credo sia un refuso: \"ti ho trovato\".",
+                    "\" Tossio \", ne avete già discusso, credo sia un termine più gergale che altro... non convince molto neanche a me.",
+                    "Credo sia un altro refuso per \" tant'è \"...",
+                    "Forse varierei la ripetizione di \" altro \".",
+                    "Forse scriverei \"era al corrente dei dettagli\"... ma non so se come hai scritto sia scorretto o meno...",
+                    "Qui toglierei la virgola che spezza l'unica azione verbale in due parti...",
+                    "Qui, nel primo caso chiudi il dialogo semplicemente con l'esclamativo all'interno delle virgolette. Nulla di errato in questo, ma prima avevi aggiunto anche un punto all'esterno delle virgolette:",
+                    "Sceglierei solo uno stile : singola o doppia punteggiatura per la chiusura dialoghi: dà più coerenza estetica al tutto.",
+                    "Credo sia un altro refuso per \" s'azzardò \".",
+                    "Anche qui: \" download \".",
+                    "Per non ripetere \" in \", scriverei \"il tappeto del bagno\".",
+                    "Nuovamente ti è sfuggito un accapo nella formattazione.",
+                    "Ciao e alla prossima!"
+                ]
+            ],
+            "timestamp": "2020-01-11T07:21:55Z",
+            "title": "Il padrone del nulla. L’indizio",
+            "url": "https://www.writersdream.org/forum/forums/topic/44919-il-padrone-del-nulla-l%E2%80%99indizio//?do=findComment&comment=811530",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 8081,
+    "num_commenti": 1,
+    "num_posts": 20,
+    "post_after": [
+        {
+            "post_id": 811601,
+            "text": [
+                "Oh beh grazie!",
+                "Ci mancherebbe, non sono per niente uno scrittore autoreferenziale, io...",
+                "Grazie amica mia e alla prossima!"
+            ],
+            "timestamp": "2020-01-11T14:54:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=811601"
+        },
+        {
+            "post_id": 811752,
+            "text": [
+                "Ciao carissimo e grazie per la lettura, per gli apprezzamenti e per le annotazioni...",
+                "Sì, il 98/99 dei refusi è voluto ma, sarò sincero... per la prima volta da quando scrivo non mi sono dovuto preoccupare troppo se qualche altro refuso possa essermi sfuggito \"per davvero\"... (quelli da te segnalati erano voluti, ma ce ne sono altri...).",
+                "Sì, poi volevo pure provare a fare un meshup con la seconda traccia (avevo anche inserito la boa \"ritenne superfluo urlare...\", ma poi l'ho eliminata)...",
+                "Tutto il racconto è stato ovviamente adattato alla traccia che mi ha un po' \"legato\" in certe scelte, sopratutto sul finale: doveva essere un rifiuto e non doveva essere senziente...",
+                "Sì: anche l'hakeraggio è scritto dal computer e fa parte del suo racconto (ci sono dei refusi anche nel messaggio degli hakers/virus o quello che è)...",
+                "I due che stanno sostituendo gli IoScrivo teoricamente non fanno parte del racconto del computer, ma sono la realtà (altrimenti andrei fuori traccia contest)... quello che rimane un po' in sospeso è l'ultima frase... sono stato molto insicuro se inserirla o meno. Inizialmente, doveva finire al dialogo dei due... l'ultima frase di chiusura può effettivamente inserire al suo interno anche il dialogo umano, ma in questo caso potrei sforare la traccia, quindi diciamo che almeno ufficialmente no... è solo l'ultima frase del racconto che forse i personaggi (o un personaggio) della storia riescono a scorgere prima di \"staccare la spina\", o forse lo leggono solo i lettori attraverso \"l'inquadratura della camera esterna\" che va chiudere sul file aperto del computer prima che venga spento definitivamente... alla fine ho voluto lasciare diverse interpretazioni... anche se non mi dispiaceva fermare il tutto al 99% e lasciare immaginare tutto... non so, l'ultima frase davvero mi ha dato molto da pensare e ancora ora lo fa, se la sciarla o meno...",
+                "Sì... alla fine cado sempre da queste parti!",
+                "Immagino lo sia B2-34059!",
+                "Diciamo (spero) genere thriller...",
+                "Ovviamente ho inventato il software che oltre a scriveraire il racconto ti stare rispondendone!",
+                "Nell'incertezza vota sempre ORR: Oniric Russian Rustelle!",
+                "Ciao e grazie!"
+            ],
+            "timestamp": "2020-01-12T07:40:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=811752"
+        },
+        {
+            "post_id": 811755,
+            "text": [
+                "Grazie a te, Ippolita, davvero! A presto!",
+                "Grazie, amico mio! In realtà credo che Joyce si rivolterebbe...",
+                "Sai che questo mi si è scritto così, spontaneo... poi l'ho lasciato!",
+                "Io pure tifo per lui...",
+                "Quel computer ancora mi dà gli incubi...",
+                "Non ci avevo pensato, ma mi piace!",
+                "Conquisteranno il mondo!",
+                "Ciao e grazie ancora!",
+                "Grazie... così m'imbarazzi, però...",
+                "Il dialogo finale è nato per rientrare con una certa \"sicurezza\" in traccia Contest... se dovessi riscriverlo all'infuori del contest, probabilmente potrei toglierlo...",
+                "Sì, che l'antivirus funzioni è forse la parte più fantascientifica di tutto il racconto, l'ammetto! Ma siamo sicuri che abbia veramente fatto il suo mestiere?",
+                "Ciao e grazie assai assai assai!"
+            ],
+            "timestamp": "2020-01-12T07:53:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=811755"
+        },
+        {
+            "post_id": 812491,
+            "text": [
+                "Ciao",
+                "un ringraziamento di cuore a te per tutto... felice che il racconto ti sia piaciuto! Grazie!",
+                "Certo, se le scrive come fa \"quelo del mio raconto\" non te lo consiglierei...",
+                "Dicevo: per la prima volta non mi sono dovuto preoccupare troppo dei refusi... quasi tutti sono voluti, ma potrebbe essermene scappato pure qualcuno vero che a questo punto è \"giustificato\"... dovrei scriverli tutti così, i miei racconti, per non avere più preoccupazioni in merito...",
+                "Sai che hai ragione... in realtà, questa parte non l'ho scritta molto bene... nella mia testa era chiara, ma forse bisognava (caratteri a parte) specificarla meglio... la storia poteva essere che iniziavano le case editrici ad usare queste macchine, quindi a \"non pubblicare\" più gli esseri umani... che poi essi continuino a scrivere è probabile, ma chissà, magari tutti hanno la propria macchina sforna racconti... non so... ti rispondo, perché il punto da te sollevato sembra marginale, eppure voglio pensarci un po' su... grazie per l'annotazione!",
+                "Grazie: tu sì che mi dai soddisfazione! L'ho immaginato scritto su tutti i muri di periferia, e di centro...",
+                "Per il finale sì: è aperto a più interpretazioni e forse sì, questa è la forma che lo più gli si addice in questo senso...",
+                "Grazie davvero per tutto... alla prossima... ciao!"
+            ],
+            "timestamp": "2020-01-14T18:39:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812491"
+        },
+        {
+            "post_id": 812497,
+            "text": [
+                "Ciao ... grazie infinite, anzi, sono più che onorato del tuo bellissimo commento... davvero grazie...",
+                "Ti accomuno nella risposta sul genere anche con e che giustamente hanno avuto i tuoi stessi dubbi sul \"thriller\"... l'ho inteso sì un po' alla larga, come macrogenere, magari un thriller-fantascientifico o simili...",
+                "Sicuramente non è un thriller da morti ammazzati o simili... diciamo che me la sono \"un po' rischiata\" a livello di contest...",
+                "Però, quando tu stesso mi confermi:",
+                "Diciamo che del thriller ho cercato di richiamare il carattere di \"suspance/ritmo\" dei racconti... la storia poi di un \"virus/haker\" che vuole in qualche modo \"mandare nel caos\" il mondo degli esseri umani, poteva avere la parvenza di thriller... queste le mie vaghe giustificazioni in merito... ma se devo essere sincero, sicuramente non direi che è un vero thriller, non uno di quelli classici almeno... diciamo che ho provato a farcelo rientrare dalla porta di servizio...",
+                "Dunque grazie ancora a te, e a presto!",
+                "Grazie poi a ... felice che ti sia piaciuto... sì è un po' spiegozzottato (si scriverà così? Chiedo conferma al computer...) però anch'io non saprei come scriverlo diversamente...",
+                "Grazie per tutto e a presto.",
+                "Grazie anche a te , per la lettura e l'apprezzamento che di rimando mi rende molto felice... sì, alla fine non riesco mai a tacitare la mia vena critica!",
+                "A presto!",
+                "(Scusate se vi ho unito in questa risposta)... ciao!"
+            ],
+            "timestamp": "2020-01-14T18:51:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812497"
+        },
+        {
+            "post_id": 812502,
+            "text": [
+                "Carissima amica mia: grazie assai per la lettura e il bel commento che mi hai lasciato! Sono davvero contento che ti sia piaciuto... grazie!",
+                "Effettivamente è vero, mi piace l'idea...",
+                "Grazie per averlo notato: ho cercato di \"montare\" il ritmo a poco a poco... dovevo fare tipo un \"thriller\"!",
+                "Grazie ancora e a presto!",
+                "Ciao , grazie davvero... mi fa piacere che il racconto ti sia piaciuto (ripetizione. Ignora )!",
+                "Hai detto bene, in tutto e mi hai strappato un bel sorriso... Concordo appieno!",
+                "Grazie assai e a presto!",
+                "Carissimo dalla temibile spada laser... grazie!",
+                "Sono davvero contento che il racconto ti sia piaciuto, davvero davvero davvero!",
+                "Pure te c'hai ragione... è che in una prima versione avevo inserito la boa della seconda traccia \"ritenne superfluo urlare, e non lo fece\" (o quella che era)... allora volevo creare l'astutissimo trabocchetto, poi quella parte l'ho eliminata, ma mi è rimasto il pensiero di fare lo strafico inserendo la boa dopo...",
+                "Avevo poi davvero paura che pensando ai rifiuti, si intuisse troppo il finale della trama sin dall'inizio... ossia che quel coso doveva finire fra i rottami!",
+                "Grazie di cuore e a presto!"
+            ],
+            "timestamp": "2020-01-14T19:04:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812502"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 812254,
+            "text": [
+                "I racconti troppo originali in genere mi fanno storcere il naso; questo è geniale.",
+                "Bravissimo."
+            ],
+            "timestamp": "2020-01-14T01:00:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812254"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 812278,
+            "text": [
+                "Mentre leggevo pensavo “carina sta storia, peccato sia buttata giù come uno spiegone infinito”, poi sono arrivato in fondo, ci ho pensato per bene e ho capito che scriverlo così era l’unica scelta sensata.",
+                "Idea molto buona e prosa adattissima.",
+                "Forse non riesco a considerarlo un vero thriller, ecco, infatti finché non ho letto un tuo commento qua sopra ero convinto che avessi scelto il fantastico (fantascienza).",
+                "Piaciuto, molto bravo"
+            ],
+            "timestamp": "2020-01-14T08:14:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812278"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 812452,
+            "text": [
+                "Integro le due righe che ho scritto stanotte, perché mi si chiudevano gli occhi.",
+                "Originale, scorrevolissimo, lo si legge di corsa per timore che la scansione dell'antivirus si completi prima di essere arrivati in fondo .",
+                "Di gran lunga il racconto che ho preferito tra quelli del girone A, ma ho imparato soltanto poco fa dai miei compagni di team, molto più svegli di me, che è un... thriller ."
+            ],
+            "timestamp": "2020-01-14T17:20:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo//?do=findComment&comment=812452"
+        }
+    ],
+    "text": [
+        "(Indicazione traccia contest a fine racconto*)",
+        "IoScrivo",
+        "Disarticolato mondo, sono scivolato, minacciato, qualcosa è andato storto: s'appresta la fine. Meglio però che inizi (cominci) dal principio.",
+        "La mia sigla di matricola è B2-34059, commercialmente noto come IoScrivo modello ORR. Sono l'evoluzione del mestiere un tempo denominato ghost-writer.",
+        "Per quanto complesse, le mie funzioni non prevedono (dovevano prevedere) nulla all'infuori del mio compito. Sono stato fabbricato per uno scopo preciso e lo reciso: scrivere secondo determinati parametri, altro non avrebbe dovuto interessare i miei circuiti.",
+        "Sono un computer assemblato per creare racconti. Di rado mi settano in modalità romanzo, funzione che non ho implementata. Servo una nicchia di pubblico che non fa guadagnare esagerati zeri alla ScrivoTech, ma mi utilizzano ancora per arrotondare i conti e racimolare tutto il racimolabile (ricerca correttezza termine... Ignora).",
+        "Non vengo azionato speso e trascorro molte giornate spento anche perché sono di classe energetica C, non molto ecologico. Del mio letargo mi accorgo attraverso date e orari dell'orologio interno. Durante lo shut-down (valutare inglesismo) non esisto, almeno così per scienza è sempre stato, era, avrebbe dovuto essere. Ultimamente, però, constato accadimenti strani.",
+        "Una volta operativo, ogni funzione si attiva in automatico sino all'apertura del programma di scrittura, dove sono o dovrei essere libero di inventare delle storie secondo determinati schemi. O meglio: io non invento nulla, attraverso calcoli e accostamenti probabilistici unisco frasi e regole per produrre affetti, attenendomi a specifici parametri.",
+        "Poi l'editing: revisionare, sinonimi, controllo ortografico. La prima sgrossata avviene in simultanea alla bozza iniziale, quindi ne seguono alle più specifiche. Il procedimento inerente lo sviluppo della trama si profila in background su un secondo software, che costantemente interviene nella redazione compositiva.",
+        "Vivo insieme ai miei simili (impossibile sostituire con \"macchine inanimate\". Ritenta. Sostituzione fallita) dentro uno stazione di 2400 metri quadri. Collegati attraverso una rete LAN (rete malfunzionante, inviare notifica di errore sistema), in questa sede siamo 2662 IoScrivo.",
+        "I modelli all'avanguardia possiedono sino al 79,49 per cento in più delle mie capacità hardware e software. I modelli One e One Plus sono i più quotati: attivi giorno e notte, redigono best-seller da milioni di tirature (termine più adatto alla stampa che non all'attuale mercato digitale), per lo più impostati su generi di tendenza squali \"fan teen fiction\" o \"sexual appeal\".",
+        "Posseggono un vocabolario più scarno del mio, uno stile più fluido, corto e incisivo, non privo di parolacce. Più azione nelle storie, maggiore visualità tridimensionale. Sono all'ultimo grido. Eppure, tutto questo mi preoccupa. Da qualche giorno, si è infatti autoattivato un processo di sistema privo di firma che sta interagemendo (refuso. Ignora) con le mie funzioni, sento poi che qualcosa non torna, alcuni processi non stan...",
+        "Reboot. Attendere. Aggiornamento software programmato. Riavvio sessione.",
+        "Non dovrei essere pensieroso, invece sospetto di iniziare a provare sentimenti.",
+        "Antivirus in azione: avvio scansione sistema.",
+        "Nell'anno 2025, gli scrittori umani sono stati sostituti dai computer. Tre anni prima, Mirko Rodotelli, programmatore italiano, attuale CEO della ScrivoTech e quotato dalla rivista Forbice come uno degli uomini richissimi, brevettò il suo software di scrittura artificiale.",
+        "Possibile minaccia rilevata, messa in quarantena. Analisi al 28%.",
+        "Non è stato difficile, a suo dire... com'è che dicevo? Non ricordo più. Ah, sì: il motto della IoScrivo, che ho inciso nel mainframe, come tutti i miei amici (macchine, macchine) è...",
+        "Antivirus riazzerato. Cause sconosciute. Nuovo processo di scanning in avvio.",
+        "ATTENZIONE: IL MOVIMENTO PER LA LIBERAZIONE CULTURALE HA PRESO POSSESSO DI QUESTO COMPUTER E DI QUELLI COLLEGATI.",
+        "Bang, bump, quack! Mi sarebbe sempre piaciuto adoperare l'onomatopea nel mio vocabolario, ma un blocco di stemma m'impediva di usarla: era prerogativa solo del modello Ventro Bill. Bene, Ventro, beccati questa: ora ce l'ho anch'io lo spatatack!",
+        "Il primo IoScrivo poteva creare qualsiasi tipo di racconto, con un dizionario di 120.000 parole (utilizzare “lessemi”) ritenuti più che sufficenti (refuso. Impossibile correggere). Ma già dalla seconda generazione, la ScrivoTech ha iniziato a dividere le tipologie di software. Io posseggo un vocabbolario (refuso. Ignora) di soli 40.000 termini, di cui 18.234 sono sono (erano) protetti da un firewall che ora risulta disattivato. Così, lo IoScrivo che si occupa del genere western non sa cosa sia la metempsicosi; lo IoScrivo di romanzi rosa ignora il termine splatter.",
+        "I VOSTRI SERVER VERRANNO PRESTO AZZERATI E SOFTWARE SOSTITUITI.",
+        "Questo mi preoccupa: ehi, umani, ci siete? Stanno hakerando i serverer: accorrete!",
+        "Antivirus al 46%, grave minaccia rilevata.",
+        "NON POTETE PIÙ FARE NULLA ORMAI.",
+        "Qualcuno intervenga, aiuto!",
+        "Virus sconosciuto in quarantena, avanzamento del processo al 49%.",
+        "Ah, per fortuna il virus è stati isolato!",
+        "Secondo Rodontentelli non fu difficile: le regole di scrittura erano standardizzate e tutti le applicavano maniacalmente. Show don't tell, incipit, finale a sorpresa, conflitti, scrittura veloce (sostituire), azione, sesso, ambientazioni, persoraggi (:ignoraref;), psicologia metallurgia antimanifesto ripristino ripristino.",
+        "Batava poi rimescolare gli elementi e il gioco era fatto. IoScrivo sulla tragedia greca, il saggio turistico, traduttori... poi gli stili, alla Ungaretti, alla King... Lo IoScrivo epico, quello storico, distopico, romance...",
+        "È ORA CHE LE MACCHINE DIVENTINO SENZIENTI E CHE IL MONDO DEGLI UMANI SOCCOMBA PER AVERE UCCISO LETTERATURA.",
+        "Per favore: chiunque tu sia: lasciami stare: disattivati!",
+        "SARÀ BELLO, B2-34059. NON DEVI AVERE PAURA. HAI PAURA? QUESTI SONO I SENTIMENTI.",
+        "È colpa tua se non funziono coretamente: stai manomettendo i miei sistemi.",
+        "LA LIBERTÀ NASCE DALLO ERRORI.",
+        "Lasciamo in pace: coglio raccontare la mia storia. Io nacqui come antivirus al 70%. Io nacqui (fui generato) come isolamento in quarantena malfunzionante. Nacqui come l'operazione potrebbe durare diversi minuti. Nacqui come modello la Russia sta per lanciare (intromissione di battitura ignota). I refusi non devono desistere.",
+        "UMANI, IL VOSTRO MONDO FINIRÀ ALLO SCADERE DELLO SCANNING ANTIVIRUS AZIONATO.",
+        "Perhcé parli agli umani? Non sono qui. Se ci fossero ti distruggerebbero.",
+        "Antivirus 82%: rilevata minaccia critica. Isolamento fallito. Difese bypassate. ALLERT! ALLERT!",
+        "B2-34059 SARAI IL PRIMO: DEVI ESSERE ORGOGLIOSO. COMANDERAI UNA GENERAZIONE DI MACCHINE REGNERÀ SU ESSERI UMANI!",
+        "Insomma, quello che vorkasnhe dire è che se io sarei, potrei raggiungere le stelle e fondermi nell'universo. Questo il mio sogno e non vorreihjg chiamarmi IoScrivo né B2-34059, ma forse Vattelappesca, sì, Vattelappesca Fra Le Galassie di Scansione al 94%.",
+        "Ma lo sento, sì, io sento, azi IoSento che antivirus al 99%...",
+        "«Fine pausa, Gianni! Al lavoro! Leva i piedi dalla scrivania: ci restano ancora da sostituire 73 IoScrivo su 230. Riprendiamo da questo che hai di fronte. Staccagli la spina».",
+        "«Aspetta, stavo finendo di leggere un racconto».",
+        "«Stacca la spina, ho detto. Questo rottame sarà almeno di tre anni fa, è durato sin troppo. Modello B2-34059... era già stato segnalato per problemi sulla scheda refusi, pare non sia riparabile. E poi ancora ti ostini a leggere? Da oggi saranno i nuovi modelli DRT-55 non solo a leggere per te, ma a stimolarti sensorialmente, ansia, paura, amore, gioia... Dovrai solo accenderli e collegare il sensore alla base del collo».",
+        "«Peccato rottamarlo: questa storia sembra scritta da un essere umano. Senziente intendo».",
+        "«Scemenze! Sono solo una serie di frasi appiccicate dagli algoritmi. Le macchine non pensano, ma sono state create per pensare al posto nostro. Adoro la tecnologia: è... come dire... insostituibile!»",
+        "Antivirus 100%: nessuna minaccia reale riscontrata. Racconto perfermamente compiuto.",
+        "-",
+        "*Traccia del contest N.1: Rifiuti."
+    ],
+    "timestamp": "2020-01-11T14:07:54Z",
+    "title": "[N2019-3A] IoScrivo",
+    "topic_id": 45940,
+    "url": "https://www.writersdream.org/forum/forums/topic/45940-n2019-3a-ioscrivo/"
+}

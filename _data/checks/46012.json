@@ -1,0 +1,111 @@
+{
+    "author": {
+        "author_id": 35,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Alberto Tosciri",
+        "url": "https://www.writersdream.org/forum/profile/35-alberto-tosciri/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "Mi piacciono i racconti dove si parla di mare. Io ci vivo davanti al mare, ma nella nostra tradizione i pescatori non sono tantissimi, in quanto si guarda il mare sotto un'altra prospettiva. Per ragioni storiche diciamo che dal mare, per noi, non è mai venuto nulla di buono. Non lo sfidiamo, lo amiamo e lo temiamo allo stesso tempo.",
+                    "In questo tuo racconto aleggia un'atmosfera d'altri tempi, d'altri valori. C'è una vita antica, sempre uguale all'apparenza, nello scorrere del tempo, nelle scene del lavoro dei pescatori, magistralmente descritte:",
+                    "Qui si intravede la vita, la fatica, la speranza...",
+                    "Commovente, per me affascinante la figura di donna Maria. Sposa fedele e convinta durante la vita del suo uomo, Fortunato, e vedova ugualmente fedele e convinta dopo la scomparsa del marito.È intuibile che non si risposerà mai più. La sua vita di sposa non è stata una prassi ma una vocazione. Dico così perché è evidente il contrasto con la mentalità odierna, anche se il racconto fosse stato ambientato magari in epoca contemporanea a noi, per maggiore contrasto.",
+                    "La scritta Dux può indurre a certi abbinamenti in apparenza fuori luogo, tutt'oggi quà e là compaiono ancora di queste scritte, tra boschi, montagne e palazzi. Ideologie a parte però, per quanto mi riguarda possono contribuire a dare risalto a particolari atmosfere descrittive, oltre all'epoca passata, una certa cupezza, tetraggine invariabilmente legata ai ricordi che quei nomi ancora oggi incutono...",
+                    "Forse qui avrei usato un tempo verbale differente: \"se solo non fossero stati sotto terra\", comunque non prendere per oro colato, io notoriamente in grammatica non eccello...",
+                    "Mi è molto piaciuta la descrizione della visita di Maria al cimitero, già dal suo salire",
+                    "Quel \"sassolini\" sminuisce il pathos della scena, secondo me. Ci metterei pietre.",
+                    "E molto bella la scena dell'apparizione di Fortunato, tutto vestito di bianco, compresa la coppola, si intuisce che non appartiene più a questo mondo, che gli è stato concesso di poter tornare per parlare, spiegare alla sua donna, che merita questa visione e questa spiegazione.",
+                    "Una cosa che mi ha molto colpito, almeno io la interpreterei così, forse tu volevi dire qualcosa di diverso, ma secondo me le persone amate che non ci sono più è plausibile che possano ricomparire in quel modo, qualunque nome si possa attribuire a ciò.",
+                    "Confesso di non avere afferrato bene il significato di essere stato ingoiato da un'acciuga verde, come dice Fortunato. È un particolare suggestivo, anche il colore, ma il pesce è troppo piccolo, oppure sono io troppo \"materiale\" e mi aspetto un pesce più grande. Probabilmente è un simbolo, credo, e va bene.",
+                    "Ma a parte questa mia deplorevole ignoranza, tutto il testo è di una delicatezza di sentimenti, di una poesia, di un'atmosfera che non c'è più che m'incanta.",
+                    "Un vero squarcio in un altra epoca, si intuiscono anche le ombre; le ombre di un'altra epoca sono diverse dalle ombre moderne (pensiero da approfondire, me ne rendo conto, ma non voglio annoiare con le mie elucubrazioni) frammisto di realismo magico, sogni e atteggiamenti dei personaggi, nonché ambientazioni ormai rare ai giorni nostri.",
+                    "Una scrittura molto buona, non sono capace di descriverla o assimilarla secondo i paradigmi di questa o quella scuola, io che sono un autodidatta, ma una scrittura scarna, efficace e altamente descrittiva. Con poche parole hai descritto una parte notevole del vasto mondo."
+                ],
+                [
+                    "Ti ringrazio per la considerazione che mi dimostri e che mi onora, mi fa piacere, ma tieni anche presente che sono una persona molto semplice, senza nessun titolo particolare di competenza o autorità, solo un po' di passione per la scrittura.",
+                    "anche io vivo in un piccolissimo paesino, addirittura in una frazione di questo paesino, in riva al mare. Da me però non c'erano pescatori.",
+                    "Sicuramente vengono dove vivo io. Li vedo questi nuvoloni neri. Io abito sulla costa orientale della Sardegna, a un tiro di schioppo dal porto di Arbatax.",
+                    "Tra l'altro Arbatax è una parola araba: arbaa taaschiar, che vuol dire quattordici. Era la quattordicesima torre costiera che i pirati tunisini contavano da quando risalivano la Sardegna da sud, partendo dalle loro coste e questo nome glielo diedero loro."
+                ]
+            ],
+            "timestamp": "2020-01-16T19:34:00Z",
+            "title": "Il rito dell'orizzonte",
+            "url": "https://www.writersdream.org/forum/forums/topic/45999-il-rito-dellorizzonte//?do=findComment&comment=812977",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7045,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 813113,
+            "text": [
+                "Ciao",
+                "Grazie per averlo letto e per il gradimento.",
+                "Ma ancora di più grazie, davvero tante, perché hai capito subito che quel bambino scontroso e solitario ero io e che quel carabiniere era mio padre.",
+                "A risentirci."
+            ],
+            "timestamp": "2020-01-17T14:16:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46012-ricordi-anche-cos%C3%AC//?do=findComment&comment=813113"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Ero molto piccolo, ricordo che abitavamo in un paese di campagna, una casa che mio padre aveva preso in affitto, con un grande cortile circondato da alte mura, con piante di arance in mezzo a grandi aiuole. Ancora non lo sapevo, ma avrei amato sempre luoghi del genere, chiusi, che non mi permettevano di vedere e di farmi vedere. Forse perché già intuivo che non ne valeva la pena, nessuno aveva da darmi quello che cercavo.",
+        "Il mio mondo era fatto di piccole cose, che per me erano tutto. Possedevo dei soldatini di plastica, una cosa che cominciava ad apparire imbarazzante in un epoca dove il calcio cominciava a trionfare ed era obbligo che tutti i bambini impazzissero dietro un pallone, come oggi impazziscono dietro un cellulare… A me non importava nulla del pallone. Preferivo intavolare lunghi discorsi con i miei soldatini appostati in mezzo al terriccio umido dove crescevano gli aranci, nelle belle giornate di primavera e d’estate. Ma stavo nel cortile praticamente in tutte le stagioni.",
+        "Ancora non andavo a scuola e dopo un breve periodo passato all’asilo mi ero rifiutato di continuare ad andarci. Non volevo avere a che fare con quella marmaglia puzzolente di mocciosi ignoranti. Mi ero reso animalescamente conto che non potevo contare sui miei coetanei per parlare delle mie fantasie.",
+        "Loro avevano fame di cibo, io di avventure. Due gusti che non si possono equiparare né avvicinare.",
+        "Ricordo la suora che ci faceva disegnare con tanto amore stucchevoli scene di favole di cui non m’importava niente. Ricordo il suo sguardo inorridito a mensa, dopo che un bambinetto mi rubò la banana dal mio cestino, mangiandosela davanti ai miei occhi con un sorriso di gioia porcina. Era sicuro che non avrei reagito, lui era il capo dei puzzolenti mocciosi e tutti avevano paura di lui. La suora era sicura che non avrei reagito, ero troppo educato, silenzioso, timido e pulito per reagire. Io presi il mio sgabello di legno e lo scaraventai in faccia al moccioso, causando un panico selvaggio a mensa. Ancora oggi non me ne pento.",
+        "Mio padre venne a prendermi. Era preoccupato per quello che avevo fatto, lo vedevo parlare sommessamente con la suora, come a scusarsi.",
+        "Io guardavo da un angolo e mi chiedevo cosa mi avrebbe detto. Mio padre non parlava molto. Era un carabiniere. Tornammo a casa con la sua bicicletta nera, che ancora conservo, pure smontata, Un giorno la rimetterò in sesto e uscirò a spasso e me ne frego se non ha le marce.",
+        "Durante il tragitto mi fece qualche domanda. Non ricordo bene. So solo che da quel giorno non tornai più all’asilo e ne fui felice.",
+        "Mi piaceva vedere mio padre quando tornava dal lavoro, sopra la sua inseparabile bicicletta. Scampanellava nella strada sterrata davanti a casa e poi entrava dal portone del cortile che a quei tempi si poteva lasciare aperto durante il giorno. Interrompevo i miei giochi e correvo in strada per vederlo salire pedalando con gioia, nella sua uniforme nera con la bandoliera bianca a tracolla, il berretto, il suo sorriso luminoso e rassicurante sotto i sottili baffetti neri.",
+        "Mi dava sempre un bacio e poi dava un bacio alla mamma, che usciva dalla cucina in cortile per accoglierlo. Io riprendevo a giocare.",
+        "C’era un bambino misterioso che si chiamava Michele. Era appena più piccolo di me, pantaloni corti e maglietta a righe, come me. Zoppicava. Anche lui solo e scontroso. Doveva entrare nel nostro cortile per accedere a casa sua. Cosa strana e per me affascinante, saliva una lunga scala di legno poggiata a un muro del cortile, fino ad arrivare in cima e scomparire. Talvolta c’era ad accoglierlo una donna con un fazzoletto nero in testa, sua madre, che gli sorrideva e allungava le braccia per aiutarlo nell’ultimo tratto. Cosa ci fosse oltre quel muro non lo sapevo.",
+        "Avevo chiesto a mia madre dove abitasse Michele e lei aveva indicato il muro. Ma non aveva una casa? Certo, oltre il muro. Ma non aveva una porta? Ma sì. Perché saliva la scala? Per fare prima, altrimenti doveva fare un lungo giro faticoso in una lunga strada. E lui era zoppo.",
+        "Avrei voluto parlare con Michele, ma non osai mai farlo, lo consideravo quasi superiore a me perché lui abitava addirittura oltre il muro. Inaudito.",
+        "Ricordo che una volta gli indicai i miei soldatini, sperando di incuriosirlo, fermarlo e convincerlo a giocare con me. Sentivo che mi era simile. Anche la sua andatura claudicante mi affascinava. Michele aveva guardato i soldatini, poi me e i miei occhi speranzosi. Aveva alzato le spalle e se ne era andato. Però coltivavo speranze di convincerlo a fermarsi, un giorno.",
+        "Mi piaceva vedere mio padre quando spaccava la legna per il camino.",
+        "Scendeva dalla sua bicicletta, mi dava il solito bacio, entrava in casa e poi lo vedevo uscire senza giacca e cravatta, con la camicia bianca e i pantaloni neri a bande rosse. Si rimboccava le maniche, prendeva la scure e cominciava a spaccare una montagna di ciocchi.",
+        "Quando Michele entrava in cortile mio padre si fermava e lo osservava in silenzio mentre saliva lentamente la scala. Sembrava tirare un sospiro di sollievo quando lo vedeva arrivare in cima e se c’era la madre alzava la mano in cenno di saluto, alla quale la donna rispondeva con un timido sorriso, chinando la testa.",
+        "Se fosse casa mia, diceva mio padre, avrei buttato giù quel muro da un bel po’ per far passare bene Michele.",
+        "Ma un giorno qualcosa cambiò. Ricordo che stavo in casa, mangiando qualcosa in cucina con mia madre. Sentimmo delle urla venire dal cortile. Mia madre si levò di scatto dicendomi di non muovermi e uscì.",
+        "Ma io non obbedii. C’erano uomini e donne nel cortile intorno alla scala dove saliva Michele. Una donna inginocchiata urlava. La madre di Michele e ai suoi piedi un corpicino, due gambe sollevate in modo scomposto, due piedi dentro sandali sporchi. Lei chinava la testa e la alzava in continuazione verso quel corpicino, urlando una specie di cantilena.",
+        "Sentii il rumore di una macchina, cosa inusuale, allora ce n’erano poche.",
+        "Una camionetta militare entrò in cortile con una nuvola di polvere. Scese mio padre e altri due carabinieri che corsero verso la scala. Altre urla disperate della madre di Michele.",
+        "Mi spiegarono che Michele era malato, ecco perché zoppicava. Quel giorno stava male, era debole. Quasi arrivato in cima alla scala era caduto, davanti alle braccia tese della madre. Era andato in paradiso, mi dissero. E io ci credetti allora come ci credo oggi. In paradiso non sarebbe mai più caduto. Non c’erano muri e i buoni potevano stare assieme senza doversi affrontare. Senza dover combattere. Come me che non volevo vedere nessuno, come i miei soldatini. Però mi accorsi della mancanza di quel mio sfortunato coetaneo, ma non mi piace dire coetaneo, dico bambino mio. Come amico mio. Amico che non è potuto essere. Non lo avrei salvato, era scontroso e solitario come me, ma avrei voluto condividere un po’ di vita, un po’ di sogni con lui. Mi avrebbe fatto felice e forse lo sarebbe stato anche lui. E mi dispiace ancora oggi.",
+        "Ma che ricordi che mi son venuti in mente stasera, così uno dietro l’altro. Non aiutano. Non aiutano."
+    ],
+    "timestamp": "2020-01-16T19:46:17Z",
+    "title": "Ricordi anche così",
+    "topic_id": 46012,
+    "url": "https://www.writersdream.org/forum/forums/topic/46012-ricordi-anche-cos%C3%AC/"
+}

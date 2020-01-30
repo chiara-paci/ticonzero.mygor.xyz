@@ -1,0 +1,250 @@
+{
+    "author": {
+        "author_id": 30259,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Garrula",
+        "url": "https://www.writersdream.org/forum/profile/30259-garrula/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "In questa prima parte trovo tu abbia abusato delle epifore. La tensione poetica fa perdere slancio a quella narrativa.",
+                    "Quel “l’incontrava”, per esempio, porta chi legge fuori strada, nascondendo l’oggetto della frase. Gli arcaismi, le elisioni artistiche e desuete, non arricchiscono il testo ma lo incrostano di pseudopreziosismi, che rendono macchinosa la lettura.",
+                    "Questa frase presenta la ripetizione di financo, termine che già di suo è antico, ed è tutto un intrecciarsi di relative e subordinate. Non comunica con chiarezza l’idea di languore, quanto un ingarbugliamento dell’idea alla base. L’idea che hai avuto, di una madre che osteggia il talento del figlio proprio perché gli effetti di quel talento sono su di lei devastanti, mi sembra buona e originale. Però se mi rimetto a pensare a cosa hai raccontato non trovo un’immagine da conservare nella mia testa, proprio perché anche quelle poche azioni che tu hai tratteggiato sono composte da corpi contorti, ma fragili.",
+                    "Il finale, per esempio, si chiude con una frase molto forte, carica di amarezza. Eppure prima compare “che era costretto ad ingollare pur di soffocare ogni emerso istinto au ﻿ to-punitivo” e mentre l’ultima frase arriva io sono ancora lì a pensare a quali emersi istinti auto-punitivi (autolesionistici?) stessero tormentando il bambino neo-adulto.",
+                    "Se la storia è forte e le immagini chiare non credo serva rifugiarsi nell’estetica per catturare i lettori.",
+                    "Con questo non voglio dire che si debba per forza adeguare i propri testi ad un registro basso, sempre lineare e privo di virtuosismi lessicali e sintattici. Da lettrice però posso dire che tutte queste acrobazie, se vengono eseguite una di fila all’altra, senza sosta, rischiano di annoiare."
+                ]
+            ],
+            "timestamp": "2020-01-09T14:06:21Z",
+            "title": "Ciò che una madre dovrebbe intuire",
+            "url": "https://www.writersdream.org/forum/forums/topic/44187-ci%C3%B2-che-una-madre-dovrebbe-intuire//?do=findComment&comment=811246",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5834,
+    "num_commenti": 1,
+    "num_posts": 24,
+    "post_after": [
+        {
+            "post_id": 811249,
+            "text": [
+                "Genere sentimentale, prima traccia, scusate!"
+            ],
+            "timestamp": "2020-01-09T14:15:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811249"
+        },
+        {
+            "post_id": 811262,
+            "text": [
+                "Ciao , grazie per la lettura e le impressioni.",
+                "Esattamente 😊",
+                "Hai ragione, dovrei limitare gli incisi. Adotterò la tua soluzione.",
+                "Grazie ancora!"
+            ],
+            "timestamp": "2020-01-09T15:23:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811262"
+        },
+        {
+            "post_id": 811626,
+            "text": [
+                "Ciao ! Nel finale mi riferivo alle gabbiette per i tappi dello spumante, che possono sembrare gabbiette o tavolini a seconda di quanta droga si assume della propria fantasia",
+                "Grazie per il commento!"
+            ],
+            "timestamp": "2020-01-11T17:07:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811626"
+        },
+        {
+            "post_id": 811637,
+            "text": [
+                "Ciao ,",
+                "nell’incipit sono partita da quello che succede in generale, in qualsiasi tempo, quando si butta un sacchetto dell’immondizia, da qui il presente nella prima parte.",
+                "Per quanto riguarda le domande irrisolte, i nessi logici probabilmente erano logici solo per me.",
+                "-Anna ha indosso delle ciabatte di spugna in mezzo alla strada, è impresentabile, quindi si scusa",
+                "-Dopo la portiera che sbatte, lei rimane in mezzo alla strada a guardare una strada vuota (il tutto visto dal punto di vista di Carlo, che sente il dialogo prima senza guardare, da cui il corsivo)",
+                "-La donna viene prima abbandonata, poi si mette a piangere, poi alza il sacchetto per chiedere a Carlo la chiavetta",
+                "-Anche quel “lo sono tutti” si riferisce all’universale, siamo tutti schifati quando teniamo in mano un sacchetto della spazzatura",
+                "La seconda parte del testo è stata scritta dopo, probabilmente ho pasticciato durante la fusione.",
+                "Più probabilmente sono solo castrona."
+            ],
+            "timestamp": "2020-01-11T17:40:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811637"
+        },
+        {
+            "post_id": 811826,
+            "text": [
+                "Ciao , grazie grazie!",
+                "Credo tu abbia ragione, provvederò!"
+            ],
+            "timestamp": "2020-01-12T12:52:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811826"
+        },
+        {
+            "post_id": 811834,
+            "text": [
+                "Ciao !",
+                "Il marito di Anna non voleva liberarsene proprio in quell’occasione, ma il litigio mentre buttavano la spazzatura è stata l’ultima goccia (del secco )"
+            ],
+            "timestamp": "2020-01-12T13:43:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811834"
+        },
+        {
+            "post_id": 812070,
+            "text": [
+                "Ciao ,",
+                "Grazie, almeno tu! 😂 per quanto mi riguarda i rifiuti sono il motore e il carburante della storia, ma il messaggio non sarà passato.",
+                "È un tipo di differenziata, in provincia di Venezia abbiamo la divisione in plastica/vetro, carta, ramaglie e tutto il resto va nel secco. In effetti non avevo pensato che potesse non essere un’informazione nota!",
+                "Grazie del passaggio e del commento 😊"
+            ],
+            "timestamp": "2020-01-13T14:02:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=812070"
+        },
+        {
+            "post_id": 812071,
+            "text": [
+                "Ciao ,",
+                "Grazie",
+                "Hai ragione, molti passaggi vanno chiariti, ci lavorerò su! ✨"
+            ],
+            "timestamp": "2020-01-13T14:03:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=812071"
+        },
+        {
+            "post_id": 812107,
+            "text": [],
+            "timestamp": "2020-01-13T15:10:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=812107"
+        },
+        {
+            "post_id": 812109,
+            "text": [
+                "ho riso un sacco, grazie"
+            ],
+            "timestamp": "2020-01-13T15:10:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=812109"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 811627,
+            "text": [
+                "Da quello che ho capito abbiamo un uomo che ruba la spazzatura per capire come vivono le altre persone. Non per semplice curiosità, ma per costruirsi una vita sulla base delle informazioni rubate ai rifiuti. Non condivide la propria vita con gli altri, è un trasferimento a senso unico: attraverso la spazzatura crea dei legami con gli altri inquilini, ma senza che questi ne sappiano nulla. Questo naturalmente finché non entra in scena Anna. Nel finale capiamo che che il protagonista tenterà di conoscere davvero la donna, di non limitarsi a rubarne i rifiuti quando lei si allontana, ma di avvicinarsi per guadagnarsi qualcosa di più importante. E anche per condividere, come rivela la frase finale. Raccoglierà Anna e la terrà con sé, come già aveva fatto col gatto. La compagnia di un animale è un passaggio intermedio per molte persone sole.",
+                "Ci sono delle scene che però non mi sono affatto chiare, punti che ho riletto più volte ma non riesco proprio a capire.",
+                "Parti così. Io non conosco ancora Carlo, e qui penso subito che queste azioni (passare la busta da una mano all’altra, aprire il bidone, ecc) siano svolte dal protagonista. Poi però ci dici che Carlo i sacchetti li recupera, non li butta. Quindi chi è che butta la spazzatura? Uno che lui spia da lontano, giusto?",
+                "Ritiro tutto, dici che non guarda mai chi butta la spazzatura. Allora non capisco.",
+                "Capisco il restauratore, ma perché falsario?",
+                "La portiera che sbatte è l’uomo che chiude e... riparte? Immagino di sì perché se poi dici “Non è tornato nessuno” significa che qualcuno è partito. Però mi sembra una scena davvero difficile da visualizzare o almeno io ho avuto delle difficoltà. Da lettore non mi piacciono i testi troppo descrittivi, quelli in cui per ogni scena viene mostrato ogni gesto e il rumore dei muscoli e l’odore del sudore che scende lungo una vena, eccetera... qui però non riesco proprio a costruirmi un’immagine.",
+                "Mi scusi perché? Da quel che ho capito stanno su un marciapiede, lei davanti a un bidone, lui pure per prendersi il gatto. Per quale motivo lei sente il bisogno di giustificarsi? Poi capisco che si sta scusando per le lacrime, e forse all’inizio mi ha confuso quel “doveva essere un’uscita veloce”, che sembra davvero una giustificazione, come quando è il tuo turno alla cassa del supermercato e non trovi il portafoglio e per scusarti con chi viene dopo di te dici: “Scusate eh, ho preso due cose in croce, volevo fare veloce, e invece....”",
+                "Lo striscio rosso è un taglio da cui esce il sangue. Ma il taglio taglia le venuzze? Mmm, è un’altra immagine che mi confonde.",
+                "Gabbietta o tavolino? Sono due oggetti differenti, ma a quanto pare somigliano entrambi a un terzo oggetto, questo.",
+                "Insomma, vedo tante macchie confuse e anche se alla fine sono riuscito a ricostruire un’immagine nitida, ho comunque fatto fatica a orientarmi.",
+                "Mi confondono anche i tempi verbali.",
+                "Presente",
+                "Imperfetto",
+                "Trapassato, che starebbe bene se tutta la narrazione fosse al passato.",
+                "Trapassato, di nuovo giusto se scrivi tutto al passato.",
+                "Passati prossimi che non capisco. Siamo sempre nel passato rispetto al passato, nel trapassato della portiera sbattuta. Come facciamo a saltare in avanti?",
+                "Presente, addirittura. Siamo sempre lì.",
+                "Descrivi una sola scena: portiera che sbatte, donna che piange, donna che solleva il sacchetto, ma queste tre semplici azioni che avvengono nello stesso tempo vengono descritte con tre tempi verbali differenti. Non riesco proprio a trovare una coerenza, ma forse a questo punto ho capito male la storia. Insomma, inizi a narrare al presente, poi decidi di usare il passato, racconti un evento già accaduto usando il trapassato, ma poi quello stesso evento sfuma nel passato e infine addirittura nel presente. Non capisco davvero come dare un senso alla cosa, per ora."
+            ],
+            "timestamp": "2020-01-11T17:08:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811627"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 811629,
+            "text": [
+                "Per concludere, mi è piaciuta molto l’idea sulla quale hai creato il tuo personaggio. Mi piace anche il finale. Belle tutte le idee, davvero fantasiose, come spesso ne trovo nei tuoi racconti. È una storia decisamente nelle mie corde, ma alcuni aspetti formali del testo mi hanno affaticato più del previsto."
+            ],
+            "timestamp": "2020-01-11T17:16:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone//?do=findComment&comment=811629"
+        }
+    ],
+    "text": [
+        "Traccia: rifiuti",
+        "Attorno al bidone",
+        "Quando gocciola un sacchetto del secco è sempre un mistero.",
+        "Il nodo del sacco passa da una mano schifata all’altra, mentre gocce incolori segnano la strada verso la pattumiera.",
+        "Click, entra la chiavetta. Clonk, la bocca del bidone si spalanca.",
+        "Tunf; il sacchetto è morto, col suo mistero liquido lungo il marciapiede.",
+        "A Carlo è sempre piaciuto risolvere questi misteri.",
+        "Certo, una volta era più facile, perché i bidoni si aprivano, i sacchetti si ispezionavano con calma, prima di essere ricomposti e buttati, le cose interessanti salvate. Qualche volta a gocciolare era una scatoletta di tonno, altre un souvenir, il vetro incrinato e una torre di Pisa imbiancata, con la neve senza liquido adagiata come muffa.",
+        "Carlo non guardava mai chi si avvicinava ai bidoni durante il giorno, era una questione di pudore: non voleva guardare in faccia quelli a cui avrebbe rubato un pezzetto di vita.",
+        "Che poi, non era mica rubare.",
+        "Non era rubare raccattare gli scontrini accartocciati, sporcandosi le mani di piombo, per capire quanta farina acquista, di norma, una persona sola. E fare lo stesso.",
+        "Non era neanche rubare ispezionare le bucce scivolate dal cestino dell’umido della famiglia indiana del quarto piano, annusarlo con attenzione per capire quale curry si adatti meglio alle patate.",
+        "Non era un ladro, lui. Un restauratore, semmai. Al massimo un falsario.",
+        "Accanto al suo bidone preferito un giorno era stato buttato uno scatolone. Dentro c’era un micio, grande come un pugno e con gli occhi chiusi. Per fortuna tempo prima Carlo aveva raccolto con cura, spazzola e paletta alla mano, del latte in polvere dal cemento. Da quando la gattara del palazzo era morta, in lui era fiorita una nuova competenza in fatto di svezzamento. Aveva ricavato le dosi da un brandello di confezione, graffiato forse da una neo-mamma micia inquieta.",
+        "Il gatto era venuto su sbilenco, ma vivo.",
+        "Sgusciava fuori dall’appartamento di Carlo - porta dipinta di rosso veneziano, lo stesso colore del cavalluccio a dondolo dei gemelli del quinto piano, ora trentenni - e ondeggiava in strada, le zampe lunghe e magre che si incrociavano a ogni passo. Si fermava davanti ai bidoni. Aspettava.",
+        "Carlo non lo capiva, quel gatto. Tanta fatica per dargli una nuova vita, dopo che era stato buttato via, e ancora tutto intero, tra l’altro, e quello se ne tornava ai bidoni.",
+        "Ingrato , gli soffiava, mentre raccoglieva l’incarto di una caramella. Sarebbe diventata senz’altro una delle sue preferite, perché persino la carta interna era ciucciata del tutto.",
+        "Ma il gatto non gli rispondeva. Quando non guardava la strada leccava con perizia le goccioline del secco di chi era passato di là. Non sobbalzava a nessun click. Né ai clonk. Tantomeno ai tunf.",
+        "In fondo era un bravo gatto.",
+        "Quando venne buttata via la signora Anna il gatto era lì. Carlo era andato a riprenderselo, con addosso la giacca di tweed più bella posseduta ai tempi dal Marietto del piano terra, ormai defunto. L’odore di naftalina era lieve, persino piacevole, attutito da quello di una saponetta che era stata messa in una tasca e poi dimenticata là.",
+        "Anna era uscita dalla macchina per buttare un sacchetto, ma non aveva la chiavetta.",
+        "Ti ho detto che te l’ho data, cretina.",
+        "Ti dico di no, tesoro, davvero.",
+        "Mi prendi per stupido? Sempre così, sempre così, sei proprio una stronza. Aveva ragione Elena, mi tratti come una merda. Vaffanculo.",
+        "Chi è Elena?",
+        "La portiera era stata fatta sbattere con forza. Anche la signora Anna ora guardava la strada, in attesa.",
+        "Non è tornato nessuno. Mentre piangeva, senza un suono, le lacrime scendevano sulle ciabatte di spugna. Aveva i piedi gonfi, cinquant’anni.",
+        "«Doveva essere un’uscita veloce» ha detto a Carlo, senza guardarlo. «Mi scusi» ha aggiunto.",
+        "Il gatto le si è avvicinato; si è strusciato sulle sue gambe, pelliccia rachitica su vene varicose.",
+        "Ha leccato le lacrime dal cemento, una per volta, con calma, per poi sparirsene dietro alla campana della plastica. Un ultimo guizzo della coda pulisci-pipe ed è come se non ci fosse mai stato.",
+        "«Non si deve scusare, si figuri. Recupero il gatto e la lascio tranquilla.» È da un po’ che non parla con qualcuno. «Si prenda tutto il tempo che vuole».",
+        "Il bavero della giacca di tweed, a sinistra, freme. Certo che può prendersi tutto il tempo che vuole, è suolo pubblico, lei ha un sacchetto dell’immondizia in mano, anche se è in ciabatte nessuno potrà dirle nulla.",
+        "«Lei ce l’ha?»",
+        "«Il tempo?»",
+        "«Una chiavetta. Poi magari anche un telefono, ma almeno questo non lo voglio più vedere.»",
+        "Solleva il sacchetto della spazzatura tenendone il nodo tra due dita. È schifata. È normale che lo sia. Lo sono tutti.",
+        "«Certo».",
+        "Click, clonk, tunf. Il sacchetto è sparito. Forse il gatto spera in qualche leccornia, perché se ne esce da dietro il bidone. Si struscia di nuovo sulle gambe di lei. Anna fa un passo indietro, mentre uno striscio rosso taglia con sempre più convinzione le venuzze violacee di una sua caviglia.",
+        "«Grazie gatto, mi mancava».",
+        "Quando lei allunga una mano, il micio cede il suo tesoro senza problemi; Anna solleva in alto quella che sembra essere una gabbietta dorata, microscopica, per il canarino più piccolo del mondo.",
+        "«Oh, un tavolino».",
+        "Carlo la guarda, non riesce a non farlo. Si dimentica del pudore, mentre l’interesse per la vita della donna lo inghiotte come il bidone.",
+        "«Da piccola li cercavo sempre, sa? Li mettevo alle finestre, tutti quelli che riuscivo a trovare. Era il mio piccolo ristorante per le fate. Ogni tanto ci appoggiavo anche dei tappi di bottiglia pieni di acqua e zucchero, non volevo lasciarle a bocca asciutta».",
+        "«Sono mai venute?»",
+        "«Ha importanza?»",
+        "No, non ne ha. Ma a Carlo piace questa immagine delle fate che banchettano su tavolini salvati dalla spazzatura. Lui avrebbe segnato anche i tipi di spumante, ma c’è tempo per tutto.",
+        "E forse, da qualche parte, anche un paio di ciabatte asciutte."
+    ],
+    "timestamp": "2020-01-09T14:14:08Z",
+    "title": "[N2019-3B] Attorno al bidone",
+    "topic_id": 45908,
+    "url": "https://www.writersdream.org/forum/forums/topic/45908-n2019-3b-attorno-al-bidone/"
+}
