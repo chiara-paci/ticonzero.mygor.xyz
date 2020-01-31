@@ -1,0 +1,90 @@
+{
+    "author": {
+        "author_id": 35757,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Eli_♡",
+        "url": "https://www.writersdream.org/forum/profile/35757-eli_%E2%99%A1/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Mario!",
+                    "Ho letto con piacere questo componimento e tento di lasciare un commento (anche se è la prima volta che interagisco in questa sezione e mi sono imbattuta in recensioni talmente accurate che temo di non essere in grado di fare altrettanto).",
+                    "Ma partiamo...",
+                    "Intanto complimenti, è davvero un bel componimento perché, sebbene io abbia la fortuna di non aver mai subito un vero attacco di panico, sono riuscita ad immedesimarmi facilmente nella situazione descritta. Nonostante la brevità della poesia, i versi raggiungono facilmente l'obiettivo di trasportare il lettore in questa dimensione di angoscia ingovernabile. Nell'immagine di un soggetto invaso da una sensazione di panico, proprio questa sensazione prende il sopravvento tanto da diventarne protagonista e nei tuoi versi è proprio ciò che accade: non tu narratore, ma lui, il panico, diviene l'elemento principale.",
+                    "Mi piace lo stile utilizzato ed ho apprezzato anche la chiusa finale \"sale, sale, sale\", che aggiunge pathos, perché da continuità al testo... Come se, nonostante il componimento sia finito, la sensazione di angoscia e paura prendesse \"in ostaggio\" il lettore anche a lettura terminata.",
+                    "Queste sono le sensazioni che mi ha dato.",
+                    "Purtroppo non riesco ad essere più tecnica, perché non ne ho le basi..."
+                ]
+            ],
+            "timestamp": "2020-01-31T10:30:14Z",
+            "title": "Panico",
+            "url": "https://www.writersdream.org/forum/forums/topic/46111-panico//?do=findComment&comment=815798",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 491,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Un giorno",
+        "ho scelto di cambiare.",
+        "Una sera",
+        "respirando l'aria",
+        "profumata di mare.",
+        "Perché anche la sabbia",
+        "che ti avvolge",
+        "prima o poi",
+        "decide di andare...",
+        "Danzerò sotto le stelle",
+        "negli occhi la luna",
+        "sulle labbra il sale",
+        "il vento sulla pelle.",
+        "Danzerò leggera",
+        "come un aquilone",
+        "lo sguardo al cielo",
+        "ridendo senza ragione.",
+        "Lascerò che l'acqua",
+        "mi scivoli addosso",
+        "graffiante",
+        "nell'aria gelida di novembre.",
+        "Prenderò in mano",
+        "una matita",
+        "e col garbo che scivola",
+        "fra le dita",
+        "traccerò le linee",
+        "di un domani",
+        "scritto soltanto",
+        "da queste mani."
+    ],
+    "timestamp": "2020-01-31T10:37:49Z",
+    "title": "Cambiare",
+    "topic_id": 46176,
+    "url": "https://www.writersdream.org/forum/forums/topic/46176-cambiare/"
+}
