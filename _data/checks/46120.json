@@ -69,7 +69,7 @@
     },
     "num_chars": 9843,
     "num_commenti": 2,
-    "num_posts": 8,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 815250,
@@ -93,6 +93,14 @@
             ],
             "timestamp": "2020-01-30T07:44:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46120-andrej//?do=findComment&comment=815489"
+        },
+        {
+            "post_id": 815702,
+            "text": [
+                "No, la nonna chiede se l'idea della lettera sia di Carlo. Andrej risponde di sì e che gliel'ha suggerito il pomeriggio precedente. Ma senza un riferimento è difficile capirlo. Grazie per tutti i suggerimenti!"
+            ],
+            "timestamp": "2020-01-30T21:02:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46120-andrej//?do=findComment&comment=815702"
         }
     ],
     "post_staff": [],

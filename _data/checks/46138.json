@@ -55,8 +55,17 @@
     },
     "num_chars": 3805,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 815726,
+            "text": [
+                "Grazie mille. Quanto al WTF ho in serbo qiualcosa di veramente orrido per quando sarà il momento."
+            ],
+            "timestamp": "2020-01-30T22:49:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46138-sospensione-dellincredulit%C3%A0//?do=findComment&comment=815726"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Stavo leggendo per l’ennesima volta Pinocchio, il mio libro preferito, quando improvvisamente sentii un antipatico formicolio nella zona del cranio in cui risiede l’emisfero cerebrale sinistro. Questi, come tutti sanno, presiede ai movimenti volontari della parte destra del corpo dell'uomo e, per quanto riguarda i suoi due organi perfettamente al centro, controlla la narice destra del naso e il pene con scappellamento destrorso. Come se non avesse già abbastanza da fare, sovraintende anche alle funzioni del ragionamento logico e a quelle del pensiero analitico.",
