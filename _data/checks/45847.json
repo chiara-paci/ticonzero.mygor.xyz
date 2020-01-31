@@ -50,7 +50,7 @@
     },
     "num_chars": 907,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 811176,
@@ -59,6 +59,14 @@
             ],
             "timestamp": "2020-01-08T19:45:47Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45847-cassandra-lavorava-sodo//?do=findComment&comment=811176"
+        },
+        {
+            "post_id": 815895,
+            "text": [
+                "Ciao , e . Grazie mille per i vostri commenti e suggerimenti. Mi fa piacere abbiate colto il senso del componimento. In effetti mi è già stato detto che assomiglia più a un piccolo racconto che a una poesia. Ultimamente mi escono così Scusate se vi rispondo solo ora ma per un po' ho avuto problemi col pc."
+            ],
+            "timestamp": "2020-01-31T18:02:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45847-cassandra-lavorava-sodo//?do=findComment&comment=815895"
         }
     ],
     "post_staff": [],
