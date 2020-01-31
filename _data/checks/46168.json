@@ -48,7 +48,7 @@
     },
     "num_chars": 4686,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 6,
     "post_after": [
         {
             "post_id": 815752,
@@ -73,6 +73,23 @@
             ],
             "timestamp": "2020-01-31T07:55:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46168-la-terrazza-che-del-mare-s%C3%A8-invaghita//?do=findComment&comment=815752"
+        },
+        {
+            "post_id": 815906,
+            "text": [
+                "Ciao",
+                "Non preoccuparti tanto nemmeno io amo il rosa. Le cose smielate e patetiche, \"strappalacrime\" non piacciono nemmeno a me",
+                "Il rosa non è proprio il mio genere. Diciamo che mi sono forzato un po': è solo un esperimento",
+                "Ci provo ogni tanto",
+                "Eppure, riflettendoci, tutte le ragazze che ho avuto avevano gli occhi verdi. L'unica che aveva gli occhi marroni mi ha lasciato dopo tre mesi: ha trovato un altro e… ok, puoi immaginare",
+                "Effettivamente…",
+                "Lei lo guarda, almeno nella realtà mi guardava",
+                "Quel posto era carissimo: la serata mi è costata 'na cifra. A giudicare da quanto mi hanno \"estorto\", i soldi per i tovaglioli ultra-strong ce li avevano sicuramente",
+                "Grazie per il commento, per aver letto il mio travagliato (e un po' irreale) racconto e per l'apprezzamento.",
+                "A rileggersi, sorella WDiana, buona scrittura"
+            ],
+            "timestamp": "2020-01-31T19:42:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46168-la-terrazza-che-del-mare-s%C3%A8-invaghita//?do=findComment&comment=815906"
         }
     ],
     "post_staff": [],
