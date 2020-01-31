@@ -48,8 +48,17 @@
     },
     "num_chars": 807,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 815827,
+            "text": [
+                "Ciao , grazie di cuore per aver commentato. Ho apprezzato sia la riflessione e la capacità di immedesimazione, sia i consigli finali. Spero di leggerti presto!"
+            ],
+            "timestamp": "2020-01-31T13:33:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46114-sai//?do=findComment&comment=815827"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Sai che ci vuole fatica",

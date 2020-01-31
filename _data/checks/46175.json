@@ -43,11 +43,20 @@
     },
     "num_chars": 1059,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 815839,
+            "text": [
+                "Ciao Charlie. Cosa non ti è chiaro delle frasi? Per i vocaboli non posso intromettermi nei gusti degli altri, quindi non oso neanche chiedere il perché. Sinceramente, l'unica tua affermazione che mi lascia perplesso è: \"ho fatto fatica a capire l'inizio e la fine di un pensiero\". Ripeto, dal mio punto di vista, mi sembra assai semplice la comprensione ed è l'unica critica che mai mi sarei aspettato per \"i bicchieri\". Grazie del tuo commento e spero che soddisferai questa mia curiosità con un approfondimento. A presto."
+            ],
+            "timestamp": "2020-01-31T14:13:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46175-i-bicchieri//?do=findComment&comment=815839"
+        }
+    ],
     "post_staff": [],
     "text": [
-        "I BICCHIERI",
+        "I bicchieri",
         "No, non sono l'uomo",
         "che credi io sia.",
         "Per scarpe indosso nuvole,",
@@ -88,7 +97,7 @@
         "in un sorso di follia."
     ],
     "timestamp": "2020-01-31T10:21:04Z",
-    "title": "I BICCHIERI",
+    "title": "I bicchieri",
     "topic_id": 46175,
     "url": "https://www.writersdream.org/forum/forums/topic/46175-i-bicchieri/"
 }

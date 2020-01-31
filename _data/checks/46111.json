@@ -47,7 +47,7 @@
     },
     "num_chars": 258,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 814874,
@@ -56,6 +56,32 @@
             ],
             "timestamp": "2020-01-26T07:54:20Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46111-panico//?do=findComment&comment=814874"
+        },
+        {
+            "post_id": 815868,
+            "text": [
+                "Grazie a , e per il vostro apprezzamento!"
+            ],
+            "timestamp": "2020-01-31T16:09:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46111-panico//?do=findComment&comment=815868"
+        },
+        {
+            "post_id": 815871,
+            "text": [
+                "Ciao ti ringrazio innanzitutto per il tuo interessamento e l'analisi accurata del mio componimento. La metafora della scala nasce dal racconto di una mia collega, che alcuni giorni fa mi ha descritto un suo colloquio con la figlia di circa 10 anni. La bambina le ha chiesto: - mamma che cos'è l'eternità? esiste la vita dopo la morte?- La madre inizialmente non ha saputo bene cosa rispondere alla figlia, e la bambina le ha confessato che immaginava l'eternità come una scala che saliva rapidamente verso l'alto senza avere mai fine. Questa immagine le causava molta angoscia e veramente non ci dormiva la notte... Questo racconto mi ha innescato l'immagine come esempio di panico o di una figura angosciosa. Anche io fortunatamente non ho sofferto di attacchi di panico, ma sono un neurologo e di racconti di pazienti ne ho ascoltati tantissimi. Spero di aver trasmesso il dramma con cui vengono vissuti.",
+                "Grazie ancora per il tempo che mi hai dedicato."
+            ],
+            "timestamp": "2020-01-31T16:17:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46111-panico//?do=findComment&comment=815871"
+        },
+        {
+            "post_id": 815874,
+            "text": [
+                "Grazie , non importa se nel tuo commento non hai affrontato aspetti tecnici, sono più interessato alle impressioni e sentimenti che il mio componimento ti ha trasmesso, e sono molto contento che il messaggio che volevo comunicare sia passato.",
+                "A presto"
+            ],
+            "timestamp": "2020-01-31T16:19:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46111-panico//?do=findComment&comment=815874"
         }
     ],
     "post_staff": [],
