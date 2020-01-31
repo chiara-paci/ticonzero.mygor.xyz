@@ -49,8 +49,18 @@
     },
     "num_chars": 491,
     "num_commenti": 1,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 815919,
+            "text": [
+                "Ti ringrazio per aver lasciato la tua opinione. Mi fa piacere che tu abbia trovato la lettura positiva. L'idea che volevo dare era proprio un misto fra voglia e necessità, diciamo pure una necessità che ti dà la spinta di agire con volontà, quindi spontaneamente anziché forzatamente.",
+                "Per quanto riguarda la metrica in effetti forse non convince del tutto neppure me... Direi che sono nel posto giusto, questa è una palestra letteraria e tutto ciò che gli utenti avranno da suggerirmi mi aiuterà a migliorare! ;-)"
+            ],
+            "timestamp": "2020-01-31T21:42:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46176-cambiare//?do=findComment&comment=815919"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Un giorno",
