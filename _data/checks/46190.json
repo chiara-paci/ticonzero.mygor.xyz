@@ -12,13 +12,29 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 0.8555555555555555,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8555555555555555
+            },
+            "text": [
+                [
+                    "Ciao, bel racconto. Ho solo un paio di appunti: quando dici: \"ho avuto l’impressione che nella mia testa sobbollissero una miriade di pensieri, per fluire fuori dai miei occhi secchi, e la fronte ha iniziato a farmi male\",n on mi è piaciuto tanto, questo periodo mi ha affaticato la lettura, forse puoi cercare di dare lo stesso effetto usando molte meno parole. Un'altra cosa che non mi ha convinto è: \"Le chiamo così solo perché è più facile che ricordarmi ogni giorno che hanno fatto amicizia nel reparto oncologia\". Questo che ricordarmi ogni giorno che suona proprio male, anche qui ti consiglierei di usare un altro giro di parole. Comunque bello, anche il clima con cui hai scelto di trattare l'incubo-sogno. Di solito una persona che fa un sogno del genere viene colta dall'angoscia, tu invece hai scelto di dargli un taglio di sconfitta: l'ho trovato originale."
+                ]
+            ],
+            "timestamp": "2020-02-01T10:09:19Z",
+            "title": "Nei piccoli sogni",
+            "url": "https://www.writersdream.org/forum/forums/topic/46187-nei-piccoli-sogni//?do=findComment&comment=815975",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 27,
@@ -26,8 +42,8 @@
         "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 7357,
-    "num_commenti": 0,
-    "num_posts": 1,
+    "num_commenti": 1,
+    "num_posts": 3,
     "post_after": [],
     "post_staff": [],
     "text": [

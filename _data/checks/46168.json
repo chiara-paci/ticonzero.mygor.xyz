@@ -48,7 +48,7 @@
     },
     "num_chars": 4686,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 815752,
@@ -90,6 +90,17 @@
             ],
             "timestamp": "2020-01-31T19:42:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46168-la-terrazza-che-del-mare-s%C3%A8-invaghita//?do=findComment&comment=815906"
+        },
+        {
+            "post_id": 816009,
+            "text": [
+                "Ciao, , ben trovato",
+                "Hai reso benissimo l'idea: anzi, la tua osservazione è molto intelligente. Sì, in effetti si sente la mancanza di qualcosa: una riga in più per \"riempire\" il salto temporale sarebbe stata una buona idea, a pensarci bene",
+                "A te",
+                "Grazie per il commento e per l'apprezzamento, a rileggerci"
+            ],
+            "timestamp": "2020-02-01T14:00:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46168-la-terrazza-che-del-mare-s%C3%A8-invaghita//?do=findComment&comment=816009"
         }
     ],
     "post_staff": [],

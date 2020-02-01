@@ -12,13 +12,42 @@
     },
     "checks": {
         "num_chars": false,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao capitano, bentrovato! È da un po' che non ti leggo. Mi ha incuriosito tanto il titolo ed eccomi qui.",
+                    "Perché ha scelto di virgolettare il nomignolo? Anche nel titolo. Toglierei le virgolette, non servono. So che è il tuo stile e che ti piacciono le frasi lunghe, ma secondo me l'incipit deve essere d'impatto ed è meglio spezzare le frasi. Prima di passare ai suggerimenti riguardo alla punteggiature, ho una domanda. Ruespu significa qualcosa nel dialetto brindisino? Dalla frase di apertura ho intuito — potrei però sbagliare — che il nomignolo deriva dal fatto che la voce di Luciano si potesse sentire anche da lontano. Se fosse così, potresti sistemare la frase diversamente: Ruespu era il nomignolo che la gente di mare brindisina aveva dato a Luciano perché la sua inconfondibile voce si poteva sentire a grande distanza. Non ho mai saputo quali fossero le sue origini. Nella sua particolare presenza appariva come un impavido e forte guerriero vichingo. Quasi tutti i componenti della sua famiglia avevano (davano non mi convince) quell'aspetto.",
+                    "Metterei una virgola dopo loro e Grecia.",
+                    "Ruespu, rampollo di una stirpe di forzuti e temerari marinai ed eccellenti palombari, era mio grande amico o per meglio dire fratello maggiore.",
+                    "Le nostre case erano distanti una manciata di minuti. La sua si distingueva dalle altre da una tuta da palombaro stesa ad asciugare al sole. Nonostante siano passati sessant'anni, ricordo bene quell'attrezzo subacqueo che da lontano dava l'impressione di un uomo con la testa sottoterra.",
+                    "Nessuno di loro era ricco, tuttavia mostravano una grande dignità. Li conoscevo quasi tutti, incominciando dal patriarca, un uomo enorme dalla voce cavernosa e potente, il cui aspetto intimoriva i miei occhi da ragazzo. Teneva il labbro bruciato dal mozzicone di sigaretta perennemente accesa tra le labbra.",
+                    "Insomma, gente dalla salute di ferro consumata in mare. La loro presenza incuteva rispetto. Da ragazzo li ammiravo e devo a essi una buona parte del mio sviluppo comportamentale.",
+                    "Luciano amava insegnare a tutti a nuotare. Il suo metodo molto semplice ma bruttale consisteva nell'afferrare colui che non sapeva nuotare e gettarlo in mare. In un primo momento pensai male, prendendolo per un arrogante (togli prepotente, sono sinonimi e due aggettivi appesantiscono la frase), ma osservandolo con più attenzione, mi accorsi che stava molto attento alla sicurezza dell'allievo. (Ho eliminato colui che veniva gettato in mare, è la ripetizione del concetto espresso all'inizio del paragrafo) Appena si immergeva col suo scafandro, andavo in apnea a fargli visita sott'acqua, rendendolo furioso quando gli bussavano con le mani sull'elmo da palombaro.",
+                    "Questo paragrafo è un po' confuso. Anche qui una maggiore attenzione alla punteggiatura avrebbe reso la narrazione più fluida. Così: Un giorno che ricordo molto bene perché avevo l'intenzione di andarlo a sfottere sott'acqua, fece finta di non avermi visto, nascosto sul fondale. Quando mi tufai per attuare il solito scherzo, non riuscivo a trovare né lui né le bollicine da palombaro. Emersi immediatamente per dare l'allarme ma gli altri, evidentemente già d'accordo con Ruespu, mi pregarono di cercarlo più intensamente per poterlo salvare da morte certa. A queste parole, mi immersi disperato facendomi quasi scoppiare i polmoni. Anche se ero molto giovane, avevo acquistato una grande resistenza in apnea e qualche volta superavo i quatto minuti.",
+                    "All'improvviso una morsa d'acciaio mi afferrò un piede. Non mi lasciava andare e avendo oramai superato la mia resistenza, stavo per perdere i sensi, ma Ruespu mi lasciò andare al momento giusto. Quando emerse mi chiese scusa e disse: «Hai ancora la voglia di bussare sul suo elmo.» Risposi: «Col cazzo vengo!», dandomela a gambe levate.",
+                    "Mi sfugge una lacrima nel ricordarmi quante cozze nere ho trasportato stando sott'acqua dai pali alla banchina, per poterli liberare dalla zoca, e il guardiano che ci domandava se le cozze camminassero. E allora Ruespu, con la sua voce rauca, gli rispondeva candidamente: «Ka no?»»",
+                    "Un pomeriggio sugli scogli della conca, luogo di balneazione estiva situato alla Sciaia a mare, per colpa della mia eccezionale resistenza in apnea scoppiò una rissa tra alcuni soldati della NATO di nazionalità americana e Luciano, che ancor prima di uscire dall'acqua per dagli una mano li aveva atterrati (che vuol dire? ) tutti e cinque.",
+                    "Difatti avevano scommesso una somma di denaro proprio sulla mia resistenza in apnea. Li avrei battuti lo stesso, ma essendo un ragazzino di quindici anni la feci veramente sporca servendomi di un trucco che solo io conoscevo, già che per caso inseguendo un polpo entrai in una grotta dove il livello del mare aveva scavato una cupola che consentiva di respirare, ragion per cui potevo anche rimanere tutto il giorno sott'acqua, pardon in acqua. Gli americani giustamente si rifiutarono di darla vinta a Ruespu, asserendo che non ero di certo un pesce per rimanere un quarto d'ora in apnea. Da qui partì la rissa. Luciano venuto in possesso della scommessa, nel consegnarmi la parte che mi aspettava sottovoce chiese: «C'è un trucco?» Non risposi.",
+                    "Tolte le pulci, che spero possano esserti di aiuto, devo dire che ho trovato la storia dell'amicizia con Ruespu interessante e ben sviluppata. Alcuni passaggi non sono molto fluidi. So che ami frasi lunghi, ma la narrazione, specie se è densa di eventi, ha bisogno di un ampio respiro. Il personaggio di Ruespu è descritto in maniera abbastanza nitida. Salti per spesso da un fatto all'altro con una tale facilità che ogni tanta lascia il lettore spaesato, soprattutto nel finale che non sono certa di aver capito bene. Tuttavia è un buon racconto, che ho letto con piacere perché le tue storie del mare hanno un indubbio fascino. A rileggerci."
+                ]
+            ],
+            "timestamp": "2020-02-01T11:28:27Z",
+            "title": "\" R U E S P U \"",
+            "url": "https://www.writersdream.org/forum/forums/topic/46119-r-u-e-s-p-u//?do=findComment&comment=815990",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 79,
@@ -26,7 +55,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/79-penna-e-spada/"
     },
     "num_chars": 8065,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
