@@ -49,8 +49,33 @@
     },
     "num_chars": 7921,
     "num_commenti": 1,
-    "num_posts": 4,
-    "post_after": [],
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 816033,
+            "text": [
+                "ciao, grazie mille per i consigli ne terrò a mente quando lo edito e si lo mandato senza rileggere è un mio grande difetto."
+            ],
+            "timestamp": "2020-02-01T16:40:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45971-la-mia-vita-ricomincia-da-te-capitolo-8//?do=findComment&comment=816033"
+        },
+        {
+            "post_id": 816034,
+            "text": [
+                "grazie mille per i consigli, ho il grande difetto di far leggere senza aver prima riguardato ciò che ho scritto terrò a mente ciò che mi hai detto. Grazie ancora"
+            ],
+            "timestamp": "2020-02-01T16:46:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45971-la-mia-vita-ricomincia-da-te-capitolo-8//?do=findComment&comment=816034"
+        },
+        {
+            "post_id": 816035,
+            "text": [
+                "ciao, non ti preoccupare anche io sono mancata dall'officina, questo capitolo mi sa che mi è venuto male ecco perché l'ho postato qui per capire dove avessi sbagliato e ancora non è finito essendo che più di tot parole non si possono postare. Ti ringrazio anche a te per i consigli"
+            ],
+            "timestamp": "2020-02-01T16:51:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45971-la-mia-vita-ricomincia-da-te-capitolo-8//?do=findComment&comment=816035"
+        }
+    ],
     "post_staff": [],
     "text": [
         "AMICHE?",
