@@ -55,9 +55,9 @@
         "title": "Frammenti",
         "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
     },
-    "num_chars": 4651,
+    "num_chars": 4631,
     "num_commenti": 1,
-    "num_posts": 2,
+    "num_posts": 3,
     "post_after": [
         {
             "post_id": 816126,
@@ -68,7 +68,21 @@
             "url": "https://www.writersdream.org/forum/forums/topic/46198-lalieno-%C3%A8-nel-cinese//?do=findComment&comment=816126"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 816137,
+            "text": [
+                "purtroppo non si può promuovere un blog nei post in giro per il forum. Puoi farlo in firma o negli spazi appositi del forum. Devo editare."
+            ],
+            "timestamp": "2020-02-02T09:45:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46198-lalieno-%C3%A8-nel-cinese//?do=findComment&comment=816137"
+        }
+    ],
     "text": [
         "Ero solo uno dei tanti Alieni sulla Terra.",
         "Camminavo verso l’Oriente.",
@@ -159,7 +173,7 @@
         "Salve.",
         "Sono Joe P. Szyslak e sono un Alieno immigrato sulla Terra.",
         "Questo è il Post che voglio pubblicare domani. Fatemi sapere che ne pensate.",
-        "Questo il blog. https://joeszyslakstories.blogspot.com/"
+        "Questo il blog. editato dallo staff"
     ],
     "timestamp": "2020-02-02T06:57:22Z",
     "title": "L'Alieno è nel cinese",
