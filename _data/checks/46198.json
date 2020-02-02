@@ -57,7 +57,7 @@
     },
     "num_chars": 4631,
     "num_commenti": 1,
-    "num_posts": 3,
+    "num_posts": 4,
     "post_after": [
         {
             "post_id": 816126,
@@ -66,6 +66,16 @@
             ],
             "timestamp": "2020-02-02T07:00:43Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46198-lalieno-%C3%A8-nel-cinese//?do=findComment&comment=816126"
+        },
+        {
+            "post_id": 816162,
+            "text": [
+                "Tranquillo .. Colpa mia!",
+                "Fammi sapere poi che pensi tu del testo!",
+                "Saluti dal ratto.."
+            ],
+            "timestamp": "2020-02-02T13:32:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46198-lalieno-%C3%A8-nel-cinese//?do=findComment&comment=816162"
         }
     ],
     "post_staff": [

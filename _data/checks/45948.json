@@ -63,7 +63,7 @@
     },
     "num_chars": 8355,
     "num_commenti": 1,
-    "num_posts": 33,
+    "num_posts": 34,
     "post_after": [
         {
             "post_id": 811682,
@@ -164,6 +164,21 @@
             "text": [],
             "timestamp": "2020-01-16T17:12:33Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45948-n2019-3b-come-un-osso-spolpato//?do=findComment&comment=812952"
+        },
+        {
+            "post_id": 816036,
+            "text": [
+                "I paragrafi dell'osservatore esterno sono stati i più difficili da scrivere. Si tratta di brevi rapporti e lo stile dovrebbe essere impersonale, standardizzato: un registro che proprio non mi appartiene. Infatti non mi piace come sono venute queste parti.",
+                "Io penso sempre a te, sciocco",
+                "In questa frase è come se avessi sottinteso: Delio pensò che per fortuna il portone.... È una cosa che vedo fare spesso con la terza persona, per evitare di ammorbare il lettore con tutti quei pensò, si disse che, si ricordò che...",
+                "Però forse in quei casi il narratore non era onnisciente.",
+                "È vero, quando scrivo di fretta metto molti più punti fermi. Poi me ne accorgo quando rileggo e ritocco per fare ancora più danni.",
+                "Però in quel caso specifico che citi metterei comunque il punto fermo",
+                "EDIT: no, forse ho già cambiato idea. Mi sa che ci sta meglio il punto e virgola. Vabbè, quando sari il mio editor a queste cose ci penserai tu",
+                "Grazie, amore"
+            ],
+            "timestamp": "2020-02-01T16:56:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45948-n2019-3b-come-un-osso-spolpato//?do=findComment&comment=816036"
         }
     ],
     "post_staff": [
@@ -359,6 +374,26 @@
             ],
             "timestamp": "2020-02-01T15:55:52Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45948-n2019-3b-come-un-osso-spolpato//?do=findComment&comment=816024"
+        },
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 816036,
+            "text": [
+                "I paragrafi dell'osservatore esterno sono stati i più difficili da scrivere. Si tratta di brevi rapporti e lo stile dovrebbe essere impersonale, standardizzato: un registro che proprio non mi appartiene. Infatti non mi piace come sono venute queste parti.",
+                "Io penso sempre a te, sciocco",
+                "In questa frase è come se avessi sottinteso: Delio pensò che per fortuna il portone.... È una cosa che vedo fare spesso con la terza persona, per evitare di ammorbare il lettore con tutti quei pensò, si disse che, si ricordò che...",
+                "Però forse in quei casi il narratore non era onnisciente.",
+                "È vero, quando scrivo di fretta metto molti più punti fermi. Poi me ne accorgo quando rileggo e ritocco per fare ancora più danni.",
+                "Però in quel caso specifico che citi metterei comunque il punto fermo",
+                "EDIT: no, forse ho già cambiato idea. Mi sa che ci sta meglio il punto e virgola. Vabbè, quando sari il mio editor a queste cose ci penserai tu",
+                "Grazie, amore"
+            ],
+            "timestamp": "2020-02-01T16:56:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45948-n2019-3b-come-un-osso-spolpato//?do=findComment&comment=816036"
         }
     ],
     "text": [

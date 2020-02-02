@@ -43,7 +43,7 @@
     },
     "num_chars": 4396,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 815316,
@@ -60,6 +60,14 @@
             ],
             "timestamp": "2020-01-29T11:20:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46119-r-u-e-s-p-u//?do=findComment&comment=815319"
+        },
+        {
+            "post_id": 816166,
+            "text": [
+                "Grazie dei consigli @ Emy cara cercherò di tenerli presente, li ritengo istruttivi e importanti, a rileggerci mia cara amica"
+            ],
+            "timestamp": "2020-02-02T13:56:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46119-r-u-e-s-p-u//?do=findComment&comment=816166"
         }
     ],
     "post_staff": [],
