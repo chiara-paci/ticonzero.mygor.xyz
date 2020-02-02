@@ -58,7 +58,7 @@
     },
     "num_chars": 6999,
     "num_commenti": 1,
-    "num_posts": 23,
+    "num_posts": 26,
     "post_after": [
         {
             "post_id": 812808,
@@ -188,6 +188,16 @@
             ],
             "timestamp": "2020-01-31T14:01:58Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45999-il-rito-dellorizzonte//?do=findComment&comment=815835"
+        },
+        {
+            "post_id": 816252,
+            "text": [
+                "Grazie, caro fratello WDiano",
+                "Il teatro per me è un'importantissima fonte di vita e di ispirazione: ne ho fatto tanto!",
+                "Sei siciliano anche tu?"
+            ],
+            "timestamp": "2020-02-02T20:44:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45999-il-rito-dellorizzonte//?do=findComment&comment=816252"
         }
     ],
     "post_staff": [

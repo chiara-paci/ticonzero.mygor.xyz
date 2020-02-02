@@ -1,0 +1,87 @@
+{
+    "author": {
+        "author_id": 35226,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Luna L.",
+        "url": "https://www.writersdream.org/forum/profile/35226-luna-l/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "È la prima volta che, leggendovi, sento di dire qualcosa su un brano e quindi mi ci butto a capofitto .",
+                    "Credo ci siano alcune cose importanti da dire.",
+                    "La prima è che il titolo è bello e funziona. Trovo che con tre parole riesca ad essere pienamente evocativo di una sorta di \"intimità\", relativa al personaggio in questione, che poi si ritrova tutta nel brano.",
+                    "Trovo il brano carico di una femminilità non facile da rendere, che si esprime perfettamente nei diversi passaggi, nella descrizione dei particolari e soprattutto nel ritmo che contrappone i momenti di \"raccoglimento\" e \"preparazione\" femminile ai personaggi maschili.",
+                    "La presenza di due personaggi maschili in qualche modo agli antipodi rispetto ai desideri e ai sentimenti della protagonista rende il ritmo interessante e contribuisce a rendere aspetti diversi della femminilità di cui sopra.",
+                    "Trovo lo stile scorrevole, coinvolgente e assolutamente piacevole.",
+                    "L'unica \"trappola\" forse la individuo nella ricchezza descrittiva. I molti aggettivi contribuiscono il più delle volte a rendere bene le atmosfere. Qualcuno, forse, si poteva evitare (come hanno scritto altri prima di me).",
+                    "\"Specchio brunito\", \"lino candido\", \"ricciolo biondo\" inseriti in espressioni che contengono già di per sé altri aggettivi o avverbi mi fanno pensare al mio stesso, dannatissimo vizio, di dover aggiungere sempre quell'aggettivo in più, che magari a volte sarebbe meglio omettere.",
+                    "Peccato un po' per l'incipit, che forse avrebbe funzionato meglio con \"sul lucido granito rosa\".",
+                    "A parte questo, è un brano che ho molto apprezzato.",
+                    "P.S. Non ho potuto fare a meno di chiedermi perché molti continuano a considerare orribili le ballerine."
+                ]
+            ],
+            "timestamp": "2020-02-02T20:52:20Z",
+            "title": "Adele in ascensore",
+            "url": "https://www.writersdream.org/forum/forums/topic/37757-adele-in-ascensore//?do=findComment&comment=816255",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2779,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        ".",
+        "Vorrei postare un piccolo brano del progetto a cui sto lavorando e che mi sta facendo abbastanza dannare.",
+        "Si tratta di un romanzo per ragazzi.",
+        "In questo brano ho cercato di far emergere i sentimenti contrastanti della protagonista (una ragazzina timida e impacciata, sui quindici anni) nei confronti del \"galletto\" di turno: il ragazzo più carino di tutti e capo del gruppo dei bulletti della situazione.",
+        "Spero di esserci riuscita almeno in parte.",
+        "Mi immolo con piacere alla pubblica gogna.",
+        "\"...dall'ingresso del retro si affacciò fresco fresco Franco, con i capelli impomatati di gel e una tale scia di profumo da far voltare tutte insieme le ultime due file.",
+        "\"Ecco. Si stava facendo la doccia.\" Pensò Gaia osservando anche lei il ragazzo, che aveva la fama di essere piuttosto vanitoso e mai si sarebbe sognato di saltare di pettinarsi o di improfumarsi, nemmeno per arrivare in tempo.",
+        "\"Che fessacchiotto!\".",
+        "Ma cosa stava facendo, o meglio, dove si stava dirigendo? Non aveva mica intenzione…\"Accidenti, non è possibile!\"",
+        "Gaia si morse il labbro.",
+        "Il posto alla sua destra era l'unico libero, e quello di Franco era occupato. Come aveva fatto a non rendersene conto?",
+        "Nei suoi migliori panni da galletto, ben fasciato nei jeans firmati e completamente inzuppato di profumo, si stava mettendo proprio vicino a lei. A lei che per anni non aveva degnata di uno sguardo, se non per spintonarla nella fila della mensa, per tirarle i capelli o per farle altri stupidi scherzi.",
+        "Tutta una fila di cugine, più avanti, ridacchiava e si lanciava occhiatine.",
+        "Gaia si sentiva brutta e in disordine con i calzoncini macchiati d'erba e la maglietta sudata e ordinaria che indossava durante una delle gare sportive all'aperto, poco prima.",
+        "E poi, dove doveva mettere il gomito?",
+        "Ce lo aveva appoggiato sul bracciolo della sedia, così che sfiorava quello del ragazzo.",
+        "Doveva riconoscere, non senza una punta di rabbia, che non era per niente spiacevole quel contatto. Anche se le aveva tante volte fatte piangere, Franco era pur sempre bellissimo: bruno, occhi azzurri, lo sguardo sveglio.",
+        "Il disagio di Gaia cresceva. Sudava. Per un attimo temette di non riuscire a tener ferme le gambe, e fu certa di sentire lo stomaco brontolarle. Sicuramente lo aveva sentito anche lui.",
+        "Franco non sembrava porsi affatto i suoi stessi problemi. Pian piano, spingeva il braccio sempre più a contatto con il suo e così pure la coscia, fino a premere forte.",
+        "Gaia era lusingata, all'inizio. Forse non gli faceva poi così tanto ribrezzo per avvicinarsi in quel modo a lei, ma a un tratto le salì dentro un profondo fastidio. Era tipico di quelli di quel gruppo: fare come se gli altri non esistessero.",
+        "Certo! L'importante era che fosse comodo lui. Figurarsi se si preoccupava di invadere il suo spazio, o di cosa lei potesse provare!\""
+    ],
+    "timestamp": "2020-02-02T21:18:13Z",
+    "title": "Il gomito di Franco",
+    "topic_id": 46210,
+    "url": "https://www.writersdream.org/forum/forums/topic/46210-il-gomito-di-franco/"
+}

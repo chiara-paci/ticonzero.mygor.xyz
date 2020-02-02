@@ -49,8 +49,27 @@
     },
     "num_chars": 4524,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 816246,
+            "text": [
+                "Grazie Lorenzo."
+            ],
+            "timestamp": "2020-02-02T20:07:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816246"
+        },
+        {
+            "post_id": 816247,
+            "text": [
+                "Sono contento che trasparisca, in qualche modo.",
+                "Stessa cosa che ha detto chi ha commentato prima di te. Lo riguarderó e taglierò qualche dice . Probabilmente non sono così efficaci come pensavo.",
+                "Ad ogni modo, grazie tante."
+            ],
+            "timestamp": "2020-02-02T20:13:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816247"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Lo sguardo",
