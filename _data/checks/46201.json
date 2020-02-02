@@ -12,13 +12,44 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao , che peccato non avere uno sfidante. Immagino sia stato difficile cimentarti in un genere che boh, forse non ti si addice. Passo per un commento, premettendo che amo il distopico e che mi piace scriverlo.",
+                    "Ok, per il divieto di parlare. Ok per il divieto allo studio, ma questa limitazione alla liberta con un microchip non mi è chiara.",
+                    "Ester è libera negli spostamenti. A questo punto della narrazione ho ancora bisogno di spiegazioni sul concetto di libertà limitata. Hai aggiunto il teletrasporto, un nuovo elemento dopo il microchip e i divieti.",
+                    "Ma il non parlare? Che succede al divieto se viene disatteso?",
+                    "altro elemento: il fucile atomico.",
+                    "La trovata è carinissima. Ora capisco che il non parlare è solo per la gente comune. Un pensiero però: trovo davvero che la trovata del fumetto sia carina, il problema è che non avrei dovuto trovarla carina. E' questo il punto. Siamo in un distopico: niente mi deve far sorridere e ti confesso, ho sorriso anche prima con \"pistola atomica\".",
+                    "Ho letto il finale, secondo me hai fatto molto bene a introdurre questo come suggestione, altrimente si sarebbe capito tutto.",
+                    "Quindi se si pensa a qualcosa contro il sistema, come pena c'è una ramanzina? Una lavata di testa?",
+                    "Altro elemento. Distruggono le prove mangiando le prove. Mi viene in mente tanto qui. Approfondirei mettendo in realzione la memoria interna con la lettura dei pensieri.",
+                    "Quali?",
+                    "Come?",
+                    "Ecco cosa aspettavo. peccato non aver speso due parole in più.",
+                    "Sono stata un po' severa, ma mi riferisco solo alla trama, non alla scrittura. Sai che amo come costruisci le frasi. Alcuni passsaggi sono notevoli, le descrizioni dell'uomo e gli incontri con Ester, più delle altre. Anche il finale con quello scommettete mi ha colpita, purtroppo non da farmi sussultare, perchè i dubbi, hanno attutito il mio impatto sul testo.",
+                    "Per riflettere, (ma è solo il mio punto di vista), credo che tu abbia inserito troppi dettagli (quelli che prima ti ho elencato). Credo che il troppo a volte, pesi sul testo. Punterei l'attenzione a una sola limitazione e alle sanzioni in caso di violazione. A questo punto credo che non avrai bisogno di arricchire lo scenario, di altro.",
+                    "A presto.",
+                    "Un bacione"
+                ]
+            ],
+            "timestamp": "2020-02-02T12:06:18Z",
+            "title": "[Sfida 27] Ester e il barbone",
+            "url": "https://www.writersdream.org/forum/forums/topic/46191-sfida-27-ester-e-il-barbone//?do=findComment&comment=816154",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 44,
@@ -26,7 +57,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/44-narrativa-over-18/"
     },
     "num_chars": 5365,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
