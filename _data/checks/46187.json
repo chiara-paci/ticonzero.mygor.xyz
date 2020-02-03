@@ -54,7 +54,7 @@
     },
     "num_chars": 6782,
     "num_commenti": 1,
-    "num_posts": 6,
+    "num_posts": 7,
     "post_after": [
         {
             "post_id": 816136,
@@ -68,6 +68,16 @@
             ],
             "timestamp": "2020-02-02T09:35:11Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46187-nei-piccoli-sogni//?do=findComment&comment=816136"
+        },
+        {
+            "post_id": 816286,
+            "text": [
+                "buongiorno!",
+                "Grazie per le annotazioni, ne terrò certamente conto! Sulla consecutio in effetti mi sono fatto più di una domanda, però poi ho scelto di tenere ferma la forma in cui tu ora lo leggi, perché mi sembrava comunque adeguata. Ma ci penserò su",
+                "Grazie per le belle parole, felice che ti sia piaciuto! Buona settimana"
+            ],
+            "timestamp": "2020-02-03T07:09:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46187-nei-piccoli-sogni//?do=findComment&comment=816286"
         }
     ],
     "post_staff": [],
