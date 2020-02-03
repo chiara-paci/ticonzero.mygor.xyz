@@ -69,8 +69,17 @@
     },
     "num_chars": 14069,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 816329,
+            "text": [
+                "Ragazzi non vi spaventate a dire che fa schifo non mi offendo!"
+            ],
+            "timestamp": "2020-02-03T12:37:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46178-solitudine-nel-pomeriggio//?do=findComment&comment=816329"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Solitudine nel pomeriggio",
