@@ -49,7 +49,7 @@
     },
     "num_chars": 491,
     "num_commenti": 1,
-    "num_posts": 8,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 815919,
@@ -83,6 +83,23 @@
             ],
             "timestamp": "2020-02-01T19:01:38Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46176-cambiare//?do=findComment&comment=816075"
+        },
+        {
+            "post_id": 816475,
+            "text": [
+                "Ciao e grazie per il tempo che hai dedicato alla lettura e al commento della mia poesia.",
+                "Mi fa molto piacere ciò che scrivi, l'accostare le mie parole ad una carezza... Grazie!",
+                "Accetto volentieri i consigli esterni, se costruttivi e questo senz'altro lo è.",
+                "Sicuramente la poesia ha un riscontro molto soggettivo, perciò non pretendo che i miei versi possano piacere a tutti (a dirla tutta, quando pubblico qualcosa, parto sempre dal principio che potrebbe non piacere a nessuno). A differenza di un racconto, il quale tendenzialmente scaturisce dalla fantasia del narratore, una poesia in genere nasce da un'emozione provata in prima persona oppure sì, immaginata, ma nel momento in cui la si butta su carta si cerca, almeno nel mio caso, di immedesimarcisi il più possibile perché in gran parte è anche questione di empatia: più ti ci senti dentro, più riesci (o ti avvicini) a trasmettere qualcosa.",
+                "Quando questa è uscita non so esattamente a cosa pensassi, ma è uscita così di getto che, siccome rileggendola mi trasmetteva una sensazione piacevole, ho scelto di non cambiarne neppure una parola (cosa che invece spesso faccio quando rileggo le mie poesie).",
+                "La presenza di \"giorno\" e \"sera\" nella stessa frase non voleva comparire come una divergenza ma semplicemente come una specie di precisazione. La parola \"giorno\" è un'indicazione temporale vaga che trova poi una collocazione temporale precisa, appunto, nella parola \"sera\".",
+                "Ammetto però che possa non piacere in quanto tutto è soggetto a gusto personale. Anzi, ti ringrazio per avermelo fatto notare perché amo sentire le opinioni di tutti e, come in questo caso, noto cose a cui altrimenti non avrei fatto caso.",
+                "Anche a questo non avevo pensato.",
+                "A me piace per intero, ma l'idea che per qualcuno la strofa finale possa reggere da sola mi fa piacere, vuol dire che ha il giusto \"carattere\"!",
+                "Grazie ancora per il tuo parere e buona serata!"
+            ],
+            "timestamp": "2020-02-03T21:51:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46176-cambiare//?do=findComment&comment=816475"
         }
     ],
     "post_staff": [],
