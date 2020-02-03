@@ -62,7 +62,7 @@
     },
     "num_chars": 6150,
     "num_commenti": 1,
-    "num_posts": 29,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 811971,
@@ -158,6 +158,15 @@
             ],
             "timestamp": "2020-01-16T12:42:00Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45952-n2019-3b-il-profondo-poggia-sul-piatto//?do=findComment&comment=812873"
+        },
+        {
+            "post_id": 816407,
+            "text": [
+                "Maledetto Luca c stai diventando intaggabile!",
+                "Questa stessa perplessità è stata già esternata e io ho già risposto"
+            ],
+            "timestamp": "2020-02-03T17:36:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45952-n2019-3b-il-profondo-poggia-sul-piatto//?do=findComment&comment=816407"
         }
     ],
     "post_staff": [

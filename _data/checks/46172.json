@@ -92,8 +92,23 @@
     },
     "num_chars": 1501,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 816331,
+            "text": [
+                "Ciao ,",
+                "grazie per essere passato dal mio racconto. Ti ringrazio per i suggerimenti, che terrò di conto.",
+                "A presto.",
+                "Caro , con grande piacere ti trovo nei pressi di un mio racconto.",
+                "Io non apprezzo in modo particolare la brevità, ma questa storiella voleva raccontarsi e a me piace molto quando le mani si librano sulla tastiera senza il mio intervento; a volte ne esce un pastrocchio, a volte forse no, ma in ogni caso non sono io a giudicarlo.",
+                "Sono contento che il mio racconto ti sia piaciuto e mi auguro di continuare ad allietarti, qualche volta, auspicando che tu faccia lo stesso.",
+                "Buona scrittura!"
+            ],
+            "timestamp": "2020-02-03T12:51:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46172-lo-stradologo-dadaino-zabodini//?do=findComment&comment=816331"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Per Dadaino Zabodini il sistema stradale era dispotico.",

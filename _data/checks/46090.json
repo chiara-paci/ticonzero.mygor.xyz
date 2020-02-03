@@ -51,7 +51,7 @@
     },
     "num_chars": 2390,
     "num_commenti": 1,
-    "num_posts": 18,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 814418,
@@ -129,6 +129,14 @@
             ],
             "timestamp": "2020-01-30T14:31:28Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46090-capello-bianco-iceberg//?do=findComment&comment=815605"
+        },
+        {
+            "post_id": 816350,
+            "text": [
+                "grazie per esserti fermato a commentare. Alcuni tuoi appunti mi sono già stati fatti notare quindi ti ringrazio doppiamente perché conferma che è giusto il vostro punto di vista. Mi spiace che tu non abbia colto il finale come è successo a Floriana, e qui ribadisco che gli ultimi punti di sospensione avrebbero dovuto riallacciare per immagine al titolo, che (non avrai notato) comincia senza l'articolo. Avrei potuto scrivere \"Il capello bianco\" ma dal momento che era mia intenzione far sì che la fine riportasse all'inizio, l'ho omesso. Piccolo esperimento in parte fallito. Grazie per l'attenzione e alla prossima."
+            ],
+            "timestamp": "2020-02-03T14:01:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46090-capello-bianco-iceberg//?do=findComment&comment=816350"
         }
     ],
     "post_staff": [],

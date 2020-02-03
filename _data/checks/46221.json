@@ -12,13 +12,59 @@
     },
     "checks": {
         "num_chars": true,
-        "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ho letto con interesse il tuo breve racconto surreale.",
+                    "Trama. La trama è molto semplice. Un personaggio un po' alla Gianni Rodari decide di rivoluzionare il piano stradale della città, non si sa con quali mezzi, con risultati ovviamente surreali. Ho trovato lo spunto originale, divertente e ben eseguito, anche se forse il racconto attende una battuta (non so, un rovesciamento comico) che non arriva, per sfumare nel surreale. La situazione, comunque, è divertente.",
+                    "Personaggi. Abbiamo un solo personaggio. Per amor della brevità, e dell'intento del racconto, non sappiamo molto di lui, se non che ha studiato poco. Magari avresti potuto aggiungere qualche dettaglio, anche se forse c'è poco da aggiungere.",
+                    "Contenuti. Una città disordinata richiede un eroe che metta in atto un piano molto logico per risolvere qualcosa di altamente illogico: a che servono le strade chiuse? Come dicevo ha un che di Rodari. Un luogo dell'immaginazione che a me piace.",
+                    "Stile. Lo stile è felicemente scanzonato, come richiede un breve racconto del genere. Non ho particolari riserve sulle scelte dei termini, che ho trovato tanto semplici quanto appropriate. Magari qualche aggettivo in meno e un po' di concisione in più, ma proprio a trovare il pelo nell'uovo. Sicuramente però avrei evitato quel punto e virgola!",
+                    "Originalità. Altamente originale, come già detto.",
+                    "Giudizio finale: Breve, divertente, piacevole.",
+                    "Spero di esserti stato utile! Un saluto."
+                ]
+            ],
+            "timestamp": "2020-02-03T15:44:40Z",
+            "title": "Lo stradologo Dadaino Zabodini",
+            "url": "https://www.writersdream.org/forum/forums/topic/46172-lo-stradologo-dadaino-zabodini//?do=findComment&comment=816376",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Un'espressione.",
+                    "Ho notato anche che a volte fai degli spazi doppi. Io uso un software che si chiama Scrivener che ha la funzione di eliminare il problema.",
+                    "Racconto interessante, un penetrante spaccato psicologico di una persona che non trova il suo esatto collocamento nel mondo. In molti ci sentiamo così.",
+                    "In questo racconto usi un flusso di coscienza molto denso, che forse potrebbe essere alleggerito. Nel tuo racconto è come se ci fosse qualcosa di bloccato che non riesce ad emergere, ma forse questo è soltanto il punto di vista del protagonista, che tu cerchi di comunicarci. Un personaggio frustrato, fuori posto e irrisolto. Parlavo di alleggerimento del flusso di coscienza. Magari, per esercitarti, potresti provare a riscrivere questo racconto inserendo un'interazione (in forma di dialoghi) del protagonista con un altro personaggio, come la cameriera. L'impressione che si ricava del protagonista (sicuramente da te ben veicolata) è che sia una persona con scarse abilità sociali.",
+                    "Secondo me è un racconto rivedibile, comunque emerge con chiarezza il senso di frustrazione del protagonista perché fondamentalmente non riesce a relazionarsi col mondo. Chissà, sarebbe carino inserire una sorta di lieto fine, qualcosa che sblocch i una situazione bloccata.",
+                    "Per il mio gusto personale, avrei evitato la maggior parte delle parole in corsivo.",
+                    "L'immagine del leone e della gazzella è molto celebre, magari potresti trovare qualcosa di più ricercato. O forse no, magari non c'è niente di male e riferirsi a qualcosa che conoscono tutti.",
+                    "Nota scherzosa: per fortuna ho già letto \"IT\", altrimenti mi aversti spoilerato il finale!",
+                    "Nel complesso il racconto, pur rivedibile (come tutti) m'è piaciuto. Spero le mie critiche ti siano utili. Questa è la mia (personalissima) opinione! Ti auguro buon lavoro"
+                ]
+            ],
+            "timestamp": "2020-02-03T15:31:46Z",
+            "title": "Un personaggio scomodo",
+            "url": "https://www.writersdream.org/forum/forums/topic/46214-un-personaggio-scomodo//?do=findComment&comment=816371",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -26,7 +72,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 13029,
-    "num_commenti": 0,
+    "num_commenti": 2,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],
