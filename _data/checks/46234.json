@@ -1,0 +1,72 @@
+{
+    "author": {
+        "author_id": 9701,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Kuno",
+        "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 599,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 816533,
+            "text": [
+                "settimana﻿ 5 (29 gennaio / 4 f﻿ebbraio﻿﻿)",
+                "..."
+            ],
+            "timestamp": "2020-02-04T10:49:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46234-i-racconti-della-seconda-luna-sesto-ciclo//?do=findComment&comment=816533"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 816533,
+            "text": [
+                "settimana﻿ 5 (29 gennaio / 4 f﻿ebbraio﻿﻿)",
+                "..."
+            ],
+            "timestamp": "2020-02-04T10:49:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46234-i-racconti-della-seconda-luna-sesto-ciclo//?do=findComment&comment=816533"
+        }
+    ],
+    "text": [
+        "Il regolamento del “contest” ormai lo conoscete. Dovete solo continuare a pubblicare i vostri testi nelle sezioni Racconti e Racconti lunghi. Ogni mese un giudice indicherà come vincitore della luna uno dei testi segnalati dai quattro lettori delle quattro settimane.",
+        "Il calendario con i nomi dei lettori è incompleto, ma abbiamo già coperto le prime due settimane:",
+        "Seconda﻿ Luna",
+        "settimana 5 (29 gennaio / 4 febbraio) - lettore: Kuno",
+        "settimana 6 (5 febb﻿raio / 11 febbraio) - lettore: Sira",
+        "settimana 7 (12 febbraio / 18 febbraio) - lettore: AdStr",
+        "settimana 8 (19 febbraio / 25 febbraio) - lettore:",
+        "Giudice:"
+    ],
+    "timestamp": "2020-02-04T10:38:48Z",
+    "title": "I racconti della Seconda Luna - Sesto ciclo",
+    "topic_id": 46234,
+    "url": "https://www.writersdream.org/forum/forums/topic/46234-i-racconti-della-seconda-luna-sesto-ciclo/"
+}
