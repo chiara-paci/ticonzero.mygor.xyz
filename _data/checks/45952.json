@@ -62,7 +62,7 @@
     },
     "num_chars": 6150,
     "num_commenti": 1,
-    "num_posts": 33,
+    "num_posts": 35,
     "post_after": [
         {
             "post_id": 811971,
@@ -167,6 +167,14 @@
             ],
             "timestamp": "2020-02-03T17:36:14Z",
             "url": "https://www.writersdream.org/forum/forums/topic/45952-n2019-3b-il-profondo-poggia-sul-piatto//?do=findComment&comment=816407"
+        },
+        {
+            "post_id": 816590,
+            "text": [
+                "Grazierrime"
+            ],
+            "timestamp": "2020-02-04T15:42:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/45952-n2019-3b-il-profondo-poggia-sul-piatto//?do=findComment&comment=816590"
         }
     ],
     "post_staff": [

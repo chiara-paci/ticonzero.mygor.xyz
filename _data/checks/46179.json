@@ -64,7 +64,7 @@
     },
     "num_chars": 7915,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 10,
     "post_after": [
         {
             "post_id": 816096,
@@ -81,6 +81,16 @@
             ],
             "timestamp": "2020-02-01T20:49:13Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46179-prima-del-destino//?do=findComment&comment=816096"
+        },
+        {
+            "post_id": 816583,
+            "text": [
+                "Se i prof segnano le assenze, spiegano cose nuove o interrogano è un problema, per questo servono i registri, non devono più essere scritti fin tanto che va avanti la protesta. Non so come fanno oggi, con quelli elettronici, ai miei tempi era così.",
+                "Grazie , ora ti rispondo solo a questo, dopo con più calma ripasso. È sempre un piacere il tuo phon .",
+                "Talia"
+            ],
+            "timestamp": "2020-02-04T15:02:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46179-prima-del-destino//?do=findComment&comment=816583"
         }
     ],
     "post_staff": [],
