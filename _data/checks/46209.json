@@ -62,7 +62,7 @@
     },
     "num_chars": 4957,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 14,
     "post_after": [
         {
             "post_id": 816299,
@@ -191,6 +191,19 @@
             ],
             "timestamp": "2020-02-03T21:22:27Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46209-la-tesi-di-omerita//?do=findComment&comment=816471"
+        },
+        {
+            "post_id": 816569,
+            "text": [
+                "L'ho sempre legato all'andare su e giù nello schermo. Devo rifletterci. Come si dice di un documento che muovi su e giù? Pensavo \"scorrere\".",
+                "No, non conoscevo la discussione, ora mi affaccio.",
+                "ué! Ciao!",
+                "Ma come non succede.Sì che succede ancora.",
+                "Ma come spiego questo in 5000 caratteri? Molto bella come idea, ma non saprei inserirla in nessun modo nel racconto, chiaramente per miei limiti. Una morte cerebrale così mica la puoi presentare in una riga. Bellissima intuizione, ma non per me.",
+                "Grazie per il tempo dedicatomi."
+            ],
+            "timestamp": "2020-02-04T14:11:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46209-la-tesi-di-omerita//?do=findComment&comment=816569"
         }
     ],
     "post_staff": [],
