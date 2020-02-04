@@ -52,13 +52,13 @@
     "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 44,
-        "title": "Narrativa over 18",
-        "url": "https://www.writersdream.org/forum/forums/forum/44-narrativa-over-18/"
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
     },
     "num_chars": 5365,
     "num_commenti": 1,
-    "num_posts": 4,
+    "num_posts": 8,
     "post_after": [
         {
             "post_id": 816530,
@@ -70,10 +70,37 @@
                 "a presto :)"
             ],
             "timestamp": "2020-02-04T10:37:14Z",
-            "url": "https://www.writersdream.org/forum/forums/topic/46201-r-il-vibratore//?do=findComment&comment=816530"
+            "url": "https://www.writersdream.org/forum/forums/topic/46201-il-vibratore//?do=findComment&comment=816530"
+        },
+        {
+            "post_id": 816634,
+            "text": [
+                "cara, ti sei spinta fin qui? Grazie",
+                "Sì, ma quando lo faccio (sempre) non mi si può sentire.",
+                "Anche tu hai visto delle frasi in cui il soggetto si confonde, devo rivedere l'inizio all'ora.",
+                "Invece questa tua riflessione mi ha fatto capire che devo aggiungere altro al testo.",
+                "Il vibratore è di lattice, ma non è monouso. Lo si scarta una volta e poi rimane lì, certo si lava, ma boh.. la mia protagonista è tutta stramba",
+                "e tu sei sempre un tesoro,"
+            ],
+            "timestamp": "2020-02-04T18:45:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46201-il-vibratore//?do=findComment&comment=816634"
         }
     ],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 9701,
+                "name": "Kuno",
+                "url": "https://www.writersdream.org/forum/profile/9701-kuno/"
+            },
+            "post_id": 816642,
+            "text": [
+                "ho spostato in Racconti, scusa per l'attesa"
+            ],
+            "timestamp": "2020-02-04T19:33:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46201-il-vibratore//?do=findComment&comment=816642"
+        }
+    ],
     "text": [
         "“ L’uccello in gabbia canta per amore …” lo sapeva bene Denise, che quando s’infilava l’uccello fino alla gabbia toracica, cantava. Continuava a farlo anche quando lo rimetteva a posto dietro ai maglioni. Nell’armadio non nascondeva scheletri, ma solo lui: il vibratore - che d’osso - aveva la durezza e la lunghezza dell’ulna; per il resto, il lattice lo faceva da padrone. Lattice , pensava Denise, un nome che riconduce al latte e al suo colore. In effetti, si domandava: il preservativo è bianco, i guanti sono bianchi e il mio vibratore? È nero come quello degli africani. Di bianco, solo ciò che le lasciava sulle mutande dopo l’utilizzo; e sulla pancia, dopo che Luca suo marito, veniva.",
         "«Che donna che ho» le parole di Luca quando Denise glielo chiese come regalo di compleanno.",
@@ -104,7 +131,7 @@
         "« Porta Portese cosa avrai di più …» intonò altre note. Intorno, il rumore delle stoviglie, le battute divertenti di Luca e le risate dei figli."
     ],
     "timestamp": "2020-02-02T12:16:38Z",
-    "title": "[R] Il vibratore",
+    "title": "Il vibratore",
     "topic_id": 46201,
-    "url": "https://www.writersdream.org/forum/forums/topic/46201-r-il-vibratore/"
+    "url": "https://www.writersdream.org/forum/forums/topic/46201-il-vibratore/"
 }
