@@ -16,7 +16,7 @@
         "valid": 0.0,
         "weight": false
     },
-    "closed": false,
+    "closed": true,
     "commenti": [],
     "commenti_weight": 0,
     "expected_weight": 1,
@@ -27,9 +27,25 @@
     },
     "num_chars": 453,
     "num_commenti": 0,
-    "num_posts": 1,
+    "num_posts": 2,
     "post_after": [],
-    "post_staff": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 816847,
+            "text": [
+                "benvenuta nel WD.",
+                "Invitiamo sempre i nuovi iscritti a presentarsi in ingresso, lì ti saranno dati anche i link al regolamento. Infatti per postare un proprio testo in officina occorre allegare il link a un commento approfondito fatto in giornata a un altro testo.",
+                "Devo chiudere, per riaprire la discussone dovrai inviare a uno staffer il link a un commento conforme al regolamento."
+            ],
+            "timestamp": "2020-02-05T20:52:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46247-caduta//?do=findComment&comment=816847"
+        }
+    ],
     "text": [
         "una gobba",
         "come del fato mio la morsa",
