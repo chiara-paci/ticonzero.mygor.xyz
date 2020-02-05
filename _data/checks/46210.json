@@ -53,9 +53,67 @@
     },
     "num_chars": 2779,
     "num_commenti": 1,
-    "num_posts": 1,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 816622,
+            "text": [
+                "Ciao,",
+                "ti ringrazio per avermi letto e commentato.",
+                "Credo di aver effettivamente postato un frammento piuttosto difficile da comprendere con così poco contesto. Forse avrei dovuto sceglierne un altro.",
+                "Sono stata forse un po' \"fessacchiotta\" anch'io nel non dare abbastanza elementi per comprendere.",
+                "Il romanzo non è ambientato nei nostri tempi ma nei primi anni '80 e si riferisce tra l'altro ad un ambiente particolare, ossia quello di una colonia a carattere religioso.",
+                "Questo spiega le sedie, che servivano alle lezioni di catechismo, i termini arretrati e la scarsa abitudine della ragazzina al contatto con l'altro sesso.",
+                "Spero di aver chiarito almeno in parte.",
+                "Per il resto, farò tesoro dei consigli. ☺"
+            ],
+            "timestamp": "2020-02-04T17:13:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46210-il-gomito-di-franco//?do=findComment&comment=816622"
+        },
+        {
+            "post_id": 816623,
+            "text": [
+                "P.s. anche la disposizione degli ingressi e la presenza delle cugine appartengono ad un contesto spiegato in altre parti del libro.",
+                "Forse, appunto, ho lasciato un po' troppe cose sottintese e il frammento da solo è veramente poco esplicativo."
+            ],
+            "timestamp": "2020-02-04T17:15:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46210-il-gomito-di-franco//?do=findComment&comment=816623"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 816609,
+            "text": [
+                "Ciao",
+                "Ho già letto un paio di volte e l'impressione è sempre quella di confusione, forse perché è un estratto d aun brano più lungo. Fin dall'inizio io penso che siano a scuola, poi però ci sono elementi che mi fanno dubitare, tipo:",
+                "ci sono sedie con i braccioli nelle scuole? Mi fa pensare al cinema",
+                "non capisco cosa siano le cugine, cugine vere? O è un modo di dire per dire altro?",
+                "siamo in un aula con due porte?",
+                "questa la cambierei con un'esclamazione più a passo con i tempi, mi sembra un po' retrò anche se, a dire il vero, non so in che anni sia ambientata la tua storia, quindi magari va bene.",
+                "Ti faccio un po' le pulci su altri dettagli che ho notato, ma che forse vanno bene come stanno, sempre perché non abbiamo il contesto più ampio della storia.",
+                "Metterei dei punti esclamativi, uno dopo Ecco e uno dopo doccia. Poi riformulerei la frase dopo che trovo un po' difficile, faccio una prova: pensò Gaia osservando il ragazzo. Franco aveva la fama di essere piuttosto vanitoso, uno di quelli che mai e poi mai si sarebbe sognato di saltare il rito di pettinarsi o improfumarsi, nemmeno per arrivare in tempo. Qui mi chiedo in tempo per cosa, ma forse sta nel testo che non leggiamo qui.",
+                "Cosa stava facendo? Dove stava andando? Non aveva mica intenzione di... spazio dopo i puntini",
+                "non so se una ragazzina di quindici anni di oggi penserebbe a un galletto, ma di nuovo non so in che anni è ambientata la storia",
+                "direi: che indossava ancora dopo la gara all'aperto di poco prima",
+                "Toglierei E poi",
+                "direi: Lo teneva appoggiato",
+                "metterei Franco qui, non dopo. Anche se Franco l'aveva fatta piangere",
+                "brontolare",
+                "qui ho pensato che lo facesse a posta per avere un contatto con lei, ma",
+                "qui invece penso solo che si stia allargando per mettersi comodo e non perché voglia sfiorarla",
+                "Mi sembra un frammento interessante, ma riesco poco a capire il contesto. Si sente che c'è qualcosa prima e qualcosa dopo; non riesco a dirti cosa penso del contesto perché non mi è chiaro, così come il periodo. Se fosse ambientato ai giorni nostri cambierei alcuni dei termini che ti ho indicato con qualcosa di più moderno.",
+                "Benvenuta in Officina",
+                "Avanti con i prossimi pezzi, ti aspettiamo!"
+            ],
+            "timestamp": "2020-02-04T16:49:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46210-il-gomito-di-franco//?do=findComment&comment=816609"
+        }
+    ],
     "text": [
         ".",
         "Vorrei postare un piccolo brano del progetto a cui sto lavorando e che mi sta facendo abbastanza dannare.",

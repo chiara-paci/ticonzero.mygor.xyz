@@ -73,8 +73,17 @@
     },
     "num_chars": 13029,
     "num_commenti": 2,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 816692,
+            "text": [
+                "Ciao, ti ringrazio per il bellissimo commento, molto colto e puntuale. Sono contento che il racconto ti sia piaciuto e che tu ne abbia compreso lo spirito, fra il serio e il giocoso. E' un piacere rileggersi! A presto!"
+            ],
+            "timestamp": "2020-02-05T07:54:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46221-torner%C3%A0-lacquarillo//?do=findComment&comment=816692"
+        }
+    ],
     "post_staff": [],
     "text": [
         "«Chiù-chiu-rì» fece l’acquarillo.",
