@@ -64,7 +64,7 @@
     },
     "num_chars": 7915,
     "num_commenti": 1,
-    "num_posts": 10,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 816096,
@@ -91,6 +91,18 @@
             ],
             "timestamp": "2020-02-04T15:02:18Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46179-prima-del-destino//?do=findComment&comment=816583"
+        },
+        {
+            "post_id": 816768,
+            "text": [
+                "Ricordi benissimo, visto che l'idea di Lizz è proprio quella di una lettera anonima inserita in un libro. Il \"gioco\" è nell'immaginare la reazione di chi la ritrova. Quindi suppongo che, qualunque delle risposte tu abbia letto, parte proprio dal ritrovamento nel libro.",
+                "Sono d'accordo su tutti i tagli che mi hai suggerito (ma perché non mi accorgo mai del surplus in fase di rilettura?) tranne su questo:",
+                "Voleva esserlo, come spesso sono epici e \"grandiosi\" i sogni della giovinezza. Ho calcato la mano per riprodurre, con uno stile retorico, questa sensazione. Però se non hai colto questo senso, forse così come l'ho scritto non funziona.",
+                "Grazie davvero per la gradita lettura e i suggerimenti.",
+                "Talia"
+            ],
+            "timestamp": "2020-02-05T12:58:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46179-prima-del-destino//?do=findComment&comment=816768"
         }
     ],
     "post_staff": [],

@@ -58,7 +58,7 @@
     },
     "num_chars": 4524,
     "num_commenti": 1,
-    "num_posts": 7,
+    "num_posts": 9,
     "post_after": [
         {
             "post_id": 816246,
@@ -77,6 +77,24 @@
             ],
             "timestamp": "2020-02-02T20:13:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816247"
+        },
+        {
+            "post_id": 816734,
+            "text": [
+                "Ci lavorerò.",
+                "Ad ogni modo, grazie di essere passata anche qui .",
+                "A presto."
+            ],
+            "timestamp": "2020-02-05T11:04:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816734"
+        },
+        {
+            "post_id": 816735,
+            "text": [
+                "Grazie , belle parole. Mi piace che tu abbia visto su cosa regge lo scritto."
+            ],
+            "timestamp": "2020-02-05T11:06:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816735"
         }
     ],
     "post_staff": [],
