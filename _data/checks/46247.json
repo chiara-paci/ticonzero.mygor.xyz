@@ -1,0 +1,63 @@
+{
+    "author": {
+        "author_id": 35841,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Aria Sposa",
+        "url": "https://www.writersdream.org/forum/profile/35841-aria-sposa/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 453,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "una gobba",
+        "come del fato mio la morsa",
+        "mi sceglie",
+        "strappa forte via la gamba",
+        "e la sua rotta l’altra segue",
+        "per forza",
+        "a testa in giù,",
+        "questa montagna",
+        "mi vuole un poco morta",
+        "o poco più",
+        "che viva",
+        "e mi ribalto in uno scatto",
+        "non conosco cielo o cima",
+        "sono sola su un bianco pazzo",
+        "ho polvere d’angelo",
+        "negli occhi",
+        "la mia melodia s’inchina",
+        "mi rintrona negli orecchi",
+        "l’energia mia abbatte boschi",
+        "mentre rotolo divina",
+        "ogni fiocco sono specchi.",
+        "a guardarti dentro",
+        "non vi riconosceresti",
+        "questo"
+    ],
+    "timestamp": "2020-02-05T20:07:47Z",
+    "title": "Caduta",
+    "topic_id": 46247,
+    "url": "https://www.writersdream.org/forum/forums/topic/46247-caduta/"
+}
