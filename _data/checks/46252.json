@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Spietato come al solito Elisa, ma forse le persone si aspettano proprio questo da me",
+                    "PREMESSA: apprezzo moltissimo le persone che sperimentano, che si chiudono nel laboratorio della propria mente e cercano, in una maniera o nell'altra, di tirar fuori nuove formule, nuovi virus o nuove cure. Per quanto ti riguarda, questa continua voglia di sperimentare non è solo innegabile, ma ti fa onore. E così come ti fa onore, la sperimentazione porta con sé anche gli oneri e i passi falsi (sempre dal mio punto di vista).",
+                    "Partiamo già dal titolo, che ha catturato la mia attenzione: \"i likes\". Penso immediatamente:\" 'sta ragazza le trova tutte lei. Vediamo che diamine esce fuori da una poesia sui likes.\"",
+                    "Entriamo nel componimento.",
+                    "Perfetto. A quanto pare siamo in mezzo ad un quadrilatero (o forse anche più) amoroso. O forse no? Sicuramente vi è di mezzo la lussuria, ma non la semplice carnalità, non il sesso sfrenato e fine a sé stesso: parliamo di cene, di un ambiente sterile, anonimo, un rifugio dal conformismo, si presuppone. D'altronde, gli uomini con i quali si va a cena riescono (o stimolano?) a tirar fuori le parole, e sono uomini beat. Si ricerca un ambiente quasi disumanizzato, robotizzato, selvaggiamente elegante: un preludio a un sesso vuoto, ma funzionale al fuggire da sé stessi? Ci sono i social di mezzo, i \"likes\" e la \"provvisorietà del vino\". Vediamo se riusciamo a scoprirlo.",
+                    "Esci con questi uomini (quanti, a questo punto, è un dato relativo) ma, nella tua mente, ce n'è un altro, forse il più robotizzato fra tutti, che ha, a quanto pare, attirato la tua attenzione. Ti trovi perfettamente a tuo agio in questo ambiente, talmente tanto che ti senti pronta a raccontare della nostalgia di quest'uomo. Ovviamente, con questi uomini (mossa furba, da uomo devo dirlo: odio le donne che iniziano a parlare del loro \"amore perduto\") eviti di parlare di LUI, del sommo apatico, asociale uomo che gironzola nella tua testa. E' LUI, l'uomo disumanizzato, il cacciatore di Tinder, Facebook o Instagram, che cerca solamente \"eiaculazioni virtuali\" (sesso virtuale o piacevole sesso privo di ogni emozione?). Ma, proprio da colui che ha zero emozioni, che è alla ricerca solamente di una preda sul web con la quale soddisfare le sue voglie (assopite, a quanto pare, o che si stanno assopendo), sei attratta, per qualche ragione solo a te nota.",
+                    "CONCLUSIONE: argomento interessante. Per moltissimi \"poeti e scrittori di rango\", trattare argomenti del genere potrebbe essere un abbandonare \"l'universalità della poesia\" toccando temi mediocri, volgari e vili. Ovviamente, per me non è così. Il componimento è a tratti interessante, a tratti completamente apatico e narrativo (in senso spregiativo, in questo caso: forse termine poco consono). Il senso di vuotezza creato è si coerente e funzionale, ma lascia me, come lettore, indifferente al tuo componimento in molti tratti. Ognuno di noi cerca nella poesia uno specchio nel quale cercare quel che vuole trovare: un capello bianco, i propri stupendi occhi blu, la propria anoressia o la propria obesità. Proprio per questo questo componimento, ai miei occhi, rimane una semplice e interessante poesia, come ve ne sono delle altre. Non ho trovato la sublimazione dei miei istinti e dei miei desideri, del mio pensiero. E' stato un buon lavoro, un vestito ben cucito, ma che non mi piace.",
+                    "A presto, da un tuo lettore attento"
+                ],
+                [
+                    "C'è qualche refuso: perdonamelo."
+                ]
+            ],
+            "timestamp": "2020-02-06T17:42:21Z",
+            "title": "I likes",
+            "url": "https://www.writersdream.org/forum/forums/topic/44884-i-likes//?do=findComment&comment=816997",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 742,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "UN'ASPIRINA",
+        "Vorrei credere in dio,",
+        "lo vorrei veramente. Venerare",
+        "una croce di legno e sperare",
+        "che il buio non mi butti giù",
+        "come un minuscolo acino d'uva.",
+        "Si azzittirebbe, finalmente,",
+        "questo feroce ruggito",
+        "che sbrana i miei pensieri",
+        "come una carcassa di zebra.",
+        "Non posso far altro se non",
+        "disperarmi del cobalto negli occhi",
+        "e il grigio e la nebbia nel petto.",
+        "È il dispetto che la nostra stupida",
+        "intelligenza ha voluto farci.",
+        "Cosa potremo mai sperare",
+        "sotterrati fra le stelle?",
+        "Possiamo solo affogare la malinconia",
+        "con qualche bottiglia di cognac,",
+        "soffocare la sofferenza in una nuvola",
+        "di catrame e nicotina.",
+        "Prendo un'aspirina per smaltire",
+        "l'angoscia dello svanire in due lettere.",
+        "Vorrei credere in dio, lo vorrei veramente,",
+        "ma siamo solamente aquile",
+        "con ali di cartone."
+    ],
+    "timestamp": "2020-02-06T17:50:40Z",
+    "title": "Un'aspirina",
+    "topic_id": 46252,
+    "url": "https://www.writersdream.org/forum/forums/topic/46252-unaspirina/"
+}
