@@ -43,7 +43,7 @@
     },
     "num_chars": 4396,
     "num_commenti": 1,
-    "num_posts": 11,
+    "num_posts": 12,
     "post_after": [
         {
             "post_id": 815316,
@@ -76,6 +76,14 @@
             ],
             "timestamp": "2020-02-03T20:45:59Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46119-r-u-e-s-p-u//?do=findComment&comment=816463"
+        },
+        {
+            "post_id": 816854,
+            "text": [
+                "Una volta che lo si conosceva non era possibile non volergli bene, anche se la sua presenza era molto forte, quando lo si conosceva veniva allo scoperto che era una persona di fiducia e nobile."
+            ],
+            "timestamp": "2020-02-05T21:55:12Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46119-r-u-e-s-p-u//?do=findComment&comment=816854"
         }
     ],
     "post_staff": [],
