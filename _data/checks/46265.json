@@ -1,0 +1,75 @@
+{
+    "author": {
+        "author_id": 34050,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Convulsioni",
+        "url": "https://www.writersdream.org/forum/profile/34050-convulsioni/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Gentile Elisa Audino, ho letto la tua poesia incuriosito dal titolo, che ho trovato dissonante sia nella forma grafica che nel significato. È un ossimoro efficace, perlomeno a un primo livello superficiale, l'associazione tra una parola poeticamente inconsistente e un componimento. Dividerà in schiere i tuoi lettori, ma credo che questo costituisca già in sé un argomento di analisi e dibattito costruttivo. La poesia mi è piaciuta, soprattutto la prima parte in cui viene sviluppato il tema del dialogo letterario - mi ha riportato a piacevoli conversazioni. Molto efficaci la scelta e la costruzione del setting hotel: un luogo spersonalizzato dove ogni rapporto è di passaggio, per un'attività intima e non documentabile come il dialogo. Una tresca verbale clandestina che hai costruito bene, seminando qua e là qualche riferimento pruriginoso - una conta di uomini senza volto, asciugamani buttati a terra, il vino - che attiva ulteriori piani di lettura, pure inconsci. Superati i convenevoli della zona franca, nella seconda parte consenti ai tuoi interlocutori e ai tuoi lettori di scrutare lo stato d'animo della voce narrante, in cui nostalgia e forse innamoramento e forse abitudine restituiscono quell'insieme irregolare di sensazioni e comportamenti tipici della fine di un rapporto. Dal punto di vista strettamente poetico posso dirti poco perché non mi ritengo preparato a sufficienza, mi permetto un solo appunto sulla scelta dei termini - la combo eiaculazione e virtuale non mi piace, la trovo forte senza giustificazione. Nel complesso è un componimento che sperimenta, ti rileggerò con piacere."
+                ]
+            ],
+            "timestamp": "2020-02-07T18:42:38Z",
+            "title": "I likes",
+            "url": "https://www.writersdream.org/forum/forums/topic/44884-i-likes//?do=findComment&comment=817226",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 426,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Si estingue il soffio",
+        "resta immoto il velo",
+        "sul presente imperfetto",
+        "che nel futuro consuma.",
+        "Dimoro nell'ombra",
+        "dell'estate migliore",
+        "tra schiere di operai",
+        "in attesa di istruzioni.",
+        "In gola la combustione",
+        "dei pozzi di propano",
+        "che attraverso un altoparlante",
+        "inquina il mondo.",
+        "Non mi muovo, osservo",
+        "il volo delle mosche",
+        "attorno alla decomposizione",
+        "del mio sonno.",
+        "Una galassia puntiforme",
+        "accoglie la caduta",
+        "nell’eco di pianti e risate",
+        "di persone andate."
+    ],
+    "timestamp": "2020-02-07T18:48:49Z",
+    "title": "Proiezioni",
+    "topic_id": 46265,
+    "url": "https://www.writersdream.org/forum/forums/topic/46265-proiezioni/"
+}
