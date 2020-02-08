@@ -58,7 +58,7 @@
     },
     "num_chars": 4524,
     "num_commenti": 1,
-    "num_posts": 9,
+    "num_posts": 11,
     "post_after": [
         {
             "post_id": 816246,
@@ -95,6 +95,14 @@
             ],
             "timestamp": "2020-02-05T11:06:05Z",
             "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=816735"
+        },
+        {
+            "post_id": 817223,
+            "text": [
+                "Probabilmente non ne sono in grado. Devo lavorarci. Pensa che pensavo di saper anche scrivere."
+            ],
+            "timestamp": "2020-02-07T18:09:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46189-lo-sguardo//?do=findComment&comment=817223"
         }
     ],
     "post_staff": [],

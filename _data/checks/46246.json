@@ -53,8 +53,21 @@
     },
     "num_chars": 6007,
     "num_commenti": 1,
-    "num_posts": 3,
-    "post_after": [],
+    "num_posts": 4,
+    "post_after": [
+        {
+            "post_id": 817202,
+            "text": [
+                ", grazie",
+                ", e io che trovavo che fosse la sola cosa \"originale\" del racconto tralasciare lo stereotipo della gattara come vecchia pazza insopportabile odiata e odiante gli esseri umani",
+                "a parte gli scherzi, riconosco che ultimamente tendo sempre più a lasciare il negativo fuori da quel che scrivo, sarà perché c'è già tanto schifo nella vita reale, ma hai ragione: probabilmente non giova alla mia scrittura.",
+                "Diciamo che la cattiveria qui è rimasta nel non raccontato (magari la Delia ha fatto fuori il marito sbevazzone e violento e ne ha fatto macinato per i gatti ^^)",
+                "Grazie mille delle tue osservazioni, come sempre"
+            ],
+            "timestamp": "2020-02-07T16:23:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/46246-la-gattara//?do=findComment&comment=817202"
+        }
+    ],
     "post_staff": [],
     "text": [
         "L’alba è passata da poco. Nella piazzetta esagonale, una piccola tribù di gatti attende in silenzio. Rumori familiari risvegliano la loro attenzione, alcuni scattano sull’attenti. Un grosso maschio rosso che sembra aver già attraversato diverse primavere e altrettante battaglie, s’incammina in avanscoperta. Un piccoletto dal pelo tigrato lo segue a qualche passo di distanza, forse come dimostrazione di rispetto.",
