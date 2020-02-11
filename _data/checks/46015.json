@@ -13,7 +13,7 @@
     "checks": {
         "num_chars": true,
         "timestamp": true,
-        "valid": 1.0,
+        "valid": 0.5,
         "weight": true
     },
     "closed": false,
@@ -21,28 +21,16 @@
         {
             "checks": {
                 "timestamp": false,
-                "valid": 1
+                "valid": 0
             },
             "text": [
-                [
-                    "Ciao",
-                    "Cercavo un RL da leggere e in chat mi ha consigliato la tua",
-                    "Scelta non fu più azzeccata. Non desidero scendere nei meriti politici, né giudicare l'operato di quel giorno, ma il tuo racconto, per voce della protagonista, è davvero ben scritto. Più lieve all'inizio, quando introduce il dramma (sebbene la presenza della psicologa già instradi il lettore verso la conclusione), diventa sempre più incalzante, mostrando le scene con agghiacciante freddezza, come se fossero viste attraverso uno schermo, come se la protagonista stesse girando un film e scegliendo come incollare le varie scene.",
-                    "Invece sta raccontando tutto alla psicologa Amalia. Perché lei era lì, in quel diliro umano descritto da te, e lì ha perduto il figlio che non sapeva di avere.",
-                    "Struttura, ritmo, lessico, punteggiatura: con questi quattro strumenti ben orchestrati, hai composto il tuo pentagramma e suonato la tua musica, facendola ascoltare anche a me.",
-                    "Invidio e stimo chi, come te, ha questo talento (innato o acquisito con l'esperienza, non saprei) di fotografare le scene e riproporle a parole.",
-                    "Mi sento di appuntarti solo qualche piccolezza, perché non c'è niente altro:",
-                    "suscitò? È scritto così bene, quel \"diede\" stona un po'",
-                    "seriamente? ^O^ perdonami se mi viene da sorridere nel vedere questa descrizione dal taglio estremamente da romanzo \"rosa\" stile quelli che leggeva mia mamma da giovane",
-                    "su"
-                ],
                 [
                     "Hai ragione, me ne sono accorta dopo. Grazie dell'avviso :)"
                 ]
             ],
-            "timestamp": "2020-01-13T14:24:52Z",
+            "timestamp": "2020-01-15T11:40:11Z",
             "title": "Genova per me",
-            "url": "https://www.writersdream.org/forum/forums/topic/45756-genova-per-me//?do=findComment&comment=812081",
+            "url": "https://www.writersdream.org/forum/forums/topic/45756-genova-per-me//?do=findComment&comment=812611",
             "weight": 2
         },
         {
