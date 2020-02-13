@@ -20,21 +20,6 @@
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0
-            },
-            "text": [
-                [
-                    "Hai ragione, me ne sono accorta dopo. Grazie dell'avviso :)"
-                ]
-            ],
-            "timestamp": "2020-01-15T11:40:11Z",
-            "title": "Genova per me",
-            "url": "https://www.writersdream.org/forum/forums/topic/45756-genova-per-me//?do=findComment&comment=812611",
-            "weight": 2
-        },
-        {
-            "checks": {
                 "timestamp": true,
                 "valid": 1
             },
@@ -55,7 +40,7 @@
             "weight": 2
         }
     ],
-    "commenti_weight": 4,
+    "commenti_weight": 2,
     "expected_weight": 2,
     "forum": {
         "forum_id": 156,
@@ -63,7 +48,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
     },
     "num_chars": 13240,
-    "num_commenti": 2,
+    "num_commenti": 1,
     "num_posts": 11,
     "post_after": [
         {
