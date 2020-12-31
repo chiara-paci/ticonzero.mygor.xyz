@@ -1,0 +1,66 @@
+{
+    "author": {
+        "author_id": 15728,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Komorebi",
+        "url": "https://www.writersdream.org/forum/profile/15728-komorebi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 752,
+    "num_commenti": 0,
+    "num_posts": 10,
+    "post_after": [
+        {
+            "post_id": 879305,
+            "text": [
+                "sigh"
+            ],
+            "timestamp": "2020-12-27T13:57:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50081-n20-2-ode-al-mattone//?do=findComment&comment=879305"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Pacco numero 9. Traccia di carbone:",
+        "Il vostro pacco contiene un mattone. Partite da qui per creare il vostro componimento.",
+        "Boa: Tutti versi devono contenere una figura di suono (Allitterazioni, onom﻿atopeiche, assonanze)﻿.",
+        "Ode al mattone",
+        "Io matto con questo mattone in mano",
+        "domando: che ci faccio e dove lo ficco?",
+        "Oh mattone, SBAM, su chi fa baccano",
+        "ci resta stecco se non chiude il becco.",
+        "Fischia il vento e il fuoco scalda piano,",
+        "mattone a letto scacci il freddo secco.",
+        "Sei nella casa del gramo e nel maso,",
+        "in chiesa e in case chiuse sei di spicco.",
+        "Quale matto il mattone impacchettò?",
+        "Di unici utili usi tu fra altri godi",
+        "e spero, sigh, sia tu pur stregato.",
+        "Ti chiedo chiaro un caro portento:",
+        "per l’ode niente frodi, solo lodi,",
+        "io sia, CLAP, del contest re acclamato."
+    ],
+    "timestamp": "2020-12-27T13:34:50Z",
+    "title": "[N20-2] Ode al mattone",
+    "topic_id": 50081,
+    "url": "https://www.writersdream.org/forum/forums/topic/50081-n20-2-ode-al-mattone/"
+}

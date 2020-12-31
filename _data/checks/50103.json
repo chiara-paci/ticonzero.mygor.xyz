@@ -1,0 +1,156 @@
+{
+    "author": {
+        "author_id": 38341,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Gianfranco P",
+        "url": "https://www.writersdream.org/forum/profile/38341-gianfranco-p/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 486,
+    "num_commenti": 0,
+    "num_posts": 22,
+    "post_after": [
+        {
+            "post_id": 879573,
+            "text": [
+                "Sei troppo buona",
+                "Grazie"
+            ],
+            "timestamp": "2020-12-29T11:09:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879573"
+        },
+        {
+            "post_id": 879585,
+            "text": [
+                "Giusto , come ho fatto a dimenticare le castagne?",
+                "Rimedio subito mettendoci una coda:",
+                "E basta con le lagne",
+                "sul virus stronzo che ci fa ammalare:",
+                "stiamo in casa, col vino e le castagne.",
+                "(Poi magari me ne viene in mente una migliore...)",
+                "Ciao grazie"
+            ],
+            "timestamp": "2020-12-29T11:48:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879585"
+        },
+        {
+            "post_id": 879687,
+            "text": [
+                "Ciao",
+                "hai fatto le stesse osservazioni che mi aveva fatto mia moglie un attimo prima che la postassi. Però, con un briciolo di imprudenza, l'ho postata lo stesso. Comunque,",
+                "è un ottimo complimento.",
+                "Grazie!"
+            ],
+            "timestamp": "2020-12-29T18:28:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879687"
+        },
+        {
+            "post_id": 879704,
+            "text": [
+                "Mah! Perché mettere limiti alla provvidenza? Foscolo, Gozzano, perché no Durante..."
+            ],
+            "timestamp": "2020-12-29T20:09:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879704"
+        },
+        {
+            "post_id": 879705,
+            "text": [
+                "Grazie",
+                "in verità è la parte chi mi ha dato più difficoltà, e temevo anzi che non mi fosse venuta bene; però anche gli altri mi dicono così, e quindi ne sono contento!",
+                "Grazie",
+                "Mah, il manierismo è relativo: ogni stile rischia di diventare maniera quando qualcuno l'ha usato prima di te, almeno finché non diventa un classico (a me sembra manierismo fare di tutto per evitare i ritmi e le rime, scrivere un po' a sinistra un po' a destra ecc. ecc.). Ovviamente il paragone con Rodari mi lusinga",
+                "Ciao, grazie ancora"
+            ],
+            "timestamp": "2020-12-29T20:19:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879705"
+        },
+        {
+            "post_id": 879867,
+            "text": [
+                "Ma sono io che ti faccio la ola,"
+            ],
+            "timestamp": "2020-12-30T12:06:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879867"
+        },
+        {
+            "post_id": 879868,
+            "text": [
+                "mi ha \"beccato\" sull'unica parola che non piaceva neanche a me.",
+                "non so chi sia",
+                "però la tua visita e il tuo commento mi hanno fatto tanto piacere.",
+                "Grazie a tutt'e due"
+            ],
+            "timestamp": "2020-12-30T12:10:05Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879868"
+        },
+        {
+            "post_id": 879910,
+            "text": [
+                "Vero! Grazie, non lo conoscevo",
+                "Ciao"
+            ],
+            "timestamp": "2020-12-30T17:25:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879910"
+        },
+        {
+            "post_id": 879911,
+            "text": [
+                "E due! (A cui ho fatto venire in mente Rodari)",
+                "Ne sono doppiamente onorato.",
+                "Grazie"
+            ],
+            "timestamp": "2020-12-30T17:27:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879911"
+        },
+        {
+            "post_id": 879971,
+            "text": [
+                "Avete visto la notizia?",
+                "Mi sa che il focolare sta per spegnersi... Spero solo di non avere portato sfiga io...",
+                "Guardate sulla Home"
+            ],
+            "timestamp": "2020-12-30T20:20:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879971"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Freddo e solo ripensa il caminetto",
+        "ai tempi andati, quando nel salone",
+        "fra gli amici e l'allegra confusione",
+        "spandeva la sua fiamma gran diletto;",
+        "da quando l'ordinanza del Prefetto",
+        "ha stabilito che la combustione",
+        "del legno, e non si parli del carbone,",
+        "ha sull'ambiente deleterio effetto.",
+        "Non sarò mai nemico del progresso:",
+        "uso infatti la pompa di calore;",
+        "però se piove o nevica, lo stesso,",
+        "e alla famiglia va di chiacchierare,",
+        "accendo il fuoco, torni il buonumore!",
+        "E ci stringiamo intorno al focolare."
+    ],
+    "timestamp": "2020-12-29T10:39:14Z",
+    "title": "[N20-2] Il focolare",
+    "topic_id": 50103,
+    "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare/"
+}

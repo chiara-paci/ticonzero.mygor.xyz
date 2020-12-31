@@ -1,0 +1,141 @@
+{
+    "author": {
+        "author_id": 654,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "aladicorvo",
+        "url": "https://www.writersdream.org/forum/profile/654-aladicorvo/"
+    },
+    "checks": {
+        "num_chars": false,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 8300,
+    "num_commenti": 0,
+    "num_posts": 25,
+    "post_after": [
+        {
+            "post_id": 877167,
+            "text": [
+                "hai ragione, nel copia-incolla sono andati persi corsivi, punteggiatura un po' di altra mercanzia, avrei dovuto fare più attenzione.",
+                "questo invece l'avrei scritto anch'io così, ma la treccani m'ha bacchettato.",
+                "@Macleo, la vedova Sperelli è \"molto esperta in quel genere di cose\" la vedevo quindi come una specie di sensale.",
+                "Comunque grazie a tutti, per la cura, per l'attenzione, di cui farò tesoro, e per gli apprezzamenti che, come dice @Almissima, ti salvano la giornata.Grazie."
+            ],
+            "timestamp": "2020-12-17T11:31:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49936-n20-1-berenice//?do=findComment&comment=877167"
+        },
+        {
+            "post_id": 877556,
+            "text": [
+                "@ViCo @Emy (Uff! Sciopero delle tag?) felice che abbiate gradito il raccontino.",
+                "La trama di minuzie, a cominciare dal disturbino, a vrebbe meritato maggior cura, ma ero in modalità Cesso Siberiano a causa del Penna eSpada. e i neuroni superstiti hanno dato forfaiit.",
+                "Grazie comunque. Di cuore!"
+            ],
+            "timestamp": "2020-12-18T18:15:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49936-n20-1-berenice//?do=findComment&comment=877556"
+        },
+        {
+            "post_id": 878020,
+            "text": [
+                "concordo in pieno: hai messo il dito sulle sfilacciature della struttura, non solo rispetto alla consegna.",
+                "Tuttavia, al disturbino ci sono affezionata e non so se avrei cuore di eliminarlo. Rispecchia la mia anima plebea e coprolaliaca che detesta le scimmie agghindate.",
+                "Il problema è la centratura. I commenti severi, che sono i più generosi, me lo stanno insegnando.",
+                "Resistere alla fascinazione proprio di quella trama di minuzie che alza un polverone della madonna e manda in vacca danneggia gravemente la fruibilità del testo.",
+                "Grazie!"
+            ],
+            "timestamp": "2020-12-20T06:55:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49936-n20-1-berenice//?do=findComment&comment=878020"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Per quEsto racconto ho dovuto seguire la traccia del pacco 12 :",
+        "Il Dettaglio.... Puoi scrivere secondo il genere che preferisci, l'importante è che, all'interno del racconto, svolga un ruolo FONDAMENTALE qualcosa di piccolo, per molti trascurabile, e che questo sia descritto nel dettaglio e con precisione.",
+        "Fu il 25 dicembre del 1878 che Pieralberto Marazzi di Sarnò, mio fratello, sedette per l'ultima volta a tavola con noi.",
+        "Aveva finito il secondo piatto di lumache, cosa che il buonsenso avrebbe sconsigliato, visti i patimenti derivati da quello che in famiglia tutti chiamavano il disturbino.",
+        "Si manifestò quando aveva dodici anni e non se ne liberò mai più.",
+        "«È una fermentazione di origine nervosa, non c'è da allarmarsi» rassicurò il dottor Guerreri. Ma l'abbondanza di purghe e di clisteri a cui lo sottopose non sortì alcun effetto, se non quello di aumentare il nervosismo suo e di tutta la famiglia.",
+        "Pieralberto era di aspetto gradevole e di carattere mite, sebbene la sua debolezza intestinale rendesse assai difficoltosa la frequentazione della buona società, ancorché di buono quella avesse ben poco.",
+        "E così, per dignità e per avvilimento, egli risolse di guardarlo da lontano quel mondo che, dalla torretta della villa, col suo cannocchiale, gli si palesava come un'affascinante trama di minuzie, dai più ignorate, persi com'erano dietro alle mondane vanità.",
+        "Si istallò lassù, deciso a non discenderne se non per qualche accidente grave.",
+        "Fu con la malattia di nostro padre che si dovette affrontare la faccenda poiché, avendo io intrapreso la carriera prelatizia, non restava che Pieralberto a sobbarcarsi l'onere della successione.",
+        "Vista la situazione, aggravata dai dissesti finanziari, ci si adattò a non andare troppo per il sottile e a prendere in considerazione la proposta della vedova Sperelli, donna molto pia e assai esperta in questo genere di cose.",
+        "Così conoscemmo la signorina Berenice Viganò, forte di fianchi e di pelo, incarnazione peculiare del concetto di bellezza mediterranea. E il fatto che non dovesse districarsi tra una folla di pretendenti, ci parve garanzia di moralità, per altro ben accompagnata dalla cospicua rendita derivata dagli allevamenti di capre e vacche della sua famiglia.",
+        "Le cose vennero fatte a modo, così che nessuno ebbe a sparlare di quella che fu per tutti una transazione piuttosto vantaggiosa .",
+        "Pieralberto scese dalla torretta, fugando così ogni maldicenza intorno a un giovane che disdegnava la compagnia femminile, e Berenice ebbe finalmente accesso a quella parte dei salotti dov'erano le maritate, a testa alta, visto il blasone, e autorizzata a discorrere sulle cose del mondo che una signorina, per decenza, mai avrebbe dovuto nemmeno conoscere.",
+        "Furono giorni quieti.",
+        "Fino a quel pomeriggio di ottobre.",
+        "Giunsi alla villa per un saluto, prima di proseguire per l'eremo di Linguaglossa.",
+        "L'eco del disturbino di Pieralberto mi condusse in biblioteca dove sedeva con il volto cupo.",
+        "Si rigirava tra le mani qualcosa e sospirava.",
+        "Appena mi vide tese il braccio per mostrarmelo.",
+        "«È fieno» disse.",
+        "«E dunque? Non è cosa rara, siamo in campagna.»",
+        "«Era sul cuscino di Berenice.»",
+        "Ci volle del bello e del buono per convincerlo che il vento d'autunno può fare queste cose, che Pietro, il giardiniere, aveva già una moglie a cui badare, che era troppo spesso ubriaco per insidiare quelle altrui e che, in tutta franchezza, la virtù di Berenice era comunque salva, giacché Madre Natura aveva pensato a farle scudo.",
+        "Sembrò darmi retta e ci salutammo con la promessa che al mio ritorno sarei passato di nuovo.",
+        "Invece gli impegni mi tennero lontano fino a Natale.",
+        "Al mio arrivo trovai Pieralberto smagrito, pallido, ma in fin dei conti sereno.",
+        "«Berenice?» chiesi.",
+        "«Eccola.»",
+        "Usciva dalla serra con le guance rosse, recando un vaso di ciclamini, più mediterranea di come la rammentassi.",
+        "Ci vide, affrettò il passo, il cane le si mise di traverso, ella barcollò, le cadde il vaso e infine rovinò a terra con un grido acuto",
+        "Restò così gemendo, giacché era evidente, vista la stazza, che nemmeno unendo gli sforzi saremmo riusciti a sollevarla, finché non accorse Pietro che invece se la caricò e, con un paio di scrolloni, la acconciò sulla schiena e la portò dentro.",
+        "Quello che accadde poi sarà il mio cruccio finché vivo.",
+        "Il dottor Guerreri, ormai canuto e di più che veneranda età, lì convenuto per il pranzo di Natale, entrò annunciato dal ticchettio del suo bastone.",
+        "S'accomodò come potè sul bordo del divano e con due dita sollevò la veste di Berenice.",
+        "Distolsi lo sguardo, sebbene certo che nulla di quanto si sarebbe palesato avrebbe mai potuto suggerire neppure l'ombra di carnali godimenti.",
+        "Vidi invece il volto di Pieralberto trascolorare. Lo vidi boccheggiare e, forte e chiaro, ne udii rumoreggiare il turbamento.",
+        "«Una banale contusione» dichiarò Guerreri riponendo la veste là, dove era meglio che stesse. «Saranno sufficienti impacchi con il ghiaccio e qualche giorno di riposo.»",
+        "Le somministrò un calmante e la lasciammo riposare.",
+        "Si desinò in silenzio, quasi che anche il Natale si fosse contuso insieme a Berenice.",
+        "«Pieralberto, dimmi che hai?» gli chiesi quando fummo soli.",
+        "«La calza.» disse e sulle prime non capii.",
+        "«Non era dove avrebbe dovuto essere.»",
+        "Continuavo a non capire.",
+        "Gli lasciai sfogare tutta l'angoscia con gli occhi che mi lacrimavano per l'afrore.",
+        "Alla fine lo pregai: «Andiamo in giardino, se non ti spiace.»",
+        "E lì mi confidò di come fosse stato a lungo torturato dal desiderio di vedere il corpo della moglie, che a lui si concedeva raramente e solo al buio.",
+        "Di come avesse praticato un foro alla parete tra le camere, di come ogni sera la spiasse e si fosse abbandonato a quel vizio in cui alla fine trovava assai più godimento che a possederne le carni per davvero.",
+        "Tutto mi confessò, preda di quel tormento che lo squassava dentro e fuori, sicché benedissi l'idea che ci aveva condotti all'aria aperta.",
+        "«La calza, però?» gli chiesi «Continuo a non capire.»",
+        "«Stamane» disse serrando i pugni «la trasse da uno stipo insieme all'altra e la poggiò sulla dormeuse dove è solita disporre gli abiti. Stese la gamba e l'infilò così che vidi esattamente la cucitura che ne aveva riparato il danno. Era la calza destra, potrei giuralo.» chiuse gli occhi, strinse le labbra «Non così uscendo dalla serra.»",
+        "«Vuoi dire che...»",
+        "«Che la fedifraga la tolse, questo voglio dire!» gridò «E di fretta furia la rimise senza badare al dove e al come! Senza alcun rispetto per me, per sé, per la casa che l'accolse!»",
+        "Il tradimento dunque s'era consumato.",
+        "Povero fratello mio!Avessi avuto maggior considerazione di quel sospetto. E invece fui cieco e sordo: cos'avrà mai da dire un po' di fieno su un guanciale? Cosa il rammendo di una calza migrata da una gamba all'altra?",
+        "«Dannato quell'inciampo e Guerreri che sollevò la veste e Berenice e Pietro e il mondo tutto!»gridava",
+        "«Dunque tu l'ami?» chiesi incredulo.",
+        "Pieralberto si fermò come colto di sorpresa.",
+        "«Non lei» disse «Piuttosto il mio guardarla che, quello sì, m'apparteneva fino in fondo! Sapevi che ha un ciuffetto di peli tra le scapole? Certo no, io soltanto. E che, seduta, il ventre le nasconde il pube? Nessuno al mondo. Solo io.» Tornò a sedere col volto mesto eppure stranamente rischiarato «Non l'inganno, né l'animalesca trivialità del convegno, no, non è quello l'oltraggio, ma il negarmene la vista. Di quello mi sento derubato.»",
+        "«Dovrai mandarla via» consigliai.",
+        "«Me ne guardo bene» disse risoluto «Dovrà restituirmi invece tutto il maltolto!»",
+        "Berenice venne da me redarguita e poi ragguagliata sul comportamento da tenere in seguito.",
+        "Alla notizia che nulla le sarebbe stato tolto, se fosse stata ai patti, reagì con una sorta di grugnito compiaciuto, radicando viepiù in me la convinzione che la Provvidenza sia generosa con tutte le creature e che noi si debba fare altrettanto, specie con gli animali.",
+        "Pietro venne ritrovato in un fosso con la testa fracassata.",
+        "Dicerie malevole attribuirono alla moglie il fatto, sebbene là intorno ci fosse una quantità di pietre che, cadendo ubriaco, avrebbero sortito lo stesso effetto, cosa che permise al Sovrintendente di chiudere in fretta tutta la faccenda.",
+        "Pieralberto risalì in torretta e si fece recapitare numerosi cannocchiali.",
+        "Li dispose a ogni finestra, il più grande puntato verso la serra da cui entrava e usciva Berenice, variamente accompagnata.",
+        "È ancora lì e lo so contento."
+    ],
+    "timestamp": "2020-12-16T16:37:42Z",
+    "title": "[N20-1] Berenice",
+    "topic_id": 49936,
+    "url": "https://www.writersdream.org/forum/forums/topic/49936-n20-1-berenice/"
+}

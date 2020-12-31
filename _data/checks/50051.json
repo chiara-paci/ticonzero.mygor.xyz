@@ -1,0 +1,117 @@
+{
+    "author": {
+        "author_id": 27783,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Kiarka",
+        "url": "https://www.writersdream.org/forum/profile/27783-kiarka/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Prima volta che leggo un tuo racconto all'infuori dei contest, scrivi bene e ci tengo a precisare che ti farò le pulci solo perché devo postare un racconto mio",
+                    "Mi unisco al coro dei commenti che ha definito alcuni dialoghi molto efficaci e dinamici. Tipo questo qui:",
+                    "leggendolo ho proprio visto la scena svolgersi davanti agli occhi.",
+                    "Inoltre, all'inizio credevo che fossero due adulti a parlare, ma dai dialoghi mi fai intuire quasi subito si tratti di ragazzini, di teppisti, e mi piace che tu sia riuscita a far trapelare questo particolare dalle parole dei protagonisti.",
+                    "Invece altre battute invece suonano un po' inverosimili, tipo questa",
+                    "Perché il padre si rivolge ai bulli come \"manovalanza\" e \"pedine sacrificabili\"? Sembra come se il padre del ragazzino sia in qualche modo il loro capo, o il capo dei loro genitori.",
+                    "La prima vittima non era molto lontana, ma non è Simone la prima vittima, hanno già spaccato le gambe a un paio di persone",
+                    "Simone non voleva lasciarsi sfuggire alcun lamento? E come mai? Poi non ho inquadrato bene il ruolo del signore con il bracciale punk. Lui farà arrestare il biondino, ma perché aspettare che ci andasse di mezzo Simone per denunciarlo, visto che i ragazzi avevano già rubato dei telefoni e picchiato altre persone, quindi c'erano gli estremi per una denuncia?",
+                    "Sembra come se organizza tutto lui per una ipotetica redenzione religiosa che, a mio avviso, avrebbe dovuto essere approfondita, o magari potevi già menzionare un rosario o crocifisso che il signore portava al collo, e far intuire al meglio la relazione tra il vecchio e il signore misterioso che manda il biondino in galera, lasciato così, per me lo stacco di scena risulta repentino e un po' confusionario.",
+                    "Spero i miei consigli possano essere d'aiuto, e a rileggerci"
+                ]
+            ],
+            "timestamp": "2020-12-24T15:00:55Z",
+            "title": "Bullone",
+            "url": "https://www.writersdream.org/forum/forums/topic/49142-bullone//?do=findComment&comment=878957",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5597,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Ogni storia che si rispetti dovrebbe cominciare con una premessa. La mia è che mi sono lasciata con Peppe, il mio fidanzato del liceo.",
+        "Per ritrovare l’autostima ho pensato di iscrivermi in palestra, cosa che poi non ho fatto, e siccome tutti mi ripetevano di trovare il lato positivo ho deciso di consultare la mia migliore amica Irene, che ha studiato filosofia.",
+        "«Sociologia» ha puntualizzato accendendosi una sigaretta nel salotto.",
+        "«E poi Veronica, la vera consolazione è che vi siete lasciati nel 2010. Dovresti guardare avanti...Peppe l'anno prossimo si sposa pure»",
+        "«Ma come si sposa?» le dico, sgranando gli occhi, mentre lei espira una nuvola di fumo.",
+        "«Eh sì, me lo ha detto una mia collega del negozio, amica della fidanzata. Si sposa anche in chiesa. Ma so già come puoi rimediare»",
+        "Per questo ora siamo sul divano ad armeggiare con il cellulare. L’idea di Irene è di istruirmi sull’ultimo prodigio della modernità: Flicker, la nuova app di incontri.",
+        "«Guarda che la usiamo tutti.» mi dice con il suo tono professionale da venditrice di cosmetici «È comoda perché puoi filtrare le preferenze, se una sera vuoi andare in discoteca puoi trovare una persona che vuole fare le stesse cose. O andare al ristorante, e puoi filtrare anche in base alla dieta»",
+        "Ottovolante, la mia cocorita, si è appollaiato sulla mia spalla e guarda curioso la vetrina di Flicker. Non ero convinta di portarlo con me perché è un pappagallo ansioso, quando non è in un ambiente familiare ha gli attacchi di panico e urla. Per fortuna Irene è vegana, quindi ama gli animali.",
+        "Gli mostro la foto del primo ragazzo apparso nella bacheca.",
+        "«Che ne pensi di questo, Ottovolante? È veterinario»",
+        "«Che schifo!Che schifo!»",
+        "«Ok non ti chiedo più niente».",
+        "Passiamo dieci minuti a scorrere foto, metto in tutto una dozzina di mi piace. Cerco Irene che armeggia in cucina.",
+        "«Ireneee, ora che faccio? Ho messo venti like» uso il termine inglese perché lei è all’avanguardia.",
+        "«Nulla, aspetti»",
+        "«Quindi funziona come quando invio un curriculum, lo mando e attendo una chiamata?»",
+        "«Più o meno, vieni a darmi una mano»",
+        "Lascio il telefono e vado in cucina dove la aiuto a marinare e friggere un po’ di tofu e verdure.",
+        "Plin!",
+        "«Cosa è questo rumore? Il citofono?» mi giro verso il divano, Ottovolante svolazza allontananadosi dal cellulare.",
+        "Irene mi sorride.",
+        "«Qualcuno ti ha risposto!»",
+        "Scopro che un ragazzo ha ricambiato il mio cuoricino con un altro cuoricino, quindi ci piacciamo. Guardo la foto: ha la pelle chiara e i capelli scuri ma il viso coperto dagli occhiali da sole, non mi è familiare.",
+        "«Non ricordo di aver messo mi piace a questo qua!» mi volto verso Ottovolante che si è rifugiato sul lampadario e mi spia con la coda dell’occhio e l'aria colpevole.",
+        "«Ma che cosa combini maledetto pappagallo!»",
+        "Irene si avvicina a guardare.",
+        "«Si chiama Francesco» le mormoro, porgendole il telefono",
+        "«Sembra carino!» commenta, sorridente.",
+        "«Sì, e studia ingegneria, però un momento, aspetta: gli piace la musica pop italiana»",
+        "«Quale? Tiziano Ferro, Nek?»",
+        "«Non lo specifica, ma non posso uscire con qualcuno con questi gusti, ti ricordi quando frequentavo quel ragazzo che mi costringeva ad ascoltare i Modà? Che tortuta!»",
+        "«Giusto, e chi se lo scorda...allora dovresti filtrare meglio le tue preferenze, vuoi che lo faccia io per te?»",
+        "Le porgo il telefono e lascio che armeggi con il mio profilo. Forse questo Flicker non è così male, riesce a farti scoprire subito chi è adatto a te e chi no risparmiandoti la trafila di cene e appuntamenti imbarazzanti con annessa delusione.",
+        "Mi avvicino a Ottovolante, ha lo sguardo dolce di chi vuole farsi perdonare.",
+        "«Dai va bene, non l’hai fatto apposta. Ma non giocare più col telefono».",
+        "Gli do un bacino, mentre si ritrae, guardingo.",
+        "---",
+        "Intanto a cinque chilometri di distanza, in un’altra casa di fuorisede con camere a 600 euro e cucina a gas al di sotto degli standard di sicurezza.",
+        "«Milla, che hai fatto!»",
+        "Milla vola sulla testa di Francesco, la usa come rifugio ogni volta che percepisce di aver fatto qualcosa di sbagliato.",
+        "«Che è successo?» Marco, il coinquilino fuori corso, sporge la testa oltre al divano senza togliere lo sguardo da PES.",
+        "«Si è appollaiata sul cellulare e per sbaglio ha messo mi piace a una tizia su Flicker...lei ha ricambiato!»",
+        "«Oh no, ma è carina almeno?»",
+        "«Mh»",
+        "Francesco controlla velocemente le foto: castana e pelle chiara, naso un po’ grosso. Si sofferma sulla biografia, mentre la cocorita gli si appollaia sulla spalla per giochicchiare con la barba.",
+        "«Non è male, però ascolta musica indie e le piace letteralmente “bere la birra e viaggiare”. Chi scrive una cosa del genere se vuole rimorchiare? Poi studia scienze politiche»",
+        "«Vabbè Frà, a te piace la politica, no? Scrivile, avresti con chi parlare delle cose che ti interessano, tipo il Trattato di Roma... la finanziaria...quel referendum che c'è stato l'anno scorso...»",
+        "Dà un’ultima occhiata al profilo di Veronica. Osservandone le foto si direbbe che non sia neanche così carina.",
+        "«Mah, secondo me sarebbe tempo sprecato, leggo che non abbiamo niente in comune. E poi voglio una ragazza coi capelli chiari e gli occhi azzurri».",
+        "Mette il cellulare in standby, lasciandolo sul letto insieme al caricatore. Ha già passato un'ora su Flicker e si era promesso di spenderci meno tempo. Non vorrebbe arrivare in ritardo all' appuntamento con Paula, una studentessa carina (e bionda) appena arrivata per l’erasmus.",
+        "Cerca Milla con la coda dell’occhio. La cocorita lo guarda con una dolcissima aria colpevole. Le sorride.",
+        "«Dai, non l’hai fatto apposta, ma non toccare più il telefono...dammi un bacino» alza la spalla per spronarla, cercando di avvicinare il naso al suo becco."
+    ],
+    "timestamp": "2020-12-24T15:13:31Z",
+    "title": "Per fortuna che c'è Flicker",
+    "topic_id": 50051,
+    "url": "https://www.writersdream.org/forum/forums/topic/50051-per-fortuna-che-c%C3%A8-flicker/"
+}

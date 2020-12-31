@@ -1,0 +1,142 @@
+{
+    "author": {
+        "author_id": 23608,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "paolasenzalai",
+        "url": "https://www.writersdream.org/forum/profile/23608-paolasenzalai/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 1104,
+    "num_commenti": 0,
+    "num_posts": 13,
+    "post_after": [
+        {
+            "post_id": 879828,
+            "text": [
+                "Carissima ,",
+                "in tutta la tua vita intendi? Se no mi sembra poco...",
+                "Sei meravigliosa! E soprattutto per niente obiettiva, ma va bene così.",
+                "E' la prima poesia che scrivo in vita mia per cui non hai idea del bene che mi hai fatto.",
+                "Quando si pubblica qui ci si spoglia sempre un po' e trovare qualcuno che ti fa una carezza è stupendo.",
+                "Grazie Monica."
+            ],
+            "timestamp": "2020-12-30T10:20:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879828"
+        },
+        {
+            "post_id": 879829,
+            "text": [
+                "sì,",
+                "sono d'accordo con te.",
+                "Molto d'accordo.",
+                "Grazie per essere passata."
+            ],
+            "timestamp": "2020-12-30T10:22:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879829"
+        },
+        {
+            "post_id": 879835,
+            "text": [
+                "Ciao ,",
+                "ok, ma quanto lento leggi tu?",
+                "L'idea era che tu leggessi subito, durante la parte musicale e poi... arriva la magia, la spiegazione, la poesia vera e tu confuso e un po' rintronato da De Andrè pensi: oh, ma che bella poesia.",
+                "Invece tu leggi lento... è chiaro che poi non torna niente. Uff.",
+                "Questo contest andrebbe fatto in maniera orale! Ecco.",
+                "Avrei dovuto inviare un video, così davo il ritmo giusto (per me) e l'avrei anche mimata. Tiè.",
+                "tienila in caldo per la terza tappa",
+                "Non dire cose brutte che poi mi danno punti di penalizzazione!",
+                "non mi hai lasciata andare caro mio, io con te non ho ancora finito!",
+                "Ci si vede in giro."
+            ],
+            "timestamp": "2020-12-30T10:35:59Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879835"
+        },
+        {
+            "post_id": 879843,
+            "text": [
+                "grazie, grazie e ancora grazie per il tuo onorante commento.",
+                "Lo vedi ? Poeta Zaza, che è una che sa dare il ritmo giusto alla poesia e anche al resto, mi sa, si è fidata di me, si è lasciata \"intortare\" dall'atmosfera e ha colto la pienezza e il messaggio. Tu invece...",
+                "Scherzo, scusatemi tutti e due, ma sono troppo contenta. Grazie Poeta Zaza, è la prima poesia che scrivo in vita mia. Mi fa piacere essere riuscita a dire quello che avevo dentro. Grazie ancora."
+            ],
+            "timestamp": "2020-12-30T10:47:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879843"
+        },
+        {
+            "post_id": 879852,
+            "text": [
+                "Non credo, no",
+                "Mi sto già arrabattando con i racconti..."
+            ],
+            "timestamp": "2020-12-30T11:13:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879852"
+        },
+        {
+            "post_id": 879889,
+            "text": [
+                "Amorevole ,",
+                "no, sarà stata piuttosto la traccia... diceva no anafora, no anastrofe.",
+                "No e no! Io in mente avevo castelli di sovrastrutture, palazzi di figure retoriche che si sono trasformati in niente quando ho capito... va beh dai, tanto mi sgami subito. Sì, è come dici tu. Tra l'altro il finale doveva essere così:",
+                "dettagli piccoli così, conservati meglio di noi",
+                "noi che siamo fatti di niente.",
+                "Ma la traccia me lo ha impedito. Cattiva traccia!",
+                "In realtà l'ho molto amata invece, la traccia. Mi ha permesso di sentirmi libera e a mio agio, potendo in ogni caso dar la colpa alla traccia e non alla mala attitudine.",
+                "non è che non voglio, non sono preparata...",
+                "Ma parla per te! Sarai tu stucchevole, io sono affascinante",
+                "E poi i complimenti sono belli.",
+                "Va beh, addio.",
+                "Ah, grazie Edu. Grazie davvero,",
+                "ma addio."
+            ],
+            "timestamp": "2020-12-30T14:17:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=879889"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: La penombra.",
+        "Nella penombra è difficile scorgere il profilo esatto delle cose. Oppure si scorge, ma sembra ammantato di un velo.",
+        "Potete interpretare la traccia sia letteralmente che metaforicamente.",
+        "Boa: la poesia deve essere in verso libero, senza rime (di massima, nel senso che non deve seguire uno schema di rime, se capita per caso ok), e deve evitare troncamenti di vocaboli e le figure retoriche dell'anafora e dell'anastrofe.",
+        "Mi piacerebbe tu ascoltassi una canzone. Dovresti far partire la musica e poi iniziare a leggere, non ti disturberà, fidati di me.",
+        "Preghiera in gennaio - Paolo Fresu e Paola Turci",
+        "Fatti di niente",
+        "Ti scorgo ormai solo qui dentro",
+        "dove è facile confondere il falso col vero.",
+        "Abituo l’occhio,",
+        "mi guardo intorno.",
+        "Un’eclissi di luce parziale.",
+        "Dalla finestra... l’odore di neve,",
+        "un alito di vento carezza la pelle.",
+        "Forse sei tu o forse il ricordo,",
+        "terra di frontiera, non mi abituerò mai!",
+        "Sono un’ospite circondata di te.",
+        "La giacca sulla sedia,",
+        "gli occhiali sul comò.",
+        "Sfioro una penna, un biglietto scritto a metà,",
+        "dettagli piccoli così, conservati meglio di noi che",
+        "siamo fatti di niente."
+    ],
+    "timestamp": "2020-12-29T23:09:10Z",
+    "title": "[N20-2] Fatti di niente",
+    "topic_id": 50120,
+    "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente/"
+}

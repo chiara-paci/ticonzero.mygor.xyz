@@ -1,0 +1,108 @@
+{
+    "author": {
+        "author_id": 29185,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Alba360",
+        "url": "https://www.writersdream.org/forum/profile/29185-alba360/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 1070,
+    "num_commenti": 0,
+    "num_posts": 11,
+    "post_after": [
+        {
+            "post_id": 879740,
+            "text": [
+                "Scusate quella virgolaccia dopo castigo. Vi pareva che io non la vedessi appena postato? Che dramma sono."
+            ],
+            "timestamp": "2020-12-29T22:43:06Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50119-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF-nella-pace-degli-dei//?do=findComment&comment=879740"
+        },
+        {
+            "post_id": 879854,
+            "text": [
+                "Sette ne ho scritte, mannaggia me.",
+                "Ho perso due giorni inseguendo",
+                "Sette traccie diverse. Quella pan di zenzero sembrava facile!",
+                "Poi ieri sera, in due ore, scritta e pubblicata in piena ispirazione.",
+                "Grazie, sono felice che ti sia piaciuta."
+            ],
+            "timestamp": "2020-12-30T11:21:04Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50119-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF-nella-pace-degli-dei//?do=findComment&comment=879854"
+        },
+        {
+            "post_id": 879861,
+            "text": [
+                "Sai cosa mi ha spinto a scrivere così questa strofa?",
+                "L'immaginazione. Mentre scrivevo",
+                "Ero Medea. Imie figli tramortiti ai piedi, la lama stretta nel pugno.",
+                "Ad alta voce ho gridato",
+                "- perché Medea!",
+                "Ho affondato il pugnale nel cuore del più grande, poi come sollevata dall incubo di mettere in atto la mia vendetta ho continuato.",
+                "- é stata A fargli questo.",
+                "L'ultimo verso é importante, éil momento in cui io non pensavo piú alla vendetta, in quanto essa era già in atto.",
+                "La pausa non ci andrebbe, lo so.",
+                "In realtà io ho esitato prima di affondare il coltello nel collo di mio figlio, é stato solo un momento, subito dopo aver gridato il mio nome, con il pugno a mezz,aria, sapevo ancora che avrei potuto fermarmi.",
+                "Ecco, volevo congelare quel momento.",
+                "Mi faccio troppi film, e tu hai sicuramente ragione. Lo sai e me lo hai detto che io scrivo come se fossi certa che chi legge sia a conoscenza di quello che mi gira per la testa.",
+                "Dovrò concentrarmi di piú su questo aspetto della mia scrittura",
+                "per non finire sempre per rovinare le mie idee.",
+                "Grazie, per il tuo apprezzamento."
+            ],
+            "timestamp": "2020-12-30T11:47:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50119-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF-nella-pace-degli-dei//?do=findComment&comment=879861"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia di pan di zenzero:",
+        "Pot﻿ete utilizzare la traccia che più vi piace tra quelle uscite agli altri. La stessa traccia sarà quindi usata da due partecipanti.",
+        "Per la mia prova ho scelto dunque, dopo una sonquassante lotta interiore, la traccia:",
+        "Prima o dopo la vendetta:",
+        "La vendetta è spesso raccontata nel suo compiersi. Ma ci sono altri due momenti fondamentali: quello in cui scaturisce il proposito di vendetta, e quello in cui si fanno i conti con sé stessi dopo averla messa in atto. Scegli uno dei due momenti e descrivine le sensazioni dal punto di vista di chi la vendetta vuole compierla o l’ha compiuta.",
+        "Nella pace degli dei",
+        "Né nutrimento, né riposo.",
+        "Né più lacrime.",
+        "L’oltraggio mi corrode.",
+        "Selvaggia.",
+        "Dal torto ora dipendo.",
+        "Odio, smania feroce.",
+        "Guerra crudele nell’animo.",
+        "Lotta che mi spacca il cuore.",
+        "Sarò implacabile.",
+        "E quasi mi basta il pensiero.",
+        "Il sapore del sangue,",
+        "il castigo, ora richiede.",
+        "Poveri figli miei.",
+        "Perfettamente,",
+        "sarete voi la mia vendetta.",
+        "L’idea di piangervi assai,",
+        "mi affligge di meno,",
+        "se è vostro padre soffrire di più.",
+        "Perché Medea!",
+        "È stata a fargli questo."
+    ],
+    "timestamp": "2020-12-29T22:37:25Z",
+    "title": "[N20-2﻿﻿﻿] Nella pace degli dei",
+    "topic_id": 50119,
+    "url": "https://www.writersdream.org/forum/forums/topic/50119-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF-nella-pace-degli-dei/"
+}

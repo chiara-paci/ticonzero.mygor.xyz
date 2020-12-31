@@ -1,0 +1,303 @@
+{
+    "author": {
+        "author_id": 23608,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "paolasenzalai",
+        "url": "https://www.writersdream.org/forum/profile/23608-paolasenzalai/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7521,
+    "num_commenti": 0,
+    "num_posts": 53,
+    "post_after": [
+        {
+            "post_id": 877659,
+            "text": [
+                "Ciao ,",
+                "Vorrei dirti che la parte di lui l'ho scritta io e viceversa, ma mi sgameresti dopo 3 secondi:",
+                "sto ancora cercando di capire cosa voglia dire",
+                "Parentesi: non mi sono dimenticata della nostra \"ideona\", sia chiaro. Mi serve solo un po' di tempo per organizzare le idee.",
+                "Grazie Poeta Zaza per essere passata di qui."
+            ],
+            "timestamp": "2020-12-18T21:26:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877659"
+        },
+        {
+            "post_id": 877664,
+            "text": [
+                "Sì, abbastanza. Io personalmente ho difficoltà solo con quelli in italiano fatti davanti ai quadri."
+            ],
+            "timestamp": "2020-12-18T21:30:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877664"
+        },
+        {
+            "post_id": 877671,
+            "text": [
+                "Ciao , io adesso mi stampo il tuo commento e lo incornicio. Non credo mi ricapiterà mai più di leggere:",
+                "sotto a un mio racconto.",
+                "Certo, grande merito va a @Gianfranco P, ma questa cosa la ometterò nella cornice.",
+                "Grazie per essere passato."
+            ],
+            "timestamp": "2020-12-18T21:38:15Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877671"
+        },
+        {
+            "post_id": 877676,
+            "text": [
+                "Cara ,",
+                "Sì, anche tu ad averlo detto. Grazie mille."
+            ],
+            "timestamp": "2020-12-18T21:42:32Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877676"
+        },
+        {
+            "post_id": 877681,
+            "text": [
+                "Ciao @Almissima (scusa, non mi fa taggare)",
+                "eh, non c'è niente da fare... stessa lunghezza d'onda io e te.",
+                "Quando un sorriso vale più di cento parole."
+            ],
+            "timestamp": "2020-12-18T21:50:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877681"
+        },
+        {
+            "post_id": 877686,
+            "text": [
+                "Ciao ,",
+                "Una svista? Assolutamente no! Fa sempre parte della:",
+                "tra passato, presente, futuro, ricordi, flashback, ancora passato, futuro... eh?",
+                "Ok, una svista.",
+                "Grazie mille per il passaggio."
+            ],
+            "timestamp": "2020-12-18T21:56:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877686"
+        },
+        {
+            "post_id": 877692,
+            "text": [
+                "Caro ,",
+                "Bravo, diglielo!",
+                "Wow, inutile dire che la poesia non ce l'ho messa io. Però ho sorriso, conta vero?",
+                "Macleo, tu ancora non lo sai, ma prima o poi e in maniera totalmente subliminale, ti convincerò a scrivere un racconto insieme a me.",
+                "Intanto grazie per essere passato di qua.",
+                "Ah, io cornetto vuoto."
+            ],
+            "timestamp": "2020-12-18T22:06:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877692"
+        },
+        {
+            "post_id": 877695,
+            "text": [
+                "Sì, immediatamente. Sarà stato il vino friulano..."
+            ],
+            "timestamp": "2020-12-18T22:08:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877695"
+        },
+        {
+            "post_id": 877866,
+            "text": [
+                "Direi che non c'è bisogno di aggiungere altro:",
+                "Grazie mille,"
+            ],
+            "timestamp": "2020-12-19T14:55:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877866"
+        },
+        {
+            "post_id": 877926,
+            "text": [
+                "Ciao ,",
+                "No, ma non devi, non è assolutamente necessario, grazie.",
+                "Hai ragione, ma guarda che questi si incontrano in Via di Monserrato, mica in una via quaquaraqua. E' tutta lì la sagacità",
+                "Dai, scherzo. Hai ragione tu .",
+                "Ciao e grazie per essere passata."
+            ],
+            "timestamp": "2020-12-19T18:23:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877926"
+        },
+        {
+            "post_id": 877981,
+            "text": [
+                "Grazie per essere passata, grazie per il bel commento e devo dire che l'ironia ce l'ha messa tutta , io ero troppo presa dal... quadro ."
+            ],
+            "timestamp": "2020-12-19T21:54:42Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877981"
+        },
+        {
+            "post_id": 877984,
+            "text": [
+                "Non è vero, lo abbiamo fatto insieme, una mano tu, una io, una tu, una io... e meno male che non abbiamo usato i piedi"
+            ],
+            "timestamp": "2020-12-19T21:57:21Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877984"
+        },
+        {
+            "post_id": 877989,
+            "text": [
+                "Oh, l'allibratore è passato di qui.",
+                "Sì, passo di continuo, sì.",
+                "tu non targhi Edu.",
+                "Niente scommesse, troppo facili, però terremo conto (forse) del tuo suggerimento:",
+                "Grazie cattivissimo @Edu, piacerti non è affatto semplice. Io lo so."
+            ],
+            "timestamp": "2020-12-19T22:17:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=877989"
+        },
+        {
+            "post_id": 878159,
+            "text": [
+                "Grazie",
+                "Infatti. Abbiamo cercato di mantenerle intatte, senza rimescolamenti, un po' come succede fuori dai contest, nella vita vera .",
+                "Beh, io non ce l'ho messa!",
+                "Grazie per essere passato di qui."
+            ],
+            "timestamp": "2020-12-20T21:45:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878159"
+        },
+        {
+            "post_id": 878418,
+            "text": [
+                "Grazie mille per essere passata di qui e per il tuo:",
+                "guarda, fosse per me: una realizzazione a due cuori lo metterei come sottotitolo, non credo ci servirà, ma sarebbe bellissimo.",
+                "Grazie."
+            ],
+            "timestamp": "2020-12-21T22:42:14Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878418"
+        },
+        {
+            "post_id": 878421,
+            "text": [
+                ", che grande idea, adesso chiamo tutti i musei e consiglio loro di raddoppiare, triplicare il numero degli ascensori.",
+                "Quanto bisogno c'è di far risuonare le vibrazioni?",
+                "Grazie per essere passato."
+            ],
+            "timestamp": "2020-12-21T22:47:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878421"
+        },
+        {
+            "post_id": 878428,
+            "text": [
+                "Cara ,",
+                "sarà stato il quadro ad ispirarci .",
+                "Grazie a te per il commento e soprattutto per aver \"partorito\" questa traccia che a noi è molto piaciuta.",
+                "Ovviamente non potrò mai più guardare \"quel\" quadro senza pensare a questo contest. E meno male che è andata bene.",
+                "Grazie di tutto."
+            ],
+            "timestamp": "2020-12-21T23:00:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878428"
+        },
+        {
+            "post_id": 878438,
+            "text": [
+                "Cara , che bello ritrovarti",
+                "mi fa moltissimo piacere che ti sia piaciuto il nostro racconto, a noi è piaciuta molto la vostra traccia.",
+                "ma anche se lo pensassimo... andrebbe bene lo stesso",
+                "Questa cosa arei potuta scriverla io",
+                "anch'io, ci sono nata, ci vivo...",
+                "Ma stai scherzando? E' questo il bello dei contest, dei commenti, dei confronti.",
+                "Grazie Emy, per le tue parole, per la tua innata gentilezza e per averci regalato, insieme a Ippolita, questa bellissima traccia."
+            ],
+            "timestamp": "2020-12-21T23:22:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878438"
+        },
+        {
+            "post_id": 878440,
+            "text": [
+                "Ecco , bastava tu dicessi questo:",
+                "Grazie mille per essere passato e per il tuo bello, semplice, delicato, scritto bene, non banale commento."
+            ],
+            "timestamp": "2020-12-21T23:27:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878440"
+        },
+        {
+            "post_id": 878442,
+            "text": [
+                "Ciao , grazie mille per essere passata di qua e cosa posso dire a una persona che si definisce: \"Ufolle psicotropa\"?",
+                "Nulla, se non: hai tutta la mia stima .",
+                "Buon proseguimento"
+            ],
+            "timestamp": "2020-12-21T23:37:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878442"
+        },
+        {
+            "post_id": 878530,
+            "text": [
+                ", volevo solo pubblicamente ringraziarti. E' stato molto bello scrivere insieme a te. Grazie."
+            ],
+            "timestamp": "2020-12-22T11:32:02Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v//?do=findComment&comment=878530"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Kiss V",
+        "Quella mattina mi ero svegliato prima del previsto, per via del sole che alle sette già filtrava tra le persiane; ma quando mi alzai per chiuderle del tutto, e dormire ancora un po’, dalla finestra dell’hotel mi apparve un cielo di un azzurro così bello, cosparso qua e là di nuvole rosa, che mi sembrò di buon augurio. Allora cambiai idea: andai in bagno, mi vestii, e scesi in Campo dei Fiori, dove al bar all’angolo presi un cappuccino e un cornetto alla crema.",
+        "La riunione di lavoro era alle 11: avevo metà mattina a disposizione, e dovevo approfittarne.",
+        "Attraversai la piazza del mercato, salutai di sfuggita Giordano Bruno, che se ne stava lì ingrugnato come al solito, e poi mi diressi verso Piazza Navona. O almeno così credevo: non essendo pratico della zona, girai a sinistra invece che a destra, costeggiai piazza Farnese, e presi via di Monserrato. In realtà, non mi importava molto di dove stessi andando: mi piace moltissimo “perdermi” nelle città che visito, gironzolare un po’ a caso.",
+        "A un certo punto, sulla destra vidi una scritta: “Mostra d’arte contemporanea”. Senza sapere bene perché, decisi di entrare. Presi il biglietto, e poi un ascensore: perché la bigliettaia mi avvisò che la mostra era al terzo piano.",
+        "Che fortuna! A Roma, alla Galleria Colli, c’è la mostra d’arte contemporanea e ho letto che è esposto anche il quadro di Roy Lichtenstein: Kiss V, un quadro che ho sempre desiderato vedere. Mia sorella non mi accompagnerà perché è qui per seguire un corso di aggiornamento e questa mattina ha lezione.",
+        "Non fa niente, ci andrò da sola.",
+        "Amo Roma come fosse casa mia.",
+        "C’è stato un tempo in cui l’ho frequentata parecchio. Ovviamente, prima di andare alla mostra, passo in Campo de’ Fiori. Nonostante siano passati moltissimi anni, non sono capace di venire a Roma senza passare da qui. In questa piazza ho trascorso la notte più bella della mia vita, ricordo ancora quando arrivando da Via dei Giubbonari, vedemmo le cassette di frutta che ardevano sotto la statua di Giordano Bruno, avvolgendolo ancora una volta in mezzo alle fiamme.",
+        "Con questo ricordo in mente mi dirigo a passo spedito in Via di Monserrato, nella strada cosmopolita delle botteghe e degli atelier eclettici.",
+        "Sono così emozionata che non vedo l’ora di trovarmi a tu per tu con il capolavoro. Avrò bisogno di intimità per guarda﻿rlo.",
+        "Non sono un grandissimo estimatore di arte contemporanea, a dire il vero. Tutti i quadri mi sembravano un po’ strani, esagerati, i colori troppo sgargianti, le figure quasi sempre un po’ troppo provocanti.",
+        "Quel quadro di un tale Lichtenstein, ad esempio: un primissimo piano di un uomo e una donna che si baciavano; se pure era un quadro, perché a me sembrava piuttosto la riproduzione di un fumetto, preso da qualche storia di comics americani, tipo Batman o l’Uomo ragno, per intenderci. Un po’ volgarotto, insomma.",
+        "… il bacio. Questo è molto più di un bacio. \"Verremo perdonati te lo dico io…\" canticchio, ma qui non verrà perdonato nessuno. Il bacio di Roy è un bacio senza ritorno. Da lì si può solo andare avanti o morire.",
+        "Davanti al quadro è piazzato un tizio. Non riesco a distinguerne i lineamenti, di sicuro l’abbigliamento mi colpisce. Elegante e fuori luogo.",
+        "Dovrei chiedergli di andarsene, forse potrei anche farlo. Questo è il momento mio e di Roy, ma, penso, se a quest’ora del mattino il tizio è già qui, vorrà dire qualcosa, no?",
+        "Mi avvicino e mi metto al fianco dello sconosciuto.",
+        "Trasuda passione, sofferenza e amore, il quadro.",
+        "Vorrei toccarlo, passare un dito su quei pixel antesignani e forse, asciugare le lacrime alla ragazza.",
+        "A quel punto mi si piazzò a fianco quella signora. Non male, pensai. Era vestita fra lo sportivo e l’elegante; e, d’altra parte, ho sempre avuto un debole per le bionde. Piacente, però anche impicciona: guardava il quadro con un’espressione di tale rapimento, che sembrava volersi mettere davanti a me, per osservarlo meglio. Non ebbi altra scelta: «Le piace?» domandai.",
+        "«Sì, moltissimo e a lei?» rispose. Era così commossa, che aveva perfino gli occhi lucidi.",
+        "«Mah! Non so… Fra l’altro, non mi sembra nemmeno un bacio. Lei sta solo appoggiando le labbra sulla guancia di lui, non trova?»",
+        "Non era d’accordo: «No! Non sta affatto appoggiando solo le labbra. Lui la stringe e lei gli si abbandona. Lui potrebbe baciarla, possederla forse e invece sceglie di stringerla forte, come un bene prezioso.»",
+        "La guardai. Effettivamente, era una bella donna. «Ma lei… è un’esperta? Lavora magari qui alla galleria?»",
+        "«Ma no», rispose ridendo. «Sono una turista. E lei?»",
+        "«Eh… Mi sono concesso uno strappo fra due impegni di lavoro. Sono solo di passaggio. Stasera ho l’aereo per Venezia.»",
+        "«Ah, è di Venezia?»",
+        "«No, di Udine.»",
+        "«Ah! Jò o soi di Palme...»",
+        "E jò di Vildivar, stavo per rispondere. Ma lasciai cadere l’allusione. Con gli sconosciuti, non si sa mai bene come va a finire: magari si fa amicizia, ma poi non ci si vede più per tutta la vita. Che peccato. Perciò ignorai quell’accenno di confidenza, e continuai in italiano; anche se mi venne naturale, a quel punto, di darle del tu.",
+        "Forse per darmi un tono, dissi: «Non trovi che sia il classico esempio di decostruzione del rapporto fra l'autore e il fruitore, tipico della postmodernità? Che, da Benjamin in poi, è cambiato per sempre…»",
+        "Ma come faceva a non capire? A non vedere la bellezza assurda di quel quadro? Decostruzione del rapporto? Perché si perde a cercare spiegazioni, quando dovrebbe limitarsi a cogliere l’emozione di questo primo piano? Qui sono raccontate due vite, eppure Roy ha tolto tutto, nessun elemento a distrarci, niente corpi, scarpe, vestiti, dettagli, niente. Protagonista assoluto: il bacio. Cavolo, siamo davanti a un grumo di emozioni e questo qui parla di decostruzione? Lo guardai senza dire nulla.",
+        "Lei mi guardava un po’ stupita, ma continuai: «Il fatto che non si capisca che scena è, rientra nel concetto dell'infinita interpretabilità dell’opera d’arte postmoderna; o anche della cosiddetta arte commerciale, che poi forse è la stessa cosa.»",
+        "Era incredibile. Ci trovavamo davanti allo stesso quadro e dove io vedevo magia, lui vedeva la cosiddetta arte commerciale. Che poi, cosa ci sarà di sbagliato nell’arte commerciale? Il fatto che possa arrivare a tutti non accresce la sua potenza? In che modo potrebbe sminuirla? Pensando a questo mi accorsi di essergli così vicina da sentirne il calore.",
+        "Strano, non sto mai vicina alle persone, a meno che non mi piacciano tanto. Allungai d’istinto un dito fino a sfiorare la sua mano. Si ritrasse e io feci finta di niente.",
+        "Controllai l’orologio: le dieci e mezza. Era ora di andare. Salutai la tipa: «Tanto piacere, sai? ma devo scappare.»",
+        "«Io sono Paola» disse, quasi gridando.",
+        "«Gianfranco. Chissà che non ci rivediamo a Palmanova.»",
+        "Lei sorrise, mentre mi stringeva la mano.",
+        "Chiamai l’ascensore. Quando si aprì la porta, e stavo per entrare, eccola di nuovo. «Scusa, scendo anch’io con te», disse; «se non ti dispiace.»",
+        "«Ma no, prego.» La porta si chiuse. A metà fra il secondo e il primo piano sentimmo uno scossone, e l’ascensore si bloccò. In più, si spense la luce.",
+        "Lei si aggrappò a me. «Scusa, come faremo ora? Dov’è il pulsante di allarme?» disse, agitata.",
+        "«Eh, se è mancata la luce, non c’è niente da fare» dissi io. Nel buio, per tranquillizzarla, le presi la mano. «Stiamo calmi.»",
+        "Restammo per un po’ così, la mano nella mano.",
+        "«Sì, ma intanto che cosa facciamo?» ripeté lei.",
+        "«Potremmo riprendere la discussione di prima» proposi. «Secondo me ci sono degli aspetti, in quel quadro, ancora da approfondire…»",
+        "«Sì», risposi; e nel buio sorrisi."
+    ],
+    "timestamp": "2020-12-17T19:02:12Z",
+    "title": "[N20-1] Kiss V",
+    "topic_id": 49950,
+    "url": "https://www.writersdream.org/forum/forums/topic/49950-n20-1-kiss-v/"
+}

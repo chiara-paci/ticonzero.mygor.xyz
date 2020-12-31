@@ -1,0 +1,119 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Questa poesia era fra quelle che mi sono capitate sotto gli occhi nel corso della settimana in cui ho fatto parte della giuria dei canti e mi ha colpito, malgrado non avessi capito tutto e presentasse alcuni passaggi che avrei modificato (è normale no? Credo succeda a chiunque scriva e legga poesia, senza per questo doversi sentire in cattedra. In fondo credo fermamente che in poesia non ci siano regole certe, solo diversi criteri di valutazione) e che magari poi passo a illustrare, per dare corpo al commento. Mi ha colpito, dicevo, perché le voci nuove, fresche, fuori dagli schemi - ma soprattutto credo quelle in cui riconosci, a volte persino senza capire il significato, una sincera autenticità di intento e non la pur legittima aspirazione al riconoscimento di merito - si riconoscono subito. E si riconoscono subito anche gli scarti strategici, le deviazioni dal prevedibile senso che si prospetta ad ogni nuovo verso che intraprendiamo. Perchè diciamolo, l'imprevedibilità è uno dei tratti fondamentali della poesia quando si vogliono oltrepassare i recinti della mera estetica formale e graffiare di più. Rileggendola ora, a distanza di tempo, mi vengono in mente ulteriori associazioni ad altre figure di poetesse che hanno vissuto esperienze in istituti psichiatrici più simili a prigioni e camere di tortura che non a centri di cura e recupero e mi dico che forse è il caso di andarle a recuperare fra le letture di gioventù (ben più varie e numerose di quelle attuali, ahimè) e rileggerle alla luce delle mie nuove esperienze e consapevolezze in ambito poetico.",
+                    "Detto questo, passo alle osservazioni a cui mi riferivo sopra:",
+                    "E' un gran bell'incipit, che disegna già da solo una storia clinica di rapporti emotivi e di forza.",
+                    "Mi lascia perplesso il terzo verso. Se il senso è quello che gli attribuisco lo avrei delineato in questo modo:",
+                    "Lo sapevo, in fondo era un modo per attirare l'attenzione",
+                    "dell'infermiere, mio poetastro preferito",
+                    "Io collego quella singola lacrima a cui si fa cenno al passaggio successivo, cioè lo scambio domanda\\risposta ma rimane un po' vago, se davvero il collegamento è quello.",
+                    "Ridere e sorridere sono due cose diverse e visto che ritrovo entrambe le definizioni per rappresentare lo stesso gesto, o momento, la cosa mi dà una sensazione di approssimazione che preferirei risolvere usando lo stesso vocabolo, o uno o l'altro.",
+                    "Tutto qui. Sono comunque perplessità, magari anche infondate, che non mi hanno impedito di apprezzare molto il senso generale della poesia, così per come l'ho inteso io. Grazie della lettura, anzi della rilettura. Ciao"
+                ]
+            ],
+            "timestamp": "2020-12-13T12:06:23Z",
+            "title": "Perché ridi in questo reparto?",
+            "url": "https://www.writersdream.org/forum/forums/topic/48548-perch%C3%A9-ridi-in-questo-reparto//?do=findComment&comment=876559",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 2753,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "UNA MEMORABILE LETTURA DI MASTERS",
+        "I topi di biblioteca e gli emaciati nerd letterari",
+        "annusarono subito nell’aria qualcosa di strano, gli oratori",
+        "entrarono truci e attaccarono i cappotti senza cerimonie",
+        "neanche fossero essi stessi quattro spettri infelici da antologia",
+        "Avevano un aspetto ferino e i volti",
+        "non sembravano potersi piegare a sorrisi di convenienza",
+        "né avere la minima intenzione di rompere il ghiaccio",
+        "Presero posto evitando gli sguardi appesi",
+        "e con loro spuntarono subito, sul tavolo, alcool e bicchieri",
+        "Nessuno sapeva da dove venissero quegli sconosciuti",
+        "né chi avesse organizzato la serata",
+        "Mama la cuoca - così si presentò -",
+        "aveva i capelli a filo degli occhi e le labbra nere",
+        "come lo smalto sulle dita e le Doc Martens",
+        "e attaccò La collina senza noiose valutazioni introduttive",
+        "spiazzando il pubblico colto che amava i preliminari",
+        "La sua voce roca da sintomatica fumatrice",
+        "li colse alla sprovvista, mettendoli alle strette",
+        "Si fece una ventina di morti, suppergiù, poi",
+        "lasciò la parola a Fèro il metalmeccanico che",
+        "partì con Minerva Jones, la bistrattata poetessa di paese",
+        "e di lì proseguì, discretamente elegante",
+        "volto pieno e morbido, come un panino",
+        "due baffi arricciati da moschettiere e quegli occhi",
+        "che potresti vedere nel finestrino di un treno di passaggio",
+        "in una stazione secondaria, dove non si scende mai",
+        "Lesse in tono monocorde con leggere impennate",
+        "di apprezzamento e disgusto, come se",
+        "li avesse conosciuti davvero, quei fantasmi, e li portasse",
+        "aderenti sulla memoria, come mignatte il cui morso",
+        "gli pizzicasse a tratti la tempra dell’esperienza",
+        "E passarono così l’indignato Jones e il dottor Meyers",
+        "e Conrad Siever sepolto fra le radici del melo",
+        "e la povera Flossie, sedotta e abbandonata",
+        "e intanto Mama riempiva i bicchieri",
+        "e Fido il carpentiere beveva, si carezzava la barba",
+        "e giocava con le bretelle sul ventre, aspettando di leggere",
+        "Aveva sopracciglia, basette e in generale pelame ovunque",
+        "così lungo da metterne in discussione la natura umana",
+        "e ventilarne quella canina",
+        "Quando toccò leggere a Lupo il poliziotto in pensione",
+        "– rasato, tatuato, canottiera, cicatrici, sigaretta appesa -",
+        "il giro degli oratori fu completo e poi riprese in ordine sparso",
+        "assegnando a ognuno la sua parte di anime, fino alla fine",
+        "Tutti e quattro si fecero odiare, in quella grandiosa lettura",
+        "per l’assoluta indifferenza che mostrarono al giudizio",
+        "e l’innegabile, illecito amore che tributarono invece",
+        "alla sterminata famiglia estinta, facendosi",
+        "sempre più disinvolti e solidali con i cadaveri ciarlanti",
+        "Con loro si mescolarono e diventarono sì licenziosi e arditi",
+        "arroventando l’aria di quella serata indimenticabile che certo",
+        "Lee Masters e i suoi poveri morti avrebbero apprezzato",
+        "o, forse, apprezzarono. Qualcuno sostenne, infatti",
+        "di avvertire nella stanza molte più presenze",
+        "di quante apparivano"
+    ],
+    "timestamp": "2020-12-13T12:21:32Z",
+    "title": "Una memorabile lettura di Masters",
+    "topic_id": 49907,
+    "url": "https://www.writersdream.org/forum/forums/topic/49907-una-memorabile-lettura-di-masters/"
+}

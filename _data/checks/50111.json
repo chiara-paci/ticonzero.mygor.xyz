@@ -1,0 +1,91 @@
+{
+    "author": {
+        "author_id": 35020,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Almissima",
+        "url": "https://www.writersdream.org/forum/profile/35020-almissima/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 46,
+    "num_commenti": 0,
+    "num_posts": 18,
+    "post_after": [
+        {
+            "post_id": 879648,
+            "text": [
+                "Hai scommesso su di me? Non ci posso credere.",
+                "Nella mia beata ignoranza di poesia sono andata a farmi una cultura sul web ( sono coraggiosa e priva di vergogna) e ho scoperto che l'haiku moderno non rispetta piú la metrica 5-7-5, ma é piú importante che si possa declamare in un fiato unico soprattutto se non é in giapponese. ANche alcune composizioni di Quasimodo e Saba, pur non rispettando quella metrica, da alcuni vengono considerati come degli haiku.",
+                "Il riferimento alla stagione sta nel guizzo della carpa, quindi tra marzo e aprile.",
+                "Peró, come giá detto prima, la poesia per me é una materia assolutamente nuova e inesplorata, per cui ringrazio per tutte le osservazioni di cui faró tesoro."
+            ],
+            "timestamp": "2020-12-29T15:45:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879648"
+        },
+        {
+            "post_id": 879710,
+            "text": [
+                "I principianti, come me, tendono a essere un po’ oscuri. Porta pazienza 😁",
+                "Ti ringrazio per il tuo intervento. Avevo pensato anch’io al rifluire, ma mi dava un po’ l’idea dell’andare indietro.",
+                "Puoi sempre lodarmi per la faccia tosta a cimentarmi in qualcosa di cui non ho la più pallida idea 😜",
+                "grazie per il tuo commento più che generoso",
+                "Ma quanto mi sento importante a far vincere qualcuno! 😁",
+                "Comunque grazie a tutti per non aver infierito ☺️"
+            ],
+            "timestamp": "2020-12-29T20:59:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879710"
+        },
+        {
+            "post_id": 879729,
+            "text": [
+                "Poco, poco... niente! 😂"
+            ],
+            "timestamp": "2020-12-29T21:51:52Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879729"
+        },
+        {
+            "post_id": 879799,
+            "text": [
+                "Grazie moltissime"
+            ],
+            "timestamp": "2020-12-30T07:58:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879799"
+        },
+        {
+            "post_id": 879831,
+            "text": [
+                "grazie mille!"
+            ],
+            "timestamp": "2020-12-30T10:30:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879831"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Guizza la carpa,",
+        "immoto fluisce",
+        "il mio ruscello."
+    ],
+    "timestamp": "2020-12-29T15:27:55Z",
+    "title": "[N20-2] Haiku",
+    "topic_id": 50111,
+    "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku/"
+}

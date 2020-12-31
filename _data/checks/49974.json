@@ -1,0 +1,84 @@
+{
+    "author": {
+        "author_id": 36404,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Aurelio C.P. Mandraffino",
+        "url": "https://www.writersdream.org/forum/profile/36404-aurelio-cp-mandraffino/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ho capito solo leggendo la tua spiegazione cosa intendessi. Nonostante io avessi inteso tutt'altro, il tuo componimento mi è piaciuto molto. Forse risiede in questo la bellezza di componimenti del genere, che riescono a trasmettere sensazioni diverse a seconda del vissuto del lettore.",
+                    "Prima un po' di commenti sulla scelta lessicale che hai compiuto. Ogni termine devo dire che è stato sapientemente scelto. Ho adorato la tua scelta di utilizzare termini appartenenti al campo semantico delle piante. Il verbo innestare è un colpo magistrale.",
+                    "La brevità del testo secondo me è ben dosata. A volte quando si scrive componimenti del genere nella brevità, sembra strano ma secondo me è così, ci si dilunga troppo o troppo poco. Mi ha ricordato, pur non rispettando la metrica tipica, un haiku (questo per me è un gran complimento).",
+                    "Infine ti illustro l'interpretazione che avevo dato io, prima di leggere la tua spiegazione.",
+                    "Un amore non ricambiato. L'amore dovrebbe essere una corrispondenza biunivoca, ma molte volte non accade e la sensazione è proprio come quella di un parassita che si annida nel cuore. Molte volte ne siamo coscienti, molte volte no, magari proseguiamo nella nostra illusione, ma in realtà facendo così nutriamo solo il parassita che pian piano ci sta uccidendo.",
+                    "Complimenti e grazie per aver condiviso con noi la tua poesia!"
+                ]
+            ],
+            "timestamp": "2020-12-18T21:59:31Z",
+            "title": "Amore profano",
+            "url": "https://www.writersdream.org/forum/forums/topic/49642-amore-profano//?do=findComment&comment=877691",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 305,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 879226,
+            "text": [
+                "Grazie mille per la tua analisi molto utile. Le tue parole mi serviranno a migliorare. Unica cosa che tengo a specificare è che \"roboante spezzarsi del tempo\" nella mia testa è sì assordante ma altezzoso, forse come hai detto tu non l'ho messo bene a fuoco, ma intendevo dare l'idea di un rumore sia forte e sgradevole che superbo e tronfio. Grazie ancora 😁"
+            ],
+            "timestamp": "2020-12-27T07:43:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49974-fotogramma-ricorrente//?do=findComment&comment=879226"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "FOTOGRAMMA RICORRENTE",
+        "Gelsomini neri",
+        "bruciati dal sale del tuo silenzio",
+        "cadono lenti",
+        "sul vuoto dei solchi",
+        "della mia anima",
+        "e non basta l'illusione di te",
+        "a colmarmi",
+        "e a far tacere",
+        "il roboante spezzarsi del tempo",
+        "che non cambia per me",
+        "e si ripete",
+        "nell'indifferente anaciclosi",
+        "della mia solitudine",
+        "color pesca e lentiggini."
+    ],
+    "timestamp": "2020-12-18T22:07:41Z",
+    "title": "Fotogramma ricorrente",
+    "topic_id": 49974,
+    "url": "https://www.writersdream.org/forum/forums/topic/49974-fotogramma-ricorrente/"
+}

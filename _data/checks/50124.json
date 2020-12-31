@@ -1,0 +1,97 @@
+{
+    "author": {
+        "author_id": 32107,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Bright sunshine",
+        "url": "https://www.writersdream.org/forum/profile/32107-bright-sunshine/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.4088888888888889,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8177777777777778
+            },
+            "text": [
+                [
+                    "Ciao, un interessante riadattamento della storia del Piccolo principe",
+                    "Il racconto scorre bene, mi piace com' è scritto. L'unica cosa che mi fa storcere il naso è che l'ho trovato un po' troppo frettoloso, come se volessi subito arrivare al finale. La storia è bella, avresti potuto scegliere uno stile un po' più lento, mia opinione eh.",
+                    "Per il resto sei stato/a molto bravo/a. Ho letto il racconto estremo piacere. Complimenti. Ti lascio solo alcuni appunti relativi alla prima parte, ma faccio presente che sono qui da poco e poca esperienza nella scrittura.",
+                    "trascinarlo",
+                    "Iniziale maiuscola: Finisce",
+                    "fossi",
+                    "è sempre lei a parlare, avrei evitato l'andare a capo",
+                    "Non mi convince molto questa frase. Dà l'immagine di un ragazzino ingenuo, che poi però trovo che non si addica alla descrizione che ne viene fuori continuando la lettura del racconto"
+                ]
+            ],
+            "timestamp": "2020-12-30T16:09:16Z",
+            "title": "Il principe e la ladra",
+            "url": "https://www.writersdream.org/forum/forums/topic/37758-il-principe-e-la-ladra//?do=findComment&comment=879903",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 15345,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [
+        {
+            "post_id": 879905,
+            "text": [
+                "Credevo di avere pubblicato il commento ma a quanto pare devo aver sbagliato qualcosa.",
+                "Lo condivido qui"
+            ],
+            "timestamp": "2020-12-30T16:12:35Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50124-una-scena-che-si-ripete//?do=findComment&comment=879905"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Forse non era la sera migliore per uscire di casa. Era gennaio e la pioggia che cadeva a dirotto, il vento che ululava e il freddo che gelava il sangue avrebbero convinto chiunque a stare a casa, sotto le coperte, con una cioccolato calda a guardare un film o a leggere un libro. Tutti tranne Reyl che aveva preso la decisione irremovibile di uscire di casa. Quando veniva preso da questo pulsante bisogno non c’era nulla che lo potesse fermare e niente riusciva a impedirgli di fare quello che stava per fare. Magari il giorno dopo se ne sarebbe pentito come accadeva ogni singola volta da quando l’aveva fatto la prima volta e ne era consapevole, ma neanche questo era sufficiente per dissuaderlo. L’aveva fatto così tante volte che ormai conosceva a memoria tutte le sensazioni che avrebbe provato prima, durante e dopo. Era un ciclo che si ripeteva, come riguardare lo stesso film di cui a un certo punto impari anche le battute a memoria e sai già cosa deve accadere, il finale, sai tutto. Non ti sorprendi più, sei consapevole che non accadrà mai quella cosa che ti lascerà senza fiato perché non te l’aspettavi, quella cosa che ti farà pensare ‘Cazzo, ma sta succedendo veramente?!’. Nonostante questo, ti ostini a guardarlo, forse perché speri che quella volta sarà diversa. Speri che quel personaggio che tutte le volte in cui hai visto film si volta e scappa preso da una paura inspiegabile, quella volta non scappi e guardando l’altra persona la stringa a sé. Così il finale sarebbe stato diverso ed era proprio il finale che tu desideravi tanto vedere mostrato sullo schermo.",
+        "Reyl era consapevole che il finale non sarebbe mai cambiato e anche il suo, come quello del protagonista del film, si sarebbe ripetuto ancora e ancora, sempre uguale, con le stesse dinamiche. Ma a lui questo non importa perché quando si trova in quello stato il futuro gli appare distante, come se non sarebbe mai arrivato, come se tutta la sua vita fosse focalizzata su quello che stava per fare. Tutto il resto sembra svanire nell’oblio e perde importanza. I suoi studi, le sue relazioni, i suoi impegni diventano solamente il margine della sua vita, al centro della quale vi è solamente la necessità impellente di stare meglio. Ma del resto, come dargli torto? Non è forse un desiderio condiviso da tutti gli esseri umani quello di raggiungere il proprio benessere e la felicità? Cambiano solo i mezzi attraverso cui ognuno tenta di farlo.",
+        "Quando giorni dopo cerca di ricordare come si sentiva in quello stato, si dà il duro e aspro giudizio di essere una persona egoista. Sì, egoista perché in quei momenti niente ha importanza se non lui stesso. Diventa il centro del mondo e tutti gli altri scompaiono, non gli importa più di nessuno, né della famiglia, degli amici, dei parenti. Pensa solo a sé stesso e impiegando tutte le sue energie per concentrarsi su di sé, non gliene rimane altra da dedicare agli altri, nemmeno alle persone a lui più vicine.",
+        "Ed è proprio in quei momenti che Reyl ha l’inusuale abitudine di passare molto del suo tempo ad auto analizzarsi. Cerca di capire cosa stia provando, di dare un nome alle sue emozioni, chiedendosi perché le stia sentendo. Quando lo fa, ha una profonda stima di sé perché sa bene che la maggior parte delle persone non è in grado di pensare a sé stessa come fa lui e di questo va molto fiero. Quello che succede è che ogni tanto si sdoppia e guarda la persona che gli compare davanti con il profondo desiderio di comprenderla. Può stare in quella condizione per ore e quando si stanca di studiarla o meglio, di studiarsi, lascia la mente libera di vagare e pensa a qualcosa, poi a qualcos’altro, e qualcos’altro ancora, come una catena in cui ogni pensiero ne richiama un altro, una catena di associazioni che liberamente e spontaneamente riempiono la sua mente. Quando crede di avere pensato a un numero sufficiente di idee, decide di interrompere quel flusso e ripensa alla catena di associazioni che ha creato. Cerca di darci un senso, di trovare un filo conduttore che leghi in qualche modo tutto ciò a cui centinaia o migliaia di neuroni e sinapsi nel suo cervello avevano dato luogo negli ultimi cinque minuti.",
+        "Tuttavia, in quel momento le cose erano ben diverse. Non aveva la forza e forse neanche la volontà di studiarsi. Non aveva nessuna intenzione di comprendere cosa volesse davvero o perché si sentisse in quel modo, voleva soltanto una cosa: che quella sensazione insopportabile di vuoto finisse una volta per tutte. Non riusciva a pensare ad altro, tutta la sua mente era riempita da quell’unico pensiero e più tentava di scacciarlo più questo avanzava, persino più forte di prima. Forse avrebbe dovuto accoglierlo e accettarlo, ma non ci riusciva, perché Reyl in realtà non era contento di quello che avrebbe fatto di lì a poco e cercava di nasconderlo a sé stesso con tutte le forze. Tuttavia, Reyl non ha ancora imparato, o forse è solo un’altra delle tante cose che preferisce tenere sommersa, che quando si cerca di sotterrare la verità, di ignorarla o di far finta che non esista, questa spinge di più, ti piega in due e tu sei costretto a sforzarti ancora di più per rialzarti e rimanere in piedi senza vacillare. Sarebbe stata una verità troppo difficile da accettare, persino per lui.",
+        "La via era quella, ora doveva solo trovare il numero della casa. Ripensò al messaggio che aveva ricevuto un’ora prima: Via Roma 146. Prima cercò di individuare quale dei due lati della strada fosse quello giusto, poi alzò lo sguardo e guardò il numero della casa che aveva di fronte: 12.",
+        "Si rese conto che doveva camminare ancora un po’. Si aggiustò il cappuccio e si guardò intorno: fuori non c’era quasi nessuno. Percorse gli ultimi 200 metri pensando a come la pioggia evochi sensazioni diverse se ci sei sotto o se la senti mentre sei a casa, davanti al camino. Per lui invece in quel momento la pioggia era come se non ci fosse. Seppur la vedesse e ne sentisse il rumore, non gli provocava alcuna sensazione.",
+        "Il portone gli comparve davanti improvvisamente. Non esitò nemmeno un po’, bussò al primo piano e una volta che si aprì, cominciò a salire le scale.",
+        "Non era mosso da entusiasmo né da curiosità, forse da un po’ di eccitazione ma di certo la spinta più grande era data dalla volontà di colmare quel vuoto che si era creato in lui quel pomeriggio e che sapeva si sarebbe formato di nuovo la mattina dopo, nel momento in cui avrebbe ripensato a quella sera.",
+        "Non appena lo vide, cercò di sfoggiare il sorriso più sincero che riuscì a fare. Si trattava solo di fingere mostrando una delle tante maschere che teneva nel suo armadio. Per Reyl non è una cosa difficile: apre l’armadio, prende la maschera più adatta alla situazione in cui si trova e la indossa. Il gioco è fatto, adesso le altre persone lo vedranno per quello che vogliono vedere e lui otterrà ciò che vuole. L’ha fatto tante volte in passato, in altri contesti, in altre situazioni, ma il meccanismo era sempre lo stesso.",
+        "Rimase qualche secondo a guardarlo, soffermandosi sulle sue espressioni. Reyl è convinto che ciò rende davvero bella e attraente una persona è l’espressione che fa quando sorride. Quando una persona sorride diventa più bella e alcune persone hanno un sorriso che lui trova estremamente piacevole. Tuttavia, Reyl in quella sera di pioggia non aveva deciso di uscire per guardare il sorriso di uno sconosciuto, ma a lui veniva spontaneo giudicare le persone in quel modo.",
+        "Pensò che in effetti fosse un bel ragazzo, persino migliore che nelle due o tre foto che gli aveva mandato. Di solito avviene il contrario, perché chi si scatta le foto cerca sempre di venire meglio possibile, scegliendo la luce giusta e la posa migliore che nasconda i suoi difetti. Il ragazzo che aveva di fronte, invece, per qualche motivo oscuro era più attraente di come Reyl se lo fosse immaginato. Aveva un bel viso, in cui i suoi occhi blu apparivano quasi magnetici. D’altro canto, Reyl percepì istantaneamente di piacergli. Era una cosa che gli veniva piuttosto bene. Era in grado di capire subito se l’altra persona fosse attratta da lui o meno e il ragazzo che aveva davanti non fece nulla per nascondere la sua attrazione. Glielo si leggeva negli occhi e da lì a poco anche da un’altra parte…",
+        "Lo invitò a entrare e lo fece accomodare sul divano. Lui si sedette dall’altra parte e scambiarono qualche chiacchiera. Si chiamava Daniel. Poi parlarono delle solite cose di cui si parla per rompere il ghiaccio, di quelle cose che a nessuno interessa, ma che sono necessarie per rendere tutto così ipocritamente spontaneo. È così che deve andare. A volte capita che si passi direttamente ai fatti, ma molti non accettano di vedersi come quel tipo di persona che incontra solo per fare quello e allora si opta per nascondere tutto sotto questo sottile velo di falsità. Si comincia a chiacchierare, si racconta della propria vita, di quello che si fa, dei propri interessi, mentre con la mente si sta solo fantasticando su quello che gli faresti a letto una volta che avrete finito di recitare quella stupida scena da quattro soldi.",
+        "Reyl non era per nulla interessato a conversare con quel ragazzo poiché aveva compreso subito che la discussione con lui sarebbe stata vuota e superficiale e allora si concentrò sul suo corpo, che trovava di certo più interessante di qualsiasi cosa sarebbe uscita dalla sua bocca. Dentro di sé pensava di dirgli che stava solo sprecando fiato, che lui non era come gli altri e che non c’era bisogno di fingere. Ma preferì tenere queste cose per sé e lasciarlo parlare. Alla fine, sa bene che ognuno mostra il meglio che ha da offrire e per quel ragazzo ‘il meglio’ era soltanto il suo corpo. “Forse è una visione troppo cinica delle persone”, pensava Reyl, ma in quel momento non aveva voglia di riflettere su cose complicate, era lì per un altro motivo, non per pensare. Riprese a guardare il suo fisico. Aveva le spalle larghe e i pettorali, che erano la parte del corpo maschile che più lo attraeva, si intravedevano da sotto la maglietta. Improvvisamente, mentre quel ragazzo sconosciuto continuava a parlare della sua vita noiosa, Reyl cominciò a immaginarlo nudo, prima senza maglia, poi senza pantaloni e infine senza più niente addosso. Sentì l’eccitazione salire dentro di lui e preso da un impulso incontrollabile, si avvicinò a lui e lo baciò. Era certo che anche a Daniel sarebbe piaciuto, forse aspettava solo questo. Le mani di Reyl cominciarono a toccarlo sul collo, sulle spalle, sul petto. Poi scesero più in giù… Reyl sentiva come quel ragazzo stesse quasi per esplodere dalla voglia di portarlo a letto e anche i suoi pantaloni, sotto la mano di Reyl, sembravano sul punto di fare la stessa cosa. Si spostarono in camera e cominciarono a spogliarsi. Non appena Daniel si tolse la maglia, Reyl rimase ipnotizzato dal suo fisico. Era perfetto ed era il segno del tempo passato in palestra ad allenare quel corpo che sotto le sue mani sembrava fosse scolpito nel marmo. Ormai erano completamente nudi ed entrambi eccitati. Anche lì sotto Daniel non era niente male, pensò Reyl, ma questo lui lo sapeva già. Era stato il biglietto da visita che Daniel gli aveva dato non appena si erano mandati il primo messaggio. Si era presentato così, poi aveva scritto ‘ciao’. Ma anche questo a Reyl non importava. Qualcuno si sarebbe scandalizzato di un approccio del genere, forse un tempo l’avrebbe fatto anche lui, ma non più.",
+        "Dopo averlo fatto, rimasero un po’ sul letto. Daniel voleva parlare, mentre Reyl guardava fisso il soffitto. Poi si alzarono, andarono in bagno, prima uno e poi l’altro e poi si salutarono. Daniel gli raccomandò di risentirsi e di rivedersi, Reyl gli disse che l’avrebbe fatto, consapevole però che non si sarebbero rivisti mai più.",
+        "Reyl non rivede mai la stessa persona due volte, non ne trova il motivo. Si erano incontrati e l’avevano fatto. Per Reyl andava bene così. Entrambi avevano ottenuto ciò che volevano. Perché incontrarsi di nuovo?",
+        "Non appena tornò a casa, si lavò i denti e si mise a letto. Si addormentò subito, cosciente che i pensieri sarebbero arrivati soltanto l’indomani.",
+        "Quando il giorno dopo riaprì gli occhi, la luce entrava dalla finestra. Si sveglia sempre con la luce del sole, non riesce a dormire se in camera sua c’è la luce e quindi è perfettamente sincronizzato con il sole. Dopo essere passato dal bagno, andò in cucina deciso a prepararsi la colazione. Prese la tazza e versò del latte. Ecco, proprio mentre versava il latte nella tazza e osservava come questa a poco a poco si riempisse, i fatti della sera prima decisero che fosse ora di fare capolino nella sua mente. Così ripensò a quello che aveva fatto, e intanto il latte continua a scendere, assolutamente incurante di come si sentisse Reyl. Perché doveva curarsene? Il latte non pensa mica a cosa provano le persone. Il latte non pensa affatto. Forse però avrebbe dovuto, perché ora stava uscendo dalla tazza e stava macchiando il tavolo. Reyl era talmente preso dai suoi pensieri che non si accorse di quello che stava succedendo. Non appena si rese conto della situazione, disse qualcosa di incomprensibile, forse un’imprecazione e poi andò a prendere un panno per rimediare al danno che aveva fatto. “È così facile, prendi un panno, lo passi sul tavolo et voilà, tutto come prima” intanto pensa. Come se non fosse successo, nessuno avrebbe saputo che quella mattina lui era stato talmente stupido da macchiare il tavolo con il latte e anche lui se lo sarebbe dimenticato. Certe altre cose, invece, non sono così facili da cancellare né da dimenticare. Come quello che era successo la sera prima.",
+        "Guardò il telefono, erano le 8.30 e c’era anche una notifica. “è stato molto bello ieri sera. Mi piacerebbe rivederti. Daniel”.",
+        "“Ah, è ancora lui.” pensò Reyl facendo un profondo sospiro. Anche a lui il sesso era piaciuto, e fisicamente Daniel era davvero un bel ragazzo. Ma con Reyl le cose funzionano diversamente. Non voleva illuderlo, quindi decise di scrivergli la verità. Preferisce sempre essere onesto e diretto con le persone. Prese in mano il telefono e cominciò a scrivere il messaggio.",
+        "“È piaciuto anche a me, sei un bel ragazzo. Ma per me è stato bello così, è iniziato e finito ieri sera, non voglio che ci rivediamo. Ciao. Reyl”",
+        "Un messaggio breve, ma per Reyl era sufficiente perché racchiudeva tutto quello che sentiva. Aveva detto la verità, quindi non poteva aver sbagliato.",
+        "Reyl abitava da solo. Aveva preso quella casa in affitto quattro anni prima e da allora non ebbe mai il pensiero di cambiarla. Si trovava bene, l’interno gli piaceva, aveva tutto ciò di cui aveva bisogno e anche la zona e i vicini erano tranquilli.",
+        "Quando si era trasferito in quella città per la prima volta, impiegò molto tempo per trovare quella casa. Reyl non è il tipo che si accontenta, o meglio, se può, preferisce sempre impiegare molto tempo per fare la scelta migliore. Quando l’aveva vista, aveva capito istantaneamente, come un insight, che fosse quella giusta. Firmò il contratto quel giorno stesso, diede al proprietario i soldi per l’anticipo e quella sera dormì nella sua nuova abitazione, felice e orgoglioso di sé.",
+        "Finita la colazione andò a prendere i libri. Sì, Reyl è ancora uno studente, un giovane studente di 23 anni alle prese con la sessione e gli esami, ma forse ancora più alle prese con sé stesso e con il tentativo disperato di capire cosa diamine non vada in lui."
+    ],
+    "timestamp": "2020-12-30T16:11:04Z",
+    "title": "Una scena che si ripete",
+    "topic_id": 50124,
+    "url": "https://www.writersdream.org/forum/forums/topic/50124-una-scena-che-si-ripete/"
+}

@@ -1,0 +1,162 @@
+{
+    "author": {
+        "author_id": 29199,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "ivalibri",
+        "url": "https://www.writersdream.org/forum/profile/29199-ivalibri/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7174,
+    "num_commenti": 0,
+    "num_posts": 33,
+    "post_after": [
+        {
+            "post_id": 877867,
+            "text": [
+                "Ciao",
+                "Ehm... no. Ansia da prestazione di traccia!",
+                "Grazie per l'apprezzamento e i suggerimenti. Taglierò il superfluo.",
+                "Ciao , hai colto esattamente quello che volevo dire. Grazie!",
+                "Grazie per la correzione e tutto il resto, soprattutto per la critica! In effetti nel racconto non succede niente e non ci sono sorprese, il che era voluto ma mi è molto utile vedere se questo delude o meno il lettore. Grazie!",
+                "Era proprio quello che volevo suggerire. Grazie per il passaggio e l'apprezzamento!"
+            ],
+            "timestamp": "2020-12-19T14:56:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=877867"
+        },
+        {
+            "post_id": 877957,
+            "text": [
+                "😂 Hai ragione e anche Rapallo e Chiavari non scherzano in inverno... Grazie a te di essere passato! Ciao !",
+                "Grazie , anche altri lettori me l'hanno fatto notare... Grazie per il passaggio e il commento!",
+                "Ciao , grazie per l'apprezzamento, felice del tuo pollice in su!",
+                "Ciao",
+                "grazie per le tue considerazioni ed impressioni. In effetti quella che ho immaginato non è una ribellione esplosiva, ma sommessa, più un tentativo di fuga che una fuga vera e propria. A presto!",
+                "Grazie , sono contenta ti sia piaciuto!",
+                "Ciao",
+                "😂 Vero!",
+                "Una bella metafora!",
+                "Grazie a te! Sono felice che ti sia piaciuto. Grazie davvero per le tue preziose annotazioni!",
+                "Buon contest!"
+            ],
+            "timestamp": "2020-12-19T20:02:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=877957"
+        },
+        {
+            "post_id": 878252,
+            "text": [
+                "e",
+                "Un grande grazie collettivo a tutti voi sia per gli apprezzamenti che per i vostri suggerimenti (che userò senz'altro per rivedere il racconto).",
+                "Grazie davvero a tutti, un ringraziamento speciale a chi non partecipa al contest ma è passato lo stesso ❤",
+                "A presto!"
+            ],
+            "timestamp": "2020-12-21T11:46:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=878252"
+        },
+        {
+            "post_id": 878586,
+            "text": [
+                "Caspita, che complimentone! Mi spiace non saper mettere le faccine, qui ci stava bene quella che diventa rossa e quella che porge il fiore...",
+                "Grazie !",
+                "Ciao grazie per il tuo commento e le tue riflessioni!",
+                "Grazie per il tuo passaggio e l'apprezzamento!",
+                "Ciao,",
+                "ti ringrazio per il tuo commento, per le riflessioni che fai che riescono a leggere tra le righe e per i tuoi suggerimenti!",
+                "Grazie ancora a tutti...",
+                "Buon fine contest!"
+            ],
+            "timestamp": "2020-12-22T17:43:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=878586"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 877892,
+            "text": [
+                "il congiuntivo è ok.",
+                "ci lamentiamo tanto delle eufoniche... Qui però ci va, altrimenti non si riesce a leggere",
+                "svaniscono , in entrambi i casi.",
+                "Per giustificare la terza singolare avresti necessità di un appoggio che faccia sottintendere la ripetizione del verbo: svanisce pure Enrico e con lui (svanisce) il ricordo di Carla",
+                "Se lo leggi a voce alta ti accorgerai dell'effetto rima, meglio evitare",
+                "Lei non si pensa come \"SImona\"",
+                "Qui c'è il senso di tutto il racconto, della ribellione piccola piccola : una ribellione che sarebbe potuta avvenire il giorno prima o potrebbe avvenire il giorno dopo, come la trama di un ordito che non si strappa in seguito a un evento, ma si sfilaccia lentamente per l'uso prolungato (oddio, ho fatto una metafora: non è che mi sto preparando al contest di poesia? ).",
+                "Il finale aperto (fino a un certo punto) lascia sottintendere, o almeno così la vedo io, che al capolinea la ribellione rientrerà nei ranghi per mancanza di alternative: Simona non ha un luogo dove andare, una persona che la attende, un sogno da vivere. E lei inconsciamente lo sa fin da quando ha fatto il biglietto: nel suo non decidere la stazione di arrivo c'è già il riconoscere che la ribellione è destinata al fallimento. La stessa cosa probabilmente accadrà anche a Enrico che lei immagina disperato e altrettanto solo , non certo un uomo felice di essersi liberato della sua presenza ingombrante.",
+                "Non tutte le ribellioni sono armate : mi è piaciuto il tono intimistico del racconto, intriso di tristezza.",
+                "Grazie per aver dato dignità alla mia traccia ."
+            ],
+            "timestamp": "2020-12-19T17:11:55Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=877892"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 878007,
+            "text": [],
+            "timestamp": "2020-12-19T23:51:26Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=878007"
+        },
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 878011,
+            "text": [
+                "Ho commentato il racconto, per cui mi arriva la notifica .",
+                "Io ne ho almeno per un paio d'ore ancora (sono pieno di lavoro e partecipare al contest è stato un suicidio, ma almeno un racconto in un anno volevo scriverlo).",
+                "Scusa per l'invasione del tuo racconto ."
+            ],
+            "timestamp": "2020-12-19T23:59:36Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola//?do=findComment&comment=878011"
+        }
+    ],
+    "text": [
+        "Traccia pacco 5:",
+        "Anima﻿ ribelle.",
+        "Cuore﻿﻿﻿ de﻿l racconto è un atto di ribellione, compiuto da uno o più esseri umani; l'atto può avvenire durante la narrazione o essere già avvenuto, ma non può essere sognato, idealizzato o anche soltanto preparato per compiersi in seguito. Può trattarsi di un intero plotone di soldati che si ribella a un ordine, come di un bambino di sei anni che si rifiuta di and﻿are a scuola: non hanno importanza il numero di persone coinvolte e la gravità delle conseguenze, la cosa fondamentale è che il racconto sia imperniato sulla ribellione a un comando, una consuetudine, ﻿una legge, un vincolo, un'imposizione o﻿ ciò che la vostra fantasia vi suggeri﻿sc﻿e.﻿﻿",
+        "Una ribellione piccola piccola",
+        "Il regionale delle 7.22 inizia a muoversi. Destinazione: Livorno. Simona guarda la stazione che si allontana. Poi accende il display del cellulare ma non appare nessuna notifica. Che Enrico non l'abbia cercata non la stupisce, non si sarà svegliato oppure se è già in piedi starà metabolizzando la sua fuga. Dovrà prima svegliarsi del tutto, prendere un caffè, ragionare un minimo sui fatti, farsi un'idea. Poi proverà a chiamare. Il pensiero di Enrico che dorme ancora fa venire sonno anche a lei. La testa è già appoggiata sullo schienale. La inclina appena e chiude gli occhi. Attraverso le palpebre chiuse avverte lampi di luce, forme in movimento dal finestrino, il paesaggio che sfreccia. Il canglore delle rotaie sui binari accompagna in sincronia il balletto delle immagini a ogni battito di ciglia e il ritmo dei tumulti del corpo. Non dorme, è in un dormiveglia vigile, le mani appoggiate sulla borsa in grembo, ad assicurarla perché in treno non si sa mai, e uno dei due palmi incornicia il cellulare. Con una morbida presa cinge quella finestrella sul mondo, quell'ultima ancora ai suoi legami. È il momento di spegnerlo, pensa, per provare a dormire davvero.",
+        "Una frenata del treno la scuote, brusca come un sogno interrotto. La stazione di Camogli. Ancora non ha deciso dove scenderà. Non andrà molto lontano, altrimenti avrebbe preso un aereo. Un posto qualunque, piccolo e insignificante, tra qui e Livorno. Ha evitato di andare verso Ventimiglia: la tentazione di scendere nel paese di sua madre sarebbe stata forte. Un paesino in riviera andrà bene, poi si vedrà. Ha fatto il biglietto fino a Sarzana proprio per decidere all'ultimo momento. Ha pensato solo a partire, a andare via, per smuovere le acque stagnanti del suo matrimonio.",
+        "Vent'anni insieme e mai un colpo di testa. Vent'anni di colpi incassati, invece. E un giorno si alza e dice basta. Un giorno qualunque, una mattina fredda come le altre. Senza un motivo che lo renda più plausibile.",
+        "Chiude di nuovo gli occhi. Meglio aspettare ancora per scendere.",
+        "Il treno riparte e dopo entra in galleria. Cala un buio più nero sulle sue palpebre e il frastuono delle rotaie cambia tono. Quasi all'unisono Simona apre gli occhi, di colpo, e fissa la sua immagine riflessa sul vetro oscurato. Il finestrino le restituisce un'immagine ovattata di sé, dai contorni morbidi, sfumati. Il viso opacizzato ha i tratti un po' evanescenti di un ritratto a olio, ben diverso dall'immagine impietosa di uno specchio. Si piace, si vede giovane, senza quei segni dell'età che il marito vede in lei. La testa un po' inclinata fa affiorare nel riflesso il segno sbiancato della ricrescita dei capelli. Se li dovrebbe tingere e allora discosta lo sguardo dal solco grigiastro sulla chioma. Si accorge che c'è una ragazza seduta nella sua stessa direzione, due posti più in là. La sbircia dal riflesso mentre finge di guardare fuori. È giovane e carina. Non la invidia per niente. Pensa che se ha un fidanzato, lui la tradisca. E se non la tradisce ora, la tradirà. Si sposerà comunque con lui perché non riuscirà a provare rancore e lui la tradirà ancora. Poi un giorno qualunque un impeto di follia, un oscuramento della ragione, la farà alzare dal letto prima dell'alba, con sé solo una borsa con i soldi per la spesa della settimana e un cambio di vestiti, e prenderà un regionale. Allora sua marito si accorgerà di lei, attraverso la sua assenza.",
+        "O magari no. Non ha nessun fidanzato. Anzi, si vede con un uomo sposato. Lui è innamoratissimo di lei ma non riesce a lasciare la moglie. Dopo tutti quegli anni insieme non ce la fa. Ma non riesce a lasciare nemmeno lei.",
+        "Carla. Magari è lei. Sa che si chiama così ma non l'ha mai vista. Ha trovato più volte un suo messaggio o una chiamata persa sul cellulare di Enrico. Si è anche chiesta se quello sia il suo vero nome. Non ha mai osato richiamarla. Per lei in fondo è l'altra, lei, un'entità indefinita e idealizzata e il suo nome, vero o presunto, è solo una maschera che vuole dimenticare.",
+        "Il pensiero di Carla affiorato a tradimento si materializza in un bruciore improvviso alla bocca dello stomaco. L'immagine riflessa sul finestrino, con i suoi contorni ovattati e sognanti, forse non è altro che il ritratto di due donne sole nello scompartimento di un treno. Le pare persino di vedere il volto di Enrico, disperato e altrettanto solo, che affiora tra lei e la ragazza.",
+        "La luce del mattino, quando il vagone esce dalla galleria, cancella il riflesso con violenza. Le palpebre di Simona si stringono in una fessura orizzontale, lo sguardo non si focalizza su niente, ora, l'azzurro del mare sfila davanti ai suoi occhi quasi come una macchia uniforme. Su un punto lontano all'orizzonte svanisce la ragazza del treno e il suo fidanzato immaginario. Svanisce pure Enrico e il ricordo di Carla, ricacciato nell'anonimato in cui starà d'ora in poi. Sfuma via anche lei stessa, sprofondata nelle lontananze del paesaggio.",
+        "La rabbia si placa nel blu disteso dell'orizzonte, nella sua bellezza indifferente. Non pensava che l'avrebbe provata ancora dopo il suo atto di ribellione. Invece è lì. Intatta, a covare sotto la cenere. Non è ancora il momento di scendere dal treno. Lascia passare altre stazioni, Santa Margherita, Rapallo, Chiavari. Altro mare che le scorre davanti, altro blu. Poi si gira verso la ragazza. Non c'è più, deve essere già scesa. Fa presto a cancellarla dai suoi pensieri.",
+        "Quando il treno supera Lavagna, Simona vede una moto dal finestrino, una Harley. Sta percorrendo la statale che costeggia la ferrovia, verso Cavi, in un tratto rettilineo, e viaggia alla stessa velocità del treno. È una moto grossa, nera e color acciaio. Riesce a scorgere tutti i particolari, sembra che stiano viaggiando insieme da quanto sono vicini. Un uomo vestito di pelle la cavalca, le frange del giubbotto svolazzanti al vento come i capelli che spuntano dal casco, le ginocchia piegate quasi all'altezza della testa. Da quello che vede non sembra un uomo giovane, potrebbe avere la stessa età di Simona. Riesce persino a vedergli il viso. Ha due lunghi baffi e un'espressione seria, concentrata. Lo sguardo fisso sulla strada, sul futuro.",
+        "Dopo pochi istanti il treno lo supera. Simona stringe a sé la borsa, potrebbe scendere a Cavi. Esita un istante e non si alza. Magari scenderà alla stazione successiva. Cosa viene dopo Cavi? Sestri Levante o Framura? Non lo sa, non ricorda. Levanto, forse. Chiude gli occhi ancora. Sì, Levanto potrebbe andare bene."
+    ],
+    "timestamp": "2020-12-17T20:37:38Z",
+    "title": "[N20 - 1] Una ribellione piccola piccola",
+    "topic_id": 49951,
+    "url": "https://www.writersdream.org/forum/forums/topic/49951-n20-1-una-ribellione-piccola-piccola/"
+}

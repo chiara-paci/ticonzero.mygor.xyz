@@ -1,0 +1,118 @@
+{
+    "author": {
+        "author_id": 32798,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "greenintro",
+        "url": "https://www.writersdream.org/forum/profile/32798-greenintro/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Componimento davvero molto bello, che riesce a essere intelligentemente espressivo di quel sentimento di quieto abbandono di chi lascia morire sballottato tra le onde del mare.",
+                    "Versi come",
+                    "trasmettono molto bene il senso del ritmo delle onde che lentamente sballottano il corpo di chi si lascia morire, come una madre che rassicura il bambino cullandolo, in particolare in quel \"andavo e andavo\"",
+                    "E difatti",
+                    "Questa idea di serenità viene ribadita nel verso",
+                    "che ricapitola tutto il tema della prima parte e si ripete come ultimo verso, in un'intelligente intuizione in cui si riprende una frase della prima parte che però, alla luce del proseguio, assume un significato più chiaro, rendendo l'idea di un componimento che procede come un cerchio che torna su se stesso, ma per approfondirsi e meglio illuminarsi, senza ripetersi inutilmente.",
+                    "Anche un verso come",
+                    "assume a posteriori una chiarezza che inizialmente non avevo colto, mentre poi si manifesta come bella e interessante metafora del viaggio verso l'Ultraterreno, contrassegnato dall'aspetto di eternità e spiritualità \"non si vede\".",
+                    "La seconda parte è più drammatica, anche se senza eccessivi strappi e rottura del preesistente clima emotivo, l'idea del morire si fa più esplicita e colgo anche un cambiamento tematico riguardo la condizione di serenità, che se nella prima parte appariva più centrale nel cullare delle onde, appare ora in parte turbata dall'inquietudine circa una generica negatività, l'idea dell'abisso come possibile condizione in cui cadere dopo la morte, sempre che abbia inteso bene:",
+                    "Tuttavia non considero questa cosa come un'incoerenza fastidiosa, ma come una deviazione funzionale nel rendere più realistica e profonda la descrizione dello stato psicologico di un morente, che forse, in una totale quiete e assenza di turbamenti, avrebbe rischiato di essere rappresentati in termini troppo idillici e innaturali, la quiete resta il tratto dominante ma si lascia affiancare da una più ricca e complessa vita interiore.",
+                    "Ci sono alcuni passaggi che mi convincono un pò meno, come",
+                    "che trovo una chiarificazione un pò inutile e ridondante di un concetto che era già stato perfettamente espresso in chiave più metaforica e musicale precedentemente, e che ora, reso così esplicito, rischia quasi di perdere parte della sua espressività poetica, meglio comunicato con quel ritmo e quell'allusività di cui scrivevo prima.",
+                    "Poi ci sarebbe",
+                    "che trovo versi troppo \"tecnici\", legati a un gergo marinaresco che non è detto arrivi in modo adeguatamente evocativo a chi, come me, non è particolarmente \"addentro\" a quel linguaggio e a quel contesto. Si rischia di interrompere la comunicazione emotiva e la visualizzazione immaginifica.",
+                    "Ma queste son comunque piccolezze, che nulla tolgono alla bellezza e alla qualità del componimento, che, dal mio punto di vista, emergono davvero molto bene."
+                ]
+            ],
+            "timestamp": "2020-12-22T17:51:48Z",
+            "title": "Lo scafo triste",
+            "url": "https://www.writersdream.org/forum/forums/topic/49992-lo-scafo-triste//?do=findComment&comment=878587",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 886,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 878989,
+            "text": [
+                "Ciao, grazie davvero per la tua analisi e le interessanti annotazioni !"
+            ],
+            "timestamp": "2020-12-24T20:15:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50003-verde//?do=findComment&comment=878989"
+        },
+        {
+            "post_id": 879324,
+            "text": [
+                "Grazie dell'accurata attenzione ! Sì, in effetti esiste sempre una corrispondenza non arbitraria tra un certo colore e un certo vissuto emotivo espresso simbolicamente, anche se poi, entro certi limiti, resta, credo, un margine di attribuzione libera di significato da parte dei singoli che si può collegare a una sfumatura cromatica, anche in base alle esperienze di ciascuno. E grazie anche di aver citato il tuo componimento, andrò a cercarlo e leggerlo con interesse."
+            ],
+            "timestamp": "2020-12-27T15:11:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50003-verde//?do=findComment&comment=879324"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Non come il rosso,",
+        "che minaccioso avanza,",
+        "irato, senza chiedersi ragione,",
+        "perché troppa è la passione,",
+        "mi avvolge tra le fiamme,",
+        "un abbraccio non voluto",
+        "Non come il blu,",
+        "che sdegnoso s'allontana",
+        "Troppo nobile il suo spirito",
+        "per accostarsi alla mia miseria",
+        "Non come il giallo,",
+        "di una sprovveduta allegria rivestito,",
+        "l'ingenuità del Sole",
+        "che non s'avvede dell'eccesso dei raggi",
+        "quando feriscono una terra invocante respiro",
+        "Non come il viola",
+        "che si bea del suo mistero,",
+        "è un segreto che conosco,",
+        "malignamente svelato da Rosso e Blu:",
+        "è frutto del loro amore",
+        "Davvero il verde rasserena",
+        "Blu gli insegnò il distacco,",
+        "il fuggir dal frenetico,",
+        "Giallo quel tanto di Sole,",
+        "che riscalda senza bruciare,",
+        "fuoco bastante a custodir questa pace",
+        "Al Verde starò accanto,",
+        "offre ciò di cui ho bisogno,",
+        "una pace che non sia indifferenza,",
+        "tranquillità che lasci scorrer vita,",
+        "che la copra di un manto di lucida logica,",
+        "una guardinga quiete"
+    ],
+    "timestamp": "2020-12-22T19:52:55Z",
+    "title": "Verde",
+    "topic_id": 50003,
+    "url": "https://www.writersdream.org/forum/forums/topic/50003-verde/"
+}

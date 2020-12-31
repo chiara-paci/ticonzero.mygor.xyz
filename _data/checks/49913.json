@@ -1,0 +1,76 @@
+{
+    "author": {
+        "author_id": 40175,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Francesco Bisesti",
+        "url": "https://www.writersdream.org/forum/profile/40175-francesco-bisesti/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 25,
+        "title": "Frammenti",
+        "url": "https://www.writersdream.org/forum/forums/forum/25-frammenti/"
+    },
+    "num_chars": 2896,
+    "num_commenti": 0,
+    "num_posts": 3,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 878878,
+            "text": [
+                "Ho dovuto editare il titolo, da regolamento:",
+                "1.6",
+                "È vietato l’uso del MAIUSCOLO, sia nei titoli che nel corpo dei messaggi. È consentito l’uso moderato del corsivo, del sottolineato e del grassetto. È vietato l’uso di abbreviazioni da chat ( cmq , nn, xké) e l’abuso della punteggiatura (mai più di tre puntini di sospensione, un solo punto interrogativo, un solo punto esclamativo).",
+                "Non vedo il link a un commento valido per postare per cui devo chiudere, da regolamento:",
+                "2.3",
+                "Nella sezione STORIE è possibile inserire racconti senza limitazioni.",
+                "Per pubblicare un testo in OFFICINA, invece, ne va prima commentato un altro (o due, a seconda della sezione, e sempre in Officina), nello stesso giorno. Il commento è valido se fatto secondo le specifiche del punto 2.4 del regolamento. È obbligatorio inserire un link al commento all’interno della nuova discussione. Non è valido commentare un proprio testo.",
+                "2.3.1 In caso in cui il commento non risulti valido, l’utente può richiedere la riapertura della discussione scrivendo un nuovo commento secondo le specifiche del punto 2.4 e comunicandolo via messaggio privato allo Staff.",
+                "2.3.2 Le recensioni in STORIE e i commenti in OFFICINA, seguendo la filosofia di cui al punto 2.2, non dovrebbero essere espressi in tono saccente, superiore, sarcastico, sprezzante, offensivo o comunque lesivo della dignità dell’autore. Lo Staff si riserva il diritto di eliminare recensioni o commenti non idonei.",
+                "2.4",
+                "L’utente che desidera pubblicare un testo in OFFICINA è tenuto a commentarne un altro in maniera esaustiva e dettagliata, toccando molti o tutti i punti dello schema seguente:",
+                "2.4.1. Racconti: trama (intreccio, incipit, sviluppo e conclusione della storia, coerenza e originalità), personaggi (caratterizzazione, psicologia, incisività, originalità), contenuti (adeguatezza, plausibilità, messaggio trasmesso, empatia), stile (scorrevolezza, complessità, chiarezza, coerenza), grammatica e sintassi (refusi, errori grammaticali, frasi complesse, poco scorrevoli o sintatticamente errate), giudizio finale.",
+                "2.4.2. Poesie: cura formale e metrica, svolgimento della tematica, originalità, scelta dei vocaboli, efficacia delle immagini e delle figure retoriche, emozioni suscitate.",
+                "2.5",
+                "Per evitare che un singolo autore intasi la sezione OFFICINA o le relative sottosezioni, è consentito postare al massimo un solo brano di prosa e una sola poesia al giorno. Nel conteggio non vengono considerati i brani postati per i Contest.",
+                "Potrai avere il racconto riaperto inviando a uno staffer qualsiasi (vedi chi è online sulla destra della homepage) il link a un commento esaustivo.",
+                "2.3.1 In caso in cui il commento non risulti valido, l’utente può richiedere la riapertura della discussione scrivendo un nuovo commento secondo le specifiche del punto 2.4 e comunicandolo via messaggio privato allo Staff ."
+            ],
+            "timestamp": "2020-12-24T02:08:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49913-la-controra//?do=findComment&comment=878878"
+        }
+    ],
+    "text": [
+        "Il sole bruciava, in quei pomeriggi d’estate. Io, quasi ogni giorno, raggiungevo la tabaccheria del nonno a Salita Pontecorvo nel quartiere Tarsia, a ridosso di Piazza Dante. Procedevo a piedi, prima all’ombra nei vicoli di Spaccanapoli e di Cisterna dell’Olio, poi in pieno sole per le scale che da Via Tarsia portano su attraverso il Montecalvario.",
+        "Appena giunto sulla soglia del negozio, mi accoglieva la nonna Raffaella: ‘O nonno se sta facenn ‘o ppoco ‘e cuntrora. Il che stava a significare che il nonno, finito il pranzo, stava schiacciando un pisolino nel retrobottega e che quindi bisognava muoversi silenziosamente per non svegliarlo. Cuntrora…benché cosciente del senso del termine nella sua forma dialettale, mi ero sempre chiesto quale ne fosse l’origine e, un po’ per intuito, un po’ per le mie reminiscenze di latino, mentre sedevo tranquillo nel retrobottega dove il nonno dormiva, un giorno mi soffermai a pensare.",
+        "Quanto è piacevole e musicale questa mia lingua! Cuntrora è un’espressione magica che, di per sé, evoca uno stato di completo rilassamento dopo aver soddisfatto le necessità quotidiane. Non riuscirebbe certo a riposare chi, al contrario, non avesse prima ottemperato a questo preciso compito.",
+        "Quella che altrove si definisce siesta, riposino o pennichella, a Napoli è ‘a cuntrora. Contra + hora, quasi a volere intendere che in quelle ore intermedie, specie nel meriggio estivo, è sconsigliato svolgere qualunque attività. Ma a me piaceva molto assistere, non senza ammirazione, alla sacralità di quel momento che non mi apparteneva di diritto. Venivo dal dolce far nulla a trascorrere il mio tempo in compagnia dei sacri nonni senza aver soddisfatto alcuna “necessità quotidiana”, che fosse mia o anche di altri.",
+        "Mi piaceva ricordare quegli interminabili pomeriggi di sole, quelle arsure di luce, mentre seduti su un muretto o in auto a seguire gli arabeschi dell’ozio con una musica da stereo che componeva disegni di suoni sommessi nell’aria, stavamo lì ad osservare un gruppetto di ragazzi che, sulle scalinate di una chiesa, stentava persino a cimentarsi nell’antico gioco della cinque lire al muro.",
+        "A Napoli l’elogio della lentezza non è letteratura ma realtà pomeridiana. Alla controra non si può essere bruschi, repentini, rumorosi e intraprendenti, sarebbe come violare la quiete pubblica.",
+        "Intanto nel vicolo, mentre ero intento in queste riflessioni, Morfeo lanciava i suoi strali con la complicità di un pianoforte le cui note fuoriuscivano dal balcone di fronte. Tutto era apatia meridiana, solo contrastata dallo sferragliare delle ruote cerchiate di un carretto che il vecchio Saverio sospingeva sul basolato stradale. Sul pianale, blocchi di grondante ghiaccio appoggiato sulla tela di sacco, intrugli colorati e una vecchia pialla da falegname. Don Saverio serviva granite a chi, non meritando il sonno, si aggirava come sonnambulo sotto un cocente sole."
+    ],
+    "timestamp": "2020-12-14T11:21:06Z",
+    "title": "La controra",
+    "topic_id": 49913,
+    "url": "https://www.writersdream.org/forum/forums/topic/49913-la-controra/"
+}

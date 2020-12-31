@@ -1,0 +1,97 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao. Amo moltissimo le \"poesie brevi\". Ad esser sincero, però, devo ammettere che questo tuo componimento mi risulta \"ermetico\" nella sua accezione più negativa. Proverò a sviscerarlo al meglio delle mie possibilità. Il verso finale contiene la parola \"tetto\". Il secondo verso contiene la parola \"fondamenta\" e il terzo \"perimetro\". Tutto mi fa pensare che si stia parlando di una casa, di una dimora. Il sentore è di un rapporto (amoroso/matrimoniale/affettivo?) fondato sulla menzogna, sulla bugia (sul tradimento?). Non so quale sia il tuo sesso ma presumo che tu sia una donna (o sbaglio, non so). La casa è uno schema costruito su fondamenta illusorie, una trappola che ti rinchiude in uno schema. Le verità circondano il perimetro, quindi solo al di fuori di questa dimora di menzogna si trova tutto ciò che concerne il vero. Il tetto, che è da sempre il \"protettore\" della dimora dalle intemperie e dall'esterno, non è altro che un costrutto fiabesco, un'ulteriore menzogna che \"protegge\" un luogo di bugie. La donna (o l'uomo in questione) è quindi racchiusa, intrappolata in un'illusione, in una gabbia di bugie. Non ho apprezzato particolarmente la tua opera breve perché amo profondamente le poesie evocative. Sono dell'opinione che la poesia, in particolar modo quella breve, debba avere una potenza evocativa che sprigioni l'immaginazione del lettore. Mi si potrebbe controbattere dicendo che questo componimento tratta il tema della \"trappola\", della \"gabbia\" e quindi il risultato di imprigionare è raggiunto. Anche in tal caso, mi sento di dissentire, in quanto non ho la sensazione di essere in trappola, imprigionato nell'opera, anzi, la mia percezione è totalmente opposta. Ne sono distante, non empatizzo con il testo, non lo sento mio, non sono imbrigliato nei suoi versi. Credo sia molto \"cervellotico\", raffinato intellettivamente si, ma poco efficace. Rileggerò sicuramente il testo e non vedo l'ora di leggere altre tue opere, magari meno artefatte e più \"sanguigne\". A presto."
+                ]
+            ],
+            "timestamp": "2020-12-07T14:26:02Z",
+            "title": "In trappola",
+            "url": "https://www.writersdream.org/forum/forums/topic/49668-in-trappola//?do=findComment&comment=875550",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 381,
+    "num_commenti": 1,
+    "num_posts": 9,
+    "post_after": [
+        {
+            "post_id": 876096,
+            "text": [
+                "grazie. Sono su writer's dream da un po' ma non pubblico da molto."
+            ],
+            "timestamp": "2020-12-11T09:28:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49838-troppo-lontano//?do=findComment&comment=876096"
+        },
+        {
+            "post_id": 876097,
+            "text": [
+                "Ciao Ti ringrazio per il tuo commento che giunge puntuale. Il componimento può sembrare, in apparenza, come un insieme di \"sensazioni scollegate\" l'una dall'altra, in quanto sembrano non condividere un panorama comune (cosa che permette al lettore di contestualizzare le analogie). In realtà, ad uno sguardo e una lettura più approfondita, il panorama diventa molto chiaro (o magari risulta chiaro per me). Comunque il contesto è l'inizio di un temporale notturno. Se lo avessi scritto nel titolo la poesia sarebbe risultata sicuramente più comprensibile sin dalla prima lettura, ma avrebbe perso il senso più profondo che ho cercato di trasmettere. Ti ringrazio nuovamente per il commento e a ri-leggerci."
+            ],
+            "timestamp": "2020-12-11T09:34:38Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49838-troppo-lontano//?do=findComment&comment=876097"
+        },
+        {
+            "post_id": 876259,
+            "text": [
+                "Nulla da aggiungere (li hai notati proprio tutti i riferimenti, addirittura Turner). Che dire ... mi hai \"beccato\" in ogni parola. Grazie per il tuo commento estremamente accurato e complimenti per la grande cultura dimostrata nei riferimenti che hai colto!"
+            ],
+            "timestamp": "2020-12-12T08:29:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49838-troppo-lontano//?do=findComment&comment=876259"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "TROPPO LONTANO",
+        "Vorrei catturare il vento",
+        "a mani nude.",
+        "È un lavoro stupido",
+        "ma qualcuno deve pur farlo.",
+        "È per l'atavico sapore",
+        "di un tuono fiammeggiante,",
+        "non l'ho mai assaggiato.",
+        "Cerco il nero retrogusto",
+        "di questa luna virulenta.",
+        "Il cielo è un telo",
+        "per cadaveri,",
+        "infinitamente spesso.",
+        "Getto parole nel silenzio",
+        "come sassi giù da un dirupo.",
+        "Il fondo di questo abisso",
+        "è troppo lontano, troppo lontano."
+    ],
+    "timestamp": "2020-12-07T14:28:09Z",
+    "title": "Troppo lontano",
+    "topic_id": 49838,
+    "url": "https://www.writersdream.org/forum/forums/topic/49838-troppo-lontano/"
+}

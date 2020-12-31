@@ -1,0 +1,125 @@
+{
+    "author": {
+        "author_id": 39746,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Marcocr",
+        "url": "https://www.writersdream.org/forum/profile/39746-marcocr/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "Essendo ingegnere aerospaziale sono stato calamitato dal titolo del tuo racconto. Mi piace l'idea di fondo e le atmosfere che hai creato. La bambina che si rifugia nella mansarda dei nonni a giocare con la riproduzione dello Space Shuttle e a guardare le stelle è un immagine felice e che appartiene all'immaginario collettivo.",
+                    "Di bambini che giocano nelle mansarde è piena la letteratura ed il cinema.Le mansarde sono luoghi magici.",
+                    "Ho visto che i vari commenti precedenti si sono soffermanti sui dettagli e sugli errori per questo mi limito solo ad alcuni appunti.",
+                    "Ci sono espressioni ed passaggi che ho trovato un pò \"pesanti\", ecco alcuni esempi",
+                    "Il racconto è leggibile ma ti consiglio di alleggerirlo un pochino di queste espressioni, lo rederesti ancora più piacevole.",
+                    "Io aggiungerei ulteriori dettagli alla descrizione della casa in modo tale da far immedesimare di più il lettore nell'atmosfere familiari.",
+                    "Avrei inoltre parlato un pò più dei nonni per dargli uno spessore psicologico.",
+                    "Credo che l'intento del racconto era descrivere i sogni d' infanzia dei quali rimane ora il rapporto con la Luna, per questo il fatto che non ci sia una vera e propria trama non mi dispiace.",
+                    "A rileggerci.",
+                    "Marco"
+                ]
+            ],
+            "timestamp": "2020-12-21T20:25:10Z",
+            "title": "AA - Aspirante Astronauta",
+            "url": "https://www.writersdream.org/forum/forums/topic/49390-aa-aspirante-astronauta//?do=findComment&comment=878373",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 6603,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 879076,
+            "text": [
+                "Ciao ,",
+                "piacere mio. Ti ringrazio molto per il tuo commento, dici delle cose molto utili. Condivido la tua analisi sulle due parti del testo, assolutamente centrata. La verità è che quando pubblico su WD cerco di limitare la lunghezza del racconto e questo mi spinge in alcuni casi ad accelerare.",
+                "A presto"
+            ],
+            "timestamp": "2020-12-26T09:42:19Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49996-i-corridoi-del-monastero//?do=findComment&comment=879076"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Era una mattina tiepida di una domenica di Primavera ed il signor Piero decise che era il giorno giusto per portare Luca, suo nipote, a Montecassino. Aveva sognato di tenere in mano una roccia sporca di sangue con sopra incisa la parola PAX. Appena svegliato aveva, come di consueto, trascritto il sogno sul suo diario dei sogni e dall’interpretazione che ne fece, capí che era arrivato il momento di fare pace con la propria memoria: “la roccia si riferisce a Rocca Janula, il sangue è simbolo della guerra, Pax è la parola che si trova sul portone della Torretta di Montecassino”.",
+        "Il messaggio era chiaro.",
+        "Sarebbero andati a piedi sul vecchio sentiero che un tempo portava dalla vecchia città di Cassino al monastero.",
+        "“Un pò di hiking oggi ci farà bene”, disse a colazione e Luca, ancora assonnato ed appesantito dalle birre bevute la sera precedente, alzando gli occhi increduli dallo smartphone, aveva commentato “ nonno…a piedi a Montecassino? A fare che? Andiamoci un altro giorno. Perché non andiamo più tardi a prendere un aperitivo? È domenica! Hanno aperto un nuovo bar in piazza”.",
+        "“Faremo l’aperitivo al nostro ritorno” sentenziò Piero e la discussione finí. Luca capiva quando era il momento di non insistere. C’era un chiaro sistema di regole comunicative tra i due: una sentenza secca, detta in modo netto e stizzito voleva dire “ se non vuoi che ti torturi per i prossimi dieci giorni, si fa in questo modo”. Luca amava Piero, lo rispettava profondamente. Si era trasferito a casa sua ad Aquino dopo la morte dei genitori, una coppia di giornalisti, nella guerra in Bosnia ed Erzegovina.",
+        "Nonno Piero con le sue sicurezze e la sua semplice visione della vita, era sempre stato il porto sicuro dove Luca amava tornare nei momenti di confusione.",
+        "Da quando poi vivevano insieme, aveva visto i sacrifici che faceva per lui e provava una sincera devozione nonostante la sua testardaggine in alcune decisioni ed i suoi lamenti, al dire il vero rari.",
+        "Presero l’auto, una vecchia Panda blu chiaro, e si diressero verso Cassino. Sulla strada ascoltarono alla radio un programma letterario che parlava del recente Nobel a Gao Xingjian.",
+        "Imboccarono la strada provinciale per il Monastero e, dopo poche curve, parcheggiarono su un tornante dove c’era una piccola grotta con una statua della Madonna.",
+        "“Proseguiremo a piedi da qui. Come vedi ti ho risparmiato un pò di dislivello”, disse Piero, “grazie nonno”, rispose ironico Luca.",
+        "Dopo alcuni minuti di cammino si fermarono in un punto panoramico da dove si poteva ammirare tutta la Valle del Liri. Piero spiegò a Luca la Linea Gustav, la linea fortificata difensiva voluta da Hitler. “ Spero che ti ricorderai di questa mattinata agli esami di maturità”, disse Piero solenne.",
+        "“Ero un ragazzino quell’inverno del ’43. Fu un inverno micidiale! Ricordo che dalla metà di ottobre alla fine di dicembre, una pioggia costante trasformò la valle in un oceano gelido di fango. Il numero di assiderati negli ospedali da campo superava i feriti in combattimento. Cassino era una Babele di popoli: la Quinta Armata americana, il X Corpo D’Armata britannico, i francesi, i polacchi, i tedeschi sulle pendici del monte, il II Corpo d’armata neozelandese, i polacchi…”",
+        "Quando nonno Piero parlava dei suoi ricordi di infanzia Luca ascoltava in religioso silenzio anche se aveva già ascoltato quelle storie più di una volta.",
+        "“ Mamma decise di rifugiarsi nel monastero. Non possiamo morire qui, diceva. Quando lesse i volantini che gli alleati lanciarono sul monastero fu come se tutta la forza e la tenacia che l’avevano animata fino ad allora, l’avessero abbandonata in un attimo. Lesse il comunicato quasi senza respirare.",
+        "Amici italiani,",
+        "ATTENZIONE",
+        "Noi abbiamo sinora cercato in tutti i modi di evitare il bombardamento del monastero di Montecassino. I tedeschi hanno saputo trarre vantaggio di ciò.",
+        "…",
+        "É venuto il tempo in cui a malincuore siamo costretti a puntare le nostre armi contro il Monastero stesso.",
+        "…",
+        "Il nostro avvertimento è urgente: Lasciate il Monastero.”",
+        "Piero si fermò per qualche istante, guardò negli occhi Luca e riprese.",
+        "“Lo so. É una storia che ti ho già raccontato. Oggi però ti darò un dettaglio in più. Quello che non sai è che io e zio Giovanni correvamo di nascosto nella biblioteca del Monastero a leggere. Ci rincorrevamo nei lunghi corridoi. Poi ci nascondevamo dietro una grande colonna, prendevamo un manoscritto e leggevamo. Forse dovrei dire provavamo a leggere. Quel poco che avevamo imparato a scuola prima della guerra non era sufficiente a capire quei testi. Però rimanevamo estasiati dalle illustrazioni. Ricordo le immagini di pianeti, delle piante e degli animali. In quei momenti di scoperta la guerra spariva e noi viaggiavamo in mondi immaginari. Era la nostra fuga dalla paura.”",
+        "“Zio Giovanni?” S’illumino Luca.",
+        "“Già, proprio lui.” Zio Giovanni era l’eroe della famiglia. Luca era cresciuto con le sue avventure di guerra e la sua morte eroica nel salvare una donna durante il bombardamento del monastero.",
+        "Ripose la borraccia dalla quale stava bevendo nello zaino e ripresero il cammino.",
+        "Arrivarono alla sommità del monte e Piero disse:",
+        "“Devo entrare nel monastero”.",
+        "“Dai nonno, nel monastero no!” protestò Luca.",
+        "“Non ci metterò molto. Tu mi puoi aspettare qui fuori”.",
+        "Si separarono e Piero entrò nel monastero. Salì con passo deciso le scalinate del Chiostro “Bramantesco” e giunse al Chiostro dei Benefattori. Qui un gruppetto di tre monaci chiacchierava allegramente. Piero si avvicinò e chiese: “ Buongiorno, sapete se dom Ettori è disponibile?”",
+        "“Si, l’ho visto un momento fa seduto in basilica.”",
+        "“La ringrazio”. Piero entrò nella basilica e vide un monaco seduto intento a leggere.",
+        "Si avvicinò per vedere la faccia nascosta dal cappuccio.",
+        "Lo riconobbe e disse:",
+        "“Ciao Giovanni”.",
+        "“Ciao Piero, come stai?”, rispose il monaco con un sorriso che trasmetteva pace e serenità.",
+        "“ Bene, sono venuto con Luca a piedi sulla strada vecchia”.",
+        "Gli occhi del monaco si accesero.",
+        "Piero estrasse un pacco dallo zaino e lo diede al monaco.",
+        "Il monaco aprí il pacco su un lato per vedere il contenuto e diventò pallido.",
+        "“Perché?” chiese.",
+        "“L’ho trovato da un collezionista privato e mi è costato caro. Ho lavorato sodo per pagarlo. Tu devi ricollocarlo nella sua posizione originale”.",
+        "I due si guardarono intensamente e in un attimo si rividero correre per i corridoi della biblioteca.",
+        "Giovanni ripensò alla fuga, alla donna che li inseguiva, all’Incidente…",
+        "Una smorfia di dolore attraversò il suo volto.",
+        "Piero gli strinse le mani sorridendo poi si rimise lo zaino in spalla.",
+        "“Arrivederci dom Ettori”, disse.",
+        "Il monaco si alzò e facendo un segno di benedizione rispose “vada in pace”."
+    ],
+    "timestamp": "2020-12-21T20:26:56Z",
+    "title": "I corridoi del monastero",
+    "topic_id": 49996,
+    "url": "https://www.writersdream.org/forum/forums/topic/49996-i-corridoi-del-monastero/"
+}

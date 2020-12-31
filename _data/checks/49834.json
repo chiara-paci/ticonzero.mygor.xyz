@@ -1,0 +1,58 @@
+{
+    "author": {
+        "author_id": 40082,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Alessandra Palisi",
+        "url": "https://www.writersdream.org/forum/profile/40082-alessandra-palisi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 2654,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 875523,
+            "text": [
+                "Manca il link a un commento, devo chiudere.",
+                "Potrai avere il racconto riaperto inviando il link a un commento esaustivo a un qualsiasi testo dell'Officina a uno staffer (trovi quelli online nella homepage del forum, in alto a destra). Leggi il regolamento,mi raccomando."
+            ],
+            "timestamp": "2020-12-07T12:05:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49834-il-bracconiere//?do=findComment&comment=875523"
+        }
+    ],
+    "text": [
+        "Che ne dite, ragazzi, se proviamo ad allargare il concetto di fiaba o di favola anche in altri continenti, come l'Africa?",
+        "Forse mi rispondereste che l'Africa ha più bisogno di acqua e di cibo piuttosto che di fiabe? A questa domanda rispondo che là dove esistono bambini, esistono anche i racconti. Infatti, attraverso il recupero della tradizione orale della cultura popolare africana si può tracciare una via suggestiva per comprendere ed apprezzare l'essenza e la peculiarità dell'Africa. Si tratta di un percorso che vuole essere una risposta di rispetto in un'epoca di ingiustificati muri e steccati.",
+        "Ascoltate allora questo racconto da il titolo \"Il bracconiere\"",
+        "Ai confini tra l'immaginario e l'onirico trova posto questa storia che ha per per protagonista una lupa ei suoi lupacchiotti .La lupa voleva molto bene ai suoi piccoli dai fucili dei bracconieri. Come si sa, il bracconaggio non è stato del tutto eliminato, anche, se esistono leggi ben precise contro di esso.. Chi lo pratica ed uccide con un fucile animali in via di estinzione. Il bracconiere trasformatosi in una tigre selvaggia che era anche madre. La tigre si incamminò dunque verso la tana e riuscì a vincere nel duello contro le fiere selvatiche. La lupa aveva nascosto i suoi cuccioli appena nati e già esposti al pericolo della morte. Mentre avanzava, percepì un certo qualche istinto materno, tratto che risvegliò in lei la parte attiva femminile che appunto la caratterizzava. Il testo vuole testimoniare. Se in verità vi è una distinzione più o meno netta tra l'essere umano dotato di ragione e l'essere animale che agisce solo in base ai suoi istinti primordiali, è bene ricordare che tra questi e medesimi istinti vi è quello materno che racchiude in sé la volontà non solo di procreare, ma anche di proteggere la sua prole almeno agli inizi della sua esistenza. L'istinto materno è quello che proviene dalla Terra, la Madre di tutti gli uomini e di tutte le donne. Come ci dà la vita accogliendoci nella sua grande Casa, così ci preannuncia il momento della morte, la fine cioè di un ciclo, quello naturale, che deve cessare non a causa di violenza o di minaccia esterne, ma in base ai richiami che la stessa Madre Terra invia a ciascuno di noi e quindi anche alle bestie, soprattutto, se si tratta di cuccioli appena nati. La Natura non è dunque solo intenta a realizzare il suo ciclo di nascita e di morte senza preoccuparsi delle creature a cui essa dà vita, una Natura perciò assai indifferente nei nei confronti di tutto ciò è ed esiste, ma una Madre benevola che si prodiga di elargire ai minimi dolori e le massime gioie a tutti i tuoi figli e a tutte le sue figlie."
+    ],
+    "timestamp": "2020-12-07T11:38:47Z",
+    "title": "Il bracconiere",
+    "topic_id": 49834,
+    "url": "https://www.writersdream.org/forum/forums/topic/49834-il-bracconiere/"
+}

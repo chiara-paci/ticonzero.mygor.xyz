@@ -1,0 +1,96 @@
+{
+    "author": {
+        "author_id": 33593,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "@Monica",
+        "url": "https://www.writersdream.org/forum/profile/33593-monica/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 923,
+    "num_commenti": 0,
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 879579,
+            "text": [
+                "Grazie. Ci tengo a precisare che sono in coppia con che ringrazio moltissimo."
+            ],
+            "timestamp": "2020-12-29T11:23:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50102-n20-%EF%BB%BF2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-attesa//?do=findComment&comment=879579"
+        },
+        {
+            "post_id": 879647,
+            "text": [
+                "Abbiamo lavorato per te! Sei proprio un ingrato. Che cosa potresti fartene di una macchina che va a lacrime, se non lacrima nessuno?",
+                "Grazie del passaggio e delle osservazioni"
+            ],
+            "timestamp": "2020-12-29T15:38:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50102-n20-%EF%BB%BF2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-attesa//?do=findComment&comment=879647"
+        },
+        {
+            "post_id": 879873,
+            "text": [
+                "il tuo commento è... poesia. Grazie! Grazie per l’attenta lettura e l’approfondito commento",
+                "grazie. Fa piacere che tu abbia ricevuto delle sensazioni. Vuol dire che qualcosa almeno ha funzionato 🌺"
+            ],
+            "timestamp": "2020-12-30T12:23:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50102-n20-%EF%BB%BF2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-attesa//?do=findComment&comment=879873"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia contenuta nel pacco n. 4: Seduti﻿ su una roccia: sopra un abiss﻿o? In riva al mare? Con vista su una pianu﻿ra?﻿",
+        "Il bordo levigato del tempo",
+        "dissolve all’orizzonte:",
+        "è vertigine il vuoto che attrae.",
+        "Con le labbra dischiuse nel ritmo di un mantra",
+        "conto le ore",
+        "e impalpabile come talco si posa",
+        "lieve sulla pelle, l’infelicità.",
+        "Infiltra la sua subdola polvere sottile",
+        "sotto identità smarrite",
+        "e maschera il volto di sogni eterei di bellezza",
+        "e gravidi di promesse.",
+        "Ma, sotto quello strato leggero,",
+        "grigia e senza luce la pelle",
+        "di pietra riveste.",
+        "Un cuore di marmo freddo e pesante",
+        "non riesce a battere le ore;",
+        "stagna il sangue nelle vene,",
+        "gli occhi vela di tristezza",
+        "e i piedi muove tra sassi di illusioni,",
+        "mentre fiumi di sale irrigano il viso.",
+        "Lo sguardo perso",
+        "a ricucire ritagli di ricordi",
+        "le mani protese verso il buio.",
+        "È forte il desiderio",
+        "di catapultarsi",
+        "là, dove luce non filtra.",
+        "Vorace risucchio",
+        "il vortice della promessa",
+        "di un nuovo Universo."
+    ],
+    "timestamp": "2020-12-29T07:08:03Z",
+    "title": "[N20-﻿2﻿﻿﻿﻿﻿﻿﻿﻿] Attesa",
+    "topic_id": 50102,
+    "url": "https://www.writersdream.org/forum/forums/topic/50102-n20-%EF%BB%BF2%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF-attesa/"
+}

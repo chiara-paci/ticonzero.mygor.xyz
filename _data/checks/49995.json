@@ -1,0 +1,116 @@
+{
+    "author": {
+        "author_id": 40279,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Brunob01",
+        "url": "https://www.writersdream.org/forum/profile/40279-brunob01/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.8133333333333334,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.8133333333333334
+            },
+            "text": [
+                [
+                    "Allora dovendo scegliere una poesia da commentare ho scelto la tua visto il forte tema trattato, sicuramente hai badato alle parole usate, hai pesato tutto in modo che arrivi subito il messaggio senza bisogno di fare una profonda interpretazione, il risultato è molto carico e diretto, fin troppo a mio parere, scelta che penso si rifletta nell'uso del verso libero, per dare l'effetto di un fiume in piena che suscita subito nel lettore lo stesso senso di disgusto, pena e compassione per la scrittrice, o comunque la protagonista.",
+                    "Sicuramente hai toccato punti molti vicini, purtroppo, anche al giorno d'oggi, e hai toccato un po' \"le classiche\" sfaccettature del tema, non in senso negativo, ma sicuramente molto generalizzabile a chi, questa esperienza l'ha vissuta.",
+                    "Mi scuso per il commento superficiale, ma sono alle prime armi."
+                ]
+            ],
+            "timestamp": "2020-12-21T19:55:04Z",
+            "title": "Memoria di donna",
+            "url": "https://www.writersdream.org/forum/forums/topic/49600-memoria-di-donna//?do=findComment&comment=878368",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 601,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 878370,
+            "text": [
+                "questo è il commento fatto"
+            ],
+            "timestamp": "2020-12-21T19:57:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche//?do=findComment&comment=878370"
+        },
+        {
+            "post_id": 878863,
+            "text": [
+                "Ciao anche a te! Ti ringrazio davvero tanto per il commento e l'analisi così approfondita. In effetti sono davvero agli inizi, quindi mi ero reso già da solo di alcuni errori, che giustamente mi hai segnalato. Sono qui per imparare, quindi terrò conto di ogni singola critica per la prossima volta, ho molta strada da fare, ma in fin dei conti questo per me è solo un hobbie, visto che ho comunque ho già molto da studiare, e tra le altre cose la Medicina (che studio) non ha molto a che vedere con la poesia 😂 , però mi piace farlo per mettere per iscritto alcune sensazioni che ho provato in un determinato momento, per questo spero di migliorare.",
+                "Sicuramente proverò ad usare il consiglio che mi hai dato, cioè di usare un verso libero, in effetti ho fatto un poco fatica a restare entro certi canoni metrici, quindi spingerò più sulla \"sensibilità\" e mi dimenticherò per un po' della metrica.",
+                "A presto!"
+            ],
+            "timestamp": "2020-12-23T22:31:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche//?do=findComment&comment=878863"
+        },
+        {
+            "post_id": 879040,
+            "text": [
+                "Ciao, grazie mille per il commento, in effetti questo era un esperimento più che altro, di sicuro non sarò mai un esperto, ma spero di imparare con un poco di impegno e tempo."
+            ],
+            "timestamp": "2020-12-25T19:09:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche//?do=findComment&comment=879040"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 878371,
+            "text": [
+                "benvenuto nel WD.",
+                "Hai commentato un altro testo prima di postare il tuo, però devi riportare il link in questa discussione e non postare l'intero commento. Ad esempio così:",
+                "Il commento come tu stesso hai ammesso è un po' scarno ma per questa volta può andare. In futuro dovresti cercare di argomentare di più le tue osservazioni.",
+                "Per concludere invitiamo sempre i nuovi iscritti a presentarsi nella sezione d'ingresso."
+            ],
+            "timestamp": "2020-12-21T20:01:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche//?do=findComment&comment=878371"
+        }
+    ],
+    "text": [
+        "Al di là di quel muro proibito",
+        "né un rumore né alcun indizio,",
+        "quasi sembrava di esserci riuscito",
+        "invece era solamente l'inizio.",
+        "Bordo di foschia indefinito,",
+        "in trepidante attesa del solstizio;",
+        "ecco, qualche cosa avevo sentito",
+        "al tempo stesso: reale e fittizio.",
+        "Ormai non so più dove, mi trovavo",
+        "lì sopra una sorta d'orlo, in bilico",
+        "marciando su di un filo, come schiavo.",
+        "Ora pare intravedere un valico,",
+        "permane un ultimo sforzo, e pensavo:",
+        "che più riserva l'avvenir criptico?",
+        "Non sono un esperto, sono alle prime armi, ci saranno di sicuro mille errori, fatemi sapere cosa ne pensate e cosa migliorare, grazie mille"
+    ],
+    "timestamp": "2020-12-21T19:41:03Z",
+    "title": "Fatiche",
+    "topic_id": 49995,
+    "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche/"
+}

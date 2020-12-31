@@ -1,0 +1,101 @@
+{
+    "author": {
+        "author_id": 36121,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "danfit",
+        "url": "https://www.writersdream.org/forum/profile/36121-danfit/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, devo dire che la sensazione durante la lettura è stata ambivalente.",
+                    "Credo che mai come per questo tipo di testi conti il gusto personale. Nel senso che questo tipo di \"periodare\" da un lato è efficace perché trasmette la tensione del protagonista - quando sale l'ansia si \"percepisce\" la rottura dell'argine emotivo i pensieri scorrono senza soluzione di continuità, il che viene fuori dallo scritto. Dall'altro la lettura diventa in un certo modo prolissa.",
+                    "Il punto è trovare equilibrio tra queste due esigenze narrative e mi sembra, in definitiva, che tu lo abbia centrato. Ci sono alcune cose cose forse troppo \"mediate\", nel senso che il vero terrore magari non conduce a una espressione così compiuta e puntuale, ma il tutto alla fine scorre.",
+                    "Ti dirò: qui mi sono ritrovato spaesato (ma forse è colpa mia): come si dice, il nemico del tuo nemico è tuo amico, cioè in questo caso il nemico della paura del protagonista non sarebbe un \"qualcosa\" che aiuta a combatterla?",
+                    "Non concordo con chi dice che non viene fuori che si tratti di paura dei gatti. Il riferimento efficacissimo alle fusa e le palle di pelo a cui ci si riferisce lasciano pochi dubbi.",
+                    "Tecnicamente mi piace molto il rivolgersi ai lettori con quel \"Provateci\" reiterato. Tira dentro al racconto, il lettore si immedesima immediatamente con questo espediente.",
+                    "Piaciuto molto questo passaggio, il protagonista è ormai perduto.",
+                    "Il finale è ciò che mi è piaciuto di più, chiude il crescendo bruscamente lasciando straniti: apprezzo.",
+                    "Detto questo chiudo la polemica tra me e il sottoscritto. Alla prossima."
+                ]
+            ],
+            "timestamp": "2020-12-09T09:57:44Z",
+            "title": "[MI-144] La Vostra Dolce Paura",
+            "url": "https://www.writersdream.org/forum/forums/topic/49718-mi-144-la-vostra-dolce-paura//?do=findComment&comment=875738",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3040,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 875776,
+            "text": [
+                "Ciao, grazie per la lettura e per il tuo commento. Capisco che per un non-scacchista la prima parte possa apparire ostica, ma l'intento era costruire un crescendo di tensione a prescindere. Che poi ci sia riuscito o meno questo è un altro discorso. 😅",
+                "Per il resto, sono molto attratto dai cambi repentini di registro, me ne assumo la responsabilità 😊"
+            ],
+            "timestamp": "2020-12-09T12:55:54Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49849-una-poltrona-per-uno//?do=findComment&comment=875776"
+        },
+        {
+            "post_id": 876827,
+            "text": [
+                "Ciao e grazie per gli ultimi commenti, soprattutto i pareri sul finale sintetizzati nel riferimento ai \"baffi alla Gioconda\" di mi fanno (sinceramente) riflettere.",
+                "A presto!"
+            ],
+            "timestamp": "2020-12-14T18:57:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49849-una-poltrona-per-uno//?do=findComment&comment=876827"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "UNA POLTRONA PER UNO",
+        "Il cavaliere Antonius Block incontra la Morte di ritorno dalle Crociate, mentre lo sfacelo della peste infierisce sulla sua terra già martoriata dalla miseria. La Morte è decisa a portarlo via con sé, tuttavia Block le propone una partita a scacchi, mettendo in gioco la sua stessa vita. La Morte accetta e sceglie di muovere col nero.",
+        "Block apre avanzando il pedone di Re di due caselle. La Morte risponde di riflesso ed Antonius replica a sua volta con il gambetto di Re. Il cavaliere non pare temere le conseguenze di un gioco d'attacco e la sua audacia viene premiata da una posizione favorevole. Block riesce rapidamente a pervenire al controllo del centro della scacchiera, costruendo una catena di pedoni che paralizza tutte le iniziative del nero: in seguito consolida la retroguardia, progettando al tempo stesso una potente offensiva sul lato del Re arroccato.",
+        "La Morte si alza in piedi più volte, incrocia le braccia, impreca. La Regina nera e il suo alfiere sono ancora inchiodati sulle caselle di partenza. Un cavallo, partito d’istinto in contrattacco, è costretto a una precipitosa ritirata a protezione del suo Re.",
+        "Block, dal canto suo, è immobile con la testa tra le mani e sta calcolando ogni possibile variazione rispetto alla linea che ha inteso perseguire. Infine si decide: la Regina bianca si sposta sulla colonna del Re avversario. È una mossa insieme feroce ed imprudente: c'è un pedone nero che si è infiltrato tra le linee per approdare sulla sponda opposta e mutarsi in Regina, ma Block se ne disinteressa e va dritto all'attacco della Morte.",
+        "Le mosse proseguono e Antonius riesce a portare la sua Regina, sostenuta dalla torre, ad una mossa dal dare matto. Ma tocca al nero, e il pedone intanto divenuto Regina e ora può muoversi dando scacco al bianco. Il Re si nasconde dietro un pedone, ma la Regina nera replica lo scacco in diagonale. Il Re torna sulla casella precedente e la Regina lo attacca in scacco di nuovo, al che il Re si defila un’altra volta allo stesso modo.",
+        "Se la Morte non dà scacco prende matto, così la ripetizione delle mosse in atto è inevitabile e senza sbocco: la partita è patta.",
+        "Il cavaliere non ha vinto né perso: non deve vivere e neppure morire. I giocatori si guardano attorno smarriti in un limbo inatteso.",
+        "Spetta alla Morte rompere il silenzio.",
+        "“Cavaliere, non credi che sarebbe meglio morire comunque?”",
+        "“Forse, ma non è già morte questa vita a cui m’aggrappo?”",
+        "“Dunque perché non smetti di lottare?”",
+        "“È l’ignoto che m’atterrisce: il terrore, figlio del buio. Io vorrei sapere, senza fede, senza ipotesi: voglio la certezza. Voglio che Iddio mi tenda la mano e scopra il suo volto nascosto e voglio che mi parli”",
+        "“Il suo silenzio già ti parla”",
+        "“Siamo allora da sempre sull’orlo di un abisso?”",
+        "“Esatto, e tu più di tutti lo sei. Nessuno di noi due ha vinto, quindi debbo lasciarti andare: ma la tua vita come è stata e già finita”.",
+        "Tutto allora diventa chiaro.",
+        "Block è già salito a cavallo quando la Morte gli comunica la nomina a commissario della sanità calabrese."
+    ],
+    "timestamp": "2020-12-09T10:12:29Z",
+    "title": "Una poltrona per uno",
+    "topic_id": 49849,
+    "url": "https://www.writersdream.org/forum/forums/topic/49849-una-poltrona-per-uno/"
+}

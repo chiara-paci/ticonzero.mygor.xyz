@@ -1,0 +1,106 @@
+{
+    "author": {
+        "author_id": 36121,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "danfit",
+        "url": "https://www.writersdream.org/forum/profile/36121-danfit/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao, mi è piaciuto, specie nel finale.",
+                    "Al di là dei soli dialoghi la trovo comunque una storia, nella mia opinione questo basta a definirlo un racconto (anche se c'è chi la vedrebbe più come una sorta di sceneggiatura, ma tant'è).",
+                    "Non concordo riguardo a chi sostiene che la storia sia volgare in sé: se un personaggio è volgare non equivale a dire che l'autore che lo crea è volgare, altrimenti tutti gli scrittori di thriller sarebbero dei serial killer sotto mentite spoglie. Questo è un tema che mi sta molto a cuore, vale a dire la separazione netta e necessaria tra artista e opera. Soprattutto in questi giorni, con la morte di Maradona che certamente per molti è ha prodotto arte, si è sostenuto da più parti che dovesse prevalere il giudizio sull'uomo.",
+                    "Per me arte e artista sono su due piani diversi.",
+                    "Tornando a quanto hai scritto, trovo che la caratura dei dialoghi sia perfettamente aderente al contest e soprattutto al social che hai scelto. Badoo è stato (è?) brutalmente questo, senza fronzoli barocchi (\"Ciao, chiaviamo?\" , \"Sì / No\").",
+                    "Il twist finale mi ha spaccato.",
+                    "Bravo!"
+                ]
+            ],
+            "timestamp": "2020-12-04T13:15:39Z",
+            "title": "Statistica Badoo",
+            "url": "https://www.writersdream.org/forum/forums/topic/49595-statistica-badoo//?do=findComment&comment=875061",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3238,
+    "num_commenti": 1,
+    "num_posts": 7,
+    "post_after": [
+        {
+            "post_id": 875928,
+            "text": [
+                "Ciao e grazie per la lettura e il commento. In effetti non avevo pensato al fattore età, ma più a un tessuto che esprimesse l'appartenenza a un ceto sociale elevato.",
+                "Ho voluto immaginare che il personaggio \"Trump\", con tutte le sue sfumature che per certi versi appaiono oggi disturbate, venisse fuori da una delusione d'amore del giovane Donald. Questo disamore ha trasformato un dolciastro Donald nel Trump che conosciamo oggi (attraverso la tintura arancione). La frase finale è una parodia della non accettazione di Trump del risultato delle ultime elezioni. Così come ha perso le elezioni e frigna per via paralegale, fa lo stesso adesso che ha perso Susannah, in ossequio al personaggio Trump che ormai è diventato."
+            ],
+            "timestamp": "2020-12-10T09:06:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49802-trump-loeil//?do=findComment&comment=875928"
+        },
+        {
+            "post_id": 876825,
+            "text": [
+                "Ciao , trovo le tue osservazioni davvero pertinenti e d'aiuto. In particolare tendo a usare in maniera imprecisa i due punti e la virgola, tendendo a scambiarli.",
+                "Per qualche misterioso motivo non riesco a quotare bene.",
+                "Hai scritto \"L'uso del verbo fare per introdurre un dialogo diretto\". Forse hai ragione, ma oltre a \"dire\", cosa usare nel caso?",
+                "Il disorientamento è in effetti voluto, volevo replicare nel lettore il senso di totale spaesamento di Donald nel sentirsi consolare rispetto a una vicenda con in quel momento non lo coinvolge affatto (sì, si parla di Kennedy )",
+                "Hai ragione, sai",
+                "Grazie davvero, un commento veramente costruttivo"
+            ],
+            "timestamp": "2020-12-14T18:49:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49802-trump-loeil//?do=findComment&comment=876825"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Commento:",
+        "TRUMP L'OEIL",
+        "“Donald, ti devo parlare. Vediamoci a pranzo al Seville, tra la 29esima e Madison Avenue”",
+        "“Tesoro, che vuol dire che mi devi parlare?”",
+        "Susannah attaccò il telefono.",
+        "All’una e mezza era all’ingresso del locale. Racchiusa nel suo cappotto di cashmere, sfregava i guanti l’uno contro l’altro e si alzava di continuo in punta di piedi: quell’anno la neve si era affacciata sulla città già in novembre.",
+        "Donald arrivò con dieci minuti di ritardo. “Scusami amore, non riuscivo a trovare un taxi” disse allungando la testa verso di lei. Susannah chinò il capo e venne meno al bacio. Seguì un muto imbarazzo, finché lei fece “Entriamo, dai”.",
+        "I due si sedettero. Donald prese una mano di Susannah tra le sue e chiese “Che succede?”",
+        "Lei ritrasse la mano: “Donald, so che stiamo insieme da più di un anno, ma forse ti sarai accorto che nelle ultime settimane qualcosa è cambiato. Mi sento sempre più lontana da te e non ho idea di quanto ancora possa durare tra noi”.",
+        "In quel momento un cameriere si avvicinò al tavolo e chiese cosa volessero ordinare. Donald non mosse i suoi occhi sbarrati e si limitò a spostare via il cameriere con un braccio.",
+        "“Ma Susannah cosa dici? Io ti amo come il primo giorno, sei la prima che ho amato e l’unica che amerò in tutta la mia vita. Cosa vuoi che faccia? Appena usciti da qui ti comprerò dei fiori, d’accordo?”",
+        "“Donald tu non capisci” rispose lei. “Sei dolce, ma questa relazione mi sta soffocando, la tua attenzione nei miei confronti è morbosa, non ce la faccio più. Non ho ancora diciott’anni, ho bisogno di conoscere altre persone, fare nuove amicizie, vedere gente. Noi stiamo sempre da soli: io e te, te e io”",
+        "“E non è magnifico? Il nostro mondo si completa l’uno nell’altra: non è forse questo l’amore?”",
+        "“Appunto Donald, è proprio questo: io credo di non amarti più”",
+        "“Che significa che non mi ami più? Che ne dici se andiamo a Parigi questo fine settimana?”",
+        "“Donald, ma mi stai ascoltando? Ho detto che non ti amo più! Ti sto dicendo che è finita!”",
+        "“Ma io ti amo ancora! Non basta questo? Il mio amore non basta per entrambi?”",
+        "“Questa poi… Allora, ascoltami attentamente: io non voglio vederti mai più. Non mi telefonare, non mandarmi quelle tue solite lettere sdolcinate del cazzo, non farti sentire in nessun modo, mi hai capito? Hai capito Donald? Addio! A-D-D-I-O”.",
+        "Donald rimase immobile mentre Susannah raccoglieva la sua borsa e correva via verso l’uscita: poi scoppiò in lacrime. Una delle persone che si erano man mano raccolte vicino al televisore gli si avvicinò e, mettendogli una mano su una spalla, disse: “Figliolo, lo so che è dura ma forse può ancora salvarsi, per ora pare che sia solo ferito anche se è molto grave. Un proiettile l’ha preso in testa”.",
+        "Donald alzò gli occhi verso l’uomo e lo guardò a bocca aperta per qualche momento, poi senza dire nulla si alzò, uscì dal locale e prese a camminare sotto la neve senza una meta precisa.",
+        "Tre ore dopo era in camera sua, ancora fradicio, che armeggiava tra i colori ad olio che usava per il corso di pittura. Preparata la tavolozza, Trump si pose davanti allo specchio e iniziò a dipingersi i capelli di arancione.",
+        "Appena finito telefonò all’avvocato di suo padre per dirgli che intendeva denunciare Susannah per abbandono di minore."
+    ],
+    "timestamp": "2020-12-04T14:08:51Z",
+    "title": "Trump l'oeil",
+    "topic_id": 49802,
+    "url": "https://www.writersdream.org/forum/forums/topic/49802-trump-loeil/"
+}

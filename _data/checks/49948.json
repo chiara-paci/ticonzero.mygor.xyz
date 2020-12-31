@@ -1,0 +1,172 @@
+{
+    "author": {
+        "author_id": 28093,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Edu",
+        "url": "https://www.writersdream.org/forum/profile/28093-edu/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7183,
+    "num_commenti": 0,
+    "num_posts": 43,
+    "post_after": [
+        {
+            "post_id": 877215,
+            "text": [
+                "Daje socia"
+            ],
+            "timestamp": "2020-12-17T15:14:48Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877215"
+        },
+        {
+            "post_id": 877285,
+            "text": [
+                "E sì, a questo giro ho fatto l'editor. Pensavo emergesse subito che un chiaro racconto targato @lauram. Ma sono sicuro che ci la conosce un po' meglio lo intuisce subito. I meritatissimi complimenti vanno a lei"
+            ],
+            "timestamp": "2020-12-17T22:19:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877285"
+        },
+        {
+            "post_id": 877403,
+            "text": [
+                "Probabilmente perché il racconto, sostanzialmente, è di",
+                "Ma grazie lo stesso"
+            ],
+            "timestamp": "2020-12-18T12:51:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877403"
+        },
+        {
+            "post_id": 877404,
+            "text": [
+                "Ci avrei scommesso forte"
+            ],
+            "timestamp": "2020-12-18T12:52:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877404"
+        },
+        {
+            "post_id": 877405,
+            "text": [
+                "Grazie Cetti"
+            ],
+            "timestamp": "2020-12-18T12:53:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877405"
+        },
+        {
+            "post_id": 877409,
+            "text": [
+                "Beh, comunque questa cosa non è indifferente, gran parte dell'attenzione è stata sulla verosimiglianza. Hai capito, socia ? Siamo riusciti a darla a bere!"
+            ],
+            "timestamp": "2020-12-18T12:56:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877409"
+        },
+        {
+            "post_id": 877467,
+            "text": [
+                "Ma come ti permetti?! Io sono bellissimo ... ... vabbé, dai, lei è un tipo..."
+            ],
+            "timestamp": "2020-12-18T15:43:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877467"
+        },
+        {
+            "post_id": 877729,
+            "text": [
+                "Si sa che noi maschioni cani rosa alfa disdegnamo la poesia e simili smancerie. Magari lascio fare alla femmina della coppia, dopo che ha lavato i piatti",
+                "Glielo concedo"
+            ],
+            "timestamp": "2020-12-18T23:44:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877729"
+        },
+        {
+            "post_id": 877738,
+            "text": [
+                "Eh eh, passaggio molto discusso tra l'autrice e l'editor... In cui alla fine ci si è detti, ma sì, è sempre la terza che parla in seconda, lasciamoci andare",
+                "Grazie del passaggio, @caipiroska"
+            ],
+            "timestamp": "2020-12-19T00:23:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877738"
+        },
+        {
+            "post_id": 877934,
+            "text": [
+                "Grazie, lo prendo come un complimento personale, visto che è solo un tipo",
+                "Lauram ha il marchio quando scrive, non avevo dubbi che gli assidui capissero subito",
+                "e te la do pur'io ragione, non ci abbiamo pensato... mmmm",
+                "ma dai, su, non fare così, non ho mai detto che sei solo un tipo..."
+            ],
+            "timestamp": "2020-12-19T18:51:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute//?do=findComment&comment=877934"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "«Mamma, ancora non sei pronta? Aspettiamo solo te».",
+        "Resto di spalle: l’ultima cosa che voglio è che Dario scruti la mia espressione. Poso il pennello per il fard sulla toletta e porto la mano accanto al viso. Distendo le dita.",
+        "Cinque minuti.",
+        "Dallo specchio, il palmo bianco mi sembra il guanto di Topolino. Le righe del destino, dell’amore e della salute si scapicollano sul polso. Verticali. Il dorso, rigato anche quello ma di linee più scure, ha sulle nocche le rughe che si formano agli angoli degli occhi quando si ride.",
+        "Ai lati del naso, le gote sono incastonate negli zigomi, non si sollevano. Intorno alla bocca due pieghe spioventi delimitano il mento. Da quanto tempo non sono felice?",
+        "Afferro l’aggeggio di metallo. Lo stringo nel pugno e me lo porto al collo, vicino alla cicatrice.",
+        "«Arrivo».",
+        "Dario chiude la porta alle mie spalle. Io intanto abbondo col fondotinta. Apro e chiudo la bocca per farlo penetrare tra le pieghe d’espressione. Due coppie di indici e medi disegnano giri concentrici sulle guance. Al tatto hanno la consistenza della plastilina, sono digiune del ricordo di quando si gonfiavano d’ilarità. Trucchi per ingannare me stessa: lo specchio mi rimanda una me che non è me.",
+        "Stella Di Carno. La Star del San Carlo, così mi chiamavano, in un gioco di nomi che faceva sorridere tutti, me per prima.",
+        "Dal palco vedevo i loggioni, la piccionaia e la platea. Ero Mimì, ero la Turandot, ero Aida, ero tutto quello che la musica mi portava a essere. Il petto mi si gonfiava come il dorso di un canarino, avvolto dagli abiti di scena. Da quel punto sotto al costato, quello che ogni maestro di musica, dall’infanzia alla maturità, mi ha toccato affinché lo imprimessi nella memoria, partiva la voce: un bolo caldo che, come in un processo di digestione a ritroso, mi usciva sotto forma di aria dalla bocca. Il canto riempiva il teatro. Sentivo vibrare le doghe sotto di me. Le guance febbricitanti non avevano bisogno di fard; come tirate da un nastro adesivo, si stendevano verso il mento quando stringevo le labbra per intonare il la , per poi espandersi ai lati del viso quando invece le allargavo negli acuti del re .",
+        "Dal diaframma alla gola. Un unico canale di suono senza passaggi di staffetta. Un condotto cavo che si allungava o ritraeva ai dettami degli spartiti.",
+        "Cavo , lo penso e faccio no con la testa.",
+        "La mia immagine allo specchio è fuori fuoco, mentre mi sistemo i capelli. Me li porto avanti, sul collo, per coprire la cicatrice.",
+        "Di nuovo ripenso alle esibizioni. Rivedo l’orchestra. Il buco, la nicchia in cui prendevano posto gli strumentisti. Poi il buco sul collo, mesi dopo. Mi sono sentita morire.",
+        "La diagnosi dai nomi composti, con il passare del tempo, aveva preso il posto di quella formata da una sola parola; così “carcinoma” era diventato: tumore diffuso alle cellule squamose del tratto faringeo. Anche le raccomandazioni avevano subito la stessa drastica mutazione. Dal «Non sforzi la voce» ad «Asportiamo. Vediamo di salvare il salvabile».",
+        "Sul libro di scienze, da piccola, studiavo l’apparato respiratorio. Un viso di profilo privo di pelle. Arcata dentale a metà, lingua tagliata di netto, fasci muscolari rosso vivo, occhio senza palpebre né ciglia. Poi la gola, le corde vocali: quelle erano rappresentate per intero. Mi sembravano pancetta tesa abbrustolita in padella. Ma non metteva appetito: dava la nausea.",
+        "«Potrà parlare, ma solo con questo. Le consiglio però di farlo il meno possibile, se non vuole rischiare», mi aveva detto il medico dopo l’intervento.",
+        "Così, se voglio parlare, devo appoggiare questo aggeggio sul collo, in prossimità della laringe, tra il grasso e il magro del bacon. È una specie di microfono: da lì la voce mi esce metallica. Un nugolo di zanzare rinchiuse sotto una tazzina da caffè.",
+        "Poi la telefonata di poco fa. Ha risposto mio marito.",
+        "«Sì, certo, come no». La voce contenta.",
+        "«Cara, domani ti operano», mi ha detto. «Ti aspettano nel pomeriggio per il ricovero. Preparati».",
+        "Ho obbedito, e ora sono pronta.",
+        "Mi alzo dalla sedia. Do le spalle allo specchio, poi alla porta della stanza.",
+        "Scendo le scale del soggiorno come una diva ubriaca dei film in bianco e nero. Mi rendo conto di somigliare a Bette Davis che ha perso la fama di Baby Jane.",
+        "«Mamma, hai preso tutto?», chiede Dario che mi aspetta in piedi, vicino al divano.",
+        "Scanso il bavero della giacca e avvicino l’aggeggio alla gola. Potrei annuire, ma ho voglia di dire addio a questa voce. Che sia l’ultima volta che la sento.",
+        "«Sì». Vibro come un contrabbasso nelle note del requiem.",
+        "Il medico ha un’espressione interrogativa. Spero si stia domandando chi sono ˗ ma lei è, era, la famosa… ˗ purché non sia in preda ad altri smarrimenti. Ti ricordi come eseguire una ricostruzione di laringe, vero?",
+        "«Signora, conti fino a dieci, usando le dita».",
+        "Uno, alzo il pollice. Due, l’indice. Tre…",
+        "il medico ora sorride. «Andrà tutto bene».",
+        "Il diaframma si abbassa. Espiro e mi addormento.",
+        "Leggo il labiale.",
+        "«Signora, chiuda gli occhi due volte se sa dove si trova».",
+        "Un ventriloquo al contrario. Il dottore muove le labbra, ma non sento. Vuole che comunichi con gli occhi. Vuole che sia il suo pupazzo da comandare a bacchetta.",
+        "So dove sono. Lo accontento. Strizzo le palpebre, una prima e una seconda volta.",
+        "«Solo il tempo potrà dirci se l’intervento è riuscito» mi dice, e lo sento.",
+        "Quanto? Stavolta a muovere le labbra sono io. Prendo il suo posto da ventriloquo sperando di sentirmi rispondere: «Poco. Stasera, o al massimo domani mattina».",
+        "«Ci vuole pazienza», è invece quello che mi arriva.",
+        "Le ciglia in alto si toccano con quelle in basso. Sono di nuovo con gli occhi chiusi. Al buio, cieca e muta.",
+        "Siedo al tavolino vicino alla finestra. Il gestore mi conserva questo posto da quando sono in ospedale. «Per una stella ci vuole uno spazio luminoso», mi dice tutti i giorni. «E qui c’è il sole fino alle dieci», continua. Io gli sorrido, e basta. Sopra il tovagliolo mi fa trovare cioccolatini o rose. Una camelia, una volta. È tanto caro.",
+        "È da questa postazione che noto il dottore, mentre svolta per il corridoio ed entra nel bar. Lo stetoscopio, pendente più da una parte che dall’altra, sembra in procinto di cadergli dal collo. Si aspetta di trovare la solita banconista, ma stamattina non c’è. Guarda a destra e a sinistra, ed allora la vede: una mia foto, l’omaggio del titolare, affissa alla parete. Lo scatto mi ritrae in uno dei momenti d’oro. Ho lo sguardo perso in un vuoto che è musica intorno. La bocca socchiusa delle amanti civettuole, mentre grido il mi . Le mani aperte che non stringono niente e il collo levigato, liscio come un violino laccato.",
+        "Hai le mani in tasca e l’espressione accigliata. So a cosa stai pensando, stavolta. Ecco dove l’ho vista. Cerchi tra i tavoli e mi vedi. Ti avvicini imbarazzato. Ti sistemi lo stetoscopio tanto per fare qualcosa. Poi mi sorridi, apri la bocca e parli. «Lei…», tentenni.",
+        "E io non ce la faccio. È più forte di me.",
+        "Come negli incubi, in cui il sonno ti sovrasta ma sai che se ce la metti tutta puoi aprire gli occhi, provo a parlare.",
+        "Tremo. Le dita afferrano lo spessore del tavolino. «Sì», come uscita dall’ancia scheggiata di un oboe sporco la mia voce è roca. « Sono Stella Di Carno», continuo e non so se piangere o ridere."
+    ],
+    "timestamp": "2020-12-17T15:12:52Z",
+    "title": "[N20-1] Stelle mute",
+    "topic_id": 49948,
+    "url": "https://www.writersdream.org/forum/forums/topic/49948-n20-1-stelle-mute/"
+}

@@ -1,0 +1,102 @@
+{
+    "author": {
+        "author_id": 38341,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Gianfranco P",
+        "url": "https://www.writersdream.org/forum/profile/38341-gianfranco-p/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao",
+                    "mi pare che sei nuovo del WD, e allora un grande Benvenuto!",
+                    "Se intendi una specie \"consulenza\" sulla forma metrica, ci posso provare. Premetto che esiste una forma metrica classica, con regole più o meno precise; ma il poeta contemporaneo può benissimo, secondo me, riallacciarsi a questa tradizione ma anche variarla: in poesia non ci sono regole fisse! Dipende cosa volevi fare.",
+                    "Se la tua intenzione era di rispettare la metrica classica, ti faccio notare alcune imperfezioni. I versi:",
+                    "sono effettivamente endecasillabi regolari (devono avere 11 sillabe, e l'accento o sulla sesta, o sulla quarta e sull'ottava; è accettabile anche quarta e settima; oltre, ovviamente, sulla decima, dove ci deve essere sempre). Gli altri andrebbero controllati.",
+                    "Le rime sono invece tutte regolari, anche se nel sonetto \"classico veramente\" lo schema delle quartine sarebbe ABBA ABBA; ma è accettato anche ABAB ABAB come hai fatto tu.",
+                    "Le rime sdrucciole",
+                    "sono una raffinatezza, ma dovrebbero avere la stessa vocale accentata.",
+                    "Se ti appassionano questi esperimenti (come appassionano me!) la strada sarà lunga ma il divertimento è assicurato.",
+                    "Però io di solito commento le sensazioni che la poesia mi dà. La cosa veramente difficile è rispettare la metrica ma anche dire delle cose interessanti (non bisogna mai sottomettere queste a quella; salvo che per esercizio; ma qui in Officina facciamo tutti \"esercizio\"). Allora:",
+                    "a cosa?",
+                    "cioè 21 settembre o 21 marzo circa; quale dei due?",
+                    "In realtà non mi sembra (scusa!) che tu sia riuscito a dire qualcosa di preciso. Forse hai solo badato a costruire delle rime, senza sapere bene dove saresti arrivato. C'è una vaga situazione di incertezza, e di attesa del futuro. Però questo verso è suggestivo:",
+                    "Anche così, non ti scoraggiare! Un po' alla volta comincerai a dominare la forma, e allora la userai per dire proprio ciò che vuoi dire.",
+                    "Un'alternativa, secondo me da praticare in contemporanea, è fare l'opposto: non preoccuparsi della forma, ma cercare di dire qualcosa di significativo ed emotivamente interessante in versi liberi da regole.",
+                    "Come primo tentativo, direi che per ora è ottimo!",
+                    "Ciao"
+                ]
+            ],
+            "timestamp": "2020-12-24T18:25:21Z",
+            "title": "Fatiche",
+            "url": "https://www.writersdream.org/forum/forums/topic/49995-fatiche//?do=findComment&comment=878982",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 811,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 879185,
+            "text": [
+                "Caro , ho recepito i tuoi suggerimenti!",
+                "Ciao"
+            ],
+            "timestamp": "2020-12-26T18:40:13Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50052-i-poeti-salpare-rivisitata//?do=findComment&comment=879185"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Versione alternativa della precedente \"Salpare\" (in realtà, si tratta di una redazione ancora precedente, in endecasillabi liberi)",
+        "Quando ci radunammo sulla spiaggia,",
+        "fra le concave navi e la pianura",
+        "vasta di morti insepolti, dei tristi",
+        "nostri fantasmi errabondi, che cosa",
+        "fu che ci fece tremare nel cuore?",
+        "Il grido che si alzò del capitano,",
+        "o lo stridore aspro e doloroso",
+        "dei gabbiani - o la luce che filtrava",
+        "all'orizzonte, torbida e tagliente,",
+        "da stracci d'irrequiete nubi - o il cupo",
+        "rabbioso risonare di risacca?",
+        "Mentre ci stringevamo l'uno all'altro,",
+        "pallidi e incerti delle nostre vite,",
+        "quale fu allora il segnale fra noi,",
+        "chi prese la fatale decisione?",
+        "Nessuno lo ricorda: solamente",
+        "che con il cuore gonfio di presagi",
+        "salpammo per l'oceano infinito,",
+        "e quel mattino, e quella luce inquieta",
+        "non li abbiamo mai più dimenticati"
+    ],
+    "timestamp": "2020-12-24T18:39:11Z",
+    "title": "I poeti (Salpare: rivisitata)",
+    "topic_id": 50052,
+    "url": "https://www.writersdream.org/forum/forums/topic/50052-i-poeti-salpare-rivisitata/"
+}

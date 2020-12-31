@@ -1,0 +1,47 @@
+{
+    "author": {
+        "author_id": 28485,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "julia1983",
+        "url": "https://www.writersdream.org/forum/profile/28485-julia1983/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 549,
+    "num_commenti": 0,
+    "num_posts": 9,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia n° 7",
+        "Lemniscata: Che sia di natura spirituale, matematica, religiosa o altro, tutti abbiamo dentro il nostro senso dell’infinito. Quali immagini, sensazioni, ricordi o voli astrali, vi suggeriscono luoghi sconfinati, tempeste, sentimenti, la vita, o la morte?",
+        "Il vostro componimento non deve per forza essere strappacore, (vedi L’Infinito di G. Leopardi) ricordate che anche la stupidità umana è infinita a volte. Insomma regolatevi voi e buona ispirazione.",
+        "La sottoscritta e",
+        "Oggi come ieri",
+        "Seduto sul divano: urlo",
+        "all'infinito, parole senza",
+        "senso."
+    ],
+    "timestamp": "2020-12-29T21:22:28Z",
+    "title": "[N20-2] Oggi come ieri",
+    "topic_id": 50116,
+    "url": "https://www.writersdream.org/forum/forums/topic/50116-n20-2-oggi-come-ieri/"
+}

@@ -1,0 +1,124 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Venus, un componimento che tratta un tema molto forte. Mi dispiace moltissimo per quel che hai dovuto subire, deve essere stata un'esperienza terribile e, purtroppo, indelebile. Andiamo all'opera, invece.",
+                    "Pallida e maleodorante",
+                    "quella bocca",
+                    "che sussurrava parole indecenti",
+                    "a una donna ancora bambina.",
+                    "Un orco vestito da agnello",
+                    "seppe celare perfidia ed orrore",
+                    "dietro lo scudo della menzogna.",
+                    "Analizzo questo primo spezzone. Non credo ci sia bisogno di dare un'interpretazione di questi versi, mi sembrano chiarissimi. Il \"mostro\" (parente, amico di famiglia) ha abusato della tua innocenza infantile attraverso la menzogna. Apprezzo molto lo stile chiaro e conciso, senza fronzoli, ma in questo caso, oltre allo sdegno, non riesco ad accedere all'estasi (anche se in questo caso d'orrore) che è propria della poesia e della sua verticalità. Questo primo spezzone risulta un po' scarno dal punto di vista retorico. E' solo un vomitare un dolore profondo con rabbia e frustrazione (e non è un male, sia chiaro).",
+                    "Ancor tormentata da oscuri pensieri,",
+                    "vomito il ricordo di quelle mani,",
+                    "che il mio corpo impunemente violarono",
+                    "Candida anima",
+                    "macchiata di vergogna,",
+                    "tenero fiore",
+                    "già marcio alle radici",
+                    "Una lama tagliente",
+                    "sepolta nella mia memoria di donna,",
+                    "che talvolta riaffiora",
+                    "e ancora la mia mente perseguita",
+                    "Infatti, il ricordo viene vomitato. Un'esperienza tremenda che viene tradotta in parole semplici e dirette. La poesia diventa un semplice \"dolcificante\" di questo schifo che hai subito, una maniera per parlarne, discuterne, per confessare al foglio tutto il terrore che hai portato dentro per molto tempo. Il foglio, la penna, diventano il miglior \"psichiatra\" a disposizione. Diciamo che come componimento è molto scarno, più che una poesia mi sembra un \"diario in versi\" (ma, d'altronde, chi sono io per dire cosa sia la poesia? Ovviamente intendo il mio modo di vedere la poesia). La scrittura si rivela potente strumento di liberazione dai pesi psicologici che ci portiamo dappresso, nel tuo caso vero e proprio abuso subito in infanzia. Ribadisco che sono profondamente addolorato per quel che ti è capitato, e spero che il dolore diventi sempre più lieve. Sono convinto che con un fatto del genere si può solo \"convivere\" ed accettarlo (nel senso lato del termine). A presto."
+                ]
+            ],
+            "timestamp": "2020-12-21T08:53:48Z",
+            "title": "Memoria di donna",
+            "url": "https://www.writersdream.org/forum/forums/topic/49600-memoria-di-donna//?do=findComment&comment=878216",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1078,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 878668,
+            "text": [
+                "Grazie mille per il tuo commento. Contento che ti sia piaciuta."
+            ],
+            "timestamp": "2020-12-23T09:43:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49992-lo-scafo-triste//?do=findComment&comment=878668"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "LO SCAFO TRISTE",
+        "Nel silenzio dei venti",
+        "ho dormito fra le onde",
+        "come un raggio di luna.",
+        "Galleggiando sull'abisso",
+        "andavo e andavo ...",
+        "e non temevo che il turchese",
+        "mi inghiottisse nei suoi balbettii,",
+        "o che il buio m'abbracciasse",
+        "nel suo tenebroso canto.",
+        "Le onde mi cullavano",
+        "e il timone disegnava",
+        "quel che è eterno e non si vede.",
+        "Non temevo la schiuma rabbiosa,",
+        "nubi fameliche o lampi feroci:",
+        "non c'è tomba più dolce del mare.",
+        "È nel porto che io muoio,",
+        "legato come un cane al guinzaglio,",
+        "con la poppa che scodinzola",
+        "sognando le profondità dell'oceano.",
+        "In questa terraferma il sole",
+        "ti accarezza ma non scalda,",
+        "non brucia le carni che sanno",
+        "di sale, di tempesta e voluttà.",
+        "Gli oblò di dritta si affacciano",
+        "sul cemento dell'ormeggio,",
+        "le eliche son ferme, inerme",
+        "la vela è ammainata ...",
+        "che io parta, capitano,",
+        "che io veda ancora il silenzio",
+        "di una notte cupa dove ondeggio",
+        "sul terrore dell'abisso,",
+        "che io scivoli fra i marosi",
+        "come un serpente fra l'erba.",
+        "Non tema che son vecchio,",
+        "non tema le ammaccature,",
+        "le cicatrici degli schianti.",
+        "Che io muoia, capitano,",
+        "ma non nelle mani degli uomini.",
+        "Non c'è tomba più dolce del mare."
+    ],
+    "timestamp": "2020-12-21T08:57:02Z",
+    "title": "Lo scafo triste",
+    "topic_id": 49992,
+    "url": "https://www.writersdream.org/forum/forums/topic/49992-lo-scafo-triste/"
+}
