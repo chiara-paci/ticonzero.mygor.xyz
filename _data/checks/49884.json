@@ -82,6 +82,23 @@
         },
         {
             "checks": {
+                "timestamp": true,
+                "valid": 0.7355555555555555
+            },
+            "text": [
+                [
+                    "Ciao!",
+                    "Non ho letto la versione precedente, ma se è stato fatto un editing vedo ancora qualche piccola imprecisione qui e là (es. \"...PER un preventivo PER ristrutturare...\" all'inizio), credo valga la pena di rivederlo ancora una volta, ma comunque di sicuro c'è poco da correggere.",
+                    "La storia è sicuramente toccante, non è una cosa con cui tutti fanno i conti ma può succedere e, per quanto appunto non sia una vicenda particolarmente originale, è ben narrata. Di certo nella parte iniziale la tensione è retta dalla scoperta della figlia e quindi dai dubbi su cosa accadrà. Alla fine il lettore scopre che invece non è in arrivo alcuna rivoluzione nelle vite dei personaggi e anzi, per qualcuno non c'è niente di nuovo, ma non l'ho percepita come una \"delusione\"."
+                ]
+            ],
+            "timestamp": "2020-12-11T10:48:30Z",
+            "title": "Miraggi - editato",
+            "url": "https://www.writersdream.org/forum/forums/topic/49295-miraggi-editato//?do=findComment&comment=876109",
+            "weight": 1
+        },
+        {
+            "checks": {
                 "timestamp": false,
                 "valid": 1
             },
@@ -163,23 +180,6 @@
             "timestamp": "2020-12-09T12:21:53Z",
             "title": "Padre - Capitolo 2 (parte 1 di 3)",
             "url": "https://www.writersdream.org/forum/forums/topic/49852-padre-capitolo-2-parte-1-di-3//?do=findComment&comment=875769",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.7355555555555555
-            },
-            "text": [
-                [
-                    "Ciao!",
-                    "Non ho letto la versione precedente, ma se è stato fatto un editing vedo ancora qualche piccola imprecisione qui e là (es. \"...PER un preventivo PER ristrutturare...\" all'inizio), credo valga la pena di rivederlo ancora una volta, ma comunque di sicuro c'è poco da correggere.",
-                    "La storia è sicuramente toccante, non è una cosa con cui tutti fanno i conti ma può succedere e, per quanto appunto non sia una vicenda particolarmente originale, è ben narrata. Di certo nella parte iniziale la tensione è retta dalla scoperta della figlia e quindi dai dubbi su cosa accadrà. Alla fine il lettore scopre che invece non è in arrivo alcuna rivoluzione nelle vite dei personaggi e anzi, per qualcuno non c'è niente di nuovo, ma non l'ho percepita come una \"delusione\"."
-                ]
-            ],
-            "timestamp": "2020-12-11T10:48:30Z",
-            "title": "Miraggi - editato",
-            "url": "https://www.writersdream.org/forum/forums/topic/49295-miraggi-editato//?do=findComment&comment=876109",
             "weight": 1
         }
     ],
