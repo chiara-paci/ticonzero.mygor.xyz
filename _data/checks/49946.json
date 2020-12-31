@@ -1,0 +1,140 @@
+{
+    "author": {
+        "author_id": 39019,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "ViCo",
+        "url": "https://www.writersdream.org/forum/profile/39019-vico/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 7523,
+    "num_commenti": 0,
+    "num_posts": 41,
+    "post_after": [
+        {
+            "post_id": 877644,
+            "text": [
+                "Grazie, delizioso è il complimento che cercavamo"
+            ],
+            "timestamp": "2020-12-18T21:15:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877644"
+        },
+        {
+            "post_id": 877647,
+            "text": [
+                "Un sequel? E' un'idea. Faremo in modo che Adamo si riscatti. Grazie"
+            ],
+            "timestamp": "2020-12-18T21:17:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877647"
+        },
+        {
+            "post_id": 877648,
+            "text": [
+                "Eh già, l'ingenuità degli uomini ha radici lontane. Avrei voluto mettere nel racconto lo scambio \"Cos'hai?\" \"Niente\". Grazie!"
+            ],
+            "timestamp": "2020-12-18T21:18:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877648"
+        },
+        {
+            "post_id": 877650,
+            "text": [
+                "Abbiamo praticamente avuto la stessa traccia. Spero il nostro racconto vi sia piaciuto quanto a me il vostro"
+            ],
+            "timestamp": "2020-12-18T21:19:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877650"
+        },
+        {
+            "post_id": 877655,
+            "text": [
+                "Non nego che i pensieri all'apertura del pacco non fossero proprio di gratitudine per l'autore della traccia. Anzi diciamo che lo abbiamo considerato proprio un pacco. Però alla fine è stato divertente quindi grazie, per l'opportunità e per i lcommento."
+            ],
+            "timestamp": "2020-12-18T21:21:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877655"
+        },
+        {
+            "post_id": 877658,
+            "text": [
+                "Sì siamo un po' tonti, a noi se dici il primo pensiamo al primissimo Grazie del commento spero ti abbia strappato un sorriso"
+            ],
+            "timestamp": "2020-12-18T21:24:16Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877658"
+        },
+        {
+            "post_id": 877877,
+            "text": [
+                "Grazie! A un certo punto della scrittura Adamo non faceva una bellissima figura, ma essendoci diventato simpatico abbiamo cambiato la storia. Ci vediamo nei bassifondi."
+            ],
+            "timestamp": "2020-12-19T15:51:44Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=877877"
+        },
+        {
+            "post_id": 878061,
+            "text": [
+                "Oddio (l'esclamazione non poteva essere un'altra) dobbiamo ripetere l'esame di punteggiatura Grazie sia per i complimenti sia per i suggerimenti. E' importante avere l'occasione di migliorarsi e il tuo giudizio è fra i più belli che abbiamo ricevuto"
+            ],
+            "timestamp": "2020-12-20T11:39:24Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari//?do=findComment&comment=878061"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia: Il primo bacio - L'emozione e il senso di scoperta che prova il protagonista quando fa l'esperienza del suo primo bacio devono essere il centro del racconto. Non deve per forza essere un testo di genere rosa, anzi, sono bene accetti tutti i generi e le ambientazioni.",
+        "Scritto a quattro mani con",
+        "Preliminari",
+        "Appena oltre i confini del Paradiso terrestre, nella brulla campagna, l'uomo timorato di Dio, Adamo, si rivolgeva all'Onnipotente. Salivano dall'altare i fumi del suo sacrificio e il primo di tutti gli uomini osservava preoccupato il cielo silenzioso.",
+        "«Signore? Signore mi senti? Lo so che ce l’hai ancora con me per la storia del serpente e della mela, ma adesso ho davvero bisogno del Tuo aiuto. È la terza volta che ti chiamo e, se posso permettermi, questo modo di comunicare è piuttosto costoso. Se lo sa Eva che in una settimana ho bruciato tre capretti sull’altare, chi la sente.",
+        "A proposito è di lei che devo parlarti. Non capisco proprio come funziona.",
+        "Hai detto che mi condannavi a lavorare, ma io con il lavoro me la cavo. Hai visto la casa che ho costruito? E i campi? Sono bravo con gli animali e i campi, no?",
+        "Ma con lei non ci capisco niente. Da quando ci hai cacciati dall’Eden è tutto diverso. Sta sempre incazzata. Si comporta come se la cacciata fosse colpa mia – e tu sai benissimo che non è così.",
+        "E poi il fatto è che non capisco proprio il meccanismo. Non capisco come dovrei fare con lei per, sai, per moltiplicarci.",
+        "Preferivo quella cosa che facevamo prima, nel Paradiso terrestre. Sai, quando le toccavo la punta delle dita e le nostre anime si fondevano e tu mandavi tutta quella luce e gli angeli cantavano. Eh, quello si che mi piaceva! Ed era facile.",
+        "Ora invece davvero non ho capito che devo fare. Ho provato con quella cosa che mi hai dato - come si chiama? – la logica, ecco! Ma con Eva la logica sembra non funzioni.",
+        "Ci ho ragionato su e ho capito che c’entra quel pezzo che mi hai messo fra le gambe. L’ho capito perché quando lei si avvicina il pezzo cambia forma e mi dà una sensazione strana. L’ho capito anche perché in quella zona siamo diversi io ed Eva.",
+        "Oddio, ho avuto anche il dubbio che servissero quelle sporgenze che ha sul petto lei. Anche lì siamo diversi, ma lasciamo perdere che non è questo il punto.",
+        "A proposito ti dispiace se dico oddio?",
+        "Comunque, il problema è che quando il pezzo fra le gambe si mette in moto e io mi avvicino a lei per provare, lei si incazza peggio di prima e mi dice che sono un porco e che vuole i preliminari. Tu hai idea di cosa sono i preliminari?",
+        "Scusami se ti parlo di queste cose, ma da quando ci hai sbattuti fuori ho perso l’unico amico con cui potevo parlare. Gli animali non parlano. C’è il serpente è vero, ma ti pare che mi confido con il serpente dopo il casino che ha fatto?",
+        "Andiamo Signore, ho capito che non vuoi più parlarmi, ma va bene anche quella cosa dei segni. Non so: mandami una nuvola con una forma particolare, un angelo messaggero, potresti farmi un disegnino?",
+        "Se non mi dai un segno mi sa che quella cosa del moltiplicatevi non riesco a farla. Ti prego.»",
+        "Improvvisamente un fruscio fra le fronde attrasse la sua attenzione.",
+        "«Cos’è stato? Ho sentito un rumore. È il tuo segno? Veniva da quell’albero. Aspettami un attimo che torno.»",
+        "Adamo si allontanò attratto dall'insolito movimento di rami nel suo frutteto. Non più di un minuto e poi tutto euforico ritornò e si gettò ai piedi dell'altare, dove ancora si consumavano i resti del povero capretto.",
+        "«Allora Signore ho trovato qualcosa sotto l’albero. Due pesche che si toccavano lì dove c’è quella fessura che le divide a metà. Non fare lo gnorri lo so che è il tuo segno. Come lo so? Perché in genere le pesche non fluttuano a mezz’aria.",
+        "Ma ti pare il caso di darmi i segni usando la frutta? Lo sai che non la sopporto dopo la storia della mela.",
+        "Signore, di tutte le tue doti quella che mi viene più difficile apprezzare è il senso dell’umorismo. Sarà perché l’ultima volta che ti ho visto non me l’hai mandata a dire. O quel nomignolo che ti sei dato – il Dio degli eserciti – io non lo so cosa sono questi eserciti, ma suona un tantino minaccioso.",
+        "Comunque. Ci penso. Cerco di capire che mi vuoi dire. Ci vediamo domani Signore. Provo a portarti un agnello. Sperando che Eva non se ne accorga.»",
+        "Calò la notte. Un silenzio colmo di melanconia veniva dal Paradiso terrestre. Un silenzio ancor più cupo regnava nella stalla, tra agnelli e vitelli. Lì la paura serpeggiava all'idea del nuovo giorno che si sarebbe a breve presentato: chi sarebbe finito arrosto questa volta? Gli unici suoni erano dovuti a un insolito movimento dentro alla capanna di Adamo. I suoni andarono avanti per un poco e si conclusero con un sospiro. Gli animali si guardarono perplessi. Venne l’alba. Videro Adamo entrare nella stalla di buonora, sorridente. Dopo un poco uscì e loro erano uno di meno. Di nuovo un fuocherello vivace bruciava davanti all’altare.",
+        "«Signore, ehi Signore mi senti? Grazie.",
+        "Lo senti questo profumo? Eh sì non ti sbagli, è proprio vitello. Oggi ci voleva proprio. Ti dovevo ringraziare perbene.",
+        "Grazie, grazie e ancora grazie per la tua bontà infinita. Ha funzionato tutto. Alla fine ci sono arrivato.",
+        "Ieri sono tornato dal sacrificio ed Eva era lì tutta gentile e, sai, si è messo in moto quel meccanismo che ti dicevo fra le gambe. Allora mi sono avvicinato e – non ti nego – ero un po’ nervoso, così ho provato a toccarle i polpastrelli. Niente. Allora le ho tirato un po’ i capelli. E niente. Ma poi ho capito. Ho visto la bocca, le labbra erano proprio come una pesca. Allora mi sono toccato le mie e ho sentito che anche la mia bocca doveva assomigliare a una pesca - la mia deve essere di quelle pelose, però – e allora ho avuto l’intuizione. Bocca su bocca è questo che volevi dirmi con quella frutta. È questo che vuol dire preliminari.",
+        "Mi sono avvicinato e ho messo la bocca sulla sua. Oddio – ti spiace se dico Oddio? – non è che l’abbia beccata subito. Prima ho preso una guancia, poi il collo, ma mi pare che a lei sia piaciuto anche quello. E quando sono riuscito a trovare la bocca – caspita Dio – è stato una favola. Mi sembrava di essere tornato nel Giardino. Gli angeli, la musica, ho sentito tutto. Pure la Tua Voce che mi benediceva. E la Luce. Che cosa meravigliosa! È stato un crescendo.",
+        "Dimmi la verità a Eva avevi già spiegato qualcosa? Perché lei sembrava sapere già tutto. Dopo un po’ ha aperto la bocca e ha tirato fuori la lingua. Avrei detto che è una cosa schifosa prima di provarlo. Invece è stato fantastico. Mi sembrava proprio il Paradiso credimi.",
+        "A quel punto l’ho stretta e mi è stato chiaro a cosa serve il pezzo fra le gambe. Sono stati i dieci minuti più belli della mia vita. Dopo la cacciata si intende.",
+        "Alla fine siamo rimasti lì, abbracciati. Lei è stata dolce come nei primi giorni e io in cuor mio Ti ho ringraziato.",
+        "Ah Signore! Credo proprio che sarà una passeggiata fare la Tua volontà. Moltiplicatevi! E certo che ci moltiplichiamo. Sai, credo che il primo sia già in arrivo. Sto pensando al nome. Che ne dici Tu di Massimiliano? Troppo lungo? Hai ragione troppo lungo. Allora Caino. Caino è bello, no? Deciso. Si chiamerà Caino. E non ti preoccupare: gli insegneremo le buone maniere e lo faremo diventare un bravo ragazzo. Gli faremo anche un fratellino. Sono sicuro che ﻿andranno d’accordo.»",
+        "Adamo si ritirò nel suo alloggio appena fuori dal Paradiso terrestre. Progettava di ampliare la sua casa, di arare nuovi campi e sacrificare ancora al suo Signore. Intanto sognava il ritorno della notte e, con la notte, dei caldi baci di Eva.﻿"
+    ],
+    "timestamp": "2020-12-17T14:11:13Z",
+    "title": "[N-20-1] Preliminari",
+    "topic_id": 49946,
+    "url": "https://www.writersdream.org/forum/forums/topic/49946-n-20-1-preliminari/"
+}

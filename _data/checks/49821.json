@@ -1,0 +1,92 @@
+{
+    "author": {
+        "author_id": 19589,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Roberto Ballardini",
+        "url": "https://www.writersdream.org/forum/profile/19589-roberto-ballardini/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Credo tu sia riuscita a toccare la gran parte dei punti dolenti, delle contraddizioni e dei dubbi che questa pandemia porta con sè, in primis la sensazione che buona parte del suo corollario di angoscia sia mediatico. Non sono un negazionista e razionalmente non riesco a pensare che alla base il pericolo non sia reale, ma d'altra parte penso anche che cambiamenti climatici, incidenti stradali, alcolismo, droga, tumori e quant'altro provochino probabilmente molte più vittime del Covid, eppure nessuno ne fa una tragedia o si pone seriamente il problema di prevenirle. Quello che a me lascia perplesso, voglio dire, è vedere gente che fuma due pacchetti di sigarette al giorno auspicare la pena di morte per chi non porta la mascherina, ma vabbè non pretendo di capire tutto. Tornando al tuo scritto, mi pare un bell'esercizio di stile, piuttosto impegnativo direi (intendo per l'autore) che denota carattere, energia, una buona dose di sarcasmo e una bella passione per la scrittura. Il messaggio non sarà probabilmente molto popolare, di questi tempi (ma credo che l'insofferenza generale derivi principalmente dallla sensazione che questa crisi sia endemica e non passeggera, cioè dall'impotenza che avvertiamo di fronte ad essa) ma chi fa arte per diletto o per lavoro, non credo debba preoccuparsi di offrire soluzioni ma di esprimere sensazioni e la tua poesia certo lo fa, in una sua maniera beffarda e licenziosa. Ritoccherei qualcosina qua e là, per il ritmo, ma il senso e una buona struttura ci sono già.",
+                    "Qui tocchi un tasto per me dolente, nel senso che credo molto poco all'approccio medico e scientifico alle patologie del nostro corpo, in buona parte indotte dal nostro (si fa per dire) stile di vita votato al piacere fisico tout court. Non ho mai messo piede in erboristeria, per intenderci, ma l'idea di aggiungere alterazioni su alterazioni per tappare un buco e aprirne altri (tanto per ricollegarmi alla chiusa della tua poesia) non mi sorride neanche un po'.",
+                    "Vabbè, mi fermo qui. Mi viene da dire complimenti, sei coraggiosa, sfrontata e piena di energia. Viva la gioventù, tanto per concedersi un luogo comune. Ciao."
+                ],
+                [
+                    "Nessuno è perfetto Ciao, alla prossima."
+                ]
+            ],
+            "timestamp": "2020-12-06T08:57:54Z",
+            "title": "La Mascherina (e controindicazioni da covid 19 e seguenti)",
+            "url": "https://www.writersdream.org/forum/forums/topic/49805-la-mascherina-e-controindicazioni-da-covid-19-e-seguenti//?do=findComment&comment=875376",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 1037,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "SE MARADONA VA IN PARADISO",
+        "Madonna mia che prego a fare?",
+        "Se la religione è l’oppio dei popoli",
+        "forse è meglio la cocaina, no?",
+        "Barbara santa, domenica delle salme",
+        "The night of the living dead",
+        "George Romero 1968, un genio",
+        "la metafora finale, del resto",
+        "lo dicevamo tutti, ai nostri tempi",
+        "che la tv avrebbe rincoglionito la gente",
+        "Mio padre, che non era un alcolista",
+        "né un drogato e nemmeno un puttaniere",
+        "diventò un grande tifoso del Toro",
+        "dopo l’incidente, e questo perché",
+        "coltivava il culto del perdente e",
+        "amava la debolezza umana",
+        "però giocava per vincere e conosceva",
+        "la differenza tra sogno e realtà",
+        "Ma questa non è realtà, non è sogno",
+        "è la brutale pantomima di un mondo che",
+        "non guarda in faccia nessuno ma",
+        "ti viene a cercare per farsi guardare",
+        "Mondo bambino, viziato che",
+        "tutto vuole e tutto non basta ancora",
+        "a differenza dei nostri figli legittimi",
+        "che non fanno notizia e dovranno",
+        "contentarsi, speriamo, di vite noiose",
+        "nel lusso di avere carattere e sogni modesti",
+        "Non ho altro da aggiungere",
+        "o forse sì, soltanto che",
+        "se Maradona va in paradiso",
+        "allora spengo la televisione"
+    ],
+    "timestamp": "2020-12-06T09:16:00Z",
+    "title": "Se Maradona va in paradiso",
+    "topic_id": 49821,
+    "url": "https://www.writersdream.org/forum/forums/topic/49821-se-maradona-va-in-paradiso/"
+}

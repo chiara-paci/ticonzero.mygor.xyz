@@ -1,0 +1,120 @@
+{
+    "author": {
+        "author_id": 33876,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Sam Crow",
+        "url": "https://www.writersdream.org/forum/profile/33876-sam-crow/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao ho apprezzato molto i tuoi versi.",
+                    "In particolare il senso di smarrimento notturno in cui mi ci rivedo particolarmente è emblema della ricerca di risposte proprià dell'umanità dalla notte dei tempi.",
+                    "Affidati﻿﻿ ﻿a noi stessi",
+                    "non troviamo una cura",
+                    "e solo tacendo﻿ sapremo",
+                    "le giuste parole",
+                    "per chiamare la Notte.",
+                    "L'impossibilità di trovare da soli una soluzione agli enigmi quotidiani.",
+                    "Il silenzio volutamente soffoca le voci che per non disturbare la quiete della notte.",
+                    "Se La Morte﻿",
+                    "è una stanca salvezza",
+                    "in quale timore",
+                    "abiterà l’anima",
+                    "che ad essa si affida?",
+                    "Chi considera la morte l'unica salvezza non dovrebbe temere nulla in quanto la morte è liberatoria.",
+                    "Tutto il tempo",
+                    "è uno stanco﻿",
+                    "rumore della mente",
+                    "Concezione alquanto idealista che considerà la realtà in primis un prodotto della mente.",
+                    "﻿",
+                    "E la Notte preme",
+                    "alle ﻿sue spalle",
+                    "come una madre﻿",
+                    "che invita le labbra",
+                    "ad amare il suo seno",
+                    "La notte nella tristezza appare consolatoria ed accogliente, come una madre appunto.",
+                    "Sempre l’oscuro latte del Nulla",
+                    "rapirà le labbra dell’uomo﻿",
+                    "che ﻿cerca﻿ di notte il ﻿suo dio?﻿﻿﻿",
+                    "L'uomo per quanto cerchi Dio incessantemente ad accoglierlo troverà il nulla, che a tratti lo rende assuefatto."
+                ]
+            ],
+            "timestamp": "2020-12-18T14:13:39Z",
+            "title": "Il tempo è uno stanco rumore della mente",
+            "url": "https://www.writersdream.org/forum/forums/topic/49920-il-tempo-%C3%A8-uno-stanco-rumore-della-mente//?do=findComment&comment=877429",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 674,
+    "num_commenti": 1,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 877968,
+            "text": [
+                "il commento che hai allegato, oltre a essere poco approfondito, è del giorno prima. Devo chiudere.",
+                "Per riaprire dovrai inviare a uno staffer il link a un nuovo commento."
+            ],
+            "timestamp": "2020-12-19T21:26:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49982-quanto-costa//?do=findComment&comment=877968"
+        }
+    ],
+    "text": [
+        "Quanto costa?",
+        "Ammira la codardia dal tuo trono",
+        "Non resteranno che rimpianti",
+        "Sogni assuefatti intrisi dal veleno",
+        "Serate alcoliche tra canti e pianti",
+        "Troppo incasinato a fare i conti",
+        "Con una realtà che si sfoca piano",
+        "Maledetti momenti, noi interdetti",
+        "Ogni ribellione è un gesto vano",
+        "Penetri come un vento gelido",
+        "Ma neanche basta a provare un brivido",
+        "innocuo è ieri di fronte al futuro",
+        "Placato da un sorriso perfido",
+        "Che appare lurido quanto basta",
+        "Per non pensare che alla sopravvivenza",
+        "Nell’evenienza, quanto costa?",
+        "Non voler più soccombere nei tuoi abissi",
+        "Conta voler cospargere il mondo di diamanti",
+        "Se è scaduto il tempo ormai?",
+        "Alla follia anteponiamo la prassi",
+        "I tuoi poteri, son miei tormenti…"
+    ],
+    "timestamp": "2020-12-19T12:47:37Z",
+    "title": "Quanto costa?",
+    "topic_id": 49982,
+    "url": "https://www.writersdream.org/forum/forums/topic/49982-quanto-costa/"
+}

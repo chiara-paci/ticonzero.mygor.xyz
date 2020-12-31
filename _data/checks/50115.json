@@ -1,0 +1,77 @@
+{
+    "author": {
+        "author_id": 40376,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Zio Brunello",
+        "url": "https://www.writersdream.org/forum/profile/40376-zio-brunello/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": true,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 527,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 18586,
+                "name": "Anglares",
+                "url": "https://www.writersdream.org/forum/profile/18586-anglares/"
+            },
+            "post_id": 879748,
+            "text": [
+                "per postare un testo in officina occorre commentarne un altro in modo approfondito. Devo chiudere.",
+                "Per riaprire dovrai inviare a uno staffer il link di un commento approfondito a un altro testo presente in officina."
+            ],
+            "timestamp": "2020-12-29T23:28:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50115-le-belle-persone//?do=findComment&comment=879748"
+        }
+    ],
+    "text": [
+        "Le belle persone",
+        "hanno larghi occhi e un rivolo",
+        "di luna sul viso,",
+        "labbra morbide che disegnano",
+        "un sorriso,",
+        "flebili battiti che riconosci",
+        "al buio.",
+        "Le belle persone",
+        "hanno lunghe ombre che rigano",
+        "le mura,",
+        "dita sottili come rami di mirto,",
+        "passi flebili che si addormentano",
+        "sul selciato",
+        "come petali di gelsomino.",
+        "Le belle persone",
+        "regalano fiori dai lunghi steli,",
+        "si perdono tra le gambe",
+        "che riempiono i mercati",
+        "aspettano in silenzio il lieve",
+        "stridio di un urlo,",
+        "ti tendono la mano e cercano",
+        "tra le pieghe di un inchino",
+        "il fievole sfavillio di un perdono."
+    ],
+    "timestamp": "2020-12-29T21:21:44Z",
+    "title": "Le belle persone",
+    "topic_id": 50115,
+    "url": "https://www.writersdream.org/forum/forums/topic/50115-le-belle-persone/"
+}

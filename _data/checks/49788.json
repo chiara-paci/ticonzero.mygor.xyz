@@ -1,0 +1,218 @@
+{
+    "author": {
+        "author_id": 36121,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "danfit",
+        "url": "https://www.writersdream.org/forum/profile/36121-danfit/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.21747252747252746,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.21747252747252746
+            },
+            "text": [
+                [
+                    "Adoro questi inciampi surreali.",
+                    "Se dovessi rimettere mano al tuo testo, quando si esprimono le ginocchiaJovanotti muterei ogni S in F (anche se non usi il discorso diretto).",
+                    "Bellissima."
+                ],
+                [
+                    "Commento più articolato (come giustamente mi hanno fatto notare):",
+                    "Come dicevo, trovo piacevoli questi inciampi surreali e quando si esprimono le ginocchiaJovanotti muterei ogni S in F (anche se non usi il discorso diretto) per dare un tono \"caratteristico\" al personaggio.",
+                    "Questa mi suona ridondante. Mi ricorda un \"Ti ammazzo la testa!\" di Maccio Capatonda.",
+                    "Mi piace da morire questa espressione.",
+                    "Questa forse è una mia ossessione, ma unirei i termini usando le maiuscole per entrambi per \"umanizzare\" il personaggio - cioè scriverei \"le GinocchiaJovanotti\". Anche nel resto del testo non riesco a tollerare il non uso delle maiuscole (è una mia patologia personale, perdonami), per esempio scriverei L'Ombelico del Mondo e Pensare Positivo (quest'ultima per richiamare con più forza la canzone del Jova).",
+                    "Trovo \"sott'acqua\" ridondante, senza la frase sarebbe più agile.",
+                    "Apprezzo in generale la scarsa presenza di virgole nel testo che dà un tocco di \"atemporale\" che si adatta al genere, tranne qui:",
+                    "dove non mi è chiarissimo l'uso della parola \"pressapochismi\".",
+                    "Finale perfetto. Bene, bravo, bis.",
+                    "Detto questo, chiudo la polemica tra me e il sottoscritto."
+                ]
+            ],
+            "timestamp": "2020-12-03T10:18:23Z",
+            "title": "L'uomo con le ginocchia jovanotti",
+            "url": "https://www.writersdream.org/forum/forums/topic/49779-luomo-con-le-ginocchia-jovanotti//?do=findComment&comment=874639",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.21747252747252746
+            },
+            "text": [
+                [
+                    "Adoro questi inciampi surreali.",
+                    "Se dovessi rimettere mano al tuo testo, quando si esprimono le ginocchiaJovanotti muterei ogni S in F (anche se non usi il discorso diretto).",
+                    "Bellissima."
+                ],
+                [
+                    "Commento più articolato (come giustamente mi hanno fatto notare):",
+                    "Come dicevo, trovo piacevoli questi inciampi surreali e quando si esprimono le ginocchiaJovanotti muterei ogni S in F (anche se non usi il discorso diretto) per dare un tono \"caratteristico\" al personaggio.",
+                    "Questa mi suona ridondante. Mi ricorda un \"Ti ammazzo la testa!\" di Maccio Capatonda.",
+                    "Mi piace da morire questa espressione.",
+                    "Questa forse è una mia ossessione, ma unirei i termini usando le maiuscole per entrambi per \"umanizzare\" il personaggio - cioè scriverei \"le GinocchiaJovanotti\". Anche nel resto del testo non riesco a tollerare il non uso delle maiuscole (è una mia patologia personale, perdonami), per esempio scriverei L'Ombelico del Mondo e Pensare Positivo (quest'ultima per richiamare con più forza la canzone del Jova).",
+                    "Trovo \"sott'acqua\" ridondante, senza la frase sarebbe più agile.",
+                    "Apprezzo in generale la scarsa presenza di virgole nel testo che dà un tocco di \"atemporale\" che si adatta al genere, tranne qui:",
+                    "dove non mi è chiarissimo l'uso della parola \"pressapochismi\".",
+                    "Finale perfetto. Bene, bravo, bis.",
+                    "Detto questo, chiudo la polemica tra me e il sottoscritto."
+                ]
+            ],
+            "timestamp": "2020-12-03T10:18:23Z",
+            "title": "L'uomo con le ginocchia jovanotti",
+            "url": "https://www.writersdream.org/forum/forums/topic/49779-luomo-con-le-ginocchia-jovanotti//?do=findComment&comment=874639",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 4261,
+    "num_commenti": 2,
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 874885,
+            "text": [
+                "Ciao Adelaide, grazie per la lettura e per il tuo commento!",
+                "È un \"vizio\" che mi porto dietro dal fatto che quasi tutto ciò che scrivo va su Facebook, dove il corsivo non è disponibile. Quindi le parole che scriverei in corsivo le metto tra due apostrofi. Hai fatto bene a farmelo presente visto che fortunatamente qui posso gestire meglio la formattazione del testo.",
+                "È il primo racconto che pubblico qui, quindi me ne ricorderò.",
+                "Grazie anche per le precisazioni liturgiche"
+            ],
+            "timestamp": "2020-12-03T19:00:47Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=874885"
+        },
+        {
+            "post_id": 875733,
+            "text": [
+                "Buongiorno a entrambi. Il fatto che abbiate fatto due considerazioni diametralmente opposte sul proposito del mio racconto mi spiazza e in un certo modo mi piace.",
+                "Grazie per i vostri commenti."
+            ],
+            "timestamp": "2020-12-09T08:51:10Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=875733"
+        },
+        {
+            "post_id": 875759,
+            "text": [
+                "Ciao Lauram, grazie per le tue parole"
+            ],
+            "timestamp": "2020-12-09T11:15:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=875759"
+        },
+        {
+            "post_id": 876826,
+            "text": [
+                "Ciao , grazie davvero per le tue parole e anche per i consigli.",
+                "A presto"
+            ],
+            "timestamp": "2020-12-14T18:53:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=876826"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 874654,
+            "text": [
+                "mi dispiace, ho dovuto chiudere il tuo racconto perché il commento è troppo stringato per pubblicare. Dai un'occhiata ai commenti usati dagli altri utenti nei vari racconti e te ne renderai conto. Puoi usare per prendere spunto. Appena avrai un nuovo commento, contatta uno staffer online e provvederemo a riaprire il tuo racconto. Buona scrittura"
+            ],
+            "timestamp": "2020-12-03T10:43:53Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=874654"
+        },
+        {
+            "author": {
+                "author_id": 24806,
+                "name": "Kikki",
+                "url": "https://www.writersdream.org/forum/profile/24806-kikki/"
+            },
+            "post_id": 874807,
+            "text": [],
+            "timestamp": "2020-12-03T16:15:46Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro//?do=findComment&comment=874807"
+        }
+    ],
+    "text": [
+        "Commento:",
+        "PADRE VOSTRO",
+        "Rosa varcò la soglia della chiesa alle sette in punto. Il mattino era gelido, ma il vecchio cappotto di panno e il fazzolettone a quadri la infagottavano per bene.",
+        "Una volta dentro, bagnò due dita nell'acqua benedetta e segnò la croce su di sé. Poi attraversò la navata a piccoli passi e, come tutte le volte, si sorprese ad ascoltarne l'eco che rimbalzava tra le pareti e le travi in castagno del tetto. In quel riverbero avvertiva qualcosa di solenne, che le dava insieme sollievo e soggezione.",
+        "Era sola. Marina era andata a trovare sua sorella e Graziella non metteva il naso fuori di casa da settimane, così si sedette sulla panca in prima fila e attese Don Michele col rosario tra le mani, finché il parroco venne fuori dalla sagrestia.",
+        "\"Il Signore sia con voi \"",
+        "\"E con il tuo spirito\".",
+        "Seguirono le prime orazioni e letture dall'Esodo e dal Vangelo di Matteo.",
+        "“Parola del Signore\"",
+        "\"Rendiamo grazie a Dio\".",
+        "L'omelia di Don Michele: Cristo scese tra noi e fu maestro d'amore. L'amore è sopra ogni cosa.",
+        "Rosa annuì.",
+        "Dopo la recita del Credo si celebrò l'Eucaristia. Ricevuta la comunione, Rosa tirò fuori dalla borsa un piccolo cuscino e lo piazzò sul poggiapiedi: poi si inginocchiò adagio e pregò ad occhi chiusi.",
+        "\"Adesso invochiamo il Signore così come Gesù ci ha insegnato\" annunciò Don Michele. Entrambi allargarono le braccia e il parroco iniziò ad alta voce, mentre Rosa teneva il passo muovendo appena le labbra.",
+        "\"Padre Nostro / che sei nei cieli / sia santificato il tuo nome / venga il tuo regno / sia fatta la tua volontà / come in cielo così in terra. / Dacci oggi il nostro pane quotidiano / e rimetti a noi i nostri debiti / come anche noi li rimettiamo ai nostri debitori…”",
+        "“Come?” lo interruppe Rosa.",
+        "“Cosa?”",
+        "“Che avete detto?”",
+        "“Il Padre Nostro”",
+        "“Sì, dico adesso: cosa avete detto?”",
+        "“Come anche noi li rimettiamo ai nostri debitori”",
+        "“Anche? Perché ‘ anche ’?”",
+        "“Rosa, il Padre Nostro è cambiato, non lo avete saputo?”",
+        "“Come, il Padre Nostro è cambiato?”",
+        "“Sì, è cambiato”",
+        "“E chi è stato? Chi si è permesso?”",
+        "“Papa Francesco l’ha deciso. La traduzione dai Vangeli non era fedele” disse Don Michele quasi a scusarsi.",
+        "Rosa non trattenne la sua irritazione. Si guardò attorno come smarrita, poi replicò.",
+        "“Ma perché ‘ anche noi ’? Io non devo soldi a nessuno!”",
+        "“Rosa, è quasi uguale a prima. La parola ‘anche’ vuol dire che così come Dio condona i nostri debiti, noi non dobbiamo avere a pretendere i nostri crediti”",
+        "“Scusate, ma non è uguale a prima?”",
+        "“No, o forse sì, più o meno. Il fatto è che se Dio facesse come noi, che quasi sempre rivogliamo indietro i nostri soldi, rimetterebbe a noi i nostri debiti allo stesso modo, cioè non completamente”",
+        "“Mi state dicendo che quello che fa Dio dipende da quello che faccio io?”",
+        "“Sì, e viceversa”.",
+        "Rosa tentennò un momento, poi proferì a testa alta:",
+        "“E allora ridatemi l’otto per mille”",
+        "“Eh?”",
+        "“Se mi ridate l’otto per mille io non chiedo niente alla signora Rossana che le si è rotto lo sciacquone e ho le macchie di muffa su tutto il soffitto”",
+        "“Ma Rosa, forse mi sono spiegato male”",
+        "“No, ho capito benissimo” rispose Rosa stizzita. “E oggi potete tenere per voi il cestino delle offerte”.",
+        "Entrambi tacquero, poi il parroco disse:",
+        "“Forse è meglio che andiamo avanti con la preghiera”",
+        "“Sì, è meglio”.",
+        "Ci fu ancora qualche attimo di silenzio. Poi Don Michele, con voce tremante, riprese.",
+        "“E non abbandonarci alla tentazione…”",
+        "“E questa ora che è? Si dice ‘non ci indurre in tentazione’!”",
+        "“È cambiato anche qui Rosa, ve lo giuro, non è colpa mia…”",
+        "“Ma che vuol dire! Una cosa è se Dio mi induce in tentazione e allora devo cedere per forza, ma anche se mi abbandona io resisto da sola! Don Michele voi lo sapete che non ho vizi e che non ho neanche mai baciato un uomo in vita mia. Ma come vi permettete?”",
+        "“Ma io non…”",
+        "“Io sono illibata!”",
+        "“Ma non lo metto in…”",
+        "“Basta, voglio parlare col Vescovo”",
+        "“Come?”",
+        "“Fatemi parlare col Vescovo in qualche modo. Comunque qui non mi vedrete mai più, io me ne vado da Don Peppino. E adesso la messa è finita e vado in pace, va bene?”",
+        "\"... Rosa\" fece Don Michele, \"non so come dirvelo, ma in effetti neanche questo si dice più. Ora alla fine della messa si dice ‘ Missa est ’…”",
+        "“A voi e a tutta la razza vostra!” gridò Rosa ad occhi sbarrati.",
+        "Poi raccolse la borsa e si avviò borbottando verso l’uscita."
+    ],
+    "timestamp": "2020-12-03T10:31:56Z",
+    "title": "Padre Vostro",
+    "topic_id": 49788,
+    "url": "https://www.writersdream.org/forum/forums/topic/49788-padre-vostro/"
+}

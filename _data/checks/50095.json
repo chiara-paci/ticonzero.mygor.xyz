@@ -1,0 +1,145 @@
+{
+    "author": {
+        "author_id": 29420,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Poeta Zaza",
+        "url": "https://www.writersdream.org/forum/profile/29420-poeta-zaza/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 316,
+    "num_commenti": 0,
+    "num_posts": 18,
+    "post_after": [
+        {
+            "post_id": 879458,
+            "text": [
+                "Mille grazie!"
+            ],
+            "timestamp": "2020-12-28T14:52:51Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879458"
+        },
+        {
+            "post_id": 879481,
+            "text": [
+                "Grazie mille anche a te, .",
+                "Per le poesie, quando sono ispirata passo subito dall'idea ai versi."
+            ],
+            "timestamp": "2020-12-28T15:59:50Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879481"
+        },
+        {
+            "post_id": 879482,
+            "text": [
+                "Cara e cara",
+                "Vi devo tanto per questa poesia: non l'avrei mai scritta senza il vostro \"lampo\" a suggerirmela.",
+                "È difficile essere originali parlando della luna. Tu ci sei riuscita benissimo.",
+                "C’è lo sguardo del poeta verso la natura, uno sguardo sensibile che riesce a esaltare la bellezza e a scaturire intime sensazioni attingendo dal pentagramma parole che sanno diventare musica.",
+                "Grazie, sono commossa."
+            ],
+            "timestamp": "2020-12-28T16:04:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879482"
+        },
+        {
+            "post_id": 879500,
+            "text": [
+                "Grazie, Marezia!",
+                "Mi sono messa di fronte a quel sentiero, come a dei binari da seguire per forza, immutati, ogni giorno. E intorno, enormi spazi che si potrebbero esplorare, fiori da raccogliere, altri fiori, e tanto altro... E se si segue un tracciato, sempre lo stesso, il giorno invecchia sul posto, e noi con lui.",
+                "Non dico che il resto non valga o non sia bello, ma personalmente terrò a mente quella prima strofa come una splendida poesia a sé stante. Che mi piace davvero molto.",
+                "Lieta della tua approvazione,"
+            ],
+            "timestamp": "2020-12-28T17:26:28Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879500"
+        },
+        {
+            "post_id": 879502,
+            "text": [
+                "Pensa che le annotazioni che mi hai fatto corrispondono ai miei dubbi principali.",
+                "L'alternativa (di tre sillabe per il ritmo) era bizzarra, che significa stramba, stravagante come \"balzana\".",
+                "Sono stata incerta sino all'ultimo, poi ha prevalso la \" testa viròira \" (piemontese) che sono e le conseguenti prospettive che vede.",
+                "qui metterei delle virgole a segnare l'inciso: Ipnotizzo, se la fisso, la luna\" altrimenti il doppio \"la\" crea un piccolo inciampo nella lettura",
+                "Brava! E infatti, avevo scritto così, in un primo momento:",
+                "Ipnotizzo,",
+                "se la fisso, la luna,",
+                "quando vado a ritroso:",
+                "ma mi sembrava ci fosse troppa punteggiatura per una poesia, dove cerco sempre di limitarmi, per cui le ho tolte. Con l'effetto inciampo come dici tu. (sob)",
+                "Comunque non sono un'esperta, quindi prendi i miei consigli per quel che valgono.",
+                "Un ottimo lavoro, comunque Ciao",
+                "Hai l'occhio lungo, invece, Laura! Lieta ti sia piaciuta!"
+            ],
+            "timestamp": "2020-12-28T17:40:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879502"
+        },
+        {
+            "post_id": 879550,
+            "text": [
+                "Versi sul tempo andato e sulle occasioni mancate?",
+                "Forse.",
+                "Ma ci leggo, invece, una visione più alta della nostra esistenza che comprende anche l'indefinibile e pone le cose andate nella loro giusta posizione all'interno di un'esistenza dove si è vissuto ciò che si è scelto di far vivere nel nostro stesso solco e lasciando alla vita ciò che abbiamo scelto di lasciare.",
+                "Hai fatto una lettura diversa della mia poesia, ma non per questo meno gradita. Le hai dato un alto respiro, un altro senso.",
+                "Grazie del passaggio,"
+            ],
+            "timestamp": "2020-12-29T08:11:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879550"
+        },
+        {
+            "post_id": 879594,
+            "text": [
+                "Gradito passaggio il tuo, Ti aspetto ancora. E sì, io sono stata fortunata con la traccia: è nelle mie corde."
+            ],
+            "timestamp": "2020-12-29T12:42:03Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879594"
+        },
+        {
+            "post_id": 879878,
+            "text": [
+                "Grazie a te, Elisabeth, e lieta di averti ispirato un'esperienza sensoriale così."
+            ],
+            "timestamp": "2020-12-30T13:20:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi//?do=findComment&comment=879878"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia 11",
+        "Titolo: Non amo il giorno che invecchia nei solchi",
+        "Non amo",
+        "i sentieri tracciati,",
+        "gli spazi persi,",
+        "il giorno che invecchia",
+        "nei solchi.",
+        "Distinguo,",
+        "frastagliata di ombre,",
+        "la prospettiva balzana",
+        "d’una nube che sforma",
+        "se stessa.",
+        "Ipnotizzo",
+        "se la fisso la luna",
+        "quando vado a ritroso:",
+        "chiarisce",
+        "i miei sensi appannati,",
+        "a distanza."
+    ],
+    "timestamp": "2020-12-28T13:50:31Z",
+    "title": "[N20-2] Non amo il giorno che invecchia nei solchi",
+    "topic_id": 50095,
+    "url": "https://www.writersdream.org/forum/forums/topic/50095-n20-2-non-amo-il-giorno-che-invecchia-nei-solchi/"
+}

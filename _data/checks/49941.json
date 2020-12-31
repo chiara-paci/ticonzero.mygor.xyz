@@ -1,0 +1,69 @@
+{
+    "author": {
+        "author_id": 36509,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "edotarg",
+        "url": "https://www.writersdream.org/forum/profile/36509-edotarg/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao polvere d'argento, il tuo racconto fantasy si legge bene, i dialoghi scorrono bene. È quasi tutto basato sul dialogo. Il racconto ha una sua piccola struttura (Sed vuole liberarsi dal \"fardello\" della veggenza, si confronta con il vecchio veggente, infine viene convinto a diventare veggente). La prima parte devo dire che mi ha catturato molto, mi sono immaginato le scene, come quella del tocco tra veggenti, e devo dire che è una bella immagine per farti entrare nel vivo del racconto (forse è già stata scritta? Bo, non non ho idea, comunque se è di tua invenzione mi è piaciuta). Il problema secondo me è nella seconda/terza parte del racconto, manca una risoluzione del conflitto più incisiva. Si capisce che il conflitto di Sed è interiore, ed è quello di avere una dote non richiesta, che lo rende speciale e quindi estraneo alla massa, che è anche il suo mondo di relazioni. Mi sembra che sia bastato un po' troppo poco per convincerlo ad accettare il fatto di diventare un veggente. Cioè, una volta che il vecchio gli dice che \"andrà tutto bene\" e che il fatto di diventare veggente gli porterà solo dei miglioramenti, senza perdere nulla, mhh... Capisco che è un racconto breve e quindi bisogna sintetizzare, però io avrei preferito inserire una risoluzione più incisiva, che mette alla prova Sed e lo costringe ad una rinuncia importante, per diventare veggente. Una sorta di drammatizzazione del racconto.",
+                    "Questa è solo una mia impressione, ma penso che siano sempre più interessanti i personaggi che devono lottare e sacrificare qualcosa di caro per ottenere quello che vogliono.",
+                    "Un saluto"
+                ]
+            ],
+            "timestamp": "2020-12-16T23:04:42Z",
+            "title": "Il dono",
+            "url": "https://www.writersdream.org/forum/forums/topic/49916-il-dono//?do=findComment&comment=877121",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 314,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Il mio fagiolo",
+        "Raccolgo la tempesta",
+        "mutevole, antica",
+        "e nutro i miei quattro angoli",
+        "seminando gocce salate,",
+        "affinché crescano robuste",
+        "e un altro Jack scali le proprie paure",
+        "al di sopra delle nubi",
+        "per sorridere delle assurdità",
+        "che regolano questo mondo,",
+        "e per rimescolare con mani infantili",
+        "le nostre vite in senso anti orario."
+    ],
+    "timestamp": "2020-12-16T23:12:11Z",
+    "title": "Il mio fagiolo",
+    "topic_id": 49941,
+    "url": "https://www.writersdream.org/forum/forums/topic/49941-il-mio-fagiolo/"
+}

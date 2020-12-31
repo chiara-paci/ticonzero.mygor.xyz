@@ -1,0 +1,81 @@
+{
+    "author": {
+        "author_id": 40108,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Alk",
+        "url": "https://www.writersdream.org/forum/profile/40108-alk/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.30444444444444446,
+        "weight": true
+    },
+    "closed": true,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.30444444444444446
+            },
+            "text": [
+                [
+                    "Ciao.",
+                    "Anche io la trovo molto cruda e realistica. Non ne capiscp moltissimo di poesia, metrica ecc., ma hai reso molto bene a mio avviso la sensazione di impotenza e di \"pesantezza\" di chi scrive a partire dall'inizio, con l'immagine del soffocamento, proseguendo con la voce stremata in una lotta impari e concludendo con il faticoso incedere.",
+                    "Per me complimenti, nient'altro"
+                ]
+            ],
+            "timestamp": "2020-12-06T22:28:21Z",
+            "title": "Senza pietà",
+            "url": "https://www.writersdream.org/forum/forums/topic/49762-senza-piet%C3%A0//?do=findComment&comment=875474",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 246,
+    "num_commenti": 1,
+    "num_posts": 3,
+    "post_after": [
+        {
+            "post_id": 875478,
+            "text": [
+                "Link commento"
+            ],
+            "timestamp": "2020-12-06T22:38:58Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49830-guerriero-del-xxi-secolo//?do=findComment&comment=875478"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Valanghe inesplose.",
+        "Si inceppano dall'alto.",
+        "A riparo!",
+        "Dietro la roccia",
+        "del quieto vivere.",
+        "Piadina in padella,",
+        "coppetta gelato,",
+        "l'attesa felice",
+        "di ciò che sarà,",
+        "che saremo.",
+        "Travolgono tutto",
+        "ma non ciò che è stato:",
+        "per morire così",
+        "anche per un secondo",
+        "hai amato."
+    ],
+    "timestamp": "2020-12-06T22:36:21Z",
+    "title": "Guerriero del XXI Secolo",
+    "topic_id": 49830,
+    "url": "https://www.writersdream.org/forum/forums/topic/49830-guerriero-del-xxi-secolo/"
+}

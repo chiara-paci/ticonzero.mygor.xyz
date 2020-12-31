@@ -1,0 +1,78 @@
+{
+    "author": {
+        "author_id": 27188,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Talia",
+        "url": "https://www.writersdream.org/forum/profile/27188-talia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 461,
+    "num_commenti": 0,
+    "num_posts": 14,
+    "post_after": [
+        {
+            "post_id": 879897,
+            "text": [
+                ", grazie mille! Che bel commento! siamo molto felici ti sia piaciuto il nostro testo!",
+                ", grazie anche a te per il commento. Per quanto riguarda il finale, il senso che doveva arrivare, tenendo conto dei versi precedenti, è che le stelle hanno un senso simbolico di speranza per l'uomo e, in una notte col cielo coperto, le brama così tanto, ha così tanto bisogno di speranza per andare avanti, che, come un miraggio, confonde i fari con le stelle. Non in modo inconscio, con consapevolezza, ma insomma preferisce chiudere una vita \"senza speranza\" con le stelle, anche se finte. Niente leziosita, insomma, almeno no nelle nostre intenzioni o pensieri. E era ben lungi da noi far passare tale messaggio.",
+                "Talia"
+            ],
+            "timestamp": "2020-12-30T15:10:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50122-n20-2-senza-stelle//?do=findComment&comment=879897"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Traccia n. 6",
+        "Sotto il cielo d'ovatta",
+        "nera",
+        "che fa cupa la notte,",
+        "nera",
+        "è la pensilina",
+        "da cui non riesco più a sperare.",
+        "Senza stelle,",
+        "coperte sudicie",
+        "e panettone solidale",
+        "non fanno il cielo.",
+        "Senza stelle,",
+        "niente può cambiare:",
+        "un altro anno perduto",
+        "e uno nuovo uguale.",
+        "Nella calma di adesso",
+        "le tue luci spuntano",
+        "sull'asfalto brinato.",
+        "Seduto su un cartone bagnato",
+        "Ti chiedo perdono.",
+        "Non hai colpa",
+        "se i tuoi fari",
+        "mi sembrano stelle",
+        "lontane.",
+        "Non hai colpa",
+        "se adesso",
+        "mi lancio:",
+        "le voglio toccare."
+    ],
+    "timestamp": "2020-12-30T14:09:20Z",
+    "title": "[N20 - 2] Senza stelle",
+    "topic_id": 50122,
+    "url": "https://www.writersdream.org/forum/forums/topic/50122-n20-2-senza-stelle/"
+}

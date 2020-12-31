@@ -1,0 +1,149 @@
+{
+    "author": {
+        "author_id": 28093,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Edu",
+        "url": "https://www.writersdream.org/forum/profile/28093-edu/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.5,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Non credo ci siamo mai incrociati prima.",
+                    "Ti dico subito che il racconto mi è piaciuto. Tratta temi dal delicatissimo maneggio: il suicidio di un ragazzo, una patologia, o pseudo tale, il rapporto genitori figlio, tutte tematiche su cui è facilissimo scivolare, dire un qualcosa di impreciso, scadere nel sentito dire, rompere la cosiddetta sospensione dell'incredulità. Tu hai sviluppato il tutto con grande sensibilità e sei riuscito a non commettere di questi scivoloni; bravo non era cosa da poco. Ci riesci al contempo, o forse proprio grazie a questo, tramite una scrittura pulita, precisa e chiara, molto molto curata. Il mio sarà un commento con pulci, e pulci ne ho trovate pochissime. Non è poco per un racconto, e non è frequentissimo imbattersi in utenti nuovi (per me, ho visto che non sei nuovo affatto) che posseggano questa dote.",
+                    "Detto ciò, ti dico cosa invece non mi ha persuaso. Usi nel primo e nel terzo spezzone la prospettiva interna del ragazzo. Nel secondo e nell'ultimo quella di un narratore esterno. Fin qui tutto ok. Perché, però, cambi i tempi verbali? Perché quando la prospettiva è del ragazzo è al presente e quando è esterna la volgi al passato? Dapprima ho pensato che la scena della madre dalla dottoressa fosse un flashback. Così non è, però, perché l'ultima scena è cronologicamente successiva. Questo mi ha spiazzato e non trovo una ragione per il cambio di tempo. Volgerei tutto al presente, evitando inutili complicazioni. Ahè, la piattaforma già si è impallata e non mi fa andare a capo, Aspé, scusami, spezzo il commento"
+                ],
+                [
+                    "eccomi qua",
+                    "sa, sa, prova",
+                    "ok, mi fa andare a capo, possiamo riprendere",
+                    "pulci!",
+                    "Bello. Però credo che i corpi astrali siano cose diverse da quello che vuoi dire, sono le cosiddette auree spirituali che ammantano i corpi umani. Credo tu volessi dire invece \"corpi celesti\"",
+                    "bello",
+                    "Qui, a voler essere proprio pignoli pignoli, via gli spazi, come fai in seguito, del resto",
+                    "mm luccicon sta a indicare le lacrime in genere. è una parola abbastanza poco comune e tu la ripeti anche più in là nel testo, il che fa specie. qui la toglierei francamente, in favore di un più comune \"gocce\".",
+                    "qui la frase della dottoressa suona molto pretenziosa e diretta. Addolcirei con un \"immagino\", \"comprendo\"...",
+                    "Qui secondo me uno scivolino c'è. Credo sia più corretto di \"natura ansiosa\" e \"dell'umore\"",
+                    "Questo non mi convince. Non mi sembra una prassi medica ortodossa. Quantomeno non credo ci sia ragione per vedere prima il ragazzo",
+                    "Bella l'ultima parte. Anche da lì toglierei luccicone: lacrima mi sembra più in sintonia col tono franco e sommesso del brano.",
+                    "Beh, , è stato un piacere leggerti, il mio è un pollice in su"
+                ],
+                [
+                    "Non era finito il commento, mi sono impappinato con la piattaforma e poi ho proseguito",
+                    "trovi sopra la part. two"
+                ]
+            ],
+            "timestamp": "2020-12-14T17:04:49Z",
+            "title": "La caverna",
+            "url": "https://www.writersdream.org/forum/forums/topic/49429-la-caverna//?do=findComment&comment=876792",
+            "weight": 2
+        }
+    ],
+    "commenti_weight": 2,
+    "expected_weight": 2,
+    "forum": {
+        "forum_id": 156,
+        "title": "Racconti lunghi",
+        "url": "https://www.writersdream.org/forum/forums/forum/156-racconti-lunghi/"
+    },
+    "num_chars": 10049,
+    "num_commenti": 1,
+    "num_posts": 5,
+    "post_after": [
+        {
+            "post_id": 877852,
+            "text": [
+                "sei un tesoro ad essere passata, con tutti questi racconti che abbiamo da leggere"
+            ],
+            "timestamp": "2020-12-19T14:02:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49921-incendi//?do=findComment&comment=877852"
+        },
+        {
+            "post_id": 878623,
+            "text": [
+                "Ciao, e che sorpresa che qualcuno legga e commenti questo racconto postato in un periodo di supercontest e abbondanza di racconti. Grazie doppio"
+            ],
+            "timestamp": "2020-12-22T21:27:09Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49921-incendi//?do=findComment&comment=878623"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "«Giovanna, guardami!». Flavio ha già pollice e indice poggiati sulle narici, a tapparle, e resiste a ginocchia piegate finché lei non si volta.",
+        "Adesso Giovanna lo guarda. Flavio distende le gambe, ma non salta. L’attesa lo ha deconcentrato. Con le dita ancora sul naso, raddrizza il corpo e sposta lo sguardo da lei al mare, avanti a sé. Pensa ancora al movimento, poi flette nuovamente le gambe, porta avanti la testa e si butta.",
+        "Giusto il tempo di riemergere dalla schiuma e riguadagnare gli scogli, e già grida: «Hai visto? Era un salto mortale!». Lei sembra sorridere, ma Flavio ha ancora l’acqua negli occhi, e non potrebbe giurarci.",
+        "Giovanna è bionda e minuta, le guance sono forse l’unica parte rotonda del suo corpo. Quando si gonfiano, e la bocca si allarga a scoprire i denti, sembrano albicocche.",
+        "Chissà perché non fa mai il bagno, si chiede Flavio; sta là che osserva un po’ il mare, un po’ gli scogli, un po’ gli altri bagnanti. Guarda Flavio soltanto su richiesta, senza farsi pregare, sorride e poi torna a pensare ad altro, senza degnarlo di una parola.",
+        "Mentre tornano alla villa, in auto, lungo la strada sterrata costeggiata dai fichidindia, Flavio è arrabbiato. Non la guarda neanche lui, fa finta di osservare, al finestrino, gli alberi che ondeggiano al suono delle cicale.",
+        "«Giochiamo alla rockband», dice Giovanna, quando sono nel capanno degli attrezzi, di nuovo soli. Flavio è ancora arrabbiato, ma nel volgere di due secondi non lo è più. «Ok», risponde.",
+        "È strana, Giovanna. Non è stata mai “in continente”, come dice lei. Vive a un passo dal mare ma non fa mai il bagno, e tutto il giallo-arancione del sole di Sicilia non è riuscito a colorare il bianco della sua pelle. Quando è in presenza degli ospiti adulti diventa una bambola di porcellana. Coi suoi genitori, invece, è una furia e parla la lingua del demonio. Solo io la conosco davvero, pensa Flavio.",
+        "La bambina gli porge una grossa pentola di alluminio, quella per bollire le bottiglie di salsa. «Tu suoni questa», gli dice. Poi lo guarda soddisfatta. La lamiera zigrinata da sfregare con la lima, quella che fa un baccano infernale, la tiene già ben stretta nella destra: quella la suona lei, che a Flavio non venga in mente di protestare. Quando lo guarda così, Flavio non riesce a levare neanche un fiato, non pensa più nemmeno alle pentole e alle lamiere, annuisce e prova una sorta di spavento del cuore che non sa esprimere né a spinte e calci, né in altro modo.",
+        "Sono le tre di pomeriggio di un agosto lontano. Campagna di Cefalù. Proprietari e affittuari del villino a due passi dal mare riposano. Ha inizio il concerto.",
+        "Non dura mai più di dieci minuti. Giusto il tempo perché uno degli adulti, quasi sempre i genitori di lei, in casi estremi, rare volte, quelli di lui, si rivestano alla bell’e meglio e attraversino il cortile che separa la villa dal capanno, incazzati fino alla punta dei capelli, per trovarla puntualmente vuota (i corpi del reato riadagiati candidi ai loro legittimi ganci).",
+        "«Non è mica così un salto mortale», dice Giovanna, coi gomiti poggiati al parapetto del terrazzo e le guance sulle mani aperte a portafrutta.",
+        "«Certo che è così!».",
+        "Giovanna non è una che si prende la briga di controbattere. È consapevole che ciò che ha detto ha già sortito il proprio effetto e non si dà pena di vincere la disputa. Mentre i due stanno in silenzio (Flavio un po’ irrigidito) un anello di fuoco si apre nella parete nera della notte. «Un incendio», dice Giovanna.",
+        "Un incendio? Allora è così che sono fatti gli incendi? Per Flavio gli incendi avvolgono i palazzi e bruciano le persone.",
+        "«Sulla montagna», aggiunge Giovanna. E sembra tranquilla. Non sembra in attesa che un pompiere spunti da una scala per salvarla.",
+        "Quella notte, Flavio, nel letto, pensa. Pensa che Giovanna, che è più piccola di un anno, di incendi ne sa molto più di lui.",
+        "La mattina dopo, sugli scogli con loro, Giovanna non c’è. Del resto è raro che lasci i suoi e la casa per venire al mare con la famiglia di Flavio.",
+        "Meglio così. I salti mortali, senza lei che lo guarda, gli riescono meglio.",
+        "E poi nuota meglio di lei, che è nata sul mare. Riesce a immergersi e a staccare i ricci dagli scogli, a mani nude. Li pesca e li porta all’asciutto.",
+        "Nessuno li mangerà mai. Rimarranno a imputridirsi finché suo padre, uomo d’entroterra, non penserà bene di lavarli con qualche prodotto corrosivo e conservare gli scheletri a mo’ di souvenir.",
+        "Questa mattina è successo un fatto straordinario. Un pescatore, che lo vedeva lì a predare le creature marine, gli ha regalato una canna da pesca. Sono due cilindri di bambù, dal diametro appena appena difforme, dimodoché alla bisogna uno rientra nell’altro. Attaccato all’estremità di un cilindro vi è un filo di nylon, e attaccato a questo vi è un amo.",
+        "Flavio rimane per ore a pescare, con un amo e nessuna esca. Di conseguenza rientra con nessun pescato. Ma il fatto è comunque di per sé rilevante: possiede una canna da pesca.",
+        "Nell’abitacolo arroventato dell’Uno rossa che avanza per lo sterrato, Flavio pensa a quando farà ingresso nell’aia con la sua canna da pesca, sotto lo sguardo di Giovanna, che lo guarderà come le donne della pietra guardavano rientrare i cacciatori.",
+        "Quando arrivano alla villa, Giovanna non è al centro del cortile, dove l’aveva immaginata. D’altronde non c’è motivo perché sia lì: rientrando, lì, non l’ha mai trovata.",
+        "Flavio rimane ancora una mezz’ora o due a gironzolare intorno alla casa, e dentro casa, con la canna da pesca in mano.",
+        "Dopopranzo i suoi vanno a riposare. Flavio non ci pensa nemmeno: è l’ora in cui il mondo degli svegli appartiene soltanto ai ragazzi. Oggi, lucente al solleone della controra, parcheggiata nel cortile, è spuntata una terza automobile. A Flavio la cosa non piace per nulla.",
+        "Si affaccia nel capanno degli attrezzi e nel rudere della roba vecchia, ma Giovanna non c’è. Sarà rimasta in casa?",
+        "Quella sarà la macchina di qualche parente che è andato a trovarli? No, la macchina ha un adesivo ovale con su stampata una “F”. Flavio sa cosa significa: è una macchina francese, sono arrivati degli altri turisti.",
+        "«Questo è Michel», dice Giovanna, e ha le guance ad albicocca. Flavio li ha trovati sul retro della casa, accoccolati all’ombra, contro il muro.",
+        "Michel lo saluta sorridendo. Parla italiano, dice che è arrivato da Nantes, dopo un giorno e una notte di viaggio in auto, come tutti gli anni. Poi abbassa di nuovo lo sguardo sul videogioco portatile che stringe nelle mani e ricomincia a premere pulsanti. Giovanna lo osserva giocare.",
+        "Perché interessarsi a una cosa tanto stupida? I genitori di Flavio non vedono di buon occhio quegli aggeggi, e non glieli vogliono comprare. E poi dicono che costano troppo.",
+        "«Michel ne ha un sacco», dice Giovanna.",
+        "Cosa se ne fa, adesso, Flavio, della canna da pesca?",
+        "Michel ha nove anni, uno in più di lui.",
+        "«Li sa fare i salti mortali?», chiede Flavio a Giovanna.",
+        "«Non lo so…», risponde lei, e per un attimo Flavio riprende fiducia, «però i suoi genitori hanno una barca con il motore, e quando vado con loro ci tuffiamo da lì».",
+        "«Ma se tu non te lo fai il bagno!», obietta Flavio.",
+        "«E a te chi te lo ha detto?», fa lei, e poi lo guarda con due occhi come pugnali.",
+        "Al ritorno dal mare, verso ora di pranzo, Flavio rincontra Michel.",
+        "Quello che più lo fa arrabbiare è che Michel è gentile, e prova a fare amicizia. «Vuoi giocare?», gli fa, mostrando i videogiochi. La plastica delle impugnature è in colori sgargianti: fuxia, arancio fosforescente. Con l’azzurro e il verde della campagna siciliana, con l’oro degli sterpi secchi, non c’entrano niente. Roba francese. «No», dice Flavio. Ma poi cede: sceglie quello della Formula 1. Così rimangono lì, per forse un’ora, con le schiene appoggiate alla macchina con l’adesivo della “F” e il sedere per terra.",
+        "Dov’è Giovanna? Tra tre giorni Flavio tornerà a casa, e non si vedranno mai più. Ai suoi genitori piace viaggiare, vedere ogni anno un posto nuovo. Michel invece torna qui tutte le estati.",
+        "Flavio ai videogiochi non sa giocare. All’ennesimo game over si alza in piedi di colpo, con le ginocchia che gli dolgono per esser state piegate a lungo. Ci pensa un po’ e poi dice a Michel: «La vuoi vedere una cosa?».",
+        "Michel lo segue lungo il corridoio del rudere, pieno di cianfrusaglie e ferrivecchi. Si fanno largo nella penombra, tra le sedie di paglia sfondate e la polvere.",
+        "«Lì!», Flavio indica un tavolaccio ingombro addossato a una trave. Lì c’è la carogna in decomposizione di un gatto. Ormai è quasi uno scheletro, e la testa, che penzola, pare doversi staccare dal corpo da un momento all’altro.",
+        "Michel perde pian piano colore. «Non mi piace», farfuglia, e fa un passo indietro.",
+        "Come non mi piace? Gli ha regalato la vista più unica che rara di una carogna, e lui si lamenta!",
+        "«Non mi piace», ripete Michel, con una vocina così flebile che sembra stia per rompersi in pianto.",
+        "È allora che arriva Giovanna, dà un’occhiataccia a Flavio, prende Michel per un braccio e lo trascina fuori.",
+        "Flavio rimane dov’è, un po’ interdetto. Pochi attimi dopo Giovanna rientra nel rudere della roba vecchia e gli si fa contro: «Era un nostro segreto!», gli dice, e pare molto arrabbiata.",
+        "«Mi ha fatto giocare ai videogiochi, volevo dargli qualcosa in cambio», si scusa Flavio.",
+        "«Ma sei stupido? È francese!».",
+        "Quest’ultima risposta Flavio non la capisce mica poi tanto bene, ma sente il petto che si riscalda. Lui e Giovanna non sono francesi, loro due certe cose le possono capire. «Domani vado via», dice.",
+        "Quella sera Flavio e Giovanna salgono sul terrazzo. Michel sarà in giro nel cortile, o forse a casa coi suoi, ma nessuno dei due ne fa parola, fanno finta che la questione di andarlo a chiamare per giocare insieme non si ponga.",
+        "Fanno un gioco nuovo. Staccano pezzo a pezzo la copertura catramata dal lastrico solare, con una furia nuova, infusa forse dalla luce lunare. L’indomani si prenderanno la più sonora delle strigliate, e anche qualche ceffone.",
+        "Tra un mese, a casa di Flavio, arriverà una foto spedita a mo’ di cartolina. Sul davanti c’è Giovanna che sorride, col suo sguardo da demonio; sul retro, accanto alle altre, la sua firma incerta."
+    ],
+    "timestamp": "2020-12-14T22:46:42Z",
+    "title": "Incendi",
+    "topic_id": 49921,
+    "url": "https://www.writersdream.org/forum/forums/topic/49921-incendi/"
+}

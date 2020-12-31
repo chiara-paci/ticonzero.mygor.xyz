@@ -1,0 +1,93 @@
+{
+    "author": {
+        "author_id": 15728,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "Komorebi",
+        "url": "https://www.writersdream.org/forum/profile/15728-komorebi/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5970,
+    "num_commenti": 0,
+    "num_posts": 23,
+    "post_after": [
+        {
+            "post_id": 878651,
+            "text": [
+                "Intanto vi ringrazio tutti dei commenti, anche se non vi taggo uno per uno, sappiate che vi ho letti tutti. Ho solo una nota da aggiungere, sono rimasto stupito che tutti voi abbiate pensato che “Lei” si suicidasse al termine del racconto. La mia idea era di lasciare un finale aperto, dove non si sapesse se fosse morta o solo scappata via per la casa del vicino. Forse mi è sfuggito qualcosa, rivaluterò le mie scelte sul finale e sul perché non sia venuto aperto come avrei voluto."
+            ],
+            "timestamp": "2020-12-23T06:52:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49939-n20-1-presto-scoppier%C3%A0-un-temporale//?do=findComment&comment=878651"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 878639,
+            "text": [
+                "Trovo che tu abbia fatto un buon lavoro. La cosa che apprezzo di norma in quanto scrivi è la ricerca di un tema da comunicare, anche in occasione di contest che costringono i racconti su determinati binari. Aggiungiamoci una scrittura limpida e solida, che ok, si sa, ma la qualità non va mai data per scontata.",
+                "Il risultato è un testo piacevole, condotto con intelligenza e irrobustito da un punto di vista tematico, e tanto basta, a mio avviso, per farlo spiccare fra quelli dei tanti partecipanti al contest."
+            ],
+            "timestamp": "2020-12-22T22:31:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49939-n20-1-presto-scoppier%C3%A0-un-temporale//?do=findComment&comment=878639"
+        }
+    ],
+    "text": [
+        "Presto scoppierà un temporale",
+        "Nervoso, nervoso.",
+        "Odore di pioggia, l’aria è umida e spessa. Più spessa che in casa, più spessa del fumo di Lui. Rumore, rumore fortissimo. Sono nervoso, nervoso. Scodinzolo, ma sono nervoso comunque. Oggi in casa, piacevole. Poi passeggiata, che bello. Scodinzolavo tantissimo. Poi a casa e si mangia. Domani ancora. Adesso, però, adesso nervoso. Lei è uscita, l’ho vista sul balcone. Ma qui non c’è. C’è aria spessa e umida, qui sul balcone. E buio. E i rumori fortissimi che vengono dall’alto. E l’aria è spessa e densa.",
+        "Nervoso, nervoso.",
+        "Il cane è nervoso, che palle. Quando c’è il temporale si agita sempre. Tiro una boccata dalla Winston, chiamo Lei perché si occupi del cane. È sempre Lei che se ne occupa, è Lei che l’ha voluto. Ora se lo coccoli un po’ e lo faccia calmare.",
+        "Ardbeg nel bicchiere, Dio che piacere il sapore di torba. L’affumicato scende giù dritto in stomaco e il cervello diventa una maracas.",
+        "Chi cazzo ha messo questo documentario su Platone alla televisione? Sono stato io? Non me ne ricordo.",
+        "Tutte le sere sigaretta e whiskino davanti alla tv, mentre Lei lava i piatti del dopo-cena. Questa sì che è vita. Almeno un po’ di respiro prima di tornare a lavorare domani. Sveglia alle 5:30, caffè-sigaretta-cacata e doccia. Traffico, scrivania, computer, pranzo, computer, scrivania e traffico. Rientro a casa, Dio che gioia. Non ci fosse Lei col suo muso lungo, non ci fosse Lei sarebbe meglio.",
+        "Per fortuna che alla sera ho la mia Winston con l’Ardbeg. Ogni sera, sempre. Immancabile.",
+        "Chi cazzo ha messo questo documentario su Platone?",
+        "Nervoso, nervoso.",
+        "Lui è tornato a casa e Lei lo aspettava. Ha detto che era stufa, che se ne sarebbe andata. Lui ha sbuffato, ha detto che ogni giorno Lei ripeteva sempre le stesse cose. Lei aveva risposto di farlo perché Lui non capisce mai niente. Nervoso, nervoso. Abbaiavo, ma non mi ascoltavano. Litigavano tra loro, come sempre, come sempre.",
+        "La chiamo, chissà dov’è finita. A cagare no, perché lei ci va solo la domenica mattina, è stitica anche in quello, oltre che nello spendere. Mai che compri qualcosa di nuovo o che si decida a uscire a cena. Si lamenta che non le rivoluziono la vita, ma a smuoverla dalle sue routine non basterebbe una gru.",
+        "A quest’ora lei lava i piatti, lo fa sempre. Dalle 20:30 alle 21:00 lava i piatti. Poi litighiamo. Giusto quando ho finito il mio bicchierino di Ardbeg. Anche questa volta sarà così: verrà e litigheremo. Le chiederò perché non si è occupata del suo cane, lei mi urlerà addosso e io sbufferò e alzerò le spalle. Poi domani ricominceremo tutto dall’inizio. Questo succederà, pensavo, ma mi sbagliavo. Così come sbagliavo a credere che avrei trovato il fottuto telecomando per cambiare canale.",
+        "Lui arriva a casa, io lo aspetto in cucina. Mi dico che devo parlargli e farmi valere, che non posso più andare avanti così. E dunque appena arriva gli parlo. La nostra vita è piatta, non succede mai niente di nuovo, sono stanca. Lui m’interrompe e sghignazza, come fa sempre quando la conversazione si fa importante. Che fastidio. M’interrompe e dice che è colpa mia, che sono un’abitudinaria di merda, che a causa mia si è ridotto a un’ombra di se stesso, che dice e ripete sempre le stesse cose. Abbiamo già avuto anche questa discussione, mi dice. L’abbiamo avuta ieri, e ieri l’altro ancora, e prima di nuovo. Non ricordi? Non ricordo. I giorni si confondono nella mia testa, tutti mi paiono uguali.",
+        "Nervoso, nervoso.",
+        "Rumori fortissimi nel cielo, tra poco scoppierà il temporale. Pioggia, pioggia ovunque. Che fastidio quando piove. Abbaio. Lui mi urla di stare zitto. Di solito è Lei che me lo dice, è sempre Lei. Ma Lei dov’è? Era qui un attimo fa. L’ho vista. Dopo aver detto a Lui di tenerle compagnia mentre lavava i piatti e dopo che Lui si è seduto in poltrona, Lei è uscita sul balcone, proprio qui. C’è ancora il suo odore. Qui. Sul balcone. Ma lei dov’è?",
+        "Una volta. Siamo stati felici, una volta. Quando si era all’inizio e tutto era nuovo, e niente si conosceva l’uno dell’altra. Ma poi siamo entrati nelle nostre routine, come tunnel le abbiamo seguite senza mai prendere una svolta. Lui e il suo whisky, io e le faccende domestiche. Prima che ce ne accorgessimo siamo diventati prevedibili. Sapevo quello che avrebbe detto Lui, prima ancora che aprisse bocca. E Lui sapeva ciò che avrei detto io. Non ci furono più segreti, né sorprese.",
+        "Abbaio. Abbaio.",
+        "L’Ardbeg sta facendo effetto, il documentario su Platone non mi dà più così fastidio. Ma lei dov’è? Perché non è qui dov’è sempre stata? Mi fa paura la sua assenza. La sua voce, le sue grida di rabbia e disprezzo erano una costante, mi facevano sentire al sicuro. Questa sera è tutto diverso. Sono anni che è tutto uguale e stasera è cambiata ogni cosa. Lei non zittisce il cane, non è a lavare i piatti. Non riesco a capacitarmi della sua assenza, non è possibile che non ci sia. Sarebbe come non vedere il sole sorgere all’alba.",
+        "Eppure se la chiamo non risponde. Non è mai successo. Quasi sempre mi lanciava dei grugniti scontenti, delle parole sibilate. Ora silenzio, solo il cane che abbaia e i tuoni vicini.",
+        "È così vuota la casa.",
+        "Abbaio. Abbaio.",
+        "Fuggo sul balcone, prendo aria. Il cielo è scuro, la notte carica di elettricità. Nubi dense si assembrano. Sopra di me, il terrazzo del vicino, coi suoi fiori ben curati e le ringhiere su cui s’arrampica l’edera. L’edera che non cresce mai allo stesso modo, si arrampica e si divide e resiste a ogni ostacolo.",
+        "Salgo sul parapetto del nostro balcone. È così facile cambiare, se non ci si pensa.",
+        "Allungo un braccio, con uno slancio raggiungo il terrazzo e le grate dell’edera. In un attimo mi ritrovo sospesa quasi in cima all’intero palazzo.",
+        "Il vento soffia terrificante. I tuoni rimbombano.",
+        "Lui è di sotto, guarda un documentario su Platone. Chissà se ha notato la mia assenza.",
+        "Il cane abbaia, forse sente ancora il mio odore. Non per molto, però. Presto scoppierà un temporale. L’acqua laverà via ogni traccia.",
+        "E io tornerò a essere nuova."
+    ],
+    "timestamp": "2020-12-16T20:59:10Z",
+    "title": "[N20-1] Presto scoppierà un temporale",
+    "topic_id": 49939,
+    "url": "https://www.writersdream.org/forum/forums/topic/49939-n20-1-presto-scoppier%C3%A0-un-temporale/"
+}

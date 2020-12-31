@@ -1,0 +1,128 @@
+{
+    "author": {
+        "author_id": 24453,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "caipiroska",
+        "url": "https://www.writersdream.org/forum/profile/24453-caipiroska/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 5706,
+    "num_commenti": 0,
+    "num_posts": 27,
+    "post_after": [
+        {
+            "post_id": 877723,
+            "text": [
+                ", , , , , ,",
+                "grazie per il passaggio e i complimenti!",
+                "In realtà quale migliore occasione di questa per tirare fuori qualcosa di buono e positivo da queste due penne malefiche?"
+            ],
+            "timestamp": "2020-12-18T23:27:27Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49961-n-20-1-e-invece-qualcuno-si-ferm%C3%B2//?do=findComment&comment=877723"
+        },
+        {
+            "post_id": 878114,
+            "text": [
+                "Ciao",
+                "prima di scrivere il brano sulla fiammiferaia, ho letto un po' qua e là qualcosa sul tema.",
+                "Ti riporto questo frammento, che dovrebbe essere una specie di riassunto della morale.",
+                "Quale messaggio vuol trasmetterci la favola della piccola fiammiferaia? Qual è la morale?",
+                "La protagonista di questa storia vive tra persone che non si curano di lei, che non mostrano alcuna attenzione alle sue necessità, né alle sue potenzialità (rappresentate dai fiammiferi). Il calore dovrebbe essere l’obiettivo principale della piccola fiammiferaia, lei invece cerca di vendere i fiammiferi, la sua fonte di calore, e con il passare del tempo si congela...",
+                "In effetti tutto questo non traspare dal testo, altrimenti sarebbe diventato un'altra cosa, ma ti ringrazio per la lettura accurata e per aver sottolineato la parte forse più importante del comportamento della bambina: il testo che ho letto è più lungo e articolato e spiega (in maniera un po' fumosa in realtà...) cosa vuol trasmettere il testo.",
+                "Quindi: lei vende per un penny (ma nessuno la considera) ciò che in realtà può salvarla (il calore) perchè vive in una realtà dove le hanno detto che quello è l'unico comportamento da adottare e non vede altra soluzione per la sua situazione. Quando decide di ribellarsi a questo accende i fiammiferi e rimane fatalmente ammirata dall'illusione che creano.",
+                "O qualcosa di simile...",
+                "Grazie per il passaggio!"
+            ],
+            "timestamp": "2020-12-20T17:57:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49961-n-20-1-e-invece-qualcuno-si-ferm%C3%B2//?do=findComment&comment=878114"
+        },
+        {
+            "post_id": 878444,
+            "text": [
+                ", , , , ,",
+                "grazie a tutti del passaggio e delle belle parole!",
+                "Ci siamo trattenute tantissimo!",
+                "Grazie per aver apprezzato!"
+            ],
+            "timestamp": "2020-12-21T23:50:31Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49961-n-20-1-e-invece-qualcuno-si-ferm%C3%B2//?do=findComment&comment=878444"
+        },
+        {
+            "post_id": 879031,
+            "text": [
+                "Ciao ,",
+                "grazie per l'attenta lettura e i preziosi consigli!",
+                "Ah, ah, è vero, ma lo sai che non ci avevo fatto caso?"
+            ],
+            "timestamp": "2020-12-25T16:50:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49961-n-20-1-e-invece-qualcuno-si-ferm%C3%B2//?do=findComment&comment=879031"
+        }
+    ],
+    "post_staff": [],
+    "text": [
+        "Caipiroska e Silverwillow",
+        "Traccia di pan di zenzero",
+        "Il vostro racconto deve avere a che fare con il natale e/o essere ambientato nel periodo natalizio. Potete scegliere il genere e la storia da raccontare. Non è quindi necessario che il Natale sia il tema del racconto.",
+        "Boa: il racconto deve contenere la parola “barba” o “barbe”.",
+        "E invece qualcuno si fermò…",
+        "Le strade di Londra a quell’ora della sera erano un via vai frenetico e allegro: le carrozze passavano veloci lasciando solchi sul manto nevoso, mentre sui marciapiedi una folla colorata si affrettava per gli ultimi acquisti. Agli angoli delle strade piccoli gruppi di persone smorzavano l’aria frizzante dell’inverno intonando allegre canzoni natalizie, e sulla neve brillavano i riflessi delle vetrine appannate.",
+        "Con il primo arriva la stufa di rame e il caldo tepore che promette…",
+        "Il cocchiere tirò con cautela le redini al cavallo e accostò in uno spazio libero a lato della strada. Lo sportello si aprì e Sir Arthur scese facendo attenzione a non scivolare.",
+        "«Allora, Thomas, cosa ne pensi della mia nuova Brougham?» chiese l’anziano rivolto al cocchiere, dando una pacca alla fiancata della carrozza.",
+        "«Molto maneggevole, Sir. Ideale per la guida in città.»",
+        "Sir Arthur ridacchiò e si fregò le mani.",
+        "«Sì, infatti. Credo di aver fatto un affare. Quella vecchia volpe di Harrington questa volta mi ha consigliato bene.»",
+        "Thomas lo guardò dall’alto della sua postazione e annuì.",
+        "Sir Arthur si strinse nel cappotto lasciando che la folta barba brizzolata si adagiasse sul bavero come un’esotica sciarpetta. Appoggiò il bastone a terra e inspirò l’aria pungente della sera.",
+        "«Bene, Thomas, vado a sbrigare le ultime cose. Aspettami pure al pub e prendi da bere. È l’ultimo giorno dell’anno, offro io!» e fece un sorriso al ragazzo.",
+        "«Grazie, Sir Amberscombe!»",
+        "«A proposito…» e si avvicinò al ragazzo che nel mentre era sceso «Sai mica se la signora Parker ha preparato la crostata ai mirtilli per stasera?»",
+        "«Non lo so, Sir.»",
+        "«Speriamo di sì!» e si battè una mano sulla pancia.",
+        "Il ragazzo sorrise e rimase a osservare l’anziano sparire tra la folla.",
+        "Con il secondo appare un albero di Natale con le sue luci brillanti e la promessa di una casa, di una famiglia…",
+        "Sir Arthur uscì dal negozio e tirò fuori l’orologio dal taschino: le 18. Posizionò meglio il pacco che teneva sottobraccio e sotto la barba sorrise immaginando la faccia che la sua Annabel avrebbe fatto quando l’avrebbe scartato come regalo di compleanno. Ah, Annabel! Una vita insieme e ancora non era sazio di lei. Alzò gli occhi al cielo e il suo sguardo s’incastrò nella croce che svettava sulla cupola della chiesa.",
+        "“Signore, ti ringrazio per avere lei al mio fianco: due vecchi che ancora si vogliono bene” pensò, ed era talmente assorto nella sua silenziosa preghiera che non si accorse della zingara ferma lì accanto.",
+        "La donna lo guardò intensamente, gli prese la mano e strinse forte.",
+        "D’istinto l’uomo fece un passo indietro e il pacco che aveva con sé cadde a terra: la statuina di cristallo al suo interno andò in mille pezzi.",
+        "«Mi lasci!» urlò l’uomo un po' spaventato.",
+        "«Miseria!» bisbigliò la donna «Vende l’unica cosa di cui ha bisogno per un misero penny! E nessuno la vuole!»",
+        "Sir Arthur si dimenò per liberarsi dalla presa della donna, ma lei lo tenne ben saldo avvicinandolo a sè. L’uomo ne percepì lo sgradevole odore e vide gli occhi azzurri della donna spalancarsi e farsi minacciosi.",
+        "«Ascoltami, uomo» e da quella bocca di denti malfermi un alito caldo colpì l’uomo in faccia «Chiede solo un po' d’amore e tu ne hai tanto ancora da dare, perché sei buono. Affrettati, uomo cieco!» e lasciò la presa. Sir Arthur barcollò e urtò un passante.",
+        "«Ha bisogno d’aiuto, sir?» chiese lo sconosciuto.",
+        "«No, io… lei…» ma la donna si tirò lo scialle sulle spalle, attraversò la strada e sparì.",
+        "Sir Arthur la cercò con lo sguardo, ma non la trovò. Ancora un po' sconvolto si guardò intorno e poi si avviò verso la sua carrozza: si sentiva a disagio, confuso. Nemmeno si accorse di calpestare il pacco che aveva appena comprato, un oggetto molto prezioso che serviva solo a colmare un buco sulla mensola in soggiorno. E nel cuore di sua moglie.",
+        "Turbato, continuò a camminare tra la gente finché non vide la Brougham brillare dei riverberi delle luci poco più avanti. Thomas era già seduto a cassetta.",
+        "Cercò di calmarsi e rallentò il passo. Fu allora che con la coda dell’occhio vide una fiammella brillare nel buio di un vicolo.",
+        "Il terzo sa d’amore, e le sembra che qualcuno stia arrivando a braccia tese verso di lei. Vede il sorriso su un bel viso luminoso: è la nonna che la chiama per andare in paradiso “Eccomi nonnina…”",
+        "Sir Arthur vide il barlume e si avvicinò. Nel buio della stradina non arrivava niente della frenesia della strada, solo l’eco di canti e risate. La fiammella si spense e un mucchio di stracci cadde a terra; da un lembo stracciato spuntò un piedino, bianco come la neve che lo circondava.",
+        "«Miseriaccia!» disse l’uomo e si affrettò nel vicolo, chinandosi sul mucchio di stracci e toccando qualcosa che sembrava un corpo, il misero corpo di una bambina.",
+        "«Ehi, piccolina! Fatti forza!» e la prese in braccio stringendola a sé. La piccola socchiuse gli occhi e alzò la mano tremante fino a toccare la folta barba.",
+        "«Sembra una nuvola…» bisbigliò la bambina e tra la febbre che la divorava riuscì a fare un timido sorriso. L’uomo spalancò gli occhi e si alzò tenendo l’esile corpo tra le braccia: quella riga triste che le graffiava il viso era lo stesso sorriso che ricordava sul volto di sua figlia Claire prima che chiudesse gli occhi per sempre.",
+        "Sir Arthur uscì dal vicolo e urlò a Thomas di preparare la carrozza e di precipitarsi dal medico.",
+        "Nel vicolo rimasero solo alcune scatole di fiammiferi usati."
+    ],
+    "timestamp": "2020-12-18T09:39:11Z",
+    "title": "[N 20-1] E invece qualcuno si fermò...",
+    "topic_id": 49961,
+    "url": "https://www.writersdream.org/forum/forums/topic/49961-n-20-1-e-invece-qualcuno-si-ferm%C3%B2/"
+}

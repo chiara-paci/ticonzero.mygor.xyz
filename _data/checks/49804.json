@@ -1,0 +1,147 @@
+{
+    "author": {
+        "author_id": 40035,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 1,
+            "poesia": 0
+        },
+        "name": "leonreno83",
+        "url": "https://www.writersdream.org/forum/profile/40035-leonreno83/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao! Le mie personalissime e umili osservazioni, che non tengono conto delle altre, nel senso che a mio parere ripetere un parere già dato non è superfluo ma rafforzativo:",
+                    "GENERALE",
+                    "- La scrittura è buona, ma forse troppo ricca di particolari e aggettivi che non aggiungono granché e anzi, lasciano un po' poco spazio alla personalizzazione che ogni lettore ha il diritto di fare di una scena. In ogni caso, messi insieme gli elementi sensoriali, tutto sommato l'atmosfera c'è",
+                    "- Non mi è ben arrivato cosa vuoi dire, ovvero cosa stai raccontando e perché. Un anziano pescatore guarda cosa accade intorno a lui mentre pesca sulla spiaggia. Non accade nulla di interessante. Qual era il messaggio? Un uomo anziano che si sente \"obsoleto\" nel corpo e nei vestiti rispetto a dei giovani e si limita a fare pigramente ciò che la vecchiaia gli consente?",
+                    "DETTAGLI",
+                    "- L'incipit mi piace come immagine ma è forse un po' troppo lungo prima di poter riprendere fiato (fino a \"mattino presto\" intendo), avrei inserito delle virgole in più o forse direttamente omesso qualche particolare descrittivo non essenziale",
+                    "- \"Tonfo\" non è proprio l'onomatopea che meglio esprime il rumore di passi sulla spiaggia. Avrei scritto direttamente \"furono i loro passi veloci\" o qualcosa del genere",
+                    "- A occhi aperti... A richiamarlo... ALLA sua partita... mi suona un po' ripetitivo",
+                    "- ...uno di questi giorni, dal negozio caccia e pesca del paese… Avrei chiuso col punto normale, non vedo il bisogno della sospensione",
+                    "Spero ci sia qualcosa di utile!"
+                ]
+            ],
+            "timestamp": "2020-12-04T15:10:45Z",
+            "title": "A pesca",
+            "url": "https://www.writersdream.org/forum/forums/topic/49780-a-pesca//?do=findComment&comment=875083",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 27,
+        "title": "Racconti",
+        "url": "https://www.writersdream.org/forum/forums/forum/27-racconti/"
+    },
+    "num_chars": 3715,
+    "num_commenti": 1,
+    "num_posts": 6,
+    "post_after": [
+        {
+            "post_id": 875106,
+            "text": [
+                "Grazie mille!"
+            ],
+            "timestamp": "2020-12-04T17:53:29Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49804-promesso//?do=findComment&comment=875106"
+        },
+        {
+            "post_id": 875134,
+            "text": [
+                "Grazie mille! Trovo interessante la tua osservazione. Non l'ho letto o sentito da nessuna parte, ma scrivendo ho elaborato un mio pensiero personale che mi sembra valido: se una cosa non emoziona te mentre la scrivi, probabilmente non qualcosa non funziona. Difatti qualche lacrima mi scese"
+            ],
+            "timestamp": "2020-12-04T19:54:39Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49804-promesso//?do=findComment&comment=875134"
+        },
+        {
+            "post_id": 875135,
+            "text": [
+                "Probabilmente non qualcosa non funziona. Vabbè insomma ci siamo capiti"
+            ],
+            "timestamp": "2020-12-04T19:55:45Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49804-promesso//?do=findComment&comment=875135"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 4308,
+                "name": "Marcello",
+                "url": "https://www.writersdream.org/forum/profile/4308-marcello/"
+            },
+            "post_id": 875089,
+            "text": [
+                "Bello!",
+                "Complimenti: sei riuscito a comporre un gioiellino in poche righe, partendo da una traccia che più invasiva di così non avrebbe potuto essere.",
+                "Leggendo mi sono dimenticato degli elementi che vi dovevano comparire obbligatoriamente, credo sia la testimonianza migliore che il racconto mi è \"arrivato\".",
+                "Buon proseguimento al Writer's Dream."
+            ],
+            "timestamp": "2020-12-04T16:10:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/49804-promesso//?do=findComment&comment=875089"
+        }
+    ],
+    "text": [
+        "Link al commento:",
+        "Salve a tutti! Condivido un primo racconto breve, che ho scritto a luglio per partecipare a un piccolo contest in un gruppo Facebook in cui bisognava tassativamente seguire cinque tracce scaturite da sondaggi, ovvero le seguenti:",
+        "CHI: una nonna di 75 anni",
+        "COSA: scava una buca in giardino",
+        "DOVE: a casa dell’amica d’infanzia",
+        "QUANDO: 3 minuti dopo la mezzanotte",
+        "PERCHE’: ha fatto una promessa",
+        "E questo è il testo del racconto (ho fatto qualche piccola revisione da allora ma nulla di rivoluzionario):",
+        "\"PROMESSO\"",
+        "5 luglio 2019, ore 19.38",
+        "“Mamma, è successa una cosa.”",
+        "Teresa, seduta nella poltrona su cui ormai passava le giornate, girò lentamente la testa verso sua figlia Francesca. Il suo sguardo era assente.",
+        "“Mi ha chiamato Damiano, il figlio di Lorena. Lei… ha avuto un attacco di cuore poche ore fa. Non ce l’ha fatta.”",
+        "La madre continuò a fissarla. L’Alzheimer in fase avanzata non le permetteva molto di più.",
+        "“Passava a trovarti almeno una volta al mese. Non la riconoscevi più dall’estate scorsa, ma lei veniva comunque. Ti voleva così bene. Un’amicizia lunga una vita.”",
+        "Nessuna apparente reazione negli occhi di Teresa. Francesca sospirò. Poi si alzò e si avviò verso la porta.",
+        "“Beh... Faccio un salto al supermercato prima che chiuda. Torno in un lampo, così ceniamo.”",
+        "“Promesso.”",
+        "Francesca si fermò. Capitava sempre più di rado che la madre parlasse.",
+        "“Come hai detto?”",
+        "Teresa guardò verso la finestra. Non sembrava più assente, ma preoccupata.",
+        "“Promesso.”",
+        "La figlia aggrottò le sopracciglia.",
+        "“Ma sì, tranquilla, torno subito. Te lo prometto.”",
+        "Ore 19.57",
+        "Quando Francesca rientrò, la poltrona era vuota. Guardò ovunque e scoprì con sgomento che la madre non era in casa. Le parve assurdo. Ormai Teresa non camminava quasi più ed era sicura di aver chiuso la porta a chiave. Chiamò i carabinieri, che mandarono una pattuglia in zona e le consigliarono, nel frattempo, di cercarla nei dintorni.",
+        "Ore 23.11",
+        "In un paesino circondato da dirupi era imprudente andare in giro con poca luce, ma Francesca vagò per più di due ore dopo il tramonto, prima di tornare a casa distrutta e disperata. Telefonò a suo marito, fuori per un’escursione di due giorni col loro bambino in montagna, e gli raccontò tutto piangendo.",
+        "6 luglio, ore 00.03",
+        "Damiano, ancora sveglio nella casa che condivideva con la madre fino a poche ore prima, sentì dei passi in giardino. Si alzò e, cercando di non fare rumore, uscì: Teresa sedeva nella veranda, con una vecchia scatola di metallo, sporca di terra, in grembo.",
+        "Ore 00.05",
+        "Il telefono di Francesca squillò: lei rispose e Damiano le fece tirare il più ampio dei sospiri di sollievo. Come Teresa fosse riuscita a percorrere il chilometro di stradine scoscese che separavano le due abitazioni, per giunta senza essere vista, era un mistero. Avvertì i carabinieri e suo marito, e si precipitò laggiù.",
+        "Ore 00.19",
+        "Francesca precedette la pattuglia di pochissimo. Si avvicinò alla madre e le chiese cos’era successo. L’anziana non rispose, ma sorrideva come non faceva da tempo. Porse la scatola alla figlia. Lei la prese e la aprì. Dentro c’erano una bambola vecchissima e un biglietto di carta sgualcito, scritto in un bel corsivo. Lo lesse ad alta voce.",
+        "“Oggi, 5 luglio 1952, io, Teresa Noto, compagna di banco e migliore amica di Lorena Costanzi, prometto che, se domani l’operazione andrà male e le accadrà qualcosa di brutto, verrò a prendere questa bambola e la farò seppellire con lei”.",
+        "Damiano sorrise commosso.",
+        "“Mia madre subì un intervento a otto anni. La cardiochirurgia era agli albori. Rischiò molto, ma andò tutto bene.”",
+        "Poi aggiunse, rivolto a Teresa:",
+        "“Alla bambola ci penso io.”",
+        "“Promesso.” rispose lei.",
+        "Francesca si girò di scatto e guardò la madre. Sorrideva ancora. Alla figlia scese una lacrima."
+    ],
+    "timestamp": "2020-12-04T15:23:29Z",
+    "title": "Promesso",
+    "topic_id": 49804,
+    "url": "https://www.writersdream.org/forum/forums/topic/49804-promesso/"
+}

@@ -1,0 +1,98 @@
+{
+    "author": {
+        "author_id": 39746,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Marcocr",
+        "url": "https://www.writersdream.org/forum/profile/39746-marcocr/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 0.7722222222222223,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7722222222222223
+            },
+            "text": [
+                [
+                    "Ciao ,",
+                    "concordo con che il tema che hai scelto è universale.",
+                    "Hai fatto molto bene a scegliere la seconda persona ed a creare un dialogo che coinvolge il lettore.",
+                    "Hai affrontato tante sfaccettature del rapporto figlio-madre, come ad esempio:",
+                    "I contrasti",
+                    "le feste di famiglia",
+                    "Come hai scritto nel commento, hai utilizzato uno stile diretto",
+                    "parole semplici ed immediate che ti vogliono coinvolgere direttamente.",
+                    "Nel complesso mi è piaciuta e mi ha coinvolto emotivamente.",
+                    "Io ti suggerirei di cambiare il titolo e di semplificarlo, ad esempio:",
+                    "La seconda adolescenza oppure L'angolo del balcone.",
+                    "Secondo me dovresti legare di più il titolo alle emozioni che susciti.",
+                    "Non mi convince poi l'immagine:",
+                    "Non penso sia appropriata al clima della poesia.",
+                    "Grazie per i sentimenti che hai voluto condividere.",
+                    "A presto,",
+                    "Marco"
+                ]
+            ],
+            "timestamp": "2020-12-16T21:53:08Z",
+            "title": "Viaggiatrice del tempo in tempo di guerra",
+            "url": "https://www.writersdream.org/forum/forums/topic/49832-viaggiatrice-del-tempo-in-tempo-di-guerra//?do=findComment&comment=877115",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 574,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Parole, Palabras, Mots, Words, Wörter",
+        "Vibrazioni d’aria",
+        "Respiri dell’anima",
+        "Gusci fragili",
+        "di esistenze e forme",
+        "Creano mondi",
+        "Iniziano rivoluzioni",
+        "Strutture esili",
+        "che la Storia plasma,",
+        "deforma, semplifica, arricchisce,",
+        "contamina.",
+        "Girano il mondo",
+        "si inabissano nel’Ignoto",
+        "si aggrappano alla Realtà",
+        "e la oltrepassano.",
+        "Alcune vite",
+        "le sfiorano",
+        "altre le stravolgono",
+        "Si impregnano sulla carta,",
+        "illuminano schermi",
+        "riempiono silenzi.",
+        "Notti insonni di ricerca",
+        "sulle orme di maestri migliori.",
+        "Parole, Palabras, Mots, Words, Wörter",
+        "La vita è tutta qui,",
+        "in quest’arte antica e sofisticata:",
+        "il mestiere delle parole."
+    ],
+    "timestamp": "2020-12-16T21:54:58Z",
+    "title": "Il mestiere delle parole",
+    "topic_id": 49940,
+    "url": "https://www.writersdream.org/forum/forums/topic/49940-il-mestiere-delle-parole/"
+}
