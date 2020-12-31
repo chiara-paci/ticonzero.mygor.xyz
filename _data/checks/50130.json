@@ -1,0 +1,56 @@
+{
+    "author": {
+        "author_id": 2705,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Lizz",
+        "url": "https://www.writersdream.org/forum/profile/2705-lizz/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 535,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Squadra:",
+        "e @Lizz",
+        "Traccia n.8:",
+        "Ciao, poeta. Come traccia per la tua poesia, hai tre parole:",
+        "LIMITE – IMPRONTA – SUONO",
+        "La tua poesia dovrà avere nel testo, in versi diversi, le tre parole indicate.",
+        "Boa: massimo dieci versi.",
+        "L'albero del male",
+        "Ho augurato la morte a mio padre",
+        "e non me ne pento.",
+        "Impronta la sua che ingabbia e non guida,",
+        "radice di ogni mio limite.",
+        "Suono di scherno le parole",
+        "Come fronde che sferzano il mio animo.",
+        "Il terremoto di astio è passato,",
+        "ma resto salda nel mio pensiero.",
+        "Aspetto il nuovo sole, io pianto di rugiada tra le foglie."
+    ],
+    "timestamp": "2020-12-31T10:43:53Z",
+    "title": "[N20-2]  L'albero del male",
+    "topic_id": 50130,
+    "url": "https://www.writersdream.org/forum/forums/topic/50130-n20-2-lalbero-del-male/"
+}

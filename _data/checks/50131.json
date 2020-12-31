@@ -1,0 +1,56 @@
+{
+    "author": {
+        "author_id": 3139,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "Lo scrittore incolore",
+        "url": "https://www.writersdream.org/forum/profile/3139-lo-scrittore-incolore/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 481,
+    "num_commenti": 0,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Traccia: un incontro inaspettato",
+        "Questa sera un'uscita fra vocali",
+        "A e O sposati e clericali",
+        "Lei casalinga inossidabile",
+        "Lui lavoratore infaticabile",
+        "I ed E sono molto simili",
+        "Ma prima di incontrarsi",
+        "E alla follia amarsi",
+        "Ci fu pluralità di stimoli",
+        "Infine U e Y sedute un po' in disparte",
+        "La prima confonde articoli",
+        "La seconda nata agli antipodi",
+        "Si amano, ma mancano le carte",
+        "Attenzione però! Facce sorprese",
+        "Unə si è sedutə a capotavola",
+        "E sorride a più riprese",
+        "\"Saremo grandi amicə! Staremo una favola!\""
+    ],
+    "timestamp": "2020-12-31T10:46:47Z",
+    "title": "[N20-2] ə",
+    "topic_id": 50131,
+    "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99/"
+}
