@@ -1,0 +1,58 @@
+{
+    "author": {
+        "author_id": 24195,
+        "checks": {
+            "contest": 1,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 0
+        },
+        "name": "AdStr",
+        "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": false,
+        "valid": 0.0,
+        "weight": false
+    },
+    "closed": false,
+    "commenti": [],
+    "commenti_weight": 0,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 145,
+        "title": "Contest aperti",
+        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+    },
+    "num_chars": 1272,
+    "num_commenti": 0,
+    "num_posts": 2,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "Quello che non è poesia. Si leggono spesso, troppo spesso, poesie sull'amore, sulla felicità e sul dolore, poesie intimiste, di riflessione sul ruolo dell'uomo nel mondo... Be' è il momento di dire basta. Per questa volta, la poesia dovrà avere per tema 'ciò che di solito non è usato per fare poesia'. Voglio leggere una poesia sulla defecazione e sull'incontinenza, o sui canali YouTube, sui profili Facebook e su TikTok. Voglio leggere una poesia che parli dello sporco tra le dita dei piedi o di quanto sia brutto dover andare dal dentista. Voglio una poesia su qualcosa che di solito viene escluso dalle poesie. Mi raccomando: deve essere il tema principale della poesia, non basta che 'l'argomento scomodo' sia usato per metafora. Tutta la poesia deve reggersi su di esso.",
+        "Boa: proibito il genere comico.",
+        "C'era vita",
+        "Labirinti spenti e in silenzio",
+        "Freddo inerte, quiete abissale",
+        "Polvere sulle strade di impulsi",
+        "Cuore e ossa, spina dorsale",
+        "per un trafficare di incontri,",
+        "di estro, e di amore e di ingegno",
+        "di costanti richiami sonori",
+        "di correnti di informazione.",
+        "Materiali resistenti in eterno",
+        "incapaci di tenere il passo",
+        "Relitti seminati al passaggio",
+        "delle onde dell'evoluzione.",
+        "Depositi nelle vecchie memorie,",
+        "persistono una foto, un appunto,",
+        "emblemi a ricordo che un tempo",
+        "c'era vita."
+    ],
+    "timestamp": "2020-12-31T10:58:12Z",
+    "title": "[N20-2] C'era vita",
+    "topic_id": 50132,
+    "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita/"
+}
