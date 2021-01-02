@@ -27,8 +27,28 @@
     },
     "num_chars": 297,
     "num_commenti": 0,
-    "num_posts": 2,
-    "post_after": [],
+    "num_posts": 14,
+    "post_after": [
+        {
+            "post_id": 880202,
+            "text": [
+                "Grazie per i commenti Non sono molto pratica di poesia (anche se mi piace leggerla) , ma ho cercato di rendere il senso autodistruttivo della vendetta in forma poetica.",
+                "In realtà ne avevo scritta un'altra prima, ma poi mi sono venuti i dubbi e la mia socia mi ha aiutata a decidere quale fosse migliore.",
+                "Grazie. Personalmente apprezzo di più le poesie classiche, che seguono una metrica, perché per me la poesia è anche suono, oltre che belle immagini. Quanto alle parole però non sono così schizzinosa, per me si può usare qualsiasi parola serva a rendere l'idea. Qui \"cuore\" ad esempio è sia concreto che metaforico, e sarebbe difficile trovare un sostituto"
+            ],
+            "timestamp": "2020-12-31T15:15:57Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50127-n20-2-cenere//?do=findComment&comment=880202"
+        },
+        {
+            "post_id": 880247,
+            "text": [
+                "e faresti bene, probabilmente Non m'intendo di poesia, vado un po' a caso. La differenza tra le due parti c'è, ma ho pensato potesse sottolineare i due momenti distinti. Magari invece stona e basta... Grazie per il commento! Mi piacerebbe cimentarmi nella poesia, quindi ogni consiglio è bene accetto",
+                "Grazie anche a te"
+            ],
+            "timestamp": "2020-12-31T20:36:17Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50127-n20-2-cenere//?do=findComment&comment=880247"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Con l'aiuto prezioso di",

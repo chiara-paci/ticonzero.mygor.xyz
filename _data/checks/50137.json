@@ -13,12 +13,43 @@
     "checks": {
         "num_chars": true,
         "timestamp": false,
-        "valid": 0.0,
-        "weight": false
+        "valid": 0.24747252747252751,
+        "weight": true
     },
     "closed": false,
-    "commenti": [],
-    "commenti_weight": 0,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": false,
+                "valid": 0.24747252747252751
+            },
+            "text": [
+                [
+                    "Lo schwa è quella vocale indefinita di cui parlava Leopardi...",
+                    "Scusate, sono sopra le righe e lo so, capirete. Ciao (la traccia era la mia). Ciao anche a @ITG (e già non tagga...)"
+                ],
+                [
+                    "Scusate di nuovo, torno con meno malumore indosso.",
+                    "(a parte che mi sembrava di avere messo anche un altro commento, e che e mi avessero risposto; boh! anche il software si è offeso, allora?)",
+                    "La poesia è graziosa e non fa risparmio di rime (questo a mio avviso la rende molto",
+                    "e non scherzo!)",
+                    "Comincia con un endecasillabo, ma poi alterna decasillabi, novenari, ottonari, settenari (c'è anche un martelliano, o alessandrino) senza un disegno preciso, e questo la rende a mio avviso \"scanzonata\" (in senso buono). Sulla presenza di iati si potrebbe discutere a lungo, ma non credo sia il caso di farlo qui.",
+                    "L'incontro inaspettato è quello della",
+                    "che effettivamente è una grande amica; si trova in tante lingue, e anche in alcuni dialetti italiani (soprattutto in area osco-sabellica), anche se in genere viene scritta diversamente.",
+                    "Mi sono un po' mancate le ä ö ü å ma le metterete, spero, nel racconto lungo (ad esempio ambientandolo in Germania e in Svezia).",
+                    "Mi sarebbe piaciuto capire se le \"connessioni\" sono \"gratuite\" (cioè non hanno significato speciale) o se invece sono io che non le ho capite. Come:",
+                    "anche se \"sedute un po' in disparte\" sarà sicuramente per la loro minore frequenza.",
+                    "Certamente la ə è un incontro inaspettato (e per me gradito!).",
+                    "O ragazzi, spero che questo commento vi sia piaciuto; del resto, io sono così, e il primo di gennaio seguente a una morte annunciata (o all'annuncio della morte, o annuncio mortuario) ognuno ha le allucinazioni che si merita. Ciao"
+                ]
+            ],
+            "timestamp": "2020-12-31T15:59:26Z",
+            "title": "[N20-2] ə",
+            "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880209",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
     "expected_weight": 1,
     "forum": {
         "forum_id": 28,
@@ -26,7 +57,7 @@
         "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 1061,
-    "num_commenti": 0,
+    "num_commenti": 1,
     "num_posts": 1,
     "post_after": [],
     "post_staff": [],

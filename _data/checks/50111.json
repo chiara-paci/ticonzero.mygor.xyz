@@ -27,7 +27,7 @@
     },
     "num_chars": 46,
     "num_commenti": 0,
-    "num_posts": 18,
+    "num_posts": 24,
     "post_after": [
         {
             "post_id": 879648,
@@ -76,6 +76,30 @@
             ],
             "timestamp": "2020-12-30T10:30:53Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=879831"
+        },
+        {
+            "post_id": 880172,
+            "text": [
+                "Grazie, sei gentilissima!"
+            ],
+            "timestamp": "2020-12-31T13:33:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880172"
+        },
+        {
+            "post_id": 880380,
+            "text": [
+                "Grazie , è proprio così!"
+            ],
+            "timestamp": "2021-01-01T17:45:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880380"
+        },
+        {
+            "post_id": 880464,
+            "text": [
+                "Ti ringrazio tantissimo!"
+            ],
+            "timestamp": "2021-01-02T09:28:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880464"
         }
     ],
     "post_staff": [],

@@ -27,8 +27,18 @@
     },
     "num_chars": 549,
     "num_commenti": 0,
-    "num_posts": 9,
-    "post_after": [],
+    "num_posts": 12,
+    "post_after": [
+        {
+            "post_id": 880461,
+            "text": [
+                "Volevo ringraziare tutti per i commenti e precisare che la grafica appare diversa se si consulta la poesia da dispositivo mobile o da computer.",
+                "grazie infinite per il vostro passaggio e apprezzamento."
+            ],
+            "timestamp": "2021-01-02T09:19:11Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50116-n20-2-oggi-come-ieri//?do=findComment&comment=880461"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia n° 7",

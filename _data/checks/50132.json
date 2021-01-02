@@ -27,9 +27,86 @@
     },
     "num_chars": 1272,
     "num_commenti": 0,
-    "num_posts": 2,
-    "post_after": [],
-    "post_staff": [],
+    "num_posts": 17,
+    "post_after": [
+        {
+            "post_id": 880208,
+            "text": [
+                "Ragazzi, abbiate pazienza e diteci pure tutto quello che non va. Io e davvero non ne sappiamo una sega bucata di poesia. Un po' come se ci chiedessero di scrivere un racconto comico.",
+                "Ad esempio, mi pare evidente che non si capisca di cosa abbiamo voluto parlare.",
+                "Non ultimo, mi prendo il 90% della colpa di questo coso che è uscito.",
+                "grazie infinite dei vostri pareri."
+            ],
+            "timestamp": "2020-12-31T15:59:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880208"
+        },
+        {
+            "post_id": 880213,
+            "text": [
+                "No, l'idea è nata prima della notizia e il soggetto nelle intenzioni voleva essere un qualunque dispositivo elettronico superato, tipo un vecchio computer.",
+                "Grazie del tuo parere."
+            ],
+            "timestamp": "2020-12-31T16:09:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880213"
+        },
+        {
+            "post_id": 880295,
+            "text": [
+                "Ragazzi, davvero, grazie dei pareri ma se prende questa piega preferisco ritirarmi. Il WD che chiude non c’entra una sega e vi prego di non fare un processo alle intenzioni. Che ne ho abbastanza anch’io di tutta questa storia.",
+                "Se non sono riuscito a far capire che questo schifo che sono riuscito a comporre – come ben sapete senza mai aver fatto nulla di simile prima – parla di un qualunque dispositivo elettronico fisico caduto in disuso, la colpa è mia e della mia incapacità.",
+                "Ma vi prego di credermi se vi dico che non c’entra niente il WD altrimenti, ribadisco, si tratta di un mero processo alle intenzioni."
+            ],
+            "timestamp": "2021-01-01T10:53:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880295"
+        }
+    ],
+    "post_staff": [
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 880208,
+            "text": [
+                "Ragazzi, abbiate pazienza e diteci pure tutto quello che non va. Io e davvero non ne sappiamo una sega bucata di poesia. Un po' come se ci chiedessero di scrivere un racconto comico.",
+                "Ad esempio, mi pare evidente che non si capisca di cosa abbiamo voluto parlare.",
+                "Non ultimo, mi prendo il 90% della colpa di questo coso che è uscito.",
+                "grazie infinite dei vostri pareri."
+            ],
+            "timestamp": "2020-12-31T15:59:25Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880208"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 880213,
+            "text": [
+                "No, l'idea è nata prima della notizia e il soggetto nelle intenzioni voleva essere un qualunque dispositivo elettronico superato, tipo un vecchio computer.",
+                "Grazie del tuo parere."
+            ],
+            "timestamp": "2020-12-31T16:09:40Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880213"
+        },
+        {
+            "author": {
+                "author_id": 24195,
+                "name": "AdStr",
+                "url": "https://www.writersdream.org/forum/profile/24195-adstr/"
+            },
+            "post_id": 880295,
+            "text": [
+                "Ragazzi, davvero, grazie dei pareri ma se prende questa piega preferisco ritirarmi. Il WD che chiude non c’entra una sega e vi prego di non fare un processo alle intenzioni. Che ne ho abbastanza anch’io di tutta questa storia.",
+                "Se non sono riuscito a far capire che questo schifo che sono riuscito a comporre – come ben sapete senza mai aver fatto nulla di simile prima – parla di un qualunque dispositivo elettronico fisico caduto in disuso, la colpa è mia e della mia incapacità.",
+                "Ma vi prego di credermi se vi dico che non c’entra niente il WD altrimenti, ribadisco, si tratta di un mero processo alle intenzioni."
+            ],
+            "timestamp": "2021-01-01T10:53:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50132-n20-2-cera-vita//?do=findComment&comment=880295"
+        }
+    ],
     "text": [
         "Quello che non è poesia. Si leggono spesso, troppo spesso, poesie sull'amore, sulla felicità e sul dolore, poesie intimiste, di riflessione sul ruolo dell'uomo nel mondo... Be' è il momento di dire basta. Per questa volta, la poesia dovrà avere per tema 'ciò che di solito non è usato per fare poesia'. Voglio leggere una poesia sulla defecazione e sull'incontinenza, o sui canali YouTube, sui profili Facebook e su TikTok. Voglio leggere una poesia che parli dello sporco tra le dita dei piedi o di quanto sia brutto dover andare dal dentista. Voglio una poesia su qualcosa che di solito viene escluso dalle poesie. Mi raccomando: deve essere il tema principale della poesia, non basta che 'l'argomento scomodo' sia usato per metafora. Tutta la poesia deve reggersi su di esso.",
         "Boa: proibito il genere comico.",

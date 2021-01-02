@@ -25,14 +25,39 @@
         "title": "Contest aperti",
         "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
     },
-    "num_chars": 481,
+    "num_chars": 485,
     "num_commenti": 0,
-    "num_posts": 1,
-    "post_after": [],
+    "num_posts": 16,
+    "post_after": [
+        {
+            "post_id": 880205,
+            "text": [
+                "Grazie a entrambe abbiamo voluto osare e scrivere la poesia più moderna che potessimo"
+            ],
+            "timestamp": "2020-12-31T15:39:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880205"
+        },
+        {
+            "post_id": 880479,
+            "text": [
+                "Grazie a tutti per il passaggio e il commento! Felice che vi sia piaciuta molto"
+            ],
+            "timestamp": "2021-01-02T10:34:01Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880479"
+        },
+        {
+            "post_id": 880481,
+            "text": [
+                "Questa me la tatuo, in particolare. Rodari è un dio a cui cerco di tendere da quando alle elementari la mia maestra me lo fece scoprire e non se ne è più andato dalla mia testa"
+            ],
+            "timestamp": "2021-01-02T10:35:08Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880481"
+        }
+    ],
     "post_staff": [],
     "text": [
         "Traccia: un incontro inaspettato",
-        "Questa sera un'uscita fra vocali",
+        "Questa﻿ sera un'uscita fra vocali",
         "A e O sposati e clericali",
         "Lei casalinga inossidabile",
         "Lui lavoratore infaticabile",
@@ -42,12 +67,12 @@
         "Ci fu pluralità di stimoli",
         "Infine U e Y sedute un po' in disparte",
         "La prima confonde articoli",
-        "La seconda nata agli antipodi",
+        "La seconda nata agli antipodi﻿",
         "Si amano, ma mancano le carte",
         "Attenzione però! Facce sorprese",
         "Unə si è sedutə a capotavola",
-        "E sorride a più riprese",
-        "\"Saremo grandi amicə! Staremo una favola!\""
+        "E sorride a più riprese﻿",
+        "\"Saremo grandə amicə! Staremo una favola!\"﻿"
     ],
     "timestamp": "2020-12-31T10:46:47Z",
     "title": "[N20-2] ə",
