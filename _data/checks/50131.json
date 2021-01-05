@@ -27,7 +27,7 @@
     },
     "num_chars": 485,
     "num_commenti": 0,
-    "num_posts": 16,
+    "num_posts": 21,
     "post_after": [
         {
             "post_id": 880205,
@@ -52,6 +52,14 @@
             ],
             "timestamp": "2021-01-02T10:35:08Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880481"
+        },
+        {
+            "post_id": 880815,
+            "text": [
+                "Grazie a tutti per il passaggio e per il commento! Felice che vi sia piaciuto l'esperimento"
+            ],
+            "timestamp": "2021-01-03T21:54:23Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50131-n20-2-%C9%99//?do=findComment&comment=880815"
         }
     ],
     "post_staff": [],

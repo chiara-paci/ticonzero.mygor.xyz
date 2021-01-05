@@ -27,7 +27,7 @@
     },
     "num_chars": 46,
     "num_commenti": 0,
-    "num_posts": 24,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 879648,
@@ -100,6 +100,23 @@
             ],
             "timestamp": "2021-01-02T09:28:40Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880464"
+        },
+        {
+            "post_id": 880715,
+            "text": [
+                "Grazie per essere passato",
+                "Ebbene lo confesso, la carpa mi sembrava tanto più elegante e giapponese rispetto alla trota che mi era venuta in mente per prima."
+            ],
+            "timestamp": "2021-01-03T14:21:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880715"
+        },
+        {
+            "post_id": 880768,
+            "text": [
+                "Non posso far altro che ringraziare: deve essere l fortuna della principiante, dato che io non ho mai scritto poesie e la mia esperienza é pari a zero."
+            ],
+            "timestamp": "2021-01-03T17:56:43Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50111-n20-2-haiku//?do=findComment&comment=880768"
         }
     ],
     "post_staff": [],

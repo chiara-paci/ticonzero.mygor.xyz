@@ -27,7 +27,7 @@
     },
     "num_chars": 486,
     "num_commenti": 0,
-    "num_posts": 24,
+    "num_posts": 29,
     "post_after": [
         {
             "post_id": 879573,
@@ -130,6 +130,23 @@
             ],
             "timestamp": "2020-12-30T20:20:30Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=879971"
+        },
+        {
+            "post_id": 880513,
+            "text": [
+                "Grazie! Mi piacerebbe che fosse di buon augurio per il WD, che dopo che qualcuno l'ha spento, tutti ci mettiamo d'impegno a riaccenderlo!"
+            ],
+            "timestamp": "2021-01-02T12:04:30Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=880513"
+        },
+        {
+            "post_id": 880514,
+            "text": [
+                "Grazie anche a te",
+                "Abbiamo tutti bisogno di un posto per raccoglierci insieme al caldo!"
+            ],
+            "timestamp": "2021-01-02T12:06:33Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50103-n20-2-il-focolare//?do=findComment&comment=880514"
         }
     ],
     "post_staff": [],

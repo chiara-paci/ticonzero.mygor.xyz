@@ -27,7 +27,7 @@
     },
     "num_chars": 1104,
     "num_commenti": 0,
-    "num_posts": 24,
+    "num_posts": 31,
     "post_after": [
         {
             "post_id": 879828,
@@ -163,6 +163,44 @@
             ],
             "timestamp": "2021-01-02T11:37:23Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=880503"
+        },
+        {
+            "post_id": 880504,
+            "text": [
+                "ciao.",
+                "Io di poesia non ne so niente, non la conosco, non la leggo, ma questo lo prenderò come un grande e prezioso insegnamento. È solo il 2 dell'anno e io ho già imparato una cosa importante, per cui... Grazie.",
+                "Non so che dire... grazie, mille volte grazie."
+            ],
+            "timestamp": "2021-01-02T11:44:07Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=880504"
+        },
+        {
+            "post_id": 880646,
+            "text": [
+                "Lo so"
+            ],
+            "timestamp": "2021-01-02T23:12:22Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=880646"
+        },
+        {
+            "post_id": 880647,
+            "text": [
+                "Cara",
+                "Mah, di imparare, ad esempio",
+                "Grazie per essere passata di qua."
+            ],
+            "timestamp": "2021-01-02T23:14:37Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=880647"
+        },
+        {
+            "post_id": 880843,
+            "text": [
+                "Cara",
+                "grazie mille, temevo di non essere riuscita bene nell'intento.",
+                "Buonanotte e alla prossima."
+            ],
+            "timestamp": "2021-01-04T00:48:18Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50120-n20-2-fatti-di-niente//?do=findComment&comment=880843"
         }
     ],
     "post_staff": [],

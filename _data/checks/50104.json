@@ -27,7 +27,7 @@
     },
     "num_chars": 881,
     "num_commenti": 0,
-    "num_posts": 15,
+    "num_posts": 20,
     "post_after": [
         {
             "post_id": 879726,
@@ -69,6 +69,14 @@
             ],
             "timestamp": "2020-12-30T22:23:35Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50104-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%C2%A0la-pazza-%C3%A8-di-nuovo-a-piede-libero//?do=findComment&comment=880019"
+        },
+        {
+            "post_id": 880656,
+            "text": [
+                ", , grazie a voi per le vostre gentili parole."
+            ],
+            "timestamp": "2021-01-02T23:49:56Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50104-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%C2%A0la-pazza-%C3%A8-di-nuovo-a-piede-libero//?do=findComment&comment=880656"
         }
     ],
     "post_staff": [],

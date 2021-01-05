@@ -27,7 +27,7 @@
     },
     "num_chars": 297,
     "num_commenti": 0,
-    "num_posts": 14,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 880202,
@@ -47,6 +47,25 @@
             ],
             "timestamp": "2020-12-31T20:36:17Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50127-n20-2-cenere//?do=findComment&comment=880247"
+        },
+        {
+            "post_id": 880621,
+            "text": [
+                "Tra tutti mi avete fatto capire almeno una cosa: meglio abbandonare la strada della poesia per altre più praticabili (tipo l'ippica )",
+                "Molte grazie comunque a e per le vostre impressioni, che mi saranno utili nel caso sciagurato che decida di proseguire imperterrita e tentare di migliorare"
+            ],
+            "timestamp": "2021-01-02T19:48:34Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50127-n20-2-cenere//?do=findComment&comment=880621"
+        },
+        {
+            "post_id": 880645,
+            "text": [
+                "Grazie. Facevo solo un po' d'ironia sulla mia scarsa comprensione della poesia in genere.",
+                "Avete ragione, si poteva benissimo togliere.",
+                "Grazie anche a te per il passaggio,"
+            ],
+            "timestamp": "2021-01-02T23:12:20Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50127-n20-2-cenere//?do=findComment&comment=880645"
         }
     ],
     "post_staff": [],
