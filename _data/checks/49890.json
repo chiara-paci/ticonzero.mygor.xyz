@@ -20,23 +20,18 @@
     "commenti": [
         {
             "checks": {
-                "timestamp": false,
-                "valid": 0.657912087912088
+                "timestamp": true,
+                "valid": 0.6777777777777778
             },
             "text": [
                 [
-                    "Gli snellimenti sono interessanti, io stesso preferisco uno stile asciutto. Ti rispondo a un paio di cose:",
-                    "- Sullo scrollare la testa appena sveglia hai ragione. Diciamo che l'avevo inteso come quello scrollare di testa vigoroso di chi è confuso",
-                    "- Il nomignolo Padre l'ho scelto perché definisce una simpatica riverenza fuori epoca. Chiamandolo così lei gli esprime rispetto ma in maniera leggera e ironica. Per spiegarmi meglio, l'ispirazione mi è venuta da una mia ex collega che usava chiamare ironicamente la mamma Madre , scimmiottando Jean-Claude di Sensualità a Corte",
-                    "Grazie mille per consigli e osservazioni, e ti invito a leggere anche i capitoli successivi se ti va, mi sarebbe utilissimo!"
-                ],
-                [
-                    "mi scordo sempre di taggare"
+                    "Ciao!",
+                    "A me è piaciuto abbastanza. Letterariamente non è la perfezione ma essendo rivolto all'infanzia non è la priorità. C'è semplicità sia nella storia che nei dialoghi che nei personaggi e una giusta dose di fantasia. Un po' rielaborata e sistemata non sfigurerebbe in una raccolta di fiabe per bimbi. Tra l'altro io coi vari \"Ti racconto\", \"I raccontastorie\", le \"Fiabe sonore\" ecc. ci sono cresciuto, ho passato ore e ore a seguire le favole in cassetta col fascicolo illustrato Personalmente ho una reazione, nei confronti delle scene di bambini che fanno i capricci, che non saprei bene definire. Forse un contrasto tra il pensiero che non siano stato educati bene e quello che in fondo sono solo bambini."
                 ]
             ],
-            "timestamp": "2020-12-15T11:41:12Z",
-            "title": "Padre - Capitolo 1",
-            "url": "https://www.writersdream.org/forum/forums/topic/49841-padre-capitolo-1//?do=findComment&comment=876899",
+            "timestamp": "2020-12-12T10:51:07Z",
+            "title": "Dolcetto o scherzetto?",
+            "url": "https://www.writersdream.org/forum/forums/topic/49434-dolcetto-o-scherzetto//?do=findComment&comment=876277",
             "weight": 1
         },
         {
@@ -87,6 +82,27 @@
         {
             "checks": {
                 "timestamp": false,
+                "valid": 0.657912087912088
+            },
+            "text": [
+                [
+                    "Gli snellimenti sono interessanti, io stesso preferisco uno stile asciutto. Ti rispondo a un paio di cose:",
+                    "- Sullo scrollare la testa appena sveglia hai ragione. Diciamo che l'avevo inteso come quello scrollare di testa vigoroso di chi è confuso",
+                    "- Il nomignolo Padre l'ho scelto perché definisce una simpatica riverenza fuori epoca. Chiamandolo così lei gli esprime rispetto ma in maniera leggera e ironica. Per spiegarmi meglio, l'ispirazione mi è venuta da una mia ex collega che usava chiamare ironicamente la mamma Madre , scimmiottando Jean-Claude di Sensualità a Corte",
+                    "Grazie mille per consigli e osservazioni, e ti invito a leggere anche i capitoli successivi se ti va, mi sarebbe utilissimo!"
+                ],
+                [
+                    "mi scordo sempre di taggare"
+                ]
+            ],
+            "timestamp": "2020-12-15T11:41:12Z",
+            "title": "Padre - Capitolo 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/49841-padre-capitolo-1//?do=findComment&comment=876899",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
                 "valid": 1
             },
             "text": [
@@ -119,22 +135,6 @@
             "timestamp": "2020-12-10T14:11:27Z",
             "title": "Padre - Capitolo 2 (parte 2 di 3)",
             "url": "https://www.writersdream.org/forum/forums/topic/49866-padre-capitolo-2-parte-2-di-3//?do=findComment&comment=875988",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.6777777777777778
-            },
-            "text": [
-                [
-                    "Ciao!",
-                    "A me è piaciuto abbastanza. Letterariamente non è la perfezione ma essendo rivolto all'infanzia non è la priorità. C'è semplicità sia nella storia che nei dialoghi che nei personaggi e una giusta dose di fantasia. Un po' rielaborata e sistemata non sfigurerebbe in una raccolta di fiabe per bimbi. Tra l'altro io coi vari \"Ti racconto\", \"I raccontastorie\", le \"Fiabe sonore\" ecc. ci sono cresciuto, ho passato ore e ore a seguire le favole in cassetta col fascicolo illustrato Personalmente ho una reazione, nei confronti delle scene di bambini che fanno i capricci, che non saprei bene definire. Forse un contrasto tra il pensiero che non siano stato educati bene e quello che in fondo sono solo bambini."
-                ]
-            ],
-            "timestamp": "2020-12-12T10:51:07Z",
-            "title": "Dolcetto o scherzetto?",
-            "url": "https://www.writersdream.org/forum/forums/topic/49434-dolcetto-o-scherzetto//?do=findComment&comment=876277",
             "weight": 1
         }
     ],
