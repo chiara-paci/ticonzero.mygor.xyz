@@ -41,6 +41,22 @@
         },
         {
             "checks": {
+                "timestamp": true,
+                "valid": 0.6777777777777778
+            },
+            "text": [
+                [
+                    "Ciao!",
+                    "A me è piaciuto abbastanza. Letterariamente non è la perfezione ma essendo rivolto all'infanzia non è la priorità. C'è semplicità sia nella storia che nei dialoghi che nei personaggi e una giusta dose di fantasia. Un po' rielaborata e sistemata non sfigurerebbe in una raccolta di fiabe per bimbi. Tra l'altro io coi vari \"Ti racconto\", \"I raccontastorie\", le \"Fiabe sonore\" ecc. ci sono cresciuto, ho passato ore e ore a seguire le favole in cassetta col fascicolo illustrato Personalmente ho una reazione, nei confronti delle scene di bambini che fanno i capricci, che non saprei bene definire. Forse un contrasto tra il pensiero che non siano stato educati bene e quello che in fondo sono solo bambini."
+                ]
+            ],
+            "timestamp": "2020-12-12T10:51:07Z",
+            "title": "Dolcetto o scherzetto?",
+            "url": "https://www.writersdream.org/forum/forums/topic/49434-dolcetto-o-scherzetto//?do=findComment&comment=876277",
+            "weight": 1
+        },
+        {
+            "checks": {
                 "timestamp": false,
                 "valid": 1
             },
@@ -82,22 +98,6 @@
             "timestamp": "2020-12-11T12:00:42Z",
             "title": "Padre - Capitolo 2 (parte 3 di 3)",
             "url": "https://www.writersdream.org/forum/forums/topic/49884-padre-capitolo-2-parte-3-di-3//?do=findComment&comment=876121",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.6777777777777778
-            },
-            "text": [
-                [
-                    "Ciao!",
-                    "A me è piaciuto abbastanza. Letterariamente non è la perfezione ma essendo rivolto all'infanzia non è la priorità. C'è semplicità sia nella storia che nei dialoghi che nei personaggi e una giusta dose di fantasia. Un po' rielaborata e sistemata non sfigurerebbe in una raccolta di fiabe per bimbi. Tra l'altro io coi vari \"Ti racconto\", \"I raccontastorie\", le \"Fiabe sonore\" ecc. ci sono cresciuto, ho passato ore e ore a seguire le favole in cassetta col fascicolo illustrato Personalmente ho una reazione, nei confronti delle scene di bambini che fanno i capricci, che non saprei bene definire. Forse un contrasto tra il pensiero che non siano stato educati bene e quello che in fondo sono solo bambini."
-                ]
-            ],
-            "timestamp": "2020-12-12T10:51:07Z",
-            "title": "Dolcetto o scherzetto?",
-            "url": "https://www.writersdream.org/forum/forums/topic/49434-dolcetto-o-scherzetto//?do=findComment&comment=876277",
             "weight": 1
         }
     ],
