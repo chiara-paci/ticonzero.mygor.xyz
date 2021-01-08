@@ -21,6 +21,44 @@
         {
             "checks": {
                 "timestamp": false,
+                "valid": 0.657912087912088
+            },
+            "text": [
+                [
+                    "Gli snellimenti sono interessanti, io stesso preferisco uno stile asciutto. Ti rispondo a un paio di cose:",
+                    "- Sullo scrollare la testa appena sveglia hai ragione. Diciamo che l'avevo inteso come quello scrollare di testa vigoroso di chi è confuso",
+                    "- Il nomignolo Padre l'ho scelto perché definisce una simpatica riverenza fuori epoca. Chiamandolo così lei gli esprime rispetto ma in maniera leggera e ironica. Per spiegarmi meglio, l'ispirazione mi è venuta da una mia ex collega che usava chiamare ironicamente la mamma Madre , scimmiottando Jean-Claude di Sensualità a Corte",
+                    "Grazie mille per consigli e osservazioni, e ti invito a leggere anche i capitoli successivi se ti va, mi sarebbe utilissimo!"
+                ],
+                [
+                    "mi scordo sempre di taggare"
+                ]
+            ],
+            "timestamp": "2020-12-15T11:41:12Z",
+            "title": "Padre - Capitolo 1",
+            "url": "https://www.writersdream.org/forum/forums/topic/49841-padre-capitolo-1//?do=findComment&comment=876899",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 0.7355555555555555
+            },
+            "text": [
+                [
+                    "Ciao!",
+                    "Non ho letto la versione precedente, ma se è stato fatto un editing vedo ancora qualche piccola imprecisione qui e là (es. \"...PER un preventivo PER ristrutturare...\" all'inizio), credo valga la pena di rivederlo ancora una volta, ma comunque di sicuro c'è poco da correggere.",
+                    "La storia è sicuramente toccante, non è una cosa con cui tutti fanno i conti ma può succedere e, per quanto appunto non sia una vicenda particolarmente originale, è ben narrata. Di certo nella parte iniziale la tensione è retta dalla scoperta della figlia e quindi dai dubbi su cosa accadrà. Alla fine il lettore scopre che invece non è in arrivo alcuna rivoluzione nelle vite dei personaggi e anzi, per qualcuno non c'è niente di nuovo, ma non l'ho percepita come una \"delusione\"."
+                ]
+            ],
+            "timestamp": "2020-12-11T10:48:30Z",
+            "title": "Miraggi - editato",
+            "url": "https://www.writersdream.org/forum/forums/topic/49295-miraggi-editato//?do=findComment&comment=876109",
+            "weight": 1
+        },
+        {
+            "checks": {
+                "timestamp": false,
                 "valid": 1
             },
             "text": [
@@ -53,44 +91,6 @@
             "timestamp": "2020-12-10T14:11:27Z",
             "title": "Padre - Capitolo 2 (parte 2 di 3)",
             "url": "https://www.writersdream.org/forum/forums/topic/49866-padre-capitolo-2-parte-2-di-3//?do=findComment&comment=875988",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": true,
-                "valid": 0.7355555555555555
-            },
-            "text": [
-                [
-                    "Ciao!",
-                    "Non ho letto la versione precedente, ma se è stato fatto un editing vedo ancora qualche piccola imprecisione qui e là (es. \"...PER un preventivo PER ristrutturare...\" all'inizio), credo valga la pena di rivederlo ancora una volta, ma comunque di sicuro c'è poco da correggere.",
-                    "La storia è sicuramente toccante, non è una cosa con cui tutti fanno i conti ma può succedere e, per quanto appunto non sia una vicenda particolarmente originale, è ben narrata. Di certo nella parte iniziale la tensione è retta dalla scoperta della figlia e quindi dai dubbi su cosa accadrà. Alla fine il lettore scopre che invece non è in arrivo alcuna rivoluzione nelle vite dei personaggi e anzi, per qualcuno non c'è niente di nuovo, ma non l'ho percepita come una \"delusione\"."
-                ]
-            ],
-            "timestamp": "2020-12-11T10:48:30Z",
-            "title": "Miraggi - editato",
-            "url": "https://www.writersdream.org/forum/forums/topic/49295-miraggi-editato//?do=findComment&comment=876109",
-            "weight": 1
-        },
-        {
-            "checks": {
-                "timestamp": false,
-                "valid": 0.657912087912088
-            },
-            "text": [
-                [
-                    "Gli snellimenti sono interessanti, io stesso preferisco uno stile asciutto. Ti rispondo a un paio di cose:",
-                    "- Sullo scrollare la testa appena sveglia hai ragione. Diciamo che l'avevo inteso come quello scrollare di testa vigoroso di chi è confuso",
-                    "- Il nomignolo Padre l'ho scelto perché definisce una simpatica riverenza fuori epoca. Chiamandolo così lei gli esprime rispetto ma in maniera leggera e ironica. Per spiegarmi meglio, l'ispirazione mi è venuta da una mia ex collega che usava chiamare ironicamente la mamma Madre , scimmiottando Jean-Claude di Sensualità a Corte",
-                    "Grazie mille per consigli e osservazioni, e ti invito a leggere anche i capitoli successivi se ti va, mi sarebbe utilissimo!"
-                ],
-                [
-                    "mi scordo sempre di taggare"
-                ]
-            ],
-            "timestamp": "2020-12-15T11:41:12Z",
-            "title": "Padre - Capitolo 1",
-            "url": "https://www.writersdream.org/forum/forums/topic/49841-padre-capitolo-1//?do=findComment&comment=876899",
             "weight": 1
         }
     ],
