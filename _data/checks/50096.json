@@ -2,10 +2,10 @@
     "author": {
         "author_id": 28093,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
             "narrativa": 0,
-            "poesia": 0
+            "poesia": 1
         },
         "name": "Edu",
         "url": "https://www.writersdream.org/forum/profile/28093-edu/"
@@ -21,9 +21,9 @@
     "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 664,
     "num_commenti": 0,

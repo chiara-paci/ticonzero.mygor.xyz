@@ -1,0 +1,74 @@
+{
+    "author": {
+        "author_id": 33047,
+        "checks": {
+            "contest": 0,
+            "flag": true,
+            "narrativa": 0,
+            "poesia": 1
+        },
+        "name": "Stefano Verrengia",
+        "url": "https://www.writersdream.org/forum/profile/33047-stefano-verrengia/"
+    },
+    "checks": {
+        "num_chars": true,
+        "timestamp": true,
+        "valid": 1.0,
+        "weight": true
+    },
+    "closed": false,
+    "commenti": [
+        {
+            "checks": {
+                "timestamp": true,
+                "valid": 1
+            },
+            "text": [
+                [
+                    "Ciao Monica, trovo interessante questo tuo componimento sotto vari aspetti. Innanzitutto, è un componimento \"senza pretese\": nasce come descrittivo e muore come descrittivo. Nessuna forzatura retorica, nessun arzigogolamento metrico. Racconti del pullulare della vita fino all'imbrunire (e oltre). In tutta l'opera vi è un tema comune, che è il tema del tramontare. Alcuni passaggi sono efficaci, altri meno. Ad esempio, trovo superflua e anacronistica l'apocope utilizzata nel terzo verso. Sto parlando del \"chiacchierar\" delle vedove al tavolino. Sembra gettata lì un po' a caso, come se, semplicemente, \"ti suonasse meglio\". Per il testo, è veramente un quadro che lascia spaziare il lettore da immagini e profumi della proprio quotidiana mondanità o, per dir meglio, socialità. Ritrae molto bene la vita cittadina fatta da piacevole ronzio, rumore, frizzante voglia di vita. Decisamente efficace la chiusa: rimasugli di vita all'imbrunire. Racchiude con potenza immaginifica e metaforica un componimento, fino a quel verso, senza \"pretese retoriche\". Complimenti, ho apprezzato il tuo stile."
+                ]
+            ],
+            "timestamp": "2021-01-09T11:35:59Z",
+            "title": "All’imbrunire",
+            "url": "https://www.writersdream.org/forum/forums/topic/49013-all%E2%80%99imbrunire//?do=findComment&comment=881529",
+            "weight": 1
+        }
+    ],
+    "commenti_weight": 1,
+    "expected_weight": 1,
+    "forum": {
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
+    },
+    "num_chars": 500,
+    "num_commenti": 1,
+    "num_posts": 1,
+    "post_after": [],
+    "post_staff": [],
+    "text": [
+        "IL PESCATORE",
+        "Guardo quel vecchio canuto,",
+        "con la pipa che borbotta",
+        "e la coppola di feltro scolorita.",
+        "M'incuriosisce l'odore di cognac",
+        "già di prima mattina, il fumo",
+        "che svapora nelle parole",
+        "sussurrate al mare.",
+        "La lenza è tesa, vibra a volte",
+        "come la corda di una chitarra",
+        "pizzicata da dita delicate.",
+        "Mi avvicino passeggiando",
+        "come se nulla fosse,",
+        "come se passassi da lì per caso.",
+        "Guardo nel secchio per vedere",
+        "se ha preso qualche pesce.",
+        "Nulla, solo il sole che guizza",
+        "nell'acqua, solo il tremolio",
+        "del vento che l'increspa."
+    ],
+    "timestamp": "2021-01-09T11:41:01Z",
+    "title": "Il pescatore",
+    "topic_id": 50205,
+    "url": "https://www.writersdream.org/forum/forums/topic/50205-il-pescatore/"
+}

@@ -2,10 +2,10 @@
     "author": {
         "author_id": 27106,
         "checks": {
-            "contest": 1,
+            "contest": 0,
             "flag": true,
             "narrativa": 0,
-            "poesia": 0
+            "poesia": 1
         },
         "name": "Ippolita2018",
         "url": "https://www.writersdream.org/forum/profile/27106-ippolita2018/"
@@ -21,13 +21,13 @@
     "commenti_weight": 0,
     "expected_weight": 1,
     "forum": {
-        "forum_id": 145,
-        "title": "Contest aperti",
-        "url": "https://www.writersdream.org/forum/forums/forum/145-contest-aperti/"
+        "forum_id": 28,
+        "title": "Poesia",
+        "url": "https://www.writersdream.org/forum/forums/forum/28-poesia/"
     },
     "num_chars": 881,
     "num_commenti": 0,
-    "num_posts": 20,
+    "num_posts": 22,
     "post_after": [
         {
             "post_id": 879726,
@@ -77,6 +77,14 @@
             ],
             "timestamp": "2021-01-02T23:49:56Z",
             "url": "https://www.writersdream.org/forum/forums/topic/50104-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%C2%A0la-pazza-%C3%A8-di-nuovo-a-piede-libero//?do=findComment&comment=880656"
+        },
+        {
+            "post_id": 881553,
+            "text": [
+                ", , , : grazie mille."
+            ],
+            "timestamp": "2021-01-09T13:49:00Z",
+            "url": "https://www.writersdream.org/forum/forums/topic/50104-n20-2%EF%BB%BF%EF%BB%BF%EF%BB%BF%C2%A0la-pazza-%C3%A8-di-nuovo-a-piede-libero//?do=findComment&comment=881553"
         }
     ],
     "post_staff": [],
